@@ -1,0 +1,636 @@
+{
+ "chunk": "E110",
+ "scene": "59",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S214",
+  "S215"
+ ],
+ "prev": "E109",
+ "next": "E111",
+ "todo": [],
+ "rows": [
+  {
+   "id": "59:068c",
+   "op": "text",
+   "en": "I'm Tomoharu Hosoda, a second-year.\nYou're {a}, right?\nBefore we start, I have a favor to ask.\nI'd like you to keep my name out of the article.\nIf you can't promise me that, I can't tell this story.\nOkay?{p}Will you keep me anonymous?\n"
+  },
+  {
+   "id": "59:0750",
+   "op": "choice",
+   "en": "Keep him anonymous"
+  },
+  {
+   "id": "59:075c",
+   "op": "choice",
+   "en": "Publish his name"
+  },
+  {
+   "id": "59:0768",
+   "op": "choice",
+   "en": "Secretly name him in the article"
+  },
+  {
+   "id": "59:0784",
+   "op": "text",
+   "en": "Good, I'm glad.\nThen I'll talk.\nFirst, let me ask all of you something.{p}",
+   "follows_choice": [
+    "59:0750"
+   ]
+  },
+  {
+   "id": "59:07d8",
+   "op": "text",
+   "en": "Has anyone here ever explored the forbidden space in our school?\n...Looks like nobody's raising a hand.\nWell, I guess that's only natural.\nThat place is really bad news.\nHuh? Which place am I talking about?\nThat would be.....................a toilet.\nAnd not just any toilet.{p}"
+  },
+  {
+   "id": "59:08f4",
+   "op": "text",
+   "en": "It's the toilet that won't flush.{p}"
+  },
+  {
+   "id": "59:0928",
+   "op": "text",
+   "en": "Well...?\nJust hearing that, you can imagine how terrifying this toilet is.\nYou rush into a stall in a hurry.\nAnd then, once you've finished your business, the toilet won't flush...\nThat kind of panic is like nothing else, right?\nIt must feel exactly like seeing heaven and hell all at once.{p}"
+  },
+  {
+   "id": "59:0a30",
+   "op": "text",
+   "en": "Actually, I'm the type who sees spirits pretty easily.\nSo Hino was always asking me.\nHe wanted an article out of it, so he really wanted me to go do a report on the forbidden restroom.{p}"
+  },
+  {
+   "id": "59:0adc",
+   "op": "text",
+   "en": "That restroom is pretty famous, you know.\nIt's claimed a lot of victims in the past.\nMost people who go in there end up feeling sick and get sent to the nurse's office.\nAfter a while, once they're feeling better, they have to clean the toilet that won't flush themselves.\nWhy does everyone who uses that toilet get sick?\nAt first, I figured they felt sick from panicking when the toilet wouldn't flush.\nBut the reason wasn't that simple.{p}"
+  },
+  {
+   "id": "59:0c70",
+   "op": "text",
+   "en": "This was just the other day.\nHino came to me with his plan for this seven wonders meeting.\nHe said he wanted me to present that report on the forbidden restroom he'd been asking me for.\nHonestly, I wasn't too keen on it.\nA terrifying, unnatural aura always hung around that restroom.{p}"
+  },
+  {
+   "id": "59:0d88",
+   "op": "text",
+   "en": "Well, there are lots of ghost stories about restrooms, and plenty of restrooms have an aura.\nBut for some reason, that was the one restroom I didn't want to go to.\nAn aura that keeps you away... I guess you could call it that.\nI could feel it so strongly it hurt.\nBut the request came from none other than Hino.\nSo I decided to explore the forbidden restroom.\nOf course, before I went there, I made sure to do my business in a different restroom.\nI didn't want to become a victim of the toilet that won't flush.{p}"
+  },
+  {
+   "id": "59:0f4c",
+   "op": "text",
+   "en": "And so, one day after school, I went to the toilet that won't flush.\nIt was filled with an overwhelming aura.\nFirst, I peeked into the stalls one by one.\nOne of the toilets was giving off an especially strong aura.{p}"
+  },
+  {
+   "id": "59:100c",
+   "op": "text",
+   "en": "...I was sure that bowl was the toilet that won't flush.\nI searched the stall all over, but there was nothing especially suspicious.\nI could feel an overwhelming aura, but I couldn't tell where it was coming from.\nSo I decided to try squatting down over the toilet for a bit.\n...Sorry, it's a weird thing to talk about.\nSuddenly, I felt an overwhelming aura behind me.\nIt felt like someone was staring right at me.{p}"
+  },
+  {
+   "id": "59:1180",
+   "op": "text",
+   "en": "\"Who's there?\"\nI muttered it without thinking, but nobody answered me.{p}"
+  },
+  {
+   "id": "59:11e0",
+   "op": "text",
+   "en": "I stayed there with my head down for a while, feeling that aura.\n...I see. So this is how everyone ended up feeling sick.\nThat's what I thought right away.\nEven so, an aura that strong, and I couldn't see anything?\nI couldn't believe it.\nJust then, I suddenly heard a voice from behind me.\n\"Wrong...\"\nWhat was wrong?{p}"
+  },
+  {
+   "id": "59:1320",
+   "op": "text",
+   "en": "I turned around one more time.\nBut sure enough, there was nobody there.\n\"You can't see me, can you?\n...Nobody can.\"\nI heard a sad voice.\n\"And when I touch people, nobody notices.\nIt's the same with you, right?\n...See, I'm touching your shoulder right now.\nYou can't tell, can you?\"{p}"
+  },
+  {
+   "id": "59:145c",
+   "op": "text",
+   "en": "A chilly sensation spread across my shoulder.\n\"I-I can tell...\"\nThat's what I answered.\nSo there really was a ghost in the forbidden toilet that won't flush.\nI decided to find out more about this ghost.\n\"This aura hanging in the restroom is yours, isn't it?\nWhy are you giving off such a powerful aura?\"\n\"...I can't leave this place.\nMore importantly, I have to find that guy.\"\n\"What guy?\"\n\"I don't even know his name.\nI don't know his face, either.\nBut I have to find him...\"\n\"Then how are you supposed to find him?\"{p}"
+  },
+  {
+   "id": "59:164c",
+   "op": "text",
+   "en": "\"I have to find him...\"\nAfter saying that, the voice went silent.{p}"
+  },
+  {
+   "id": "59:16ac",
+   "op": "text",
+   "en": "The next day after school, I reported to Hino.\nI told him there was the ghost of a man in the forbidden restroom.\n\"That's amazing, Hosoda.\nYou've got to find out who that man really is.\nMan, I knew you'd pull it off.\"\n\"Yes, I'm heading to that restroom again today.\"\nHino looked really pleased.\nWith that much riding on me, there was no backing out now, right?{p}"
+  },
+  {
+   "id": "59:1804",
+   "op": "text",
+   "en": "Besides, the ghost in the forbidden restroom sounded so lonely.\nI thought maybe I wouldn't mind being his friend.\nI mean, he didn't seem like a bad guy.{p}{a}, do you think that's strange?\n"
+  },
+  {
+   "id": "59:18d4",
+   "op": "choice",
+   "en": "Yes, I do"
+  },
+  {
+   "id": "59:18dc",
+   "op": "choice",
+   "en": "No, I don't"
+  },
+  {
+   "id": "59:18f0",
+   "op": "text",
+   "en": "...Thank you.\nI think you and I could be good friends, too.{p}",
+   "follows_choice": [
+    "59:18dc"
+   ]
+  },
+  {
+   "id": "59:1940",
+   "op": "text",
+   "en": "I headed for the forbidden restroom.\nWhen I went into that stall, I heard the voice again.{p}"
+  },
+  {
+   "id": "59:19a0",
+   "op": "text",
+   "en": "\"Wrong...\"\nThe ghost said the same thing again.\n\"What exactly is wrong?\"\nWhen I asked, he said this:\n\"You're not the man I'm looking for...\"{p}"
+  },
+  {
+   "id": "59:1a48",
+   "op": "text",
+   "en": "\"A man? Who are you looking for?\"\n\"......\"\n\"Why are you looking for this man?\"\n\"I don't know. I don't know. I don't know anything...\"{p}"
+  },
+  {
+   "id": "59:1b08",
+   "op": "text",
+   "en": "Suddenly, the stall door flew open.\nA strong wind blew through the restroom.\nMy legs gave out from under me.\nI couldn't move for a while.{p}"
+  },
+  {
+   "id": "59:1b90",
+   "op": "text",
+   "en": "\"I don't know, I don't know, I don't know...\"\nThe ghost said it like it was tearing him apart.\nI couldn't bear it.\nI wanted so badly to help him.{p}"
+  },
+  {
+   "id": "59:1c2c",
+   "op": "text",
+   "en": "\"Hey, isn't it impossible to find someone when you don't know who they are?\"\nI shouted as hard as I could so the wind wouldn't drown me out.{p}"
+  },
+  {
+   "id": "59:1ca4",
+   "op": "text",
+   "en": "\"It's not impossible. I'll never forget the sight of his back...\"\nThat's what he said.{p}"
+  },
+  {
+   "id": "59:1d08",
+   "op": "text",
+   "en": "...So here's what it came down to.\nThe ghost remembered a certain man from behind.\nAnd he was searching for that man.\nWhy, even he didn't know.\nI promised I'd help him look.{p}"
+  },
+  {
+   "id": "59:1df0",
+   "op": "text",
+   "en": "\"...Thank you.\nThen from now on, will you watch the backs of the people who come into this restroom, too?\"\n\"Hold on a second.\nI don't want to spy on people using the toilet.\nBesides, you might not know this, but this place is called the forbidden restroom.\nHardly anyone ever comes here, right?\nThis is a bad place to look for someone.\"\n\"But I can't leave here.\"\n\"Why not?\"\n\"I don't know...\"{p}"
+  },
+  {
+   "id": "59:1f68",
+   "op": "text",
+   "en": "Why couldn't he leave the restroom?\nI wanted to get to the bottom of it.\nSo I decided to look around a little.\nThere didn't seem to be anything unusual about the stall.\nThere was no graffiti on the walls, and there was water in the toilet bowl, the way there should be.{p}"
+  },
+  {
+   "id": "59:2068",
+   "op": "text",
+   "en": "...I stared at the toilet and thought.\n"
+  },
+  {
+   "id": "59:2098",
+   "op": "choice",
+   "en": "Examine the toilet more closely"
+  },
+  {
+   "id": "59:20b4",
+   "op": "choice",
+   "en": "Stick my hand in the toilet"
+  },
+  {
+   "id": "59:20d0",
+   "op": "choice",
+   "en": "Clean it"
+  },
+  {
+   "id": "59:20dc",
+   "op": "choice",
+   "en": "Pray to it"
+  },
+  {
+   "id": "59:20e4",
+   "op": "choice",
+   "en": "Check if something's clogging it"
+  },
+  {
+   "id": "59:2100",
+   "op": "text",
+   "en": "I took a plunger out of the cleaning closet.\nThen I probed deep down into the toilet.\nOut came a commuter pass case.{p}",
+   "follows_choice": [
+    "59:20e4"
+   ]
+  },
+  {
+   "id": "59:2190",
+   "op": "text",
+   "en": "There was a photo of a girl inside it.\n\"Hosoda...!\"\nA voice came from behind me.{p}"
+  },
+  {
+   "id": "59:21f0",
+   "op": "text",
+   "en": "\"I remember now.\nThat's my little sister...☆\"\n...Something cold touched me around the neck.\nHe had put his hand there.\nIt felt eerily real, and I spun around with a start.{p}"
+  },
+  {
+   "id": "59:22ac",
+   "op": "text",
+   "en": "...I could see his spirit body clearly.\nMaybe because he'd remembered what it was like when he was alive.\nThen a cold wind blew against the nape of my neck.\nIt seemed to be his breath.\nI heard him panting... hah... hah... like he was in pain.\nHe seemed terribly worked up.{p}"
+  },
+  {
+   "id": "59:23a0",
+   "op": "text",
+   "en": "\"I hate... I hate...\"\nHe started saying things like that.\n\"What do you hate?\nDo you hate your sister?\"\n\"I hate... I hate...☆\"\nThe voice got even louder.\nHis emotions must have been running really high.\nHe just kept saying \"I hate\" over and over, and he wouldn't answer me.{p}"
+  },
+  {
+   "id": "59:24b4",
+   "op": "text",
+   "en": "Then the restroom door and windows started to rattle.{p}Spirit rapping, I guess you'd call it.\nIt was incredibly violent.\n"
+  },
+  {
+   "id": "59:2518",
+   "op": "choice",
+   "en": "Talk it out"
+  },
+  {
+   "id": "59:2524",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "59:2560",
+   "op": "text",
+   "en": "I decided to retreat for the time being.\nI left the stall right away and went out into the hallway.{p}",
+   "follows_choice": [
+    "59:2524"
+   ]
+  },
+  {
+   "id": "59:25a8",
+   "op": "text",
+   "en": "The rapping echoed loudly even out there.\nAnd I could hear something like sobbing, too.\nI left the place for the time being.{p}"
+  },
+  {
+   "id": "59:2640",
+   "op": "text",
+   "en": "The next day, when I went to the forbidden restroom, there was no sign of the ghost.\nWhere could he have gone?\nI searched all kinds of restrooms around the school.\nBut I couldn't find out where he'd gone.\nThen a thought struck me.{p}"
+  },
+  {
+   "id": "59:271c",
+   "op": "text",
+   "en": "Maybe what had kept him tied to the forbidden restroom was that photo of the girl.\nMaybe since the photo had come out of the toilet, he didn't need to stay there anymore.\nIf that was it, there was no point searching other restrooms, right?{p}"
+  },
+  {
+   "id": "59:27f8",
+   "op": "text",
+   "en": "That meant the search area got a lot bigger.\nI searched all over the place during breaks and after school.{p}"
+  },
+  {
+   "id": "59:286c",
+   "op": "text",
+   "en": "...He wasn't anywhere.\nI was worn out from searching and thought I'd just go home.\nSo I decided to take one more look at the forbidden restroom before I left.{p}"
+  },
+  {
+   "id": "59:28f4",
+   "op": "text",
+   "en": "When I went into the forbidden restroom, I felt a chill touch me from behind.\n...It was him.\n\"Hosoda, I remember everything now.\"\nHis voice was quiet.\n\"So, I have a favor to ask...\"\nIf he'd still been alive, he would have been drenched in clammy sweat.\nThat was the feeling he gave off.\n\"You're the only one I can ask to do something like this.\"\nThat's what he said.\nAnd then he told me the whole story.\nIt was something that happened about two years ago.{p}",
+   "returns": []
+  },
+  {
+   "id": "59:2a8c",
+   "op": "text",
+   "en": "...His name was Yoshinori Inoue.\nHe said he'd been walking home from school with his little sister when a hit-and-run driver struck them.\nAnd his sister died.{p}"
+  },
+  {
+   "id": "59:2b20",
+   "op": "text",
+   "en": "The car that did it was one that drove a student from our school to and from school.\nIt seems some students got a ride to school by car now and then.\nWhat he saw as he was hit was the back of a student in our uniform, inside the car as it drove away.\nInoue decided he would find out who that student was.{p}"
+  },
+  {
+   "id": "59:2c44",
+   "op": "text",
+   "en": "Of course, it was the driver who did the hit-and-run.\nBut he couldn't forgive the student who'd been riding in that car for going to school like nothing had happened.\nHe said he'd been angry enough to want to kill him.{p}"
+  },
+  {
+   "id": "59:2d10",
+   "op": "text",
+   "en": "Of course, he knew full well that he could never actually do that.\nWhat he wanted was for the driver, and the student too, to mourn his sister's death and atone for it.{p}"
+  },
+  {
+   "id": "59:2d9c",
+   "op": "text",
+   "en": "Inoue went around to all sorts of classes and started making a list of the students who were driven to and from school by car.\nOnce the list was done, he meant to look at each of them from behind and make sure.\nBut the student in question didn't just sit back and watch him do it.\nThat guy... poisoned Inoue.\nInoue stayed behind alone until late every day, digging into it, you see.\nTo the culprit, he must have been an easy target.{p}"
+  },
+  {
+   "id": "59:2f14",
+   "op": "text",
+   "en": "One day after school, when Inoue stepped away from his seat for a moment, that guy slipped poison into the juice Inoue had been drinking.{p}"
+  },
+  {
+   "id": "59:2f7c",
+   "op": "text",
+   "en": "As soon as Inoue drank the juice, a wave of nausea hit him.\nSo he ran into the nearest restroom.{p}"
+  },
+  {
+   "id": "59:2ff8",
+   "op": "text",
+   "en": "That's right, the forbidden restroom.\nHe threw up in one of the stalls.\nBut no matter how much he threw up, the agony wouldn't stop.{p}"
+  },
+  {
+   "id": "59:3078",
+   "op": "text",
+   "en": "He collapsed onto the floor and writhed in pain.\nNo one came to help him.\nIt hurt so much he couldn't even stand up.\nIt was hopeless.\nWhile all that was going on, his pass case fell out of his pocket.\nThe very one I found in the toilet that won't flush.{p}"
+  },
+  {
+   "id": "59:3164",
+   "op": "text",
+   "en": "The one with his sister's photo in it.\nInoue had been throwing up with the toilet flushing nonstop, so the pass case got flushed away.\nIt got stuck in there, and that's why that toilet stopped flushing.\nOnce you've heard all this, you can see why the people who used it got sick, one after another.{p}"
+  },
+  {
+   "id": "59:3274",
+   "op": "text",
+   "en": "After all, that's the toilet where he was poisoned and died in agony.\nHe breathed his last in under ten minutes.\nAfterward, it seems the culprit got rid of the body.\nInoue ended up listed as missing.{p}"
+  },
+  {
+   "id": "59:335c",
+   "op": "text",
+   "en": "When he'd finished telling me all this, he came out with something.\n\"Hosoda.\nI found the culprit.\nSo I have a favor to ask.\nI want you to kill the one who killed my sister and me.\nI can never forgive him.\nYou understand, right?\nThere's nothing else left.\nI can't touch people.\nI can't even hold things.\nNo matter how I struggle, I can't kill that guy on my own...\"\nThe chilly touch on my shoulder grew colder and colder.\nAt the same time, I felt a cold breath on me.\nIt felt awfully real.{p}So what do you think I did?\n"
+  },
+  {
+   "id": "59:3538",
+   "op": "choice",
+   "en": "Accept"
+  },
+  {
+   "id": "59:3544",
+   "op": "choice",
+   "en": "I can't do that"
+  },
+  {
+   "id": "59:355c",
+   "op": "text",
+   "en": "\"I see...\nYeah, of course.\nKilling someone isn't something you can just go and do, is it?\nThen how about this?\nCould you bring him to this restroom?\nIf you do that, I'll take care of the rest...\"\nInoue fixed me with a clammy, clinging stare.{p}",
+   "follows_choice": [
+    "59:3544"
+   ]
+  },
+  {
+   "id": "59:363c",
+   "op": "choice",
+   "en": "Agree"
+  },
+  {
+   "id": "59:3648",
+   "op": "choice",
+   "en": "Refuse"
+  },
+  {
+   "id": "59:3668",
+   "op": "text",
+   "en": "The cold touch that had been on my shoulder moved to my neck.\n\"Hosoda, can you tell where my hand is right now?\"\nWhen I put my hand to my neck, Inoue let out a deep sigh.\n\"Yes.\n...That's right.\nDon't worry.\nI'm not going to strangle you or anything.\nHosoda, just stay like this and listen.\nToday I went to my house.\nTo see how my parents were doing.\nDad wasn't there, he was at work.\nMom was alone, doing the household accounts and tapping her shoulders.\nMy mom has terrible stiff shoulders.\nSo I tried to give her a shoulder rub.\nI kneaded her shoulders, stroked her back, and tried to loosen up her neck.{p}",
+   "follows_choice": [
+    "59:3648"
+   ],
+   "returns": []
+  },
+  {
+   "id": "59:3880",
+   "op": "text",
+   "en": "...Mom didn't notice.\nShe just kept rolling her shoulders like they hurt.\nI guess people without a sixth sense can't feel it.\nHey, Hosoda.\nI can't even do that much now.\nSo...\"\nInoue's hand stayed cold through and through.\n\"I can't do it alone.\nPlease, you have to understand.\nWe're friends, aren't we?\"{p}"
+  },
+  {
+   "id": "59:39c8",
+   "op": "text",
+   "en": "When I heard those words, a shock ran through my heart.\nAfter he'd said that much, I couldn't turn him down.\n...I'd lost.\nI did as he told me and called that student to the forbidden restroom.{p}"
+  },
+  {
+   "id": "59:3a94",
+   "op": "text",
+   "en": "The guy's name was Nagamine.\nGetting him there was easy.\nI wrote him a letter.\nI know about what happened two years ago.\nI need to talk to you about it.\nPlease come to the restroom, you know the one. That's what I wrote.{p}"
+  },
+  {
+   "id": "59:3b4c",
+   "op": "text",
+   "en": "He came.\nHe was a small guy.\nSo meek-looking that I wondered if someone like him could ever kill anyone...\n\"Please!\nKeep this a secret☆\"\nNagamine said that to me right off the bat.\n\"My dad ran someone over, and I didn't know what to do.\nThat's why I did that...\nDad said he'd turn himself in, but I couldn't agree to it.\nWhat have I done?\nBut...\"{p}"
+  },
+  {
+   "id": "59:3cf8",
+   "op": "text",
+   "en": "The hit-and-run driver was his father.\nI'd just assumed his family was rich.\nI'd thought the one driving him to and from school was a private chauffeur.{p}"
+  },
+  {
+   "id": "59:3d98",
+   "op": "text",
+   "en": "\"If this gets out, my family is finished.\nI know it's unforgivable.\nBut please, I'm begging you.\nDon't tell anyone☆\"\nI didn't know what to do, so I just stood there frozen.{p}"
+  },
+  {
+   "id": "59:3e64",
+   "op": "text",
+   "en": "Just then, Inoue's hand, resting on my shoulder from behind, grew colder and colder.\nNo.\nInoue, stop☆\nI wanted to say it, but my voice wouldn't come out.{p}"
+  },
+  {
+   "id": "59:3f08",
+   "op": "text",
+   "en": "The cold seeped into my shoulder.\nIt felt like jelly squelching its way inside me.\nInoue's cold breath blew on the nape of my neck.\nBefore long, even that breath was slowly seeping inside me.\nI felt like I was going to freeze to death.\n...When I came to, I was strangling Nagamine, the boy who'd covered for his father.\nIt wasn't my will.\nInoue had possessed me.\nIt wasn't my fault.\nI'm not to blame.\n{a}, we're friends, right?\nYou believe me, don't you?{p}"
+  },
+  {
+   "id": "59:40c0",
+   "op": "text",
+   "en": "...I kept on strangling him.\nSoon, white, bubbly froth oozed out at the corners of his lips.\nHe made noises that weren't words, like 'gwagh' and 'glurk.'\nHe died fast.\nHe went limp and collapsed.\nI was dragged down with him and dropped to my knees on the floor.\nMy hands had locked stiff around his neck, still strangling him, you see.\n...After a while, I slowly became able to move my body again.\nAnd then I heard Inoue's voice.{p}"
+  },
+  {
+   "id": "59:4248",
+   "op": "text",
+   "en": "\"Thank you...\"\nHad I really done something worth being thanked for?\nI didn't know, but I couldn't just leave the body lying there, right?{p}"
+  },
+  {
+   "id": "59:42f4",
+   "op": "text",
+   "en": "I buried it behind the school.\nI never want to go through anything like that again.{p}"
+  },
+  {
+   "id": "59:435c",
+   "op": "text",
+   "en": "...{a}.\nWhy are you shaking?\nI told you, didn't I? I'm not to blame...\nSo please don't put my name in the paper.\nI don't want to get caught by the police.\nHuh? What happened to the forbidden restroom after that?{p}"
+  },
+  {
+   "id": "59:4434",
+   "op": "text",
+   "en": "...I hear it still won't flush.\nWell, of course it won't, right?\nAnother murder happened in there...\nI don't want to go anywhere near that restroom anymore, so I haven't actually checked, though.\n...I don't want to be the next victim.{p}"
+  },
+  {
+   "id": "59:451c",
+   "op": "text",
+   "en": "I haven't told Hino how this all ended.\n{a}.\nI'd like you to be the one to pass this story on to him.{p}That's the end of my story.\nNext is the third one, huh?\nI'm looking forward to a good story.{p}"
+  },
+  {
+   "id": "59:45cc",
+   "op": "text",
+   "en": "That's awful.\nI can't tell my story like that.{p}",
+   "follows_choice": [
+    "59:075c"
+   ]
+  },
+  {
+   "id": "59:45fc",
+   "op": "text",
+   "en": "{a}.\nYou've got a look on your face like you're scheming something.\nI don't like that kind of thing.\nI don't know what you're thinking, though.\n...Um, first, let me ask everyone something.{p}",
+   "follows_choice": [
+    "59:0768"
+   ]
+  },
+  {
+   "id": "59:46a0",
+   "op": "text",
+   "en": "...I see.\nWell, I've got a really strong sixth sense, you know.\nI can make friends with ordinary people and with ghosts.{p}",
+   "follows_choice": [
+    "59:18d4"
+   ]
+  },
+  {
+   "id": "59:4704",
+   "op": "text",
+   "en": "And of course, {a}, you and I are friends now too.\nYou seem like a nice person, after all.\nRight? Isn't that so?\n...Oh, sorry.\nLet me get back to the story.{p}"
+  },
+  {
+   "id": "59:4780",
+   "op": "text",
+   "en": "Staring at the toilet, I tried to sense the aura.\n...I could feel a strong aura.\nBut that was all.\nThat stall had been full of an incredible aura from the start, you see.\nI couldn't really tell whether the source of the aura was the toilet or not.{p}"
+  },
+  {
+   "id": "59:4854",
+   "op": "text",
+   "en": "I'd examine the toilet more closely.\nTo do that, just looking at it wouldn't cut it.\nThat's what I thought.{p}"
+  },
+  {
+   "id": "59:48c0",
+   "op": "text",
+   "en": "I stuck my hand into the toilet.\nThe water inside was cold and slimy.\n...It was disgusting.\nEven remembering it now makes me feel sick.\nThat was when it happened.{p}",
+   "follows_choice": [
+    "59:20b4"
+   ]
+  },
+  {
+   "id": "59:496c",
+   "op": "text",
+   "en": "\"Hosoda!\nWhat are you doing?\"\nHino had shown up.\n\"I just came by to see how things were going... That's a pretty bold investigation you're running.\"\n\"Er... well...\"\nGetting caught in such a weird pose was kind of embarrassing.{p}"
+  },
+  {
+   "id": "59:4a40",
+   "op": "text",
+   "en": "\"Hosoda, you're not pushing yourself too hard, are you?\"\nHino peered into my face, looking worried.\n\"Just finding a male ghost is a good haul already.\nThere's still time before the seven wonders interviews.\nTake your time looking into it.\"\n...I felt a strong gaze from behind me.{p}"
+  },
+  {
+   "id": "59:4b4c",
+   "op": "text",
+   "en": "It was him.\nHe must have gotten angry when he learned I'd come for a report.\n...But that's not true.\nAt first, the report was my goal, but by then I truly wanted to help him.{p}"
+  },
+  {
+   "id": "59:4c10",
+   "op": "text",
+   "en": "\"Come on, Hosoda. Let's go home.\"\n\"But, Hino...\"\n\"Never mind that, we're going.\"{p}"
+  },
+  {
+   "id": "59:4c68",
+   "op": "text",
+   "en": "Hino dragged me out of there by force.\nEver since then, the ghost has rejected me.{p}"
+  },
+  {
+   "id": "59:4cd4",
+   "op": "text",
+   "en": "Whenever I try to go into the forbidden restroom, the door absolutely won't open.\nI can't get in.\nI had no choice but to give up the investigation...{p}"
+  },
+  {
+   "id": "59:4d6c",
+   "op": "text",
+   "en": "I hear the forbidden restroom is still claiming victims.\nThe mystery of that restroom still hasn't been solved.\nThat's the end of my story.\n{a}, please keep your promise.\nDon't print my name.\nI don't want everyone thinking I'm the kind of guy who lets his friends down...\nI'm really counting on you.{p}So, whose turn is next?{p}"
+  },
+  {
+   "id": "59:4e98",
+   "op": "text",
+   "en": "I decided to clean it.\nI scrubbed the toilet with the toilet brush.\n\"Hosoda, why are you doing that?\"\n\"Oh, no real reason...\"\nIt was no good.\nMaking it clean wasn't going to change anything.{p}"
+  },
+  {
+   "id": "59:4f60",
+   "op": "text",
+   "en": "That's it.\nMaybe the toilet won't flush because something's clogging it.{p}"
+  },
+  {
+   "id": "59:4fb4",
+   "op": "text",
+   "en": "For lack of a better idea, I tried praying to it.\n...Nothing happened.{p}"
+  },
+  {
+   "id": "59:4fec",
+   "op": "text",
+   "en": "...Forget it.\nI don't want to waste my time.{p}"
+  },
+  {
+   "id": "59:5028",
+   "op": "text",
+   "en": "\"What's wrong? Calm down!\"\nI desperately tried talking to him.\nBut it was no use.\nHe was so worked up there was just no handling him.{p}",
+   "follows_choice": [
+    "59:2518"
+   ]
+  },
+  {
+   "id": "59:50f0",
+   "op": "text",
+   "en": "In the end, I decided to retreat for the time being.\nI left the stall and went out into the hallway.{p}"
+  },
+  {
+   "id": "59:5160",
+   "op": "text",
+   "en": "...By the way, {a}.\nYou're actually planning to put my name in the article, aren't you?\nYou were acting strangely earlier, too.\nIf that's the case, this is as far as I can tell you.{p}"
+  },
+  {
+   "id": "59:5204",
+   "op": "text",
+   "en": "...Huh? Is there more to it, you ask?\nWho knows... My story's over.\nWhose turn is it next?{p}"
+  },
+  {
+   "id": "59:5264",
+   "op": "text",
+   "en": "I can't forgive anyone who'd do something that horrible to my friend.\nHe deserves to die.\nI decided to grant my friend's wish.{p}",
+   "follows_choice": [
+    "59:3538"
+   ]
+  },
+  {
+   "id": "59:5300",
+   "op": "text",
+   "en": "Huh? How did I do it, you ask?\nActually, I haven't killed him yet.\n{a}, you see, once this story is in the paper, I want him to turn himself in.\nIf he does, I'm thinking I'll do him in a way that's a little less painful.\nListen, add this to the paper.\nIf you turn yourself in, I won't kill you.\nSo come forward as soon as you can.\nThe truth is, though, whether he turns himself in or not, I'm planning to send him to the next world.{p}"
+  },
+  {
+   "id": "59:5484",
+   "op": "text",
+   "en": "I mean, it's only fair, right?\nHe did something horrible.\nHe deserves at least that much payback, don't you think?\nLet me make sure once more: you can't write my name.\nIf it got out that this plan was mine, who's to say he wouldn't kill me instead?\nThat's right, I could lose, too.\nWhen I face him, he might fight dirty and kill me.{p}"
+  },
+  {
+   "id": "59:55e8",
+   "op": "text",
+   "en": "If that happens... you'll have to avenge me.\nI mean, we're friends too, aren't we...?\nRight, {a}?\nIf you don't, I might hold a grudge and come back to haunt you.{p}"
+  },
+  {
+   "id": "59:568c",
+   "op": "text",
+   "en": "Come on, don't make that face.\nIt's okay, I'm not going to die.\nIf I died, everyone would be sad.\nAnd of course, you'd be really sad too.{p}Well, time to hand it over to the next person.\nWhat kind of story will it be this time?{p}"
+  },
+  {
+   "id": "59:5770",
+   "op": "text",
+   "en": "\"Thank you...\"\nThe cold hand resting on my shoulder was trembling slightly.\n\"Actually, today I went to my house.\nTo see how my parents were doing.\nDad wasn't there, he was at work.\nMom was alone, doing the household accounts and tapping her shoulders.\nMy mom has terrible stiff shoulders.\nSo I tried to give her a shoulder rub.\nI kneaded her shoulders, stroked her back, and tried to loosen up her neck.\n...Mom didn't notice.\nShe just kept rolling her shoulders like they hurt.\nI guess people without a sixth sense can't feel it...\"{p}",
+   "follows_choice": [
+    "59:363c"
+   ],
+   "returns": []
+  },
+  {
+   "id": "59:5960",
+   "op": "text",
+   "en": "I gently laid my hand over the spot where his hand was, and made him a promise.\n\"I'll do as you say.\"\nThe next day, I called that student to the forbidden restroom.{p}"
+  }
+ ]
+}

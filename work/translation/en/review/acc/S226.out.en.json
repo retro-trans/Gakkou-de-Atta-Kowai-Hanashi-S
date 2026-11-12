@@ -1,0 +1,17 @@
+{
+ "rows": {
+  "63:5d88": "Heh heh, so that's how it is.\nSo right now your love is one-sided.\nTell me, {a}...\nThe person you like must be someone wonderful.{p}If you don't mind... won't you tell me that person's name?\n",
+  "63:5e40": "Actually......",
+  "63:5e78": "\"Actually......\"\n...Should I just say it?{p}",
+  "63:5ebc": "\"Actually...?\"\nIwashita was gazing at me with a smile.\n\"Actually, the one I like is......\n",
+  "63:5f58": "...Oh. Everyone was staring at me, their mouths hanging open.\n'What a weird girl...'\nThat's what they seemed to be saying.\nHow mean. That was a sincere confession of love...\n.................................................................. Nobody said a single word.\nIwashita just stared at me, without any expression.\n...Is she appalled after all?\nThe moment that thought crossed my mind...{p}",
+  "63:6598": "\"And here I got my hopes up for nothing.\nI'd taken a liking to you too, {a}...\"\n...Oh no, she really is angry.\nShe's kind of scary......\n\"...But I think it's better for you this way.\nBecause people who get close to me end up unhappy.{p}"
+ },
+ "notes": [
+  "63:5e40: FIX dots - 4-character run restored to 6 dots",
+  "63:5e78: FIX dots - 4-character run restored to 6 dots, matching the choice",
+  "63:5ebc: FIX dots - 4-character run restored to 6 dots",
+  "63:5f58: FIX dots - 44-character silence restored to 66 dots (was 36)",
+  "63:770c: UNSURE - the polite request to look out the window taken as the player speaking; speaker is not marked"
+ ]
+}

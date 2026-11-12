@@ -1,0 +1,10 @@
+{
+ "rows": {
+  "49:643c": "............But it was already too late.\nBeneath the cherry tree, a boy and a girl lay dead.\nThey must have been afraid of the misfortune to come.\nTwo bodies lit by the moonlight, lovingly holding hands.\nOrihara's heart filled with regret.\nIf it was going to come to this, they should never have run.\nBut Hirooka, it seems, was thinking about something else.\n\"If anyone finds us here, we're done for. Let's hurry home.\"\nOrihara couldn't believe her ears.\nBut Hirooka just turned and briskly started for home.{p}"
+ },
+ "notes": [
+  "49:5ed0: TODO - bytecode after this row jumps (op 01) to 49:22dc, which opens with Hirooka's polite line 'On the night of the next full moon...'; lead-in 'So Hirooka said...' fits, kept",
+  "49:3c80: UNSURE - choices 3c80/3c8c and 4108/4220 have no follows_choice row in this slice; their branches could not be checked here",
+  "49:643c: KEPT - 12-dot run for 6-char …… is longer than the 9-dot standard; not shortened per brief"
+ ]
+}

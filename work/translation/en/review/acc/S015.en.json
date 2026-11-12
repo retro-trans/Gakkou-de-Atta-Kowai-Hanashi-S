@@ -1,0 +1,379 @@
+{
+ "slice": "S015",
+ "scene": "05",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S014",
+ "next": "S016",
+ "todo": [
+  "- Choices trimmed to the old one-line limit (choices may now wrap to 3 lines): restore the full meaning in 03:1acc, 03:1ae8, 03:3038, 03:21b0, 03:300c, 03:37a8 (S007); 01:bd04 (S003); 05:4f6c, 05:4f80 (S014); 05:b704, 05:b738 (S015)."
+ ],
+ "rows": [
+  {
+   "id": "05:7878",
+   "op": "text",
+   "en": "The thing was already gone.\nWas it because I'd let go of Shindo's hand{f:?|?}{p}"
+  },
+  {
+   "id": "05:78e4",
+   "op": "text",
+   "en": "\"I told you not to be startled.\nProvoke it the wrong way and there's no telling what it'll do to you.\"\nSaying that, Shindo pulled away.\n\"Wh-what was that...\"\n\"The one I told you about earlier.\nLooks like it's taken a liking to you.\"\n\"N... no way!\"\nAs {f:I|I} panicked, Shindo gave me a cold look.\n\"That's what you get for setting up a project like this half for fun.\nYou're the one who called it here.\nThat thing's gonna follow you around from now on.\"\n\"No way!\nIsn't there some way to get rid of it★\"\n\"Sorry, I don't know any.\nI've just got a bit more of a sixth sense than most people, that's all.\"\nShindo grinned.{p}"
+  },
+  {
+   "id": "05:7b14",
+   "op": "text",
+   "en": "\"But isn't this perfect for livening up your project?\nYou getting possessed right here, while we're telling our stories...\nWell then, guess I'll pass it on to the next one.\"{p}"
+  },
+  {
+   "id": "05:7ba0",
+   "op": "text",
+   "follows_choice": [
+    "05:725c"
+   ],
+   "en": "{f:I|I} was annoyed, but I kept quiet.\nHe was my senior, after all{f:.|.}\nShindo saw {f:me|me} like that and gave a wry smile.\n\"You're a good kid, but... I don't think you're cut out to be a reporter.\"\n\"...What do you mean by that?\"\n\"Listen closely to what people say, and when something bugs you, dig in and ask.\nThat's the basics of being a reporter, right?\nYou can't do that.\"\nThat made {f:me|me} {f:genuinely angry|genuinely angry}.\n\"I don't think you have any right to say that to me.\"\nMy tone came out harsher than I meant.\n\"That's rude, isn't it?\nEarlier, too, you tried to scare me, saying a ghost or something was watching {f:me|me}...\"\nShindo chuckled.{p}"
+  },
+  {
+   "id": "05:7e0c",
+   "op": "text",
+   "en": "\"So you thought I was just trying to scare you?\nGuess your sixth sense isn't worth much either.\"{p}"
+  },
+  {
+   "id": "05:7e60",
+   "op": "text",
+   "en": "The moment he said it, there was a sharp crack, like something bursting.\nAnd not just once, but again and again, from all over the room{f:!|!}\n\"See... you said something so stupid, now they're laughing at you.\"{p}"
+  },
+  {
+   "id": "05:7f14",
+   "op": "text",
+   "en": "Laughing?\nBy 'they,' does he mean the ghosts{f:?|?}\n{f:Is|Is} this spirit rapping★{p}"
+  },
+  {
+   "id": "05:7f8c",
+   "op": "text",
+   "en": "\"I thought you had a little more promise than that, but maybe I was wrong.\nKinda killed the mood for me.\nSo my story ends right here.\"\nFor an instant, something writhed beneath Shindo's face.\nI couldn't make it out clearly, but it was definitely something evil.\nIs this person really Makoto Shindo, a student at this school{f:?|?}{p}In the suffocating tension, {f:I|I} turned to face the last one.\nI felt as if carrying on with this was the only way to keep my sanity...........{p}"
+  },
+  {
+   "id": "05:8138",
+   "op": "text",
+   "follows_choice": [
+    "05:6f18"
+   ],
+   "en": "Tch, what a wimp.\nWell, I guess it might be a bit much for the kiddies.\nCan't be helped, then.\nThings didn't go as planned, but I'll tell you that story about playing cards I mentioned at the start.{p}"
+  },
+  {
+   "id": "05:81f4",
+   "op": "text",
+   "en": "Still, you gotta admit they're really well made.{p}"
+  },
+  {
+   "id": "05:8228",
+   "op": "text",
+   "follows_choice": [
+    "05:0df0"
+   ],
+   "en": "What's that supposed to mean?\n{f:If you're a man, give me a straight answer|Say it more clearly}, will ya.\nIf you like it, you like it. If you hate it, you hate it.{p}"
+  },
+  {
+   "id": "05:829c",
+   "op": "text",
+   "en": "For the record, I actually like 'em quite a bit.\nI mean, they're really well made, right?{p}"
+  },
+  {
+   "id": "05:82e8",
+   "op": "text",
+   "follows_choice": [
+    "05:13b4"
+   ],
+   "en": "That's a good thing.\nIf you're as sloppy as me, nothing good comes of it.\nThen again, if I'd never met Okura, I'd never have ended up in that mess...\nWhoops, I'm getting off track.{p}"
+  },
+  {
+   "id": "05:8398",
+   "op": "text",
+   "follows_choice": [
+    "05:2210"
+   ],
+   "en": "{f:Don't lie to me|Hey}, {f:pal|you don't have to hide it}.\n{f:A guy who hates gambling|Or maybe}{f: is no man at all| you've just never gambled}.\n{f:Even I love it|I do it all the time, though}.\n{f:Be honest|Tell me the truth}.{p}...{f:Or are you saying|So are you saying} you've never once made a bet in your life?\n"
+  },
+  {
+   "id": "05:84e4",
+   "op": "choice",
+   "en": "I've never gambled"
+  },
+  {
+   "id": "05:8500",
+   "op": "choice",
+   "en": "Actually, I have"
+  },
+  {
+   "id": "05:8520",
+   "op": "text",
+   "follows_choice": [
+    "05:84e4"
+   ],
+   "en": "Huh!\n{f:You're a rare one|So that's how it is}.\n{f:Practically a protected species, aren't ya|I kinda figured, though}.\nBut {f:I wonder how long that'll last|you might get a chance to gamble one of these days}.{p}"
+  },
+  {
+   "id": "05:85e8",
+   "op": "text",
+   "en": "...Well, whatever.\nSo anyway, Okura used to be an easy mark.\nBut at some point, that changed.\nAll of a sudden, he got really good at gambling.{p}"
+  },
+  {
+   "id": "05:8680",
+   "op": "text",
+   "follows_choice": [
+    "05:8500"
+   ],
+   "en": "{f:See? Told ya|I see}.\n{f:Act cool all you like|Put on airs all you like}, but that's how it goes{f:.|.}{p}"
+  },
+  {
+   "id": "05:86e8",
+   "op": "text",
+   "follows_choice": [
+    "05:2328"
+   ],
+   "en": "Ha ha, listen to you, admitting it yourself.\nBut gambling's all about the mind games, you know.\nIf you're that honest, it's probably not for you.\nOr is that a bluff too?\nIf it is, you're one hell of a gambler.\nStill, I bet you couldn't beat Okura.{p}"
+  },
+  {
+   "id": "05:87dc",
+   "op": "text",
+   "en": "...Huh? That's not what I said before?\nI told you Okura was hopeless at gambling?\nYeah, that's right.\nHe was hopeless... up until a certain point.\nBut it's no use now.\nNobody can beat him.\nNo matter what they do.\nHe was harmless enough back when he was lousy at gambling.\nBut one day, out of nowhere, he got good.{p}"
+  },
+  {
+   "id": "05:8910",
+   "op": "text",
+   "follows_choice": [
+    "05:297c"
+   ],
+   "en": "\"This...?\nI bought it at an antique shop in my neighborhood.\nA real find.\"\nThat was all Okura said before he buried himself in the game again.{p}"
+  },
+  {
+   "id": "05:899c",
+   "op": "text",
+   "en": "But once I'd heard that, I had no more use for him.\nI headed straight for the antique shop.\nIf he'd suddenly gotten good, it had to be because of those cards.\nIf I got my hands on the same thing, maybe I'd get good at gambling too, right?{p}"
+  },
+  {
+   "id": "05:8aa0",
+   "op": "text",
+   "en": "Finding the antique shop was easy.\nIt was tucked one street back from the main road, though.\nI've got a nose for that kind of thing.\nIt was a cramped, gloomy little shop.\nDusty pots and Buddhist statues were lined up, looking like they'd been sitting there for hundreds of years.\nAnd mixed in with all that, there it was.\nA deck of those skull playing cards.{p}"
+  },
+  {
+   "id": "05:8be8",
+   "op": "text",
+   "en": "Same size, same make.\nThe only difference was that the skull was a man's.\nOkura's cards had a skull on the left half and a pale woman on the other, right?\nMine were the reverse: skull on the right, a man's face on the left.\nAnyway, I bought them, happy as could be.\nBut the old man who ran the shop said something weird.\n\"If you ever come across its lover, never, ever put the two together.\"\n...Something like that.\nI didn't think much of it at the time.{p}So, do you think I got good at gambling after that?\n"
+  },
+  {
+   "id": "05:8da8",
+   "op": "choice",
+   "en": "You got good at it"
+  },
+  {
+   "id": "05:8db4",
+   "op": "choice",
+   "en": "Nothing changed"
+  },
+  {
+   "id": "05:8dc4",
+   "op": "text",
+   "follows_choice": [
+    "05:8da8"
+   ],
+   "en": "Yeah, I got good, all right.\nOnce I started using those cards, I won game after game.\nIt was like the cards understood who their master was and were trying to make him win.\nWord must've gotten around eventually.\nOkura came to see me.{p}"
+  },
+  {
+   "id": "05:8e98",
+   "op": "text",
+   "en": "His face changed when he saw my cards.\nHe probably never imagined there was another deck like his.\nSo he said to me:\n\"Let's play for each other's cards.\"\nI took him up on it.\nThink I was an idiot, when one slip and I'd lose my cards?\nBut if I won, I could take Okura down a peg.\nIf that's how I think, maybe I'm a born gambler.{p}"
+  },
+  {
+   "id": "05:9004",
+   "op": "text",
+   "en": "Here were the rules.\nFirst, the game was poker.\nWe'd swap decks, and one of us would shuffle and deal.\nThen the other one would pick his cards while they were still face down.\nPretty fair, right?\nEven so, the wins would probably come out about fifty-fifty.\nSo we decided that the moment it stopped being a draw, whoever was ahead would take both decks.\nFirst, Okura dealt with my cards.\nOf course, I won.\nSure enough, those cards knew who their master was.\nNext I dealt with Okura's cards, and Okura won, naturally.\nThings stayed even for a while.\nBut a few games in, Okura grinned.\nIt was my deck's turn, so there was no way he could win.{p}"
+  },
+  {
+   "id": "05:9284",
+   "op": "text",
+   "en": "In fact, my hand that time was four kings.\nI laid it down, totally confident.\nBut then he showed me his hand, looking thrilled.\nAnd what do you think it was?{p}"
+  },
+  {
+   "id": "05:9334",
+   "op": "text",
+   "en": "Four aces and a joker.\nFive of a kind, aces!\nThe skull on the joker looked like it was sneering at me.\nGrinning, Okura raked in both decks.{p}"
+  },
+  {
+   "id": "05:93f8",
+   "op": "text",
+   "en": "\"Guess I was the one they chose.\"\nSaying something like that, he went home all chipper.\nAnd he never came to school again.{p}"
+  },
+  {
+   "id": "05:9494",
+   "op": "text",
+   "en": "No way he could.\nHe was dead.\n...Apparently, when Okura didn't get up in the morning, his family went to check on him.\nAnd there was Okura, dead on his bed.\nIn a gruesome state.\nHis body didn't have a scratch on it, but the skin of his head had peeled off, and even the flesh underneath was gone, clean, like it had melted away.\nIn other words, from the neck up, he'd turned into a skull.{p}"
+  },
+  {
+   "id": "05:95d0",
+   "op": "text",
+   "en": "Just like the joker on those cards.{p}"
+  },
+  {
+   "id": "05:9610",
+   "op": "text",
+   "en": "Oh yeah, both decks were in Okura's room.\nBut the pictures on the backs, which should've been half skull, had changed at some point.\nInto a chimera, with a woman's face on the right half and a man's face on the left.\nThat's what the old man at the shop had been worried about.\nThe two decks were lovers, and I guess they wanted to be together.\n...Now, can you figure out where Okura's face went?\nEven the dullest person would get it by now.\nThe skull woman, the skull man, and Okura.\nThere were three faces, and three minus two is one.\nThat's right, the other deck.\nOn its back was the face of a man nobody had seen there before.\nTo me, it looked exactly like Okura...{p}Well, that's the end of my story.\nLet's move on to the sixth one.{p}"
+  },
+  {
+   "id": "05:9884",
+   "op": "text",
+   "follows_choice": [
+    "05:8db4"
+   ],
+   "en": "That's right.\nI didn't get any better at all.\nBut hey, I was the one who'd decided on my own that they'd make me good at gambling.\nCouldn't exactly go complain to the shop, right?\nStill not satisfied, I stopped using those cards.{p}"
+  },
+  {
+   "id": "05:9968",
+   "op": "text",
+   "en": "Then one day, Okura came to see me.\nHe wanted me to show him my cards.\nI guess somebody'd told him they looked like his.\nWhen I showed him, his face changed.\nThen he asked me to sell them to him.\nHe must've figured they had the same power as his, which they didn't.{p}"
+  },
+  {
+   "id": "05:9a7c",
+   "op": "text",
+   "en": "Of course I sold them to him.\nI never said they were cards that'd make you good at gambling.\nOkura just assumed it on his own.\nAll I did was the same thing the old man at the antique shop did.\nBut then, the moment I handed over the cards for the money.\nThe eyes of the man in the picture glinted.\nAnd his little mouth moved, too.\n\"Repayment begins.\"\nThat's what it said, I swear.{p}"
+  },
+  {
+   "id": "05:9bf0",
+   "op": "text",
+   "en": "From the next day on, Okura was lousy at gambling again.\nNo, maybe even worse than before.\nHe got so worked up trying to win it back, he sank deeper and deeper.\nEven coughing up all the money he'd stashed away wasn't enough.\nEventually even Okura gave up gambling.\nBut that wasn't the end of it.\nA while after that, Okura's dad's company went bankrupt.\nOn top of that, his dad had co-signed somebody's loan or something, so he got stuck paying that off too.\nIn the end, Okura dropped out of school.\nHe's probably working somewhere right about now.\nAnyway, about that word 'repayment' the man on the cards said back then.\nDon't you think it meant taking back from Okura exactly as much money as he'd won with the woman's cards?\nThat's why nothing happened to me, I think.\nBut look at it the other way, and it means Okura raked in that much, right?\n...When you put it like that, it's hard to feel too sorry for him.\nOh well.\nWhen you play cards, you'd better check the pictures on the backs carefully too.{p}That's the end of my story.\nNext, if you please... as they say.{p}"
+  },
+  {
+   "id": "05:9fac",
+   "op": "text",
+   "follows_choice": [
+    "05:299c"
+   ],
+   "en": "\"This...?\nFrom a festival.\nI bought it at a stall.\"\nOkura said it like I was bugging him.\nWhat a curt answer.\nMaybe he was focused on the game, but it was like I wasn't even there.{p}"
+  },
+  {
+   "id": "05:a05c",
+   "op": "text",
+   "follows_choice": [
+    "05:29a8"
+   ],
+   "en": "\"This...?\nI found it.\"\nThat's what Okura said.\nBut I didn't miss how he hesitated for a second before answering.\nOkura was lying.\nI mean, would you believe a whole deck of cards was just lying around, complete?\nAnd it wasn't even dirty.\nBut why would he need to lie?\nI figured something was fishy.\nSo I decided to keep an eye on him for a while.{p}"
+  },
+  {
+   "id": "05:a1d8",
+   "op": "text",
+   "follows_choice": [
+    "05:2f74",
+    "05:b704"
+   ],
+   "en": "He started searching desperately for someone to play.\nLike he couldn't stay alive unless he played poker.\nBut everyone knew how good he was.\nNobody would take him on.\nAnd then, get this!\nHe started throwing money around.{p}"
+  },
+  {
+   "id": "05:a2bc",
+   "op": "text",
+   "en": "If you beat Okura, you'd get prize money.\nAnd even if you lost, you didn't have to pay a thing.\nThat's insane, right?\nBut thanks to that, people started playing him.\nOf course, Okura was good.\nHe never lost a single yen.\nAnd when that happens, some people get obsessed.\nThere was this guy who'd go straight to Okura the minute he got to school in the morning.\nHis name was Kobayashi or something.{p}"
+  },
+  {
+   "id": "05:a424",
+   "op": "text",
+   "en": "Anyway, apart from class time, it was poker from morning till night.\nIt wore me out just watching.\nBut Okura looked happy.\nHe never got tired of it, playing game after game, hundreds, thousands of times.\nThen, one Monday.{p}"
+  },
+  {
+   "id": "05:a4f0",
+   "op": "text",
+   "en": "Kobayashi didn't come to school.\nThat surprised me.\nBy then, Kobayashi had lost interest in everything but poker.\nI couldn't believe a little cold would keep him from coming to play.\nWhen I asked Okura, he said they'd spent all weekend playing poker at his place.\nWould a guy who'd been that lively the day before just suddenly collapse?\nBut that's exactly what happened.{p}"
+  },
+  {
+   "id": "05:a654",
+   "op": "text",
+   "en": "According to someone who went to see him, Kobayashi was terribly weak.\nDry, papery skin and sunken eyes.\nOver half his hair had gone white, and it was falling out in clumps.\nSo he ended up being admitted to a hospital far away.{p}"
+  },
+  {
+   "id": "05:a73c",
+   "op": "text",
+   "en": "That left Okura in a bind.\nHe had to find another poker partner, after all.\nBut after what happened to Kobayashi, none of us felt like it.\nWe thought Okura might've done something to him.\nOkura was getting desperate.\nIn the end, he said he'd give a thousand yen a game just for playing poker with him.\nWho offers a shady deal like that?\nCreeped out, everyone started keeping their distance.{p}"
+  },
+  {
+   "id": "05:a8c8",
+   "op": "text",
+   "en": "Then one day, Okura caught me.\nHe begged me to play poker with him, just one game, anything.\nHe looked ready to get down on his hands and knees.\nBut I said no.\nAnd then...{p}"
+  },
+  {
+   "id": "05:a984",
+   "op": "text",
+   "en": "Suddenly, he let out a scream.\n\"It's over!\nTime's up☆\"{p}"
+  },
+  {
+   "id": "05:a9d8",
+   "op": "text",
+   "en": "And then he collapsed.{p}"
+  },
+  {
+   "id": "05:aa10",
+   "op": "text",
+   "en": "I rushed over to look, and his eyes had rolled back and he was twitching.\nI knew right away it was bad.\nThen the life went out of him.\nLike a light inside him being switched off with a click.\nI guess that was the moment he died.\nWhen people die, they go just that easily, like flipping a switch.\nThen, out of his back as he lay face down, something slipped out.\nIt was hazy, and once it was all the way out of Okura, it took on a solid shape.\nWhat do you think it was?{p}"
+  },
+  {
+   "id": "05:abd4",
+   "op": "text",
+   "en": "A big face, half woman and half skull.\nThat's right, same as the picture on Okura's cards.\nIt looked at me and grinned wide.\nAnd then it slowly seeped away.\nLike it was dissolving into the air.{p}"
+  },
+  {
+   "id": "05:acac",
+   "op": "text",
+   "en": "...Okura was already gone.\nWhen I lifted him up, cards spilled out of his breast pocket.\nAnd get this... can you believe it?\nThe backs were completely blank.\nThe skull woman that should've been drawn on them had vanished from every single card.\n...Maybe that skull woman was a goddess of gambling.\nOr a demon.\nMaybe Okura had made a pact with a demon.\nThat would kinda explain what happened to Kobayashi, too.\n...And that's where my story ends.\nIf there's any part you didn't get, it's not because I'm bad at telling it.\nIf anybody can explain it, I'd love to hear it myself.\nAnyway, that's about it.{p}So, that brings us to number six.\nWho was it again...?{p}"
+  },
+  {
+   "id": "05:aef8",
+   "op": "text",
+   "follows_choice": [
+    "05:2fa8",
+    "05:b738"
+   ],
+   "en": "Yeah, Okura stopped coming to school.\nWorse, he stopped coming out of his room at all.\nHis family got worried and peeked in, and there he was, sleeping on a bed he'd covered with cards.\nLooking blissful, like it felt real good.\nBut he didn't seem sick, so apparently they just left him alone.{p}"
+  },
+  {
+   "id": "05:b030",
+   "op": "text",
+   "en": "If they left food outside his room, he seemed to eat it, too.\nBut then one day.\nThere'd been a death among their relatives, so Okura's whole family had to go away.\nHis mother called through the door.\n\"I'm leaving ten thousand yen, so order yourself some takeout.\"\n...Well, it was probably something like that.\nMoms everywhere say the same stuff.\nAnd then they left.{p}"
+  },
+  {
+   "id": "05:b194",
+   "op": "text",
+   "en": "Apparently they stayed two nights before coming home.\nBut the money was just as they'd left it.\nThe edges had been torn ragged, but anyway, it was right where they'd put it.\nThey got worried and went to Okura's room.{p}"
+  },
+  {
+   "id": "05:b268",
+   "op": "text",
+   "en": "And from inside, they heard a dry, rustling sound.\nWondering what it was, they opened the door.\nAnd then...{p}"
+  },
+  {
+   "id": "05:b2e8",
+   "op": "text",
+   "en": "On the bed was a skeleton.\nAnd scurrying around between the bones were those half-skull women from the cards.\nThey were about the size of ping-pong balls, and under their heads was a dense mass of tiny tentacles.\nThat's how they got around.\nWith their little teeth, they were gnawing at the scraps of flesh still stuck to the bones.\nHis family screamed.\nAt the sound, the women all turned around at once.\nAnd then, at incredible speed, they fled out the window.\nLike the tide going out, in one big rush.{p}"
+  },
+  {
+   "id": "05:b4c4",
+   "op": "text",
+   "en": "All that was left, they say, was Okura's skeleton and the pure white cards the women had crawled out of.\nIt must not have been Okura eating the food at all, but those women.\nWith the family gone and no meals set out, the starving women must've eaten Okura instead.{p}"
+  },
+  {
+   "id": "05:b5c8",
+   "op": "text",
+   "en": "Why didn't Okura try to get away?\nHow should I know.\nMaybe those women had him under their spell.\nBut I wonder where the ones that got out of the cards are now.\nWhen I think things like that might be lurking around, the dark scares me.\n...Go ahead and laugh.\nAnyway, that's the end of my story.{p}Let's hurry up and get the next one over with too.\nIt's already dark outside.{p}"
+  },
+  {
+   "id": "05:b704",
+   "op": "choice",
+   "en": "Hunted for poker partners"
+  },
+  {
+   "id": "05:b724",
+   "op": "choice",
+   "en": "Went hard on loan-sharking"
+  },
+  {
+   "id": "05:b738",
+   "op": "choice",
+   "en": "Stopped coming to school"
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "slice": "S111",
+ "scene": "28",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S110",
+ "next": "S112",
+ "todo": [],
+ "rows": [
+  {
+   "id": "28:1378",
+   "op": "text",
+   "en": "\"What are you doing?!\"\nA deep male voice rang out from beyond the blinding light.\n{f:Who's that|Who's that}?\n\"Ah, Mr. Kuroki!\"\nIt was Hosoda who said it.{p}"
+  },
+  {
+   "id": "28:1428",
+   "op": "text",
+   "en": "The beam that had been shining in {f:my|my} face dropped to the floor, and {f:I was|I was} finally freed from the glare.\nBut my eyes were still seeing spots.\n\"...Well, if it isn't Hosoda.\nWhat are you doing here at this hour?\"\n\"...Sorry.\"\n...So it was a teacher{f:|}.\nFrom the way they talked, he and Hosoda seemed to know each other{f:|}.\nUnfortunately, {f:I|I} couldn't remember any teacher named Kuroki.\nThis school is huge, after all.\nThere were plenty of teachers I didn't know.\nThe teacher called Kuroki had a flashlight in his hand.\n...So that would make him the teacher on night duty tonight{f:, I guess|, I suppose}.\nWhich meant it was already late enough for the night-duty teacher to be making his rounds{f:|}.\n\"...And you are?\"{p}"
+  },
+  {
+   "id": "28:16b0",
+   "op": "text",
+   "en": "The flashlight beam turned on {f:my|my} face again.\nIn the glare, {f:I|I} squinted a little.{p}"
+  },
+  {
+   "id": "28:171c",
+   "op": "text",
+   "en": "\"...Ah, yes. My name is {a}.\"\nMr. Kuroki slowly walked toward {f:us|us}.\n\"...Listen, you lot.\nYou know perfectly well this place is off-limits.\nWhat were you doing in here?\"\nThen he looked from one of {f:our|our} faces to the next.\nHosoda looked at {f:me|me} helplessly.\n...For now, that makes {f:me|me} the one in charge{f:|}.{p}Maybe {f:I|I} should be the one to explain after all{f:|}.\n"
+  },
+  {
+   "id": "28:18c8",
+   "op": "choice",
+   "en": "Explain properly"
+  },
+  {
+   "id": "28:18dc",
+   "op": "choice",
+   "en": "Somehow talk my way out of it"
+  },
+  {
+   "id": "28:18f4",
+   "op": "text",
+   "follows_choice": [
+    "28:18c8"
+   ],
+   "en": "\"Um... Actually, the newspaper club is doing a feature on the school's seven wonders.\nSo {f:I've|I've} been assigned to hear everyone's stories.\nWe wanted to see Hanako-san in the old school building for ourselves, so we came in, even though we knew it was off-limits.\"\n{f:I|I} bowed my head apologetically.\nI really couldn't complain if he got angry{f:|}.\nMr. Kuroki took a step toward {f:me|me}.{p}"
+  },
+  {
+   "id": "28:1a60",
+   "op": "text",
+   "en": "\"Oh. So you're in the newspaper club.\nI know all about your seven wonders feature.\"\nWith that, he laid a hand on {f:my|my} shoulder.\nIt was a big hand, like a baseball glove{f:|}.\nNow that I got a good look at him, he had a really sturdy build{f:|}.\nMaybe he was a P.E. teacher{f:, I thought|, I wondered}.\n\"Well, as a teacher, I can't stand the idea that school should be nothing but studying.\nThrowing yourself into club activities is a fine thing.\nBut there are limits.\nDo you know why this old school building is off-limits? Because it's dangerous.\nIt's old now, and it's rotting away here and there.\nEven the floors are rotten, so if you're unlucky, your foot'll go right through.\nIf there were an accident, it'd be a disaster.\nDon't you ever do this again.\"\nWith that, he made a loose fist and gave {f:me|me} a token knock on the head.{p}"
+  },
+  {
+   "id": "28:1d34",
+   "op": "text",
+   "en": "\"You too, Hosoda.\"\nWith that, he knocked Hosoda on the head too.{p}"
+  },
+  {
+   "id": "28:1d74",
+   "op": "text",
+   "en": "\"And the rest of you.\"\nWith that, he knocked everyone on the head, one at a time.{p}"
+  },
+  {
+   "id": "28:1db4",
+   "op": "text",
+   "en": "...Thank goodness he was a teacher who listened to reason.\nTelling the truth had been the right call{f:|}.\n\"...So, on my say-so, I'll let this one slide.\nTo tell you the truth, I don't mind a scary story myself.\"\nWith that, he held the flashlight under his chin to light up his face and thrust it out at {f:us|us}.\n\"...How about it? If you like, why don't you keep me company for a while?\"\nFor a moment, {f:I|I} didn't understand what he meant.{p}"
+  },
+  {
+   "id": "28:1f64",
+   "op": "text",
+   "en": "\"Keep you company...?\nYou mean you'll come with us to check on Hanako-san, sir?\"\nThat was Hosoda.{p}"
+  },
+  {
+   "id": "28:1fdc",
+   "op": "text",
+   "en": "The teacher laughed happily.\n\"...No.\nThat Hanako-san story is just a groundless rumor.\nInstead, I know a much scarier story about this old school building.\nHow about it? If you like, why don't we go take a look at the place?\"\nHe grinned like a mischievous little kid.\nWhat a fun-loving teacher{f:|}.\nI never imagined even a teacher would join in the storytelling.\nTo be honest, I'd been at a loss since the seventh person never came{f:|}.{p}What {f:should I do|should I do}?\nShould I take him up on his offer?\n"
+  },
+  {
+   "id": "28:21d0",
+   "op": "choice",
+   "en": "Hear the teacher's story"
+  },
+  {
+   "id": "28:21e8",
+   "op": "choice",
+   "en": "Decline, it sounds scary"
+  },
+  {
+   "id": "28:2200",
+   "op": "text",
+   "follows_choice": [
+    "28:21d0"
+   ],
+   "en": "\"Sir, are you sure it's okay?\"\nFor {f:me|me}, it was exactly what I'd hoped for{f:|}.\nHis face broke into an even happier grin.\n\"Sure, I'm the one saying it's okay.\nConsider yourselves in safe hands.\n...Just promise me one thing.\"\n\"What's that?\"\n\"...You keep it a secret that I took you into the old school building.\nI'd get chewed out.\"\nWith that, he laughed sheepishly.\nMr. Kuroki seemed like a good teacher{f:|}.\n{f:We|We} nodded firmly.{p}"
+  },
+  {
+   "id": "28:23b0",
+   "op": "text",
+   "en": "\"All right. Then follow me.\"{p}"
+  },
+  {
+   "id": "28:23e4",
+   "op": "text",
+   "en": "Our only light was the dim glow of a single flashlight.\nThe teacher took the lead and started walking, lighting the floor at our feet.\nAnd as he slowly walked, he began to talk, a little at a time.{p}"
+  },
+  {
+   "id": "28:2498",
+   "op": "text",
+   "en": "\"...Do you kids know anything about the war years?\"\n\"No, we don't.\"\n\"This area had it rough during the war.\nMind you, I wasn't even born back then, so I don't know the details.\nBut, you see, I went to this high school myself.\nWhen I was a student here, classes were still held in the old school building.\nThere was a story that went around among us back then.\n...It's here.\"\nWith that, he suddenly stopped walking.{p}"
+  },
+  {
+   "id": "28:2628",
+   "op": "text",
+   "en": "Then he shone the flashlight at the wall for some reason.\n\"...Just the way it was back then.\"\nHe held the beam still on one spot of the wall and began stroking it fondly.\n\"Can you tell? Only this part of the wall is a different color from the rest.\"\nWith that, he waved the flashlight a little.\nNow that he mentioned it, the color of the wall did seem slightly different.\nThen, slowly, he began his story.{p}"
+  },
+  {
+   "id": "28:2788",
+   "op": "text",
+   "en": "...You didn't know this old school building was destroyed once, back during the war, did you?\nIt's been fifty years since then, after all.\nWhen I still went here, it was in a little better shape.\nNow they've gone and decided to tear it down.\nYou see, there's something on the other side of this wall.\nThey sealed it up afterward.{p}What do you think was there?\n"
+  },
+  {
+   "id": "28:28c8",
+   "op": "choice",
+   "en": "A classroom"
+  },
+  {
+   "id": "28:28d0",
+   "op": "choice",
+   "en": "A staircase"
+  },
+  {
+   "id": "28:28d8",
+   "op": "choice",
+   "en": "A restroom"
+  },
+  {
+   "id": "28:28e0",
+   "op": "choice",
+   "en": "A morgue"
+  },
+  {
+   "id": "28:28ec",
+   "op": "choice",
+   "en": "A storeroom"
+  },
+  {
+   "id": "28:28f4",
+   "op": "text",
+   "follows_choice": [
+    "28:28d0"
+   ],
+   "en": "That's right.{p}"
+  },
+  {
+   "id": "28:2920",
+   "op": "text",
+   "en": "On the other side of this wall, there was a staircase.\nA staircase leading underground.\nThe old school building is made of wood, but that staircase and the basement beyond it were made of stone.{p}"
+  },
+  {
+   "id": "28:29bc",
+   "op": "text",
+   "en": "It was an air-raid shelter.\nBack then, the school was apparently one of the evacuation sites.\nWhen the air-raid sirens went off, all the people nearby would gather and rush into this shelter.\nEveryone would go down the stairs on the other side of this wall and huddle together in the dim, damp basement, trembling as they waited for the raid to end.\nEven five minutes felt like days.\nBombs rained down like hail, and the roar was loud enough to burst your eardrums even with your hands clamped over your ears.\nWhenever that roar rang out, the shock came clearly through the stone walls of the shelter, and every time, everyone was sure they were going to die.\nAnd they wept, praying they wouldn't die.\nWhen the sirens stopped and the storm of bombs died down, they would all realize they'd survived and breathe a sigh of relief.{p}"
+  },
+  {
+   "id": "28:2c84",
+   "op": "text",
+   "en": "That shelter is on the other side of this wall.\nBut it was a flimsy thing, thrown together in a hurry as a stopgap.\nIt was mostly for peace of mind.\nThe people who built it must have known from the start that a single bomb would wreck a shelter like that in one hit.\nAnd then, one day, what should never have happened did.{p}"
+  },
+  {
+   "id": "28:2dac",
+   "op": "text",
+   "en": "A bomb scored a direct hit on this building.\nThe shelter was buried.\nThey wore padded air-raid hoods, but once you're buried, those are no use at all.\nEveryone was crushed under the mountain of rubble.\nSoldiers and civilians alike, dozens of people died.\n...No, to be precise, they weren't dead.{p}"
+  },
+  {
+   "id": "28:2ed0",
+   "op": "text",
+   "en": "They were buried alive.\nUnder the rubble, they all screamed for help.\nThough you could hardly call it screaming, when most of them were barely breathing.\nTheir throats were crushed, and whenever they tried to force out a word, all that came out of their mouths with each breath was blood.\n\"Mama, it hurts...\"\n\"Help me... help me...\"\nThey say all those bitter voices piled on top of each other until they sounded like some strange chorus.{p}"
+  },
+  {
+   "id": "28:303c",
+   "op": "text",
+   "en": "They were never rescued.\nBack then, everyone was desperate just to stay alive themselves.\nI suppose nobody could afford to save people who had no hope of making it.\nBy the time the collapsed shelter was dug up, they say everyone had become rotting corpses.\nAnd there was nothing to go around back then.\nEven getting hold of new lumber was no easy thing.\nSo they decided to leave the shelter as it was and just repair the half-destroyed building.\nIt wasn't a time when anyone could afford to talk about grudges or ghosts.\nApparently there are still a number of bodies buried at the site of the shelter even now.\nThey call it repairing the building, but it was practically a rebuild.\nAnd the place where the shelter had been, well, of course they put up a wall and sealed it off.{p}"
+  },
+  {
+   "id": "28:32e0",
+   "op": "text",
+   "en": "People just don't know it, but there are lots of stories like that left in this old school building.\n...They're tearing the old building down soon, right?\nWhen they do, something unexpected might turn up.{p}...Actually, there's a story about this wall, something I went through myself back in high school.\nWant to hear it?\n"
+  },
+  {
+   "id": "28:33e8",
+   "op": "choice",
+   "en": "I want to hear it"
+  },
+  {
+   "id": "28:33f4",
+   "op": "choice",
+   "en": "I've heard enough"
+  },
+  {
+   "id": "28:3404",
+   "op": "text",
+   "follows_choice": [
+    "28:33e8"
+   ],
+   "en": "All right.\nThen let me tell you.{p}"
+  },
+  {
+   "id": "28:3438",
+   "op": "text",
+   "en": "I first heard the story of this shelter when I was a second-year in high school.\nThe school's seven wonders were all the rage back then too.\nThere was the dancing skeleton in the science room, the bronze statue that walks alone at night, the music room where blood drips from the ceiling, all kinds of them.\nBut those were all lies.\nLies somebody made up.\nBut the shelter story... when I heard that one, it sent a chill down my spine.{p}"
+  },
+  {
+   "id": "28:358c",
+   "op": "text",
+   "en": "I mean, it's this wall, right?\nFor some reason, only this wall has marks like it was freshly plastered over.\nAnd going by the layout of the old school building, this one corner is walled off for no purpose at all.\nIt's enclosed by walls on all four sides, and nobody knew what was inside or why it was built that way.\nSo when a rumor like that went around, it felt strangely real.{p}So, what do you think the rumor about this place was back then?\n"
+  },
+  {
+   "id": "28:3704",
+   "op": "choice",
+   "en": "Voices can be heard from beyond the wall"
+  },
+  {
+   "id": "28:3724",
+   "op": "choice",
+   "en": "A soldier's ghost appears"
+  },
+  {
+   "id": "28:3738",
+   "op": "choice",
+   "en": "Lots of human faces rise up out of the wall"
+  },
+  {
+   "id": "28:3764",
+   "op": "text",
+   "follows_choice": [
+    "28:3724"
+   ],
+   "en": "Well, you got it.{p}"
+  },
+  {
+   "id": "28:3798",
+   "op": "text",
+   "en": "When nobody was around, they said a man in a military uniform would be standing there, hazy and still, right in front of this wall.\nEven I didn't buy that part.\nI loved scary stories, but I was never one to believe in ghosts and such.\nI thought they were all made up, and whenever I heard one, I'd just snort.\nBut from the moment I saw that thing, I changed my mind.\nI still remember it clearly, even now.\nThe face of that man in uniform.\nIt was terrifying, I'll tell you.{p}"
+  },
+  {
+   "id": "28:3958",
+   "op": "text",
+   "en": "His face looked like this...{p}"
+  },
+  {
+   "id": "28:3978",
+   "op": "text",
+   "en": "...No, it was worse than this.\nIn real life, it was even scarier.{p}"
+  },
+  {
+   "id": "28:39e0",
+   "op": "text",
+   "en": "The first time I saw it, it was in the daytime.\nI was walking alone down a hallway in the empty old school building.\nThen, as I went past this wall, I suddenly sensed someone there.\nA shiver ran through me!\nI felt this incredible cold.\nIt was like walking across a snowy mountain in a blizzard in nothing but your underwear.\nRight then, I caught a glimpse of a figure on my left.\nThe figure of a man in military uniform.\nStartled, I turned my head that way.\nBut there was no one there.\nI thought my eyes were playing tricks on me.{p}"
+  },
+  {
+   "id": "28:3b8c",
+   "op": "text",
+   "en": "And right then, that story about the shelter flashed through my head.\nBefore I knew it, I'd broken into a run.\nI was really scared.{p}"
+  },
+  {
+   "id": "28:3c0c",
+   "op": "text",
+   "en": "That's how it started.\nI was afraid to go past there.\nI avoided it as much as I could.\nEven to get to the other end of the hallway, I'd go out of my way to climb the stairs to the second floor first, and cross over up there.\nEven so, just imagining that the wall was right below me at that moment would set my whole body shaking.\nI'd always thought I wasn't the type to scare easily, so it was a bit of a shock.{p}"
+  },
+  {
+   "id": "28:3d7c",
+   "op": "text",
+   "en": "...But one day, I had no choice but to walk past that wall.{p}Why do you think that was?\n"
+  },
+  {
+   "id": "28:3de0",
+   "op": "choice",
+   "en": "A teacher sent you on an errand"
+  },
+  {
+   "id": "28:3dfc",
+   "op": "choice",
+   "en": "You made a bet with a friend"
+  },
+  {
+   "id": "28:3e0c",
+   "op": "choice",
+   "en": "There was an evacuation drill"
+  },
+  {
+   "id": "28:3e1c",
+   "op": "text",
+   "follows_choice": [
+    "28:3e0c"
+   ],
+   "en": "That's right.\nThere was an evacuation drill.{p}"
+  },
+  {
+   "id": "28:3e50",
+   "op": "text",
+   "en": "My class had no choice but to go down that hallway.\nHonestly, I hated the idea.\nBut what could I do?{p}"
+  },
+  {
+   "id": "28:3ecc",
+   "op": "text",
+   "en": "I could hardly say, 'I don't want to go there because a ghost in uniform shows up.' It'd be way too embarrassing, right?{p}"
+  },
+  {
+   "id": "28:3f38",
+   "op": "text",
+   "en": "So the drill began.\nThe scenario was that a fire had broken out on the third floor of the old school building.\nAll my class had to do was go past that wall and out to the schoolyard.\nIt was a really short distance.{p}"
+  },
+  {
+   "id": "28:400c",
+   "op": "text",
+   "en": "But as this wall drew closer, I could feel my body start to shake on its own.\nNo matter how tough you act, your body doesn't lie.\nMy legs were shaking so badly I could hardly walk.\nJust as I passed this wall, I squeezed my eyes shut and prayed silently.{p}"
+  },
+  {
+   "id": "28:4100",
+   "op": "text",
+   "en": "...Please don't let anything happen.\n...Please, please don't let anything happen.\nAnd just as I thought I must be past the wall by now...{p}"
+  },
+  {
+   "id": "28:4180",
+   "op": "text",
+   "en": "Suddenly, a tremendous roar burst into my ears.\nWith a violent blast of wind.\nThat was a bomb, no doubt about it.\nI opened my eyes in shock to see what was going on, and...{p}"
+  },
+  {
+   "id": "28:4230",
+   "op": "text",
+   "en": "Someone was there, right beside me.\nA soldier in military uniform was marching right alongside me.\nI felt more dead than alive.\nAnd it wasn't just beside me.\nI was the only one wearing a school uniform.\nEveryone else was a soldier in military uniform.\nEvery last one of my classmates had turned into soldiers I'd never seen.\nIt felt less like everyone had turned into uniformed soldiers and more like I alone had slipped into their ranks.\nI still remember that clearly, even now.\nThe strange thing was, my legs kept moving.\nIn step with them, my legs just kept marching along.\nThey all had empty eyes, and they kept marching in silence, without expression.\n...The scenery was different too.\nThe familiar sight of the school was gone.\nThere were just a few filthy shacks thrown together out of scraps and some grimy tents scattered here and there. It was a place I'd never seen.\nAnd yet I couldn't shake the feeling that I'd seen it somewhere before.\nThat's when it hit me.{p}"
+  },
+  {
+   "id": "28:4594",
+   "op": "text",
+   "en": "This is what it looked like during the war.\nThis has to be the school in wartime, I thought.\nAll around the marching soldiers, people were running for their lives.\nWearing air-raid hoods and baggy work pants, they were all dodging through the falling bombs.\nJust then, a bomb blew up right beside us as we marched.\nThe blast was incredible.\nPebbles flew up and pelted my cheeks, stinging into them.\nI couldn't even keep my eyes open.\nI staggered and grabbed the shoulder of the soldier next to me.\nAnd that's when I saw it.{p}"
+  },
+  {
+   "id": "28:475c",
+   "op": "text",
+   "en": "His face was a skull.\nA skeleton was marching in a military uniform.{p}"
+  },
+  {
+   "id": "28:47b8",
+   "op": "text",
+   "en": "\"Aaaaaaaaaaaaah!\"\nI screamed at the top of my lungs.\nThe instant I screamed, the skeleton soldiers who'd been marching so proudly collapsed one after another, like puppets with their strings cut.{p}"
+  },
+  {
+   "id": "28:487c",
+   "op": "text",
+   "en": "And then, above my head, a bomb...\nIt was like watching something in stop-motion.\nBlotting out the sunlight, the pitch-black bomb grew bigger, slowly, bit by bit.\nI screamed.\nNo, I should have screamed, but I couldn't hear a single sound anymore.\nNot the bomb falling, not the skeletons crumbling, not the screams of people running in panic, not even the bomb exploding...\nI'd been left behind in a world without sound.{p}"
+  },
+  {
+   "id": "28:4a1c",
+   "op": "text",
+   "en": "\"Aaaaaaaaaaaah!\"{p}"
+  },
+  {
+   "id": "28:4a48",
+   "op": "text",
+   "en": "When I heard my own scream, I was crouched down in the schoolyard.\nMy classmates had formed a circle around me, keeping their distance.\nThey were looking at me like I was something creepy, whispering among themselves.{p}"
+  },
+  {
+   "id": "28:4b34",
+   "op": "text",
+   "en": "I was taken to the nurse's office.\nThe school nurse back then calmed me down, saying the heatstroke had made me hallucinate.\nI don't think it was a hallucination.\nI think something made me slip back in time to the war.\nFor some reason, I haven't seen those soldiers since.\nThey had such sad eyes.\nMaybe they wanted people today, living without want for anything, to taste even a little of what they went through.\nWell, we'll know everything soon enough.\nOnce they tear down this old school building, we'll find out what's sleeping under here.\nTruth is, I'm looking forward a little to seeing just what turns up then.{p}"
+  },
+  {
+   "id": "28:4d80",
+   "op": "text",
+   "en": "...Well, that's the end of my story.\nThat's enough for one night, right?\nLet's all head home.\nI'll walk you to the school gate.{p}"
+  },
+  {
+   "id": "28:4df4",
+   "op": "text",
+   "en": "...Mr. Kuroki saw {f:us|us} off, and we left the school.\n...Anyway, things worked out somehow{f:|}.\nYou could call it a happy accident{f:, I suppose|, I guess}.\nThe seventh person never showed, but I got to hear Mr. Kuroki's scary story instead, so I guess that makes him the seventh{f:|}.{p}"
+  },
+  {
+   "id": "28:4efc",
+   "op": "text",
+   "en": "Still, it was pretty late{f:|}.\nOn the way home, I happened to glance at a clock outside a shop; it was almost nine.{p}"
+  },
+  {
+   "id": "28:4f7c",
+   "op": "text",
+   "en": "When I got home, {f:I|I} thought back over everything that had happened today.\n...Still, there sure are some scary stories out there{f:|}.{p}"
+  },
+  {
+   "id": "28:4ffc",
+   "op": "text",
+   "en": "Iwashita and the others disappeared partway through, but what was that about?\n...The storytellers vanished one by one partway through, and that still hasn't been solved.\nWas it somebody's prank...?\nNo, that can't be.\nI can't believe it was a prank.\nThere really is something unknown and nameless living in that school.\n{f:I|I} felt a strange chill, even though it was summer.{p}"
+  },
+  {
+   "id": "28:517c",
+   "op": "text",
+   "en": "Iwashita went home partway through. I wonder if she's all right.\nWho would have thought her younger brother was Uchiyama...\nIf I see her at school tomorrow, how am {f:I|I} supposed to face her{f:|}?\nMaybe {f:I|I} should at least be the one to apologize first{f:|}.{p}"
+  },
+  {
+   "id": "28:5284",
+   "op": "text",
+   "en": "Well, Kazama was the only one who told some story that made no sense at all, but I'll put up with that.\nTomorrow I can just ask Hino why he invited Kazama of all people{f:|}.\nMy heart was pounding plenty, but it was an interesting experience{f:|}.{p}"
+  },
+  {
+   "id": "28:5388",
+   "op": "text",
+   "en": "Just then.\nThe phone suddenly rang.{p}"
+  },
+  {
+   "id": "28:53b4",
+   "op": "text",
+   "en": "Who could it be at this hour{f:|}?\nI looked at the clock; it was already past eleven.{p}What {f:should I do|should I do}?\nShould I {f:answer it|answer it}?\n"
+  },
+  {
+   "id": "28:5438",
+   "op": "choice",
+   "en": "Answer the phone"
+  }
+ ]
+}

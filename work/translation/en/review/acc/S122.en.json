@@ -1,0 +1,445 @@
+{
+ "slice": "S122",
+ "scene": "31",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S121",
+ "next": "S123",
+ "todo": [],
+ "rows": [
+  {
+   "id": "31:3b88",
+   "op": "choice",
+   "en": "The painting is unchanged, just as it was"
+  },
+  {
+   "id": "31:3ba4",
+   "op": "choice",
+   "en": "It has the face she had when she was killed"
+  },
+  {
+   "id": "31:3bc4",
+   "op": "choice",
+   "en": "The painting is gone from the art room"
+  },
+  {
+   "id": "31:3be4",
+   "op": "choice",
+   "en": "I don't want to imagine it"
+  },
+  {
+   "id": "31:3bf4",
+   "op": "text",
+   "follows_choice": [
+    "31:3b88",
+    "31:9948"
+   ],
+   "en": "I see, so that's what you'd like to think.\nUfufu... Let's hope the painting hasn't changed.\n"
+  },
+  {
+   "id": "31:3c3c",
+   "op": "text",
+   "en": "Now, I'm opening it.{p}"
+  },
+  {
+   "id": "31:3c80",
+   "op": "text",
+   "en": "......Well?\nHow does it look to your eyes?\nTo mine.......{p}"
+  },
+  {
+   "id": "31:3cdc",
+   "op": "text",
+   "en": "No, no more words are needed.\nWhat you see is your own problem.\nBut everyone who saw that painting died, without fail.\nSoon, and certainly......\nAt least, the four so far did.\nWill you be the fifth? Or will I be the fifth, and you the sixth......\nLet's hope it doesn't come to that.{p}"
+  },
+  {
+   "id": "31:3de4",
+   "op": "text",
+   "en": "Ufufufufu......\n......Well then, shall we go back?\nWe still have to hear the fourth person's story, don't we?\nI do hope we all make it through every story safely......\nUfufufufu......{p}"
+  },
+  {
+   "id": "31:3e88",
+   "op": "text",
+   "follows_choice": [
+    "31:0c90"
+   ],
+   "en": "Oh, is that so.\nThen I'm afraid the story I prepared will bore you.\nIt's a story about a painting, you see.\nIwashita turned her face away.\nHad I {f:upset|upset} her?\nShe didn't have to get angry over something like that...\nBut anyway, {f:I|I} decided to apologize.\n\"{f:Sorry about that|I'm sorry}, Iwashita.\"{p}"
+  },
+  {
+   "id": "31:3fc0",
+   "op": "text",
+   "en": "Iwashita glanced at {f:me|me}.\n\"You don't really dislike paintings, do you?\"\n..........What a pushy person {f:she was|she was}.\n{f:I|I} sighed, and then nodded.\n\"No, I don't.\n{f:I|I} love paintings, actually.\"\nHearing {f:my|my} answer, Iwashita seemed to cheer up again.{p}"
+  },
+  {
+   "id": "31:40d8",
+   "op": "text",
+   "follows_choice": [
+    "31:0c98"
+   ],
+   "en": "What a wishy-washy person you are.\nCan't you even decide cleanly whether you like something or not?{p}You're indecisive, aren't you?\n"
+  },
+  {
+   "id": "31:4148",
+   "op": "choice",
+   "en": "That's not true"
+  },
+  {
+   "id": "31:415c",
+   "op": "choice",
+   "en": "Maybe that's true"
+  },
+  {
+   "id": "31:416c",
+   "op": "text",
+   "follows_choice": [
+    "31:4148"
+   ],
+   "en": "Then you can at least answer whether you like something or not, can't you?\nDo you like paintings?\nOr do you dislike them?{p}Make up your mind.\n"
+  },
+  {
+   "id": "31:41d8",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "31:41e0",
+   "op": "choice",
+   "en": "I dislike them"
+  },
+  {
+   "id": "31:41f0",
+   "op": "text",
+   "follows_choice": [
+    "31:41e0"
+   ],
+   "en": "Hmm, so you dislike them.\nShould you really say something like that?\nAfter all, a painting holds the feelings of the person who painted it.\nIt's affected by their mood while painting, too, but which feeling do you think is the strongest?\n......That's right: the wish to be seen by someone.\nArtists all seem to have that urge to show themselves off, to some degree.\nI suppose they have to, or they couldn't be artists.\nBut the feelings poured into a painting like that gradually become one with the painting.\nAnd then the painting itself begins to wish that someone would look at it.\nHave you ever heard stories about the eyes of a portrait moving to look at you?\nOr people slipping out of paintings and walking around?\nThey do that because they want to stand out, too.\nWith that one single wish, 'Look at me,' they'll do even unbelievable things.\nThat's how strong the feeling is.{p}"
+  },
+  {
+   "id": "31:44c4",
+   "op": "text",
+   "en": "And yet you say you dislike paintings.\nWithout even thinking about how the paintings who hear it will feel..........\nHow inconsiderate.\nPaintings dislike tactless people like you, too.\n......You'd better not think it doesn't matter if paintings hate you.\nA painting with an especially strong will can live among us, looking no different from a human being.{p}"
+  },
+  {
+   "id": "31:4618",
+   "op": "text",
+   "en": "Shall I tell you how I know such a thing?\nBecause I'm one of those paintings myself.\nWell? I'm no different from an ordinary person, am I?\nI was originally a portrait, but I switched places with the real Akemi Iwashita.\nWhere the real one went is... ufufu, a secret.{p}"
+  },
+  {
+   "id": "31:4700",
+   "op": "text",
+   "en": "......What's wrong? You're making a funny face.\nIf you can't believe me, that's fine too.\nBut anyway, you dislike us paintings.\nAnd I, on behalf of my kind, dislike you.\nBe careful.\nMaking an enemy of me is a frightening thing......{p}"
+  },
+  {
+   "id": "31:47d4",
+   "op": "text",
+   "en": "Just kidding.\nIt's a joke, a joke..........probably, ufufufu.\nYou were a little scared, weren't you?\nSo, who's telling the next story?{p}"
+  },
+  {
+   "id": "31:484c",
+   "op": "text",
+   "follows_choice": [
+    "31:415c"
+   ],
+   "en": "I thought so.\nIn that case, just decide that you like paintings.{p}All right? That's fine, isn't it?\n"
+  },
+  {
+   "id": "31:489c",
+   "op": "choice",
+   "en": "That's fine"
+  },
+  {
+   "id": "31:48a4",
+   "op": "choice",
+   "en": "No way"
+  },
+  {
+   "id": "31:48b4",
+   "op": "text",
+   "follows_choice": [
+    "31:489c"
+   ],
+   "en": "You're easily swayed by other people's opinions.\nYou should have a bit more of a mind of your own. You're not a child anymore.\nWell, never mind.{p}"
+  },
+  {
+   "id": "31:4934",
+   "op": "text",
+   "en": "I love paintings too, you know.\nI think it's because I have such a vivid imagination, but when I look at a painting, I feel as if I'm being drawn right into it.\nAnd then I feel the painting's atmosphere with my whole body.{p}"
+  },
+  {
+   "id": "31:49e4",
+   "op": "text",
+   "follows_choice": [
+    "31:48a4"
+   ],
+   "en": "Oh, is that so.\nAfter I've gone this far for you.\nI don't want to talk to you anymore."
+  },
+  {
+   "id": "31:4a44",
+   "op": "text",
+   "en": "With that, Iwashita turned her face away in a huff.\nIt didn't look like she would tell me anything more.\nThere was nothing for it. I'd go and hear the next person's story.{p}"
+  },
+  {
+   "id": "31:4acc",
+   "op": "text",
+   "follows_choice": [
+    "31:0d9c"
+   ],
+   "en": "I see. What a shame.\nBut painting does take a special talent, doesn't it?\nIt's no use telling someone without it to paint.\nEven if they managed it, it would be a dead painting.{p}"
+  },
+  {
+   "id": "31:4b5c",
+   "op": "text",
+   "en": "......You look puzzled.\nDon't you know?{p}"
+  },
+  {
+   "id": "31:4ba8",
+   "op": "text",
+   "follows_choice": [
+    "31:1920"
+   ],
+   "en": "......Oh, well.\nI thought it would be quicker if you could see it for yourself.\nThe truth is, before I came here, I stopped by the art room.\nAnd I picked out one portrait from among all the paintings and hung it up.\nWhy, you ask?\n......Because the story I'm about to tell is about that painting.{p}"
+  },
+  {
+   "id": "31:4cbc",
+   "op": "text",
+   "en": "That painting is a self-portrait, painted by a student who used to go to this school.\nOf course, she was in the art club.\nHer name was Tomoko Shimizu.{p}"
+  },
+  {
+   "id": "31:4d44",
+   "op": "text",
+   "en": "They say she was a very quiet person.\nShe loved painting, and she was aiming to get into art college.\nBut she was murdered while she was still painting that self-portrait, apparently.{p}"
+  },
+  {
+   "id": "31:4e00",
+   "op": "text",
+   "en": "They say it was just before the painting was finished.\nTo this day, no one knows who killed her.\nThe killer was never caught.\n"
+  },
+  {
+   "id": "31:4e64",
+   "op": "text",
+   "en": "It seems someone strangled her to death on her way home from school.\nIt might have been a random attacker.\nOr maybe it was planned......\nShimizu must have been so bitter.\nBack then she always stayed late in the art room, painting, so she could enter that picture in the prefectural competition.\n......And then, just before the painting was finished, tragedy struck.{p}"
+  },
+  {
+   "id": "31:4fac",
+   "op": "text",
+   "en": "Say, {a}{f:|}.\nCan you imagine what became of that unfinished painting?\nThe one I hung in the art room, I mean.\nThe truth is, it was finished.\nStrange, isn't it? Shimizu was supposed to have been killed before she finished it.\nI'll tell you how such a thing could happen.{p}"
+  },
+  {
+   "id": "31:50cc",
+   "op": "text",
+   "follows_choice": [
+    "31:192c"
+   ],
+   "en": "Oh, are you really sure?\nAn eerie presence is starting to fill this room, too.\nWe've already told two of the seven wonders, after all.\nYou mean to stay here alone, in a place like this?\n......Well, if that's what you want, I don't mind.\nBut you're a strange one.\nI'd never do it, not for anything.\nWell then, we're going, but if you change your mind, come after us.{p}"
+  },
+  {
+   "id": "31:521c",
+   "op": "text",
+   "en": "Everyone except {f:me|me} stood up and began filing out of the room.\nIwashita, the last to go, looked back at {f:me|me}.{p}"
+  },
+  {
+   "id": "31:52c4",
+   "op": "text",
+   "en": "\"Be careful......\"\nShe giggled softly.\nA chill ran down my spine.\nDid she know something?\nSuddenly the thought of being left alone in this room frightened me.\n\"W... Wait!\"\nI hurriedly stood up.\n\"I'll come after all.\"\n\"I see......\"\nIwashita, who had been about to close the door, gave me a broad smile.\n\"A wise choice.\"{p}"
+  },
+  {
+   "id": "31:53f4",
+   "op": "text",
+   "follows_choice": [
+    "31:1c44"
+   ],
+   "en": "You don't feel it?\nYou really don't feel anything?\nWas I mistaken when I thought you had a sixth sense?\nWell, never mind.\nLet's go on with the story.{p}"
+  },
+  {
+   "id": "31:5480",
+   "op": "text",
+   "follows_choice": [
+    "31:1db0"
+   ],
+   "en": "Don't say such a thing.{p}Let's hang it up for her, all right?\n"
+  },
+  {
+   "id": "31:54bc",
+   "op": "choice",
+   "en": "It's fine to hang it up"
+  },
+  {
+   "id": "31:54cc",
+   "op": "choice",
+   "en": "We mustn't hang it up"
+  },
+  {
+   "id": "31:54f4",
+   "op": "text",
+   "follows_choice": [
+    "31:54cc"
+   ],
+   "en": "How cold you are.\nThen surely it's all right if I at least lean it against this easel.\n"
+  },
+  {
+   "id": "31:5548",
+   "op": "text",
+   "en": "......There, that will do.\nShall we go back to the club room?\n"
+  },
+  {
+   "id": "31:5594",
+   "op": "text",
+   "en": "......Did you hear something just now?\nWhat was that sound?\n..........Look!{p}"
+  },
+  {
+   "id": "31:55ec",
+   "op": "text",
+   "en": "On the wall in front of us.\nThat painting is hanging there!\nDid one of you just hang that painting on the wall?\n......You're saying nobody did?\nThen that painting hung itself on the wall, all on its own?\nThere's no other way to explain it, is there?{p}"
+  },
+  {
+   "id": "31:56e0",
+   "op": "text",
+   "en": "......Oh, {a}{f:|}, you look pale.\nCould it be... you're scared?\nHow hopeless. {f:And you call yourself a boy|You can't be like that}.\nThis is no more than the beginning.\nThe truly frightening part is still to come.\n......Hm? You're asking if I know something?\nFufu, who can say?{p}"
+  },
+  {
+   "id": "31:5804",
+   "op": "text",
+   "follows_choice": [
+    "31:1fd4"
+   ],
+   "en": "You mustn't get angry.\nLook, that painting is watching.\nYou mustn't get angry in front of a painting that harbors such a strong grudge.\nThat grudge has only just settled down, and it might awaken.{p}"
+  },
+  {
+   "id": "31:58bc",
+   "op": "text",
+   "en": "That painting...... don't you feel as if it's glaring at you?\n..........What's wrong?\nYou've gone white as a sheet.\nDid you see something, maybe?\nLike the painting's face changing..........\nNot that I know anything. I'm only making it up.\nCome on, let's go.{p}"
+  },
+  {
+   "id": "31:59b0",
+   "op": "text",
+   "en": "......But, {a}{f:|}?\nIf you really did see something, you'd better be careful.\nIt might be sending a message to you.\nIf you don't notice it and ignore it......\nOh, I don't even want to think about that, do you?{p}"
+  },
+  {
+   "id": "31:5aac",
+   "op": "text",
+   "en": "......Here we are.\nNow that everyone's back in their seats, shall we go on with the story?{p}"
+  },
+  {
+   "id": "31:5b18",
+   "op": "text",
+   "follows_choice": [
+    "31:2be8"
+   ],
+   "en": "It was decided that it might be best to go ahead and burn it.\nSo they took it to the incinerator, but the painting was too big to fit inside.\nThere was nothing else for it, so they laid it on the ground and decided to set fire to it right there.{p}"
+  },
+  {
+   "id": "31:5c08",
+   "op": "text",
+   "en": "As the art club members looked on, one of the teachers struck a match and tossed it at the painting.{p}What do you think happened then?\n"
+  },
+  {
+   "id": "31:5c7c",
+   "op": "choice",
+   "en": "It burst into flames"
+  },
+  {
+   "id": "31:5c90",
+   "op": "choice",
+   "en": "The fire went out"
+  },
+  {
+   "id": "31:5ccc",
+   "op": "text",
+   "follows_choice": [
+    "31:5c7c"
+   ],
+   "en": "In an instant, the painting went up in flames.\nA pillar of fire roared up, several meters high.\nAnd horribly, the flames swallowed up the teacher, who had been leaning over it.\nThe art club members rushed to put the fire out, but it was no use.\nThe teacher, a human fireball, was rolling around in agony, and they couldn't get near.{p}"
+  },
+  {
+   "id": "31:5dec",
+   "op": "text",
+   "en": "After a while the fire died down, but by then the teacher had already stopped moving.\n"
+  },
+  {
+   "id": "31:5e4c",
+   "op": "text",
+   "en": "Into that silence, as if the very air had frozen, someone's sudden scream broke.{p}"
+  },
+  {
+   "id": "31:5e98",
+   "op": "text",
+   "en": "That person was pointing at the portrait.\n......It must have caught fire, and yet there wasn't a single scorch mark on the portrait.\nAnd that wasn't all.\nBefore it was set alight, it had certainly still been unfinished, but somehow the painting had been completed."
+  },
+  {
+   "id": "31:5f7c",
+   "op": "text",
+   "en": "As if it had sucked the life out of the teacher.{p}"
+  },
+  {
+   "id": "31:5fb4",
+   "op": "text",
+   "en": "......After that, no one ever suggested burning that painting again.\nOf course not. Nobody wants to die.\nAnd that's why that portrait is still in the art room today.{p}"
+  },
+  {
+   "id": "31:605c",
+   "op": "text",
+   "en": "But...... sometimes, they say, strange sounds can be heard coming from that painting.\nA roaring whoosh, like something burning, and mixed in with it a voice, as if someone were crying, or laughing.\nIs that the voice of the teacher who burned?\nOr is it her, rejoicing that she finished her painting?{p}"
+  },
+  {
+   "id": "31:6170",
+   "op": "text",
+   "en": "......And that's the end of my story.\nNow then, shall we go to the art room and put that painting back?\nWho knows, we might hear something.{p}"
+  },
+  {
+   "id": "31:6208",
+   "op": "text",
+   "en": "......Here we are.\nAh, the painting is still hanging right there on the wall.\n{a}{f:|}, sorry, but would you take that painting down off the wall for me?{p}"
+  },
+  {
+   "id": "31:62a0",
+   "op": "text",
+   "en": "Iwashita said that with a big smile on her face.\nIt felt like she was making fun of {f:me|me}, and it got under my skin.\nSo, scared as I was, I walked up to the painting without letting it show.{p}"
+  },
+  {
+   "id": "31:6384",
+   "op": "text",
+   "en": "......I heard a voice...... or thought I did.\nThat couldn't be.\nIt was only because Iwashita had told that story that I was imagining things.\nIt had to be.{p}"
+  },
+  {
+   "id": "31:6448",
+   "op": "text",
+   "en": "..........I could still hear it."
+  },
+  {
+   "id": "31:6474",
+   "op": "text",
+   "en": "Mixed in with what sounded like something burning, there was definitely something like a human voice.\nWithout thinking, {f:I|I} stared hard at the painting.{p}"
+  },
+  {
+   "id": "31:64fc",
+   "op": "text",
+   "en": "......The eyes moved!\nThe eyes of the woman in the painting looked at {f:me|me}☆\nEverything else was oil paint, but those eyeballs alone were solid and real, just like a living person's.{p}"
+  },
+  {
+   "id": "31:6598",
+   "op": "text",
+   "en": "{f:I|I} screamed.\nI tried to run and fell flat on my backside.{p}"
+  },
+  {
+   "id": "31:6604",
+   "op": "text",
+   "en": "\"Ufufu...... What's the matter with you, {a}{f:|}?\"\nIwashita's voice, full of laughter, came from right behind me.\n\"Did that story scare you so much that you started seeing things?\nYou're more timid than you look.\"\n{f:I|I} couldn't say a word.\nHadn't Iwashita seen anything?\nThe eyes had moved so clearly.{p}"
+  },
+  {
+   "id": "31:672c",
+   "op": "text",
+   "en": "But when I looked at the painting again, there was nothing strange about it.\nHad {f:I|I} been so scared that I'd seen things, just as Iwashita said?{p}"
+  },
+  {
+   "id": "31:67c8",
+   "op": "text",
+   "en": "Iwashita was still smiling.\n\"Well then, let's go back.\nI wonder who will tell us the next story?\"{p}"
+  },
+  {
+   "id": "31:6844",
+   "op": "text",
+   "follows_choice": [
+    "31:5c90"
+   ],
+   "en": "When the match landed on the painting, everyone naturally thought it would burn up at once.\nBut that's not what happened.\nThe instant the flame touched the painting, it just went out, poof.\nThere wasn't even any wind, so the people watching thought it was strange.\nBut anyway, they tossed another lit match at it.\nAnd it went out again.{p}"
+  }
+ ]
+}

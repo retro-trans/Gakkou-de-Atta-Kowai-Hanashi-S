@@ -1,0 +1,9 @@
+{
+ "rows": {
+  "06:2d8c": "Shindo walked out of the club room.\n..............................\nWe waited for him for a while.\nBut Shindo showed no sign of coming back.\nDid a cursed book really exist?\nWasn't it dangerous to go see something like that alone?\nI started to get worried.\n...I think I'll go see how he's doing.{p}"
+ },
+ "notes": [
+  "06:2d8c: FIX dot run - standalone silence line is 10 ellipsis chars (30 dots) in the source; English had shortened it to 10 periods. Restored to 30, matching the S010 precedent for the same pattern.",
+  "06:29e4: KEPT OMISSION - speaker of 'Brace yourself!' is not named; the attack comes from behind and 06:2b08 shows Shindo in front, so the voice could be Shindo or the seventh person. Left unattributed."
+ ]
+}

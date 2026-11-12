@@ -1,0 +1,325 @@
+{
+ "slice": "S018",
+ "scene": "06",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S017",
+ "next": "S019",
+ "rows": [
+  {
+   "id": "06:2070",
+   "op": "text",
+   "follows_choice": [
+    "06:2054"
+   ]
+  },
+  {
+   "id": "06:2178",
+   "op": "text"
+  },
+  {
+   "id": "06:21c0",
+   "op": "choice"
+  },
+  {
+   "id": "06:21c8",
+   "op": "choice"
+  },
+  {
+   "id": "06:21d0",
+   "op": "text",
+   "follows_choice": [
+    "06:21c0"
+   ]
+  },
+  {
+   "id": "06:22f4",
+   "op": "text"
+  },
+  {
+   "id": "06:2338",
+   "op": "choice"
+  },
+  {
+   "id": "06:2340",
+   "op": "choice"
+  },
+  {
+   "id": "06:235c",
+   "op": "text",
+   "follows_choice": [
+    "06:2338"
+   ]
+  },
+  {
+   "id": "06:2418",
+   "op": "text"
+  },
+  {
+   "id": "06:2450",
+   "op": "choice"
+  },
+  {
+   "id": "06:2458",
+   "op": "choice"
+  },
+  {
+   "id": "06:2464",
+   "op": "text",
+   "follows_choice": [
+    "06:2450"
+   ]
+  },
+  {
+   "id": "06:2574",
+   "op": "text"
+  },
+  {
+   "id": "06:2618",
+   "op": "choice"
+  },
+  {
+   "id": "06:2620",
+   "op": "choice"
+  },
+  {
+   "id": "06:2634",
+   "op": "text",
+   "follows_choice": [
+    "06:2618"
+   ]
+  },
+  {
+   "id": "06:26e8",
+   "op": "text"
+  },
+  {
+   "id": "06:2718",
+   "op": "choice"
+  },
+  {
+   "id": "06:2720",
+   "op": "choice"
+  },
+  {
+   "id": "06:2730",
+   "op": "text",
+   "follows_choice": [
+    "06:2718"
+   ]
+  },
+  {
+   "id": "06:2858",
+   "op": "choice"
+  },
+  {
+   "id": "06:2868",
+   "op": "choice"
+  },
+  {
+   "id": "06:2880",
+   "op": "text",
+   "follows_choice": [
+    "06:2858"
+   ]
+  },
+  {
+   "id": "06:2954",
+   "op": "choice"
+  },
+  {
+   "id": "06:295c",
+   "op": "choice"
+  },
+  {
+   "id": "06:2970",
+   "op": "text",
+   "follows_choice": [
+    "06:295c"
+   ]
+  },
+  {
+   "id": "06:29a0",
+   "op": "text"
+  },
+  {
+   "id": "06:29c8",
+   "op": "choice"
+  },
+  {
+   "id": "06:29d0",
+   "op": "choice"
+  },
+  {
+   "id": "06:29d8",
+   "op": "text",
+   "follows_choice": [
+    "06:29c8"
+   ]
+  },
+  {
+   "id": "06:29e4",
+   "op": "text"
+  },
+  {
+   "id": "06:2a10",
+   "op": "text"
+  },
+  {
+   "id": "06:2a70",
+   "op": "text"
+  },
+  {
+   "id": "06:2b08",
+   "op": "text"
+  },
+  {
+   "id": "06:2c74",
+   "op": "text",
+   "follows_choice": [
+    "06:0bec"
+   ]
+  },
+  {
+   "id": "06:2cd0",
+   "op": "text",
+   "follows_choice": [
+    "06:0bf4"
+   ]
+  },
+  {
+   "id": "06:2d40",
+   "op": "text",
+   "follows_choice": [
+    "06:112c"
+   ]
+  },
+  {
+   "id": "06:2d8c",
+   "op": "text"
+  },
+  {
+   "id": "06:2ed4",
+   "op": "text"
+  },
+  {
+   "id": "06:2f4c",
+   "op": "text"
+  },
+  {
+   "id": "06:302c",
+   "op": "text",
+   "follows_choice": [
+    "06:1384"
+   ]
+  },
+  {
+   "id": "06:30b4",
+   "op": "text"
+  },
+  {
+   "id": "06:3330",
+   "op": "text"
+  },
+  {
+   "id": "06:3434",
+   "op": "text"
+  },
+  {
+   "id": "06:3520",
+   "op": "text"
+  },
+  {
+   "id": "06:3700",
+   "op": "text"
+  },
+  {
+   "id": "06:3814",
+   "op": "text"
+  },
+  {
+   "id": "06:3858",
+   "op": "choice"
+  },
+  {
+   "id": "06:3870",
+   "op": "choice"
+  },
+  {
+   "id": "06:3888",
+   "op": "choice"
+  },
+  {
+   "id": "06:38b8",
+   "op": "text",
+   "follows_choice": [
+    "06:3858"
+   ]
+  },
+  {
+   "id": "06:3930",
+   "op": "text"
+  },
+  {
+   "id": "06:398c",
+   "op": "text"
+  },
+  {
+   "id": "06:39ec",
+   "op": "text"
+  },
+  {
+   "id": "06:3a10",
+   "op": "text"
+  },
+  {
+   "id": "06:3a38",
+   "op": "text"
+  },
+  {
+   "id": "06:3a64",
+   "op": "text"
+  },
+  {
+   "id": "06:3ac4",
+   "op": "text"
+  },
+  {
+   "id": "06:3b8c",
+   "op": "text"
+  },
+  {
+   "id": "06:3c58",
+   "op": "text"
+  },
+  {
+   "id": "06:3d50",
+   "op": "text"
+  },
+  {
+   "id": "06:3e70",
+   "op": "text"
+  },
+  {
+   "id": "06:405c",
+   "op": "text",
+   "follows_choice": [
+    "06:3870"
+   ]
+  },
+  {
+   "id": "06:41b8",
+   "op": "text"
+  },
+  {
+   "id": "06:426c",
+   "op": "text",
+   "follows_choice": [
+    "06:3888"
+   ]
+  },
+  {
+   "id": "06:4440",
+   "op": "text"
+  }
+ ]
+}

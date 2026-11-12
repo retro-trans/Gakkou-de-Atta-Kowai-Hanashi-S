@@ -1,0 +1,1051 @@
+{
+ "chunk": "E068",
+ "scene": "34",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "slices": [
+  "S132",
+  "S133",
+  "S134"
+ ],
+ "prev": "E067",
+ "next": "E069",
+ "todo": [],
+ "rows": [
+  {
+   "id": "34:0d2c",
+   "op": "text",
+   "en": "...First, shall I introduce myself?\nMy name is Akemi Iwashita.\nI'm in Class 3-A.\n...So the seventh one never came after all.\nDid they forget? Or did some problem keep them from coming?\n...Or were they never invited in the first place?\nI suppose none of that matters.\nWhatever the reason, the fact is they aren't coming.\nFate can't be changed, can it?\n...But is fate truly something that can't be changed?\nSome people say a person's fate is entirely decided from the moment they're born.\nThat God has decided every human being's fate.\nAnd that no matter how you struggle, it can never be changed.\nSome people preach that all people are equal, but I don't think so.\nSome are born rich, and some are born poor.\nAnd plenty of them stay exactly that way until the day they die.\nIs that equality?\nI don't think it is.\nIf that is what fate is, then God is cruel, isn't he?{p}Tell me, {a}{f:|}.\nDo you believe in fate?\n"
+  },
+  {
+   "id": "34:10b8",
+   "op": "choice",
+   "en": "I believe in it"
+  },
+  {
+   "id": "34:10c0",
+   "op": "choice",
+   "en": "I don't believe in it"
+  },
+  {
+   "id": "34:10d4",
+   "op": "text",
+   "en": "I see, so you believe in fate.\nDo you think that fate can be changed?\n",
+   "follows_choice": [
+    "34:10b8"
+   ]
+  },
+  {
+   "id": "34:111c",
+   "op": "choice",
+   "en": "It can be changed"
+  },
+  {
+   "id": "34:1128",
+   "op": "choice",
+   "en": "It can't be changed"
+  },
+  {
+   "id": "34:1138",
+   "op": "text",
+   "en": "...Heh heh.\nI'm gradually starting to see what kind of person you are.{p}",
+   "follows_choice": [
+    "34:111c"
+   ]
+  },
+  {
+   "id": "34:1174",
+   "op": "text",
+   "en": "...Well then, are you satisfied with your life?\n"
+  },
+  {
+   "id": "34:11a8",
+   "op": "choice",
+   "en": "I'm satisfied"
+  },
+  {
+   "id": "34:11b8",
+   "op": "choice",
+   "en": "I'm not satisfied"
+  },
+  {
+   "id": "34:11d0",
+   "op": "text",
+   "en": "I see.\nSo you're happy.\nBut is that true satisfaction?\nYou might have been able to lead a far more wonderful life.\nIf you ask me, I think you're settling.\nIf you want to win true happiness, you have to seize it, even if it means killing others.{p}",
+   "follows_choice": [
+    "34:11a8"
+   ]
+  },
+  {
+   "id": "34:12d8",
+   "op": "text",
+   "en": "Heh heh...\nThe story I'm about to tell you is that kind of story.\nA story about fate.{p}"
+  },
+  {
+   "id": "34:1328",
+   "op": "text",
+   "en": "Even if you try to change your fate, it won't change easily.\nYou have to struggle for it: hard work, study, self-control.\nEven then, if such a thing as fate exists, I can't imagine it changing easily.\n...But you know, there is an easy way.\nAt least, a way that leaves the person themselves satisfied.\nCan you guess what it is?\nIt's relying on objects.\nIt's very common these days, isn't it?\nPower stones, tachyon goods, pyramid power.\nThings of that sort, said to hold supernatural powers.\nBy relying on such things, people try to change their fate and carve out a bright future.\nWhat comes of leaning entirely on outside powers without making any effort...\nAnyone with a brain should know that already.\n{a}{f:|}, isn't there someone like that around you?\nSomeone who's become obsessed with that sort of mysterious power.\nThere's one in my class.\nA pitiful person who has fallen under the spell of that kind of magic.{p}"
+  },
+  {
+   "id": "34:1658",
+   "op": "text",
+   "en": "Her name is Yuriko Okawa.\nOkawa was especially interested in power stones.\nPower stones are stones that hold mysterious powers; to put it simply, crystals.\nThere are many kinds of stones, and each has a different effect.\nYour eyesight improves, illnesses are cured, your mind is calmed, money piles up; things like that happen just from having the stone.\nSounds like a dream, doesn't it?\nOf course, some people say such things are unrealistic.\nBut if the people who want to believe choose to believe, that's their right.\nIf having a power stone puts someone in the right frame of mind, I'd say that alone makes it worth plenty.\nOne famous power stone is lapis lazuli.\nThey say if you carry it, you can find happiness.\nLost things turn up, loves you thought were hopeless come true.\nIt also holds the power to turn bad luck around.\nPerhaps those are trivial things that would happen whether you had lapis lazuli or not.\nBut what people choose to think is up to them.\nIt was even a bit of a fad among girls at one point{f:, you know| - you must remember}.\nBut among enthusiasts, there's a rumor of a lucky power stone with effects beyond even lapis lazuli.{p}"
+  },
+  {
+   "id": "34:1ab8",
+   "op": "text",
+   "en": "Its name is Rubelize.\nRubelize is a beautiful amber-colored stone, but apparently it's extremely rare.\nIt's all but impossible to get in Japan, and it's not priced so that ordinary people can easily buy it.\nEven so, they say Rubelize's power is tremendous.\nThey say it grants its owner's every wish, whatever that wish may be.\nBut it's a strange story, isn't it?\nIf you could afford something as expensive as Rubelize, I think most of your wishes would come true anyway.\nAnd still wanting Rubelize on top of that... how stupid.\nI can't understand the way rich people think.{p}"
+  },
+  {
+   "id": "34:1cc4",
+   "op": "text",
+   "en": "And of course, Okawa knew about Rubelize too.\nShe had lapis lazuli, but that alone was no longer enough for her.\nThat's human greed for you.\nOnce she learned that Rubelize existed, she could no longer believe in lapis lazuli's power.\nBut Rubelize cost more than she could ever obtain in her whole life, no matter how hard she worked.\nShe would have had to sacrifice her happiness just to get the stone of happiness.\nBut she was the type to rely on outside powers in the first place, wasn't she?\nPeople like that are selfish.\nWhen they can't get what they want, they want it all the more.\nSo she apparently prayed to God every day.\n\"Dear God.\nPlease, I beg you, grant me Rubelize.\nI'll do anything.\"\n...How stupid.\nIf she had time for that, she should have spent it working hard instead.{p}"
+  },
+  {
+   "id": "34:1fac",
+   "op": "text",
+   "en": "But it's a strange thing.\nMaybe God really does exist.\nHer wish was granted.\nThough it all began with a rumor that didn't ring very true.{p}"
+  },
+  {
+   "id": "34:2064",
+   "op": "text",
+   "en": "She happened to overhear some classmates talking.\n\"Hey, hey, do you know about Rubelize?\"\n\"What's that?\"\nOkawa wanted to join the conversation right away.\nBut she kept a straight face and just listened in.\n\"It's a really expensive power stone, but it works amazingly well.\"\n\"Ooh, I want one.\"\n\"Don't be stupid.\nYou can't just buy one that easily.\n...But you know, apparently a senior at our school had one a long time ago.\"\n\"Wow... amazing.\"\nOkawa was stunned and listened intently.\nTo think someone at this very school had owned Rubelize...\nOkawa was so envious and so frustrated she felt her heart would burst.{p}"
+  },
+  {
+   "id": "34:22c0",
+   "op": "text",
+   "en": "\"...But you know, that person died.\"\n\"Whaaat!\nThen you can't count on that stone's power at all.\nIf the owner died, it was a fake, I bet.\"\n\"I don't think so.\nI mean, they died in an accident.\nUp until then they were super happy, apparently.\"\n\"Really?\"\n\"Really.\nAnd then they buried it in that person's grave with them.\nThat Rubelize.\"\n\"What a waste!\"\nOkawa couldn't hold back any longer.\nShe hurried to join the conversation.{p}"
+  },
+  {
+   "id": "34:2494",
+   "op": "text",
+   "en": "\"Hey!\nWhat was that senior's name?\"\n\"...I think it was Okazaki... Okazaki... um, I don't know the first name, but I'm pretty sure it was Okazaki.\"\nThat was all Okawa needed to know.\nThe rest she could find out by looking into it.\nAll she had to do was find an Okazaki who had been a student at this school and died young.{p}"
+  },
+  {
+   "id": "34:25d4",
+   "op": "text",
+   "en": "When she went through the old graduation albums, she found Okazaki right away.\nHer full name was Yukie Okazaki.\nShe had been a student about twenty-five years before Okawa.\nThat Okazaki had known about Rubelize so long ago, and had even owned it, made Okawa hate her bitterly.\nBack then, power stones weren't even something ordinary people talked about.\nThat's just how selfish people are.{p}Naturally, you can guess what Okawa had in mind, can't you?\n",
+   "returns": [
+    "34:25d4: RETURN - 'made Okawa hate her bitterly' for nikurashiku omoeta is a touch strong (closer to 'galling/resentful'); left for editorial."
+   ]
+  },
+  {
+   "id": "34:2768",
+   "op": "choice",
+   "en": "Ask Okazaki's parents to let her have it"
+  },
+  {
+   "id": "34:278c",
+   "op": "choice",
+   "en": "Dig up Okazaki's grave and steal it"
+  },
+  {
+   "id": "34:27ac",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "34:27c4",
+   "op": "text",
+   "en": "...That's right.\nThat's just the sort of thing Okawa would think of.\nBy then, there was nothing in her head but Rubelize.\nAnd she had already convinced herself it was hers.\nSo she couldn't stand that her property was stored away in someone else's grave.\nAnd she decided she had to go and take it back.\nWhat kind of nerve does it take to convince yourself of something like that?{p}",
+   "follows_choice": [
+    "34:278c"
+   ]
+  },
+  {
+   "id": "34:2924",
+   "op": "text",
+   "en": "Okawa hurried to the grave where Okazaki slept, trying to calm her racing heart.{p}...Tell me, before I go on with this story, wouldn't you like to know what kind of person this Okazaki was?\n"
+  },
+  {
+   "id": "34:29b8",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "34:29c4",
+   "op": "choice",
+   "en": "I don't want to know"
+  },
+  {
+   "id": "34:29d4",
+   "op": "choice",
+   "en": "I don't care either way"
+  },
+  {
+   "id": "34:29e8",
+   "op": "text",
+   "en": "...Then I'll tell you Yukie Okazaki's story.{p}",
+   "follows_choice": [
+    "34:29b8"
+   ]
+  },
+  {
+   "id": "34:2a3c",
+   "op": "text",
+   "en": "Okazaki, you see, was apparently the daughter of a powerful zaibatsu family.\nAnd when her father went abroad, he got hold of a Rubelize.\nThey say even at the prices back then it cost as much as a house, so as casual souvenirs from abroad go, it was far beyond anything people like us could imagine.\nShe liked the stone very much.\nAt the time, nobody yet cared that it was a stone that brought happiness.\nIt was simply rare even by world standards, so apparently it became the talk of the school.\nAnd the girls who told Okawa about her must have heard that rumor from somewhere too.\nOkazaki was a fine pianist.\nShe'd been given elite piano training since before she could even remember.\nIt had apparently been settled that she would go study in Europe.\nBack then, studying abroad wasn't a dream ordinary people could make come true, so it was a big deal.\nEven so, she hated the idea.\nShe loved Japan, so she didn't want to leave.\nSo, on the condition that she would become the pianist her parents wanted, she was allowed to stay in Japan just for high school.\nHer parents naturally pushed for a prestigious girls' school.\nEven so, she wanted an ordinary high school life.\nIn that sense, I suppose she was a young lady with far more sense than her parents.{p}"
+  },
+  {
+   "id": "34:2eb4",
+   "op": "text",
+   "en": "And so she came here.\nBut this school didn't have much in the way of facilities.\nThere was a grand piano, of sorts, but it was hardly the kind of thing that would satisfy her parents.\nSo they ordered the finest one from Rome and donated it to the school.\nThe school was delighted.\nThe grand piano in the music room of the new school building today is that very one.\nBut Okazaki wasn't pleased.{p}"
+  },
+  {
+   "id": "34:3024",
+   "op": "text",
+   "en": "And she was drawn more to an old organ sleeping in a corner of the old school building than to that grand piano.\nThe organ had been left abandoned, covered in dust, unused.\nEven so, for some reason, she found that organ captivating.\nBack then, there was no new school building yet.\nMost classes were held in the old school building.\nAs far as the school was concerned, they'd been given that magnificent grand piano, after all.\nSo they gave her permission to use the organ all to herself.\nNobody was using it anyway.{p}"
+  },
+  {
+   "id": "34:31ec",
+   "op": "text",
+   "en": "After school, wherever you were, you could hear the sound of her playing the organ.\nThey say it was a warm melody, more soothing to the heart than the grand piano was, no matter who played it.\nThe story goes that many students stayed at school after hours, doing nothing in particular, just to hear that melody.\nNo one knows why she was drawn to that organ.\nStill, they say that when she laid her fingers on the keys, the organ's sound came alive, as if life had been breathed into it.\nAnd the more she played that organ, the more she felt that she truly loved music.\nBut at the same time, her desire to study in Europe kept fading away.\nAnd she wished that, if at all possible, she would never have to go to Europe.{p}"
+  },
+  {
+   "id": "34:3460",
+   "op": "text",
+   "en": "Around that time, Okazaki had the Rubelize her father gave her made into a necklace.\nToday you'd call it a pendant that brings happiness, I suppose.\nAnd every time she wished, I don't want to go to Europe, I don't want to go, she clutched that pendant tight.\nAs if she were praying to the Rubelize.{p}Well, {a}{f:|}?\nYou've prayed to God or some divine being before too, haven't you?\n"
+  },
+  {
+   "id": "34:35d8",
+   "op": "choice",
+   "en": "I have"
+  },
+  {
+   "id": "34:35e0",
+   "op": "choice",
+   "en": "I haven't"
+  },
+  {
+   "id": "34:35e8",
+   "op": "text",
+   "en": "I thought so.\nMost Japanese people today are atheists, yet they pray to God only when they're in trouble.\nWithout even specifying which god.\nEven though there are so many gods in the world.\nDid you know?\nDevils are gods too.\nSo whoever grants your wish might be a devil, not a god.\nHeh heh...\nWell, to people who worship devils, they're perfectly respectable gods.{p}",
+   "follows_choice": [
+    "34:35d8"
+   ]
+  },
+  {
+   "id": "34:3778",
+   "op": "text",
+   "en": "Perhaps a god by the name of devil dwelt in that Rubelize too.\nOr perhaps something unknowable had taken possession of the organ.\nThe day finally came when her wish was granted.{p}"
+  },
+  {
+   "id": "34:3854",
+   "op": "text",
+   "en": "One day, while she was playing the organ as usual, the key cover suddenly slammed shut.\nWith tremendous force, though there was no wind at all.\nIt was just like a devil's mouth.\nIn the instant the cover came plunging down, it must have looked to her like a savage beast with sharp fangs.\nThe people who had been entranced by her melody were startled, wondering what had happened.\nSuddenly, they heard a scream that seemed to echo up from the depths of hell.{p}"
+  },
+  {
+   "id": "34:39fc",
+   "op": "text",
+   "en": "Everyone rushed to her side.\nAnd there they witnessed a tragic accident.\nThe organ's cover was shut, as if it had closed its mouth.\nRed blood was dripping from the gap, like drool.\nAnd she lay collapsed beside it.\nHer hands were stained bright red.\nWhen the person who helped her up took her hands, both index fingers were gone, snapped clean off at the base.\nWhen they opened the cover, her two fingers were resting gently on the keys.\nShe was operated on right away.\nMaybe because not much time had passed, they somehow managed to reattach her fingers.\nBut she could never move them the way she used to.\nShe could live a normal life, but that brilliant playing was utterly, utterly beyond her...\nThey say it was a crushing blow.\nNot so much to her as to her parents.{p}"
+  },
+  {
+   "id": "34:3cd0",
+   "op": "text",
+   "en": "But with this, her wish came true.\nShe no longer needed to study abroad.\nIn exchange, her dream of being a pianist was shattered, too.\nEven so, she could still gather children and teach them piano.\nFor her, opening a little classroom and playing piano with children seemed more fun than traveling the world as a pianist.{p}"
+  },
+  {
+   "id": "34:3e1c",
+   "op": "text",
+   "en": "And in her hospital bed, she dreamed of that future and waited for the day she'd be discharged.\nBut a zaibatsu heiress dreaming such a modest dream? If you ask me, that's a luxurious kind of selfishness.\nOrdinary people can hardly make even such modest dreams come true.{p}"
+  },
+  {
+   "id": "34:3f28",
+   "op": "text",
+   "en": "Once she was discharged and could go back to school, the very first thing Okazaki did was go to see that organ.\nShe didn't bear the organ any grudge.\nAfter all, it was an accident.\nNo one was to blame.\nAn unlucky thing that just happened by chance.\nBut when she went to the music room, she was stunned.\nThe organ was gone.\nShe pressed the teacher about where the organ had gone.\nThe teacher hedged at first, reluctant to say, but finally gave in to her pushing and let it slip.\nThat the organ had been sold off somewhere far away, at her father's wish.{p}"
+  },
+  {
+   "id": "34:4154",
+   "op": "text",
+   "en": "From her father's point of view, that organ was the very thing that had destroyed his daughter's dreams and hopes.\nEven if it was just an organ with no will of its own, he couldn't let it be.\nBut she hated her father for it.{p}"
+  },
+  {
+   "id": "34:4218",
+   "op": "text",
+   "en": "I don't need such a horrible father anymore.\nThat's what she thought.\nClutching that pendant that brought happiness.\nAnd she thought this, too:\nI want to see that organ once more.\nI want to go to where that organ is.{p}"
+  },
+  {
+   "id": "34:42e8",
+   "op": "text",
+   "en": "Thinking such things, she wandered out of the school in despair, unsteady on her feet.\nAnd she was hit in a traffic accident.\nShe was struck by an oncoming car and killed instantly.\nThey say even after she breathed her last, she was still clutching the pendant that brought happiness.\nThat Rubelize power stone.\nThis came out afterward, but by then the organ was already gone from this world.\nOn her father's orders, the organ hadn't been sold; it had been destroyed.\nThe teacher couldn't bear to say so and lied that it had been sold.\nBut that lie led to her death.\nThe organ went to heaven, and she followed after it, to where the organ was.\nI wonder if she's playing the organ in heaven now.\nFor the angels who died young...{p}"
+  },
+  {
+   "id": "34:4588",
+   "op": "text",
+   "en": "And the pendant she held to the very end was laid in the Okazaki family grave along with her remains.\nThey say her father grieved terribly.\nAnd not long after, he fell ill and departed this world, as if his daughter had beckoned him.\nHer wish came true.\nThe Rubelize granted her wish.\nI'm sure she was happy.{p}"
+  },
+  {
+   "id": "34:46f0",
+   "op": "text",
+   "en": "...Well?\nDo you understand Rubelize's power now?\n"
+  },
+  {
+   "id": "34:4724",
+   "op": "choice",
+   "en": "I understand"
+  },
+  {
+   "id": "34:4730",
+   "op": "choice",
+   "en": "I can't believe it"
+  },
+  {
+   "id": "34:4748",
+   "op": "text",
+   "en": "...Heh heh.\nYes, unless it happened to you yourself, you couldn't believe a fairy tale like this, could you?\n...Well then, I'll go on with Okawa's story.{p}",
+   "follows_choice": [
+    "34:4730"
+   ]
+  },
+  {
+   "id": "34:4800",
+   "op": "text",
+   "en": "Finding out where Okazaki's grave was posed no difficulty at all.\nShe'd go to the Okazaki home and say she was a junior from Okazaki's school, that she'd happened to hear the story, and that she'd very much like to visit the grave.\nSay that, and they'd hardly refuse.\nThey'd kindly tell her, without suspecting a thing.\nAnd she did exactly that.\nOkawa waited until late at night, then made her move.{p}"
+  },
+  {
+   "id": "34:4958",
+   "op": "text",
+   "en": "Graveyards are frightening even in the daytime, I think.\nAnd this was the middle of the night.\nA high school girl, all alone.\nThat's not something just anyone could do.\nAnd her purpose was grave robbing, no less.\nOkawa must have had nerves of steel.\nOr maybe the Rubelize sleeping in the grave called her to it.\nHeh heh...\nIn any case, she moved the gravestone aside and took Okazaki's urn out from inside.\nAnd when she opened the urn... there it was.{p}"
+  },
+  {
+   "id": "34:4af8",
+   "op": "text",
+   "en": "A beautiful amber pendant.\n\"Mine!\nIt's my Rubelize!\"\nShe clutched it and hugged it to her chest.\nNow I can be happy...\nI'll be happier than anyone, happier than absolutely anyone.{p}Well, {a}{f:|}?\nNow that Okawa had her Rubelize, do you think she found happiness?\n"
+  },
+  {
+   "id": "34:4c04",
+   "op": "choice",
+   "en": "She found happiness"
+  },
+  {
+   "id": "34:4c14",
+   "op": "choice",
+   "en": "She couldn't be happy"
+  },
+  {
+   "id": "34:4c24",
+   "op": "text",
+   "en": "Heh heh...\nAnyone might think so.\nNo, isn't it less that she couldn't be happy, and more that you just don't want someone like that to be happy, {a}{f:|}?{p}",
+   "follows_choice": [
+    "34:4c14"
+   ]
+  },
+  {
+   "id": "34:4ce8",
+   "op": "text",
+   "en": "But she did become happy.\nIt was a world apart from Okazaki's case.\nIt couldn't be helped, after all.\nIn Okazaki's case, she didn't know Rubelize was a power stone that brings happiness, did she?\nSo she didn't know how to use it.\nIt just happened to grant her wish, that's all.\nBut Okawa's case was different.\nEven if it was a devil's stone, she didn't use it the wrong way.\nSo there was no way she wouldn't be happy.{p}"
+  },
+  {
+   "id": "34:4e8c",
+   "op": "text",
+   "en": "First, she got a wonderful sweetheart.\nShe was fairly pretty, so that's no surprise.\nShe could have found a sweetheart without the stone's help.\nBut there are quite a lot of people like that.\nPeople who normally can't do a thing, yet whose personality suddenly changes from a little self-suggestion.\nOkawa was one of those.\nThe self-suggestion of owning the Rubelize stone made her confident about everything.\nBut what happens when that goes too far...\nNot knowing is a frightening thing.{p}"
+  },
+  {
+   "id": "34:506c",
+   "op": "text",
+   "en": "She broke it off right away.\nShe'd finally found a wonderful sweetheart, but it wasn't enough for her.\nShe had the Rubelize.\nSo she deserved an even more wonderful sweetheart.\nPut simply, she got bored.\nWhen she asked the stone, the breakup came right away.\nThough as arrogant as she'd become, the breakup would have come soon enough without asking the stone.\nShe got money, too.\nA huge insurance payout.\nHer father died, and the insurance money came to her.\nNobody suspected that she had killed him.\nIn fact, they actually felt sorry for her.\nWhat fools, all of them.\nShe grew happier and happier.\nAs her wishes came true.{p}"
+  },
+  {
+   "id": "34:52b4",
+   "op": "text",
+   "en": "But her heart was never truly satisfied.\nAfter all, she was always chasing the greatest happiness.\nThere was no way she could be satisfied.\nAnd so she thought:\nI'm unhappy.\nShe had the Rubelize, so why couldn't she be happy? The frustration became unbearable.\nThen she thought of a good way.\nAnd she asked the stone.\nCan you guess what that wish was?\nIt's simple.\nAfter all, she couldn't be happy herself.{p}"
+  },
+  {
+   "id": "34:544c",
+   "op": "text",
+   "en": "She clutched the Rubelize and said this:\n\"Please, make everyone unhappy.\"{p}"
+  },
+  {
+   "id": "34:54b8",
+   "op": "text",
+   "en": "......Do you see?\nRight now, her wish is in the middle of coming true.\nAnd I'm sure that wish will never be satisfied either.\nAnd she'll surely keep on asking.\n\"Make everyone more and more unhappy.\"\nThat's what she'll ask.{p}"
+  },
+  {
+   "id": "34:5594",
+   "op": "text",
+   "en": "...Now, I wonder how many people in the whole world own a Rubelize?\nIf anyone were to cut her wish short, it would have to be someone, somewhere, who owns a Rubelize, saying this:\n\"Please make everyone in the world happy.\"\nBut could that ever really happen?\nThink about it.\nWould people who own a Rubelize, a stone no ordinary person could ever get, wish for everyone's happiness?\nSurely they'd make the same wish Okawa did.\nAnd the stronger that desire grows, the unhappier everyone becomes.{p}"
+  },
+  {
+   "id": "34:57a8",
+   "op": "text",
+   "en": "...Heh heh heh.\nThere's a saying, isn't there? 'Other people's misfortune tastes like honey.'\nIf everyone became unhappy, that might be a kind of happiness in its own way.\nAs for me, I'm fine as long as no harm comes to me.\n...{a}{f:|}.\nYou'd better be careful too.\nEven while you sit here listening to scary stories, all sorts of things are happening around you.\nDon't forget that Okawa is at our school.\nWhat misfortune visits you is entirely up to her.\nHeh heh heh heh...\nIn the end, the seventh one never came.\nI suppose that means this gathering is over.\nWhat a shame that nothing happened.\nThere did seem to be a sign that something might happen, though...\nWell, never mind.\nI may simply have been mistaken.{p}Well then, everyone.\nShall we bring this to a close?{p}"
+  },
+  {
+   "id": "34:5a4c",
+   "op": "text",
+   "en": "I see.\nSo you say there's no such thing as fate.\nBut the world is full of all kinds of accidents, isn't it?\nOr chances that come out of nowhere.\nAnd meetings with other people.\nThere certainly are things we can't foresee.\nSome people call that chance.\nBut if we were to call it fate instead...{p}",
+   "follows_choice": [
+    "34:10c0"
+   ]
+  },
+  {
+   "id": "34:5b5c",
+   "op": "text",
+   "en": "Do you think you could somehow change that fate?\n"
+  },
+  {
+   "id": "34:5b9c",
+   "op": "text",
+   "en": "I see.\nYou say that very plainly, don't you?{p}",
+   "follows_choice": [
+    "34:1128"
+   ]
+  },
+  {
+   "id": "34:5bcc",
+   "op": "text",
+   "en": "I see...\nLife isn't all good things, is it?\nI wonder if that's fate too.\nIf so, then perhaps reaching for happiness is really an unconscious attempt to defy fate.{p}",
+   "follows_choice": [
+    "34:11b8"
+   ]
+  },
+  {
+   "id": "34:5c84",
+   "op": "text",
+   "en": "Heh heh...\nThe story I'm about to tell you is a story about fate.{p}"
+  },
+  {
+   "id": "34:5ce0",
+   "op": "text",
+   "en": "That's right.\nOkawa went to the Okazaki home to get them to hand the Rubelize over to her.\nBut the way she put it was so sly.\nShe told them it was a cursed stone, so it mustn't be left in the grave with Okazaki.\nThen she said she would dispose of the Rubelize, and asked them to leave the rest to her.\n\"Please trust me and let me take care of the Rubelize.\"\nThat's what Okawa asked of them.{p}So how do you think Okazaki's parents answered?\n",
+   "follows_choice": [
+    "34:2768"
+   ]
+  },
+  {
+   "id": "34:5e68",
+   "op": "choice",
+   "en": "All right"
+  },
+  {
+   "id": "34:5e78",
+   "op": "choice",
+   "en": "Don't mess with us!"
+  },
+  {
+   "id": "34:5e84",
+   "op": "text",
+   "en": "\"All right.\nPlease do...\"\nThat's how Okazaki's parents answered.\nThen they said they would take the Rubelize out of the grave soon, and asked how they could contact her.\nOkawa was overjoyed and gave them her address and phone number.\nAnd then, about three days later...{p}",
+   "follows_choice": [
+    "34:5e68"
+   ]
+  },
+  {
+   "id": "34:5f80",
+   "op": "text",
+   "en": "There was a phone call at Okawa's house.\n\"Is this Okawa?\n...This is Yukie Okazaki's father.\nThank you for the other day.\nThe Rubelize really is cursed, isn't it?\nWe dug up the grave after that, but...\nOne of the men doing the work slipped and fell into the hole we'd dug.{p}"
+  },
+  {
+   "id": "34:6094",
+   "op": "text",
+   "en": "He hit his head and died.\n...Okawa.\nI've already sent the Rubelize to you.\nPlease, see that it gets a proper memorial...\"\nJust then, she heard the doorbell ring at the front door.\n......{p}"
+  },
+  {
+   "id": "34:6160",
+   "op": "text",
+   "en": "Let me tell you a little about Yukie Okazaki now.{p}"
+  },
+  {
+   "id": "34:61b4",
+   "op": "text",
+   "en": "She was a girl from a perfectly ordinary family.\nBut apparently the son and heir of a certain wealthy zaibatsu family gave her a Rubelize.\nThey say even at the prices back then it cost as much as a house, so it was a present far beyond anything we'd think of as normal.\nThe zaibatsu boy's name was Hideto Fujiomi.\nFujiomi had been in love with Okazaki for a long time, without her returning it.\nHe gave her the Rubelize and confessed, asking her to go out with him.\nOkazaki was a very pretty girl.\nShe had a distinctive kind of cuteness, the kind that could have made her an idol.\nHer classmates were all envious.\nBack then, no one cared yet about Rubelize being a stone that brings happiness.\nBut since it was a rare stone even by world standards, it seems it became the talk of the school.\nSo the girls who told Okawa about her must have heard that rumor from somewhere too.{p}",
+   "returns": [
+    "34:61b4: RETURN - 'no one cared yet about Rubelize being...' lacks an article ('the Rubelize'); proofreading"
+   ]
+  },
+  {
+   "id": "34:64b8",
+   "op": "text",
+   "en": "Fujiomi had the Rubelize made into a pendant and gave it to Okazaki.\nAnd then he told her this.\nThat Rubelize was a stone that brings happiness.\nThat it would grant any wish at all.\nAnd that this was to be a secret between just the two of them...\nOkazaki told herself\nthat he'd simply meant it as a bit of good-luck magic.\nAnd then Fujiomi...\nHe stared at her intently and said something like this.\n\"Why don't we test the Rubelize's power...?\"\nHis eyes were so serious that she caught her breath for a moment.\nBut Fujiomi took her hand and went on.\n\"We've got an English test today, right?\nHold the Rubelize and cast a little charm.\nWish that you'll get a good score.\"\nHe smiled gently.\nSeeing that, Okazaki relaxed.\n\"I'll give it a try,\" she answered lightly.{p}"
+  },
+  {
+   "id": "34:67bc",
+   "op": "text",
+   "en": "And then, second period.\nThe English test was given.\nThe answer sheets were handed out, and Okazaki held her breath.\n\"Ah...!\"{p}"
+  },
+  {
+   "id": "34:683c",
+   "op": "text",
+   "en": "The answers were faintly rising up on her answer sheet.\n(Wh-what is this...?)\nShe was astonished.\nIt didn't take her long to realize it was the Rubelize's power.\n\"How was it?\nThe test?\"\nThe moment the test was over, Fujiomi came straight over to talk to her.\nOkazaki answered him with trembling lips.\n\"It really worked...\"\nSeeing the state she was in, Fujiomi smiled with satisfaction.\nAnd he slowly nodded.{p}"
+  },
+  {
+   "id": "34:69f4",
+   "op": "text",
+   "en": "\"I see.\nSo this stone really is...\"\nThe two of them faced each other and fell silent.\nAfter a while, Fujiomi said this.\n\"Okazaki, want to test it one more time?\"\nShe had no reason to say no.{p}"
+  },
+  {
+   "id": "34:6ad0",
+   "op": "text",
+   "en": "...And the next day.{p}"
+  },
+  {
+   "id": "34:6af8",
+   "op": "text",
+   "en": "At Fujiomi's suggestion, she was going to pray for the weather to change.\n\"There's no way a wish like that could come true, is there?\"\nEven as she said that, her heart was bubbling with excitement.\nAt lunch break on a clear, sunny day, Okazaki went outside, clutched the Rubelize tight, and prayed.\n\"Please change today's weather...\"{p}"
+  },
+  {
+   "id": "34:6c1c",
+   "op": "text",
+   "en": "Then all of a sudden the sky lit up,\nand lightning struck.\n\"Eek, aaaaaaah!☆\"\nOkazaki was so startled that she slammed into the railing.\n\"Ow!\"\nFujiomi got a real fright too.\nFor a while the two of them huddled close together, shaking violently.\n\"F-Fujiomi...\"\nOkazaki looked at him, her eyes on the verge of tears.\n...He was smiling.{p}"
+  },
+  {
+   "id": "34:6d74",
+   "op": "text",
+   "en": "\"Fuji...omi...?\"\nShe suddenly felt afraid.\nAfter all, his smile was twisted into something eerie...\n\"Okazaki...\"\nFujiomi slowly opened his mouth.\nAnd he said this.\n\"There's something I want to ask of you...\"{p}What do you think he wanted to ask of her?\n"
+  },
+  {
+   "id": "34:6e74",
+   "op": "choice",
+   "en": "Actually, there's someone I want to kill"
+  },
+  {
+   "id": "34:6e8c",
+   "op": "choice",
+   "en": "There's one more thing I want to test"
+  },
+  {
+   "id": "34:6ec0",
+   "op": "text",
+   "en": "\"Y-you don't mean there's actually someone you want to kill...?\"\nShe faltered.\nThen Fujiomi's jaw dropped.\n\"Okazaki, what are you thinking?\"\nHe clapped her on the shoulder.\nBut...\neven as he said it, a sinister shadow lurked deep in his eyes.\n\"Oh, come on, this is ridiculous.\nI bet that lightning just now was a coincidence too.\"\nDespite having said he had something to ask her, he suddenly walked off on his own.\n\"W-wait!☆\"\nOkazaki hurried after him.\nAnd she apologized.\nShe said she was sorry for saying something so strange.{p}",
+   "follows_choice": [
+    "34:6e74"
+   ]
+  },
+  {
+   "id": "34:7094",
+   "op": "text",
+   "en": "Then, a few days later...{p}"
+  },
+  {
+   "id": "34:70d0",
+   "op": "text",
+   "en": "Okazaki's Rubelize went missing.\nWell, rather than missing...\nTo put it simply, it was stolen.\nThat's not especially surprising, is it?\nEveryone knew she had a rare gem called a Rubelize, after all.\nIt's only natural that someone would try to steal it.\nEver since the lightning, Okazaki had left the Rubelize in her bag the whole time.\nBecause it had come to seem like a truly frightening stone to her.\nAnd then, before long, it was stolen.\nShe regretted it; she should have kept it on her at all times.\nAnd she began avoiding Fujiomi.\nShe felt guilty about losing the Rubelize.\nThen, one day...{p}"
+  },
+  {
+   "id": "34:732c",
+   "op": "text",
+   "en": "Okazaki got a phone call at home from Fujiomi.\nHe said he hated how awkward things had gotten between them lately.\n...Okazaki thought it over.\nShe would apologize to him.\nShe would tell him honestly about the stone.{p}"
+  },
+  {
+   "id": "34:7404",
+   "op": "text",
+   "en": "The two of them met at the school at night.\nAnd Okazaki said this to Fujiomi.\n\"Fujiomi... I'm sorry.\nThe truth is, I lost the Rubelize...\"\nOkazaki told him honestly.\nAnd then...{p}"
+  },
+  {
+   "id": "34:74d8",
+   "op": "text",
+   "en": "\"Aaaaaaaaaah!☆\"{p}"
+  },
+  {
+   "id": "34:7504",
+   "op": "text",
+   "en": "She felt a violent pain in her chest, coughed up blood, and collapsed.{p}"
+  },
+  {
+   "id": "34:7550",
+   "op": "text",
+   "en": "\"Gurgh... gagh...\"\nPitch-black liquid poured from her mouth, mixed in with the blood.\n...Fujiomi was laughing.\n\"Heh heh, Okazaki.{p}"
+  },
+  {
+   "id": "34:75f0",
+   "op": "text",
+   "en": "I'm the one who stole the Rubelize.\nOnly you and I know about the Rubelize's power, right?\nSo I decided to shut you up.\nFrom here on, I'm going to graduate from a good university and land a good job.\nWith the stone's power.\nI was worried that using the stone's power might bring something horrible as the price, but...\nit looks like that's not a problem.\nAt the test, and when we changed the weather, no disaster befell you, the one who made the wishes.\nNow I'll put my real goal to the test.\nOkazaki.\nI want to kill you.{p}"
+  },
+  {
+   "id": "34:77cc",
+   "op": "text",
+   "en": "You never even looked at me until I gave you the Rubelize, did you?\nYou knew how I felt, and you still brushed me off coldly.\nAnd now look at you.\nThe moment I gave you a jewel, you start acting like my girlfriend?\nI don't need a girl like that.\nWith the Rubelize's power, I'll make myself a much better girlfriend...\"\nFujiomi's eyes were so vacant you couldn't tell where he was looking.{p}"
+  },
+  {
+   "id": "34:792c",
+   "op": "text",
+   "en": "\"Gh... gaaah...\"\nGroaning, Okazaki clawed at the ground again and again.\nOn the ground lay a pool of the blood and filth that had come out of her mouth...\nIt clung to her nails and fingertips, sticky and slimy.\nEven so, she clawed at the ground over and over.{p}"
+  },
+  {
+   "id": "34:7a24",
+   "op": "text",
+   "en": "So she could drag herself along.\nSo she could reach out for Fujiomi...\n\"S-stop it...☆\"\nFujiomi staggered back in terror and slipped in her filth.\nAnd he dropped the Rubelize.{p}"
+  },
+  {
+   "id": "34:7ad8",
+   "op": "text",
+   "en": "Okazaki snatched it up in an instant.{p}"
+  },
+  {
+   "id": "34:7b00",
+   "op": "text",
+   "en": "And then...{p}"
+  },
+  {
+   "id": "34:7b20",
+   "op": "text",
+   "en": "\"Wh...waaaaaaaah!☆\"\n.........{p}",
+   "returns": []
+  },
+  {
+   "id": "34:7b58",
+   "op": "text",
+   "en": "The next day, Okazaki's body was found at the school gate.\nThey say Fujiomi's body was lying beside hers.{p}"
+  },
+  {
+   "id": "34:7bd4",
+   "op": "text",
+   "en": "In Okazaki's hand, the Rubelize pendant was clutched tight.\nWith the last of her strength, she must have made a wish to the Rubelize.\nThat she wanted revenge on him...\n...The two bodies were clean.\nThe blood and filth Okazaki should have vomited had vanished without a trace.\nThe police came and looked into all sorts of things, but in the end they decided the two had probably killed themselves.\nBecause the two of them had died huddled together, just as if it were a lovers' suicide.\nNo one knew why they'd killed themselves, but the two must surely have been deeply in love.\nThat was the rumor that went around.\nSome people even said it was rather dramatic.\nAnd so the story became that Okazaki had been happy right up until she died.\nThe school even held a staff meeting over it, calling it a mistake brought on by immature teenage hearts.\nBut the truth is different.\nWhat killed them was the stone's power...\nThe power of a stone that controls fate had led their hearts astray...{p}"
+  },
+  {
+   "id": "34:7ef8",
+   "op": "text",
+   "en": "...Let's get back to Okawa, shall we?\nThe doorbell at Okawa's house kept ringing, again and again.\nBecause she didn't come to the door right away.{p}"
+  },
+  {
+   "id": "34:7f8c",
+   "op": "text",
+   "en": "\"Delivery!☆\nDelivery!☆\"\nA young man's voice.\nThe sound of knocking on the door.{p}"
+  },
+  {
+   "id": "34:7fe8",
+   "op": "text",
+   "en": "Okawa opened the door.\nTelling herself all the while that the Rubelize being cursed was surely a lie.\nHeh heh...\nThe Rubelize that reached Okawa really was cursed.\nAfter all, the grudge from Okazaki's death had attached itself to it.\nThe wish she made as she was dying lingered strongly in the stone.\nYou remember what she wished on Fujiomi, don't you?\n\"I'll kill you...\"\nSo Okawa fell victim to it too.{p}"
+  },
+  {
+   "id": "34:81a0",
+   "op": "text",
+   "en": "From what I hear, she was killed by the young man who delivered the Rubelize.\nThe man who killed her is to be pitied too, isn't he?\nAll he did was carry the Rubelize, and he ended up committing a crime he never saw coming.\nThey say the police took him away.\nI wonder if that's fate too.\nWhat is fate, I wonder?\nWhat do you think, {a}{f:|}...?{p}"
+  },
+  {
+   "id": "34:82e4",
+   "op": "text",
+   "en": "That's the end of my story.\n...Still, the seventh one is awfully late.\nNow then, what shall we do...?{p}"
+  },
+  {
+   "id": "34:835c",
+   "op": "text",
+   "en": "That's right.\nOkazaki's parents told her not to mess with them and threw her out.{p}",
+   "follows_choice": [
+    "34:5e78"
+   ]
+  },
+  {
+   "id": "34:83b0",
+   "op": "text",
+   "en": "...But Okawa couldn't give up.\nSo at last she made up her mind.\nShe would secretly dig up Okazaki's grave.\nWhat kind of nerves did she have, I wonder?\nShe seemed to think it was fine to steal from the dead as long as no one found out.\nOkawa waited for the dead of night, then put her plan into action.{p}"
+  },
+  {
+   "id": "34:84d4",
+   "op": "text",
+   "en": "I think graveyards are frightening even in the daytime.\nAnd this was the middle of the night.\nA high school girl, all alone.\nThat's not something just anyone could do.\nAnd her purpose was grave robbing, at that.\nOkawa must have had nerves of steel.\nOr perhaps the Rubelize sleeping in the grave was calling her to it.\nHeh heh...\nEither way, she moved the gravestone aside and took Okazaki's urn out from inside.{p}"
+  },
+  {
+   "id": "34:8640",
+   "op": "text",
+   "en": "\"Actually, there's one more thing I want to test.\"\nThat's what Fujiomi said.\nAll the while staring at Okazaki with glittering eyes that gleamed from somewhere deep inside.\n\"Wh-what is it?\"\nOkazaki asked him.\nHis manner was creepy, but it was none other than Fujiomi who had given her the Rubelize.\nShe felt he had every right to use it.\nFujiomi grinned and said,\n\"Will you come with me after school today?\"{p}How do you think Okazaki answered?\n",
+   "follows_choice": [
+    "34:6e8c"
+   ]
+  },
+  {
+   "id": "34:87d0",
+   "op": "choice",
+   "en": "Sure"
+  },
+  {
+   "id": "34:87dc",
+   "op": "choice",
+   "en": "Sorry, I have something to do"
+  },
+  {
+   "id": "34:87f8",
+   "op": "text",
+   "en": "\"Sure.\"\nOkazaki nodded.{p}",
+   "follows_choice": [
+    "34:87d0"
+   ]
+  },
+  {
+   "id": "34:8840",
+   "op": "text",
+   "en": "Then after school that day, the two of them went to the main road near the school.\nFujiomi took her by the hand and led her up onto the pedestrian bridge.\nOkazaki was uneasy, because she couldn't understand what he was doing.\n\"What are you planning to do?\"\nAnd then, wouldn't you know it, Fujiomi said happily:\n\"My older brother is about to come down this road.\nWhat I wish for is his death.\"\nOkazaki couldn't believe her ears.\nAfter all, wanting to kill your own brother isn't something a sane person thinks of.\nBut Fujiomi's expression was serious.\nThe mood didn't allow her to say a word.\nWhile Okazaki hesitated, Fujiomi's eyes lit up.\n\"Here he comes!\"\nShe looked, and a red convertible was speeding toward them from the far end.\nFujiomi raised the hand holding the Rubelize high in the air.\n\"Death to my brother!\"{p}"
+  },
+  {
+   "id": "34:8ad4",
+   "op": "text",
+   "en": "When she heard that, Okazaki's body began to move on its own.\nShe climbed onto the railing of the pedestrian bridge and looked down at the road.\nShe couldn't believe what she herself was doing.\nHer body was moving on its own...\nAs Okazaki trembled, Fujiomi spoke to her from behind.{p}"
+  },
+  {
+   "id": "34:8bc4",
+   "op": "text",
+   "en": "\"My real wish, you see, is for my brother to die without my ever getting my hands dirty.\nYou're going to jump from here.\nAnd my brother will get caught up in it and die.\nWell then, goodbye, Okazaki.\"\n...He said it in a tone as if he were saying 'see you tomorrow.'\nAnd as if that were the signal, Okazaki jumped.{p}"
+  },
+  {
+   "id": "34:8d10",
+   "op": "text",
+   "en": "...Okazaki's body slammed straight into the red car.\nThe shock made the driver jerk the wheel the wrong way, and the car plowed into the guardrail.\nAnd right there was a group of elementary schoolchildren walking home from school together.\nThey say it turned into a horrible catastrophe.\nYou know the crosswalk on the way to school?\nThat was put in after the pedestrian bridge was torn down back then.\nSo that no more students would try to kill themselves there.\n...That's right.{p}"
+  },
+  {
+   "id": "34:8ea8",
+   "op": "text",
+   "en": "Okazaki's death was ruled a sudden, impulsive suicide.\nFujiomi, who had been with her, wasn't suspected of anything.\nWas this the Rubelize's power too, I wonder?\nOh yes, about the cause of Okazaki's death.\nThere seem to be all sorts of rumors.\nSome say it was an accident, and some even say she was murdered.\nWell, rumors are only rumors in the end.\nThe police said Okazaki's death was suicide.\nFujiomi was never charged with anything.\nThat alone is the truth.\nWhat became of Fujiomi afterward?\nWith his brother gone, I imagine he became heir to the zaibatsu.\nYou can call it unfair, but there's nothing to be done about it.\nThe Rubelize can't tell good from evil, after all.\nIt only granted a wish.\nIsn't that so?{p}"
+  },
+  {
+   "id": "34:9110",
+   "op": "text",
+   "en": "...Let's get back to Okawa, shall we?\n\"Excuse me! Delivery!\"\nShe heard a young man's voice from the other side of the door.{p}"
+  },
+  {
+   "id": "34:9198",
+   "op": "text",
+   "en": "Okawa crept fearfully toward the front door.\n(The Rubelize's arrived.\nWhat do I do? It being cursed has to be a mistake, right...)\nBut even thinking that, she couldn't shake a bad feeling.\n\"Nobody home?\nUm, excuse me...!\"{p}"
+  },
+  {
+   "id": "34:9288",
+   "op": "text",
+   "en": "Okawa opened the door with trembling hands.\n\"Oh, hello. Delivery for you.\"{p}"
+  },
+  {
+   "id": "34:92e0",
+   "op": "text",
+   "en": "A small package.\nIt was the Rubelize, all right.\nCan you guess what happened to Okawa after that?\nThe Rubelize truly was a cursed stone.\nAfter all, it had been shut up in the grave for so long with Okazaki, who was murdered.\nIt must have heard a great many bitter words from her.\nFor example... let me see.{p}"
+  },
+  {
+   "id": "34:9410",
+   "op": "text",
+   "en": "\"I'll get my revenge,\"\nor\n\"I'll kill you,\"\nthings like that...\nThat stone had soaked up all sorts of Okazaki's feelings.\nAnd the moment it left the grave, it let all that grudge loose.\nThey say Okawa was found dead in her room the next day.\nThe cause is unknown, apparently.\nHer body had no wounds, and she hadn't been ill to begin with, either.{p}"
+  },
+  {
+   "id": "34:9560",
+   "op": "text",
+   "en": "...Where is that Rubelize now, you ask?\nI heard it was put in Okawa's grave.{p}"
+  },
+  {
+   "id": "34:95d0",
+   "op": "text",
+   "en": "Apparently she died with the Rubelize clutched tight in her hand.\nSo it was buried in the grave along with her.\nOh, yes. Fujiomi, you know... he's still alive.\nOkazaki was hopeless too, wasn't she?\nImagine leaving alone the very first person she should have cursed.\nI wonder if she's so consumed with bitterness that she can't tell one from the other anymore.\n...Well, never mind.\nIt has nothing to do with me.{p}"
+  },
+  {
+   "id": "34:974c",
+   "op": "text",
+   "en": "By the way, this story is going in the school paper, isn't it?\nI do hope nobody who reads it gets the idea of taking the Rubelize that's in Okawa's grave for themselves.\nHeh heh...\nThat's the end of my story.\n...Still, the seventh one is awfully late, aren't they?{p}What will you do, {a}{f:|}?\nIt's about time we went home, don't you think...?{p}",
+   "returns": [
+    "34:974c: RETURN - player honorific (kun/san) dropped to {f:|} per student no-honorific rule; check consistency with editorial stage."
+   ]
+  },
+  {
+   "id": "34:9874",
+   "op": "text",
+   "en": "If you don't know, I'll tell you.\nOkawa tried to steal the Rubelize from Okazaki's grave.\nI wonder what kind of nerve that girl had.\nShe seemed to think stealing from the dead was fine, as long as nobody found out.{p}",
+   "follows_choice": [
+    "34:27ac"
+   ]
+  },
+  {
+   "id": "34:9958",
+   "op": "text",
+   "en": "Heh...\nI suppose you just can't wait to hear what happened to Okawa, is that it?\nVery well.\nThen let's go on with the story.\nFor Okawa, finding out where Okazaki's grave was took no effort at all.\nShe only had to go to the Okazaki house and say she was a junior from Okazaki's school, that she'd happened to hear about her, and that she'd very much like to visit her grave.\nSay that, and they would hardly refuse.\nThey'd suspect nothing, and kindly tell her where it was.\nAnd that's exactly what she did.\nOkawa waited until late at night, and then she made her move.{p}",
+   "follows_choice": [
+    "34:29c4"
+   ]
+  },
+  {
+   "id": "34:9b48",
+   "op": "text",
+   "en": "I think graveyards are frightening even in the daytime.\nAnd this was the middle of the night.\nA high school girl, all alone.\nThat's not something just anyone could do.\nAnd her purpose was grave robbing, at that.\nOkawa must have had nerves of steel.\nOr perhaps the Rubelize sleeping in the grave was calling her to it.\nHeh heh...\nEither way, she moved the gravestone aside and took Okazaki's urn out from inside.{p}"
+  },
+  {
+   "id": "34:9ca4",
+   "op": "text",
+   "en": "And when she opened the urn...\n\"Aaah!☆\"\nThere was no Rubelize in there at all.\nAll that was inside were fragments of burnt bone and ash.\n\"Wh-why...?\"\nFor a moment, Okawa was at a loss.\nBut then she thought it over.\nIf the Rubelize had been burned along with Okazaki's body...\nthen the Rubelize really was in this urn after all, wasn't it?\nSo she took the ashes from the urn home with her.\nShe really had some nerve, didn't she?\nThat's not how a normal person thinks.\nWell, I suppose it just shows how badly she wanted the Rubelize.{p}"
+  },
+  {
+   "id": "34:9ecc",
+   "op": "text",
+   "en": "Then that night, the ghost of a woman in a school uniform appeared before Okawa.\nOkawa got a terrible fright and tried to run away at once.\nBut...\nIt felt as if some invisible force were holding her down.\nShe was in agony, and she went pounding on the walls all around her.{p}"
+  },
+  {
+   "id": "34:9fc4",
+   "op": "text",
+   "en": "Seeing the state Okawa was in, the ghost smiled with satisfaction.{p}"
+  },
+  {
+   "id": "34:a004",
+   "op": "text",
+   "en": "And in the ghost's hand was a pendant that looked like the Rubelize...\nThe ghost said,\n\"You fool, Okawa.\nThe Rubelize was never buried with me.\nBut, well, never mind.\nIn honor of your persistence, I'll make you a present of it...\"\nHearing that, Okawa drifted unsteadily toward the ghost.\nThoughtless, I suppose you'd call it.\nAnd she reached out her hand to take the Rubelize.\nAnd then...{p}"
+  },
+  {
+   "id": "34:a1b0",
+   "op": "text",
+   "en": "\"Gyaaaah!☆\"\nOkawa was strangled.\nBy Okazaki's ghost.\nWith the Rubelize's pendant chain...{p}"
+  },
+  {
+   "id": "34:a23c",
+   "op": "text",
+   "en": "\"Gh... gurgh...☆\"\nOkawa groaned.{p}"
+  },
+  {
+   "id": "34:a280",
+   "op": "text",
+   "en": "But the ghost's strength was too great, and she couldn't resist.\nOkazaki's ghost showed no mercy.\nShe strangled Okawa, stuffed her mouth full, and left her unable to breathe.{p}"
+  },
+  {
+   "id": "34:a31c",
+   "op": "text",
+   "en": "\"Gh... aughh...\"\nOkawa let out a low groan and collapsed.\nAnd then, just like that, she breathed her last...{p}"
+  },
+  {
+   "id": "34:a3b0",
+   "op": "text",
+   "en": "They say she was found killed, her mouth stuffed full of something like ash.\nNo doubt that ash was...{p}"
+  },
+  {
+   "id": "34:a41c",
+   "op": "text",
+   "en": "Heh heh...\nHopeless Okawa.\nShe had drive enough to dig up a grave, so why didn't she try to make her own way through her fate with her own strength?{p}"
+  },
+  {
+   "id": "34:a4a4",
+   "op": "text",
+   "en": "You see, they say Okazaki never once used the Rubelize's power.\nAt the prices back then, the Rubelize was worth enough to buy a house.\nSo it was kept carefully locked away in a safe.\nThat's why, even though she knew what it could do, she never asked it for a single wish.\nApparently her parents meant it to be part of her trousseau when she married.\nThough, of course, Okazaki died before that could happen.\nIn a traffic accident.\nThe rumors everyone spread were just the facts with a tail tacked on.\nSo what does that make Okawa, who let them lead her around by the nose?\nThey say the Rubelize pendant wasn't in the room where Okawa died.\nOkazaki's ghost must have taken it back home with her.\nI imagine it's back in the safe at her house again by now, don't you?{p}"
+  },
+  {
+   "id": "34:a748",
+   "op": "text",
+   "en": "...{a}{f:|}.\nWhat is fate, I wonder...\n......{p}That's the end of my story.\nBut the seventh one still hasn't come, have they?\nWhat shall we do?\nWell, {a}{f:|}...?{p}"
+  },
+  {
+   "id": "34:a808",
+   "op": "text",
+   "en": "I see...\nThen perhaps I'll tell you a little about Okazaki.{p}",
+   "follows_choice": [
+    "34:29d4"
+   ]
+  },
+  {
+   "id": "34:a86c",
+   "op": "text",
+   "en": "Okazaki, you see, was the daughter of quite a powerful zaibatsu family.\nAnd her father acquired the Rubelize on a trip abroad.\nThey say it was worth enough to buy a house even at the prices back then, so as a little souvenir from abroad, it's far beyond anything people like us would call normal.\nShe adored that stone.\nBack then, nobody paid any mind yet to the idea that it was a stone that brought happiness.\nBut since it was a rare stone even by world standards, it seems it became the talk of the school.\nAnd the girls who told Okawa about her must have heard that rumor from somewhere too.\nOkazaki was a true young lady of good family.\nShe'd never known hardship, and she'd been raised with great care, so she was gentle and honest by nature.\nTo put it kindly, she was pure.\nTo put it unkindly, she had no sense of caution, I suppose.\nTo anyone looking on, she was truly happy.\nShe grew up with all her father's love lavished on her alone, and her classmates fawned over her, too.{p}"
+  },
+  {
+   "id": "34:abcc",
+   "op": "text",
+   "en": "But even a girl like her had one thing she could never have.\nHer mother's love.\nOkazaki's parents were divorced.\nFor as long as she could remember, she'd lived with her father.\nAnd so she always thought to herself\nthat she wanted to live with her mother too.\nBut she had no idea at all where her mother was or what she was doing.\nBecause whenever she brought up her mother, her father always fell silent.\nThen, one day...{p}"
+  },
+  {
+   "id": "34:ad70",
+   "op": "text",
+   "en": "There was a day when Okazaki stayed late at school.\nBack then, there was no new school building yet.\nMost classes were held in the old school building.\nThe old school building is in a terrible state now, isn't it?\nThe wooden walls and floors are rotting, and cobwebs hang thick everywhere.\nOf course, it was in better shape back then.\nEven so, they say the building had a musty smell, and on rainy days water leaked in all over the place.{p}"
+  },
+  {
+   "id": "34:aed4",
+   "op": "text",
+   "en": "Don't you find it strange that the daughter of a zaibatsu family went to a school like that?\nThe truth is, our school was her mother's alma mater.\nShe found that out when she was in junior high.\nShe came across her mother's uniform at the back of an old closet, and that's how she learned the truth.\nThat's why she took the entrance exam for our high school.{p}"
+  },
+  {
+   "id": "34:aff4",
+   "op": "text",
+   "en": "The day Okazaki stayed late at school was during exam period.\nShe was studying in the library.\nDuring exams there were no club activities, and many people went straight home, so the school was quieter than usual.{p}"
+  },
+  {
+   "id": "34:b0cc",
+   "op": "text",
+   "en": "She left the library and walked down the hallway.\nShe thought it was about time she went home.\nAnd as she was passing the music room...{p}"
+  },
+  {
+   "id": "34:b14c",
+   "op": "text",
+   "en": "She heard the sound of an organ.\n{a}{f:|}, have you ever remembered the past and felt wistful?\nNostalgia, I suppose you'd call it.\nThat feeling that's somehow fond and somehow sad.\nThe organ had a tone that made you feel just like that.\nShe was captivated by the music at once.\nAnd she peeked into the music room through the window.{p}"
+  },
+  {
+   "id": "34:b290",
+   "op": "text",
+   "en": "Inside, a beautiful schoolgirl was playing the organ.\nWhat year is she in?\nIs she in the music club?\nWondering such things, Okazaki listened, entranced, to the girl's playing.\nAt the time, music classes used the piano, so the organ always sat gathering dust in a corner of the music room.\nBut that organ gave out a sound as vivid and sensuous as a living human voice, and it echoed in Okazaki's heart.\nAfter a while, the girl noticed Okazaki watching her.{p}"
+  },
+  {
+   "id": "34:b42c",
+   "op": "text",
+   "en": "And she stopped playing the organ.{p}"
+  },
+  {
+   "id": "34:b460",
+   "op": "text",
+   "en": "Okazaki was flustered, thinking she'd interrupted.\n\"I-I'm sorry.\nPlease, go on playing.\nI'm leaving now anyway...\"{p}"
+  },
+  {
+   "id": "34:b4f8",
+   "op": "text",
+   "en": "Then the girl, her eyes lowered to the keys, said this.\n\"...That's not it.\nIt isn't that you're in the way.\"\n\"Oh... I see.\nUm, the organ has a beautiful sound, doesn't it?\"\n\"......\"\nThe girl kept her head down and said nothing.\n\"Um... I'm sorry.\nI guess I really am in the way...\"{p}"
+  },
+  {
+   "id": "34:b638",
+   "op": "text",
+   "en": "Okazaki apologized to the girl and turned to leave.\nShe looked away from the music room and stepped off down the hallway.\nAnd after she'd taken a few steps...{p}"
+  },
+  {
+   "id": "34:b6c0",
+   "op": "text",
+   "en": "\"You're not in the way at all.\"\nThe beautiful girl's voice reached her.{p}"
+  },
+  {
+   "id": "34:b710",
+   "op": "text",
+   "en": "Okazaki doubted her ears for a moment and turned around.\nThen the voice went on.\n\"You're not in the way at all...\"\n...Okazaki felt strange.\nWas that really the voice of the girl from before?\nMaybe she had only imagined it.\nWith those thoughts in her head, she ran out of the old school building.{p}"
+  },
+  {
+   "id": "34:b834",
+   "op": "text",
+   "en": "After that, Okazaki went back to the music room after school time and time again.\nBut she never saw that girl again.\nIt was around then that Okazaki received the Rubelize from her father.{p}"
+  },
+  {
+   "id": "34:b8e8",
+   "op": "text",
+   "en": "She had it made into a pendant.\nThey say she treasured it.\nAnd whenever she wished she could see that girl again, she would squeeze the Rubelize tight.\nAs if she were asking the Rubelize for a favor.\nAnd then...{p}"
+  },
+  {
+   "id": "34:b9e8",
+   "op": "text",
+   "en": "She saw her again.\nThat beautiful girl.{p}"
+  },
+  {
+   "id": "34:ba14",
+   "op": "text",
+   "en": "The girl was playing the same organ music Okazaki had heard that day.\nIt was a strange tune.\nOkazaki was enraptured.\nShe stood outside the music room, quietly listening to the organ.\nDetermined not to interrupt this time.{p}"
+  },
+  {
+   "id": "34:baf4",
+   "op": "text",
+   "en": "After that, Okazaki often made her way to the music room to listen to the organ.\nMaking a wish on the Rubelize each time.\nBecause when she did, she could always see that girl she had never been able to meet before.\nEvery time, Okazaki listened to her play and spent moments that felt like a dream.\nOkazaki lived a life of luxury, but she had her own troubles too.\nFriendships at school, her studies, the loneliness of having no mother...\nAt times like that, she always comforted her heart with the sound of that organ.{p}"
+  },
+  {
+   "id": "34:bcb4",
+   "op": "text",
+   "en": "She went to listen to the organ after school, when no one was around.\nWhen people stayed late at school, she would wait until night and sneak in to listen.{p}"
+  },
+  {
+   "id": "34:bd54",
+   "op": "text",
+   "en": "Before long, the fact that she sometimes stayed late at school became the talk of everyone.\nWhat on earth was she doing, they wondered.\nBut no matter who asked, Okazaki never told the truth.\nShe thought that if she told anyone about the music and everyone started going to the music room, her precious time would be lost.{p}"
+  },
+  {
+   "id": "34:be74",
+   "op": "text",
+   "en": "One day, Okazaki came to the organ without making a wish on the Rubelize.\nThe music room was filled with the smell of the building's wood.\nThe organ stood there in silence.\n\"I wonder what it would sound like if I played it...\"\nAs if drawn in, she went up to the organ.{p}"
+  },
+  {
+   "id": "34:bf98",
+   "op": "text",
+   "en": "Okazaki had never taken organ or piano lessons.\nBut she wanted to try playing that organ, the one with that beautiful tone.{p}So what do you think she did?\n"
+  },
+  {
+   "id": "34:c03c",
+   "op": "choice",
+   "en": "She tried playing the organ"
+  },
+  {
+   "id": "34:c054",
+   "op": "choice",
+   "en": "She was going to play, but stopped"
+  },
+  {
+   "id": "34:c06c",
+   "op": "text",
+   "en": "She slowly pressed down a key.\n......\nBut...\nNo sound came from the organ.\n\"Oh, so some of the keys don't make a sound...\"\nAnd yet that woman could play it so wonderfully.\nThinking that, Okazaki reached for another key.\n......\n\"...?\"\nBut again, no sound came out.\n\"...Oh, I forgot to pump it.\nIt won't make a sound unless you play while pressing the pedals with your feet.\"\nPumping the organ's pedals, she pressed the next key.\n......\n\"......\"\nBut there was no sound.\nShe began to feel somehow frightened, and, still pumping, she pressed key after key all over the keyboard.\n\"Wh...★\"\nBut the organ still made no sound at all.{p}",
+   "follows_choice": [
+    "34:c03c"
+   ]
+  },
+  {
+   "id": "34:c320",
+   "op": "text",
+   "en": "...She decided to find out who the woman playing the organ really was.{p}"
+  },
+  {
+   "id": "34:c360",
+   "op": "text",
+   "en": "Perhaps that girl was not of this world.\nShe had that premonition as she went.{p}"
+  },
+  {
+   "id": "34:c3c8",
+   "op": "text",
+   "en": "She clutched the Rubelize and prayed.\nShe wanted to know who the woman playing the organ in the music room really was.\nAnd then she headed for the music room again.{p}"
+  },
+  {
+   "id": "34:c458",
+   "op": "text",
+   "en": "To the deserted music room at night.\nBack then, the floor of that hallway was half-rotten in places.\nWhen you walked on it, it creaked as if it were about to give way.\nShe thought to herself:\nhad the school at night always been this eerie?\nShe'd always come in high spirits, looking forward to the organ, so she'd never once thought of it as frightening.{p}"
+  },
+  {
+   "id": "34:c594",
+   "op": "text",
+   "en": "As she drew near the music room, she heard the organ, as always.\nShe took a deep breath, then peeked into the music room through the window.\nAnd then...\nThere was no one in the music room.\nThe organ was playing all by itself, its keys rising and falling on their own.\nJust then, Okazaki suddenly sensed someone behind her.\nShe turned around fearfully, and...{p}"
+  },
+  {
+   "id": "34:c6e4",
+   "op": "text",
+   "en": "\"Ah...!\"\nThe girl who always played the organ was reaching out to put a hand on her shoulder.{p}"
+  },
+  {
+   "id": "34:c750",
+   "op": "text",
+   "en": "\"N-noooo!☆\"\nOkazaki, startled, tried to shake off the girl's hand.\nBut Okazaki's hand passed right through the girl's body.\nThe girl's body was like air; there was nothing to touch.\nFor an instant, the girl's face twisted with sorrow.\nBut Okazaki couldn't think at all.\nShe just ran off down the hallway...{p}"
+  },
+  {
+   "id": "34:c894",
+   "op": "text",
+   "en": "That night, Okazaki lay on her bed, thinking.\nWhat had that girl been?\nThrough the Rubelize's power, she'd learned the girl wasn't human, but...\nWas she a ghost...?\nIf so, whose ghost could she be?\nOkazaki's thoughts raced.\nJust then...{p}"
+  },
+  {
+   "id": "34:c9a4",
+   "op": "text",
+   "en": "She was seized by paralysis.\nIn the dim room lit by a small light, her arms and legs went rigid, as stiff as lead.{p}"
+  },
+  {
+   "id": "34:ca28",
+   "op": "text",
+   "en": "\"Do you want to know?\"\nA voice came from somewhere.\n\"Do you want to know who the girl playing the organ really is...?\"\nIt sounded like a woman's voice.\nA low woman's voice that seemed to rumble up from the ground.{p}"
+  },
+  {
+   "id": "34:cae0",
+   "op": "text",
+   "en": "(Wh... who's there?)\nOkazaki tried to cry out.\nBut all that came from her mouth was a wheezing breath.\n\"Yukie, my sweet child...\"\nThe voice said that out of nowhere.\nMother?\nOkazaki was bewildered.\nShe had half suspected it all along.\nThat her mother had died somewhere.\nAnd that the girl playing the organ was...\nin fact her own mother.\nSweat broke out on Okazaki's forehead.\nIt was a sultry night.{p}"
+  },
+  {
+   "id": "34:cc8c",
+   "op": "text",
+   "en": "She strained her eyes in the faint light, trying to find the woman the voice belonged to.{p}"
+  },
+  {
+   "id": "34:cce8",
+   "op": "text",
+   "en": "Then suddenly the light went out.\nA woman's low voice rang out, as if shaking the bed.\n\"Yukie.\nStop going to the music room.\nOr you'll be cursed to death.\nUnderstand? ...Listen carefully.\nYou told the Rubelize you wanted to know who the girl playing the organ really is.\nShe is...\"\nJust then, the sound of an organ came from somewhere.\nAnd besides the low woman's voice, she heard a beautiful woman's voice.\nThat voice had a clear ring to it that was somehow nostalgic.{p}"
+  },
+  {
+   "id": "34:ceb0",
+   "op": "text",
+   "en": "\"Don't be fooled...\nIt's me.{p}"
+  },
+  {
+   "id": "34:cee0",
+   "op": "text",
+   "en": "I'm the one who's your mother.\nLet me play the organ for you.\nAfter all, I parted from my husband when you were still just a baby.\nLet me play you a lullaby.\nMy sweet Yukie...\"\nOkazaki grew sleepier and sleepier.{p}"
+  },
+  {
+   "id": "34:cfd0",
+   "op": "text",
+   "en": "\"No!☆ Yukie!\nYou mustn't fall asleep.\nDon't let her fool you.\nYou'll be killed.\nYukie, trust me...\"\nThis time, it was the woman's low voice.\nThe two women's voices echoed through Okazaki's head.{p}...{a}{f:|}.\nWhich one do you think was her real mother?\n"
+  },
+  {
+   "id": "34:d0d8",
+   "op": "choice",
+   "en": "The clear-voiced woman who played the organ"
+  },
+  {
+   "id": "34:d100",
+   "op": "choice",
+   "en": "The low-voiced woman who paralyzed Okazaki"
+  },
+  {
+   "id": "34:d124",
+   "op": "text",
+   "en": "(M... Mother!☆)\nIn her heart, Okazaki called out to the clear-voiced woman.\nAnd then...{p}",
+   "follows_choice": [
+    "34:d0d8"
+   ]
+  }
+ ]
+}

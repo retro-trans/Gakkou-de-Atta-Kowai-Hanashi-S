@@ -1,0 +1,726 @@
+{
+ "chunk": "E095",
+ "scene": "47",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S187",
+  "S188"
+ ],
+ "prev": "E094",
+ "next": "E096",
+ "todo": [
+  "- [editorial] Scene 47: narration calls {a} 'my senior' (S186), 'my senpai' (S184), 'Senpai' (S187/S188); direct address '{a}.' vs '{a}-senpai' (47:f31c). Pick one style."
+ ],
+ "rows": [
+  {
+   "id": "47:a674",
+   "op": "text",
+   "en": "\"Senpai... Huh?\"\n{a} isn't here yet.\nHonestly, and it's already the time we agreed on.\nReally... Hm?{p}"
+  },
+  {
+   "id": "47:a6f0",
+   "op": "text",
+   "en": "What's this notebook?\n'Notebook of Grudges'\n.........?\nWhose notebook is this, I wonder?\nOh, I'll just take a peek.\n\"Mayumi Taguchi: looked at me funny.\"\n...That's {a}'s handwriting.\nWhat a weirdo.\nKeeping a notebook like this.\n\"Hey, Taguchi.\"\nOh, {a}...\n\"Senpai, what is this notebook?!\"\n\"...Oh, you saw that?\"\nSenpai's expression changed.\n\"...Well, it's the truth, isn't it? You're always looking at me funny.\"{p}"
+  },
+  {
+   "id": "47:a870",
+   "op": "text",
+   "en": "...Oh, he's sulking.\n"
+  },
+  {
+   "id": "47:a888",
+   "op": "choice",
+   "en": "He's kind of cute, maybe"
+  },
+  {
+   "id": "47:a8a0",
+   "op": "choice",
+   "en": "Ewww, creepy"
+  },
+  {
+   "id": "47:a8c0",
+   "op": "text",
+   "en": "He's kind of cute, maybe.\nSenpai has his annoying side, but sometimes he does cute things.\nActually, I don't dislike him all that much.\nSometimes I think he's kind of fun, too.\n\"Taguchi. Give me back the notebook.\"\nOkay, okay, I'll give it back.{p}",
+   "follows_choice": [
+    "47:a888"
+   ]
+  },
+  {
+   "id": "47:a9a8",
+   "op": "text",
+   "en": "\"...So, shall we talk?\nYou know how our school is building a second gym right now?\"\n...Oh, right, it is.\n\"To commemorate it, I want to do a feature on the school's seven wonders.\"\nSeven wonders?\n...{a} looks kind of happy.\nHis whole face has gone slack.\nHis voice has gone all squeaky, too.\n\"Taguchi, are you listening?\"\nOops.\n\"I'm listening. It's about the second gym, right?\"{p}"
+  },
+  {
+   "id": "47:ab24",
+   "op": "text",
+   "en": "...Right, about the second gym.\nThere used to be an old school building on that spot.\nIt was torn down two summers ago.\nIt was a really creepy building.\nThe wooden walls and floors were rotting in places.\nThe whole place reeked of mildew.\nAnd on top of that, there were tons of supernatural phenomena.\nAll sorts of people had terrifying experiences there.\nTaguchi.\nAbout that old school building...{p}"
+  },
+  {
+   "id": "47:ac7c",
+   "op": "text",
+   "en": "You'll listen, won't you?\n"
+  },
+  {
+   "id": "47:ac98",
+   "op": "text",
+   "en": "Hmm.\nNo, I'll turn him down after all.\nHe's weird, and mean on top of that.\nHe's always pushing nasty interviews onto people.\nApparently the same thing was done to {a} as a first-year.\nSo it seems he thinks it's his turn to bully the juniors now.\nHow petty.\nSenpai said he'd be waiting in the club room.\nOh well.\nI'll go and tell him no.{p}",
+   "follows_choice": [
+    "47:a5ec"
+   ]
+  },
+  {
+   "id": "47:ade0",
+   "op": "text",
+   "en": "\"{a}!\nI'm so sorry...!\"\n\"Hey, Taguchi.\"\n\"Um, actually, I...\"\n\"Sorry for calling you all the way out here.\nWell, have a seat.\nSay, you know the second gym is almost finished, right?\"{p}"
+  },
+  {
+   "id": "47:aeb0",
+   "op": "text",
+   "en": "...Hold on a minute.\nI didn't come here to chat with you, Senpai.\n\"So, Taguchi.\nTo celebrate the second gym's completion, I want to do a feature on the school's seven wonders.\"\n\"Huh, the school's seven wonders?\"\n...Ugh, I blew it.\nI had no intention of listening to him, but I answered without thinking.\n\"Taguchi.\nDo you know what used to be there before the second gym was built?\"{p}"
+  },
+  {
+   "id": "47:b02c",
+   "op": "text",
+   "en": "...I've heard about it.\nI think what used to be there was...\nUgh, no, no.\nI mustn't listen to anything {a} says.\n..........\nBut...{p}"
+  },
+  {
+   "id": "47:b0c8",
+   "op": "text",
+   "en": "Doesn't it sound kind of interesting?\nMaybe I could play along a little.\nHe might even get around to saying he wants to make me club president someday.\nUmm.\nI think what stood there before the second gym was...\n\"Don't know? It was the old school building.\"\nOh, right, it was the old school building.\n\"The old school building was torn down two summers ago.\nThat place had tons of supernatural phenomena, but...\"\n{a} is telling it so smugly.\nIt's kind of making me laugh.\n\"Taguchi, what's so funny?\"\n\"Oh, n-nothing...\"{p}",
+   "returns": []
+  },
+  {
+   "id": "47:b2a0",
+   "op": "text",
+   "en": "...Taguchi.\nThis is no laughing matter.\nThis is serious.\nWhen they tore down the old school building, they turned up.\nSkeletons, heaps of them...\nThat started all sorts of rumors.\nThat there was an air-raid shelter under the old school building, or that lots of war dead were buried around there.\n...And then there was this, too.{p}"
+  },
+  {
+   "id": "47:b3dc",
+   "op": "text",
+   "en": "Ewww, creepy.\nUgh, the worst.\n{a} really is weird.\nKeeping a notebook like this is way too gloomy for me.\n\"Taguchi, would you mind giving that notebook back?\"\nFine, fine, I'll give it back, okay?{p}",
+   "follows_choice": [
+    "47:a8a0"
+   ]
+  },
+  {
+   "id": "47:b4b0",
+   "op": "text",
+   "en": "Seriously, why is someone like him the club president?\nMaybe I'm just not cut out for the newspaper club, like everyone says.\nSenpai took the notebook and slowly began reading it aloud.\n\"I will now read the charges against Mayumi Taguchi.\"\nWait a second, what charges against me?!\nEven as a joke, this is going way too far. It's like a trial!\nBut Senpai has a dead serious look on his face.\nIs he really planning to put me on trial?{p}"
+  },
+  {
+   "id": "47:b62c",
+   "op": "text",
+   "en": "\"Mayumi Taguchi: looked at me funny.\nIgnored me when I spoke to her.\nSlacked off cleaning the restrooms.\nAte the last cookie.\nCalled the fortune I kindly told her a fake.\n...That is all.\"\nIt's like an elementary school class meeting.\nI'm really starting to feel uneasy about this guy being club president.{p}"
+  },
+  {
+   "id": "47:b754",
+   "op": "text",
+   "en": "\"...I shall now pronounce the sentence. Mayumi Taguchi, for these crimes, you are sentenced to death☆\"\nNo way☆\nA death sentence for something this small? That's absurd!\nI refuse to accept a trial with no jury and no defense lawyer!\n\"This verdict is the will of every member of the Murder Club, and {b} {a} shall carry out the sentence in the name of its second president.\"{p}"
+  },
+  {
+   "id": "47:b880",
+   "op": "text",
+   "en": "\"Um... how many people is 'every member'?\"\nI asked timidly.\nI mean, I don't want to think that so many people hold a grudge against me.\n\"One member in total.\"\n\"So that means it's just you, Senpai?\"\n\"You're so annoying. Only the elite of the elite may join this club. There can't be that many geniuses around, can there?\"{p}"
+  },
+  {
+   "id": "47:b9c4",
+   "op": "text",
+   "en": "What a convenient answer.\nIt sounds cool when he puts it that way, but in the end doesn't that just mean he has no friends and nobody pays any attention to him?\n\"Well, let's see. I'm not a monster, after all.\nI'll give you just one chance.\nIf you join the Murder Club and work for me, I might call off your execution.\nWhat do you say? Surely there's a person or two you'd like to kill, too?\"\nHe wants me to join him?\nHe seems to mean it, but...{p}What should I do?\n"
+  },
+  {
+   "id": "47:bb68",
+   "op": "choice",
+   "en": "Tell him I'll join"
+  },
+  {
+   "id": "47:bb7c",
+   "op": "choice",
+   "en": "Tell him I'd never join him, even if it killed me"
+  },
+  {
+   "id": "47:bbac",
+   "op": "text",
+   "en": "\"I wouldn't join you even if it killed me.\nI absolutely refuse.\"\nHonestly, this is no joke.\n\"Is that so? What a pity.\"{p}",
+   "follows_choice": [
+    "47:bb7c"
+   ]
+  },
+  {
+   "id": "47:bc40",
+   "op": "text",
+   "en": "At that moment, a sharp pain shot through my back.\nSomething clattered and rolled at my feet.\nIt was a blood-soaked ice pick.\nSo I'd been stabbed with this.\nBut by who...?{p}"
+  },
+  {
+   "id": "47:bd08",
+   "op": "text",
+   "en": "Senpai was right in front of me and hadn't moved a single step.\nAnd nobody had come in or gone out the whole time, so does that mean someone besides {a} had been hiding in this room from the start...?{p}"
+  },
+  {
+   "id": "47:bdb0",
+   "op": "text",
+   "en": "\"What's the matter?\nYou look pale.\nYou seem to be suffering. I don't think you'll make it.\nIf you were a friend, I'd put you out of your misery in one go, but you turned me down.\nDo savor the pain to the very end.\nWell then, I'll be taking my leave first.\"\nWith that, Senpai stood up from his chair and looked down at me.\nMy body was already numb; I couldn't even move my arms or legs.\n\"I... was... stab... bed?\"\nSeeing me unable to even make a sound anymore, Senpai smiled with delight.\n\"Oh, that's right. The ghosts of the previous Murder Club members haunt this club room, so you'd better be careful. They all lost their battles with me and died. Not that I killed them, mind you. ...What? They must hate me? No, no, they're all precious comrades who do exactly as I say. When I tell them to kill someone, they kill, and when I told them to stab you in the back with an ice pick, they did it properly, didn't they? Oh my, it seems you can't hear me anymore. Well then, I'll leave the door unlocked, so you can go home whenever you like. Not that it matters if your body is found here; I can deal with that one way or another.\"{p}"
+  },
+  {
+   "id": "47:c150",
+   "op": "text",
+   "en": "The club room door shut...\nMy body crumpled to the floor.\nAfter that, nothing moved ever again..........{p}"
+  },
+  {
+   "id": "47:c1c0",
+   "op": "text",
+   "en": "I think he's a weird person.\nI mean, sometimes he tells awful jokes.\nLike that he's been to planet Sunbararia, or that Sanbura tea tastes grassy...\nHe seems like someone with dangerous ideas.\nSo right now I'm a bit torn.{p}What should I do...?\n",
+   "follows_choice": [
+    "47:1394"
+   ]
+  },
+  {
+   "id": "47:c2a0",
+   "op": "choice",
+   "en": "Go"
+  },
+  {
+   "id": "47:c2ac",
+   "op": "choice",
+   "en": "Don't go"
+  },
+  {
+   "id": "47:c2c0",
+   "op": "text",
+   "en": "Oh, what the heck, I'll go.\nHe's really eccentric, but...\nhe seems to know lots of unusual stories.{p}",
+   "follows_choice": [
+    "47:c2a0"
+   ]
+  },
+  {
+   "id": "47:c33c",
+   "op": "text",
+   "en": "Actually, I'm a little curious.\nThey say there was once a boy at our school who never went to the toilet.\nApparently {a} knows that person's secret.\nI'd love to hear it.\nRomantic girls dream of living a life like that.\nJust kidding.\nActually, it's plain curiosity.\nEven if he says it's a super important talk...\nKnowing {a}, he's bound to come out with some huge goof.\nAfterward I'll spread it around and have a good laugh.\nAnd besides, I heard a rumor.\nThat {a} used to go out with an older woman.\nShe was a student at this school.\nHer name was... Iwa... Iwashita something.\nWas it Creepymi Iwashita?\nNo... maybe it was Creepemi.{p}"
+  },
+  {
+   "id": "47:c590",
+   "op": "text",
+   "en": "...Oh well, whatever.\nApparently {a} went out with her and she nearly killed him.\nShe was supposedly an incredibly jealous person.\nI told {a} a while ago that I wanted to write an article about it.{p}"
+  },
+  {
+   "id": "47:c658",
+   "op": "text",
+   "en": "Maybe that's what he called me here for today.\nThat'd be fun.\nI can't wait...\nHee hee.{p}"
+  },
+  {
+   "id": "47:c6c4",
+   "op": "text",
+   "en": "...Okay, here's the club room.{p}"
+  },
+  {
+   "id": "47:c704",
+   "op": "text",
+   "en": "\"Senpai☆\"\n\"Wh-whoa!☆\"\n\"Eek...\"\nSenpai fell right off his chair.\nMy loud voice must have startled him.\nHow pathetic.\nHe really is weird.\n\"Oh, I'm sorry...\"\nI apologized, at least.\nThough inside, I could barely keep from laughing.\n\"Geez, you scared me.\nI thought the Deberondattans had launched a counterattack.\"{p}"
+  },
+  {
+   "id": "47:c840",
+   "op": "text",
+   "en": "..........\nThis guy really is weird.\n\"Um, {a}, what did you want to talk about?\"\nI'll hear it quickly and say bye-bye.\n\"Oh, sorry. The thing is...\nYou know the second gym is almost finished, right?\nTo celebrate it, I want to do a feature on the school's seven wonders.\"\n\"Huh, the school's seven wonders?\"{p}"
+  },
+  {
+   "id": "47:c970",
+   "op": "text",
+   "en": "\"Right. On the land where they're building the second gym, there used to be an old school building.\nIt was torn down two summers ago.\nThe old school building was a place with tons of supernatural phenomena...\"{p}"
+  },
+  {
+   "id": "47:ca30",
+   "op": "text",
+   "en": "Wh-what...?\n{a}'s eyes look like they're glowing gold...\nNo way.\n\"{a}, um...\"{p}"
+  },
+  {
+   "id": "47:caac",
+   "op": "text",
+   "en": "...Taguchi, just be quiet and listen.\nWhen they tore down the old school building, there was a huge uproar.\nEven TV stations came to report on it.\nHaven't you heard?\nThe story about masses of skeletons turning up where the old school building was torn down.\nSo people said there'd been an air-raid shelter under it, or that lots of war dead were buried there...\nAll kinds of rumors went around.\nAnd there's this story, too.\nLots of accidents happened while the old school building was being demolished.\nPeople called it the curse of the skeletons, so they held a pretty large-scale purification rite.\nBack then, I'd been assigned to write an article on the school's seven wonders.\nAt the time, I had a senior of mine, a guy named Hino, gather people who knew all about the school's seven wonders.\nAs I heard their stories, I learned lots of scary stories about this school, too.{p}"
+  },
+  {
+   "id": "47:cd6c",
+   "op": "text",
+   "en": "But in the end, that project turned into 'The Mystery of the Masses of Skeletons Found Under the Old School Building!'\nWell, it couldn't be helped.\nSomething that really happened has more impact than mere rumors, after all.\nYou probably remember it too, don't you?\nThe police came, and it was even in the newspapers.\nI was the one who wrote the school paper's article on it back then.\nIt was really well received.{p}"
+  },
+  {
+   "id": "47:ced8",
+   "op": "text",
+   "en": "But I was disappointed.\nBecause that project got scrapped.\nEven though it wasn't my project to begin with.\nIt was the club president's idea.\nStill, for some reason, I was really disappointed.\nFunny thing.\nWhen that project was pushed onto me, I felt really bad about it.\nIf I could have, I wouldn't have done it.\nThat's how much I hated scary stories.\nAnd yet look at me now.\nI'm dying to do it, of my own free will.\nSo I thought about it.\nWhen the second gym went up on the site of the old school building, this time I'd finally make this project happen.{p}"
+  },
+  {
+   "id": "47:d0d4",
+   "op": "text",
+   "en": "So, what do you say?\nI'd like to entrust you with that important role.{p}How about it?\nWill you do it?\n"
+  },
+  {
+   "id": "47:d12c",
+   "op": "choice",
+   "en": "I'll do it"
+  },
+  {
+   "id": "47:d138",
+   "op": "choice",
+   "en": "Please, give me a break"
+  },
+  {
+   "id": "47:d160",
+   "op": "text",
+   "en": "\"Heh, thank you...\"\n{a} patted me on the shoulder.\nWhat strength.\n\"...Then I'll gather seven people who know all about the school's seven wonders. ...Let's see. The day after tomorrow would be good. Could you come to the club room again the day after tomorrow? I'll have it all arranged with the seven by then.\"\nHe's so pushy.\n\"Senpai, um...\"{p}",
+   "follows_choice": [
+    "47:d12c"
+   ]
+  },
+  {
+   "id": "47:d284",
+   "op": "text",
+   "en": "\"☆☆··★☆☆\"{p}"
+  },
+  {
+   "id": "47:d29c",
+   "op": "text",
+   "en": "Huh, what language was that?\n\"Oops, my mistake. See you, Taguchi. The day after tomorrow, I'm counting on you...\"{p}"
+  },
+  {
+   "id": "47:d308",
+   "op": "text",
+   "en": "\"Ah, Senpai!\"\n{a} left as if running away.{p}"
+  },
+  {
+   "id": "47:d348",
+   "op": "text",
+   "en": "Wait, what was that just now?\nWhat on earth is {a}...?{p}"
+  },
+  {
+   "id": "47:d37c",
+   "op": "text",
+   "en": "I'll skip it.\nIt's best to stay away from weirdos.\nWhat should I do with the rest of today?\nWhat should I do?\nWhat should I do?\nWhat should I do...?\n\"Taguchi.\nYou're late.\"{p}",
+   "follows_choice": [
+    "47:c2ac"
+   ]
+  },
+  {
+   "id": "47:d448",
+   "op": "text",
+   "en": "Gah! {a}☆\n\"You never showed up no matter how long I waited, so I came to get you.\nYou're hopeless. Come on, let's hurry to the club room.\"\nAh, ah, aaaaaah.{p}"
+  },
+  {
+   "id": "47:d4f4",
+   "op": "text",
+   "en": ".........\nDarn it.\nI'm such an idiot.\nI should have gone straight home.\n\"Huh, Taguchi. What are you pouting about?\n...Could it be you had plans today?\nHa ha, sorry, sorry.\nTo make up for it, I'll show you something nice.\"\n...Something nice?\nWhat could it be?{p}"
+  },
+  {
+   "id": "47:d5ec",
+   "op": "text",
+   "en": "\"These are photos I took the year before last...\"\nOh...\n\"So pretty.\"\n\"Aren't they?{p}"
+  },
+  {
+   "id": "47:d654",
+   "op": "text",
+   "en": "...Look, how about this one?\"\n\"Whoa.\nSenpai, what's this photo?\"\n\"A mirror that was in the old school building.\nAnd a devil.\"\n\"...Wh-why do you have a photo like that?\"\n\"I was going to run it in the school paper two years ago.\"\n\"Is it a doctored photo?\"\n...{a} is smirking.\nSomething's off about this.{p}"
+  },
+  {
+   "id": "47:d778",
+   "op": "text",
+   "en": "\"Look, there's this one, too.\"\n\"Ahaha.\nThat's hilarious.\"{p}"
+  },
+  {
+   "id": "47:d7c8",
+   "op": "text",
+   "en": "\"There's lots more.\nLook...\"\n\"Did you take all of these, Senpai?\"\n\"Yeah, a lot happened back then.\"{p}"
+  },
+  {
+   "id": "47:d85c",
+   "op": "text",
+   "en": "\"This is the old school building's staircase.\nDid you know?\nThe old school building was torn down two years ago.\nAll sorts of supernatural phenomena happened there.\nThere were lots of scary stories about these stairs, too... Brings back memories.\nThe thirteen steps...\"\nSenpai is muttering to himself.{p}"
+  },
+  {
+   "id": "47:d944",
+   "op": "text",
+   "en": "\"Is this the old school building too?\"\n\"That's right.\nIt's falling to pieces, isn't it?\"\nIt really is.\nThe walls and floors look ready to cave in.\n\"They're building the second gym right now, right?\nIt's going up where the old school building was torn down.\nSo, to celebrate it, I want to do a feature on the school's seven wonders...\"\n\"...Uh-huh.\nSenpai, can I look at these photos over here too?\"{p}"
+  },
+  {
+   "id": "47:da98",
+   "op": "text",
+   "en": "...Yeah, go ahead.\nLook at the photos all you like.\nBy the way, did you know, Taguchi?\nWhen they tore down the old school building, they say lots of skeletons came out.\nHuman ones, of course.\nSo people said there'd been an air-raid shelter under it, or that lots of war dead were buried there...\nAll kinds of rumors went around.\nAnd there's this story, too.\nLots of accidents happened while the old school building was being demolished.\nPeople called it the curse of the skeletons, so they held a pretty large-scale purification rite.\nBack then, I'd been assigned to write an article on the school's seven wonders.\nAt the time, I had a senior of mine, a guy named Hino, gather people who knew all about the school's seven wonders.\nAs I heard their stories, I learned lots of scary stories about this school, too.{p}"
+  },
+  {
+   "id": "47:dd3c",
+   "op": "text",
+   "en": "But in the end, that project turned into 'The Mystery of the Masses of Skeletons Found Under the Old School Building!'\nWell, it couldn't be helped.\nSomething that really happened has more impact than mere rumors, after all.\nYou probably remember it too, don't you?\nThe police came, and it was even in the newspapers.\nI was the one who wrote the school paper's article on it back then.\nIt was really well received.{p}"
+  },
+  {
+   "id": "47:dea8",
+   "op": "text",
+   "en": "But I was disappointed.\nBecause that project got scrapped.\nEven though it wasn't my project to begin with.\nIt was the club president's idea.\nStill, for some reason, I was really disappointed.\nFunny thing.\nWhen that project was pushed onto me, I felt really bad about it.\nIf I could have, I wouldn't have done it.\nThat's how much I hated scary stories.\nAnd yet look at me now.\nI'm dying to do it, of my own free will.\nSo I thought about it.\nWhen the second gym went up on the site of the old school building, this time I'd finally make this project happen.{p}"
+  },
+  {
+   "id": "47:e0a4",
+   "op": "text",
+   "en": "So, what do you say?\nI'd like to entrust you with that important role.{p}How about it?\nWill you do it?\n"
+  },
+  {
+   "id": "47:e0fc",
+   "op": "choice",
+   "en": "I'll do it"
+  },
+  {
+   "id": "47:e108",
+   "op": "choice",
+   "en": "I can't"
+  },
+  {
+   "id": "47:e114",
+   "op": "text",
+   "en": "\"I see. Thank you...\"\n{a} is breaking into a smile.\nHe looks like he's fondly remembering something...\n\"What are you looking at?\"\nOh, it's a photo.\nWhat's this...?{p}",
+   "follows_choice": [
+    "47:e0fc"
+   ]
+  },
+  {
+   "id": "47:e208",
+   "op": "text",
+   "en": "\"No, you can't. This is a very precious photo...\"\nOh, he put it away.\nSenpai, who on earth are those people...?\n\"Taguchi. Come back to the club room the day after tomorrow.\nI'll round up seven people who know all about the school's seven wonders...\"\n\"...{a}.\"\n\"Well, let's head home.\nI'm counting on you, the day after tomorrow.\"\n\"......\"{p}",
+   "returns": []
+  },
+  {
+   "id": "47:e334",
+   "op": "text",
+   "en": "No.\nYou can't get away from this.\nThis project can't happen without you.\nGot it?\nYou'd better come, no matter what.\nOr else...{p}",
+   "follows_choice": [
+    "47:d138"
+   ]
+  },
+  {
+   "id": "47:e3d8",
+   "op": "text",
+   "en": "\"Eeeeeek!☆\"\n{a}...\nStop tickling meee!☆\n\"Ahahaha...☆\"\nN-no, stop!\nWhat is this squirmy thing?\nIt feels like I'm being tickled by a mop of fuzzy strings...\n\"S-stop it, please!\"\n\"Heh heh heh.\nI'll let you off if you take on the seven wonders project.........\"\nAhahahaha...................................................{p}"
+  },
+  {
+   "id": "47:e554",
+   "op": "text",
+   "en": "Honestly, {a}!\nTickling people like that is just mean.\nBut what on earth was that fuzzy thing?\nA foxtail, maybe?\nIt felt like some kind of feelers.\nAnd I think I saw something like an ammonite, too...\nNo, I must have imagined it.\nStill, he really is a weird guy.\nUgh, what am I going to do?\nIt looks like I'm being forced into the seven wonders project.\nHe says I have to do the interviews the day after tomorrow.\n{a} was all breezy about it, saying he'd set everything up for me, but...\nWhat a drag.{p}"
+  },
+  {
+   "id": "47:e70c",
+   "op": "text",
+   "en": "What did you say?\nThat won't do.\nThis is an order from your senior.\nYou have to do the interviews.\nI'll round up seven people who know all about the school's seven wonders.\nRight, let's make it the day after tomorrow.\nCome back to the club room the day after tomorrow, got it?\n\"......{a}.\"{p}",
+   "follows_choice": [
+    "47:e108"
+   ],
+   "returns": []
+  },
+  {
+   "id": "47:e808",
+   "op": "text",
+   "en": "He's so pushy.\nHe must really want to get this project through.\nWhat a pain...\n......{p}"
+  },
+  {
+   "id": "47:e868",
+   "op": "text",
+   "en": "I think he's an interesting person.\nOr, to put it another way...\nKind of lovely, I guess?\nApparently, when he was a first-year, he was a total scaredy-cat.\nIsn't that cute?\nActually, he's been on my mind lately.\nMy eyes keep following {a} around.\nSomehow I feel like I just can't leave him be.\nYou could say he tickles my maternal instinct.\nHee hee...{p}",
+   "follows_choice": [
+    "47:13a8"
+   ]
+  },
+  {
+   "id": "47:e9a8",
+   "op": "text",
+   "en": "I think he's a mysterious person.\nLike, it seems nothing could ever faze him.\n...Well, maybe things do faze him.\nMore like he bounces back fast.\nLike he'd come back to life even if he died.\nOh, right, I hear that when {a} does Kokkuri-san, he uses a 500-yen coin.\nThat way, he can summon a genuine high-level spirit as Kokkuri-san.\nMaybe I'll ask him to do it for me.\nI'll bring a 500-yen coin with me.\nOkay, I'd better get going, or I'll be late for our appointment.{p}",
+   "follows_choice": [
+    "47:13c0"
+   ]
+  },
+  {
+   "id": "47:eb6c",
+   "op": "text",
+   "en": "...The hallway seems kind of dim.\nIt isn't even that late.\nMaybe it's because it's cloudy outside?\nThis school has its own creepy atmosphere, but on days like this I feel it even more strongly.\nThere are so many incidents and accidents here that nobody can explain.\nAnd they say the second gym that's almost finished is being built right where a mountain of human bones turned up...\nStill, was this hallway always this long?\nI'm not getting anywhere at all.\n...Huh?★\nSomeone's sitting on the floor over there.\nIt looks like a girl, but...{p}What should I do? Should I call out to her?\n"
+  },
+  {
+   "id": "47:ed60",
+   "op": "choice",
+   "en": "Call out to her"
+  },
+  {
+   "id": "47:ed6c",
+   "op": "choice",
+   "en": "Ignore her"
+  },
+  {
+   "id": "47:ed78",
+   "op": "text",
+   "en": "I decided to ignore her after all.\nShe just didn't seem like a normal person.\nShe was... how do I put it?\nI feel like she was giving off something, a sinister aura, a ghostly aura, whatever you call it.\nShe must have been a ghost or something.{p}",
+   "follows_choice": [
+    "47:ed6c"
+   ]
+  },
+  {
+   "id": "47:ee40",
+   "op": "text",
+   "en": "...Phew, I finally made it to the stairs.\nBut why are the first-year classrooms on the top floor, anyway?\nEvery morning I'm nearly late, and I'm sick of it.\nLate...!\nOh nooo, it's already past the time we agreed on.\nI have to hurry.{p}"
+  },
+  {
+   "id": "47:ef18",
+   "op": "text",
+   "en": "Ah, I can finally see the club room.\nStanding in front of it... who's that girl?\nI've never seen her before.\nSomeone who wants to join?\nOr was she called here by Senpai, like me?\nOh, now that I look closer, she's not in uniform.\nHuh, so she's not a student.\n\"Excuse me, you there?\"\nAll of a sudden, she spoke to me.\n\"Y-yes?\"\nI answered without thinking.\nI hate to admit it, but she's prettier than me.{p}"
+  },
+  {
+   "id": "47:f080",
+   "op": "text",
+   "en": "\"Do you know someone named Shinji Kondo?\"\nShinji Kondo...?\nI've never heard that name before.\n\"No, I don't.\"\n\"I see. Where on earth could he be?\nAnd he's my destined one...\"\nSaying that, the woman wandered unsteadily away.\nHer destined one, huh? How romantic.\nHee hee, she even had a red thread wound around her little finger.\nSo even grown-ups believe in that stuff.{p}"
+  },
+  {
+   "id": "47:f1e4",
+   "op": "text",
+   "en": "Well, time for me to go into the club room.\nI wonder if {a}'s mad at me...\nFirst things first, a knock...{p}"
+  },
+  {
+   "id": "47:f250",
+   "op": "text",
+   "en": "Knock knock.\n\"Sorry I'm late!\nIt's Taguchi, the first-year!\"{p}"
+  },
+  {
+   "id": "47:f2a8",
+   "op": "text",
+   "en": "I opened the door cheerfully.{p}"
+  },
+  {
+   "id": "47:f2cc",
+   "op": "text",
+   "en": "And all at once, fourteen eyes turned toward me.{p}"
+  },
+  {
+   "id": "47:f31c",
+   "op": "text",
+   "en": "Seven people, boys and girls, are sitting around the big table in the middle of the club room.\nThey're all staring at me, looking startled.\nExcept for {a}, they're all complete strangers.\nI was so sure Senpai would be the only one here...\n\"Um, you must be the seventh one.\nPlease, have a seat over here.\"\nGeez, {a} is being so formal, acting like this is the first time we've ever met.\nAnyway, what are these people doing here?\n\"Um, {a}-senpai.\nWhat did you need me for?\nAnd what do you mean, the seventh one...?\"\n\"Huh? Um, 'senpai'...?\"\n{a} is looking at me with a puzzled frown.\nThose are really the eyes of someone looking at a stranger.{p}",
+   "returns": []
+  },
+  {
+   "id": "47:f588",
+   "op": "text",
+   "en": "\"Well, {a}, you're a sly one.\nGoing and getting yourself a cute girlfriend like this.\"{p}"
+  },
+  {
+   "id": "47:f5e0",
+   "op": "text",
+   "en": "\"Did you hear that?\nShe called him 'senpai.'\"{p}"
+  },
+  {
+   "id": "47:f618",
+   "op": "text",
+   "en": "\"Which means she's his junior from middle school.\nLet's have a look... Well, well, isn't she quite the cutie?\nAll right, as a special favor, I'll tell your fortune with Kokkuri-san.\nDon't worry, the Kokkuri-san I summon is a high-level spirit.\"{p}"
+  },
+  {
+   "id": "47:f6dc",
+   "op": "text",
+   "en": "\"That's so mean, {a}! Keeping it a secret even from me, your best friend!\"{p}"
+  },
+  {
+   "id": "47:f71c",
+   "op": "text",
+   "en": "\"Hmm. So you're {a}'s girlfriend?\nHow unremarkable.\"{p}"
+  },
+  {
+   "id": "47:f764",
+   "op": "text",
+   "en": "\"Hey, hey, where did you two meet?\nHow did you start going out?\"{p}"
+  },
+  {
+   "id": "47:f7b0",
+   "op": "text",
+   "en": "The other six seem to have mistaken me for Senpai's girlfriend.\nThey're all teasing us at once.\n\"Everyone, hold on a minute!\"\nSenpai stood up from his seat and shouted the six of them down.{p}"
+  },
+  {
+   "id": "47:f87c",
+   "op": "text",
+   "en": "So cool..........\nI think I might fall for him.\n\"Hey, you.\"\n\"Y-yes!\"\nNo, no, this is no time to be swooning.\n\"Sorry, but I think you've got the wrong person.\nI am {a}, sure, but I don't know anyone like you. And besides, I'm still only a first-year. I can't think of any reason anyone would call me 'senpai.'\"{p}"
+  },
+  {
+   "id": "47:f99c",
+   "op": "text",
+   "en": "Whaaaaaaaaat?!★\nThat's impossible...\nNow that I think about it, Senpai... does look a teeeeny bit younger...\nIs this back when Senpai was a first-year?\nDid I slip back in time or something?★\nEeek, how cool! It's just like a movie!{p}"
+  },
+  {
+   "id": "47:fa8c",
+   "op": "text",
+   "en": "But if I tell them that, will they even believe me?\nEven if this is the past, it would make me sad to have {a} look at me like I'm weird.\n\"Could you be someone Hino knows?\nSeeing as you're wearing the uniform, you seem to be a student here...\"{p}Now what do I do?\nHow should I answer?\n"
+  },
+  {
+   "id": "47:fb84",
+   "op": "choice",
+   "en": "Say I came from the future"
+  },
+  {
+   "id": "47:fb98",
+   "op": "choice",
+   "en": "Just nod along"
+  },
+  {
+   "id": "47:fba8",
+   "op": "text",
+   "en": "\"Yes, yes, that's right, actually.\nUm, I was told to come here... and to have a little fun with you all.\"{p}",
+   "follows_choice": [
+    "47:fb98"
+   ]
+  },
+  {
+   "id": "47:fc1c",
+   "op": "text",
+   "en": "\"So you are the seventh one after all.\nHonestly, Hino has such a nasty streak.\nHe even set up a prank like this.\"{p}"
+  },
+  {
+   "id": "47:fc94",
+   "op": "text",
+   "en": "Hee hee, looks like I fooled them nicely.\nStill, I don't get this 'seventh one' business.\nSeventh in what order?\n\"Well then, please tell us the last story.\nEveryone's been waiting, so they won't be satisfied with just any ordinary scary story.\"\nScary story...?\nThen this must be the seven wonders gathering I've heard rumors about.\nSo they really held one at this school, too.\nAnd Senpai is involved in it...\nHe really is a mysterious person.\nBut is it really okay for me to be doing this?\nWill I actually be able to get back to my own world?\nWith those thoughts in my head, I began to speak.\n\"Well then, this is something that happened to me just now...\"{p}"
+  },
+  {
+   "id": "47:feec",
+   "op": "text",
+   "en": "And so began the seventh story, one that by rights should never have been told...{p}"
+  },
+  {
+   "id": "47:ff30",
+   "op": "text",
+   "en": "Actually, I'm in love with him.\n...You know, here's what I think.\nIn this world, there are people who rule and people who are ruled.\n{a} is one of the people who rule.\nAnd I don't mean he just looks that way because he's bossy.\n{a} is the best.\nHe knows all kinds of stories.\nScary stories about our school.\nAnd then there's his face when he tells those stories.\nIt's so mysterious, it just gets me.\nSome people say that face scares them and they hate it.\nBut I don't care. I love him.\nIf it were Senpai, I'd love to be ruled.\n...Just kidding.\nBut, gosh, I'm getting nervous.{p}",
+   "follows_choice": [
+    "47:13d8"
+   ]
+  },
+  {
+   "id": "47:1013c",
+   "op": "text",
+   "en": "\"Um, is something wrong?\"\nI called out to her.\nSomehow I just can't ignore someone like that.\nIt looked like the girl had been crying.\nWhen I spoke to her, she peered up at me through the gaps in the hands covering her face, two big, goggling eyes staring out.\nAnd then,\n\"...Huh. Just a girl...\"\nShe spat out just those words, then faded away without a sound.\nW-what kind of attitude was that?!☆\nI wasn't scared so much as furious.\nThe first ghost I've ever seen in my life, and it's like this? That really ticks me off.\nThat's it, I'm taking it out on {a}!{p}",
+   "follows_choice": [
+    "47:ed60"
+   ]
+  },
+  {
+   "id": "47:10334",
+   "op": "text",
+   "en": "Here I am at the newspaper club.\n\"Excuse meee!\"{p}"
+  },
+  {
+   "id": "47:10374",
+   "op": "text",
+   "en": "Oops, I opened the door without even knocking.{p}"
+  },
+  {
+   "id": "47:103a8",
+   "op": "text",
+   "en": "\"No, that's not it. The truth is, I came from the future...!\"\nIt's a really sudden thing to say, but I'm sure {a} will believe me.{p}\"Uh-huh, uh-huh, and then?\"\nOh, how mean! Senpai doesn't believe me one bit.\n",
+   "follows_choice": [
+    "47:fb84"
+   ]
+  },
+  {
+   "id": "47:10468",
+   "op": "choice",
+   "en": "Insist I came from the future"
+  },
+  {
+   "id": "47:10480",
+   "op": "choice",
+   "en": "Smooth it over somehow"
+  },
+  {
+   "id": "47:10498",
+   "op": "text",
+   "en": "\"I really did come from the future, I'm telling you!\"\n\"...I see. Then how about telling us a little about this future of yours?\nDid a world war break out?\nWhat about the ozone hole?\nHave you ever traveled in space?\"{p}",
+   "follows_choice": [
+    "47:10468"
+   ]
+  },
+  {
+   "id": "47:10544",
+   "op": "text",
+   "en": "Geez... what do I have to say to make them believe me?\nHmm, something from my time that doesn't exist here...\n...I've got it!☆{p}"
+  },
+  {
+   "id": "47:105d0",
+   "op": "text",
+   "en": "\"In the time I come from, they're about to finish building the second gym.\nThere used to be an old school building there, right?\nI heard that when they tore that old school building down, they found lots of human bones.\"\nEveryone suddenly went quiet.\nLooks like they finally believe me.\n\"...Okay, thank you very much.\nWith that, we have our seven stories, so I'd like to bring this meeting to a close.\"\nHuh? That's it?{p}"
+  },
+  {
+   "id": "47:1075c",
+   "op": "text",
+   "en": "Ahh, everyone's leaving.\n\"Um, it was Taguchi, right?\nThanks for your trouble. You can go home now.\"\nWith that, {a} left too.\n\"If you don't hurry out, I'll lock up.\"\nWaaah, that's easy for you to say...\nHow on earth am I supposed to get back to my own time?!★{p}"
+  },
+  {
+   "id": "47:10860",
+   "op": "text",
+   "en": "\"Oh, come on, you guys can't take a joke at all!\nAnd here I was, put in charge of scaring you all, ah ha, ah ha ha ha ha......\"{p}",
+   "follows_choice": [
+    "47:10480"
+   ]
+  },
+  {
+   "id": "47:108e0",
+   "op": "text",
+   "en": "Was that a bit of a stretch?{p}"
+  },
+  {
+   "id": "47:10900",
+   "op": "text",
+   "en": "\"Stop making fun of me already!\nYou know I can't stand stories like that, and you're trying to scare me anyway, aren't you?\nI didn't know you were such a mean person, Senpai.\nGoodbye.\nPlease pretend everything we talked about earlier never happened.\"{p}",
+   "follows_choice": [
+    "47:4abc"
+   ]
+  },
+  {
+   "id": "47:109e4",
+   "op": "text",
+   "en": "With that, I ran out of the club room.\nSenpai was so shocked he couldn't say a thing.\nI mean, it's Senpai's fault.\nHe went and brought up the devil's phone...{p}"
+  },
+  {
+   "id": "47:10a80",
+   "op": "text",
+   "en": "He made me think he'd seen through what I really am!\nI finally found just my type, and I missed my chance to take his soul.\nOh well, it can't be helped.\nI'll go back to hell for now and rework my plan.\nI won't fail next time.{p}"
+  },
+  {
+   "id": "47:10b5c",
+   "op": "text",
+   "en": "Heh heh heh, but this means a student named Mayumi Taguchi will vanish from the school.\nI wonder if he'll feel even a little responsible?\nIt was a weird school, but it was a nice place where the work came easy...\nMaybe they'll even have a new mystery: the schoolgirl who vanished.\nHeh heh heh, I think I'll come back to play someday.{p}"
+  },
+  {
+   "id": "47:10c60",
+   "op": "text",
+   "en": "\"All right.\nIf it'll save my life, I'll join you.\"\n\"Heh. That's the right attitude.\nThen let's have a little welcome party.\"\nWith that, {a} took some orange juice out of the club room's fridge.\nWait, isn't that fridge supposed to be for storing film?\nHonestly, he's hopeless.\nAnd where does he even buy orange juice in a mini plastic bottle instead of a can?\nSenpai took two glasses down from the shelf and split the orange juice between them.\n\"Cheers!\"\nRaising his glass high, Senpai is smiling.{p}",
+   "follows_choice": [
+    "47:bb68"
+   ]
+  },
+  {
+   "id": "47:10e98",
+   "op": "text",
+   "en": "I smiled back, not to be outdone.\nA devil's smile.\nThe two of us drained our glasses in one gulp.{p}"
+  },
+  {
+   "id": "47:10f04",
+   "op": "text",
+   "en": "Ugh, come to think of it, it was orange juice.\nNow my mouth is all sickly sweet.\nSame goes for Senpai, I bet.\nWe got a little carried away by the mood.\n\"...So, Taguchi, what kind of person is the one you want to kill?\"{p}"
+  },
+  {
+   "id": "47:10fe0",
+   "op": "text",
+   "en": "\"You want to know?\nThe absolute worst.\nGloomy, twisted, quick to think everyone's out to get him, and on top of that, he thinks he's a genius.\"\n\"Wow, sounds like a real piece of work.\nWe can't let someone like that go on living.\nAll right, I'll help too.\nIt's for my cute junior.\"{p}"
+  },
+  {
+   "id": "47:110f0",
+   "op": "text",
+   "en": "Heh heh heh. Deep down, he's not someone who could ever really be a villain.\nPoor Senpai.\n\"I'm so happy to hear you say that, Senpai.\"\n\"No need to thank me. Didn't I tell you?\nIt's for my cute junior. So, what's the creep's name?\"{p}"
+  },
+  {
+   "id": "47:111bc",
+   "op": "text",
+   "en": "\"{b} {a}.\"{p}"
+  },
+  {
+   "id": "47:111e8",
+   "op": "text",
+   "en": "\"Wha...☆\nUrgh......gah......\"\nThere really are all sorts of things hidden in here. It surprised me.\nWho'd have thought there'd even be poison?{p}"
+  },
+  {
+   "id": "47:1127c",
+   "op": "text",
+   "en": "Hee hee hee. Don't worry, Senpai.\nI'll take over properly after you're gone.\nThat's my big brother's wish, too...\nTaguchi is my mother's maiden name.\nMy parents got divorced two years ago, you see.\nUntil then, my last name was Hino.\nYou never noticed at all, did you?\nI'll do a splendid job as the third president of the Murder Club.\nHee hee hee... Now, who should my next target be?{p}"
+  }
+ ]
+}

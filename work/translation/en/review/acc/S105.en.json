@@ -1,0 +1,422 @@
+{
+ "slice": "S105",
+ "scene": "27",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S104",
+ "next": "S106",
+ "todo": [],
+ "rows": [
+  {
+   "id": "27:18d4",
+   "op": "text",
+   "en": "What time is it now...?\nI can't see a clock anywhere.\nWell, of course not.{p}"
+  },
+  {
+   "id": "27:1924",
+   "op": "text",
+   "en": "This old school building is going to be torn down soon, after all.\n...Why am I here?\nRight. Hino, my senior in the club, told me to put together a feature on the school's seven wonders.{p}"
+  },
+  {
+   "id": "27:19dc",
+   "op": "text",
+   "en": "And seven people were supposed to gather... but only six came.\nAnd then I...\nWhy am I in the old school building now?{p}"
+  },
+  {
+   "id": "27:1a5c",
+   "op": "text",
+   "en": "Just the two of us...\nAnd with someone I only met a little while ago.\nI know it's already very late.\nWe're walking down this dark hallway with only the moonlight to see by.{p}"
+  },
+  {
+   "id": "27:1b04",
+   "op": "text",
+   "en": "Should I just keep following him?{p}"
+  },
+  {
+   "id": "27:1b3c",
+   "op": "text",
+   "en": "For a while now, the only sound has been two sets of footsteps.\nThere's no one here but him and me.\nHow did it come to this?\nHow...{p}"
+  },
+  {
+   "id": "27:1bd4",
+   "op": "text",
+   "en": "Whenever someone finished their story, that person disappeared.\nEach time a story ended, they vanished, one after another.\nAnd now there are just the two of us.\nI came to the old school building just as he told me to.{p}"
+  },
+  {
+   "id": "27:1c90",
+   "op": "text",
+   "en": "Where is he planning to go?\nIf I keep following him, will we reach wherever he's headed?\nHe'd been chatting so cheerfully and warmly, but ever since we entered the old school building he hasn't said a word. He just walks on in silence.{p}"
+  },
+  {
+   "id": "27:1d54",
+   "op": "text",
+   "en": "...His footsteps stopped.{p}"
+  },
+  {
+   "id": "27:1d8c",
+   "op": "text",
+   "en": "\"This is the classroom.\nCome on, go in.\n...Come to think of it, I haven't introduced myself yet.\nMy name is Tomoharu Hosoda.\nI'm a second-year.\n...Now, let's begin the last story.\"{p}"
+  },
+  {
+   "id": "27:1e4c",
+   "op": "text",
+   "en": "And so we went into a classroom.\n...So at last, it's come down to just you and me.\n{a}.\nListen carefully to the story I'm about to tell you.\nThe story I'm going to tell is very much like what's happening to us right now.\nThat's why I came here.\nThis is fate.\nFate is guiding us.\nAre you ready?\n...All right, I'm going to begin.{p}"
+  },
+  {
+   "id": "27:1fc8",
+   "op": "text",
+   "en": "Nice to meet you.\nMy name is Tomoharu Hosoda.\nI'm a second-year.\n...So the seventh person never showed up after all.\nIt looks like my story will be the last one, so why don't we move somewhere else to set the mood a little?\nWe've waited this long and they haven't come, so I doubt the seventh person is coming now.\nI think it'll be fine if we leave here.\nCome on, everyone.\nPlease follow me.{p}"
+  },
+  {
+   "id": "27:2144",
+   "op": "text",
+   "en": "...This gathering was a project that came up to mark the old school building being torn down, right?\nSo I thought we'd tell the story in the old school building.\nWe might as well, right?\nIt's off-limits now, but if we sneak in quietly, nobody will know.\nBesides, the story I'm going to tell is about this old school building.{p}"
+  },
+  {
+   "id": "27:226c",
+   "op": "text",
+   "en": "...Here we are, the old school building.\nEveryone, are you ready?\nWe're going to a certain classroom in here.{p}"
+  },
+  {
+   "id": "27:22f8",
+   "op": "text",
+   "en": "...It's dark, isn't it?\nThere's no electricity, so it can't be helped.\nPlease watch your step.\nThe floor's pretty rotten.\nIt makes a nasty sound when you step on it.\nCreak, creak, creak, creak... It's like a grudge weeping.{p}"
+  },
+  {
+   "id": "27:23ec",
+   "op": "text",
+   "en": "...Here we are.\nThis is the classroom.\nGo on in, everyone.\nCome inside and sit wherever you like.\nWell then, everyone, shall we begin?{p}"
+  },
+  {
+   "id": "27:249c",
+   "op": "text",
+   "en": "{a}{f:|}, do you know the restroom ghost story connected with this old school building?\nThere are a lot of famous restroom ghost stories, aren't there?\n\"Give me some paper...\"\nThere's the one about the pale hand that comes up out of the toilet bowl saying that.\nThe one about two glaring red eyes peering up out of a pit toilet.\n...There are all sorts, right?\nBut the most famous one has got to be Hanako-san.\nYou knock on the door, and from inside a stall that should be empty comes Hanako-san's voice. And then, when you open the door, there stands Hanako-san...\nThe Hanako-san story has spread all over the country, under different names and in different forms.\nThe gender is different, and so is the name.\nIn some versions, people know what the ghost really is and why it appears; others are shrouded in mystery.{p}"
+  },
+  {
+   "id": "27:2720",
+   "op": "text",
+   "en": "The one thing they all have in common is that they appear in restrooms.\nThat's how the strange spirits that appear in restrooms came to be called Hanako-san.\nAnd naturally, this school has its own Hanako-san rumor too.\nSo what I'm proposing is that we try an experiment to summon that Hanako-san ourselves.{p}"
+  },
+  {
+   "id": "27:284c",
+   "op": "text",
+   "en": "...What do you say, {a}{f:|}?\nWon't you give it a try?\n"
+  },
+  {
+   "id": "27:288c",
+   "op": "choice",
+   "en": "I'll do it"
+  },
+  {
+   "id": "27:2898",
+   "op": "choice",
+   "en": "No way"
+  },
+  {
+   "id": "27:28a8",
+   "op": "text",
+   "follows_choice": [
+    "27:288c"
+   ],
+   "en": "That's the spirit.{p}"
+  },
+  {
+   "id": "27:28c0",
+   "op": "text",
+   "en": "I just knew you'd say that.\nWell then, before we go to the restroom where Hanako-san is actually said to appear, listen to my story for a bit.{p}"
+  },
+  {
+   "id": "27:2954",
+   "op": "text",
+   "en": "This happened decades ago...\nSo there's no way to check whether it's true.\nIt might really have happened, or maybe it's just made up.\nWell, we'll be able to see for ourselves soon enough.\nThe whole thing started in this very classroom.\nIt was right around this time of year.\nOne muggy summer day.\nBack then, students who had failed their final exams were being kept after school.\nThey were made to work through remedial worksheets.{p}How about you, {a}{f:|}?{p}You've failed a test before, haven't you?\n"
+  },
+  {
+   "id": "27:2b60",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "27:2b68",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "27:2b70",
+   "op": "choice",
+   "en": "I don't really remember"
+  },
+  {
+   "id": "27:2b8c",
+   "op": "text",
+   "follows_choice": [
+    "27:2b60"
+   ],
+   "en": "I thought so.\nUnless you're really smart, everybody fails once or twice.\nMe, I'm a repeat offender, ha ha ha...{p}"
+  },
+  {
+   "id": "27:2c10",
+   "op": "text",
+   "en": "There were six students kept behind that time.\nJust like us this time.\nFour boys and two girls.{p}"
+  },
+  {
+   "id": "27:2c9c",
+   "op": "text",
+   "en": "In this classroom with no air conditioning, in the old school building gone quiet after school, they wiped away their sweat as they worked on their remedial assignments.\nThe teacher only came by now and then to check on them.\nBut then something urgent came up, so the teacher asked another teacher to take over and went home.{p}"
+  },
+  {
+   "id": "27:2d98",
+   "op": "text",
+   "en": "...That was the mistake.\nThe teacher who was asked agreed without giving it a thought.\nAnd then went home, forgetting all about those six.\nFor some reason, the janitor making the rounds that night didn't notice them either.\nI heard this later, but the janitor insisted on having checked, and said nobody was there at the time.\nEither the janitor was lying, or some power was at work that made them invisible for just an instant...\nAnyway, those six were forgotten by everyone and left behind in this classroom.{p}"
+  },
+  {
+   "id": "27:2f80",
+   "op": "text",
+   "en": "By the way, {a}{f:|}.\nYou haven't gone to the restroom even once this whole time. Are you okay?{p}{f:By any chance|Um...}, you don't need to go to the restroom or anything{f:?|, do you?}\n"
+  },
+  {
+   "id": "27:3028",
+   "op": "choice",
+   "en": "Yes, I do"
+  },
+  {
+   "id": "27:3030",
+   "op": "choice",
+   "en": "No, I don't"
+  },
+  {
+   "id": "27:3038",
+   "op": "text",
+   "follows_choice": [
+    "27:3028"
+   ],
+   "en": "I see.\nSorry for asking you that, but you'd better hold it a little longer.\nAt least until my story is over.\nOtherwise, something bad will happen.{p}So just hold it a little longer, okay?\n"
+  },
+  {
+   "id": "27:30f8",
+   "op": "choice",
+   "en": "I can't hold it. I'm going to the restroom."
+  },
+  {
+   "id": "27:3118",
+   "op": "choice",
+   "en": "I'll hold it like you said"
+  },
+  {
+   "id": "27:3130",
+   "op": "text",
+   "follows_choice": [
+    "27:3118"
+   ],
+   "en": "I'm sorry.\nI'm not saying this to be mean, you know.\nI'm saying it for your own good.{p}"
+  },
+  {
+   "id": "27:31a4",
+   "op": "text",
+   "en": "Anyway, as for the six left behind for make-up class, the teacher in charge never came to check on them, and they gradually got uneasy.\nBut this was remedial work for an important final exam, so they couldn't afford to fail it.\nAll six of them had their own reasons.\nIf they failed it, they'd be barred from club activities, or their parents would get called in, that kind of thing.\nSo they couldn't just go home.{p}"
+  },
+  {
+   "id": "27:3308",
+   "op": "text",
+   "en": "When they happened to look at the clock, it was already past nine.\nBut I think that in itself is strange.\nWhy didn't they notice until nine?\nHowever hard they were concentrating on their remedial work, these were the kind of people who end up in make-up class in the first place. Could they really stay focused that long?{p}Don't you think it's abnormal not to notice until after nine?\n"
+  },
+  {
+   "id": "27:3444",
+   "op": "choice",
+   "en": "I think it's abnormal"
+  },
+  {
+   "id": "27:3454",
+   "op": "choice",
+   "en": "Not really"
+  },
+  {
+   "id": "27:3464",
+   "op": "text",
+   "follows_choice": [
+    "27:3444"
+   ],
+   "en": "Right?{p}"
+  },
+  {
+   "id": "27:3480",
+   "op": "text",
+   "en": "Someone should have suggested going home right then.\nBut no one said it.\nThey thought it was odd, but they kept on with their remedial work by the light of the dim fluorescent lamps.\nEven so, could a few remedial worksheets really take that long?\nAfter all, it's remedial work for people who failed.\nI've taken it plenty of times myself, so I know: even with my bad grades, I don't find it all that hard.\nThat's the level we're talking about.\nOr maybe it was harder back then?{p}"
+  },
+  {
+   "id": "27:3648",
+   "op": "text",
+   "en": "It was when the clock passed ten.\nOne of them finally ran out of patience.\n\"Hey.\nYou think they forgot about us?\"\nIt was the one question nobody wanted asked.\nAnd the other five looked at one another.\n\"No way.\nI can't imagine the teachers would just abandon us.\"\nOne of them blurted out an answer like that.\nThe one who said it wasn't sure either, but didn't want to believe they'd been abandoned, so that was the answer that came out.\nI know just how that feels.\n\"Then why hasn't anybody come, this late?\nIt's already past ten, man.\"{p}"
+  },
+  {
+   "id": "27:3868",
+   "op": "text",
+   "en": "Then he pointed at the clock hanging on the classroom wall.\n\"Never mind that, have you all finished your worksheets?\nIf you're done, we can just go get the teacher ourselves.\"\nOne of the girls said it firmly, as if to drive away her unease.\n\"...I guess you've got a point.\"{p}"
+  },
+  {
+   "id": "27:3974",
+   "op": "text",
+   "en": "And so they all went back to their remedial work.\nBut still, it didn't end.\nEvery problem gave them the illusion that they were being made to do the same part over and over.\nIt shouldn't have been that hard, yet somehow it never ended.\nIt felt like being made to work through a problem book that would never end, no matter how many problems they solved.{p}"
+  },
+  {
+   "id": "27:3aa4",
+   "op": "text",
+   "en": "When they looked at the clock, it was still only 10:20.\nMore time should have passed by then, but hardly any had.{p}"
+  },
+  {
+   "id": "27:3b1c",
+   "op": "text",
+   "en": "Then, after a while...{p}"
+  },
+  {
+   "id": "27:3b48",
+   "op": "text",
+   "en": "The clock still read 10:20.\n\"...Hey, isn't that clock stopped?\"\nA different girl from before murmured it, sounding helpless.\nIt was a fear they had all already sensed.{p}"
+  },
+  {
+   "id": "27:3c18",
+   "op": "text",
+   "en": "That's the clock, right there.\nLook...\nThe clock hanging on that wall.{p}"
+  },
+  {
+   "id": "27:3c68",
+   "op": "text",
+   "en": "Can't you see it in the dark?\nWhat time do you think that clock says right now?\nIt says 10:20.\nEver since that day, the hands of that clock have stayed at 10:20, all this time.{p}Well?\nDo you want to examine that clock?\n"
+  },
+  {
+   "id": "27:3d28",
+   "op": "choice",
+   "en": "I'll examine it"
+  },
+  {
+   "id": "27:3d34",
+   "op": "choice",
+   "en": "I won't examine it"
+  },
+  {
+   "id": "27:3d40",
+   "op": "text",
+   "follows_choice": [
+    "27:3d28"
+   ],
+   "en": "...Go on, get closer.{p}"
+  },
+  {
+   "id": "27:3d6c",
+   "op": "text",
+   "en": "You see it?\nIt's just an ordinary clock, nothing special about it.\nIt's pretty dusty, though.\nLet's open it up.{p}"
+  },
+  {
+   "id": "27:3df4",
+   "op": "text",
+   "en": "...There's no battery in it anymore.\nThat's why it doesn't run.\nBut you know, this clock is strange.\nSay you move the hands, right?\nBefore you know it, they've gone back to 10:20.{p}"
+  },
+  {
+   "id": "27:3ec0",
+   "op": "text",
+   "en": "I don't know why, or whether someone is moving them, but this clock always ends up stuck at 10:20.\nEven with the battery out.\n...Now, I'll go on with the story.{p}"
+  },
+  {
+   "id": "27:3f6c",
+   "op": "text",
+   "en": "The six left behind decided to examine the clock too.\nThey figured the clock had to be broken after all.\nAnd when one of them took the clock down off the wall...{p}"
+  },
+  {
+   "id": "27:4010",
+   "op": "text",
+   "en": "\"Whoa!\"\nThe other five all screamed at once.\nThey looked, and on the wall where the clock had hung, there was a stain like a human face.\nFor an instant, it looked like a skull.\n...But when they looked closely, it was just a stain.\n\"...Don't scare us like that.\"{p}"
+  },
+  {
+   "id": "27:4120",
+   "op": "text",
+   "en": "The one who had taken the clock off the wall hurriedly put it back.\nMore than examining the clock, they wanted that creepy stain hidden.{p}"
+  },
+  {
+   "id": "27:41ac",
+   "op": "text",
+   "en": "Just then, one of them suddenly stood up from his seat.{p}"
+  },
+  {
+   "id": "27:41f4",
+   "op": "text",
+   "en": "\"...Um.\nI'm going to the restroom.\"\nHe must have been holding it in for a long time.\nHe was squirming his hips.\nOf course, nobody stopped him, and they wondered why he'd bother announcing he was going.\nBut he looked around at everyone's faces, reluctant to go.\nThat's right.\nHe was scared to go alone.\nThe old school building late at night, already deserted and dead silent.\nThe six of them were the only ones there.\nAnyone would be scared to walk to the restroom all alone through an old school building like that.\nBut nobody went with him.\nWith no other choice, he decided to go alone.{p}"
+  },
+  {
+   "id": "27:4410",
+   "op": "text",
+   "en": "Down the long, dark hallway, across floorboards that looked ready to give way any second.{p}"
+  },
+  {
+   "id": "27:4450",
+   "op": "text",
+   "en": "The five wrestled with their worksheets, trying to finish the remedial work as fast as they could.\nBut the stain behind the clock bothered them, and they just couldn't concentrate.\n\"...Hey. Isn't this enough already?\nEven if none of us finished the worksheets, the teacher's not gonna get mad.\nLet's go get the teacher.\"\nFinally unable to stand it, one of them brought it up.\nNo one objected anymore.\n\"...Let's do that.\nWhen he gets back from the restroom, let's all go to the teacher together.\"\nEveryone nodded at the idea.{p}"
+  },
+  {
+   "id": "27:4630",
+   "op": "text",
+   "en": "But he didn't come back.\nThey waited and waited, but he never came back.\nThe clock had stopped, so they couldn't even tell how much time had passed since then.\nWhen fear takes hold of your mind and time passes in silence, it feels very long.\nSo in reality, maybe only a minute or two had gone by.\nAn awkward silence passed.{p}"
+  },
+  {
+   "id": "27:478c",
+   "op": "text",
+   "en": "\"...I'll go get him.\"\nWith that, one of them dashed out of the classroom.{p}"
+  },
+  {
+   "id": "27:47e8",
+   "op": "text",
+   "en": "\"Hey...\"{p}"
+  },
+  {
+   "id": "27:4818",
+   "op": "text",
+   "en": "They called after him, but he was already out of the classroom.\nAnd the creaking of footsteps on the hallway floor faded into the distance.\nThe four who remained looked at one another.\nThey were all afraid.{p}"
+  },
+  {
+   "id": "27:48e8",
+   "op": "text",
+   "en": "An indescribable fear, as though they had strayed into another world.\nIf they left the old school building and went through the school gate, the usual scenery should have been waiting there.\nAnd yet, for some reason, they had the strange feeling that they couldn't get out of here.\nAnd they could tell just by looking into each other's eyes.\nThey knew they were all thinking the same thing.{p}"
+  },
+  {
+   "id": "27:4a28",
+   "op": "text",
+   "en": "\"AAAAAAAAAAAAGH!\"\nThat was when it happened.\nAn anguished scream broke the silence.{p}"
+  },
+  {
+   "id": "27:4a9c",
+   "op": "text",
+   "en": "Everyone swallowed hard on the spit that had pooled in their mouths.\n\"...What happened?\"\nAnd they strained their ears toward where the voice had come from.\n\"Let's just go home!\nWho cares about make-up class!\"\nThen one of the girls suddenly burst into tears.\nThe thread of tension she'd been holding taut must have snapped.\nShe wailed and wailed, so hard it was startling.\nWithout any care for how she looked.\n\"You're right, let's go home.\nI think we should go home too.\nIt's the teacher's fault for leaving us here this late.\"\nThe other girl suggested it, rubbing the sobbing girl's back.\n\"Yeah. I think so too.\nWe should go home.\"\nOne of them chimed in, agreeing with her.\nBut there was someone who couldn't just go along with it.\n\"...But we can't just leave them, can we?\nWe heard a scream, at least.\nAren't we going to help them?\"\nIt's true, it's hard to abandon your friends, isn't it?\nThe two who didn't come back were their classmates, after all.{p}"
+  },
+  {
+   "id": "27:4e04",
+   "op": "text",
+   "en": "...Hey, {a}{f:|}.\nAre we friends?{p}{f:Will you|If you'd like, will you} be my friend?\n"
+  },
+  {
+   "id": "27:4e74",
+   "op": "choice",
+   "en": "I'll be your friend"
+  },
+  {
+   "id": "27:4e80",
+   "op": "choice",
+   "en": "I won't be your friend"
+  },
+  {
+   "id": "27:4e9c",
+   "op": "text",
+   "follows_choice": [
+    "27:4e74",
+    "27:eec4"
+   ],
+   "en": "Thank you.\nI'm so happy.\nEver since we first met, I had a feeling you and I could be friends.\nI'll never betray you.\nLet's get along together from now on.\n...That's right.\nThat's what friends are, isn't it?\nOf course you can't abandon them.\nIt was the same for them, too.\nBut there was one guy who wasn't having it.{p}"
+  },
+  {
+   "id": "27:4fd8",
+   "op": "text",
+   "en": "\"...That's easy for you to say.\nThat might be a sick joke, you know.\nThey're probably waiting somewhere along the way to jump out and scare us when we come to help.\nSo forget it, I'm telling you.\nGuys like that, we should be the ones teaching them a painful lesson.\"\nEven so, the one who'd first said they should go help him wouldn't back down.\n\"...Even if you guys don't come, I'm going.\nIf it's a joke, then at least we can stop worrying.\nBut if it isn't a joke...?\nIf something really did happen, what are you going to do then?\"\n\"If you want to go, suit yourself.\nI'm not going.\"\n\"Fine, I'll suit myself.\nI'm going.\"{p}"
+  },
+  {
+   "id": "27:5214",
+   "op": "text",
+   "en": "Really, that's exactly when they should have stuck together.\nBut they got into a fight over something trivial.\nAnd so only one of them, the brave one who cared about his friends, ended up going to the restroom.\nWhatever the girls had said, when it came down to it, they were scared after all.\nThe remaining three decided to go to the faculty room to get the teacher.{p}Hey, {a}{f:|}.\nWhich of the two stories do you want me to continue?\n"
+  }
+ ]
+}

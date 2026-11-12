@@ -1,0 +1,948 @@
+{
+ "chunk": "E014",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S030",
+  "S031"
+ ],
+ "prev": "E013",
+ "next": "E015",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:1c540",
+   "op": "text",
+   "en": "I decided to go to the fifth classroom from the left.{p}",
+   "follows_choice": [
+    "07:1c0a4"
+   ]
+  },
+  {
+   "id": "07:1c57c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1c6a8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1c6b8",
+   "op": "text",
+   "en": "I decided to go to the classroom on the far right.{p}",
+   "follows_choice": [
+    "07:1c0c4"
+   ]
+  },
+  {
+   "id": "07:1c6f0",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1c81c",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1c82c",
+   "op": "text",
+   "en": "I decided to go to the classroom on the far left.{p}",
+   "follows_choice": [
+    "07:1c06c"
+   ]
+  },
+  {
+   "id": "07:1c864",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around.\nJust then, a gust of wind blew in at me.\nWhen I looked, I saw that a window was broken.{p}Should I go over and take a closer look?\n"
+  },
+  {
+   "id": "07:1c8e8",
+   "op": "choice",
+   "en": "Go over"
+  },
+  {
+   "id": "07:1c8f0",
+   "op": "choice",
+   "en": "Don't go"
+  },
+  {
+   "id": "07:1c8fc",
+   "op": "text",
+   "en": "There was no need for that.{p}",
+   "follows_choice": [
+    "07:1c8f0"
+   ]
+  },
+  {
+   "id": "07:1c928",
+   "op": "text",
+   "en": "Now, where should I go?\n"
+  },
+  {
+   "id": "07:1c940",
+   "op": "text",
+   "en": "I went up to the window.\nHardly any glass was left in the frame.\nSomeone had really gone to town smashing it.{p}",
+   "follows_choice": [
+    "07:1c8e8"
+   ]
+  },
+  {
+   "id": "07:1c9a4",
+   "op": "text",
+   "en": "I peered down from the window.\nJust then, a chill ran down my back.\nWas someone watching me★{p}"
+  },
+  {
+   "id": "07:1ca04",
+   "op": "text",
+   "en": "I spun around.\n...But no one was there.\nWas Hino watching me from somewhere?\nOr was it the evil spirit said to lurk in this old school building?\nEither way, it gave me a bad feeling.\nI moved away from the window.{p}"
+  },
+  {
+   "id": "07:1cabc",
+   "op": "text",
+   "en": "Now, where should I go next?\n"
+  },
+  {
+   "id": "07:1cadc",
+   "op": "text",
+   "en": "I went to the sixth classroom from the left.{p}",
+   "follows_choice": [
+    "07:1c0b4"
+   ]
+  },
+  {
+   "id": "07:1cb10",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around.\nAnything particularly out of the ordinary...\nThere it was.\nA small pouch sat all alone on a desk, as if someone had left it behind.\nMy heart gave a jolt.\nCould the ampoule be inside it?\nThe pouch was tied tightly shut with a cord.\nWith fingers slippery with sweat, I fumbled impatiently at the knot.\nThen I shoved my hand inside.{p}"
+  },
+  {
+   "id": "07:1cc40",
+   "op": "text",
+   "en": "\"Ow★\"\nA searing pain shot through my finger.\nWhen I looked, there was a cut.\nBlood was pouring out of it.\nSomeone had planted a razor blade inside the pouch.\nWhat a vicious, underhanded trick.\nIt had to be Hino and the others.\nUsing my mouth and my free hand, I somehow managed to cover the wound with my handkerchief.\nThe throbbing pain pounded inside my head.\nThe cut seemed to be deeper than it looked.\nIn no time at all, the handkerchief was soaked red.\nI felt like I was about to pass out.\nNow I had to hurry even more than before.\nIf the bleeding didn't stop, my body would give out before the poison even had a chance to spread.{p}"
+  },
+  {
+   "id": "07:1ce34",
+   "op": "text",
+   "en": "I had to hurry.\n"
+  },
+  {
+   "id": "07:1ce48",
+   "op": "text",
+   "en": "I decided to go to the sixth classroom from the left.{p}"
+  },
+  {
+   "id": "07:1ce84",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1cfb0",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1cfc0",
+   "op": "text",
+   "en": "That was enough of the second-floor classrooms for now.\n",
+   "follows_choice": [
+    "07:1c0cc"
+   ]
+  },
+  {
+   "id": "07:1cff4",
+   "op": "text",
+   "en": "I decided to go to the second-floor restrooms.\nThere was a boys' restroom and a girls' restroom.{p}Which one should I search?\n",
+   "follows_choice": [
+    "07:f4c4"
+   ]
+  },
+  {
+   "id": "07:1d05c",
+   "op": "choice",
+   "en": "The boys' restroom"
+  },
+  {
+   "id": "07:1d068",
+   "op": "choice",
+   "en": "The girls' restroom"
+  },
+  {
+   "id": "07:1d074",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d080",
+   "op": "text",
+   "en": "I decided to search the second-floor boys' restroom.{p}",
+   "follows_choice": [
+    "07:1d05c"
+   ]
+  },
+  {
+   "id": "07:1d0bc",
+   "op": "text",
+   "en": "Man, what a filthy restroom.\n"
+  },
+  {
+   "id": "07:1d0dc",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:1d0ec",
+   "op": "choice",
+   "en": "The toilet in the far stall"
+  },
+  {
+   "id": "07:1d100",
+   "op": "choice",
+   "en": "The toilet in the near stall"
+  },
+  {
+   "id": "07:1d114",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d120",
+   "op": "text",
+   "en": "I shone my light on the row of four urinals.\nThere was nothing the least bit suspicious about the dingy gray urinals.{p}Now, where should I search?\n",
+   "follows_choice": [
+    "07:1d0dc"
+   ]
+  },
+  {
+   "id": "07:1d1a8",
+   "op": "text",
+   "en": "I decided to check the stall at the back.{p}",
+   "follows_choice": [
+    "07:1d0ec"
+   ]
+  },
+  {
+   "id": "07:1d1e8",
+   "op": "text",
+   "en": "...Surely it couldn't be inside this toilet bowl, could it?\nI searched it thoroughly.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:1d250",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d260",
+   "op": "text",
+   "en": "I decided to check the toilet in the near stall.{p}",
+   "follows_choice": [
+    "07:1d100"
+   ]
+  },
+  {
+   "id": "07:1d2a4",
+   "op": "text",
+   "en": "Just to be sure, I looked inside the bowl, practically sticking my flashlight into it.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:1d304",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d314",
+   "op": "text",
+   "en": "I decided to search somewhere else.{p}",
+   "follows_choice": [
+    "07:1d114"
+   ]
+  },
+  {
+   "id": "07:1d344",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:1d360",
+   "op": "text",
+   "en": "There were four stalls in the girls' restroom.{p}Where should I search?\n",
+   "follows_choice": [
+    "07:1d068"
+   ]
+  },
+  {
+   "id": "07:1d394",
+   "op": "choice",
+   "en": "The one at the far end"
+  },
+  {
+   "id": "07:1d39c",
+   "op": "choice",
+   "en": "Second from the far end"
+  },
+  {
+   "id": "07:1d3ac",
+   "op": "choice",
+   "en": "Third from the far end"
+  },
+  {
+   "id": "07:1d3bc",
+   "op": "choice",
+   "en": "The one nearest the door"
+  },
+  {
+   "id": "07:1d3c8",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d3d4",
+   "op": "text",
+   "en": "I decided to search the stall at the very back.{p}",
+   "follows_choice": [
+    "07:1d394"
+   ]
+  },
+  {
+   "id": "07:1d40c",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}",
+   "returns": []
+  },
+  {
+   "id": "07:1d474",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d484",
+   "op": "text",
+   "en": "I decided to search the second stall from the back.{p}",
+   "follows_choice": [
+    "07:1d39c"
+   ]
+  },
+  {
+   "id": "07:1d4c0",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d528",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d538",
+   "op": "text",
+   "en": "I decided to search the third stall from the back.{p}",
+   "follows_choice": [
+    "07:1d3ac"
+   ]
+  },
+  {
+   "id": "07:1d574",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d5dc",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d5ec",
+   "op": "text",
+   "en": "I decided to search the nearest stall.{p}",
+   "follows_choice": [
+    "07:1d3bc"
+   ]
+  },
+  {
+   "id": "07:1d624",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d68c",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d69c",
+   "op": "text",
+   "en": "I decided to search somewhere else.{p}",
+   "follows_choice": [
+    "07:1d3c8"
+   ]
+  },
+  {
+   "id": "07:1d6cc",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:1d6e8",
+   "op": "text",
+   "en": "Where should I go?\n",
+   "follows_choice": [
+    "07:1d074"
+   ]
+  },
+  {
+   "id": "07:1d704",
+   "op": "text",
+   "en": "I decided to go to the classrooms on the third floor of the old school building.{p}",
+   "follows_choice": [
+    "07:f4d4"
+   ]
+  },
+  {
+   "id": "07:1d744",
+   "op": "text",
+   "en": "The hallway floor looked ready to cave in any second.{p}Where on the third floor of the old school building should I go?\n"
+  },
+  {
+   "id": "07:1d780",
+   "op": "choice",
+   "en": "The far left"
+  },
+  {
+   "id": "07:1d788",
+   "op": "choice",
+   "en": "Second from the left"
+  },
+  {
+   "id": "07:1d798",
+   "op": "choice",
+   "en": "Third from the left"
+  },
+  {
+   "id": "07:1d7a8",
+   "op": "choice",
+   "en": "Fourth from the left"
+  },
+  {
+   "id": "07:1d7b8",
+   "op": "choice",
+   "en": "Fifth from the left"
+  },
+  {
+   "id": "07:1d7c8",
+   "op": "choice",
+   "en": "Sixth from the left"
+  },
+  {
+   "id": "07:1d7d8",
+   "op": "choice",
+   "en": "The far right"
+  },
+  {
+   "id": "07:1d7e0",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d7ec",
+   "op": "text",
+   "en": "I decided to go to the classroom on the far left.{p}",
+   "follows_choice": [
+    "07:1d780"
+   ]
+  },
+  {
+   "id": "07:1d824",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1d950",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1d960",
+   "op": "text",
+   "en": "I decided to go to the second classroom from the left.{p}",
+   "follows_choice": [
+    "07:1d788"
+   ]
+  },
+  {
+   "id": "07:1d99c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1dac8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1dad8",
+   "op": "text",
+   "en": "I decided to go to the third classroom from the left.{p}",
+   "follows_choice": [
+    "07:1d798"
+   ]
+  },
+  {
+   "id": "07:1db14",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1dc40",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1dc50",
+   "op": "text",
+   "en": "I decided to go to the fourth classroom from the left.{p}",
+   "follows_choice": [
+    "07:1d7a8"
+   ]
+  },
+  {
+   "id": "07:1dc8c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1ddb8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1ddc8",
+   "op": "text",
+   "en": "I decided to go to the fifth classroom from the left.{p}",
+   "follows_choice": [
+    "07:1d7b8"
+   ]
+  },
+  {
+   "id": "07:1de04",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1df30",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1df40",
+   "op": "text",
+   "en": "I decided to go to the sixth classroom from the left.{p}",
+   "follows_choice": [
+    "07:1d7c8"
+   ]
+  },
+  {
+   "id": "07:1df7c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1e0a8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1e0b8",
+   "op": "text",
+   "en": "I decided to go to the classroom on the far right.{p}",
+   "follows_choice": [
+    "07:1d7d8"
+   ]
+  },
+  {
+   "id": "07:1e0f0",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1e21c",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1e22c",
+   "op": "text",
+   "en": "That's enough of the third-floor classrooms for now.\n",
+   "follows_choice": [
+    "07:1d7e0"
+   ]
+  },
+  {
+   "id": "07:1e260",
+   "op": "text",
+   "en": "I decided to search the third-floor boys' restroom.{p}",
+   "follows_choice": [
+    "07:ff60"
+   ]
+  },
+  {
+   "id": "07:1e29c",
+   "op": "text",
+   "en": "Man, what a filthy restroom.\n"
+  },
+  {
+   "id": "07:1e2bc",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:1e2cc",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:1e2e0",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:1e2f4",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:1e300",
+   "op": "text",
+   "en": "I looked over the row of four urinals.\n...Nothing seemed out of the ordinary.{p}Where should I search?\n",
+   "follows_choice": [
+    "07:1e2bc"
+   ]
+  },
+  {
+   "id": "07:1e364",
+   "op": "text",
+   "en": "I decided to check the stall at the back.{p}",
+   "follows_choice": [
+    "07:1e2cc"
+   ]
+  },
+  {
+   "id": "07:1e3a4",
+   "op": "text",
+   "en": "...Surely it couldn't be inside this toilet bowl, could it?\nI searched it thoroughly.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:1e40c",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1e41c",
+   "op": "text",
+   "en": "I decided to check the stall at the front.{p}",
+   "follows_choice": [
+    "07:1e2e0"
+   ]
+  },
+  {
+   "id": "07:1e460",
+   "op": "text",
+   "en": "Just to be sure, I looked inside the bowl, practically sticking my flashlight into it.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:1e4c0",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1e4d0",
+   "op": "text",
+   "en": "I decided to search somewhere else.{p}",
+   "follows_choice": [
+    "07:1e2f4"
+   ]
+  },
+  {
+   "id": "07:1e500",
+   "op": "text",
+   "en": "What now?\n"
+  },
+  {
+   "id": "07:1e510",
+   "op": "text",
+   "en": "I decided to search the third stall from the back.{p}",
+   "follows_choice": [
+    "07:10064"
+   ]
+  },
+  {
+   "id": "07:1e54c",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}",
+   "returns": []
+  },
+  {
+   "id": "07:1e5b4",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1e5c4",
+   "op": "text",
+   "en": "I decided to search the nearest stall.{p}",
+   "follows_choice": [
+    "07:10074"
+   ]
+  },
+  {
+   "id": "07:1e5fc",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1e664",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1e680",
+   "op": "text",
+   "en": "I strangled Fukuzawa right back.\nShe might have caught me off guard, but she was still a girl.\nIf I really put my strength into it, I was bound to win.\nBefore long, Fukuzawa slumped limply to the floor.{p}",
+   "follows_choice": [
+    "07:10504"
+   ]
+  },
+  {
+   "id": "07:1e71c",
+   "op": "text",
+   "en": "I'd tried to be careful not to kill her, though.\nAnyway, I let out a breath.\nI was saved.\nNow all I had to do was drink this ampoule...{p}"
+  },
+  {
+   "id": "07:1e7b8",
+   "op": "text",
+   "en": "The instant I let my guard down, a shadow sprang at me.\nIt was Fukuzawa, who should have been out cold.\n\"Kyeeeeeeeeh!\"\nShe clawed my hand and knocked the ampoule flying.\nThe ampoule sailed out the window.\nNo!\nI leaned out the window.\nGlinting faintly, the ampoule fell toward the dark schoolyard.\nWithout that, I...!{p}"
+  },
+  {
+   "id": "07:1e8e4",
+   "op": "text",
+   "en": "Just then, I was shoved from behind with tremendous force.\nI lost my balance, and my body pitched out the window.\nNo way.\nThis is the third floor★{p}"
+  },
+  {
+   "id": "07:1e96c",
+   "op": "text",
+   "en": "Fukuzawa watched me as I fell.\nShe wore an almost entranced expression.\nAnd that was the last sight I ever saw.{p}"
+  },
+  {
+   "id": "07:1e9d8",
+   "op": "text",
+   "en": "I bent down to pick up the mechanical pencil.\nFukuzawa kicked straight up at my face, her shoe still on her foot.{p}",
+   "follows_choice": [
+    "07:10530"
+   ]
+  },
+  {
+   "id": "07:1ea4c",
+   "op": "text",
+   "en": "I took the blow full on.\n\"Ugh!\"\nFor an instant, my vision blurred.{p}"
+  },
+  {
+   "id": "07:1eaa8",
+   "op": "text",
+   "en": "In that moment, Fukuzawa snatched up the ampoule.\n\"Too bad for you.\"\nWith that and a smug smile, Fukuzawa crushed the ampoule in her fist.{p}"
+  },
+  {
+   "id": "07:1eb30",
+   "op": "text",
+   "en": "Along with the pale yellow liquid, blood ran down, one trickle, then two.\nShe licked it off with a flick of her tongue and laughed.\n\"Game over.\"\nNo...\nThis can't be happening.\nAfter everything I went through, this is the end?\nAm I just going to die now?\n\"Oh, I love that look on your face. Come on, show me more and more of how much it hurts to lose. Make that I-want-to-live face.\"\nFukuzawa said it gleefully.\nHer eyes were sparkling.\nShe really seemed to be having the time of her life.\nAs I stared at her, a pitch-black rage swelled up inside me.{p}"
+  },
+  {
+   "id": "07:1ecf4",
+   "op": "text",
+   "en": "I strangled her.\n\"Kya... st-sto...\"\nShe was in agony.\nThat's it, suffer more.\nSuffer my share, too.\nTake the blame for my death.\n\"............ngh!\"{p}"
+  },
+  {
+   "id": "07:1eda8",
+   "op": "text",
+   "en": "Her struggling hands flopped down.{p}"
+  },
+  {
+   "id": "07:1eddc",
+   "op": "text",
+   "en": "When I let go, she slumped to the floor.\nFoam on her lips, Fukuzawa was dead.\nThis is fine.\nDeath won't be so lonely if I'm not dying alone.\nI sat down next to Fukuzawa's corpse and hugged my knees.\nBefore dawn came, I would die.\nHere in the old school building, maybe without anyone ever finding me.\nBut by now, even that was all right.\nI had lost.{p}"
+  },
+  {
+   "id": "07:1ef10",
+   "op": "text",
+   "en": "For the moment, I ran for it.\nWith the ampoule in my hands, I had no more business in a place like this.\nBut I tripped over the foot Fukuzawa quickly stuck out.{p}",
+   "follows_choice": [
+    "07:10544"
+   ]
+  },
+  {
+   "id": "07:1efb0",
+   "op": "text",
+   "en": "I went tumbling over.{p}"
+  },
+  {
+   "id": "07:1efe8",
+   "op": "text",
+   "en": "A sharp, stabbing pain shot through my palm.\nThe shock of the fall had broken the ampoule.\nDesperately, I licked up the yellow liquid running out with my blood.\nBehind me, Fukuzawa laughed.\n\"Kyahahaha, no use, no use.\nThey say you have to drink the whole dose of that antidote, or it's pointless.\nIf you only drink a little, it actually makes the poison work faster.\"{p}"
+  },
+  {
+   "id": "07:1f118",
+   "op": "text",
+   "en": "What?\nAs I tried to turn around, the strength drained softly out of my body.\nMy body went numb.\nIs this the poison taking effect?\n\"It's working already? Lord Hino really is amaaazing.\"\nFukuzawa's delighted voice.\nBut by then, I couldn't even see her anymore.\nAfter I'd come this far...\nWithout even time to grind my teeth, my consciousness sank into darkness.{p}"
+  },
+  {
+   "id": "07:1f258",
+   "op": "text",
+   "en": "I shouted the title of the report at the top of my voice.{p}",
+   "follows_choice": [
+    "07:105a4",
+    "07:105c0",
+    "07:105d8",
+    "07:10614"
+   ]
+  },
+  {
+   "id": "07:1f298",
+   "op": "text",
+   "en": "But Fukuzawa didn't stop.\nWith her teeth still sunk into me, she pulled another mechanical pencil from her pocket.{p}"
+  },
+  {
+   "id": "07:1f324",
+   "op": "text",
+   "en": "Then, in one swift motion, she drove it into my eye.\nA shock like a red-hot poker rammed all the way into the center of my brain.\nI couldn't even tell whether I was screaming or not.\nIn pain like my brains were being churned, I could only writhe helplessly.\nThe next instant, the finishing blow came down on me.{p}"
+  },
+  {
+   "id": "07:1f440",
+   "op": "text",
+   "en": "Truthfully, I wanted to go home right away.\nBut my legs wouldn't move.\nExhaustion and relief made my whole body feel heavy.\nI leaned against the wall.\nI closed my eyes for a moment.\nI'll rest, just a little.\nYes, just a little...\nThinking that, I ended up dozing off.{p}",
+   "follows_choice": [
+    "07:10f90"
+   ]
+  },
+  {
+   "id": "07:1f528",
+   "op": "text",
+   "en": "...Something smelled like burning.\nBy the time I noticed and woke up, it was already too late.{p}"
+  },
+  {
+   "id": "07:1f588",
+   "op": "text",
+   "en": "A wave of heat, a crackling sound.\nFire!\nI hurriedly dashed out of the restroom.{p}"
+  },
+  {
+   "id": "07:1f600",
+   "op": "text",
+   "en": "\"Whoops, I'm not letting you through here.\"\nIt was Kazama!\nHe had his arms spread wide, blocking the hallway.\n\"What do you think you're doing? If you don't run, you'll die too★\"\n\"I won't die. I'm immortal, after all.\"\n...What is with this guy?\nIs he seriously saying that?\nBut right now, I can't waste time on a guy like him.\nI have to get out of here, fast.{p}What should I do?\n"
+  },
+  {
+   "id": "07:1f754",
+   "op": "choice",
+   "en": "Slip past Kazama"
+  },
+  {
+   "id": "07:1f76c",
+   "op": "choice",
+   "en": "Run the opposite way from Kazama"
+  },
+  {
+   "id": "07:1f784",
+   "op": "text",
+   "en": "I turned my back on Kazama and ran.\nI had to get out of here before the fire spread!{p}",
+   "follows_choice": [
+    "07:1f76c"
+   ]
+  },
+  {
+   "id": "07:1f7e4",
+   "op": "text",
+   "en": "But...\nThe hallway ahead was a dead end.{p}"
+  },
+  {
+   "id": "07:1f824",
+   "op": "text",
+   "en": "\"Heh, too bad.\"\nKazama, who had chased after me, laughed.\n\"Now, prepare yourself.\"\n...If it's come to this, it's all or nothing!\nI threw myself at Kazama, shoulder first.{p}"
+  },
+  {
+   "id": "07:1f8c8",
+   "op": "text",
+   "en": "But the instant we should have collided, Kazama vanished in a flash.{p}"
+  },
+  {
+   "id": "07:1f908",
+   "op": "text",
+   "en": "Meeting nothing but air, I fell to the hallway floor.\nThe next instant, something burning hot was thrust into my neck.\nLike a switch had been flipped off, the strength drained out of my body.\nI can't stand...?\nAnd then, what is this?\nThis stuff flowing out of my neck...{p}"
+  },
+  {
+   "id": "07:1f9e8",
+   "op": "text",
+   "en": "Kazama was looking down at me as I lay there.\n...Why does this guy look like he's having so much fun?\nWith him this wide open, I feel like I could still get away.\nBut my body won't obey me.\nWorse, my hands and feet seem to be going cold.{p}"
+  },
+  {
+   "id": "07:1faec",
+   "op": "text",
+   "en": "Oh, Kazama's leaving.\n...Right, there's a fire, isn't there.\nIf I don't run, I'll burn to death.\nWith the little strength I had left, I desperately tried to get up.\nAt that moment, I thought I saw the Grim Reaper's scythe swinging down.{p}"
+  },
+  {
+   "id": "07:1fbb4",
+   "op": "text",
+   "en": "All or nothing!\nI slipped right past Kazama.\nApparently even he hadn't expected me to charge straight at him.{p}",
+   "follows_choice": [
+    "07:1f754"
+   ]
+  },
+  {
+   "id": "07:1fc1c",
+   "op": "text",
+   "en": "\"Wh... why, you!\"\nA faint pain ran across my back.\nChecking as I ran, I found the back of my shirt sliced clean open.{p}"
+  },
+  {
+   "id": "07:1fca8",
+   "op": "text",
+   "en": "Kazama had a blade.\n\"Wait! Prey isn't allowed to get away!\"\nKazama shouted as he chased after me.{p}"
+  },
+  {
+   "id": "07:1fd2c",
+   "op": "text",
+   "en": "I flew down the stairs.\nKazama reached the landing.\n\"{a}☆\"\nI whirled around with a start.{p}"
+  },
+  {
+   "id": "07:1fdb0",
+   "op": "text",
+   "en": "...I will never forget that sight as long as I live.\nKazama, brandishing a gleaming kitchen knife as he ran down the stairs at me, lost his footing.\nHis face twisted in terror.\nHe was falling toward me.\nAnd then.{p}"
+  },
+  {
+   "id": "07:1fe80",
+   "op": "text",
+   "en": "When I came to my senses, Kazama was lying right beside me.\nThe kitchen knife was buried deep in his chest.\nWhat an anticlimactic way to die.\nBut strangely, it seemed to suit Kazama somehow.\nCome on, there's no time to dawdle.{p}"
+  },
+  {
+   "id": "07:1ff5c",
+   "op": "text",
+   "en": "I ran down the stairs and headed for the exit.{p}"
+  },
+  {
+   "id": "07:1ffb0",
+   "op": "text",
+   "en": "Hino was there.\nHe was grinning.\n\"Not bad at all, {a}. I underestimated you. Why don't you join me? The Murder Club, I mean.\"\nHino smiled, his face perfectly pleasant.{p}"
+  },
+  {
+   "id": "07:2004c",
+   "op": "text",
+   "en": "\"............Don't be stupid. I'd sooner die.\"\n\"...I see. That's a shame. I thought you'd make a good partner.\nI've disposed of every one of the traitors. Kazama, Shindo, Hosoda too. There's no one left.\nAnd I'm graduating soon.\nI thought you could take over after me and make a fine club president. Well?\nWon't you reconsider?\"{p}"
+  },
+  {
+   "id": "07:20188",
+   "op": "text",
+   "en": "\"No way.\"\n\"So stubborn. Well, it can't be helped. Then I'll give up on you.\nThe Murder Club ends with me.\"\nAs we talked, I moved step by step toward Hino.\n\"Hino. There's one thing I want to ask you.\"\n\"What is it?\"\n\"What is a Murder Club even for?\"{p}"
+  },
+  {
+   "id": "07:20298",
+   "op": "text",
+   "en": "\"I'm so glad you asked.\nYou see, people build up this thing called stress.\nBut the elite must never let stress build up. So what do you do about it?\nThat's right. You eliminate anything that might cause you stress.\nYou kill every last person who makes you angry.\nThat way, stress never builds up, and whatever stress you have just naturally melts away.\nIt's fun. Is there any other method as wonderful as this?\"\n\"You're out of your mind.\"\n\"...Thank you. I'll take that as a compliment.\nIn every age, ordinary people never understand what a genius thinks.\nNow, let's bring this to an end.\"{p}"
+  }
+ ]
+}

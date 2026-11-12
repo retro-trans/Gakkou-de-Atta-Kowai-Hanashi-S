@@ -1,0 +1,306 @@
+{
+ "slice": "S126",
+ "scene": "32",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S125",
+ "next": "S127",
+ "todo": [],
+ "rows": [
+  {
+   "id": "32:5e98",
+   "op": "text",
+   "follows_choice": [
+    "32:5e80"
+   ],
+   "en": "My, so you do.\nYou're more meticulous than I expected.\nAnd yet sometimes you don't even bother opening one...{p}"
+  },
+  {
+   "id": "32:5f04",
+   "op": "text",
+   "en": "But I understand how you feel.\nUmbrellas are such a nuisance, aren't they?\nStill, they're not all bad.{p}"
+  },
+  {
+   "id": "32:5f74",
+   "op": "text",
+   "en": "They say plenty of romances get their start thanks to an umbrella.\nYou know, like in those romance comics for girls.{p}"
+  },
+  {
+   "id": "32:5fd8",
+   "op": "text",
+   "follows_choice": [
+    "32:1020",
+    "32:5e8c"
+   ],
+   "en": "So you don't.\nLots of people are like that, aren't they?{p}"
+  },
+  {
+   "id": "32:6014",
+   "op": "text",
+   "en": "Boys especially.\nThat's why, in the rainy season, I often see people waiting out the rain by the shoe lockers.{p}"
+  },
+  {
+   "id": "32:6070",
+   "op": "text",
+   "follows_choice": [
+    "32:1014"
+   ],
+   "en": "My, how admirable.\nBut not everyone in the world is like you, are they?\nBoys especially. I'd think it's rare for one to keep a spare umbrella at school.\nBut you know, for a girl, that's also the perfect chance for romance.{p}"
+  },
+  {
+   "id": "32:6140",
+   "op": "text",
+   "follows_choice": [
+    "32:2418",
+    "32:6368"
+   ],
+   "en": "Oh, really.\nSo that's the kind of person you are, {a}.\nA man who's a disgrace to the human race.\nYou can't understand the pain in other people's hearts, can you?\nYou won't notice it until the same thing happens to you.\nI can't forgive people like that.\nI can't forgive them.{p}"
+  },
+  {
+   "id": "32:6218",
+   "op": "text",
+   "en": "..........Oh, what's the matter?\nAre you scared?\nHeh heh... Shall we go on with the story?{p}"
+  },
+  {
+   "id": "32:6274",
+   "op": "text",
+   "follows_choice": [
+    "32:2430"
+   ],
+   "en": "And you call yourself a journalist?\nDo you really think you can get by in the newspaper club without taking an interest in people?\nI can't tell my story to someone so careless.\nWhy don't you answer a little more seriously?\nCome on, answer me.{p}I asked what you think of Tsukahara.\n"
+  },
+  {
+   "id": "32:6354",
+   "op": "choice",
+   "en": "I can't stand the guy"
+  },
+  {
+   "id": "32:6368",
+   "op": "choice",
+   "en": "All guys are like that"
+  },
+  {
+   "id": "32:6388",
+   "op": "text",
+   "follows_choice": [
+    "32:6354"
+   ],
+   "en": "...Heh, I see.\nThank you for answering my question.\nWell then, let's go on.{p}"
+  },
+  {
+   "id": "32:63e4",
+   "op": "text",
+   "en": "Hmm, is that so.\nWell, if that's how you feel, that's fine.\nBut God does love his little pranks, doesn't he?\nAfter all, he gave Tachibana one more chance.{p}"
+  },
+  {
+   "id": "32:648c",
+   "op": "text",
+   "en": "It was when the rainy season was nearly over.\nMaybe Tsukahara was the type who never kept a spare umbrella at school.\nHe was waiting out the rain again.\nAll by himself.\nAnd Tachibana had an umbrella with her.\nA big blue umbrella.{p}"
+  },
+  {
+   "id": "32:6568",
+   "op": "text",
+   "en": "Tachibana hesitated.\nShe couldn't just stand by and watch Tsukahara in trouble.\nBut if she showed herself, he might not like it.\nIn the end, though, she couldn't bear to watch him struggle any longer, and she rushed out.{p}"
+  },
+  {
+   "id": "32:6640",
+   "op": "text",
+   "en": "\"Um... please, use this umbrella.\"\nAt first, when he saw her, he looked annoyed, but he soon smiled.\n\"Oh, thanks a lot.\nWant to walk home together?\"{p}"
+  },
+  {
+   "id": "32:66dc",
+   "op": "text",
+   "en": "She hadn't meant to walk home with him.\nBut he pushily pulled her under the umbrella with him anyway.{p}"
+  },
+  {
+   "id": "32:6744",
+   "op": "text",
+   "en": "She felt terribly awkward.\nBut he just went on talking anyway.\n\"Man, I'm sorry.\nI just haven't had any time lately.\nI've been busy, y'know, with this and that.\nYou get it, right?\nI just want to be nice to everybody.\nIt's not like I'm into anyone or anything.\nRight? So it's not like I started hating you, Yukari...\"{p}"
+  },
+  {
+   "id": "32:6890",
+   "op": "text",
+   "en": "As he said that, he suddenly tried to kiss her.\n\"Please stop.\"\nStartled by the sudden move, Tachibana refused him.\nShe still loved him even now, but she already knew he had only been toying with her.\nShe believed that kissing was wrong unless two people loved each other.\nSo she shoved Tsukahara away.{p}"
+  },
+  {
+   "id": "32:69e8",
+   "op": "text",
+   "en": "Frankly, he was taken aback.\nNo girl had ever turned him down before.\nAt first he tried to laugh it off, but his pride had been badly wounded.\nSo he attacked her.\n\"Don't you screw with me!\"\nTachibana was shocked.\nThe Tsukahara she had thought so kind was coming at her with a monstrous face.{p}"
+  },
+  {
+   "id": "32:6b30",
+   "op": "text",
+   "en": "She swung the umbrella around wildly.\n\"Stop!\nPlease stop!\"\nSuddenly, she felt a dull impact through her hands.\nThe hands holding the umbrella suddenly grew heavy, as if it had caught on something.\n\"Gyaaah...\"\n...Tsukahara was groaning.\nWhen she looked, the tip of the umbrella was stuck in his left eye.{p}"
+  },
+  {
+   "id": "32:6c44",
+   "op": "text",
+   "en": "...Ow!\nJust then, a faint pain shot through my eye.\nMy left eye, too, just like in the story.\nIwashita went on with her story without noticing.{p}"
+  },
+  {
+   "id": "32:6cdc",
+   "op": "text",
+   "en": "\"The umbrella was driven in deep.\nThe blood flowing out of the wound etched a red pattern across the blue umbrella.\"{p}"
+  },
+  {
+   "id": "32:6d48",
+   "op": "text",
+   "en": "Throb... throb...\nWhat's happening to me?\nThe pain in my left eye was getting stronger and stronger.\nNo, this was more than pain.\nIt was hot.\nIt felt like it was burning.\nWhat...\nWhat on earth is this?{p}"
+  },
+  {
+   "id": "32:6e20",
+   "op": "text",
+   "en": "\"Tsukahara didn't care how he looked anymore.\nHe pulled the umbrella's tip out of his left eye and tried to lunge at her.\nTachibana was so terrified that she shut her eyes tight and just thrust the umbrella out.\nNot knowing what she was doing, she thrust it out again and again and again.\"{p}"
+  },
+  {
+   "id": "32:6f10",
+   "op": "text",
+   "en": "It hurts!\n"
+  },
+  {
+   "id": "32:6f28",
+   "op": "text",
+   "en": "It hurts!\nSearing pain shot through my body, all over.\nIt felt like something was being stabbed into me.\nI crumpled to the floor.\n\"Heh... Does it hurt?\nThat's the pain Tsukahara felt.\"\n...I realized Iwashita was smiling down at me.{p}"
+  },
+  {
+   "id": "32:7018",
+   "op": "text",
+   "en": "\"I figured it out while we were talking.\nYou're the same breed as Tsukahara.\nIf I let you live, some other girl, somewhere, is going to end up crying.\nSo I'm going to kill you.\"\n...What?\nBut Iwashita shouldn't have done anything to me.\nSo why this pain...?\nAs if she had read my mind, Iwashita bent down over me.{p}"
+  },
+  {
+   "id": "32:7134",
+   "op": "text",
+   "en": "\"I've put Tachibana's curse on you...\nYou'll feel the pain Tsukahara felt, and you'll die the same way he did.\"\nWith her eyes slanted up, her smile was not that of the Iwashita I'd seen until now.\nIt was something more evil.......... like a witch.{p}"
+  },
+  {
+   "id": "32:7204",
+   "op": "text",
+   "en": "\"That's right... I'm a witch.\nA witch who protects girls from wicked men...\"\nIwashita's smile grew wider.\nNo... that's ridiculous.\nBut this pain was covering my whole body.\nI was slowly losing consciousness.\nI don't want to die like this...\nI tried to struggle.\nBut I couldn't even lift a finger anymore.\nAs I was swallowed up by agony and darkness, Iwashita watched me, delighted..........{p}"
+  },
+  {
+   "id": "32:7364",
+   "op": "text",
+   "en": "That's right.\nTachibana really was a devoted girl.{p}"
+  },
+  {
+   "id": "32:73bc",
+   "op": "text",
+   "en": "That's exactly why she was content just to watch him.\nBut Tsukahara wasn't willing to leave it at that.\nHaving her watching him all the time? No way was he going to put up with that.\nWhat a horrible man.\nSo he gathered together the girls who always hung around him...{p}"
+  },
+  {
+   "id": "32:74ac",
+   "op": "text",
+   "en": "One day, Tachibana was called out by a group of girls.\nAnd they surrounded her.\n\"We hear you've been following Tsukahara around?\"\n\"Can't you tell you're a pain in his neck?\"\n...They all laid into Tachibana, one after another.\nPoor Tachibana couldn't even talk back.{p}"
+  },
+  {
+   "id": "32:75c8",
+   "op": "text",
+   "en": "Of course she was mortified.\nShe hadn't done anything wrong, after all.\nBut to think Tsukahara found her that much of a nuisance.\nAnd that he'd gone and told other people.\nHer pride was torn to shreds.\nTachibana went home... and slit her wrists.{p}"
+  },
+  {
+   "id": "32:76c4",
+   "op": "text",
+   "en": "Unfortunately, her family didn't find her in time.\nBy the time they did, they say she had already stopped breathing.{p}"
+  },
+  {
+   "id": "32:7730",
+   "op": "text",
+   "en": "Even when he heard about it, Tsukahara didn't seem to feel a thing.\nOf course, he didn't go to her funeral either.\nKilling him would be too good for him, wouldn't it?{p}"
+  },
+  {
+   "id": "32:77d0",
+   "op": "text",
+   "en": "If he were right here, {a}, you'd want to punch him too, wouldn't you?\n...But you can't.\nBecause Tsukahara is dead.\nAnd not just dead. Murdered.{p}"
+  },
+  {
+   "id": "32:7870",
+   "op": "text",
+   "en": "By whom, you ask?\nHeh heh... Who knows?\nHe was found dead, stabbed over and over.\nAnd they say there was an umbrella stuck in his body.\nA red one, too, exactly like the one Tachibana used to carry.\nWhat do you suppose that means?\nHeh heh...\nWell, that's the end of my story.\nWho's next, I wonder?{p}"
+  },
+  {
+   "id": "32:7988",
+   "op": "text",
+   "en": "Scary, you say?\nYou're scared of Tachibana?\nAll she does is watch from a distance.\nIt doesn't cause Tsukahara any trouble at all.\nWhat do you mean, scary?{p}Do you think Tachibana is weird?\n"
+  },
+  {
+   "id": "32:7a3c",
+   "op": "choice",
+   "en": "I do think she's weird"
+  },
+  {
+   "id": "32:7a50",
+   "op": "choice",
+   "en": "No, I don't think so"
+  },
+  {
+   "id": "32:7a70",
+   "op": "text",
+   "follows_choice": [
+    "32:7a3c"
+   ],
+   "en": "Weird? How cruel.\nYou're someone who doesn't understand true devotion, aren't you?\n...Never mind.\nNo matter how much I tell someone like you about her feelings, it would be pointless.\nLet's continue the story.\nShe meant to go on watching over Tsukahara.\nBut the god of fate didn't abandon her.{p}"
+  },
+  {
+   "id": "32:7b78",
+   "op": "text",
+   "follows_choice": [
+    "32:7a50"
+   ],
+   "en": "Exactly.\nShe was a sweet, devoted girl.\nThe kind of person who was fooled by someone like Tsukahara and still didn't hold it against him.{p}"
+  },
+  {
+   "id": "32:7bf4",
+   "op": "text",
+   "en": "...Really?\nYou think it's normal.\nWell, if that's what you think, that's fine.{p}"
+  },
+  {
+   "id": "32:7c54",
+   "op": "text",
+   "en": "...Some time after that, Tsukahara found a present in his desk.\nNot that that sort of thing was anything unusual for him.{p}"
+  },
+  {
+   "id": "32:7cec",
+   "op": "text",
+   "en": "When he looked inside, it was a folding umbrella.\n\"Huh. What a lame present.\"\n...He said nasty things like that about it.\nAnd yet, when it started to rain after school, he took that umbrella out.{p}"
+  },
+  {
+   "id": "32:7db8",
+   "op": "text",
+   "en": "\"A fan of mine gave it to me 'cause they didn't want me catching a cold.\"\nHe didn't forget to brag about that, either.{p}"
+  },
+  {
+   "id": "32:7e34",
+   "op": "text",
+   "en": "When he opened it, it turned out to be quite a big umbrella.\nTsukahara started for home under it.\nBut mixed in with the rhythmic patter of raindrops on the umbrella, there was a strange sound.{p}"
+  },
+  {
+   "id": "32:7ed8",
+   "op": "text",
+   "en": "Creak... creak... A groaning, creaking sound.{p}"
+  },
+  {
+   "id": "32:7f10",
+   "op": "text",
+   "en": "\"What the...?\"\nJust as Tsukahara went to check the umbrella,\nit snapped shut with tremendous force.{p}"
+  },
+  {
+   "id": "32:7f70",
+   "op": "text",
+   "en": "Tsukahara was completely wrapped up from the chest up.\nThe students watching burst out laughing.\nTsukahara, always acting so cool, had made a total fool of himself.\nBut Tsukahara's umbrella didn't open.\nEveryone thought he was just embarrassed at being laughed at.{p}"
+  },
+  {
+   "id": "32:8070",
+   "op": "text",
+   "en": "But before long, blood came gushing out from inside the umbrella.\n...Someone screamed.{p}"
+  },
+  {
+   "id": "32:80f0",
+   "op": "text",
+   "en": "The teachers rushed over and pulled Tsukahara out of the umbrella.\nBut by then, they say, everything from his neck up was already gone.\nAnd of course, it wasn't inside the umbrella either.\nAll those people had been watching, yet no one could tell where Tsukahara's head had vanished to.\nThe next day, Tachibana quietly disappeared.\nThey say she transferred to a school in some faraway town.{p}"
+  },
+  {
+   "id": "32:823c",
+   "op": "text",
+   "en": "Not that anyone ever paid any attention to a girl as plain as her.\nHeh heh...\nWell, that's the end of my story.\nWho's next, I wonder?{p}"
+  }
+ ]
+}

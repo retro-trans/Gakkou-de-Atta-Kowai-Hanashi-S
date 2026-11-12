@@ -1,0 +1,347 @@
+{
+ "slice": "S050",
+ "scene": "11",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S049",
+ "next": "S051",
+ "todo": [],
+ "rows": [
+  {
+   "id": "11:9d4c",
+   "op": "text",
+   "en": "\"Nobody should be using it until summer.\"\nThere were still students at school, busy with their club activities.\nTakeda snuck into the lodge so that none of the other students would see her.{p}"
+  },
+  {
+   "id": "11:9e00",
+   "op": "text",
+   "en": "\"You'll be fine here.\nI'll bring you something to eat again tomorrow.\"\nWith that, she went home for the day.{p}"
+  },
+  {
+   "id": "11:9e74",
+   "op": "text",
+   "en": "The next day, she took the leftovers from her lunch and went to the lodge, making sure no one saw her.\n\"Sorry I'm late.\nYou must be starving.\"{p}"
+  },
+  {
+   "id": "11:9f0c",
+   "op": "text",
+   "en": "Maybe the kitten had been hungry; it started eating ravenously.\nFrom then on, she went to see the cat every day, at lunch and after school.\nOnce she was keeping the cat in the lodge, she started looking forward to going to school.\nThe cat became her reason for living.\nBut one day, one of the bullies found out.{p}"
+  },
+  {
+   "id": "11:a040",
+   "op": "text",
+   "en": "\"So that's why you've been so weirdly cheerful lately, Naoko.\"\nThe girl gave a nasty smile.\nThen she went back to class and told her friends all about it.{p}"
+  },
+  {
+   "id": "11:a0e4",
+   "op": "text",
+   "en": "When they heard about the cat, what do you think they did?\n"
+  },
+  {
+   "id": "11:a118",
+   "op": "choice",
+   "en": "They dumped the cat somewhere"
+  },
+  {
+   "id": "11:a12c",
+   "op": "choice",
+   "en": "They killed the cat"
+  },
+  {
+   "id": "11:a140",
+   "op": "choice",
+   "en": "They confronted Takeda about it"
+  },
+  {
+   "id": "11:a158",
+   "op": "text",
+   "follows_choice": [
+    "11:a118"
+   ],
+   "en": "Yes, they dumped it somewhere.{p}"
+  },
+  {
+   "id": "11:a190",
+   "op": "text",
+   "en": "When Takeda went to the lodge as usual, the kitten wasn't there.\n\"The cat's gone...\"\nShe searched for it.\nShe searched every corner of the school.\nBut she couldn't find the kitten.{p}"
+  },
+  {
+   "id": "11:a24c",
+   "op": "text",
+   "en": "A few days later, she found the kitten walking along her way home.\n\"Where have you been? I was so worried about you.\nLet's go back to school, okay?\"\nShe took the kitten to school again.{p}"
+  },
+  {
+   "id": "11:a304",
+   "op": "text",
+   "en": "But on the way, the girls who had dumped the kitten caught her.\n\"So you found it, Naoko.\"\n\"Y-you were the ones who dumped it!\"\n\"Yeah, we did.\nBut it's your own fault for keeping a cat at school, isn't it?\"\n\"B-but...\"\n\"If you don't want it dumped again, you'd better quit keeping it at school.\"\n\"Heh, heh heh heh.\"\nThey walked off, laughing.{p}"
+  },
+  {
+   "id": "11:a460",
+   "op": "text",
+   "en": "\"What do I do...?\"\nTakeda crouched down right where she stood.\nThe next day, she stayed home from school.\nAnd the day after that, and the day after that, she stayed home again.{p}"
+  },
+  {
+   "id": "11:a514",
+   "op": "text",
+   "en": "Even the girls who had been bullying Takeda started to get worried.\n\"All this over a stupid cat...\"\nBy telling themselves that, they tried to forget about it.\nBut they should have realized.\nTakeda had been driven so far into a corner that she couldn't go on living without the cat to hold on to.\nIt was a while after that.{p}"
+  },
+  {
+   "id": "11:a648",
+   "op": "text",
+   "en": "\"Everyone, I'm sorry to have to tell you this, but Takeda has run away from home and gone missing.\n"
+  },
+  {
+   "id": "11:a6a0",
+   "op": "text",
+   "en": "If any of you have any idea where she might be, or if you've seen her, please come and tell me, anytime at all.\nI'm asking you, please.\"{p}"
+  },
+  {
+   "id": "11:a704",
+   "op": "text",
+   "en": "Their homeroom teacher had announced that Takeda had run away from home.{p}"
+  },
+  {
+   "id": "11:a760",
+   "op": "text",
+   "en": "At break, the bullies gathered behind the school building.\n\"This is bad...\"\n\"What do we do if they find out it's because of us?\"\n\"Relax, they won't find out.\"\nIn the end, they decided to keep quiet.{p}"
+  },
+  {
+   "id": "11:a820",
+   "op": "text",
+   "en": "That day, maybe because they felt uneasy, they walked home together.\n\"Let's find her before anyone else does and threaten her.\nThen nobody will find out it was our fault.\"\n\"I guess. But where could she be?\"\n\"Maybe she went back to the lodge above the auditorium.\"\n\"Oh, right, it has to be there.\nIf she was going to go anywhere at all.\"{p}"
+  },
+  {
+   "id": "11:a940",
+   "op": "text",
+   "en": "They headed for the auditorium.\nAnd when they opened the door to the lodge...{p}"
+  },
+  {
+   "id": "11:a9ac",
+   "op": "text",
+   "en": "\"N-Naoko...\"\nTakeda was sitting on one of the beds.\n\"Why the hell did you run away from home?\nYou're getting us into all kinds of trouble.\"\n\"Yeah, hurry up and go home already.\"\nSaying that, they laid into her and shoved her around.\nJust then, they heard a cat.{p}"
+  },
+  {
+   "id": "11:aab0",
+   "op": "text",
+   "en": "When they looked that way, a kitten was standing there, giving off a terrifying aura.\nThen there were two, then three, and their numbers kept growing.\n\"What's with these cats?\"\n\"Wasn't she only keeping one?!\"\nThey backed away.{p}"
+  },
+  {
+   "id": "11:aba0",
+   "op": "text",
+   "en": "Then Takeda spoke.\n\"After I ran away, while I was wandering around, I found kittens dumped all over the place.\nI felt so sorry for them that I brought them all here, so I could take care of them.\"\nLittle by little, Takeda came closer to them.\n\"Aren't they cute?\"\nThey were cornered and could no longer think straight.{p}"
+  },
+  {
+   "id": "11:acf0",
+   "op": "text",
+   "en": "\"Naoko, do something about those cats!\"\n\"Yeah, there's no way you can keep them at school!\"\nSaying that, they kept laying into Takeda.\nIt happened just as one of them tried to grab Takeda's clothes.{p}"
+  },
+  {
+   "id": "11:add0",
+   "op": "text",
+   "en": "The kittens all attacked her at once.\n"
+  },
+  {
+   "id": "11:ae08",
+   "op": "text",
+   "en": "The cats sank their teeth into her all over her body.\nAnd when the cats pulled away, she collapsed, covered in blood.\nHer bones were laid bare, and her guts were spilling out of her fallen body.{p}"
+  },
+  {
+   "id": "11:aeb8",
+   "op": "text",
+   "en": "The girls who were left screamed.\nThey tried to run, but their legs were frozen with fear and they couldn't move from the spot.{p}"
+  },
+  {
+   "id": "11:af34",
+   "op": "text",
+   "en": "While they stood there paralyzed, the cats closed in around them.{p}"
+  },
+  {
+   "id": "11:afa4",
+   "op": "text",
+   "en": "The next day, there was a search for the missing girls.\nWitnesses said the girls had gone toward the lodge, and when people went looking there, they found bodies that looked as if animals had torn them apart and fed on them.\nOfficially, it was put down to wild dogs, but nothing about it added up.\nEven now, students who stay there say they woke up in the morning with cat scratches, or heard cats crying.\nWhen I was at training camp, I woke up in the morning and found cat scratches on me, so I quit the soccer team that same day.\nI was convinced the rumors were true.\nHm? Takeda, you mean?\nShe graduated last year.\nThe story I just told you is only a rumor, after all.\nBut they say Takeda still comes to the lodge from time to time.\nAnd that the cries of cats echo through the school at night.\nMaybe someone else has become cat food again.\nThat's the end of my story.\nNext, please.{p}"
+  },
+  {
+   "id": "11:b298",
+   "op": "text",
+   "follows_choice": [
+    "11:a12c"
+   ],
+   "en": "Yes, they killed it.\nGirls can be so cruel at times like this, can't they?{p}"
+  },
+  {
+   "id": "11:b300",
+   "op": "text",
+   "en": "After school, when Takeda went there, the kitten's corpse was lying on the floor.\n\"Who would... This is horrible...\"\nTakeda grieved.{p}"
+  },
+  {
+   "id": "11:b388",
+   "op": "text",
+   "en": "And she killed herself, right there on the spot.\nTakeda had been driven so far into a corner that the cat was the last thing she had left to lean on.{p}"
+  },
+  {
+   "id": "11:b410",
+   "op": "text",
+   "en": "The bullies panicked.\n\"This is bad. She actually killed herself!\"\n\"Killing herself just because we killed a cat...\"\n\"What do we do, you guys?\"\n\"If we keep quiet, nobody'll know.\nThey said there wasn't a suicide note.\"\n\"Right. All we did was kill a cat.\"\nThey decided to keep their mouths shut.{p}"
+  },
+  {
+   "id": "11:b540",
+   "op": "text",
+   "en": "Several months passed.\nIn the end, Takeda's death was written off as a suicide brought on by a nervous breakdown.\nAnd for those girls, the incident was already becoming a distant memory.\nSo when someone suggested the whole class hold a training camp over summer vacation to get ready for the ball-games tournament, the bullies agreed without a second thought.{p}"
+  },
+  {
+   "id": "11:b674",
+   "op": "text",
+   "en": "Everyone felt like they were on a little trip.\nDuring the day they practiced for their own events, and after dinner they horsed around noisily until lights-out.{p}"
+  },
+  {
+   "id": "11:b6f0",
+   "op": "text",
+   "en": "Then lights-out came, and the whole class went to bed.\nEven after the lights were turned off, some people kept on chatting.\nBut before long, worn out from the day, everyone fell asleep.{p}"
+  },
+  {
+   "id": "11:b7c8",
+   "op": "text",
+   "en": "I wonder how much time passed. One girl was woken by the sound of a cat.\n\"Whose cat is that? It's so noisy.\"\nShe looked around, but there was no cat.\n\"A cat, in a place like this...... Ah!\"\nShe remembered.\nWhat they had done here, a few months before.{p}"
+  },
+  {
+   "id": "11:b8e4",
+   "op": "text",
+   "en": "Then, when she happened to glance away, there was a cat, standing perfectly still.\n\"Eeeek!\"\nShe screamed before she could stop herself.\nSeveral people woke up at the scream.{p}"
+  },
+  {
+   "id": "11:b984",
+   "op": "text",
+   "en": "\"What's wrong...?\"\nA few people gathered around her.\n\"Th-the cat...\"\n\"What about the cat?\"\nAs she looked at them, all clearly annoyed, she got a bad feeling.\nBecause the ones gathered there were the very girls who had killed the cat back then.\n\"Everyone, be careful.\"\n\"Huh...?\"\nThey all looked at one another.\nAnd then they remembered.\nWhat they had done.\nAnd just then...\n"
+  },
+  {
+   "id": "11:bb08",
+   "op": "text",
+   "en": "Suddenly, a cat cried out.\n\"Noooo!\"\nThey all screamed at once.{p}"
+  },
+  {
+   "id": "11:bb70",
+   "op": "text",
+   "en": "When they turned around, the cat was there.\nThe cat was staring right at them.\nAnd they couldn't take their eyes off the cat either.\nThen something began to rise up behind the cat.\n\"Wh-what is that...\"\nWhen someone finally managed to speak, they all slowly raised their eyes.{p}"
+  },
+  {
+   "id": "11:bc9c",
+   "op": "text",
+   "en": "\"N-Naoko...\"\nTakeda was there, behind the cat.\n"
+  },
+  {
+   "id": "11:bce4",
+   "op": "text",
+   "en": "\"Heh heh heh heh...\"\nShe laughed eerily.{p}"
+  },
+  {
+   "id": "11:bd40",
+   "op": "text",
+   "en": "The next day, the bullies had vanished.\nAnd strangely enough, there were exactly as many cats as there were missing girls.\nThe police searched for them, but they were never found.\nIn the end, it was decided they had run away from home.\nHm? The cats from that night, you mean?\nThey did nothing but cry, and people found them creepy, so no one would take them.\nSo they were taken to the pound.\nI heard this later, but apparently those cats were handed over to a university hospital and became lab animals.\nDo you know what they do to lab animals?\nThey make them sick on purpose, and dissect them without anesthesia.\nBecause, supposedly, with anesthesia they can't get accurate data.\nWhat? You don't think that's disgusting?\n{a}, go look into it yourself. Lab animals.\nIf you go to the library, you'll find out.\nIt's beyond anything you can imagine.\nAnd what's more, those lab animals used to be human..................\nThat's what I think, anyway.\nBecause they appear, you see. In the lodge...\nThe ghosts of those girls, with their bellies ripped open, or turned into specimens.\nWhen I heard that story, I quit the soccer team.\nI don't want to stay overnight in that lodge.\nIf you think it's just a rumor, why don't you try staying there yourself?\nStill, I think that's the reason so many people quit the sports teams after summer vacation.\nWell, anyway, I'll end my story here.\nI'd rather not picture it too much.\nNext, please.{p}"
+  },
+  {
+   "id": "11:c1f4",
+   "op": "text",
+   "follows_choice": [
+    "11:a140"
+   ],
+   "en": "Yes, they used it as ammunition to corner her, and bullied her all over again.\n\"Naoko, do you think it's okay to keep a cat at school?\"\n\"If we tell a teacher, that cat's going straight to the pound.\"\n\"Don't just stand there saying nothing. Hurry up and go dump it.\"\nShe just let them say whatever they liked and do whatever they liked to her.\nThen they went and got the kitten, threw it at Takeda,\n\"Guess you'll just have to dump it at the garbage heap or something.\"\nand walked off, saying that.{p}"
+  },
+  {
+   "id": "11:c384",
+   "op": "text",
+   "en": "Takeda wandered the streets at night, holding the kitten.\n\"I'm sorry. There's nothing I can do...\"\nUnable to find any way out, she finally jumped off a pedestrian bridge with the cat in her arms.\n"
+  },
+  {
+   "id": "11:c434",
+   "op": "text",
+   "en": "\"Let's die together...\"\nShe was hit by a truck.{p}"
+  },
+  {
+   "id": "11:c48c",
+   "op": "text",
+   "en": "An ambulance was called right away, but she died on the spot.\nThe kitten that had jumped with her came through without a single scratch.\nThey say that until she was loaded into the ambulance, the kitten kept desperately licking the wounds on her corpse.{p}"
+  },
+  {
+   "id": "11:c570",
+   "op": "text",
+   "en": "The next day, the bullies said,\n\"This stays absolutely secret, got it?\"\n\"I know.\"\n\"She didn't have to die over a stupid cat.\"\n\"Yeah. She should've just found someone to take it.\"\nAnd like that, they kept quiet about it.{p}"
+  },
+  {
+   "id": "11:c654",
+   "op": "text",
+   "en": "A few days went by.\nJust as they were starting to forget the incident, they were walking home from school together.\n\"Hey, a cat.\"\n\"It's kind of staring at us.\"\nThe girls remembered the incident they had pushed into a corner of their minds.\n\"This is kind of creepy.\"\n\"Let's go.\"\n\"Yeah.\"\nAll of them turned back the way they had come.\nWhen they had gone back a few steps, a cat let out a furious yowl behind them.{p}"
+  },
+  {
+   "id": "11:c7c4",
+   "op": "text",
+   "en": "When they turned around, there was the cat Takeda had been carrying that night.\n\"What? Isn't that the cat Naoko had with her?\"\n\"It's creepy. Let's just go.\"\nAnd just as they turned back around...{p}"
+  },
+  {
+   "id": "11:c8a0",
+   "op": "text",
+   "en": "\"Eeek!\"\nTakeda was standing behind them.\n\"N-Naoko.......\"\nAnd behind her were countless cats.\n\"Hey, everyone, won't you take these cats in?\"\nSaying that, she slowly came closer.\n\"S-stop it.\"\nBefore they knew it, they were surrounded by countless cats.\n\"Come on, take them.\"{p}So, what do you think they answered?\n"
+  },
+  {
+   "id": "11:ca04",
+   "op": "choice",
+   "en": "We'll take them"
+  },
+  {
+   "id": "11:ca0c",
+   "op": "choice",
+   "en": "We don't want to take them"
+  },
+  {
+   "id": "11:ca1c",
+   "op": "text",
+   "follows_choice": [
+    "11:ca04"
+   ],
+   "en": "\"Fine, we'll take them.\nThat's what you want, right?\"\nThat's what they answered.\n\"Thank you...\"{p}"
+  },
+  {
+   "id": "11:ca80",
+   "op": "text",
+   "en": "When Takeda had answered, she suddenly vanished, cats and all.\nAnd there, a few cats had been left behind.\n\"C-cats...\"\n\"Wh-what do we do?\"\n\"But if we don't keep our promise.......\"\nEach of them took one cat home.{p}"
+  },
+  {
+   "id": "11:cb64",
+   "op": "text",
+   "en": "For a while, partly out of fear, they took good care of them.\nThen one day, one of the girls had a favorite outfit of hers torn up by her cat.\nShe took the cat outside and roughly dumped it.\n\"Stupid cat, who needs you?\"{p}"
+  },
+  {
+   "id": "11:cc4c",
+   "op": "text",
+   "en": "And on her way back, she was run over by a truck."
+  },
+  {
+   "id": "11:cc90",
+   "op": "text",
+   "en": "{p}"
+  },
+  {
+   "id": "11:ccb0",
+   "op": "text",
+   "en": "It crushed her head under its wheels, too.\nThey say the cat she had dumped came to the spot and lapped away at her brains, lick, lick.{p}"
+  },
+  {
+   "id": "11:cd34",
+   "op": "text",
+   "en": "When they heard about it, the rest of them could feel death closing in on them too.\nEspecially the girl who had already thrown her cat out of the house.\n\"If she had dumped her cat sooner, I would never have thrown mine out...\nEven back then, I wasn't the one bullying Takeda.\nTh-then why is this happening to me?\nThat's right, the one who should die is her, the one who led it all.\"\nShe sat huddled in a corner of her room, hugging her knees and shaking all over.\nThen she abruptly stood up, made a phone call, and left the house.{p}"
+  },
+  {
+   "id": "11:cf10",
+   "op": "text",
+   "en": "She went to the park.\nThe friend she had called out a little earlier was waiting for her there.\n"
+  },
+  {
+   "id": "11:cf70",
+   "op": "text",
+   "en": "She slowly circled around behind her friend, lifted a rock, and brought it down on her friend's head.{p}"
+  },
+  {
+   "id": "11:cfe0",
+   "op": "text",
+   "en": "\"If you die, I'll be saved...\"\nAs she stood there, cats gathered from out of nowhere.\nAnd they began licking the blood of the girl lying on the ground.\nShe watched blankly for a while, but as her terror mounted, she tried to slip away.{p}"
+  }
+ ]
+}

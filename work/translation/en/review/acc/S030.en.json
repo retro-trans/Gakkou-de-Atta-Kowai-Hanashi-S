@@ -1,0 +1,479 @@
+{
+ "slice": "S030",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S029",
+ "next": "S031",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:1c540",
+   "op": "text",
+   "follows_choice": [
+    "07:1c0a4"
+   ],
+   "en": "I decided to go to the fifth classroom from the left.{p}"
+  },
+  {
+   "id": "07:1c57c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1c6a8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1c6b8",
+   "op": "text",
+   "follows_choice": [
+    "07:1c0c4"
+   ],
+   "en": "I decided to go to the classroom on the far right.{p}"
+  },
+  {
+   "id": "07:1c6f0",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1c81c",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1c82c",
+   "op": "text",
+   "follows_choice": [
+    "07:1c06c"
+   ],
+   "en": "I decided to go to the classroom on the far left.{p}"
+  },
+  {
+   "id": "07:1c864",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around.\nJust then, a gust of wind blew in at me.\nWhen I looked, I saw that a window was broken.{p}Should I go over and take a closer look?\n"
+  },
+  {
+   "id": "07:1c8e8",
+   "op": "choice",
+   "en": "Go over"
+  },
+  {
+   "id": "07:1c8f0",
+   "op": "choice",
+   "en": "Don't go"
+  },
+  {
+   "id": "07:1c8fc",
+   "op": "text",
+   "follows_choice": [
+    "07:1c8f0"
+   ],
+   "en": "There was no need for that.{p}"
+  },
+  {
+   "id": "07:1c928",
+   "op": "text",
+   "en": "Now, where should I go?\n"
+  },
+  {
+   "id": "07:1c940",
+   "op": "text",
+   "follows_choice": [
+    "07:1c8e8"
+   ],
+   "en": "I went up to the window.\nHardly any glass was left in the frame.\nSomeone had really gone to town smashing it.{p}"
+  },
+  {
+   "id": "07:1c9a4",
+   "op": "text",
+   "en": "I peered down from the window.\nJust then, a chill ran down my back.\nWas someone watching me★{p}"
+  },
+  {
+   "id": "07:1ca04",
+   "op": "text",
+   "en": "I spun around.\n...But no one was there.\nWas Hino watching me from somewhere?\nOr was it the evil spirit said to lurk in this old school building?\nEither way, it gave me a bad feeling.\nI moved away from the window.{p}"
+  },
+  {
+   "id": "07:1cabc",
+   "op": "text",
+   "en": "Now, where should I go next?\n"
+  },
+  {
+   "id": "07:1cadc",
+   "op": "text",
+   "follows_choice": [
+    "07:1c0b4"
+   ],
+   "en": "I went to the sixth classroom from the left.{p}"
+  },
+  {
+   "id": "07:1cb10",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around.\nNothing particularly out of place...\nThere it was.\nA small pouch sat all alone on a desk, as if someone had left it behind.\nMy heart gave a jolt.\nCould the ampoule be inside it?\nThe pouch was tied tightly shut with a cord.\nWith fingers slippery with sweat, I fumbled impatiently at the knot.\nThen I shoved my hand inside.{p}"
+  },
+  {
+   "id": "07:1cc40",
+   "op": "text",
+   "en": "\"Ow★\"\nA searing pain shot through my finger.\nWhen I looked, there was a cut.\nBlood was pouring out of it.\nSomeone had planted a razor blade inside the pouch.\nWhat a vicious, underhanded trick.\nIt had to be Hino and his gang.\nUsing my mouth and my free hand, I somehow managed to cover the wound with my handkerchief.\nThe throbbing pain pounded inside my head.\nThe cut seemed to be deeper than it looked.\nIn no time at all, the handkerchief was soaked red.\nI felt like I was about to pass out.\nNow I had to hurry even more than before.\nIf the bleeding didn't stop, my body would give out before the poison even had a chance to spread.{p}"
+  },
+  {
+   "id": "07:1ce34",
+   "op": "text",
+   "en": "I had to hurry.\n"
+  },
+  {
+   "id": "07:1ce48",
+   "op": "text",
+   "en": "I decided to go to the sixth classroom from the left.{p}"
+  },
+  {
+   "id": "07:1ce84",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1cfb0",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1cfc0",
+   "op": "text",
+   "follows_choice": [
+    "07:1c0cc"
+   ],
+   "en": "That was enough of the second-floor classrooms for now.\n"
+  },
+  {
+   "id": "07:1cff4",
+   "op": "text",
+   "follows_choice": [
+    "07:f4c4"
+   ],
+   "en": "I decided to go to the second-floor restrooms.\nThere was a boys' restroom and a girls' restroom.{p}Which one should I search?\n"
+  },
+  {
+   "id": "07:1d05c",
+   "op": "choice",
+   "en": "The boys' restroom"
+  },
+  {
+   "id": "07:1d068",
+   "op": "choice",
+   "en": "The girls' restroom"
+  },
+  {
+   "id": "07:1d074",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d080",
+   "op": "text",
+   "follows_choice": [
+    "07:1d05c"
+   ],
+   "en": "I decided to search the second-floor boys' restroom.{p}"
+  },
+  {
+   "id": "07:1d0bc",
+   "op": "text",
+   "en": "Man, what a filthy restroom.\n"
+  },
+  {
+   "id": "07:1d0dc",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:1d0ec",
+   "op": "choice",
+   "en": "The toilet in the far stall"
+  },
+  {
+   "id": "07:1d100",
+   "op": "choice",
+   "en": "The toilet in the near stall"
+  },
+  {
+   "id": "07:1d114",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d120",
+   "op": "text",
+   "follows_choice": [
+    "07:1d0dc"
+   ],
+   "en": "I shone my light on the row of four urinals.\nThere was nothing the least bit suspicious about the dingy gray urinals.{p}Now, where should I search?\n"
+  },
+  {
+   "id": "07:1d1a8",
+   "op": "text",
+   "follows_choice": [
+    "07:1d0ec"
+   ],
+   "en": "I decided to check the stall at the back.{p}"
+  },
+  {
+   "id": "07:1d1e8",
+   "op": "text",
+   "en": "...Surely it couldn't be inside this toilet bowl, could it?\nI searched it thoroughly.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:1d250",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d260",
+   "op": "text",
+   "follows_choice": [
+    "07:1d100"
+   ],
+   "en": "I decided to check the nearest toilet stall, the 'number two' kind.{p}"
+  },
+  {
+   "id": "07:1d2a4",
+   "op": "text",
+   "en": "Just to be sure, I looked inside the bowl, practically sticking my flashlight into it.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:1d304",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:1d314",
+   "op": "text",
+   "follows_choice": [
+    "07:1d114"
+   ],
+   "en": "I decided to search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d344",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:1d360",
+   "op": "text",
+   "follows_choice": [
+    "07:1d068"
+   ],
+   "en": "There are four stalls in the girls' restroom.{p}Where will you search?\n"
+  },
+  {
+   "id": "07:1d394",
+   "op": "choice",
+   "en": "The one at the far end"
+  },
+  {
+   "id": "07:1d39c",
+   "op": "choice",
+   "en": "Second from the far end"
+  },
+  {
+   "id": "07:1d3ac",
+   "op": "choice",
+   "en": "Third from the far end"
+  },
+  {
+   "id": "07:1d3bc",
+   "op": "choice",
+   "en": "The one nearest the door"
+  },
+  {
+   "id": "07:1d3c8",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d3d4",
+   "op": "text",
+   "follows_choice": [
+    "07:1d394"
+   ],
+   "en": "I decided to search the stall at the very back.{p}"
+  },
+  {
+   "id": "07:1d40c",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d474",
+   "op": "text",
+   "en": "Which one should I search?\n"
+  },
+  {
+   "id": "07:1d484",
+   "op": "text",
+   "follows_choice": [
+    "07:1d39c"
+   ],
+   "en": "I decided to search the second stall from the back.{p}"
+  },
+  {
+   "id": "07:1d4c0",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d528",
+   "op": "text",
+   "en": "Which one should I search?\n"
+  },
+  {
+   "id": "07:1d538",
+   "op": "text",
+   "follows_choice": [
+    "07:1d3ac"
+   ],
+   "en": "I decided to search the third stall from the back.{p}"
+  },
+  {
+   "id": "07:1d574",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d5dc",
+   "op": "text",
+   "en": "Which one should I search?\n"
+  },
+  {
+   "id": "07:1d5ec",
+   "op": "text",
+   "follows_choice": [
+    "07:1d3bc"
+   ],
+   "en": "I decided to search the nearest stall.{p}"
+  },
+  {
+   "id": "07:1d624",
+   "op": "text",
+   "en": "I shone my light inside.\nThen I searched every inch of the stall.\n...Nothing.\nNo good.\nI'll search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d68c",
+   "op": "text",
+   "en": "Which one should I search?\n"
+  },
+  {
+   "id": "07:1d69c",
+   "op": "text",
+   "follows_choice": [
+    "07:1d3c8"
+   ],
+   "en": "I decided to search somewhere else.{p}"
+  },
+  {
+   "id": "07:1d6cc",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:1d6e8",
+   "op": "text",
+   "follows_choice": [
+    "07:1d074"
+   ],
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1d704",
+   "op": "text",
+   "follows_choice": [
+    "07:f4d4"
+   ],
+   "en": "I decided to go to the classrooms on the third floor of the old school building.{p}"
+  },
+  {
+   "id": "07:1d744",
+   "op": "text",
+   "en": "The hallway floor looked ready to cave in any second.{p}Where on the third floor of the old school building should I go?\n"
+  },
+  {
+   "id": "07:1d780",
+   "op": "choice",
+   "en": "The far left"
+  },
+  {
+   "id": "07:1d788",
+   "op": "choice",
+   "en": "Second from the left"
+  },
+  {
+   "id": "07:1d798",
+   "op": "choice",
+   "en": "Third from the left"
+  },
+  {
+   "id": "07:1d7a8",
+   "op": "choice",
+   "en": "Fourth from the left"
+  },
+  {
+   "id": "07:1d7b8",
+   "op": "choice",
+   "en": "Fifth from the left"
+  },
+  {
+   "id": "07:1d7c8",
+   "op": "choice",
+   "en": "Sixth from the left"
+  },
+  {
+   "id": "07:1d7d8",
+   "op": "choice",
+   "en": "The far right"
+  },
+  {
+   "id": "07:1d7e0",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:1d7ec",
+   "op": "text",
+   "follows_choice": [
+    "07:1d780"
+   ],
+   "en": "I decided to go to the classroom on the far left.{p}"
+  },
+  {
+   "id": "07:1d824",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1d950",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:1d960",
+   "op": "text",
+   "follows_choice": [
+    "07:1d788"
+   ],
+   "en": "I decided to go to the second classroom from the left.{p}"
+  },
+  {
+   "id": "07:1d99c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:1dac8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  }
+ ]
+}

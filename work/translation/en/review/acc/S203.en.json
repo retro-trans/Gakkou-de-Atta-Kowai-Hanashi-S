@@ -1,0 +1,413 @@
+{
+ "slice": "S203",
+ "scene": "53",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S202",
+ "next": "S204",
+ "todo": [
+  "- S201 SCE53: agent treats the route as female-only (no {f} codes); confirm which gender reaches SCE53.",
+  "- S203 53:9588: may start a separate branch (timeout?); check the flow."
+ ],
+ "rows": [
+  {
+   "id": "53:6c1c",
+   "op": "text",
+   "en": "This is... blood★\nI hurriedly looked down and............!\n"
+  },
+  {
+   "id": "53:6c58",
+   "op": "text",
+   "en": "\"Eeeeeek☆\"\nKazama was there.\n...No.\nKazama's corpse was there...\nHis neck was bent at an unnatural angle, and blood was gushing out of him.\nHe was completely dead.\nEven so, he was still holding me tight.{p}...Kazama's body had cushioned my fall, and that was how I'd survived.\n"
+  },
+  {
+   "id": "53:6d64",
+   "op": "choice",
+   "en": "Poor Kazama..."
+  },
+  {
+   "id": "53:6d80",
+   "op": "choice",
+   "en": "Lucky!"
+  },
+  {
+   "id": "53:6d9c",
+   "op": "text",
+   "follows_choice": [
+    "53:6d64"
+   ],
+   "en": "Poor Kazama...\nHe protected me with his life, and all I ever did was say nasty things to him...\nBefore I knew it, tears were spilling from my eyes.\nHe always went at his own pace...\nHe never took anything seriously...\nHe was a weird guy, but...\n...somehow I just couldn't hate him.\n\"I should have gone on at least one date with him...\"\nCrying, I murmured those words.\nAnd then...{p}"
+  },
+  {
+   "id": "53:6f18",
+   "op": "text",
+   "en": "Kazama's head, which had been dangling limply, slowly rose, spun all the way around once, and looked at me.\nHis two eyes, wide open and glaring, gave off a golden light.\n\"I shall grant that wish.\"\nThe words that came from his slack, gaping mouth were heavy and cold, as if echoing up from the depths of the earth.{p}"
+  },
+  {
+   "id": "53:702c",
+   "op": "text",
+   "en": "Then ripples spread across the surface of the floor, and Kazama's corpse began sinking into it, down and down.\n\"Eek!\"\nAs if Kazama were dragging me in after him, my body sank into the floor too...\nThe more I struggled, the faster I sank.\nLike a bug that had fallen into an antlion's pit...\nAnd Kazama, who had dragged me in, would be the antlion larva, I suppose.{p}"
+  },
+  {
+   "id": "53:7174",
+   "op": "text",
+   "en": "\"I'm so happy.\nTo think I get to go on a date with you, {b}...\nFrom now on, we'll be together forever.\nHeh heh heh heh heh...\"{p}Deep in my fading consciousness, the antlion was laughing happily...{p}"
+  },
+  {
+   "id": "53:7230",
+   "op": "text",
+   "follows_choice": [
+    "53:6488",
+    "53:78d0"
+   ],
+   "en": "...No, I'll run after all.\nGetting away comes first, no matter what.{p}"
+  },
+  {
+   "id": "53:7280",
+   "op": "text",
+   "en": "\"I'm getting out of here, even if I have to go by myself.\nPlease ask someone else on a date.\"\nI shook off Kazama's arms and stood on the floor of the landing on my own two feet.{p}"
+  },
+  {
+   "id": "53:7324",
+   "op": "text",
+   "en": "\"Wait!\"\nKazama grabbed my arm.\n\"Wait.\nAre you going to leave me too?\nEven though I'm trying this hard to stop you...?\"\n\"Let go of me.\nI promised to meet Shindo.\"\nI shook off Kazama's arm and carefully went down the stairs.\n\"I see!\nSo you were in love with him after all!\"\nFrom the top of the stairs came Kazama's voice, shaking with rage.\n"
+  },
+  {
+   "id": "53:7480",
+   "op": "text",
+   "en": "When I turned and looked up, Kazama was standing there with a terrifying look on his face.\nHis whole body was trembling, and his hair, radiating heat, wavered back and forth.\n\"To think you'd choose him over me...\nYou're wrong!\"\nWith his eyes fixed on me, Kazama slowly came down the stairs.\nHe looked like a demon, or a devil...\nUnder his glare, the strength drained out of my body.\nBefore I knew it, I had sunk down onto the stairs.{p}"
+  },
+  {
+   "id": "53:75f0",
+   "op": "text",
+   "en": "\"I'll never hand you over to some other guy.\nI'll make you see your mistake myself.\"\nWith an evil smile at the corner of his mouth, Kazama slowly reached out with both arms.\nHis cold arms touched my neck.\n\"Look, see?\nI'm there in your eyes.\nAnd you're there in my eyes, aren't you?\nThat's because we're lovers who love each other.\"\nHis outstretched arms tightened their grip.\nIt's over...{p}"
+  },
+  {
+   "id": "53:778c",
+   "op": "text",
+   "en": "I closed my eyes.\nBecause that was the only resistance I could put up...{p}After all, if I'm going to see something in my final moment, I want it to be the smile of the person I love.{p}"
+  },
+  {
+   "id": "53:781c",
+   "op": "text",
+   "follows_choice": [
+    "53:6498"
+   ],
+   "en": "What do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...{p}"
+  },
+  {
+   "id": "53:788c",
+   "op": "text",
+   "en": "............Oh! Right, I don't have time to waste dithering.\n"
+  },
+  {
+   "id": "53:78bc",
+   "op": "choice",
+   "en": "Go on a date with Kazama"
+  },
+  {
+   "id": "53:78d0",
+   "op": "choice",
+   "en": "Just run"
+  },
+  {
+   "id": "53:7904",
+   "op": "text",
+   "follows_choice": [
+    "53:65c4",
+    "53:85f0"
+   ],
+   "en": "\"Yes, I want to go on a date with you, Kazama.\"\n...If I call it a date, I can just get him to take me to the school gate.\nI'm so smart!\n\"Is that so, is that so?\nYou're a sweet girl.\"\n\"So, I have a favor to ask...\"\n\"Hm?\nWhat is it? Go ahead, ask me anything.\"\n...Yes! This is what I was waiting for.\n\"There's a place that's really popular with girls as a date spot right now.\nI'd love to go there...\"\n\"Oh...?\nAnd where would that be?\"\n\"The school gate!\"\n\"Huh, the school gate, eh...\"\nKazama was grinning.{p}"
+  },
+  {
+   "id": "53:7ae4",
+   "op": "text",
+   "en": "...Was that a bit too forced?\n\"I know dates at the school gate used to be all the rage, but they're out of style now.\"\n\"...Huh?\"\n\"The place that's about to be in the spotlight as the hot date spot is right here!\"\n...'Here'? This is a staircase!\nI thought a date at the school gate was ridiculous enough, but the stairs......★{p}"
+  },
+  {
+   "id": "53:7c10",
+   "op": "text",
+   "en": "\"{b}...\nDo you know what this place is called?\nIt's called the landing, the 'odoriba'.\nIn other words, the place where you dance.\nCome on, you've gotta dance, baby.\"\n\"Wh-what?\"\n"
+  },
+  {
+   "id": "53:7cc8",
+   "op": "text",
+   "en": "\"C'mon, music!\n............Oom-pa-pa-pa, ta-ta-tum.\nTum-tum-ta-tum, hmm-hmm-hm-hmm............\"\nHumming a dubious tune, Kazama began doing some sloppy dance steps.\nHe spun around to the right, then to the left, hopping up and down.{p}What part of this is supposed to be a date?\n"
+  },
+  {
+   "id": "53:7de8",
+   "op": "choice",
+   "en": "Sneak away while I have the chance"
+  },
+  {
+   "id": "53:7e04",
+   "op": "choice",
+   "en": "Dance with him"
+  },
+  {
+   "id": "53:7e10",
+   "op": "choice",
+   "en": "What do I do..."
+  },
+  {
+   "id": "53:7e34",
+   "op": "text",
+   "follows_choice": [
+    "53:8a30"
+   ],
+   "en": "But...\nWatching him, I started itching to move too.\nI think I'll try dancing along with him.{p}"
+  },
+  {
+   "id": "53:7ea4",
+   "op": "text",
+   "en": "\"............Oom-pa-pa-pa, ta-ta-tum.\nTum-tum-ta-tum, hmm-hmm-hm-hmm............\"\nNo way, dancing is actually pretty fun!\nHow should I put it... it's this unique rhythm.\nIt's getting me all bouncy and excited.{p}"
+  },
+  {
+   "id": "53:7f7c",
+   "op": "text",
+   "en": "\"Oh, that's my {b}.\nYou've got a pretty good sense of rhythm.\nAlright, let's pick up the tempo even more!\n...Boom-ta, boom-ta, bom-bom-bom.\nTrot-trot, trot-trot...\n...La-la-la, la-la-la-la............\nThere, take a look.\nAll sorts of things have gathered, drawn in by your dancing.\"\n\"What...?\"\nAt Kazama's urging, I looked around.{p}"
+  },
+  {
+   "id": "53:80d0",
+   "op": "text",
+   "en": "...And all around us, packed in tight, all sorts of people had gathered.\nEvery one of them had a pale, lifeless face...\nEven so, they were dancing desperately.\nEyes glittering, teeth clenched, they kept on stepping.\n...What on earth is wrong with all of you?\nIs dancing like that any fun?{p}"
+  },
+  {
+   "id": "53:81dc",
+   "op": "text",
+   "en": "\"{b}, take a look at everyone's feet.\"\nLaughing gleefully, Kazama spoke to me.\nEveryone's feet...?{p}"
+  },
+  {
+   "id": "53:825c",
+   "op": "text",
+   "en": "Oh, they're all wearing red shoes.\nMen and women alike...\nAll of them were dancing in matching bright red shoes.\nBut those were...{p}"
+  },
+  {
+   "id": "53:82f0",
+   "op": "text",
+   "en": "............Blood!{p}"
+  },
+  {
+   "id": "53:8308",
+   "op": "text",
+   "en": "They weren't wearing red shoes. Blood was streaming from their feet!\nThey'd all been dancing with blood flowing from their feet★\nAmong the dancers, dancing as if possessed, I spotted Shindo.\nIwashita was there too.\nAnd... Fukuzawa, and Hosoda too...\nThe one in the far corner over there was Arai...\nOn their feet too, I could see bright red shoes.{p}"
+  },
+  {
+   "id": "53:844c",
+   "op": "text",
+   "en": "\"Now, these are your shoes.\"\nThe devil with Kazama's face pointed at my feet, looking as if he were enjoying this more than he could stand.{p}"
+  },
+  {
+   "id": "53:84c8",
+   "op": "text",
+   "en": "There, on my feet, were red shoes all my own...{p}Ahh............\nSo I have to keep dancing too.\nThe devil's dance, going on and on with no end in sight............{p}"
+  },
+  {
+   "id": "53:8564",
+   "op": "text",
+   "follows_choice": [
+    "53:65fc"
+   ],
+   "en": "What do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...{p}"
+  },
+  {
+   "id": "53:85c4",
+   "op": "text",
+   "en": "............Oh! I can't just keep dithering.\n"
+  },
+  {
+   "id": "53:85f0",
+   "op": "choice",
+   "en": "Tell him I want to go on a date"
+  },
+  {
+   "id": "53:860c",
+   "op": "choice",
+   "en": "Tell him I don't want to go on a date"
+  },
+  {
+   "id": "53:8630",
+   "op": "text",
+   "follows_choice": [
+    "53:697c"
+   ],
+   "en": "\"We are NOT lovers!\nPut me down right now.\nI'm going home by myself!\"\nI shook off Kazama's arms and stood on the floor of the landing on my own two feet.{p}"
+  },
+  {
+   "id": "53:86e4",
+   "op": "text",
+   "follows_choice": [
+    "53:6d80"
+   ],
+   "en": "Lucky!\nAren't I just the luckiest?\nIt might have been a disaster for Kazama, but he brought the accident on himself.\n"
+  },
+  {
+   "id": "53:8758",
+   "op": "text",
+   "en": "It's not my fault.{p}"
+  },
+  {
+   "id": "53:8778",
+   "op": "text",
+   "en": "But to fall down the stairs without a single scratch...\nIt must be because I'm always such a good girl.\nNow, I need to get out of here, fast.{p}"
+  },
+  {
+   "id": "53:880c",
+   "op": "text",
+   "follows_choice": [
+    "53:7de8",
+    "53:8a14"
+   ],
+   "en": "I'll sneak away while I have the chance.\nI tiptoed, ever so quietly, to the edge of the stairs.{p}"
+  },
+  {
+   "id": "53:8864",
+   "op": "text",
+   "en": "\"Huh? {b}, where are you going?\"\n...Oh no!\nHe spotted me.{p}Hmm, how should I answer him?\n"
+  },
+  {
+   "id": "53:88c8",
+   "op": "choice",
+   "en": "I'm getting out of here"
+  },
+  {
+   "id": "53:88e0",
+   "op": "choice",
+   "en": "Just... to the restroom"
+  },
+  {
+   "id": "53:88f8",
+   "op": "choice",
+   "en": "I'm not going anywhere"
+  },
+  {
+   "id": "53:8914",
+   "op": "text",
+   "follows_choice": [
+    "53:88c8"
+   ],
+   "en": "\"What do you mean, where...\nI'm getting out of here, that's where.\"{p}"
+  },
+  {
+   "id": "53:8978",
+   "op": "text",
+   "follows_choice": [
+    "53:7e10"
+   ],
+   "en": "What do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...{p}"
+  },
+  {
+   "id": "53:89e8",
+   "op": "text",
+   "en": "............Oh! This is no time to dither.\n"
+  },
+  {
+   "id": "53:8a14",
+   "op": "choice",
+   "en": "Sneak away while I have the chance"
+  },
+  {
+   "id": "53:8a30",
+   "op": "choice",
+   "en": "Dance with him"
+  },
+  {
+   "id": "53:8a3c",
+   "op": "text",
+   "follows_choice": [
+    "53:88e0"
+   ],
+   "en": "\"Um, well...\nI'm just, uh... going to the restroom............\"\n...He can totally see through that, can't he?\nBut that was the only excuse I could come up with on the spot.\n\"Oh, I see.\nWell then, be careful.\"{p}"
+  },
+  {
+   "id": "53:8b08",
+   "op": "text",
+   "en": "With that, Kazama went off down the stairs, still dancing.\n............Somehow he really throws me off.\nOh well...\nI need to get out of this place quickly too!{p}"
+  },
+  {
+   "id": "53:8bb8",
+   "op": "text",
+   "en": "...And then, somehow, I really did need to go to the restroom.\nRestroom... restroom............\nI hurried to the restroom.\nAnd then...{p}"
+  },
+  {
+   "id": "53:8c4c",
+   "op": "text",
+   "en": "\"Hey, {a}.\nYou need the restroom too?\"\nSuddenly, Hosoda appeared right in front of me.\nHe was standing in the narrow entrance as if to block my way.\n...He's in the way. I wish he'd move.\n\"Restrooms are nice, aren't they?\nMe... I feel more at ease in a cramped restroom than in any luxurious room.\"\nAnd anyway, what is this guy doing in front of the girls' restroom?\nCould he be some kind of pervert...?\n\"Um, Hosoda...\nThis is... the girls' restroom, isn't it?\"{p}"
+  },
+  {
+   "id": "53:8de8",
+   "op": "text",
+   "en": "\"That's right.\nYou see, I figured that if I waited in the girls' restroom, I'd be sure to meet you.\nBut you just weren't coming, so I was about to give up.\nBut I'm glad... that you came.\"\nHosoda forcibly took my hand and shook it.\nAnd then,\n\"Well then, {a}, get home safe.\nHee hee hee hee...\"{p}"
+  },
+  {
+   "id": "53:8f30",
+   "op": "text",
+   "en": "...he said, and with a wave he went off down the dim hallway.\nKazama's weird, but Hosoda's a pretty strange one too...\nWhere on earth did Hino ever meet people like them?\nAround the time Hosoda's back disappeared from view...\nI noticed something strange clutched in my hand.{p}"
+  },
+  {
+   "id": "53:904c",
+   "op": "text",
+   "en": "...What is it?\nI slowly opened my hand.{p}"
+  },
+  {
+   "id": "53:9094",
+   "op": "text",
+   "en": "\"Eek...☆\"\nWhat was clutched in my hand was a knife smeared with blood.\nWhen did this get here...★\nAh, it was when we shook hands just now.\nThat handshake was to make me hold this knife...☆\nThen where did this blood come from...?\nFearfully, I peered into the restroom.{p}"
+  },
+  {
+   "id": "53:91a8",
+   "op": "text",
+   "en": "A thick, nose-stinging stench made me shut my eyes without thinking.\nIt wasn't just the usual restroom smell.\nIt was more like the smell of iron, and yet somehow raw and fishy...\nWhat on earth was that smell...?{p}"
+  },
+  {
+   "id": "53:926c",
+   "op": "text",
+   "en": "The moment I opened my eyes, wondering that, my gaze was nailed to the floor.\n\"Ah... ahh...\"\nI was so shocked I couldn't even scream.\nIwashita was lying face up on the floor.\nHer throat had been slit straight across, and the blood that had flowed from it had dyed everything around her bright red.\n...Did Hosoda do this?\nLooking back and forth between the knife forced into my hand and Iwashita's corpse, I was certain of it.\n"
+  },
+  {
+   "id": "53:93e4",
+   "op": "text",
+   "en": "From far off, I could hear police sirens.\nHosoda must have called them.\nSeeing this, how many people would ever believe what I say...?{p}Sinking unsteadily down into the pool of bright red blood, I pictured the red siren lights I would surely be seeing any moment now.{p}"
+  },
+  {
+   "id": "53:94f4",
+   "op": "text",
+   "follows_choice": [
+    "53:88f8"
+   ],
+   "en": "\"I'm not going anywhere in particular.\"\n\"No?\nThen let's dance together.\"\n"
+  },
+  {
+   "id": "53:954c",
+   "op": "text",
+   "en": "...Oh well, I guess I'll humor him and dance a little.{p}"
+  },
+  {
+   "id": "53:9588",
+   "op": "text",
+   "en": "While I was still hesitating, everything before my eyes suddenly went dark.\nBefore I knew it, darkness had closed in all around me.\nWhere am I?\nWhere's Kazama...?{p}"
+  },
+  {
+   "id": "53:9628",
+   "op": "text",
+   "follows_choice": [
+    "53:2698"
+   ],
+   "en": "What do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...\nWhat do I do...{p}"
+  },
+  {
+   "id": "53:9688",
+   "op": "text",
+   "en": "............Oh! This is no time to dither.\n"
+  },
+  {
+   "id": "53:96b4",
+   "op": "choice",
+   "en": "Open my eyes"
+  },
+  {
+   "id": "53:96c0",
+   "op": "choice",
+   "en": "Keep my eyes closed"
+  }
+ ]
+}

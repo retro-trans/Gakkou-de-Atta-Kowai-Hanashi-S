@@ -1,0 +1,808 @@
+{
+ "chunk": "E111",
+ "scene": "60",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S216",
+  "S217"
+ ],
+ "prev": "E110",
+ "next": "E112",
+ "todo": [],
+ "rows": [
+  {
+   "id": "60:0850",
+   "op": "text",
+   "en": "I'm to go first?\nVery well.\nLet me see... shall I introduce myself first?\nMy name is Akemi Iwashita.\nI'm a third-year.\nNow then, to get right to it, {a}...?\nYou're in Class 1-E, aren't you?\nThen your classroom is on the third floor of the new school building.\nAt the far end of the long hallway.{p}...Isn't that right?\n"
+  },
+  {
+   "id": "60:0948",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "60:0950",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "60:0970",
+   "op": "text",
+   "en": "Heh heh...\nJust as I thought.\nThen naturally, you always use the stairs.{p}",
+   "follows_choice": [
+    "60:0948"
+   ]
+  },
+  {
+   "id": "60:09dc",
+   "op": "text",
+   "en": "I don't know which staircase you use, but you always pass through the front entrance on the first floor, don't you?{p}Did you know there's a shabby old bulletin board there?\n"
+  },
+  {
+   "id": "60:0a54",
+   "op": "choice",
+   "en": "I know it"
+  },
+  {
+   "id": "60:0a60",
+   "op": "choice",
+   "en": "I don't know it"
+  },
+  {
+   "id": "60:0a7c",
+   "op": "text",
+   "en": "I see, you don't know it.\nIt isn't a very eye-catching thing, after all.\nEven so, I'm sure you've seen it a few times.\nYou just haven't noticed it.\nOr perhaps you've been avoiding it without realizing...?\nThe story I'm about to tell you is about that bulletin board.{p}",
+   "follows_choice": [
+    "60:0a60"
+   ]
+  },
+  {
+   "id": "60:0b70",
+   "op": "text",
+   "en": "That bulletin board, you see, was left by students here... that is, by seniors many generations before us, as a graduation memento.\nInto the frame of the board,\n'The Graduating Class'\nhas been carved, after all.\nBut as for when that was...\nUnfortunately, no one knows for certain.\nAccording to the teachers who've been here longest, the board was there even before the new school building was built.{p}",
+   "returns": []
+  },
+  {
+   "id": "60:0cbc",
+   "op": "text",
+   "en": "Back then, it stood in a corner of the schoolyard, they say.\nWhen construction on the new school building began...\nthey decided to expand the schoolyard at the same time, so the board was moved as well.\nSo that the students could use it more easily...\nBut you know, not many people actually used that board.\nAnd no wonder.{p}"
+  },
+  {
+   "id": "60:0ddc",
+   "op": "text",
+   "en": "...A terrible curse is sealed inside that bulletin board...\nThat was a famous rumor among the students.\n'If you look at the board at midnight, a message from the spirit world will be posted on it, and whoever reads that message will die within three days.'\n'Anyone who tears a notice off the board without permission will be cursed.'\n'Anyone whose roll number and name are posted on the board on Friday the 13th will meet with misfortune.\nIt is the work of the ghost of a student who killed themselves some time ago.'\n'If you use a brand-new thumbtack on the board, you will be injured without fail.'\n...I've heard all sorts of rumors.\nBut you know, it's a fact that eerie notices have been posted there, and that students who used the board have had accidents.\nThey say some were caught up in crimes and lost their lives, and some even killed themselves.{p}"
+  },
+  {
+   "id": "60:1050",
+   "op": "text",
+   "en": "Say, {a}.{p}Do you know what that bulletin board is called?\n"
+  },
+  {
+   "id": "60:1098",
+   "op": "choice",
+   "en": "I know"
+  },
+  {
+   "id": "60:10a4",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "60:10b8",
+   "op": "text",
+   "en": "Heh heh...\nI'll tell you.\nIt's called 'the Board of Death.'\nA loathsome name, isn't it?{p}",
+   "follows_choice": [
+    "60:10a4"
+   ]
+  },
+  {
+   "id": "60:1140",
+   "op": "text",
+   "en": "Mind you, only the students called it that...\nTo the teachers, the board's curse was nothing but a story children had made up.\n\"There's no such thing as ghosts!\"\nSome teachers insisted on just that and nothing else, so there was no reasoning with them.\nOthers dragged out needlessly difficult psychology terms and tried to explain the rumors away with theory.\nAll of them said the very same thing.\n\"Curses don't exist.\nAccidents and crimes happen by pure coincidence!\"\n...Is that really so?\nDo coincidences really happen that easily?\n{a}...{p}What do you think?\n"
+  },
+  {
+   "id": "60:1308",
+   "op": "choice",
+   "en": "I think it's because of the curse"
+  },
+  {
+   "id": "60:131c",
+   "op": "choice",
+   "en": "There's no such thing as curses"
+  },
+  {
+   "id": "60:133c",
+   "op": "text",
+   "en": "No such thing as curses...\nSo that's what you think.\nI see...\nI can't blame you. You're still only a first-year.\nBut you'll only be able to think that way for now.\nBecause the board's curse is real...\nSomething happened when I was a first-year.\nThat was two years ago.\nThere may well be people who know about it, don't you think?{p}",
+   "follows_choice": [
+    "60:131c"
+   ]
+  },
+  {
+   "id": "60:1470",
+   "op": "text",
+   "en": "Back then, there was a school nurse named Eriko Akiyama.\nShe was still young and pretty, and it seems she often listened to the girls' worries and gave them advice.\nAmong the problems brought to her was the curse of the Board of Death.\nThe one who came to her about it was a schoolgirl.\n\"Ms. Akiyama, do you know about the Board of Death?\nIt's a bulletin board there are always ominous rumors about...\"\nOne day...{p}"
+  },
+  {
+   "id": "60:15d4",
+   "op": "text",
+   "en": "As punishment for dozing off in class, she got stuck cleaning the bulletin board.\nEveryone was so afraid of the curse that they hated even touching it, so the board was completely covered in dust.\nOld notices and new ones were plastered all over it, and to clean it she had to tear every one of them down.\nThe girl let out a sigh and began taking the notices down.\nIt wasn't that she didn't know the rumors, but being scolded by her teacher scared her even more than the board's curse.\nPartway through the job, her eyes were riveted to one sheet of paper.\nOn that paper,{p}"
+  },
+  {
+   "id": "60:17a4",
+   "op": "text",
+   "en": "'It's not fair'\n...was all it said, in red letters.\nIt bothered her a little at the time, but she tried not to think about it and hurried through the cleaning, apparently.\nOf course, she took that paper down and threw it away.{p}"
+  },
+  {
+   "id": "60:1860",
+   "op": "text",
+   "en": "For the next two or three days, nothing in particular happened, but...{p}"
+  },
+  {
+   "id": "60:18b8",
+   "op": "text",
+   "en": "\"Ms. Akiyama...\nI found this this morning.\"\nOn the paper the girl held out as she said that,{p}"
+  },
+  {
+   "id": "60:191c",
+   "op": "text",
+   "en": "'You're coming with me too'\nwas written in bright red ink, they say.\nWhen she saw that message, the board's curse truly terrified her.\nAnd so she went to Ms. Akiyama for advice.\nShe must have thought Ms. Akiyama, being close to her in age, would surely believe her about the curse.\nTo the desperate girl's plea, Ms. Akiyama smiled and said this.{p}"
+  },
+  {
+   "id": "60:1a50",
+   "op": "text",
+   "en": "\"Isn't it just someone's prank?\nGirls your age lose their mental balance easily, and you're very susceptible to suggestion.\nSome kids know that and play pranks on you.\nI remember being teased like that myself.\nAt times like this, you mustn't brood over it.\nYou have to laugh it off, cheerfully!\"\nSo Ms. Akiyama was just like the other teachers after all: someone who didn't believe in ghosts or curses.{p}"
+  },
+  {
+   "id": "60:1bc8",
+   "op": "text",
+   "en": "Ms. Akiyama didn't believe her, but her smile reassured the girl, who left the nurse's office looking somewhat calmer.\nBut then...!\nFrom the next day on, she was gone.\n...No.\nShe never went home that day, so to be precise, she vanished after she left the nurse's office... I should say.{p}"
+  },
+  {
+   "id": "60:1ce0",
+   "op": "text",
+   "en": "Her shoes were still in her shoe locker.\nSo she had to be somewhere in the school building.\nThe police came that morning and searched desperately for her.\nRight around that time...\na problem had come up among the students, too.{p}"
+  },
+  {
+   "id": "60:1dc0",
+   "op": "text",
+   "en": "It was that Board of Death.\nFrom around the time the girl went missing, there was an uproar over eerie messages being posted on it.\n'One student with a single-digit roll number will die'\n'Tomorrow, a student in Class 2-D will be injured'\n'I will curse whoever leaves the school building last after school'\nOne after another, ominous, prophecy-like messages like these kept being posted.\nSome people even found the photos from their student handbooks posted there, slashed to ribbons.\nStudents shaking so hard with fear they couldn't stop...\nAnd students who, the other way around, crowded in front of the board out of curiosity...{p}"
+  },
+  {
+   "id": "60:1f94",
+   "op": "text",
+   "en": "By the time the teachers rushed over, the area in front of the board had fallen into complete panic.\nThe teachers were desperate to send the confused students back to their classrooms.\nBut you know, not a single one of the students there would leave the spot.\nAll of them refused to move, as if their feet had put down roots.\nStrangely enough, the teachers couldn't leave that spot either.\nTheir voices scolding the students grew fainter and fainter...{p}"
+  },
+  {
+   "id": "60:2144",
+   "op": "text",
+   "en": "\"Everyone, what are you doing here...?\"\nWhen Ms. Akiyama showed up late, the eyes of everyone there were fixed on one spot on the board.\nWhere they were looking, there was a single sheet of paper.\nAnd on that paper, in bright red letters...{p}"
+  },
+  {
+   "id": "60:220c",
+   "op": "text",
+   "en": "'And you said there was no such thing as curses...'\nThe moment she saw that paper, Ms. Akiyama's face went pale.\nAnd then, little by little, it flushed red...\n\"How disgraceful, at a time like this☆\"\n"
+  },
+  {
+   "id": "60:22c0",
+   "op": "text",
+   "en": "Ms. Akiyama strode up to the board and ripped the paper off in one go.{p}"
+  },
+  {
+   "id": "60:2328",
+   "op": "text",
+   "en": "The thumbtack holding the paper went flying, and from the students crowded around rose small screams of mingled surprise and fear.\n\"This stupid thing! This stupid thing...☆\"\nThey say Ms. Akiyama, tearing the paper to shreds, looked just like a demon.\nHer wide-open eyes were bloodshot, and veins stood out sharply on her forehead...\nAnd when she finally stopped...{p}"
+  },
+  {
+   "id": "60:2468",
+   "op": "text",
+   "en": "\"Next it's your turn, Ms. Akiyama...\"\nFrom the crowd, silent until then, that murmur was suddenly heard.\nWhether the voice reached her or not...\nMs. Akiyama, her shoulders heaving with each breath, staggered away.\nThe next morning...{p}"
+  },
+  {
+   "id": "60:2568",
+   "op": "text",
+   "en": "...Say, {a}.\nI was in Class 1-E too.\nThe classroom at the end of the third-floor hallway.\n...Same as you.\nHeh heh...\nEvery morning, I went through the front entrance and headed for the stairs at the end of the hallway.\nI like empty classrooms.\nSo I get to school before anyone else, and I hardly ever run into anyone.\nBut then...\nThat day, as I was heading for the classroom as usual, a woman was standing by the bulletin board.{p}"
+  },
+  {
+   "id": "60:2700",
+   "op": "text",
+   "en": "It was Ms. Akiyama.\nWith her back to the board, her arms spread wide...\n...What on earth was she doing?\nI walked closer, meaning to call out to her.\n\"Ms. Akiyama......?\"\nAt that moment, I felt something slimy squish under my indoor shoes.{p}"
+  },
+  {
+   "id": "60:27dc",
+   "op": "text",
+   "en": "When I looked down, there at my feet was a pool of bright red blood☆\nMs. Akiyama hadn't been standing in front of the board.\nShe had been pinned up on it.\nNails had been driven into her neck and wrists, and bright red blood was pouring out of them.{p}"
+  },
+  {
+   "id": "60:28c4",
+   "op": "text",
+   "en": "Just as someone's murmured prophecy said, this time Ms. Akiyama had fallen victim to the curse.\nAfter the police came and looked into all sorts of things, it was ruled that she had been killed by a deviant who had gotten into the school.\nStill, the teachers had stopped denying the students' rumors.\nBecause the way Ms. Akiyama had acted the day before was just too eerie.\nAnd so they decided to take the Board of Death down, but...{p}"
+  },
+  {
+   "id": "60:2a40",
+   "op": "text",
+   "en": "Whenever they tried to start the work, someone always got hurt.\nSomeone would hit their arm with a hammer, step on a nail, or have something fall on them from above...\nIt had always had ominous rumors about it, and people had even died.\nWith accidents like that on top of it all, of course everyone would hate to touch it.\nThat's why that board is still there even now.\nHeh... even now, two years later, the bloodstains and nail holes are still plain to see.\nYou should take a good look at it on your way home today.{p}"
+  },
+  {
+   "id": "60:2bbc",
+   "op": "text",
+   "en": "I hear a new message has been posted on it again recently.\nAs for what sort of message it is...\nyou'll have to see for yourself.\nThat's the end of my story.\nShall we move on to the next one...{p}"
+  },
+  {
+   "id": "60:2c74",
+   "op": "text",
+   "en": "By the way, {a}...{p}You told a lie a little while ago, didn't you?\n"
+  },
+  {
+   "id": "60:2cb0",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "60:2cb8",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "60:2cd8",
+   "op": "text",
+   "en": "Heh heh...\nThat's right. You weren't supposed to know the board existed.\n...And yet you knew what it was called.\nIf you're aware of it...\nthen you lied on purpose.{p}",
+   "follows_choice": [
+    "60:2cb0"
+   ]
+  },
+  {
+   "id": "60:2da8",
+   "op": "text",
+   "en": "I truly, truly hate liars.\nListen.\nThe board's curse is still going on.\nIf you keep up that attitude, you'll be cursed someday.\nIt's simple.\nAll it takes is posting a paper with your name and roll number on the board on Friday the 13th.\nAfter that, everyone else will spread the rumor for me.{p}"
+  },
+  {
+   "id": "60:2ed4",
+   "op": "text",
+   "en": "Heh heh...\nDo be careful, {a}.\n...That's the end of my story.\nWhose turn is it next, I wonder...?{p}"
+  },
+  {
+   "id": "60:2f48",
+   "op": "text",
+   "en": "Oh my, have you forgotten already?\nYou weren't supposed to know the board existed.\n...So how did you know what it was called?{p}",
+   "follows_choice": [
+    "60:2cb8"
+   ]
+  },
+  {
+   "id": "60:2fd0",
+   "op": "text",
+   "en": "Heh heh...\nYou knew about the board all along, but you answered that you didn't, isn't that so?\n...See, you did lie.{p}"
+  },
+  {
+   "id": "60:3058",
+   "op": "text",
+   "en": "Oh, you know it?\n...That's a little surprising.\nWell, never mind.{p}",
+   "follows_choice": [
+    "60:1098"
+   ]
+  },
+  {
+   "id": "60:3098",
+   "op": "text",
+   "en": "Heh... but still...\nWho on earth started calling it 'the Board of Death,' I wonder?\nIt's a loathsome name, isn't it.{p}"
+  },
+  {
+   "id": "60:3128",
+   "op": "text",
+   "en": "So you do think it's because of the curse.\nI'm glad.\nThat you believe my story...\nI know, let's all go and see it now.\nIt isn't that late yet, and you'd feel braver with everyone together, wouldn't you?{p}Come now...\n",
+   "follows_choice": [
+    "60:1308"
+   ]
+  },
+  {
+   "id": "60:31f8",
+   "op": "choice",
+   "en": "Let's go"
+  },
+  {
+   "id": "60:3208",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "60:322c",
+   "op": "text",
+   "en": "Good.\nI thought you'd say that.{p}",
+   "follows_choice": [
+    "60:31f8"
+   ]
+  },
+  {
+   "id": "60:3264",
+   "op": "text",
+   "en": "Oh yes, {a}.\nThis is for your article, isn't it?\nDon't you need to bring your camera?\nHere, hold it tight.\nHeh heh...\nIs there film in it?\nI see...\nThen we're all set.\nWell then, shall we go?{p}"
+  },
+  {
+   "id": "60:3354",
+   "op": "text",
+   "en": "...Here we are.\nYou pass through here every day, don't you?\nThe bulletin board is, look, on that wall.{p}Is it too dim for you to make it out...?\n"
+  },
+  {
+   "id": "60:33cc",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "60:33d4",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "60:33f8",
+   "op": "text",
+   "en": "That is the Board of Death.\nIt's old, but it's big, isn't it?{p}Shall we go a little closer...?\n",
+   "follows_choice": [
+    "60:33d4"
+   ]
+  },
+  {
+   "id": "60:3454",
+   "op": "choice",
+   "en": "Go closer"
+  },
+  {
+   "id": "60:345c",
+   "op": "choice",
+   "en": "This is close enough"
+  },
+  {
+   "id": "60:346c",
+   "op": "choice",
+   "en": "I want to go back to the club room"
+  },
+  {
+   "id": "60:349c",
+   "op": "text",
+   "en": "There, from this close you can make out every little detail, can't you?\n",
+   "follows_choice": [
+    "60:3454"
+   ]
+  },
+  {
+   "id": "60:34d4",
+   "op": "text",
+   "en": "What a shame.\nThere's nothing posted on it...\nI'm sorry.\nI got your hopes up, didn't I?\n"
+  },
+  {
+   "id": "60:353c",
+   "op": "text",
+   "en": "But take a good look at this board...\nSee, right here.\n"
+  },
+  {
+   "id": "60:3570",
+   "op": "text",
+   "en": "Here on the frame...\nYou can see words carved into it, can't you?\nAt Iwashita's urging, I peered closely at the board.{p}"
+  },
+  {
+   "id": "60:35f0",
+   "op": "text",
+   "en": "\"She's right...\"\nSure enough, there are the words\n'The Graduating Class'\n...carved there.\nWhy would a graduation gift have ended up cursed...?\nHuh?\nSomething seems to be carved up near the top, too.\nWhat could it be...?\nLet's see...{p}"
+  },
+  {
+   "id": "60:36d8",
+   "op": "text",
+   "en": "\"Between the students......\"\nNo good, the next characters are too scratched up to read.\nBut the ones after them seem fine.\n\"To deep...en the...... between the students...?\nOh, I see...{p}"
+  },
+  {
+   "id": "60:3794",
+   "op": "text",
+   "en": "'To deepen the ... between students. The Graduating Class'\n...That's what it says.\nThese graduates must have given us this board with the wish... that we would have a happy school life.\nAnd yet, if they knew that board was called 'the Board of Death,' how sad they would be...{p}"
+  },
+  {
+   "id": "60:38b0",
+   "op": "text",
+   "en": "\"{a}, shall we head back soon?\nIt's getting cold.\"\nIwashita and the other five all look somehow uneasy.\nI suppose so...\nI've confirmed it's a graduation memento, so all that's left is...\n\"Then I'll just take one last photo.\"{p}"
+  },
+  {
+   "id": "60:39a8",
+   "op": "text",
+   "en": "With that, I raised my camera.\nBut then...\n\"Huh...?\"\nWhat's wrong?\nThe shutter won't release.\nThere's film in it, and the flash is...\nWhy...★{p}"
+  },
+  {
+   "id": "60:3a70",
+   "op": "text",
+   "en": "\"Is something wrong?\"\n\"Yes, the shutter won't release.\nThere shouldn't be anything wrong with it, though...\"\n\"Why don't you try one more time?\"\n\"Okay...\"{p}"
+  },
+  {
+   "id": "60:3b10",
+   "op": "text",
+   "en": "As if in prayer, I raised the camera once more.\n...Please!\nAt that instant...☆{p}"
+  },
+  {
+   "id": "60:3b74",
+   "op": "text",
+   "en": "There was a tremendous crackling snap, and for an instant everything before my eyes went white.{p}"
+  },
+  {
+   "id": "60:3bd0",
+   "op": "text",
+   "en": "My vision went right back to normal, but my whole body was numb.\n\"{a}...!\"\n\"You okay★\"\nEveryone rushed over in surprise.\n\"That was something, huh?\"\n\"Yeah, it flashed for a second.\"\n\"It seems to have been static electricity.\nStill, I've never seen it flash that violently before.\"\nApparently, the instant I pressed the shutter, a current ran right through my body...{p}"
+  },
+  {
+   "id": "60:3d30",
+   "op": "text",
+   "en": "\"Let's go back, quickly. It's dangerous to stay here any longer.\"\nHeld up by the others, my body still numb, I somehow made it back to the club room.{p}"
+  },
+  {
+   "id": "60:3dc4",
+   "op": "text",
+   "en": "Little by little, the feeling came back to my arms and legs...\n\"I'm sorry. I never imagined something like this would happen...\"\nIwashita said it with her head still bowed.\n\"No, really. I'm fine.\nPlease don't worry so much.\"{p}"
+  },
+  {
+   "id": "60:3ea0",
+   "op": "text",
+   "en": "\"Really...?\"{p}"
+  },
+  {
+   "id": "60:3eb4",
+   "op": "text",
+   "en": "Sure, it hurt a little, but that was nothing to me.{p}"
+  },
+  {
+   "id": "60:3f10",
+   "op": "text",
+   "en": "Back there... in the instant the light flashed before my eyes.\nI clearly saw the word that had been too scratched up to read.\nIt was...{p}"
+  },
+  {
+   "id": "60:3f8c",
+   "op": "text",
+   "en": "It was the word 'rift.'\nAnd it wasn't carved in properly like the rest. Someone had gouged it in afterward, like graffiti.\nTo deepen the 'rift' between students...\nThat word had to be the reason the board was cursed.\nAnd I did feel the shutter go off that time, too...{p}"
+  },
+  {
+   "id": "60:40a4",
+   "op": "text",
+   "en": "Now the first of the seven wonders is in the bag.\n\"Iwashita, thank you for such a lovely... I mean,\nfor such a scary story.\nWell then, shall we move on to the next one...?\"{p}"
+  },
+  {
+   "id": "60:414c",
+   "op": "text",
+   "en": "No.\nEven if you say you don't want to go, I'm taking you no matter what.{p}",
+   "follows_choice": [
+    "60:3208"
+   ]
+  },
+  {
+   "id": "60:419c",
+   "op": "text",
+   "en": "Then let's get a little closer.{p}",
+   "follows_choice": [
+    "60:33cc"
+   ]
+  },
+  {
+   "id": "60:41d4",
+   "op": "text",
+   "en": "Is that so?\nDon't say that. Come on...\nLet's go forward, just a little more.\nThat's it...\nOne step, two steps...\nA little more...\nIt's all right. I'm right here beside you.{p}",
+   "follows_choice": [
+    "60:345c"
+   ]
+  },
+  {
+   "id": "60:4298",
+   "op": "text",
+   "en": "My, my...\nAre you scared already?\nHeh heh heh...\nYou're quite the scaredy-cat, aren't you, {a}?\n...Well.\nI suppose we should head back soon.\nSomething heavy and oppressive is hanging in the air...\nIt looks like we'd better finish this quickly.\nHeh heh. {a}.\nBefore we go back, you have to take a proper picture...\nThat's no good from so far away.\nStep up closer...\nSee? There are words carved into the frame, aren't there?\n",
+   "follows_choice": [
+    "60:346c"
+   ]
+  },
+  {
+   "id": "60:4424",
+   "op": "text",
+   "en": "'To deepen the ... between students. The Graduating Class'\nPart of it can't be read, but you have to get a clear shot of that.\n\"All right...\"{p}"
+  },
+  {
+   "id": "60:44c8",
+   "op": "text",
+   "en": "Oh, why would you tell such a lie?\nThe Class 1-E classroom should be at the end of the hallway on the third floor of the new school building.\nI went and checked it myself at lunch today.\nListen, {a}.\nI really hate liars.\nAnswer me honestly.\nYour classroom is on the third floor of the new school building.\nAt the end of the long hallway.\nThat's correct, isn't it?\nNow, nod.{p}",
+   "follows_choice": [
+    "60:0950"
+   ]
+  },
+  {
+   "id": "60:4608",
+   "op": "text",
+   "en": "...Yes, that's it. Good.\nHeh heh heh...\nThen I'll ask you one more thing.\nIt goes without saying, but you always use the stairs, don't you?{p}"
+  },
+  {
+   "id": "60:4690",
+   "op": "text",
+   "en": "Oh, you know it?\nThen this will go quickly.\nThe story I'm about to tell is about that bulletin board.\nThat board was a gift the students here left to commemorate their graduation.\nThey say the new school building hadn't even been built back then, so it must have been decades ago.{p}",
+   "follows_choice": [
+    "60:0a54"
+   ]
+  },
+  {
+   "id": "60:477c",
+   "op": "text",
+   "en": "Back then, it hung on the first floor of the old school building, they say.\nIt was meant to deepen the friendship between students, and anyone could use it freely, for anything from club recruitment posters to messages for friends.\nThe board was covered with notices.\nAt every break, crowds of students would gather in front of it, and it was always lively, so they say.\nI'm sure they passed all kinds of messages to each other.\nWhen the new school building went up, it was moved to where it is now, especially so the students could use it easily.{p}"
+  },
+  {
+   "id": "60:4934",
+   "op": "text",
+   "en": "And yet now, all that's on it is rusty thumbtacks and scraps of paper gone brown, gathering dust...\nNo one even gives it a glance.\nAnd no wonder.\nThat board carries a terrible curse.{p}"
+  },
+  {
+   "id": "60:4a0c",
+   "op": "text",
+   "en": "Oh?\nWhy, {a}, you're laughing.\nDid I say something funny?\nOr is it that you can't believe my story?\nEither way, I can only take it that you're making fun of me.\nUntil you apologize, I'm not saying another word.\n.................................................................................\n"
+  },
+  {
+   "id": "60:4b5c",
+   "op": "text",
+   "en": "What should I do?\nI never meant to laugh...\nIwashita is seriously angry.{p}Maybe I should apologize?\n"
+  },
+  {
+   "id": "60:4bc8",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "60:4bd0",
+   "op": "choice",
+   "en": "Don't apologize"
+  },
+  {
+   "id": "60:4bdc",
+   "op": "choice",
+   "en": "Make an excuse: \"I wasn't laughing\""
+  },
+  {
+   "id": "60:4bfc",
+   "op": "text",
+   "en": "I'd better apologize.\nIt's because I wasn't considerate enough that Iwashita got upset.\nBesides, she's my senior.\n\"I'm truly sorry.\nPlease forgive me...\"{p}",
+   "follows_choice": [
+    "60:4bc8"
+   ]
+  },
+  {
+   "id": "60:4cb4",
+   "op": "text",
+   "en": "\"Heh heh... It's all right.\nI'm glad you apologized so honestly.\nI adore honest girls.\nOh, I don't mean anything strange by that.\nDon't get the wrong idea.\nWell then, shall we get back to the story...?\"{p}"
+  },
+  {
+   "id": "60:4d70",
+   "op": "text",
+   "en": "Where was I?\nOh yes, the board carries a terrible curse.\n...That's as far as I got, wasn't it?\nHeh heh heh...{p}"
+  },
+  {
+   "id": "60:4df4",
+   "op": "text",
+   "en": "That board really is cursed.\nTell me, {a}.\nDo you know what that board is called?\nIt's called 'the Board of Death.'\nWhat a loathsome name, isn't it?\nBut you know...\nThere's a good reason it's called that.\n...The whole curse began with a petty prank.\nThis was back when the new school building had only just been built.\nOne day, a single test paper was posted on the board.\nA math test, I believe it was?{p}"
+  },
+  {
+   "id": "60:4f98",
+   "op": "text",
+   "en": "Well, {a}?{p}Are you good at math?\n"
+  },
+  {
+   "id": "60:4fc8",
+   "op": "choice",
+   "en": "I'm good at it"
+  },
+  {
+   "id": "60:4fd0",
+   "op": "choice",
+   "en": "I'm bad at it"
+  },
+  {
+   "id": "60:4fd8",
+   "op": "choice",
+   "en": "Neither"
+  },
+  {
+   "id": "60:4fe8",
+   "op": "text",
+   "en": "Did I ask something unpleasant?\nI'm sorry, I didn't know.{p}",
+   "follows_choice": [
+    "60:4fd0"
+   ]
+  },
+  {
+   "id": "60:5030",
+   "op": "text",
+   "en": "But I see...\nSo you're bad at math.\nHeh heh heh...\nThe test that was posted back then was full of mistakes, too, with an awful score, they say.\nThe name written on it was...\nHeh heh... don't worry.\nIt wasn't {b} {a}... or anything like that.\nThe owner of that test paper was named Akiko Eto.{p}"
+  },
+  {
+   "id": "60:5150",
+   "op": "text",
+   "en": "She was plain and quiet, and she didn't stand out much in class.\nAs for why Eto's test had been posted on the board...\n...I think I said this a moment ago, but...\n...it was probably just a little prank.\nBack then, lots of high school students were still innocent.\nI doubt there was much bullying at all.\nBut you know...{p}"
+  },
+  {
+   "id": "60:5290",
+   "op": "text",
+   "en": "If you put yourself in Eto's place, it must have been painful all the same.\nEveryone was staring at her test.\nAnd it was hardly a score anyone would praise...{p}"
+  },
+  {
+   "id": "60:5330",
+   "op": "text",
+   "en": "Ashamed, sad, humiliated........\nIf it were me, I could never bear it.\nI'd catch the culprit and get my revenge, no matter what!\n...Oh, I'm sorry.\nWe were talking about Eto, weren't we?{p}"
+  },
+  {
+   "id": "60:53f4",
+   "op": "text",
+   "en": "She tore the test off the board and ran straight out.\nAfter that, she never showed her face at school again, they say.{p}"
+  },
+  {
+   "id": "60:5470",
+   "op": "text",
+   "en": "It seems she shut herself up at home the whole time.\nAnd when a week had gone by...{p}"
+  },
+  {
+   "id": "60:54d0",
+   "op": "text",
+   "en": "Eto's body was found beside the flower bed in the schoolyard, blood streaming from her head.\nShe had jumped from the roof.\nLeaving one last message on that board... you see.\nA suicide note...?\nI wonder if you could call it that.{p}"
+  },
+  {
+   "id": "60:5594",
+   "op": "text",
+   "en": "On the back of that test paper of hers,\n'It's not fair...'\nwas written in bright red letters, they say.\nThere was even a rumor it was written in blood.\nIt was cleared away at once, so the truth remains a mystery...\nBut you know...{p}"
+  },
+  {
+   "id": "60:5668",
+   "op": "text",
+   "en": "From then on, eerie messages began to be posted on the board.\n'It's not fair...'\n'Why is this happening only to me?'\n'It's so unfair...'\nEvery one of them in the same red letters as Eto's suicide note, they say.\nIt might be someone's prank...\nBut strangely enough, on any day one of those messages is posted, someone always dies.\nAnd of course, it still goes on to this day.{p}"
+  },
+  {
+   "id": "60:57d4",
+   "op": "text",
+   "en": "You've only just started here, so you wouldn't know, but every year an abnormal number of people from this school die.\nAccidents, crimes, suicides...\nAll of them ill-omened deaths, aren't they?{p}"
+  },
+  {
+   "id": "60:588c",
+   "op": "text",
+   "en": "You be careful too, {a}.\nSo you don't become one of them...\nHeh heh...{p}Well, there is just one way to keep from dying by the board's curse. Do you want to know?\n"
+  },
+  {
+   "id": "60:5930",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "60:593c",
+   "op": "choice",
+   "en": "I don't want to know"
+  },
+  {
+   "id": "60:594c",
+   "op": "text",
+   "en": "Then I'll tell you.{p}",
+   "follows_choice": [
+    "60:5930"
+   ]
+  },
+  {
+   "id": "60:596c",
+   "op": "text",
+   "en": "First, on a math test, you solve the problems and hand it in without writing your name.\nThat much is easy, isn't it?\nBut that test has to be a perfect hundred.{p}"
+  },
+  {
+   "id": "60:5a10",
+   "op": "text",
+   "en": "If you post that perfect math test on that board, they say her name rises up in bright red letters where the name should be.\nAnd then, from out of nowhere,\n\"Thank you...\"\nyou hear a girl's voice say.\nOnly a person who hears that voice can be sure of throwing off the board's curse.{p}"
+  },
+  {
+   "id": "60:5b38",
+   "op": "text",
+   "en": "Heh heh heh...\nIt's thanks to this method that I'm still alive.\n{a}, you'd better try it soon too.\nThere's no point if you die before you score a hundred.\nThough I suppose it's a hard method for someone who isn't good at math.\nWell, living in fear of the curse might be thrilling and fun, too.\nAfter all, you write better articles when you've felt the fear yourself.\nHeh heh...\nThat's the end of my story.\nI'm looking forward to the next one.{p}"
+  },
+  {
+   "id": "60:5cd8",
+   "op": "text",
+   "en": "Heh heh...\nAre you sure you should be saying that?\nDon't you think losing your life to a curse would be ridiculous...?\nWhether you try the method or not is up to you...\nYou can decide after you've heard it, can't you?\n...I'll tell you.\n",
+   "follows_choice": [
+    "60:593c"
+   ]
+  },
+  {
+   "id": "60:5dcc",
+   "op": "text",
+   "en": "Actually, I...\nwent to look at the board before I came here.\nHeh heh, I always make a point of looking whenever I pass by it.\nHoping something might be posted there...\nI've never found anything yet.\nSadly, I didn't see anything like that today either.\nHeh heh heh...\nBe careful, {a}.\nThe people who died from Eto's curse were all good at math.\nShe must envy people who are good at math.\nThe next time a message is posted, the one who loses their life might be you.\nScared...?\nThen good.\nToday is the seven wonders meeting, isn't it?\nYou write better articles when you've felt the fear yourself.\nHeh heh...\nThat's the end of my story.\nI'm looking forward to the next one.{p}"
+  },
+  {
+   "id": "60:6060",
+   "op": "text",
+   "en": "I'm not apologizing.\nI wasn't laughing at all.\nThis is a ridiculous accusation!\nYou're just enjoying picking on me because I'm new, aren't you?\nWhat a nasty person...\nCome to think of it, I heard someone gossiping about it before.\nThat there's a seriously terrifying senior in Class 3-A...\nA senior who always keeps a box cutter hidden in a pocket, and who, when irritated, always slides the blade in and out to calm down...{p}",
+   "follows_choice": [
+    "60:4bd0",
+    "60:67a4"
+   ]
+  },
+  {
+   "id": "60:61c8",
+   "op": "text",
+   "en": "Click... click...\nIt was only a rumor, so the name wasn't clear, but I think it was I-senpai............\n"
+  },
+  {
+   "id": "60:6228",
+   "op": "text",
+   "en": "Click-click-click...\nWhat is this sound I keep hearing?\n............Oh!\nCould I-senpai be............★\nWh-what should I do?{p}M-maybe I should apologize............\n"
+  },
+  {
+   "id": "60:62d0",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "60:62d8",
+   "op": "choice",
+   "en": "Don't apologize"
+  },
+  {
+   "id": "60:62e4",
+   "op": "text",
+   "en": "No, I still don't want to apologize!\nI can't lie to my own heart.\nI really wasn't laughing.\nWhy should I have to apologize?\nAnd then...{p}",
+   "follows_choice": [
+    "60:62d8"
+   ]
+  },
+  {
+   "id": "60:6398",
+   "op": "text",
+   "en": "\"Heh heh heh...\nIt seems you have no intention of apologizing, {a}, no matter what.\nWell, it can't be helped.\nThat's the end of my story.\nGo on to the next one...\"\nIwashita twisted her mouth into an eerie smile.\nAnd then, that sound again...\n"
+  },
+  {
+   "id": "60:6470",
+   "op": "text",
+   "en": "Click-click-click...\nAnyway, it looks like I'd better move on to the next one, fast.\nUm, next is...{p}"
+  },
+  {
+   "id": "60:64e0",
+   "op": "text",
+   "en": "Anyway, I'll just apologize.\n\"I'm sorry.\nIt was my fault.\nPlease forgive me...\"\n\"Oh, so you're apologizing?\nThen you were laughing at me after all.\nWhat a nasty girl!\n",
+   "follows_choice": [
+    "60:62d0",
+    "60:679c"
+   ]
+  },
+  {
+   "id": "60:6598",
+   "op": "text",
+   "en": "...Well, fine.\nYou did apologize, at least.\nAs promised, I'll get back to the story.\"{p}"
+  },
+  {
+   "id": "60:6604",
+   "op": "text",
+   "en": "Apologizing would make it look like I did something wrong, and I hate that.\nBut leaving things awkward by not apologizing is a little...\nIn that case, I have to make it clear that I wasn't laughing.\n\"Um... Iwashita.\"\n\"Oh?\nHave you decided to apologize?\"\n\"No, it's not that.\nI just wanted to clear up a misunderstanding...\nI absolutely was not laughing.\"\n\"...I see.\"\nHuh?\nThat's all?{p}It looks like she has no intention of going on with the story until I apologize.\n",
+   "follows_choice": [
+    "60:4bdc"
+   ]
+  },
+  {
+   "id": "60:679c",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "60:67a4",
+   "op": "choice",
+   "en": "Don't apologize"
+  },
+  {
+   "id": "60:67c0",
+   "op": "text",
+   "en": "You're good at it?\nI see...\nTo say it so flatly, you must be quite confident.\nBut that's a little surprising.\nThat you're good at math...\nYou really can't judge people by appearances.{p}",
+   "follows_choice": [
+    "60:4fc8"
+   ]
+  },
+  {
+   "id": "60:6878",
+   "op": "text",
+   "en": "...Oh, I'm sorry.\nI'm not putting you down.\nI'm honestly impressed, that's all.\nBut I see...\nSo you're good at math.\nHeh heh heh...\nThe test that was posted back then was full of mistakes, with an awful score, they say.\nThe name written on it was Akiko Eto.{p}"
+  },
+  {
+   "id": "60:698c",
+   "op": "text",
+   "en": "Heh heh heh...\nSo you're neither good nor bad at it.\nMeaning your scores go up and down depending on the time?\nI see...\nLots of people are like that.\nIf only it had been one of the times with a good score...\nThe test that was posted back then was full of mistakes, with an awful score, they say.\nThe name written on it was...\nHeh heh... don't worry.\nIt wasn't {b} {a}... or anything like that.\nThe owner of that test paper was named Akiko Eto.\n",
+   "follows_choice": [
+    "60:4fd8"
+   ]
+  }
+ ]
+}

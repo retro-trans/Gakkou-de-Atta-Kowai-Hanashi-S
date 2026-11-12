@@ -1,0 +1,502 @@
+{
+ "slice": "S033",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S032",
+ "next": "S034",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:231d0",
+   "op": "choice",
+   "en": "Refuse"
+  },
+  {
+   "id": "07:231d8",
+   "op": "choice",
+   "en": "Agree to be his lackey"
+  },
+  {
+   "id": "07:231ec",
+   "op": "text",
+   "follows_choice": [
+    "07:231d8"
+   ],
+   "en": "\"All right. Please make me your lackey.\"\nI nodded meekly.\nMy life matters more than some stupid pride.{p}"
+  },
+  {
+   "id": "07:23268",
+   "op": "text",
+   "en": "\"Good. Then I'll tell you.\"\nShindo grinned, satisfied.\n\"But it'd be bad if Hino heard. Lend me your ear.\"\nDoing as I was told, I leaned my ear toward Shindo.{p}"
+  },
+  {
+   "id": "07:2331c",
+   "op": "text",
+   "en": "In that instant, a jolt ran through the side of my neck.\nShindo had slashed me with the knife.\nWhy...?{p}"
+  },
+  {
+   "id": "07:23398",
+   "op": "text",
+   "en": "Shindo was laughing, enjoying himself.\n\"What an idiot. There's no point making someone like you my lackey.\"\nHad he tricked me?\nIt was so... galling.\nBlood spraying from my neck, I slowly crumpled to the floor.{p}"
+  },
+  {
+   "id": "07:2345c",
+   "op": "text",
+   "follows_choice": [
+    "07:231d0"
+   ],
+   "en": "\"No way! I won't do it!\"\nI shouted.{p}"
+  },
+  {
+   "id": "07:234a0",
+   "op": "text",
+   "en": "\"What did you say?\"\nShindo started to raise his knife.{p}"
+  },
+  {
+   "id": "07:234d8",
+   "op": "text",
+   "follows_choice": [
+    "07:b49c"
+   ],
+   "en": "I looked for a way out.\n...It's no good.\nThe night-duty room's windows have bars over them.\nThere's no gap a person could ever fit through.\nThe only door is behind Shindo.\nThere's no way I can escape!{p}What will you do?\n"
+  },
+  {
+   "id": "07:23598",
+   "op": "text",
+   "follows_choice": [
+    "07:b6b4"
+   ],
+   "en": "I pressed the knife against Shindo.\nShindo's face went pale.\n\"Wh... what are you gonna do to me?\"\nHis voice was hoarse with fear.\nI deliberately didn't answer him.\nLet him get more and more scared.\nThen maybe he'd understand a little of how I felt.{p}"
+  },
+  {
+   "id": "07:2367c",
+   "op": "text",
+   "follows_choice": [
+    "07:b710"
+   ],
+   "en": "All right, I'll let Shindo go.{p}"
+  },
+  {
+   "id": "07:236ac",
+   "op": "text",
+   "en": "I climbed off Shindo.{p}"
+  },
+  {
+   "id": "07:236d8",
+   "op": "text",
+   "en": "That instant, Shindo punched me and sent me flying.{p}"
+  },
+  {
+   "id": "07:23700",
+   "op": "text",
+   "en": "Sparks burst before my eyes.{p}"
+  },
+  {
+   "id": "07:23734",
+   "op": "text",
+   "en": "...When I came to, Shindo was sitting astride me.\nThe exact reverse of a moment ago.\nShindo's eyes glinted cruelly.\n\"So long, {a}.\"{p}"
+  },
+  {
+   "id": "07:237bc",
+   "op": "text",
+   "en": "The moment he said it, my throat was slashed straight across.{p}"
+  },
+  {
+   "id": "07:23808",
+   "op": "text",
+   "follows_choice": [
+    "07:b720"
+   ],
+   "en": "I yanked the TV cord out.\nWith Shindo pinned down, I tied his hands behind his back.{p}"
+  },
+  {
+   "id": "07:23858",
+   "op": "text",
+   "follows_choice": [
+    "07:becc"
+   ],
+   "en": "I looked at the sink.\nAn empty cup noodle container had been left there.{p}Was it the murdered teacher's last supper?\n"
+  },
+  {
+   "id": "07:238cc",
+   "op": "text",
+   "follows_choice": [
+    "07:bedc"
+   ],
+   "en": "I opened the closet.\nThere was one set of futon bedding, and nothing else.{p}Should I pull the futon out too, just in case?\n"
+  },
+  {
+   "id": "07:23928",
+   "op": "choice",
+   "en": "Do it, just in case"
+  },
+  {
+   "id": "07:2393c",
+   "op": "choice",
+   "en": "No need to go that far"
+  },
+  {
+   "id": "07:23958",
+   "op": "text",
+   "follows_choice": [
+    "07:2393c"
+   ],
+   "en": "Eh, I don't need to go that far.\n"
+  },
+  {
+   "id": "07:23974",
+   "op": "text",
+   "follows_choice": [
+    "07:23928"
+   ],
+   "en": "I dragged the futon out of the closet.\nBetter safe than sorry.\n...But in the end, there was nothing.{p}I shoved the futon roughly back inside.\n"
+  },
+  {
+   "id": "07:239f8",
+   "op": "text",
+   "en": "I searched the shelves.{p}Just as I thought, the ampoule doesn't seem to be here.\n"
+  },
+  {
+   "id": "07:23a3c",
+   "op": "text",
+   "follows_choice": [
+    "07:771c",
+    "07:f26c",
+    "07:23b60",
+    "07:23f58",
+    "07:24760",
+    "07:249ac"
+   ],
+   "en": "Which floor's classrooms should I go to?\n"
+  },
+  {
+   "id": "07:23a58",
+   "op": "choice",
+   "en": "First-floor classrooms"
+  },
+  {
+   "id": "07:23a64",
+   "op": "choice",
+   "en": "Second-floor classrooms"
+  },
+  {
+   "id": "07:23a70",
+   "op": "choice",
+   "en": "Third-floor classrooms"
+  },
+  {
+   "id": "07:23a7c",
+   "op": "choice",
+   "en": "Fourth-floor classrooms"
+  },
+  {
+   "id": "07:23a88",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:23a94",
+   "op": "text",
+   "follows_choice": [
+    "07:23a88"
+   ],
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:23ab4",
+   "op": "text",
+   "follows_choice": [
+    "07:23a58"
+   ],
+   "en": "The new school building had seven classrooms on each floor.{p}"
+  },
+  {
+   "id": "07:23aec",
+   "op": "text",
+   "en": "Which classroom will you go to?\n"
+  },
+  {
+   "id": "07:23b00",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:23b08",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:23b18",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:23b28",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:23b38",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:23b48",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:23b58",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:23b60",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:23b84",
+   "op": "text",
+   "follows_choice": [
+    "07:23b00",
+    "07:23b08",
+    "07:23b18",
+    "07:23b38",
+    "07:23b48",
+    "07:23b58"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}"
+  },
+  {
+   "id": "07:23ce4",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:23d0c",
+   "op": "text",
+   "follows_choice": [
+    "07:23b28"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Is something in there?\nI hurriedly pulled it out.\n...A broken piece of chalk.\nI was let down.\nThere was nothing in the desks.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}"
+  },
+  {
+   "id": "07:23e90",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:23eac",
+   "op": "text",
+   "follows_choice": [
+    "07:23a64"
+   ],
+   "en": "The new school building had seven classrooms on each floor.{p}"
+  },
+  {
+   "id": "07:23ee4",
+   "op": "text",
+   "en": "Which classroom will you go to?\n"
+  },
+  {
+   "id": "07:23ef8",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:23f00",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:23f10",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:23f20",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:23f30",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:23f40",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:23f50",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:23f58",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:23f7c",
+   "op": "text",
+   "follows_choice": [
+    "07:23ef8",
+    "07:23f00",
+    "07:23f10",
+    "07:23f20",
+    "07:23f50"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}"
+  },
+  {
+   "id": "07:240dc",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:24104",
+   "op": "text",
+   "follows_choice": [
+    "07:23f30"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, the desks.\nInside one of them was a small bottle.\nCould this be...?\nBut it wasn't.\nWhen I held it to my nose, it smelled like flowers.\nPerfume.\nCologne, I guess you'd call it?\nDon't bring stuff like this to school!\nTaking my frustration out on it, I put the bottle back.\nOther than that, there's nothing out of the ordinary.\nIt doesn't look like it's in this classroom.{p}"
+  },
+  {
+   "id": "07:24314",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:2433c",
+   "op": "text",
+   "follows_choice": [
+    "07:23f40"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, the desks.\nInside one of them was a letter that hadn't even been opened.\nThere was no sender's name, either.\nCould it be a love letter?{p}Should I take a little peek?\n"
+  },
+  {
+   "id": "07:2449c",
+   "op": "choice",
+   "en": "Take a look"
+  },
+  {
+   "id": "07:244a8",
+   "op": "choice",
+   "en": "I don't want to look"
+  },
+  {
+   "id": "07:244b4",
+   "op": "text",
+   "follows_choice": [
+    "07:244a8"
+   ],
+   "en": "No, that would be in poor taste.\nBesides, I don't have time for that.{p}"
+  },
+  {
+   "id": "07:24504",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:24514",
+   "op": "text",
+   "follows_choice": [
+    "07:2449c"
+   ],
+   "en": "I tore the letter open.\nWith a dry rustle, I unfolded the notepaper.\nLet's see, what does it say...\n\"Whoever reads this letter will die within twenty-four hours,\" it says★\n\"If you don't want to die, write three letters with the same words and send them out...\"\nA chain letter of doom.\nNow, of all times.\nIt felt like my bad luck had just come crashing down on me even harder.\nI wish I hadn't looked...\nI put the letter back.{p}"
+  },
+  {
+   "id": "07:24698",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:246b4",
+   "op": "text",
+   "follows_choice": [
+    "07:23a70"
+   ],
+   "en": "The new school building had seven classrooms on each floor.{p}"
+  },
+  {
+   "id": "07:246ec",
+   "op": "text",
+   "en": "Which classroom will you go to?\n"
+  },
+  {
+   "id": "07:24700",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:24708",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:24718",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:24728",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:24738",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:24748",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:24758",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:24760",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:24784",
+   "op": "text",
+   "follows_choice": [
+    "07:24700",
+    "07:24708",
+    "07:24718",
+    "07:24728",
+    "07:24738",
+    "07:24748",
+    "07:24758"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}"
+  },
+  {
+   "id": "07:248e4",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:24900",
+   "op": "text",
+   "follows_choice": [
+    "07:23a7c"
+   ],
+   "en": "The new school building had seven classrooms on each floor.{p}"
+  },
+  {
+   "id": "07:24938",
+   "op": "text",
+   "en": "Which classroom will you go to?\n"
+  }
+ ]
+}

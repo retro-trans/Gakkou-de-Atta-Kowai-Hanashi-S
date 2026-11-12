@@ -1,0 +1,369 @@
+{
+ "slice": "S225",
+ "scene": "63",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S224",
+ "next": "S226",
+ "todo": [
+  "- S225 63:4078: the source has a stray ￥ (not a valid code); dropped. Mr. Kawaguchi (art teacher, m, SCE63) vs the Kawaguchi of unknown gender in SCE03: check whether they are the same person."
+ ],
+ "rows": [
+  {
+   "id": "63:31f0",
+   "op": "choice",
+   "en": "It sweeps me off my feet"
+  },
+  {
+   "id": "63:3204",
+   "op": "choice",
+   "en": "It's kind of scary"
+  },
+  {
+   "id": "63:3214",
+   "op": "choice",
+   "en": "It's nothing special"
+  },
+  {
+   "id": "63:3234",
+   "op": "text",
+   "follows_choice": [
+    "63:3204"
+   ],
+   "en": "Scary...?\nWhy...?\nHe keeps me bound to him only because he loves me that much.{p}"
+  },
+  {
+   "id": "63:3294",
+   "op": "text",
+   "en": "Every time a boy who comes near me, or a classmate who gives me trouble, meets with misfortune, I feel his love.\nIt has always been that way...\nAnd it always will be...\n{a}...?\nIf you find it scary, then be careful not to make Yuya angry.\nMy beloved sweetheart, who stands right behind me...{p}"
+  },
+  {
+   "id": "63:3384",
+   "op": "text",
+   "en": "Heh, do be careful.\nCareful not to anger me, or to trouble me...\nHeh heh heh...\nWell, that's the end of my story.\nWhose turn is it next, I wonder...?{p}"
+  },
+  {
+   "id": "63:341c",
+   "op": "text",
+   "follows_choice": [
+    "63:0d74",
+    "63:3734"
+   ],
+   "en": "My, is that any way to treat an upperclassman?\nWhat an unlovable child.{p}"
+  },
+  {
+   "id": "63:3460",
+   "op": "text",
+   "en": "I can't believe a girl like you is popular with the boys.\nOr perhaps...\nyour attitude changes when it's a boy doing the asking.\nSomehow I don't feel like talking anymore.{p}"
+  },
+  {
+   "id": "63:3504",
+   "op": "text",
+   "en": "...Oh, are you flustered now?\nHeh heh heh, you'd be in trouble if you couldn't hear about the seven wonders, wouldn't you?\nFine.\nYou needn't smile for me.\nI've completely lost any wish to talk...\nWould you hurry along to the next person?{p}"
+  },
+  {
+   "id": "63:35bc",
+   "op": "text",
+   "follows_choice": [
+    "63:0d88"
+   ],
+   "en": "A reason...?\n...I suppose so.\nAnyone would answer that way if they were suddenly asked something like this.{p}"
+  },
+  {
+   "id": "63:3618",
+   "op": "text",
+   "en": "Heh heh heh...\nThe truth is, quite a few boys are fond of you.\nThose boys are always telling me,\n\"{b} {a} in Class 1-E has the best smile!\"\n...I hear it from them all the time, you see...\nTo tell the truth, I was looking forward to meeting you today.\n...Well?{p}Will you smile for me?\n"
+  },
+  {
+   "id": "63:372c",
+   "op": "choice",
+   "en": "Smile"
+  },
+  {
+   "id": "63:3734",
+   "op": "choice",
+   "en": "I won't do that"
+  },
+  {
+   "id": "63:3748",
+   "op": "text",
+   "follows_choice": [
+    "63:372c"
+   ],
+   "en": "Yes, just like that...\n...Thank you.\nHeh heh heh...\nIt was a lovely smile, just as the rumors said.{p}"
+  },
+  {
+   "id": "63:37b8",
+   "op": "text",
+   "follows_choice": [
+    "63:0f1c"
+   ],
+   "en": "Heh heh, just as I thought...\nYou're so very pretty, after all.\nMen would never leave you alone, would they?\nHeh heh heh...\nBut I'm sure a great many people will be disappointed.\nIt seems lots of them think you're still available.\n...Not that it's anything for you to worry about.\nThe only one you need to think about is your beloved sweetheart...\nHeh heh heh...\nIf you call someone your sweetheart, then you must love that person, mustn't you?\nIt would be strange otherwise.\nYou can't call someone you don't love your 'sweetheart.'\nIsn't that right?{p}"
+  },
+  {
+   "id": "63:39a0",
+   "op": "text",
+   "en": "Tell me, {a}...\nAre you sure you can go on loving that sweetheart?\nWhatever may come...{p}Whatever may happen...\n"
+  },
+  {
+   "id": "63:3a1c",
+   "op": "choice",
+   "en": "Yes, I am"
+  },
+  {
+   "id": "63:3a24",
+   "op": "choice",
+   "en": "No, I'm not"
+  },
+  {
+   "id": "63:3a2c",
+   "op": "text",
+   "follows_choice": [
+    "63:3a1c"
+   ],
+   "en": "I see...\nThat's wonderful.\nI was once just like you.\nI was asked the very same question, and I answered just as you did, without hesitation.\n...I had a sweetheart like that too.\nThe two of us, always together...\nForever and ever...\nEven if we were torn apart, he would always come back to the one he loved.\nYes...\nEven if he died...\nHeh, that was before I even started high school.{p}"
+  },
+  {
+   "id": "63:3b80",
+   "op": "text",
+   "follows_choice": [
+    "63:3a24"
+   ],
+   "en": "Oh my, you sound rather unsure.\nIt must be because the two of you don't truly love each other from the heart.\nPerhaps you haven't met your real destined partner yet...\n...Don't be disappointed.\nTwo people meeting is a chance of one in hundreds of millions, after all.\nHeh, it's all right.\nI'm sure you'll meet someone wonderful.\nSomeone who will love you more than anyone else in this world...{p}"
+  },
+  {
+   "id": "63:3cdc",
+   "op": "text",
+   "follows_choice": [
+    "63:0fb0"
+   ],
+   "en": "Heh heh heh...\nVery well.\nI wonder what type would suit you best, {a}.{p}"
+  },
+  {
+   "id": "63:3d50",
+   "op": "text",
+   "en": "Let me see...\nHow about Takashima from Class 3-C?\nThe intellectual, composed sort...{p}He's always in the library.\n"
+  },
+  {
+   "id": "63:3dc0",
+   "op": "choice",
+   "en": "I'd like to go out with him"
+  },
+  {
+   "id": "63:3dd4",
+   "op": "choice",
+   "en": "...Pass"
+  },
+  {
+   "id": "63:3dec",
+   "op": "text",
+   "follows_choice": [
+    "63:3dd4"
+   ],
+   "en": "...No?\nThen how about Morishita from Class 3-B?\nHe's the ace of the handball club.\nIf you hear the sound of a ball on the field early in the morning, you can be sure it's him.{p}"
+  },
+  {
+   "id": "63:3e88",
+   "op": "text",
+   "en": "Heh heh heh...{p}He's terribly devoted to his practice.\n"
+  },
+  {
+   "id": "63:3eb4",
+   "op": "choice",
+   "en": "I'd like to go out with him"
+  },
+  {
+   "id": "63:3ec8",
+   "op": "choice",
+   "en": "...Pass"
+  },
+  {
+   "id": "63:3ee8",
+   "op": "text",
+   "follows_choice": [
+    "63:3ec8"
+   ],
+   "en": "...Oh, you don't care for sportsmen either?\nI understand.\nYou'd prefer a grown man, much, much older than you.\n...In that case, the target has to be a teacher, of course.{p}"
+  },
+  {
+   "id": "63:3f8c",
+   "op": "text",
+   "en": "Heh heh heh...\nMy recommendation would be Mr. Kawaguchi, the art teacher.\nHe isn't very sociable, but he's what you might call an artist...{p}I'm sure you'll be moved when you see him at work on a painting.\n"
+  },
+  {
+   "id": "63:4044",
+   "op": "choice",
+   "en": "I'd like to go out with him"
+  },
+  {
+   "id": "63:4058",
+   "op": "choice",
+   "en": "...Pass"
+  },
+  {
+   "id": "63:4078",
+   "op": "text",
+   "follows_choice": [
+    "63:4058"
+   ],
+   "en": "Oh, you don't care for teachers either?\nWho else is there, I wonder?\n...I know!\nSumiyoshi would be good.\nHe's in the same year as you, {a}, so I think you'd get along. Now which class was he in again...?\n"
+  },
+  {
+   "id": "63:4110",
+   "op": "choice",
+   "en": "I'd like to go out with him"
+  },
+  {
+   "id": "63:4124",
+   "op": "choice",
+   "en": "...Pass"
+  },
+  {
+   "id": "63:4138",
+   "op": "text",
+   "follows_choice": [
+    "63:4124"
+   ],
+   "en": "You really are picky, aren't you?\nMaybe that's why you don't have a sweetheart.\nYou haven't truly fallen in love yet.{p}"
+  },
+  {
+   "id": "63:41c8",
+   "op": "text",
+   "en": "Heh heh heh...\nThere's no need to worry.\nYou'll find someone wonderful soon enough.\nSomeone who will love you more than anyone else in this world.{p}"
+  },
+  {
+   "id": "63:4260",
+   "op": "text",
+   "follows_choice": [
+    "63:3dc0"
+   ],
+   "en": "I understand.\nSo you want to go out with Takashima.{p}"
+  },
+  {
+   "id": "63:4298",
+   "op": "text",
+   "en": "Heh heh heh...\nHe's quite a catch.\nIf there's anything you don't understand in class or in your homework, you should have him teach you.\nHe explains things very patiently.\nYes, he's terribly smart.\nAfter all, he's been attending this school for a very long time.\nHeh heh heh...\nWhen Takashima was a student, the war was on, so he could hardly study at all.\nHe died in an air raid, without ever getting to read the books he loved.\nHe wanted to study more...\nBecause that regret stayed behind, he still appears in the library.\nEven now that he's become a ghost.......... you see.{p}"
+  },
+  {
+   "id": "63:44ac",
+   "op": "text",
+   "en": "Oh, what's the matter?\n{a}, your face has gone white as a sheet.\nWere you shocked to learn he's a ghost?\nBut surely you won't turn him down just because he's a ghost?{p}"
+  },
+  {
+   "id": "63:4564",
+   "op": "text",
+   "en": "That won't do.\nYou're the one who said you wanted to go out with him, {a}!\nI'll never forgive you if you turn him down now.\nBesides... I've already called him here.{p}"
+  },
+  {
+   "id": "63:460c",
+   "op": "text",
+   "en": "He should be arriving here any moment now.\nThree more meters...\nTwo meters...\nOne meter...\nNow he's reached the door.\nSlowly, he raises his hand..........\n"
+  },
+  {
+   "id": "63:46b0",
+   "op": "text",
+   "en": "\"Listen, he's calling for you.\n{a}...{p}Why don't you open the door for him?\"\n"
+  },
+  {
+   "id": "63:46fc",
+   "op": "choice",
+   "en": "Open it"
+  },
+  {
+   "id": "63:4704",
+   "op": "choice",
+   "en": "Don't open it"
+  },
+  {
+   "id": "63:4710",
+   "op": "text",
+   "follows_choice": [
+    "63:46fc"
+   ],
+   "en": "Urged on by Iwashita's voice, I got up from my chair.{p}"
+  },
+  {
+   "id": "63:476c",
+   "op": "text",
+   "en": "It wasn't as if I seriously believed there was a ghost on the other side of the door...\n...but still, I was a little scared.\n\"Come now, hurry up and open it for him.\"\nIwashita's voice sounded delighted...\nI timidly reached out and took a firm grip on the knob.\nThen I slowly turned it...\n...Here goes!\nI pulled back with all my might.{p}"
+  },
+  {
+   "id": "63:48b8",
+   "op": "text",
+   "en": "The door flew open.\n\"...Eek!\"{p}"
+  },
+  {
+   "id": "63:48f4",
+   "op": "text",
+   "en": "Standing on the other side of the door was a skeleton in tattered clothes.\nWhen it met my gaze, it clattered its teeth and laughed.\n\"..........☆\"\nI was too shocked and terrified to make a sound.\nI just stared and stared into the skeleton's gaping eye sockets.{p}"
+  },
+  {
+   "id": "63:49d8",
+   "op": "text",
+   "en": "Then the skeleton turned into a kind of mist and vanished.\nAs if it were seeping into my body...{p}"
+  },
+  {
+   "id": "63:4a4c",
+   "op": "text",
+   "en": "The moment I thought that, my shoulders suddenly grew heavy.\n...Wh-what is this★\nEvery cell in my body had sensed an invisible intruder and was flashing danger signals.\nHad I been possessed by that skeleton?{p}"
+  },
+  {
+   "id": "63:4b2c",
+   "op": "text",
+   "en": "\"Heh heh heh...\n{a}, the two of you make such a lovely couple.\"\nEven Iwashita's gleeful voice sounded far away, as if it were echoing.\nIt was hard even to stay on my feet...{p}"
+  },
+  {
+   "id": "63:4bd0",
+   "op": "text",
+   "en": "I closed the door and made my way back to my seat on unsteady feet.\nI didn't have a fever, yet my head was so foggy I couldn't think straight.{p}"
+  },
+  {
+   "id": "63:4c60",
+   "op": "text",
+   "en": "\"My, my, worn out already...\nWell, he's sucking out your life force, so it can't be helped.\nBut at this rate, I wonder how many more hours your life will last.\nHeh heh heh...\nIf only there were a candle that could measure your lifespan.\"{p}"
+  },
+  {
+   "id": "63:4d4c",
+   "op": "text",
+   "en": "A bright red candle rose up in my mind.\nIts flame flickering, the candle was burning down fast...\n...Maybe I really didn't have much time left.{p}"
+  },
+  {
+   "id": "63:4dfc",
+   "op": "text",
+   "en": "\"{a}...?\"\nIwashita's voice echoed through my hazy mind like static.\n\"Now, let's move on to the next story.\nThe sixth story is next.\nI wonder who'll be telling it...?\"\n...That's right.\nWhile there was still some of my life's candle left, I had to hear every story...\nI had to hurry and choose the next person...{p}"
+  },
+  {
+   "id": "63:4f14",
+   "op": "text",
+   "follows_choice": [
+    "63:4704"
+   ],
+   "en": "\"You're not opening it?\n...Don't tell me you're going to refuse?\nI told you that wouldn't do!\"\nIwashita rose from her seat and strode right up to me.\nThen she yanked my arm and forced me to my feet.\n\"Now, open it.\nYou're the one who said you wanted to go out with him, you hear me!\"{p}"
+  },
+  {
+   "id": "63:5038",
+   "op": "text",
+   "follows_choice": [
+    "63:3eb4"
+   ],
+   "en": "I understand.\nSo you want to go out with Morishita.\nHis gallant figure chasing the ball in the fresh breeze...\nAnd after a bit of sport, you bring him a snack while he wipes away his sweat.\n...Doesn't that sound lovely?\nGetting up early will be a little hard, but do your best to keep bringing him snacks.\nIf you do, I'm sure he'll be delighted.\n\"I just want to work up a good, clean sweat at practice.\nIt'd be the best if I had a sweetheart cheering me on.\"\nHe told me that once.\nWith a dazzling, refreshing smile.\n...Yes, you'd never believe he was a dead man.\nOh, I'm sorry.\nI haven't told you yet, have I?\nMorishita died in an accident three years ago.{p}"
+  },
+  {
+   "id": "63:528c",
+   "op": "text",
+   "en": "Of course, if you just call him a ghost, that's all there is to it, but...{p}"
+  },
+  {
+   "id": "63:52d4",
+   "op": "text",
+   "follows_choice": [
+    "63:4044"
+   ],
+   "en": "I understand.\nSo you want to go out with Mr. Kawaguchi.\nYes, it'll be fine.\nI don't think anyone will stand in the way of your love.{p}"
+  },
+  {
+   "id": "63:5350",
+   "op": "text",
+   "en": "After all, Mr. Kawaguchi is already dead.\nDidn't you know?\nHe killed himself in the art prep room over the last spring break.\nHe slit his throat beside a canvas smeared with bright red paint.\n...Oh my, {a}, your face has gone white as a sheet.\nAre you scared...?\nBecause he's a ghost...?\nIt's too late to turn him down now.\nI won't allow it!{p}"
+  }
+ ]
+}

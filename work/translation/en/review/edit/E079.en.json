@@ -1,0 +1,764 @@
+{
+ "chunk": "E079",
+ "scene": "41",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "slices": [
+  "S157",
+  "S158"
+ ],
+ "prev": "E078",
+ "next": "E080",
+ "todo": [],
+ "rows": [
+  {
+   "id": "41:1194",
+   "op": "text",
+   "en": "So, we're finally down to the last story, huh.\nThe seventh one still hasn't shown up after all this time...\nI wonder if they forgot.{p}"
+  },
+  {
+   "id": "41:1208",
+   "op": "text",
+   "en": "Or maybe they're already here.\nWhen you turn around, {a}, right behind you...{p}"
+  },
+  {
+   "id": "41:125c",
+   "op": "text",
+   "en": "Just kidding.\nKidding, kidding.\nOkay, before I tell the last story, I'll introduce myseeelf.\nI'm Reiko Fukuzawa, from Class 1-G.\nI'm a first-year, same as you, {a}.\nNice to meet you.{p}"
+  },
+  {
+   "id": "41:12fc",
+   "op": "text",
+   "en": "Hey, so, {a}, are you the type who believes in superstitions?\n"
+  },
+  {
+   "id": "41:1328",
+   "op": "choice",
+   "en": "I believe in them"
+  },
+  {
+   "id": "41:1330",
+   "op": "choice",
+   "en": "I don't believe in them"
+  },
+  {
+   "id": "41:133c",
+   "op": "text",
+   "en": "Oh, really.\nYou do have that kind of personality, huh.\nThen I bet you're the type who believes in fortune-telling too.\nBut you know, you can't totally laugh that stuff off.\nMost of it's kind of a joke, but a lot of it makes you go, yeah, yeah, that's so true.\nBut you know, you'd better not overdo it.\nIf you get too into it, you'll end up like the girl I'm about to tell you about...{p}",
+   "follows_choice": [
+    "41:1328"
+   ]
+  },
+  {
+   "id": "41:1494",
+   "op": "text",
+   "en": "Actually, my big sister used to go to this school too.\nSo this is a story I heard from my sister. One of her classmates was a girl named Kanae Hirai.\nShe was a serious girl, but apparently she wanted to get married way, way more than normal.\nAnd she was still only in high school.{p}"
+  },
+  {
+   "id": "41:1598",
+   "op": "text",
+   "en": "Hey, hey, {a}, do you want to get married young?\n"
+  },
+  {
+   "id": "41:15c8",
+   "op": "choice",
+   "en": "I do"
+  },
+  {
+   "id": "41:15d0",
+   "op": "choice",
+   "en": "Not really"
+  },
+  {
+   "id": "41:15e4",
+   "op": "choice",
+   "en": "If I meet the right person"
+  },
+  {
+   "id": "41:15fc",
+   "op": "text",
+   "en": "...That's a safe answer.\nWell, sure, if you meet the right person, anybody would want to.\nAnd I guess it was the same with her, but thing is, she wanted to get married sooo badly, right?\nAnd on top of that, her standards were sky-high.{p}",
+   "follows_choice": [
+    "41:15e4"
+   ]
+  },
+  {
+   "id": "41:16c4",
+   "op": "text",
+   "en": "Everybody has their ideals, I guess, but you shouldn't aim too high.\nI mean, even I don't aim too high.\nIf I had to name something, he'd be cool, and kind, and have money, and be able to do laundry, and be a great cook... that's about it.\nI'm not picky about which school he went to or his family background.\nHey, hey, {a}, what's your ideal type?{p}If you had to rank them, tell me which one you'd put first.\n"
+  },
+  {
+   "id": "41:1810",
+   "op": "choice",
+   "en": "Looks"
+  },
+  {
+   "id": "41:181c",
+   "op": "choice",
+   "en": "Personality"
+  },
+  {
+   "id": "41:1824",
+   "op": "choice",
+   "en": "Being good at housework"
+  },
+  {
+   "id": "41:1830",
+   "op": "text",
+   "en": "Ooh, so personality comes first.\nSo you don't care at all what their face looks like, huh.\nHeh heh... just kidding, just kidding.{p}Okay, so what comes next?\n",
+   "follows_choice": [
+    "41:181c"
+   ]
+  },
+  {
+   "id": "41:18b8",
+   "op": "choice",
+   "en": "Looks"
+  },
+  {
+   "id": "41:18c4",
+   "op": "choice",
+   "en": "Being good at housework"
+  },
+  {
+   "id": "41:18d8",
+   "op": "text",
+   "en": "Oh, really.\nSo the next most important thing is housework.\nSo, like, you'd want your wife to be able to cook and do the laundry and stuff?\nYou want her to make you yummy meals and keep the house cleaned all the time, spick-and-span?\nBut you know, that kind of thing isn't good.\nThat's being a bossy, lord-of-the-house husband.\nNobody does that kind of thing these days.\nNowadays, it's way more in for the guy to do the cooking and the cleaning.\nIf you keep being so selfish and can't even cook a meal, nobody's going to want to marry you.\nWell, but personality matters more to you, right?\nSo you could forgive her even if she's not that great at housework.\n...Which means looks really don't matter to you after all.\nIf she's got a good personality, cooks well, loves cleaning and does your laundry, then even if she's ugly, she's perfect, right?\nI think I'm kind of starting to figure you out, {a}.{p}",
+   "follows_choice": [
+    "41:18c4"
+   ]
+  },
+  {
+   "id": "41:1ba4",
+   "op": "text",
+   "en": "...But really, you'd hate it if she weren't good-looking too, right?\nWhatever you say, you still want her face and her figure to be above average, don't you?{p}"
+  },
+  {
+   "id": "41:1c28",
+   "op": "text",
+   "en": "It's fine, it's fine, you don't have to hide it.\nGuys are all like that anyway.\nHaving high ideals is just right.\nYou know how some people say anyone would be fine? Those are exactly the people whose standards are crazy-high.\nYou're cute by comparison, {a}.\nEspecially compared to that Hirai girl.{p}"
+  },
+  {
+   "id": "41:1d74",
+   "op": "text",
+   "en": "Honestly, when I heard about Hirai, I was really shocked.\nI mean, she had it all decided, from the guy's name right down to his age.\nCan you believe that?\nIt's crazy.\nHis name, right?\nHis birthday, right?\nHis blood type, right?\nWhere he was born, right?\nThat's the kind of stuff she was fixated on.\nShe put those things before personality or looks.\nWeird thing to be fixated on, huh?\nAnd besides, it's not like you can just run into someone like that so easily.\nBut Hirai truly believed she'd meet him.\nAnd she believed she'd be able to marry him before she turned twenty.\nWhat she based that on, I have no idea.\nBut apparently that's what her fortune said.\nHirai was born under that kind of star, she said.\nSupposedly some super-famous fortune-teller told her that when she was in grade school.\nWhoever told her that is just as bad.\nI like fortune-telling too, but I don't really believe in it.\nFor me, it's half just for fun.\nBut believing a fortune from grade school all the way into high school, and searching for that person the whole time, that's sooo romantic.\nIt's kinda scary, but it's still romantic, right?\nI think so, anyway.\nBecause I could never go that far.\nOf course, she never found anyone like that, so she was still searching even in high school.{p}"
+  },
+  {
+   "id": "41:21f0",
+   "op": "text",
+   "en": "It was intense, I heard.\nWhen Hirai started here, she looked up the names of everyone, from her classmates to the seniors.\nApparently there were a bunch of people with the same surname, or with names that were read the same but written differently.\nWell, sure, with a school as big as this one.\nBut even if the name matched, there's still his blood type and his birthday and everything, right?\nThere's no way she'd ever find him.\nHer friends who knew what was going on all laughed about it, apparently.\nBut Hirai had this eerie, desperate intensity about her, so nobody ever said it out loud.{p}"
+  },
+  {
+   "id": "41:23c8",
+   "op": "text",
+   "en": "The school festival was supposedly insane.\nThey say she went around asking every single boy who came over from other schools what his name was.\nApparently some guy thought it was funny and lied to her as a joke, but it came out later.\nAnd he nearly got killed by Hirai, they say.\nIt caused a huge uproar, apparently.\nScary, huh?{p}"
+  },
+  {
+   "id": "41:2508",
+   "op": "text",
+   "en": "Even so, there's no way Hirai would give up.\nShe kept on searching, on and on and on.\nBut her deadline was twenty, right?\nIf she didn't marry her destined one by twenty, she'd never be happy.\nShe even believed that, worse than that, she would die.\nAs if that could ever happen.\nBut she'd totally convinced herself of it, right?\nSo she was desperate.\nIf she still hadn't found him by the time she graduated, she might have put out a nationwide call for him.\nThat way, there might be at least one, right?\nOr she'd force some guy to change his name.\nAhahahaha...{p}",
+   "returns": [
+    "41:2508: RETURN - 'She even believed that, worse than that, she would die.' is accurate but clumsy."
+   ]
+  },
+  {
+   "id": "41:272c",
+   "op": "text",
+   "en": "But you know, when Hirai became a third-year, he showed up.\nHer destined one.\nAnd at school, no less.\nWhen that happens, you can't laugh off fortune-telling, can you?\nIt makes you feel like it really was a fated meeting.{p}Hey, hey, how do you think the person who fit all of Hirai's conditions perfectly showed up?\n"
+  },
+  {
+   "id": "41:283c",
+   "op": "choice",
+   "en": "A new teacher"
+  },
+  {
+   "id": "41:2848",
+   "op": "choice",
+   "en": "A transfer student"
+  },
+  {
+   "id": "41:2850",
+   "op": "choice",
+   "en": "An incoming first-year"
+  },
+  {
+   "id": "41:2858",
+   "op": "text",
+   "en": "It was a teacher who'd just come to our school.{p}",
+   "follows_choice": [
+    "41:283c"
+   ]
+  },
+  {
+   "id": "41:2898",
+   "op": "text",
+   "en": "He was fresh out of college, and kind of a dud, they say.\nHis hair was a shaggy mess, he wore glasses as thick as the bottom of a milk bottle, he was short and dumpy...\nBasically, he looked like the kind of guy who'd never have a woman in his life.\nFate can be pretty cruel that way, huh?\nIf I were Hirai, I'd just decide on my own that the fortune was definitely wrong.\nBut you know, Hirai didn't care about looks.\nAnyway, as long as his name and birthday and stuff were ideal, his looks and personality didn't matter at all, apparently.\nI'd totally hate that, though.\nThe teacher's name was Shinji Kondo.\nHe doesn't live up to his name, right?\nThe name sounds so cool.\nHirai's heart started pounding, apparently.\nShe said there'd been five people so far with the same name.\nBut none of them had the birthday, the blood type and the birthplace that matched the fortune.{p}"
+  },
+  {
+   "id": "41:2b70",
+   "op": "text",
+   "en": "So, heart pounding, she asked him.\n\"...Um, Mr. Kondo, please tell me your birthday, your blood type and where you're from.\"\nShe put her hands together and prayed to God.\nPersonally, I can't believe it.\nMr. Kondo was puzzled at first, but he told her right away.\nAnd guess what?\nIt matched the fortune exactly!\nYou should have seen how happy Hirai was.\nShe said she saw a halo shining around Mr. Kondo.\nBut I mean, she'd finally met the person she'd been searching for all those years.\nShe must have been happy.{p}"
+  },
+  {
+   "id": "41:2d50",
+   "op": "text",
+   "en": "From then on, Hirai stuck to Mr. Kondo like glue.\nEveryone at school had heard the rumors about Hirai, so nobody was surprised.\nBut from Mr. Kondo's side, it was so sudden, right?\nI mean, he had no idea at all that he was fated to marry Hirai.\nOf course he was bewildered.\nBut you know, Mr. Kondo should've just been happy about it.\nBecause they say Hirai was really, really beautiful.\nShe was pretty, she had a great figure, and she'd told everyone she'd devote her whole life to serving her destined one, so for a guy, could anyone be better than that?\nIf I were a boy, I'm sure I'd have been happy.\nBesides, a guy like Mr. Kondo could wait his whole life and no girl would ever come talk to him first.\nHe absolutely should have been thrilled.\nBut maybe Mr. Kondo had never been in love before.\nYeah, I bet that's it.\nI mean, this gorgeous girl proposed to him, asking him to make her his bride, right?\nHe didn't know what to do.\nSo Mr. Kondo, get this, started avoiding Hirai.{p}"
+  },
+  {
+   "id": "41:3108",
+   "op": "text",
+   "en": "But maybe that's normal.\nThey were teacher and student, after all.\nIf anything went wrong, it'd be bad, and after he'd finally become a teacher, he'd get fired.\nBesides, Mr. Kondo didn't believe what Hirai was telling him.\nWell, I get that too.\nA dreamy high school girl blurts out something weird on a passing whim.\nIt's like a sickness.\nAnd once the sickness is cured, she's totally over it, like nothing happened.\n\"Huh? What was that about?\"\nLike that.\nSo if a guy gets ideas and tries to seriously go out with her... in the end, he's the one who ends up looking like a fool.\nThat kind of thing happens all the time, you know.\nBesides, Hirai kept hanging around Mr. Kondo, so he got called in by the principal.\nFor Mr. Kondo, it might've been nothing but trouble.\nSo that's why he avoided Hirai.\nBut you know, Hirai wasn't the type to give up that easily.\nOf course not.\nI mean, he was her destined one.\nBesides, if she couldn't be with him by twenty, she'd die.{p}"
+  },
+  {
+   "id": "41:349c",
+   "op": "text",
+   "en": "Mr. Kondo wouldn't see her at school, so she looked up his address and lay in wait outside the apartment where he lived alone.\nWomen in love are scary, huh?\nMr. Kondo was at his wits' end, and in the end he even got down on his hands and knees and begged, apparently.{p}"
+  },
+  {
+   "id": "41:3564",
+   "op": "text",
+   "en": "\"Please! Stop this joke.\nDo you enjoy tormenting me like this?\nA girl like you, there must be plenty of other guys who'd want to go out with you, right?\nGo find someone more suited to you.\"\nThat's what he said, crying and begging her.\n\"...Mr. Kondo.\nDo you hate me?\"\nFrom Hirai's point of view, she couldn't understand why he was avoiding her.\nHe was the one she'd been waiting for all this time, so naturally, she thought he should feel the same way.{p}",
+   "returns": []
+  },
+  {
+   "id": "41:3704",
+   "op": "text",
+   "en": "\"It's not a question of liking or hating.\nYou and I are teacher and student.\"\n\"Why can't a teacher and a student be together?\"\n\"...Why?\nThat's just common sense.\nThere's my reputation, and how people would see it... it's just no good, that's all.\"\nMr. Kondo got kind of scared. He desperately bowed his head to her.\n\"...I understand.\nThen once I've graduated, it's all right, isn't it?\"\nHirai was actually pretty understanding.\nWell, he was her destined one.\nShe couldn't go making trouble for him.\nAnd even after high school, she'd still have time before she turned twenty.{p}"
+  },
+  {
+   "id": "41:3910",
+   "op": "text",
+   "en": "\"...Uh, y-yes.\nI suppose so.\nIf you graduate from high school properly, I'll give it some serious thought.\"\nThere was still almost a year until Hirai graduated.\nWith that much time, her feelings would surely change.\nThat's what Mr. Kondo thought.{p}"
+  },
+  {
+   "id": "41:39f8",
+   "op": "text",
+   "en": "Hirai smiled, satisfied, and held out her right hand.\n\"...It's a promise, Mr. Kondo.\nPinky swear.\"\n\"...Uh, y-yes.\"\nMr. Kondo held out his right hand too, and they hooked their little fingers together in a pinky swear.\n\"Pinky swear, pinky swear, if you lie, you'll swaaaallow a thousand needles.\nFinger cut!\"{p}"
+  },
+  {
+   "id": "41:3b00",
+   "op": "text",
+   "en": "After that, Hirai stopped following Mr. Kondo around, as if everything up to then had been a lie.\nShe threw herself into studying and went back to being a normal high school student.\nTo be exact, she pretended to be a normal high school student.\nBut you know, Mr. Kondo wasn't at ease at all.\nLike, say some other girl went to ask Mr. Kondo a question or something.{p}"
+  },
+  {
+   "id": "41:3c4c",
+   "op": "text",
+   "en": "Then Hirai would be watching it all from the shadows, staring hard.\nWith the most terrifying look in her eyes.\nYou belong to me, Mr. Kondo.\nIf you lay a hand on another woman, I won't let it go.\nThat's what her eyes were saying.{p}"
+  },
+  {
+   "id": "41:3d34",
+   "op": "text",
+   "en": "Around then, another teacher came to talk something over with Mr. Kondo.\n\"Mr. Kondo, there's a bit of a problem.\"\n\"What is it?\"\n\"Well, it's about Hirai...\"\nMr. Kondo had a bad feeling.\nBut so as not to let it show, he acted perfectly calm.\n\"What about Hirai?\"\n\"Mr. Kondo, is something going on between you and Hirai?\"\n\"...Meaning what?\"\n\"Don't play dumb with me.\nHirai's saying she's going to marry you after she graduates.\nSo she says she won't take any college entrance exams, and she won't look for a job either.\nAt this rate, there's no way I can give her career guidance.\"\n\"No, that's just a passing fancy of hers...\"\n\"...Mr. Kondo.\nDidn't something happen between you and Hirai?\"\nThe insinuation in that question made Mr. Kondo indignant.\n\"D-don't say such ridiculous things!\nI don't feel anything for Hirai!\nWhatever Hirai thinks, whatever she says, it has nothing to do with me!\"{p}"
+  },
+  {
+   "id": "41:407c",
+   "op": "text",
+   "en": "He slammed the desk and jumped to his feet, shouting before he knew it.\nEvery teacher in the faculty room turned around to see what was going on.{p}"
+  },
+  {
+   "id": "41:40f0",
+   "op": "text",
+   "en": "Just then, Mr. Kondo felt eyes on his back.\nA cold gaze that stabbed right into him.\nWith a bad feeling, he slowly turned around...{p}"
+  },
+  {
+   "id": "41:4180",
+   "op": "text",
+   "en": "And there was Hirai.\nLeaning against the faculty room door, she was glaring coldly at Mr. Kondo from the shadows.\nAnd when their eyes met, she suddenly ran away.{p}"
+  },
+  {
+   "id": "41:422c",
+   "op": "text",
+   "en": "You should have seen her eyes then.\nThey say they were burning with hatred.{p}So what do you think Mr. Kondo did then?\n"
+  },
+  {
+   "id": "41:4294",
+   "op": "choice",
+   "en": "He went after her"
+  },
+  {
+   "id": "41:42a0",
+   "op": "choice",
+   "en": "He explained to the other teachers"
+  },
+  {
+   "id": "41:42bc",
+   "op": "choice",
+   "en": "He pretended nothing had happened"
+  },
+  {
+   "id": "41:42d8",
+   "op": "text",
+   "en": "\"Hirai!\"\nMr. Kondo shouted, not caring who was watching, and rushed after her.\nI wonder what the other teachers thought.\nI bet they got the wrong idea.\nWhen you think about it, maybe the one you should really feel sorry for was Mr. Kondo.\nMr. Kondo chased her desperately, trying somehow to talk to Hirai.\nBut he was a slow runner.\nHirai, on the other hand, was a fast runner.\nFor Mr. Kondo, just keeping her in sight was the best he could do.\nSomehow he managed not to lose her, but he couldn't close the distance at all.{p}",
+   "follows_choice": [
+    "41:4294"
+   ]
+  },
+  {
+   "id": "41:44b4",
+   "op": "text",
+   "en": "For whatever reason, Hirai ran into the gym.\nThinking about it later, maybe she was luring Mr. Kondo the whole time.\nI mean, as fast as Hirai was, if she'd really wanted to get away, she could have easily.{p}"
+  },
+  {
+   "id": "41:4580",
+   "op": "text",
+   "en": "And once she ran into the gym, Hirai fell, way too obviously, as if she'd planned it from the start.\nBut thanks to her falling, Mr. Kondo was finally able to catch up.{p}"
+  },
+  {
+   "id": "41:4644",
+   "op": "text",
+   "en": "The empty gym was cold, and the air felt dead.\n\"Hirai.\nDon't get the wrong idea.\nI was only thinking of what's best for you...!\"\nMr. Kondo grabbed Hirai's arm and forced her to turn around.{p}"
+  },
+  {
+   "id": "41:471c",
+   "op": "text",
+   "en": "Hirai's face was blank, cold as ice.\n\"...You lied, Mr. Kondo.\"\n\"I didn't lie!\nI'm a teacher!\nThere's no way I can go out with you!\"\nMr. Kondo pleaded desperately, his voice cracking.\nBut no matter what logic he twisted together, none of it got through to Hirai.\nMr. Kondo panicked.\nBut the more he panicked, the more it sounded like lame excuses, and the less convincing he got.\nTo Hirai, words like that didn't matter at all.\nAll she cared about was marrying Mr. Kondo.\n\"...You and I are tied together by the red thread, Mr. Kondo.\nSo you can't run away from it.\nIt's fate.\"\n\"...Hirai!\nPlease understand!\nDon't make things any harder for me!\nYou can't believe in something you can't even see, like a red thread!\"\n\"Don't be troubled, Mr. Kondo.\nThe red thread really does exist.\"{p}"
+  },
+  {
+   "id": "41:4a28",
+   "op": "text",
+   "en": "With that, Hirai suddenly pulled out a knife.\n\"...Wh-what are you doing?\"\nMr. Kondo was startled.{p}"
+  },
+  {
+   "id": "41:4aa0",
+   "op": "text",
+   "en": "There's no telling what a girl that desperate might do.\nIt wouldn't be strange if she killed him.\nWhen he thought that, he could tell he was already starting to back away.\nBut you know, there's no way Hirai would attack Mr. Kondo, right?\nI mean, he was the destined one she loved.\nHirai stabbed the knife she'd pulled out into the base of the little finger on her own right hand.{p}"
+  },
+  {
+   "id": "41:4be0",
+   "op": "text",
+   "en": "With the knife stuck into the base, she twisted it around, digging and gouging.\nAnd with a blank face, as if she felt nothing at all.\nThe one who was shocked was Mr. Kondo.{p}"
+  },
+  {
+   "id": "41:4c74",
+   "op": "text",
+   "en": "\"...Wh-what are you doing, Hirai?\"\n\"...I'm going to show you the proof now.\nDon't worry, my future husband.\"\nHirai smiled with only her mouth, her eyes still blank, and threw the knife away.{p}"
+  },
+  {
+   "id": "41:4d28",
+   "op": "text",
+   "en": "Then she forced the wound she'd just made wide open and dragged the nerve out from inside.\n\"Ah... ah...ahh......ahhh...\"\nEach time the nerve, soaked bright red with blood, slithered out of her little finger, Hirai's face filled with rapture, and her whole body shook and convulsed.\n\"...See? The red thread.\"\nAnd she showed it to Mr. Kondo, delighted.\nRed blood was dripping from her little finger, drip, drip.\nAnd that blood was running down along the nerve she'd pulled out, trickling slowly.\nMr. Kondo had no idea what to say, and could only open and close his mouth like a goldfish.{p}What do you think Mr. Kondo did?\n"
+  },
+  {
+   "id": "41:4f50",
+   "op": "choice",
+   "en": "He ran away"
+  },
+  {
+   "id": "41:4f58",
+   "op": "choice",
+   "en": "He fought with the dropped knife"
+  },
+  {
+   "id": "41:4f70",
+   "op": "choice",
+   "en": "He hugged Hirai without thinking"
+  },
+  {
+   "id": "41:4f98",
+   "op": "text",
+   "en": "\"Ah... AAAAAAAAAGH!\"\nMr. Kondo must have been really scared, I think.\nHe mustered the last of his strength and ran.{p}",
+   "follows_choice": [
+    "41:4f50"
+   ]
+  },
+  {
+   "id": "41:5010",
+   "op": "text",
+   "en": "He forgot all about school.\nHe didn't even go back to the faculty room, he just ran all the way home.\nBut once he got back to his apartment, it hit him all over again.\nHirai knew where this apartment was.\nIt was right as he realized that.{p}"
+  },
+  {
+   "id": "41:510c",
+   "op": "text",
+   "en": "He heard a knocking at the door.\nMr. Kondo was so scared he covered his ears.{p}"
+  },
+  {
+   "id": "41:5170",
+   "op": "text",
+   "en": "But he could still hear it.\nSlipping through the gaps between the hands over his ears, Hirai's voice crept in.\n\"...Hey, Mr. Kondo.\nWhy did you run away?\nWe're tied together by the red thread.\"\n\"No!\nThat's not true!\"\nMr. Kondo forced himself to shout, trying to drown out Hirai's words.\nBut Hirai's voice seemed to echo right inside his head.\n\"...Mr. Kondo.\nDo you remember the promise?\nOur pinky swear.\"{p}"
+  },
+  {
+   "id": "41:5308",
+   "op": "text",
+   "en": "That moment came back to Mr. Kondo.\nThe pinky swear he'd made with Hirai.\n\"...Hey, Mr. Kondo?\nYou remember, don't you? Our promise.\nThe promise that you'd marry me once I graduated from high school.\nHey, Mr. Kondo, you remember, don't you?\"\nHirai's voice didn't stop.{p}"
+  },
+  {
+   "id": "41:541c",
+   "op": "text",
+   "en": "And neither did the pounding on the door.{p}"
+  },
+  {
+   "id": "41:5458",
+   "op": "text",
+   "en": "What do you think Mr. Kondo answered then?\n"
+  },
+  {
+   "id": "41:5484",
+   "op": "choice",
+   "en": "I remember."
+  },
+  {
+   "id": "41:5490",
+   "op": "choice",
+   "en": "I forgot."
+  },
+  {
+   "id": "41:5498",
+   "op": "choice",
+   "en": "Just go home!"
+  },
+  {
+   "id": "41:54a4",
+   "op": "choice",
+   "en": "Forgive me!"
+  },
+  {
+   "id": "41:54c0",
+   "op": "text",
+   "en": "\"I... I remember.\nI remember, so please, have mercy on me!\"\nThe instant he said it, the knocking on the door stopped.\nAnd so did Hirai's voice.\nInstead, he heard footsteps.\nFootsteps moving away from the door.\nAs the footsteps faded, the terror that had hit its peak slowly died down too.\nThe footsteps were completely gone.\n...What should I do?\nShould I open the door and check?\nThat's what Mr. Kondo thought.{p}So, what do you think he did?\n",
+   "follows_choice": [
+    "41:5484"
+   ]
+  },
+  {
+   "id": "41:5664",
+   "op": "choice",
+   "en": "He opened the door to look"
+  },
+  {
+   "id": "41:5678",
+   "op": "choice",
+   "en": "He didn't open the door"
+  },
+  {
+   "id": "41:5688",
+   "op": "text",
+   "en": "He shook his head and pushed the thought away.\nShe might still be on the other side of the door.\nSo he mustn't open it.\nAnd so he waited until night came.{p}",
+   "follows_choice": [
+    "41:5678"
+   ]
+  },
+  {
+   "id": "41:5720",
+   "op": "text",
+   "en": "He held his body rigid, held his breath, strained his ears so he wouldn't miss even the tiniest sound, and waited for dawn.\nIt was a long night.\nEvery second ticked off by the clock hands crawled by, like slow motion.\nAnd at some point, Mr. Kondo fell asleep.\nAs time went by, the tension wore off and he let his guard down, you know.\nBut in the middle of the night, a suspicious noise woke him up.\nSomething was rustling around in the room.{p}"
+  },
+  {
+   "id": "41:58c4",
+   "op": "text",
+   "en": "So he rubbed his sleepy eyes and took a good look, and guess what? Hirai was standing right in front of him.\nMr. Kondo was wide awake in an instant, but no voice would come out.\n\"...Mr. Kondo.\nI have a spare key, so I let myself in.\nI'm so glad you remembered our promise, Mr. Kondo.\nThe promise that you'd swallow a thousand needles.\"{p}"
+  },
+  {
+   "id": "41:59cc",
+   "op": "text",
+   "en": "In the dim light he couldn't see Hirai clearly, but the big bowl she held was glittering.\nThat bowl was heaped with glittering silver needles.\nMr. Kondo had no time to think.\nHirai grabbed Mr. Kondo's upper lip and yanked it up as hard as she could.{p}"
+  },
+  {
+   "id": "41:5af4",
+   "op": "text",
+   "en": "\"Gwegh!\"\nYou could almost hear his thick lips ripping away, flesh and all.\nPrying his mouth open with a strength you'd never believe came from a woman, Hirai poured the whole bowlful of needles into it.{p}"
+  },
+  {
+   "id": "41:5bb4",
+   "op": "text",
+   "en": "\"...Here you go, a thousand needles.\nChew them well, chew them well, and eat lots and lots.\nMy beloved future husband.\"\nOnce she'd poured in every needle, she closed his mouth and worked his jaw up and down.\nSo he could chew them properly.{p}"
+  },
+  {
+   "id": "41:5c74",
+   "op": "text",
+   "en": "\"Mngh... hagh...\"\nThe needles packed in his mouth burst through the flesh of his cheeks, and red needles came poking out.\nEven so, Hirai showed no mercy.\nOver and over she worked his jaw, and made sure he ate every last one, nice and clean.\nBy then, Mr. Kondo had gone quiet, too.{p}"
+  },
+  {
+   "id": "41:5d80",
+   "op": "text",
+   "en": "\"What's wrong?\nDid you fall asleep already?\nAnd here I was, about to show you how the two of us are tied together by the red thread...\"\nMurmuring that, Hirai opened the limp Mr. Kondo's mouth and peered inside.\n\"...Oh my, you haven't eaten them all yet.\nLeaving so many behind... What a naughty boy.\"\nCountless needles were stuck all over the inside of his mouth.\nHis tongue, especially, was bristling with them.\nHirai pulled out one of the needles.{p}"
+  },
+  {
+   "id": "41:5f20",
+   "op": "text",
+   "en": "Then she bit off Mr. Kondo's right little finger and pulled out a single nerve.\nAfter that, using the needle, she deftly stitched the nerve she'd drawn out of her own little finger to the nerve she'd drawn out of Mr. Kondo's.\n\"...See? We're tied together by the red thread.\nYour little finger and my little finger.\n...Right?\"\nHirai, who had kept her face blank the whole time, smiled for the very first time.\nAnd then she buried her face in Mr. Kondo's needle-stuffed belly and fell asleep.{p}"
+  },
+  {
+   "id": "41:60d4",
+   "op": "text",
+   "en": "...These days, I hear Hirai lives in a hospital.\nShe seems perfectly normal, apparently.\nMy big sister went to visit her a few times, so she'd know.\nAnd it was on one of those visits that Hirai told her this story.\nMy sister's seven years older than me.\nShe's twenty-three now.\nShe works in an office.\nBut Hirai, who was in her year, is still nineteen.\nShe says she'll be nineteen forever and never get any older.\n'Cause if she turned twenty, she'd die.\nHirai herself believes that, so there's nothing anyone can do, right?\nSo her family keeps telling her she's still nineteen, forever and ever.\nAnd apparently they're searching really hard.\nSearching for who, you ask?\nIsn't it obvious?\nSomeone named Shinji Kondo.\nMr. Kondo died, remember?\n",
+   "returns": []
+  },
+  {
+   "id": "41:6374",
+   "op": "text",
+   "en": "So unless they find a replacement Shinji Kondo, Hirai can't get any older.\nUmm, what were his birthday and blood type again?\nI did hear them, but I forgot.\nBut at this point, does that even matter anymore?\nIf her family can just find somebody close enough, they'll cover for it somehow.\n...Though if Hirai ever found out, she might kill him.\nHey, hey, if you have a friend named Shinji Kondo, would you tell me?\nI'll introduce him to her.\nDon't worry, it'll be fine.{p}"
+  },
+  {
+   "id": "41:6540",
+   "op": "text",
+   "en": "Oh, I know!\nWhat about you, {a}?\nDon't worry, if we play it smart, she won't find out.\n"
+  },
+  {
+   "id": "41:658c",
+   "op": "text",
+   "en": "If you find someone good, you want to get married soon, right?\nAnd Hirai's really beautiful, you know.\n"
+  },
+  {
+   "id": "41:65dc",
+   "op": "text",
+   "en": "Oh, right, looks don't matter to you, do they, {a}?\nWhat matters is personality, right?\nDon't worry, Hirai has a really great personality.\nAfter all, she's the type to devote herself to one man.\nAnd she says she's learning to cook, too.\nAnyway, she's got all the time in the world.\nShe's nineteen forever, after all.{p}"
+  },
+  {
+   "id": "41:66f8",
+   "op": "text",
+   "en": "And that's the end of my story, but...\n...The seventh one still isn't here, huh.\nWhat should we do?\nShould we just go home?{p}"
+  },
+  {
+   "id": "41:6758",
+   "op": "text",
+   "en": "Hmm.\nI guess boys aren't really into that kind of stuff.\nThen you don't believe in fortune-telling either, do you?\nThing is, there are lots of girls who get totally hooked on that stuff.\nAnd apparently something scary happened once because of it.\n...That's the kind of story I'm going to tell.{p}",
+   "follows_choice": [
+    "41:1330"
+   ]
+  },
+  {
+   "id": "41:6854",
+   "op": "text",
+   "en": "Hmm.\n...So you want to get married soon, huh.\nWow.\n......\nBut that doesn't mean just anyone will do, right?\nAnyway, about Hirai, who I was telling you about.{p}",
+   "follows_choice": [
+    "41:15c8"
+   ]
+  },
+  {
+   "id": "41:68e0",
+   "op": "text",
+   "en": "I told you she wanted to get married really, really badly, right?\nWell, apparently her standards were ridiculously high, too.{p}"
+  },
+  {
+   "id": "41:6940",
+   "op": "text",
+   "en": "You want to get married soon, right?\nThat works out perfectly, then.\nHirai's really beautiful, too.{p}"
+  },
+  {
+   "id": "41:6994",
+   "op": "text",
+   "en": "Hmm.\n...Is that really true?\nAren't you just playing the lone wolf because you're not very popular?\nOh, kidding, kidding.\nDon't get mad.\nAnyway, about Hirai, who I was telling you about.{p}",
+   "follows_choice": [
+    "41:15d0"
+   ]
+  },
+  {
+   "id": "41:6a38",
+   "op": "text",
+   "en": "Even if you say you don't want to get married, you can't stay like that your whole life.\n...Right?\nAnd Hirai's really beautiful, too.{p}"
+  },
+  {
+   "id": "41:6aac",
+   "op": "text",
+   "en": "Huh, so you like pretty women after all.\nI wonder if all boys are like that.{p}Okay, so what's your next priority?\n",
+   "follows_choice": [
+    "41:1810"
+   ]
+  },
+  {
+   "id": "41:6b1c",
+   "op": "choice",
+   "en": "Personality"
+  },
+  {
+   "id": "41:6b24",
+   "op": "choice",
+   "en": "Housework in general"
+  },
+  {
+   "id": "41:6b38",
+   "op": "text",
+   "en": "Personality, huh.\nWell, once you're married, you have to make it work together forever.\nIf your personalities don't click, there's nothing you can do.\n...And housework comes dead last.\nYeah, that makes sense.\nEven if someone's not much good at that stuff when they get married, they'll probably get better at it as they go.\nBut hey, so looks are your number one priority, {a}?\nWith a face like that, you're picky about looks? Who knew.{p}",
+   "follows_choice": [
+    "41:6b1c"
+   ]
+  },
+  {
+   "id": "41:6c98",
+   "op": "text",
+   "en": "Pfft.\nOh, no, it's nothing.\nAhaha!\nNo, no, don't mind me.\n...Sorry, I need to get on with the story.\nIt was about Hirai, right?{p}"
+  },
+  {
+   "id": "41:6d40",
+   "op": "text",
+   "en": "Hirai was a real beauty, I hear.\nBut that's not all.\nShe was lively and cheerful, so she was pretty popular.\nAnd she loved fortune-telling.\nShe was the president of the Fortune-Telling Club.{p}"
+  },
+  {
+   "id": "41:6e14",
+   "op": "text",
+   "en": "She was pretty, and she had a great personality, too.\nWell, I don't know about her housework.\nBut since she wanted to get married so badly, she could probably manage some of it, right?\n...Even if she wasn't all that good at it.\nAnyway, Hirai was really popular with boys.\nApparently quite a few boys joined the club just because of her.\nIt seems guys confessed to her a lot and stuff, but...\nHer standards were super high, remember?\nSo she turned down all kinds of people.\nHer ideal guy was good-looking, smart, aiming for a good university...\nWell, actually, that wasn't the kind of guy she wanted.\nShe said her ideal was someone who would understand everything about her.\nThat's all.\nBut that's really hard, isn't it?\nJust by being a boy and a girl, you think in fundamentally different ways.\nAnd yet, someone who understands every single thing about her...\nYou just don't come across people like that, right?\nThat's why people said her standards were super high.\nBut you know what?\nThere was someone like that.\nA boy who made her think, \"He's the one who'll understand everything about me.\"{p}"
+  },
+  {
+   "id": "41:71f4",
+   "op": "text",
+   "en": "His name was Hiromichi Sato.\nHe was a boy who joined the Fortune-Telling Club partway through his first year.\nUnlike the boys who were after Hirai, he joined because he was actually interested in fortune-telling.\nHe was a really kind person, it seems.\nAnd he was the type who noticed all sorts of things.\nLike, \"In a situation like this, something like that might happen later,\" or \"If you do this, it'll probably turn out like that.\"\nHe was really good at seeing that kind of thing.\nYou could say he had sharp instincts, or that he was just smart...\nThat's why Sato was good at fortune-telling, too.\nEveryone said his readings were spot-on.\nHe could tell fortunes, and he was good at reading people's feelings...{p}"
+  },
+  {
+   "id": "41:7438",
+   "op": "text",
+   "en": "When she saw Sato, she thought he was the one, no question about it.\nSo she'd go up and talk to him and all.\nAnd she'd be nice to him in all sorts of ways.\nAnd Sato wouldn't mind having a pretty senior in his club be nice to him, right?\nThe two of them got closer and closer.\nThey'd shared a hobby, fortune-telling, from the start, so they never ran out of things to talk about.\nLike there's a new kind of fortune-telling, or they found a fortune-telling shop.\nWhich fortune-teller was amazing, or what the fortune-telling machine at the arcade was like.\nThey talked about all kinds of stuff, it seems.{p}"
+  },
+  {
+   "id": "41:7634",
+   "op": "text",
+   "en": "But there was something fundamentally different about the two of them.\nHirai loved fortune-telling because she believed in mystical powers.\nSato loved fortune-telling because he was interested in reading people's minds.\n...That was the difference.\nDo you get what that means?\nHirai was a romantic, but Sato was a realist.\nSato understood that.\nWhen you tell someone's fortune, you ask them all sorts of questions as you go, right?\nTheir name, their blood type, their star sign.\nWhether they like someone, whether they have any worries...\nThen, from their answers and gestures, their looks and their tone of voice, you make all kinds of judgments and come up with a result, apparently.\nSato was really interested in that kind of back-and-forth.\nAnd since he was really good at it, his fortunes often came true.{p}"
+  },
+  {
+   "id": "41:78f4",
+   "op": "text",
+   "en": "But Hirai was different.\nShe purely believed in the mystery of fortune-telling.\nSato knew the two of them saw things differently.\nSo he never tried to talk with Hirai about how they each saw fortune-telling.\nHe didn't want to wreck what they had by arguing over something like that.{p}"
+  },
+  {
+   "id": "41:7a00",
+   "op": "text",
+   "en": "But Hirai...\nShe never noticed that fact.\nWhen she saw Sato's fortunes come true, she simply looked up to him.\nAfter all, Hirai's own fortunes didn't come true all that often.\nShe'd become president of the Fortune-Telling Club because of her good personality, not because of any skill at fortune-telling.\nWatching Sato made her believe in the mystery of fortune-telling more and more.\nAnd her feelings for Sato grew deeper and deeper.\nShe was sure of it.\nIf it was him, he'd understand everything about her.{p}"
+  },
+  {
+   "id": "41:7be4",
+   "op": "text",
+   "en": "So she started studying fortune-telling even harder than before.\nShe wanted to get even a little closer to him.\nBut her fortune-telling powers just didn't seem to improve.\nWell, of course not.\nShe didn't have any special sixth sense, and yet she was trying to tell fortunes with mystical power alone.{p}"
+  },
+  {
+   "id": "41:7cec",
+   "op": "text",
+   "en": "And then one day, she came across a certain book.\nIt was a book of black magic.\nIt had love fortunes in it, and black magic spells to make love come true.\nThe first thing Hirai tried was a love fortune.\nTo start with, she read a classmate's love fortune.\nAnd then...\nApparently it was super accurate.\nHirai's heart was pounding.\nShe thought maybe this method suited her best of all.\nBut she couldn't bring herself to use that black magic to read her compatibility with Sato.\nShe was scared, you see.\nWhat if it turned out they weren't compatible...\nWhat would she do then? That's what she thought.\nWell, the book did have black magic spells to make love come true, too.\nBut she didn't have the nerve to go that far.{p}"
+  },
+  {
+   "id": "41:7f70",
+   "op": "text",
+   "en": "So, anyway.\nShe wanted to know her compatibility with Sato.\nBut she was scared to find out...\nWhile she was brooding over that, she somehow found it hard to talk to Sato.\nSato noticed that she was acting differently.\nSo he talked with her.\nFirst, about the usual fortune-telling stuff.\nThen he planned to steer the conversation toward why she'd been acting differently.{p}"
+  },
+  {
+   "id": "41:80d4",
+   "op": "text",
+   "en": "\"Hirai, what kind of fortune-telling have you been doing lately?\"\nThat's how he started off.\nAnd then she...\nShe opened and closed her mouth like she couldn't bring herself to say it, then ran off, as if she was avoiding him.{p}"
+  },
+  {
+   "id": "41:81ac",
+   "op": "text",
+   "en": "She felt kind of guilty, and kind of embarrassed.\nSato thought something was off.\nHe had such sharp instincts, after all.\nFiguring out her secret was a piece of cake for him.{p}"
+  },
+  {
+   "id": "41:8264",
+   "op": "text",
+   "en": "He called her out, saying he'd tell her fortune, asked her this and that, and got her to tell him about the black magic.\nThis is what she said.{p}"
+  },
+  {
+   "id": "41:82e8",
+   "op": "text",
+   "en": "\"The truth is, there's someone I like... and I wanted to read my compatibility with that person...\"\nSato was shocked.\nBecause he had no idea who it was that Hirai liked.\nThinking that a girl he'd believed he was close to was in love with somebody made him feel kind of weird.{p}"
+  },
+  {
+   "id": "41:83e8",
+   "op": "text",
+   "en": "So he ended up blurting out what he'd kept to himself until then.\n\"You should quit the black magic.\nFortune-telling can't measure a person's fate.\"\nThat hurt her terribly.{p}"
+  },
+  {
+   "id": "41:84c0",
+   "op": "text",
+   "en": "\"That's not true☆\nWhy are you saying such mean things?\nLook, your fortunes come true all the time, Sato!\"\nShe said that, blaming him.\nWith her picking a fight, Sato's words got harsher and harsher, too.\n\"That isn't the power of fortune-telling at all. I'm just asking people questions and reading their thoughts and actions.\nIt's like a personality quiz.\nI don't believe in any mystical power of fortune-telling.\nYou'd better realize that soon, too, Hirai...!\"\n\"That's cruel... How can you say something so cruel☆\"{p}"
+  },
+  {
+   "id": "41:86a8",
+   "op": "text",
+   "en": "Hirai couldn't take it and ran away.\nWithout the slightest idea why Sato had said such a thing.\nShe was so mortified she couldn't stand it.{p}"
+  },
+  {
+   "id": "41:8748",
+   "op": "text",
+   "en": "So as soon as she got home, she opened the black magic book.\nTo see her compatibility with Sato.\nEven if they weren't compatible, the book had a way to make him fall for her, after all.\n\"I'll show you the power of fortune-telling!\" she thought, all fired up.\nFirst, with trembling hands, she read her compatibility with Sato.\nThe result was...\nThat it would end in misery.\nTears welled up in her eyes.\nThat was the one answer she never wanted to get.\nSo she decided to move on to the next step.\nThat's right.\nShe was going to try the black magic spell that makes love come true.\nThis is what the book said.\nDraw a magic circle, face north, and chant the person's name thirteen times.\nThen offer two or three drops of an animal's blood to the devil.\nShe drew the magic circle, faced north, and chanted Sato's name thirteen times.\nThen she set out to get some animal blood.\nHey, {a}.{p}What animal's blood do you think she took?\n"
+  },
+  {
+   "id": "41:8a44",
+   "op": "choice",
+   "en": "A stray dog's or stray cat's blood"
+  },
+  {
+   "id": "41:8a58",
+   "op": "choice",
+   "en": "A pet cat's blood"
+  },
+  {
+   "id": "41:8a74",
+   "op": "text",
+   "en": "She went outside and wandered around in a daze.\nAnd she found a stray cat.{p}",
+   "follows_choice": [
+    "41:8a44"
+   ]
+  },
+  {
+   "id": "41:8acc",
+   "op": "text",
+   "en": "\"Come here... come here.\"\nShe tried to get close to the stray cat.\nBut...\n\"Ah... wait...\"\nThe stray cat ran away.{p}"
+  },
+  {
+   "id": "41:8b5c",
+   "op": "text",
+   "en": "\"It's not like I'm going to kill you or anything...\"\nAs she said it, a strange light gleamed in her eyes.\nShe started wandering in a daze again.{p}"
+  },
+  {
+   "id": "41:8bec",
+   "op": "text",
+   "en": "And this time, she found a stray dog.\nIn her pocket was a box cutter.\nShe gripped it in her trembling hand.\nThe dog's eyes glowed faintly in the dark of the night.{p}"
+  },
+  {
+   "id": "41:8c9c",
+   "op": "text",
+   "en": "How should she stab the dog with this box cutter...?\nShe thought it over.\nIf only the dog understood words, she could just ask it to share a little of its blood.\nBefore she knew it, sweat had broken out on her forehead.{p}"
+  },
+  {
+   "id": "41:8d58",
+   "op": "text",
+   "en": "\"Grrwoof, wrroof☆\"\nA big dog's bark.{p}"
+  },
+  {
+   "id": "41:8d94",
+   "op": "text",
+   "en": "Startled, she pushed the box cutter's blade all the way out in one go and slashed down at the dog.{p}"
+  },
+  {
+   "id": "41:8df8",
+   "op": "text",
+   "en": "The box cutter stuck into the dog's flank.\nBut right then, the blade snapped...{p}"
+  },
+  {
+   "id": "41:8e58",
+   "op": "text",
+   "en": "\"Rrowrgh-grawr☆\"\nIn agony, the dog leapt at her.\n\"Kyaaaah☆\"\nHer scream echoed through the night streets.\n\"No, nooooo☆\"\nThe dog sank its teeth into her arm.\nDesperately, she brought the broken box cutter down.\nShe stabbed the broken blade into the dog's neck and shoulders, again and again.\nSprays of blood spattered all over her face.\nLike mud splashing up on a rainy day.\nSplat, splat.\nThe two of them fought on for a while, box cutter against fangs.\nAnd so, time passed...{p}"
+  },
+  {
+   "id": "41:9024",
+   "op": "text",
+   "en": "The dog was the first to stop moving.\nOn the road, a gruesome trail of blood.\nThe blood sprayed far and wide gave off a stifling, raw stench.\n\"Two or three drops would have been enough...\"\nShe ran her handkerchief along the dog's wound and tucked it into her pocket.\nThen she started walking home.{p}"
+  },
+  {
+   "id": "41:9138",
+   "op": "text",
+   "en": "When she got home, she collapsed onto her bed, exhausted.\nShe had the animal blood.\nSo she could do the black magic anytime.\nRight now, she just wanted to rest a little...\nShe fell asleep right away.\nWithout even changing out of her bloodstained clothes.\n......\nThat night, she had a dream.{p}"
+  },
+  {
+   "id": "41:9244",
+   "op": "text",
+   "en": "It was someone's wedding.\nA woman in a bright red wedding dress was saying something like this.\n\"Why is my dress so red?\nTwo or three red flowers would have been enough...\"\nHirai felt like she'd heard those words somewhere before.\nThe bride noticed Hirai and smiled at her.\nHer mouth was crammed with rows of teeth that looked like they could bite right through a person.\nWere human teeth really shaped like that?\nHirai wondered, her head foggy.\nJust then, the bride slowly peeled back her veil.\nAnd then...{p}"
+  },
+  {
+   "id": "41:9450",
+   "op": "text",
+   "en": "Beneath the veil was the face of a skull.\nThe very same face as the picture in the black magic book.{p}"
+  },
+  {
+   "id": "41:94c4",
+   "op": "text",
+   "en": "...That's when Hirai woke up.\n\"What a dream...\"\nHer body was drenched in sticky sweat.\n\"I'll take a shower... I still haven't washed yesterday's wounds...\"\nShe got up out of bed.\nAnd then...{p}"
+  },
+  {
+   "id": "41:95b4",
+   "op": "text",
+   "en": "There wasn't any blood on her clothes.\nThere wasn't any on her body, either.\nEven though she'd gone to sleep covered in blood.\nShe panicked.\nThen she looked at the handkerchief in her pocket.\nAnd...\nThere wasn't any blood on the handkerchief, either.\n\"What on earth...?\"\nShe sensed something behind her.\nAnd when she turned around...{p}"
+  },
+  {
+   "id": "41:96fc",
+   "op": "text",
+   "en": "There was the red wedding dress she'd seen in her dream.\nAnd a voice came from somewhere.\n\"I have indeed received the animal's blood.\nBut your blood tasted better than the dog's...\"\nThat day, she came down with a fever and stayed home from school.{p}"
+  }
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "slice": "S075",
+ "scene": "19",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S074",
+ "next": "S076",
+ "rows": [
+  {
+   "id": "19:09cc",
+   "op": "text"
+  },
+  {
+   "id": "19:0cb4",
+   "op": "text"
+  },
+  {
+   "id": "19:0d58",
+   "op": "text"
+  },
+  {
+   "id": "19:0d94",
+   "op": "choice"
+  },
+  {
+   "id": "19:0d9c",
+   "op": "choice"
+  },
+  {
+   "id": "19:0da4",
+   "op": "choice"
+  },
+  {
+   "id": "19:0db0",
+   "op": "choice"
+  },
+  {
+   "id": "19:0db8",
+   "op": "choice"
+  },
+  {
+   "id": "19:0dc4",
+   "op": "choice"
+  },
+  {
+   "id": "19:0dd0",
+   "op": "text",
+   "follows_choice": [
+    "19:0dc4"
+   ]
+  },
+  {
+   "id": "19:0e14",
+   "op": "text"
+  },
+  {
+   "id": "19:0fc0",
+   "op": "text"
+  },
+  {
+   "id": "19:10dc",
+   "op": "choice"
+  },
+  {
+   "id": "19:10e4",
+   "op": "choice"
+  },
+  {
+   "id": "19:10ec",
+   "op": "choice"
+  },
+  {
+   "id": "19:10f8",
+   "op": "choice"
+  },
+  {
+   "id": "19:1100",
+   "op": "choice"
+  },
+  {
+   "id": "19:1114",
+   "op": "text",
+   "follows_choice": [
+    "19:0d94",
+    "19:10dc",
+    "19:4f5c"
+   ]
+  },
+  {
+   "id": "19:1244",
+   "op": "text"
+  },
+  {
+   "id": "19:13dc",
+   "op": "choice"
+  },
+  {
+   "id": "19:1400",
+   "op": "choice"
+  },
+  {
+   "id": "19:1424",
+   "op": "choice"
+  },
+  {
+   "id": "19:142c",
+   "op": "text",
+   "follows_choice": [
+    "19:1400"
+   ]
+  },
+  {
+   "id": "19:1520",
+   "op": "text"
+  },
+  {
+   "id": "19:1558",
+   "op": "choice"
+  },
+  {
+   "id": "19:1568",
+   "op": "choice"
+  },
+  {
+   "id": "19:1578",
+   "op": "choice"
+  },
+  {
+   "id": "19:158c",
+   "op": "text",
+   "follows_choice": [
+    "19:1568"
+   ]
+  },
+  {
+   "id": "19:1710",
+   "op": "text"
+  },
+  {
+   "id": "19:1774",
+   "op": "text"
+  },
+  {
+   "id": "19:17c8",
+   "op": "text"
+  },
+  {
+   "id": "19:1828",
+   "op": "text"
+  },
+  {
+   "id": "19:186c",
+   "op": "text"
+  },
+  {
+   "id": "19:18e4",
+   "op": "choice"
+  },
+  {
+   "id": "19:1908",
+   "op": "choice"
+  },
+  {
+   "id": "19:192c",
+   "op": "text",
+   "follows_choice": [
+    "19:18e4"
+   ]
+  },
+  {
+   "id": "19:1988",
+   "op": "text"
+  },
+  {
+   "id": "19:19f0",
+   "op": "text"
+  },
+  {
+   "id": "19:1b34",
+   "op": "text"
+  },
+  {
+   "id": "19:1bdc",
+   "op": "text"
+  },
+  {
+   "id": "19:1c58",
+   "op": "choice"
+  },
+  {
+   "id": "19:1c74",
+   "op": "choice"
+  },
+  {
+   "id": "19:1c90",
+   "op": "text",
+   "follows_choice": [
+    "19:1c74",
+    "19:9458"
+   ]
+  },
+  {
+   "id": "19:1d50",
+   "op": "text"
+  },
+  {
+   "id": "19:1d60",
+   "op": "text"
+  },
+  {
+   "id": "19:1dbc",
+   "op": "text"
+  },
+  {
+   "id": "19:1eb4",
+   "op": "text"
+  },
+  {
+   "id": "19:1f24",
+   "op": "text"
+  },
+  {
+   "id": "19:1fc0",
+   "op": "text"
+  },
+  {
+   "id": "19:20ac",
+   "op": "text"
+  },
+  {
+   "id": "19:21d4",
+   "op": "text"
+  },
+  {
+   "id": "19:2408",
+   "op": "text",
+   "follows_choice": [
+    "19:0d9c",
+    "19:10e4",
+    "19:4f64"
+   ]
+  },
+  {
+   "id": "19:24a8",
+   "op": "text"
+  },
+  {
+   "id": "19:25a4",
+   "op": "text"
+  },
+  {
+   "id": "19:26fc",
+   "op": "text"
+  },
+  {
+   "id": "19:280c",
+   "op": "choice"
+  },
+  {
+   "id": "19:2830",
+   "op": "choice"
+  },
+  {
+   "id": "19:2854",
+   "op": "text",
+   "follows_choice": [
+    "19:280c"
+   ]
+  },
+  {
+   "id": "19:2914",
+   "op": "text"
+  },
+  {
+   "id": "19:29a0",
+   "op": "choice"
+  },
+  {
+   "id": "19:29b0",
+   "op": "choice"
+  },
+  {
+   "id": "19:29c0",
+   "op": "text",
+   "follows_choice": [
+    "19:29b0"
+   ]
+  },
+  {
+   "id": "19:2a28",
+   "op": "text"
+  },
+  {
+   "id": "19:2a9c",
+   "op": "text"
+  },
+  {
+   "id": "19:2b28",
+   "op": "text"
+  },
+  {
+   "id": "19:2c44",
+   "op": "text"
+  },
+  {
+   "id": "19:2c98",
+   "op": "text"
+  }
+ ]
+}

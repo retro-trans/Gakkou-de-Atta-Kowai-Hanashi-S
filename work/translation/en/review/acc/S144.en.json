@@ -1,0 +1,355 @@
+{
+ "slice": "S144",
+ "scene": "37",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S143",
+ "next": "S145",
+ "todo": [],
+ "rows": [
+  {
+   "id": "37:4550",
+   "op": "text",
+   "follows_choice": [
+    "37:4540"
+   ],
+   "en": "She's only human too, so I think she'd be happy to be thanked or praised.\nEven I can understand that.\nBut you know, once you start wanting something back, there's no end to it, right?\nAt that point you can't call it kindness anymore.\nHer helping people gradually escalated.\nForcing your kindness on people, I guess you'd call it. Come on, haven't you heard of that?\nPeople who rush around helping others just because they want a certificate of thanks.\nShe turned into one of those people.{p}"
+  },
+  {
+   "id": "37:46dc",
+   "op": "text",
+   "en": "She'd show up without being asked, butt in on this and that, and when things worked out she'd expect something in return.\nAnd when they failed, she'd be the only one to wriggle out of the blame, so everyone drifted away from her, apparently.\nAt first, even the teachers let it slide, since she was helping people.\nBut eventually people started complaining about her, and they couldn't very well not warn her.{p}"
+  },
+  {
+   "id": "37:4844",
+   "op": "text",
+   "en": "But no matter how many times the teachers warned her, her way of thinking didn't change.\nEven the most earnest people fall fast, don't they?\nPeople like her are called hypocrites.\nThough I don't think she ever realized it herself...\nThen one day.\nIt was after school.{p}"
+  },
+  {
+   "id": "37:495c",
+   "op": "text",
+   "en": "A girl was sitting slumped on the ground in front of the school gate.\nI think her name was Miyagi.\nShe was a transfer student who couldn't fit in with her class, and she was being bullied, apparently."
+  },
+  {
+   "id": "37:49fc",
+   "op": "text",
+   "en": "She was into the occult, and there were rumors that she always carried weird things around, or that you'd be cursed if you touched her, so nobody went near her.\nThat day too, I bet she'd been bullied and was crying by the gate.\nMiyagi looked a little pale.\nAnd the one who happened to pass by was Sugiura.{p}"
+  },
+  {
+   "id": "37:4b28",
+   "op": "text",
+   "en": "\"Um, is something wrong?\"\n\"Please, my throat is so dry.\nI need some water.\"\nSaying that, Miyagi lifted her face a little.\nIt was deathly pale.\nBut to Sugiura, the bigger problem was that the one sitting there was Miyagi.{p}"
+  },
+  {
+   "id": "37:4c20",
+   "op": "text",
+   "en": "They weren't in the same class, but she knew the rumors about Miyagi.\nWhat do I do? Everyone hates her. What if I get dragged into it and end up bullied too?\nAnd getting thanked by her for helping isn't worth much...\nThat's what she was thinking, I'm sure.\nIf there'd still been people around, it might've been different.\n\"Sugiura, so kind and gentle, even to a student who gets bullied.\"\nShe'd have helped just to put on that show, you see.\nBut the students and teachers all seemed to have gone home, and there was nobody around.{p}"
+  },
+  {
+   "id": "37:4dc0",
+   "op": "text",
+   "en": "\"Please, take me to the drinking fountains.\"\nMiyagi's voice was more desperate than before.\nEven Sugiura seemed a little surprised.\nHee hee hee, {b}?{p}What would you have answered?\n"
+  },
+  {
+   "id": "37:4e7c",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "37:4e84",
+   "op": "choice",
+   "en": "No way"
+  },
+  {
+   "id": "37:4e8c",
+   "op": "text",
+   "follows_choice": [
+    "37:4e7c"
+   ],
+   "en": "Yeah, I thought you'd say that.\n{b}, you look like the kind type.\nSugiura answered like this too, that time.\n\"Y-yes.\"\nMiyagi really did look sick.\nEven Sugiura couldn't just leave her there.\nShe held Miyagi up by the shoulders and slowly walked her in through the school gate.{p}"
+  },
+  {
+   "id": "37:4fa8",
+   "op": "text",
+   "en": "The closest and easiest place to find was those drinking fountains beside the gym, the ones I mentioned.\nSo that's where Sugiura took Miyagi."
+  },
+  {
+   "id": "37:5038",
+   "op": "text",
+   "en": "When they reached the fountains, Miyagi gulped the water down like it was delicious.\n\"Thank you.\nI'm fine now.\"{p}"
+  },
+  {
+   "id": "37:50a4",
+   "op": "text",
+   "en": "After catching her breath, Miyagi thanked her.\nTo Sugiura it felt a little lacking, but she seemed a bit happy all the same.\nSo that day, she went home in a slightly happy mood.\nWalking partway with Miyagi, too.{p}"
+  },
+  {
+   "id": "37:518c",
+   "op": "text",
+   "en": "And then, the next day.\nSugiura got to school and was stunned."
+  },
+  {
+   "id": "37:51d0",
+   "op": "text",
+   "en": "Her classmates were giving her cold looks.\nIf you ask me, it was more like,\n\"You're only noticing now?\"\nbut anyway.{p}"
+  },
+  {
+   "id": "37:524c",
+   "op": "text",
+   "en": "They acted weirdly distant, and wouldn't even answer when she talked to them.\nSugiura thought it over.\nThis has to be because of what happened yesterday.\nSomeone must have seen me with Miyagi yesterday.\nThat's why I'm getting dragged into being bullied too.\n...How selfish can you get?\nWhat an imagination, or rather, it's amazing how far she could go blaming other people.\nUntil then, she hadn't noticed at all that she was the one everybody hated.\nThe little happiness she'd felt yesterday had already been pushed to the far edge of her memory.{p}"
+  },
+  {
+   "id": "37:545c",
+   "op": "text",
+   "en": "So Sugiura stormed over to Miyagi's class to complain.\nShe couldn't rest until she'd said her piece.\nBut when she got to the front of that classroom, she saw something unbelievable.\nInside, the girls were chatting happily..."
+  },
+  {
+   "id": "37:555c",
+   "op": "text",
+   "en": "And right in the middle of them was Miyagi.\nShe seemed so well liked and popular you'd never believe she'd been bullied.\nIt's no big deal, really, it happens all the time.\nThe bullying only started in the first place because Miyagi was a transfer student who hadn't fit in with the class.\nAnd the occult stuff, every girl that age gets hooked on it at least once.\nThe curse was just a rumor that grew in the telling.{p}"
+  },
+  {
+   "id": "37:56cc",
+   "op": "text",
+   "en": "Most of the time, that kind of thing gets solved by time, don't you think?\nBesides, Miyagi was apparently a pretty funny girl, and good at talking.\nI think she could've become the class favorite in no time.\nBut to Sugiura, it was an unbelievable turn of events.\nShe had the illusion that her place and Miyagi's had suddenly been swapped.\nOut of nowhere, the rumors she'd heard about Miyagi before came floating up in her mind.{p}"
+  },
+  {
+   "id": "37:5864",
+   "op": "text",
+   "en": "Is this the curse they talked about? Her curse?\nThat if you touch her, you get cursed...\nThat's what I heard, I'm sure of it.\nJust then, Miyagi, inside the classroom, noticed Sugiura and gave her a big smile.\nJust a normal face, the kind you'd smile at a friend with.\nSugiura had been kind to her yesterday, after all, so she wasn't going to get angry or ignore her, right?\nBut to Sugiura, even that smile looked like a nasty, mocking sneer.\nSuspicion breeds demons, just like they say.\nFrom that day on, Sugiura shut herself up in her room and never set foot outside.{p}"
+  },
+  {
+   "id": "37:5a3c",
+   "op": "text",
+   "en": "\"I'm cursed.\nThe witch put a curse on me.\"\nShe kept muttering that over and over like she was delirious, and she barely ate anything, apparently.\nEveryone besides herself, even her parents, she suspected of being on the witch's side... I mean, Miyagi's.\nAnd finally, she came to a conclusion.\nThe only way to break the curse was to defeat the one who had cast it.\nShe'd really lost it by then, it seems.\nShe got out of bed and walked off, staggering like a sleepwalker.{p}"
+  },
+  {
+   "id": "37:5bec",
+   "op": "text",
+   "en": "Somehow she knew the way, because she made it to the school.\nShe stood waiting by the school gate for Miyagi, perfectly still, apparently.{p}"
+  },
+  {
+   "id": "37:5c74",
+   "op": "text",
+   "en": "\"I need a favor.\nCome with me.\"\nMiyagi must have been surprised.\nOut of nowhere, a hand shot out from the shadow of the gate and clamped onto her arm.\nAnd it was Sugiura, all skin and bones, her eyes bulging and rolling grotesquely.\nWhat's going on, all of a sudden...?\nI bet that's what Miyagi thought.\nAfter all, when she'd gone to visit Sugiura, she'd been sent away.\nWithout even waiting for Miyagi's answer, Sugiura started walking, yanking her along by the arm.{p}"
+  },
+  {
+   "id": "37:5e0c",
+   "op": "text",
+   "en": "She wasn't staggering anymore.\nShe was marching along with firm, steady steps.{p}"
+  },
+  {
+   "id": "37:5e74",
+   "op": "text",
+   "en": "Where Sugiura took Miyagi was a reservoir a little way from the school.\nAnd when the two of them stood side by side on top of its embankment...☆{p}"
+  },
+  {
+   "id": "37:5f0c",
+   "op": "text",
+   "en": "\"Eeeeeeeeeeeeeeek☆\"\nSugiura shoved Miyagi off it with all her might.\nWhere in that wasted body did she find that kind of strength...?\nMiyagi seemed to struggle for a while, but eventually she sank under the water.{p}"
+  },
+  {
+   "id": "37:5ff4",
+   "op": "text",
+   "en": "\"I did it!\nI defeated the wicked witch!\"\nOnly Sugiura's shrill laughter echoed.\nSomeone who heard it came running and pinned Sugiura down, apparently.{p}"
+  },
+  {
+   "id": "37:6094",
+   "op": "text",
+   "en": "In the end, Miyagi's body was never recovered.\nIt sank where the algae and water weeds grow thick, and supposedly not even divers can get close...\nAs for Sugiura, I heard they put her in a hospital.\nThey say there's no chance she'll ever be released.{p}"
+  },
+  {
+   "id": "37:6170",
+   "op": "text",
+   "en": "And so, ever since around the time of that incident, they say strange water comes out of the second faucet from the right at those drinking fountains beside the gym.\nSmelly water, mixed with mud and sand.\nThere's nothing wrong with the pipes at all, and the other faucets give normal water...\nThey tried replacing the faucet, but nothing changed.\nOnly the second faucet from the right runs muddy water, they say.{p}"
+  },
+  {
+   "id": "37:62c4",
+   "op": "text",
+   "en": "The only thing anyone could think of was that the water for those faucets was piped in from the reservoir where Miyagi sank.\nSo people were whispering that it had to be Miyagi's grudge, her curse.{p}"
+  },
+  {
+   "id": "37:6384",
+   "op": "text",
+   "en": "If you ask me, she should've just taken it out on Sugiura directly.\nBut it was creepy enough that the teachers sealed the faucet.\nMiyagi's body...?\nI bet it's still down in the water, don't you think?{p}"
+  },
+  {
+   "id": "37:6438",
+   "op": "text",
+   "en": "Hee hee hee, what's wrong?\nAre you scared?\nHa ha ha, relax.\nThey don't take water from that reservoir anymore.\nA big dam got built a while back, remember?\nThough there's no guarantee nobody's died there.\nYeah, the water source changed, so maybe no more muddy water.\nMaybe I'll go unseal that faucet later.\nDon't tell anyone else, okay?\nHee hee hee.\nThat's the end of my story.\n...Who's next?{p}"
+  },
+  {
+   "id": "37:65e0",
+   "op": "text",
+   "follows_choice": [
+    "37:4e84"
+   ],
+   "en": "Hmm, {b}, you're surprisingly firm.\nI thought you were the type who can't say no when someone's counting on you.\nSorry, don't be mad.\nI didn't mean anything by it, I just said what I was thinking.\nSame as you, {b}, Sugiura gave that answer back then.\n\"No way. If I get mixed up with someone like you, they'll bully me too!\"\nWith that, she shook off Miyagi's hand.\n\"Wait, please.\"\nMiyagi clung desperately to the hem of Sugiura's skirt.\n\"Let go of me!\"\nSugiura tore the hand away and ran off.{p}"
+  },
+  {
+   "id": "37:67f0",
+   "op": "text",
+   "en": "When she got home, she happened to look and saw the creases left in her skirt hem where Miyagi had grabbed it.\nEven Sugiura had trouble sleeping that night, it seems.{p}"
+  },
+  {
+   "id": "37:6894",
+   "op": "text",
+   "en": "And then, the next day.\nMaybe it was bugging her, because she headed to school earlier than usual.\nOut on the field, morning practice was just wrapping up.\nWhat was going on?\nThere was a commotion over by the gym.\nEveryone was running over...\nSugiura found herself walking faster too.\nShe had a bad feeling, you see.{p}"
+  },
+  {
+   "id": "37:69a8",
+   "op": "text",
+   "en": "Where the students had gathered was... the drinking fountains beside the gym.\nShe could hear girls screaming and sobbing, too.\nSugiura pushed through the crowd to the front."
+  },
+  {
+   "id": "37:6a3c",
+   "op": "text",
+   "en": "There lay Miyagi's body, dead with her eyes still open!\nThe faucet had been left running, and the whole area was soaking wet.\nThe cause of death was shock from an attack of a chronic illness.\nThat's why she'd looked so pale when she met Sugiura.\nApparently, after Sugiura went home, Miyagi made it here on her own, but had an attack before she could even get a sip down.\nSugiura seemed to feel a little responsible, and for a while after that she kept a low profile, apparently.{p}"
+  },
+  {
+   "id": "37:6be8",
+   "op": "text",
+   "en": "But eventually, strange rumors started going around about those fountains.\nThat at two in the morning the second faucet from the right would be left running, that a girl's ghost appeared in the evening, all kinds of things.\nAfter an incident like that, everyone was whispering that it was Miyagi's ghost coming out.{p}"
+  },
+  {
+   "id": "37:6cf0",
+   "op": "text",
+   "en": "Of course, the one that made the most nervous was Sugiura.\nShe was scared every single day... what if Miyagi was coming out because she held a grudge against her?\nAfter classes she went home as fast as she could, and she wouldn't go anywhere near those fountains.\nEven so, hearing the rumors still got to her, and she transferred schools like she was running away, apparently.{p}"
+  },
+  {
+   "id": "37:6e30",
+   "op": "text",
+   "en": "After Sugiura left this school, a new rumor spread about those fountains.\nIt was about a girl's ghost again, but this time an awful lot of people actually saw it.{p}"
+  },
+  {
+   "id": "37:6ef4",
+   "op": "text",
+   "en": "There's a girl wearing this school's uniform, see,\n\"Please forgive me, it was my fault.\"\nand she keeps apologizing like that, desperately, they say.\nWrapped in a blazing red light, she suddenly lets out a weird shriek and vanishes.{p}"
+  },
+  {
+   "id": "37:6fd0",
+   "op": "text",
+   "en": "You know, I have an idea who that girl is.\nWho? Sugiura, the one who transferred, of course.\nHee hee hee, officially it was a transfer, but actually, she'd killed herself, apparently.\nMaybe her guilty conscience was tormenting her...\nShe was more of a coward than she looked, huh?{p}"
+  },
+  {
+   "id": "37:70b4",
+   "op": "text",
+   "en": "And the way she did it was flashy, or bold, or something...\nShe burned herself to death.\nShe snuck out of the house at night, and on the embankment of that reservoir near this school, she doused herself in kerosene and set herself on fire.{p}"
+  },
+  {
+   "id": "37:718c",
+   "op": "text",
+   "en": "Someone thought there was a fire and called it in, and the police and firefighters rushed over right away, but it was already too late.\nRight in front of their eyes, the flames burned up Sugiura and nothing else, then just faded away.{p}"
+  },
+  {
+   "id": "37:7248",
+   "op": "text",
+   "en": "The strange thing is, after the fire went out, there was nothing left at all.\nNot her body, not even her bones.\nEveryone who was there saw her, so I think she really did burn up completely.{p}"
+  },
+  {
+   "id": "37:7324",
+   "op": "text",
+   "en": "But because it was so shocking, and because it came right after Miyagi's incident, the school made it out to be a transfer.\nOh yeah, there was one more rumor.{p}"
+  },
+  {
+   "id": "37:73d0",
+   "op": "text",
+   "en": "About that second faucet from the right at the drinking fountains beside the gym: up until then, it was just that the water got left running... that kind of thing, right?{p}"
+  },
+  {
+   "id": "37:7460",
+   "op": "text",
+   "en": "Well, from that day on, it changed to a black, slimy liquid like oil coming out.\nThis rumor was true: no matter how much they checked the pipes, the faucet and the water tank, they couldn't find anything wrong.\nThe other faucets were perfectly fine, but only that one gave out a weird liquid.{p}"
+  },
+  {
+   "id": "37:7580",
+   "op": "text",
+   "en": "Weird, right?\nThat got blamed on Miyagi's ghost too, though.\nThe students made such a fuss that the school sealed the faucet, to do it before the truth about Sugiura got out.\nAfter that, the girl's ghost stopped appearing too, and only the rumor stayed behind, like a legend.\nHuh? How come I know so much about it?{p}"
+  },
+  {
+   "id": "37:76b4",
+   "op": "text",
+   "en": "Heh heh, my mom graduated from here.\nShe was Sugiura's classmate.\nAnd while I'm at it, my big sister graduated from here too.\nAnd the one who saw Sugiura burning and called it in was my dad.\nThey got together because of what happened with Miyagi and Sugiura...\nYou can't call it romantic, but they're a pretty unusual couple, huh?\nThese days the rumor's almost forgotten, but that faucet's still sealed.\nPhew, that's as far as my story goes.\nWho are you picking next?{p}"
+  },
+  {
+   "id": "37:7874",
+   "op": "text",
+   "follows_choice": [
+    "37:4548"
+   ],
+   "en": "Right, {b}, you're pretty famous, after all.\nYou probably can't understand people who get all happy or upset over little things like this.\nHa ha, I'm not blaming you or anything.{p}"
+  },
+  {
+   "id": "37:791c",
+   "op": "text",
+   "en": "Sugiura was really happy about the elderly person's gratitude, but she didn't quite get why everyone was praising her so much.\nBecause to her, being kind to people was only natural.\nShe'd convinced herself that everyone else thought the same way she did.\nEven though they say most people can't do what's only natural.\nAfter that, Sugiura went on being a kind, caring person, they say.\nSeeing that, more and more people sang her praises.\nBut it wasn't only humans who came clinging to that kindness of hers.{p}"
+  },
+  {
+   "id": "37:7b3c",
+   "op": "text",
+   "en": "One day, after P.E., as Sugiura was heading back to the classroom, she heard a voice from somewhere.\nA faint, thin voice that sounded like it was calling for help.\nShe immediately went looking for whoever it was.{p}"
+  },
+  {
+   "id": "37:7c04",
+   "op": "text",
+   "en": "The voice seemed to come from the back of the gym, from the gym storeroom.\n\"I didn't hear anything when I put the balls away just now...\"\nMuttering that, she went toward the voice.{p}"
+  },
+  {
+   "id": "37:7ccc",
+   "op": "text",
+   "en": "Inside the gym storeroom, two children...\nA big brother and his little sister, maybe?\n...were crouched down, as if hiding behind the mats.\n\"W... water... we want water...\"\nThe children, in ragged clothes, stretched out their skinny hands, pleading desperately.\nHow on earth had they gotten in, and why were they dressed like that?\nLots of things were strange, but she didn't really mind.\nFeeling sorry for them came first, I guess.\n\"All right.\nWait just a moment.\"\nSugiura wanted to give these poor siblings a drink of water.{p}What do you think she did?\n"
+  },
+  {
+   "id": "37:7ecc",
+   "op": "choice",
+   "en": "She went and got them some water"
+  },
+  {
+   "id": "37:7ee4",
+   "op": "choice",
+   "en": "She took them to the fountains"
+  },
+  {
+   "id": "37:7efc",
+   "op": "text",
+   "follows_choice": [
+    "37:7ecc"
+   ],
+   "en": "That's right.\nShe tried to go get them some water.\nThe closest place from there was the drinking fountains beside the gym.{p}"
+  },
+  {
+   "id": "37:7f70",
+   "op": "text",
+   "en": "After hurrying over to the fountains, she realized she had nothing to carry the water in.\n\"What do I do?\"\nFor now, she decided to go back to the storeroom.\nBesides, bringing the two of them along would be faster, right?{p}"
+  },
+  {
+   "id": "37:803c",
+   "op": "text",
+   "en": "Inside the gym storeroom, the little siblings were waiting for Sugiura.\n\"Sorry.\nI couldn't bring any water.\nBut I'll take you to where the water is right now, okay?\"\nWith that, she picked up the little sister in her arms, took the big brother by the hand, and headed for the fountains.{p}"
+  },
+  {
+   "id": "37:8144",
+   "op": "text",
+   "en": "Maybe because they were so thin, both children were very light.\nSo she reached the fountains in no time.\nAnd then...☆{p}"
+  },
+  {
+   "id": "37:81d0",
+   "op": "text",
+   "en": "A searing pain shot through the side of her neck!\nThe little sister had sunk her teeth into Sugiura's neck!\nThen an agonizing pain in her right hand too...!{p}"
+  },
+  {
+   "id": "37:8240",
+   "op": "text",
+   "en": "The siblings were slurping her blood, their throats gulping.\nThe children's bodies, so light just moments ago, gradually grew heavier...\nSugiura couldn't stay on her feet and collapsed right there.\nEven then, the two siblings wouldn't let go of her.\nNot until they'd sucked out every last drop of her blood.{p}"
+  },
+  {
+   "id": "37:8368",
+   "op": "text",
+   "en": "When she was found, her body was dry and shriveled up like a mummy.\nThe one who found her was a classmate of Sugiura's, but by the time that student got there, the siblings were gone.\nThe student only heard the voices of little children.\n\"That was yummy, wasn't it, big brother?\"\n\"Yeah, it was yummy.\"\nLike that.{p}"
+  },
+  {
+   "id": "37:84b4",
+   "op": "text",
+   "en": "...These siblings, see, seem to be the ghosts that are rumored to appear in this school.\nSupposedly they're earthbound spirits who died around here during the war.\nSugiura was kind even to ghosts, huh.\nBut dying because of it... it feels like something's wrong with the world.\nFrom that day on, a thick, reddish-brown liquid started coming out of the second faucet from the right at the drinking fountains beside the gym.\nThe other faucets are perfectly fine.\nThey checked the pipes too, but found nothing wrong.\nSome students made a fuss that it might be blood, so the school apparently had no choice but to seal the faucet.{p}"
+  }
+ ]
+}

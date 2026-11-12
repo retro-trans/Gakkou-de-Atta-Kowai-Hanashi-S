@@ -1,0 +1,349 @@
+{
+ "chunk": "E116",
+ "scene": "63",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S227"
+ ],
+ "prev": "E115",
+ "next": "E117",
+ "todo": [],
+ "rows": [
+  {
+   "id": "63:82cc",
+   "op": "text",
+   "en": "Heh heh heh...\nThere was a reason I told you this story, you know.\nToday is Yuya's memorial: three years since he died.\nAnd it's the day he promised he'd come back...\nHe was a truly sincere man.\nSo he's bound to come back.\nBack to me...{p}",
+   "returns": []
+  },
+  {
+   "id": "63:83b4",
+   "op": "text",
+   "en": "I hate liars.\nHe should know that better than anyone.\nEven dead, I'm sure he'll keep his promise.\nYuya will come back. I know he will.{p}...You think so too, don't you, {a}?\n"
+  },
+  {
+   "id": "63:8464",
+   "op": "choice",
+   "en": "I think so"
+  },
+  {
+   "id": "63:846c",
+   "op": "choice",
+   "en": "I don't think so"
+  },
+  {
+   "id": "63:8478",
+   "op": "choice",
+   "en": "........."
+  },
+  {
+   "id": "63:8488",
+   "op": "text",
+   "en": "\"Iwashita...\nYou may be offended to hear me say this, but...\nI don't think Igarashi is coming back.\"\n...No matter what he promised, a dead person can't come back.\nIt's been three whole years since Igarashi died, and she's still clinging to a dead man...\nIwashita is alive, so I think she has to look ahead and live her life.\n...But it seemed it would be hard to make her understand that...{p}",
+   "follows_choice": [
+    "63:846c"
+   ]
+  },
+  {
+   "id": "63:8618",
+   "op": "text",
+   "en": "\"Why would you say such a thing?\nI didn't know you were such a cold person.\nHe will come back!\"\nIwashita glared at me, her face white and taut.{p}"
+  },
+  {
+   "id": "63:86c0",
+   "op": "text",
+   "en": "...And just then.\n"
+  },
+  {
+   "id": "63:86e0",
+   "op": "text",
+   "en": "In an instant, the air in the room went tight as a wire.\nEvery eye turned to the door at once.\nAs we stared at it, it came again...{p}"
+  },
+  {
+   "id": "63:8788",
+   "op": "text",
+   "en": "\"...It's him.\"\nIwashita murmured.\n...No way!\nThat can't be......{p}"
+  },
+  {
+   "id": "63:87e8",
+   "op": "text",
+   "en": "\"Yuya!\n...It's you, Yuya, isn't it?\"{p}"
+  },
+  {
+   "id": "63:8820",
+   "op": "text",
+   "en": "Iwashita smiled happily and rose from her chair.\n"
+  },
+  {
+   "id": "63:8864",
+   "op": "choice",
+   "en": "Stop Iwashita and open the door myself"
+  },
+  {
+   "id": "63:8888",
+   "op": "choice",
+   "en": "Don't let anyone open the door"
+  },
+  {
+   "id": "63:88b0",
+   "op": "text",
+   "en": "\"No!\nPlease don't open the door☆\"\nI shouted before I knew it.\nIwashita is going to be taken away...\nFor no reason at all, I couldn't shake that feeling.{p}",
+   "follows_choice": [
+    "63:8888"
+   ]
+  },
+  {
+   "id": "63:8958",
+   "op": "text",
+   "en": "\"No!\nHe's here.\nWhy can't I open it★\"\n\"What do you mean, why...?\nIgarashi is dead!\"\n\"I know that much!\"\nIn the eyes glaring sharply at me, I could clearly see the color of hatred.\n\"If you're telling me I can't open it, then I...{p}I'll kill you!\"\n"
+  },
+  {
+   "id": "63:8a70",
+   "op": "choice",
+   "en": "Let Iwashita do as she likes"
+  },
+  {
+   "id": "63:8a84",
+   "op": "choice",
+   "en": "Stop Iwashita and open the door myself"
+  },
+  {
+   "id": "63:8aa8",
+   "op": "choice",
+   "en": "Never let anyone open the door, no matter what"
+  },
+  {
+   "id": "63:8ad8",
+   "op": "text",
+   "en": "\"Wait a moment, please.\nThe one outside the door might be the seventh person.\nLet me handle this. I'll open the door.\nThe responsibility and authority for this meeting are mine, after all.\nIwashita, please go back to your seat.\n...All right?\"{p}",
+   "follows_choice": [
+    "63:8864",
+    "63:8a84"
+   ]
+  },
+  {
+   "id": "63:8bdc",
+   "op": "text",
+   "en": "I stared steadily back into Iwashita's eyes...\nAnd then...{p}"
+  },
+  {
+   "id": "63:8c1c",
+   "op": "text",
+   "en": "\"...All right.\"\nIwashita blinked a few times and lowered her eyes.{p}"
+  },
+  {
+   "id": "63:8c5c",
+   "op": "text",
+   "en": "I waited for Iwashita to take her seat, then approached the door.\nTimidly, I reached out and gripped the knob tight.\nThen I slowly turned it...{p}"
+  },
+  {
+   "id": "63:8cfc",
+   "op": "text",
+   "en": "...Click.\nWith a small sound, the door opened.\n\"Who is it...?\"{p}"
+  },
+  {
+   "id": "63:8d58",
+   "op": "text",
+   "en": "Standing on the other side of the door was a tall man with a handsome face...\n\"...This is the newspaper club, right?\nWhere the seven wonders meeting is...\nI'm Igarashi, from Class 2-D...\"\nIf he knows about the seven wonders, he must be the seventh one after all...?\n...But wait a second.\nJust now, he called himself 'Igarashi.'\nIgarashi...★\nIf I remember right, Iwashita's dead fiancé's surname was Igarashi too...\n...Which means he's a ghost★\n\"Sorry I'm late.\nI'm still not used to this...\"{p}"
+  },
+  {
+   "id": "63:8f20",
+   "op": "text",
+   "en": "With that, Igarashi pulled the door shut with a soft thump.{p}"
+  },
+  {
+   "id": "63:8f70",
+   "op": "text",
+   "en": "We held our breath and watched his every move.\n...For a ghost, he seemed to have a lot of presence.\nBut for a living person, he was far too frail...\nNo one said it out loud, but I could see it in their looks, a mix of curiosity and unease.\nMaybe sensing the mood, Igarashi looked around at us with a puzzled face.\n\"Um...?\nIs something wrong, everyone?\"\nAt that, everyone hurriedly looked away from Igarashi.\nAnd then they kept glancing at me.\n...Looks like I'm the one who has to do the talking.\nI know!\n\"May I ask you one question?\"\n...I can judge who he really is from his answer.\nAm I sharp or what!\n\"Sure, I don't mind.\"{p}Now then, what should I ask...?\n"
+  },
+  {
+   "id": "63:91fc",
+   "op": "choice",
+   "en": "About Iwashita"
+  },
+  {
+   "id": "63:920c",
+   "op": "choice",
+   "en": "About the accident"
+  },
+  {
+   "id": "63:9218",
+   "op": "choice",
+   "en": "About the afterlife"
+  },
+  {
+   "id": "63:922c",
+   "op": "choice",
+   "en": "Why he came here"
+  },
+  {
+   "id": "63:9240",
+   "op": "text",
+   "en": "\"Um...\nWere you in a serious accident once?\"\n\"You're well informed.\nThat's right.\"\n...So he IS a ghost, then?\n\"I'd heard that you died in it...\"\n",
+   "follows_choice": [
+    "63:920c"
+   ]
+  },
+  {
+   "id": "63:92f8",
+   "op": "text",
+   "en": "\"What★\nWho told you that?\"\n\"Who? Well...\nIwashita did.\n...Your fiancée.\"\n\"I see, so Akemi said that...\"\nWith that, Igarashi lowered his eyes.\n\"Three years ago...\nI really was in an accident, but by some miracle I survived.\nI was badly hurt, though, so my hospital stay dragged on longer than expected, and I had no choice but to give up on studying abroad.\"\n...Oh, so that's what happened.\nHe wasn't a ghost after all.\nWhy would Iwashita tell a lie like that?\nWondering about it, I turned around...{p}"
+  },
+  {
+   "id": "63:94fc",
+   "op": "text",
+   "en": "...Iwashita was gone!\nShe was sitting in her chair just a moment ago...\nWhere did she go?\n\"Um, where's Iwashita...?\"\n\"Huh...?\nNow that you mention it, she's not here.\"\n\"She was here a second ago...\"\nDidn't anyone see her go?\n'My sweetheart died'\n...Maybe she told a lie like that, then got embarrassed and went to hide.\nHmm.\nIt's a shame, but I can't use a story that's a lie.\n...As I was thinking about that,\n\"So Akemi was sitting in that seat...\"\nIgarashi murmured.{p}"
+  },
+  {
+   "id": "63:96e0",
+   "op": "text",
+   "en": "\"When I had my accident...\nShe was so shocked that she took to her bed.\nShe'd been in poor health to begin with, and she died in no time at all.\"\n...What★\n\"W-wait a minute, please.\nAre you saying Iwashita died three whole years ago?\"\n\"That's right.\nI just came from visiting her grave, after all...\n...I see, so she said I was the one who died.\nAkemi never knew that I survived...\"{p}"
+  },
+  {
+   "id": "63:988c",
+   "op": "text",
+   "en": "As he said that, a single tear spilled from Igarashi's eye.\nYou don't often see a man cry, but somehow it was beautiful, like a scene from a movie...\n\"Igarashi...\"\nI quietly held out my handkerchief.\nThat very instant...!{p}"
+  },
+  {
+   "id": "63:998c",
+   "op": "text",
+   "en": "<Yuya...>\nIwashita's figure rose faintly into view outside the window.\nHer sorrowful eyes were saying,\n\"Don't touch him...!\"\nOr so it seemed.\nStartled, I stepped back, and she smiled an angelic smile...\n<Yuya...>\nIn a voice like a tinkling bell, she called his name.{p}"
+  },
+  {
+   "id": "63:9aa0",
+   "op": "text",
+   "en": "Whether he could hear that voice or not...\nIgarashi raised his face and stared blankly out the window.\nThe eyes of someone possessed.\n<Yuya...>\nThose eyes glinted, and Igarashi began to stagger forward.\n\"Akemi is lonely.\nAll alone...\n...I have to go to her.\"\nStep by step, he drew steadily closer to the window.{p}"
+  },
+  {
+   "id": "63:9bf4",
+   "op": "text",
+   "en": "In the darkness, the smiling figure of Iwashita swayed faintly...\nRattle...\nWithout anyone touching it, the window slid open with a clatter.\n<Yuya...>\nIt seemed to me that Iwashita spread her arms wide.\nThat very instant...☆{p}"
+  },
+  {
+   "id": "63:9cc0",
+   "op": "text",
+   "en": "\"I'm coming now.\nTo where you are...\"\nMurmuring that, Igarashi set his foot on the window frame and flung himself into the darkness in one leap.\nHis back shrank away in an instant...{p}"
+  },
+  {
+   "id": "63:9d68",
+   "op": "text",
+   "en": "Then, scattering a spray of bright red blood, he stopped moving.\n...It all happened in just a few seconds.{p}"
+  },
+  {
+   "id": "63:9dc4",
+   "op": "text",
+   "en": "\"Oh no!\nSomeone jumped!\"\nA crowd quickly gathered around Igarashi.\nSome of them were pointing up at us.\n\"It was from that window!\"\n...That's probably what they were saying.\nThe police would be here soon.\nWould they suspect us of being the culprits?\n.........No, of course not.\nBut after a commotion like this, our project will probably be canceled.{p}"
+  },
+  {
+   "id": "63:9f24",
+   "op": "text",
+   "en": "<You've finally come to me, Yuya...>\n<From now on, we'll be together forever...>\nAmid the wail of approaching sirens, I thought I heard words like those pass between them...{p}"
+  },
+  {
+   "id": "63:9fc0",
+   "op": "text",
+   "en": "\"Yes, I think so.\nIgarashi will come back to keep his promise to you, even if he has to come back as a spirit.\"\n...No matter what he promised, a dead person can't come back.\nBut Iwashita believes it so stubbornly...\nSo I'll try believing too.\nBelieving in Iwashita, who believes he'll come back...{p}",
+   "follows_choice": [
+    "63:8464"
+   ]
+  },
+  {
+   "id": "63:a0e4",
+   "op": "text",
+   "en": "\"Thank you, {a}...\nYes, he'll come back to me, won't he?\"\nAs she said it, Iwashita's face was white as paper, and only her eyes shone, huge and glittering.\n...Something about her felt eerie.\nThat's what I thought...{p}",
+   "returns": []
+  },
+  {
+   "id": "63:a1ac",
+   "op": "text",
+   "en": "\".........\"\nI couldn't answer.\n...No matter what he promised, a dead person can't come back.\nBut Iwashita was already hurting from losing her sweetheart, and I didn't want to deal her another blow.\n…………………………………………………………………………………………………………………………………….\nA long silence followed.\n...What should I do?\nMaybe she was waiting for a clear answer...\nI'd started to think that.{p}",
+   "follows_choice": [
+    "63:8478"
+   ]
+  },
+  {
+   "id": "63:a368",
+   "op": "text",
+   "en": "\"If you feel that strongly, I guess it can't be helped.\nAll right.\nPlease do as you like, Iwashita.\"{p}",
+   "follows_choice": [
+    "63:8a70"
+   ]
+  },
+  {
+   "id": "63:a3d4",
+   "op": "text",
+   "en": "\"Thank you, I will.\"\nIwashita went to the door, took one deep breath, then reached for the knob.\nBut a split second before her hand touched it, the doorknob turned with a click.{p}"
+  },
+  {
+   "id": "63:a4a0",
+   "op": "text",
+   "en": "Before everyone's eyes, the door opened by itself.\n"
+  },
+  {
+   "id": "63:a4d4",
+   "op": "text",
+   "en": "Who was on the other side of the door...★\nEvery gaze was fixed on it.\nBut there was no one in the hallway.\n\"Huh, there's nothing here.\"\n\"Then what about that knocking?\nAnd who just opened the door?\"\n\"Ain't it just some sick prank?\"{p}"
+  },
+  {
+   "id": "63:a5ac",
+   "op": "text",
+   "en": "Most of the members went back to their seats, looking deflated all at once.\nIwashita alone stayed standing there, dazed.\n\"Hey, {a}.\nTake a look at this...\"\nSuddenly one of the boys in the group called out to me.{p}"
+  },
+  {
+   "id": "63:a680",
+   "op": "text",
+   "en": "He was crouching in the hallway, staring hard at the floor.\nThen, pointing here and there...\n\"Look, here...\nIt's wet.\n...And here too.\"\nI followed where his finger pointed, and sure enough, there was a trail of small marks like little puddles, dotted along the floor.\n\"...They look like footprints.\"\nHe murmured it as if to himself.\nThe one who flinched at those words was Iwashita.{p}"
+  },
+  {
+   "id": "63:a7e0",
+   "op": "text",
+   "en": "\"Yuya was here!\nHe finally came back to me, and...\nBecause you had to be so spiteful, {a}...{p}"
+  },
+  {
+   "id": "63:a850",
+   "op": "text",
+   "en": "You'd better remember this.\nI will never forgive you.\nI'll make you taste the same sorrow I've felt!\"\n\"Iwashita...\"\n\"Heh heh, I have nothing more to say to you.\nWhy don't you hurry on to the next one?\"{p}"
+  },
+  {
+   "id": "63:a90c",
+   "op": "text",
+   "en": "Iwashita turned away with a huff and went straight back to her seat.\nThe boy who'd kept examining the hallway to the end had taken his seat at some point too.\nFeeling somehow unable to bear it, I closed the door.\nNext is the sixth story...\nWho should I ask to tell it...?{p}"
+  },
+  {
+   "id": "63:aa08",
+   "op": "text",
+   "en": "\"Absolutely not!\nListen, please, nobody touch the door.\"\nI planted myself in front of the door and shouted at everyone as if to threaten them.\nAnd then...{p}",
+   "follows_choice": [
+    "63:8aa8"
+   ]
+  },
+  {
+   "id": "63:aac0",
+   "op": "text",
+   "en": "With a click, the doorknob turned, and the door opened by itself.{p}"
+  },
+  {
+   "id": "63:ab04",
+   "op": "text",
+   "en": "\"Um...\nDo you know Akemi Iwashita?\"\n\"Yes, I know her.\nShe's the love of my life...\"\n...He must be a ghost after all.\n\"Um...\nYou're supposed to have died in an accident, though...\"{p}",
+   "follows_choice": [
+    "63:91fc"
+   ]
+  },
+  {
+   "id": "63:abd4",
+   "op": "text",
+   "en": "\"Um...\nDo you know anything about the afterlife?\"\n\"Huh...?\"\nIgarashi looked puzzled.\n...Maybe that question was a bit of a mistake.\n\"Um...\nI heard that you died in an accident, though...\"{p}",
+   "follows_choice": [
+    "63:9218"
+   ]
+  },
+  {
+   "id": "63:acac",
+   "op": "text",
+   "en": "\"Um...\nWhy did you come here?\"\n\"Why? Well...\n...Because I was called.\"\nCalled?\nBy Hino...?\nOr by Iwashita...?\n...Hmm, I can't tell.\n\"Um...\nI heard that you died in an accident, though...\"{p}",
+   "follows_choice": [
+    "63:922c"
+   ]
+  }
+ ]
+}

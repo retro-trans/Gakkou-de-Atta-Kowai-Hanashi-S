@@ -1,0 +1,14 @@
+{
+ "rows": {
+  "34:1328": "Even if you try to change your fate, it won't change easily.\nYou have to struggle for it: hard work, study, self-control.\nEven then, if such a thing as fate exists, I can't imagine it changing easily.\n...But you know, there is an easy way.\nAt least, a way that leaves the person themselves satisfied.\nCan you guess what it is?\nIt's relying on objects.\nIt's very common these days, isn't it?\nPower stones, tachyon goods, pyramid power.\nThings of that sort, said to hold supernatural powers.\nBy relying on such things, people try to change their fate and carve out a bright future.\nWhat comes of leaning entirely on outside powers without making any effort...\nAnyone with a brain should know that already.\n{a}{f:|}, isn't there someone like that around you?\nSomeone who's become obsessed with that sort of mysterious power.\nThere's one in my class.\nA pitiful person who has fallen under the spell of that kind of magic.{p}",
+  "34:4ce8": "But she did become happy.\nIt was a world apart from Okazaki's case.\nIt couldn't be helped, after all.\nIn Okazaki's case, she didn't know Rubelize was a power stone that brings happiness, did she?\nSo she didn't know how to use it.\nIt just happened to grant her wish, that's all.\nBut Okawa's case was different.\nEven if it was a devil's stone, she didn't use it the wrong way.\nSo there was no way she wouldn't be happy.{p}"
+ },
+ "notes": [
+  "34:0d2c: TODO - ruberaizu todo settled for this slice: every row here already uses the standard 'Rubelize' (AGENT_REVIEW standards list); the 'the rubellite' rows are in S134 and must be fixed there (or by tools/fix_terms.py), not in this slice.",
+  "34:1328: FIX subject - source 'sore wa, mono ni tayoru koto' has an explicit subject; English fragment 'Relying on objects.' now 'It's relying on objects.'",
+  "34:1328: UNSURE - source lists just 'tachyon'; 'tachyon goods' kept as the natural reading (tachyon-energy products of the 90s fad), minimal addition.",
+  "34:4ce8: FIX meaning - negai wo kiku here means the stone granted her wish (cf. kikiireru = granted in 34:1fac/34:3778/34:4588); 'happened to hear her wish' changed to 'happened to grant her wish'.",
+  "34:1658: UNSURE - female variant of {f:noyo|deshou} rendered ' - you must remember' (deshou = 'you'd know, right?' to a girl listener); accurate enough, left for editorial.",
+  "34:25d4: RETURN - 'made Okawa hate her bitterly' for nikurashiku omoeta is a touch strong (closer to 'galling/resentful'); left for editorial."
+ ]
+}

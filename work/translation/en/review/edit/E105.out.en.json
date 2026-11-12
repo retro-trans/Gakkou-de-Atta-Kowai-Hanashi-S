@@ -1,0 +1,16 @@
+{
+ "rows": {
+  "55:1f74": "...But let's give up for today.\nIt's not good to stay at school too late, after all.\nWell then, this brings my story to............\nJust as Arai said this and looked down...!{p}",
+  "55:33fc": "Yes...\nActually, that's right.\nIt's nothing so grand that you'd call it a ritual, but summoning the phantom requires a certain special procedure.\n...Yes, I know that procedure.\nWhen people heard I was going around looking into 'the Three O'Clock Phantom,' they offered me all sorts of information...\n...And among all that was a terrifying story, one you must never hear.\nA terrifying story you must never hear.\n{a}...{p}Do you have the courage to hear this story?\n",
+  "55:3600": "Once, there was a P.E. teacher at this school named Adachi.\n\"Studying is important, but it isn't the only thing school is for.\"\n...That was the coach's philosophy, and apparently the students adored Coach Adachi.\nBut then, one day...\nall of a sudden, there was an incident.{p}",
+  "55:39ac": "That mother's anguished cry must have pierced Coach Adachi's heart deeply...\nFeeling heavily responsible, Coach Adachi spent night after night unable to sleep.\nDay and night, the coach was racked with self-blame...\nuntil finally, driven to the edge, the coach committed suicide.{p}",
+  "55:4a24": "I suppose not...\nAfter all, {a}, you were chosen out of the many newspaper club members to be here and hear scary stories.{p}"
+ },
+ "notes": [
+  "55:1f74: EDIT - mixed tense 'Just as Arai was saying that and looked down' -> 'Just as Arai said this and looked down'.",
+  "55:33fc: EDIT - settled returns note: 'among it was' -> 'among all that was'; also 'required' -> 'requires' (Arai states a standing rule in present tense) and 'That's actually right' -> 'Actually, that's right'.",
+  "55:480c: KEEP - returns note: '{a}' would add a second {a} code (count check fails) and 'him' would add a gendered word for the player; 'our friend' reads naturally from Arai, kept.",
+  "55:4a24: EDIT - clumsy 'all the many newspaper club members' -> 'the many newspaper club members'.",
+  "Consistency: E105 writes 'the phantom' lowercase throughout, but next chunk E106 (55:5f08 onward) capitalizes 'the Phantom'; same scene, should be unified by whoever owns E106 or by script. Not changed here."
+ ]
+}

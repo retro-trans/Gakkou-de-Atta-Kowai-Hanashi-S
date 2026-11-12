@@ -1,0 +1,17 @@
+{
+ "rows": {
+  "25:b304": "At last I could calmly do my business.\n..................\nPhew, that feels better.\n..................\nWow, I must have been really holding it in. There's still more coming.\n..................\nHuh?\nI felt eyes on me, as if someone were watching me from somewhere.\nThat's strange. Had the seniors come back?{p}",
+  "25:bb84": "This time, I got out without any trouble.\nI ran straight back to the club room.\n.................{p}",
+  "25:be64": "Hosoda kept stealing glances at me, then turning his face away.\nThen, looking at everyone except me, he said,\n\"W-well, everyone, now that {a} is back, let's move on to the next story.\"\nHosoda looked as if he was frightened of something.\n.................{p}",
+  "25:e684": "\"..................\"\nM-my voice won't come out!\nAm I paralyzed?\nNo, {f:that's not it|it isn't that}.\n{f:I was so terrified my body just wouldn't obey me|My body just wouldn't listen to me, I was so scared}.\nJust then, I heard a different voice inside my head.\nIf only it had been Hosoda's voice, how happy I would have been.\nThe owner of that voice {f:seemed|seemed} to be the severed head lying over there.{p}",
+  "25:c5ac": "Restroom and bath windows are almost always made of frosted glass.\nThis restroom's window was frosted glass, too.\nI undid the latch and put my hand on the window frame.{p}",
+  "25:cfcc": "When I happened to look, I could see the front of a toilet bowl directly in front of me.\nThat's right, the part they call the splash guard.\nFor an instant, I thought I saw something there.{p}"
+ },
+ "notes": [
+  "25:b304: FIX dots - three 12-character silences in the source; restored to 18 dots each (English had 12).",
+  "25:bb84: FIX dots - 11-character silence; restored to 17 dots (3 per 2 chars, rounded up; English had 12). Same for 25:be64.",
+  "25:be64: FIX dots - 11-character silence; restored to 17 dots (English had 12).",
+  "25:e684: FIX dots - the speechless 12-character line in quotes restored to 18 dots (English had 15).",
+  "25:dd0c: KEPT - 6-character run already rendered as 12 dots, longer than the 9 the rule gives; not shortened per brief."
+ ]
+}

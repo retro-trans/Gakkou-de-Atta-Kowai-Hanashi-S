@@ -1,0 +1,424 @@
+{
+ "slice": "S176",
+ "scene": "45",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S175",
+ "next": "S177",
+ "todo": [
+  "- S177 45:78b4 vs S176 45:59e8: same JP line (atone for the sin you committed); make both renderings identical. Ambiguous: \"someone\" vs \"you\" atones.",
+  "- S176 45:2f24: \"on the day of that make-up class\" may instead mean the anniversary of that day."
+ ],
+ "rows": [
+  {
+   "id": "45:2618",
+   "op": "choice",
+   "en": "I wanted to see her"
+  },
+  {
+   "id": "45:2628",
+   "op": "choice",
+   "en": "I didn't want to see her"
+  },
+  {
+   "id": "45:2638",
+   "op": "text",
+   "follows_choice": [
+    "45:2618",
+    "45:2628"
+   ],
+   "en": "\"Do you think I'm Hanako-san?\"\n"
+  },
+  {
+   "id": "45:2660",
+   "op": "choice",
+   "en": "I think so"
+  },
+  {
+   "id": "45:2668",
+   "op": "choice",
+   "en": "I don't think so"
+  },
+  {
+   "id": "45:2674",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "45:268c",
+   "op": "text",
+   "follows_choice": [
+    "45:2660",
+    "45:2668",
+    "45:2674"
+   ],
+   "en": "Once she had asked that much, she drew a deep breath.\nThen she put both hands to her mask, as if she were about to take it off at any moment.\nI felt as if the eyes behind the mask glinted a little.\nAnd then.\n\"..........Say, do you want to see my face?\"\nShe was smiling behind that mask. I was sure of it.\nShe could read my mind, so why did she bother asking me question after question out loud?\nShe was waiting for my answer.\n...Even though she already knew what it would be.{p}Well then, let me answer her.\nFor you, smiling behind your mask.\n"
+  },
+  {
+   "id": "45:2858",
+   "op": "choice",
+   "en": "I want to see it"
+  },
+  {
+   "id": "45:2860",
+   "op": "choice",
+   "en": "I don't want to see it"
+  },
+  {
+   "id": "45:286c",
+   "op": "choice",
+   "en": "Whatever the masked woman wishes"
+  },
+  {
+   "id": "45:2888",
+   "op": "text",
+   "follows_choice": [
+    "45:2860"
+   ],
+   "en": "\"I don't want to see it.\"\nI answered firmly.\nFor a while, she said nothing.\nShe didn't move, her hands still resting on her mask.{p}"
+  },
+  {
+   "id": "45:2908",
+   "op": "text",
+   "en": "Her fingers were very alluring.\nThey were delicate, frail fingers, each one looking as if it might start moving on its own, like a separate living creature.\nStrangely enough, I may have been calm.\nAgain, she drew a deep breath.\nThen she let it out as a long sigh.{p}"
+  },
+  {
+   "id": "45:2a00",
+   "op": "text",
+   "en": "\"The students in the make-up class. Their teacher abandoned them.\n...Say, do you know how many of those students there were in all?\"\n"
+  },
+  {
+   "id": "45:2a78",
+   "op": "choice",
+   "en": "Five"
+  },
+  {
+   "id": "45:2a80",
+   "op": "choice",
+   "en": "Six"
+  },
+  {
+   "id": "45:2a88",
+   "op": "choice",
+   "en": "Seven"
+  },
+  {
+   "id": "45:2a90",
+   "op": "choice",
+   "en": "I forgot"
+  },
+  {
+   "id": "45:2aa0",
+   "op": "text",
+   "follows_choice": [
+    "45:2a80"
+   ],
+   "en": "I answered six.\nThe fingers holding up her mask slowly drew away.{p}"
+  },
+  {
+   "id": "45:2b0c",
+   "op": "text",
+   "en": "She did not take off the mask.\nFor some reason, I couldn't help feeling that the face behind it was terribly lonely.\nShe began to speak slowly.\n...I see.\nSo the story has been passed down as six.\nThat story really happened.\nThe story of the students in the make-up class whom the teacher forgot.\nBut there were seven students in that make-up class.\nNot six.\nAnd none of those six fell victim.{p}"
+  },
+  {
+   "id": "45:2c94",
+   "op": "text",
+   "en": "That they were killed by Hanako-san is a lie.\nWhat really happened was much crueler.\nI'll tell you that story.{p}"
+  },
+  {
+   "id": "45:2d10",
+   "op": "text",
+   "en": "...The seven who stayed behind soon realized the teacher had forgotten they were in the make-up class.\nAnd that made them so angry they couldn't stand it.\nBut they didn't know where to vent that anger.\nSo the six of them ganged up and bullied one.\nOut of spite, because they'd been forgotten.\nEven though that child had done nothing wrong.{p}"
+  },
+  {
+   "id": "45:2e54",
+   "op": "text",
+   "en": "The one they bullied was a girl.{p}"
+  },
+  {
+   "id": "45:2e84",
+   "op": "text",
+   "en": "She was locked in the girls' restroom on the third floor of the old school building.\nIn the second stall from the back of the girls' restroom.\nThen they wedged a bar against the door from outside so she couldn't get out.{p}"
+  },
+  {
+   "id": "45:2f24",
+   "op": "text",
+   "en": "Locking the girl up seemed to make the six feel better, and they abandoned the make-up class and went home.\nThe next day, the girl was rescued.\nBut those six had come to enjoy the thrill of bullying.\nAfter that, they started bullying her whenever they got the chance.\nShe couldn't bear it.\n...And so she killed herself.\nShe hanged herself in the girls' restroom where they had locked her in on the day of that make-up class.{p}"
+  },
+  {
+   "id": "45:309c",
+   "op": "text",
+   "en": "That girl was me.\n...Ah.\nAkemi Iwashita just killed herself.\nHeh heh heh... Serves her right.\nShe slit her own throat with a box cutter in her own room.\n...What a stupid woman.\nShe killed herself because she was tormented by an evil spirit that doesn't even exist.\n...Oh, but maybe I'm the evil spirit.\nHee hee... But you know, I can't pass on unless I get my revenge.\n...Do you understand now?\nThe six who told you scary stories are the children of the six who drove me to suicide.\nWhen I killed myself, my father and mother were heartbroken.\nBut neither those six nor their parents did anything for us.\nThey said their children weren't the ones to blame.\nYou see, the six from back then have grown up and become parents like anyone else.\nIt's no coincidence that their children all ended up coming to this school together.\nIt's fate.\nThey were fated from the very start to be killed by me.\nYou just happened to serve as their guide along the way.\n...All six of them are dead.\nTheir parents, the six who drove me to my death, must be grieving now.\nJust as my father and mother grieved.\n{a}.\nDo you think what I did was horrible?\nDo you think they weren't to blame?{p}"
+  },
+  {
+   "id": "45:3484",
+   "op": "text",
+   "en": "There was no need to go as far as killing the children...\nIs that what you're thinking?\n{a}, are you a bully?\nOr are you the one who gets bullied?\nOr maybe you're the type who does nothing and just watches in silence?\nNot that it matters.\n...But remember this much.\nWhen you commit a sin, you won't necessarily be the one who pays for it.\nYour sins may come back to make you pay in ways you never expected.\nAnd when that happens, it'll be too late for regrets.\nYou're a good person.\n...So live a life without regrets, okay?\nI thought about taking you with me too, but I decided not to.\nI wanted you to play with me, but I've decided to give that up.\nGoodbye, {a}.\nYou probably think I'm a bad girl, but I was bitter too, you know.\nI was sad.\nBullies just can't understand how the bullied feel.\nI listened to her in silence.\nShe sighed again.\nBut it wasn't full of sorrow like before. It was a crisp, clean sigh, as if she were making up her mind once and for all.{p}"
+  },
+  {
+   "id": "45:3840",
+   "op": "text",
+   "en": "She put both hands to her mask again.\nAnd this time, without asking me, she removed it.{p}"
+  },
+  {
+   "id": "45:38b8",
+   "op": "text",
+   "en": "Behind her mask there was....................no face.\nWithin the outline of a face, there was only a pall of darkness.\nIn that darkness were countless glittering particles.\nThey were stars.\nThe darkness was a universe.\nInside her was a whole universe.\nFor a while, I stood entranced, gazing into that little universe.{p}"
+  },
+  {
+   "id": "45:39e8",
+   "op": "text",
+   "en": "The clatter of the falling mask brought me back to my senses.\nIf I hadn't heard that sound, I would surely have become a dweller of that little universe and gone on gazing into it forever.\nWhen the mask hit the floor and rocked, she was already gone.\nShe had vanished along with the little universe.{p}"
+  },
+  {
+   "id": "45:3ae0",
+   "op": "text",
+   "en": "Had I seen an illusion, or had I been dreaming...?\nThe morning sun was already showing its face.{p}"
+  },
+  {
+   "id": "45:3b4c",
+   "op": "text",
+   "en": "Walking alone through the deserted old school building in the morning, I thought about many things.\nAbout her existence, the words she had spoken, and those six.\nI could hardly believe that gathering had taken place only a few hours ago.\nIt felt more like a memory from long, long ago, something I'd lived through so long ago that I couldn't trace it accurately.\nHad those six really existed?\nWas the whole thing just my dream in the first place?\n...If so, when had I started dreaming?\nAnd when had the dream ended?\nNo, maybe the dream was still going on.\nOnly one thing was certain.{p}"
+  },
+  {
+   "id": "45:3d50",
+   "op": "text",
+   "en": "In my right hand, I was holding that mask.{p}"
+  },
+  {
+   "id": "45:3d88",
+   "op": "text",
+   "en": "...So this old school building will be torn down in just a few more days.\nThe old building held no particular nostalgia for me, yet it filled me with a strange melancholy.\nI fell under the illusion that I had known it ever since it was brand new, freshly built.{p}"
+  },
+  {
+   "id": "45:3e68",
+   "op": "text",
+   "en": "When I stepped out of the old school building, the mask I should have been holding in my right hand was gone, though I never noticed it go.{p}"
+  },
+  {
+   "id": "45:3ecc",
+   "op": "text",
+   "en": "I took another look at the old school building.\nFor some reason, I found myself praying that it would never vanish.\nIf this is a dream, may I never wake from it...{p}"
+  },
+  {
+   "id": "45:3f50",
+   "op": "text",
+   "follows_choice": [
+    "45:1658"
+   ],
+   "en": "\"No.\"\nI said it boldly.\nAfter what had happened to Hosoda, I thought it really would be better to do as the masked woman said...\nBut I couldn't just meekly go along with whatever someone like this told me.\n\"...I see. I understand. I understand...\"\nThe masked woman murmured it to herself.\nShe seemed to be repeating my answer in her head, mixing it with her own words and chewing it over.\nThe masked woman went on.\n\"Let's play together. Come on, come with me.\"\nIt wasn't the stern tone she had used when she was questioning me before.\nIt was the tone of a child wheedling its parents.\nIt was a creepy voice, but somehow I might have felt a little calmer than before.\n...Just then.{p}"
+  },
+  {
+   "id": "45:41d4",
+   "op": "text",
+   "en": "\"Aaaaaaagh!\"\n"
+  },
+  {
+   "id": "45:4208",
+   "op": "text",
+   "en": "Suddenly my body seemed to float into the air, and then I was slammed into the ceiling with tremendous force.\nI was completely upside down, as if gravity were coming from the ceiling.\nThe impact of being slammed must have made me hit my back hard.{p}"
+  },
+  {
+   "id": "45:42e8",
+   "op": "text",
+   "en": "And directly below me, the masked woman was looking up.\nI could tell she was laughing behind her mask...\n\"In the end... you're... all talk... too... aren't you...\"\nThe masked woman's voice suddenly dropped in pitch, like a stretched tape.\n\"You... shall be... the guide... leading these six... to hell...\nAt last... I will... be saved...\"\n...?\nSaved?\nWhat did she mean, saved?\nWhat did she mean by \"these six\"?\nSix... could she mean the people who gathered to tell me these stories?\nHad everyone died?\n...★\nSo everyone vanishing meant they had died★\nNo way...\n\"These... six... were chosen... from the beginning.\n...That too... is... fate.\nNow... they are all... waiting... for you to guide them...\"\nSo said the masked woman.\nI thought I glimpsed her eyes behind the two thin slits around the eyes of the mask.{p}"
+  },
+  {
+   "id": "45:45e0",
+   "op": "text",
+   "en": "\"Whoa★\"\nThe next instant, I felt the ceiling rippling against my back like the surface of water.\nMy body was slowly sinking into the ceiling.\nThe more I struggled, the deeper I sank, down and down past the ceiling.\nTo her, I was going up and up, into the ceiling...\nMy sinking body seemed to be trickling away like grains of sand.\nWould only my consciousness be left?\n...Or wouldn't even my consciousness remain?\nWhat would become of me once my body was gone?{p}"
+  },
+  {
+   "id": "45:4780",
+   "op": "text",
+   "en": "\"Don't... worry... It's... all right...\"\nThe masked woman was waving to me.\nAlmost all of my body had sunk into the ceiling; only my face barely remained in this space.\nAnd at the very moment my face was finally pulled into the ceiling...{p}"
+  },
+  {
+   "id": "45:4868",
+   "op": "text",
+   "en": "I saw it clearly.\nThe masked woman had taken off her mask and was looking up at me.\nWith a face shining like an angel's...{p}"
+  },
+  {
+   "id": "45:48d4",
+   "op": "text",
+   "follows_choice": [
+    "45:2858"
+   ],
+   "en": "\"I want to see it.\"\nI found myself answering without thinking.\nHer fingers were very alluring.\nEach finger was like a separate living creature, as if it might start moving at any moment.\nAnd they were delicate, slender fingers.\nLooking at those fingers of hers put me in a strange mood where I couldn't say no.\nAfter hearing my answer, she drew a deep breath.\nShe seemed to be thinking something over.\nThen she let that deep breath out as a long sigh.{p}"
+  },
+  {
+   "id": "45:4a58",
+   "op": "text",
+   "follows_choice": [
+    "45:286c"
+   ],
+   "en": "\"If you want to show me, I don't mind seeing it.\"\nI found myself giving a bold reply.\nShe didn't move, her hands still resting on her mask.\nShe didn't act on my answer; she seemed to be thinking something over.\nThen my eyes fell on the fingers resting on her mask.{p}"
+  },
+  {
+   "id": "45:4b60",
+   "op": "text",
+   "follows_choice": [
+    "45:2a78"
+   ],
+   "en": "I answered five.\nThe fingers holding up her mask tightened.\n"
+  },
+  {
+   "id": "45:4bac",
+   "op": "text",
+   "en": "Then she ripped off her mask in one swift motion.{p}"
+  },
+  {
+   "id": "45:4bf4",
+   "op": "text",
+   "en": "She had no face.\nOr rather, my face was there.\nI was talking to myself, face to face.\n\"...Liar...\nIt can't be five...\nYou're lying...\nAre you making fun of me?\nThat's cruel, so cruel☆\"\n...Even the way I talk and my voice were exactly the same.{p}"
+  },
+  {
+   "id": "45:4ce8",
+   "op": "text",
+   "en": "While I flinched, she leapt at me.\nAnd she clamped that mask onto my face.{p}"
+  },
+  {
+   "id": "45:4d44",
+   "op": "text",
+   "en": "\"Aaaaaagh☆\"\nI struggled desperately to tear the mask off.\nBut no matter what I did, it wouldn't come off my face.\nShe... no, that thing laughed.{p}"
+  },
+  {
+   "id": "45:4df0",
+   "op": "text",
+   "en": "\"That mask won't come off, no matter what you do.\nYou see, it can suck the life force out of all kinds of people.\nSee, see, it hurts because you're trying to pull it off.\nIf you just behave, it won't hurt at all.\nOh, I know, there's just one way to get it off.\nOnce it's sucked up every last bit of your life force, you can take it off.\nKeh keh keh keh!\"{p}"
+  },
+  {
+   "id": "45:4f24",
+   "op": "text",
+   "en": "...It's no use, I have no strength left.\nThe strength is draining out of my body.\nIf only I'd answered the questions seriously back then, I wouldn't have made that thing angry.\nIt's too late now...{p}"
+  },
+  {
+   "id": "45:4fc0",
+   "op": "text",
+   "follows_choice": [
+    "45:2a88"
+   ],
+   "en": "I answered seven.\nThe fingers holding up her mask slowly drew away.{p}"
+  },
+  {
+   "id": "45:501c",
+   "op": "text",
+   "en": "And then she said,\n\"Seven... Seven, is it?\nWere you really listening to what you were told? Liar...\"{p}"
+  },
+  {
+   "id": "45:5088",
+   "op": "text",
+   "follows_choice": [
+    "45:2a90"
+   ],
+   "en": "Now, how many had I been told earlier...?\n...I'd forgotten.\nI told her so honestly.\nThe fingers holding up her mask slowly drew away.{p}"
+  },
+  {
+   "id": "45:5134",
+   "op": "text",
+   "en": "She did not take off the mask.\nFor some reason, I couldn't help feeling that the face behind it was terribly lonely.\nShe began to speak slowly.\n...That story really happened.\nThe story of the students in the make-up class whom the teacher forgot.\nThere were seven of those students in all.\nThough the rumor seems to have passed it down as six.\nIt doesn't matter what story you heard earlier.\nNow I'll tell you what really happened.{p}"
+  },
+  {
+   "id": "45:52d0",
+   "op": "text",
+   "en": "...Well, never mind.\nNone of that matters anymore...\nAfter that, I found no salvation, and I wandered the school.\nAnd then I realized.\nThere were many children in the same situation as me...\nChildren like that couldn't pass on, and they wandered around just like me.\nNot only spirits of the dead, but living spirits too.\nBefore we knew it, we had started gathering together.\nHeh heh heh.\nIt's funny, isn't it? I guess that's what they mean by \"birds of a feather flock together.\"\n\"★\"\nJust then, something peeked out from behind her.\n...A girl?{p}"
+  },
+  {
+   "id": "45:54d0",
+   "op": "text",
+   "en": "That child was wearing a mask too.\n\"Ugh★\"{p}"
+  },
+  {
+   "id": "45:5514",
+   "op": "text",
+   "en": "One after another, masked figures, male and female, appeared from behind the masked woman.\nWith her at the front, they all turned this way and looked at me.\n...These children all met an end like mine.\nWe're so pitiful...\nYou think we're pitiful, don't you?{p}"
+  },
+  {
+   "id": "45:560c",
+   "op": "text",
+   "en": "I listened to her in silence.\nI understood that they were victims.\nBut driving so many people to their deaths to drag them along... I wasn't so sure about that...{p}"
+  },
+  {
+   "id": "45:56b0",
+   "op": "text",
+   "en": "Before I knew it, I was surrounded by the masked children.\n...Didn't I tell you at the very beginning that I can see right through what you're thinking?\nHeh heh heh, in the end you're no different from anyone else.\nAnd I thought you, at least, would understand us.\nIf you had, maybe this time we really could have been saved...\nFrom this world that is neither the human world nor the spirit world.\nI'm sure we'll keep repeating the same mistakes, even knowing they're wrong.\n...As long as we're in this world.\nLittle by little, the masked children drew closer to me.\nThe ring around me grew tighter and tighter.\nOne step, then another, and then another...\nMaybe I could have saved them.\nI could have stopped them.\nWas there nothing left for me now but to surrender myself to them...?\nAnd then she spoke to me.\n...I'm sure we'll keep repeating the same mistakes, even knowing they're wrong.{p}"
+  },
+  {
+   "id": "45:59e8",
+   "op": "text",
+   "en": "...I didn't lay a hand on the ones who drove me to my death.\nInstead, I thought I'd be saved by driving their children to their deaths.\nI felt that doing so would wash my ugly, twisted heart clean.\nIs that cruel?\n...Do you think I'm cruel?\nHeh heh heh, think whatever you like.\n...But remember this much.\nWhen you commit a sin, you won't necessarily be the one who pays for it.\nYour sins may come back to make you pay in ways you never expected.\nAnd when that happens, it'll be too late for regrets.\nBut it doesn't matter anymore.\nNone of it...\nI've achieved my goal, but I don't think I need to be saved anymore.\n...I never thought that even in this state, a heart just like a human's would grow in me.\nJust as those children came to enjoy bullying.\nAnd just as it became a habit for them.\nI've come to enjoy plunging people into the depths of terror.\nYes, you can find pleasure in anything at all.\nIt's a real problem, isn't it?\nSo I've decided to go on like this, chasing nothing but my own pleasure in this school.\nDon't worry.\nI won't do anything to you.\nYou're a good person.\nI can tell...{p}"
+  },
+  {
+   "id": "45:5e04",
+   "op": "text",
+   "en": "She turned her back to me.\nThen she opened the window and gazed up at the eastern sky, where dawn was beginning to break.\nWhat expression was she wearing behind her mask?\nShe put her hands to her mask once more.\nThis time, without hesitating, she slowly took it off.{p}"
+  },
+  {
+   "id": "45:5efc",
+   "op": "text",
+   "en": "Then she gazed up at the sky again.\n...If I could have lived in the same time as you, I'm sure we'd have been good friends...\nI thought I heard her murmur that.\nThen she slowly turned around to face me.{p}"
+  },
+  {
+   "id": "45:5fd0",
+   "op": "text",
+   "en": "Just then, a single ray of morning sun shone in.\nThe dazzling sunlight hid her face, and I couldn't see it clearly.\nBut I knew.\nShe was smiling in the light...\nAs the morning sun grew ever brighter, the clatter of the falling mask brought me back to my senses.{p}"
+  },
+  {
+   "id": "45:60e4",
+   "op": "text",
+   "en": "When the mask hit the floor and rocked, she was already gone.{p}"
+  },
+  {
+   "id": "45:6130",
+   "op": "text",
+   "en": "Had I seen an illusion, or had I been dreaming...?\nThe morning sun had already fully risen.{p}"
+  },
+  {
+   "id": "45:6188",
+   "op": "text",
+   "en": "That doesn't matter, does it?\nIt's already over and done with.\nBut I think this was for the best.\nAt least now I'm satisfied.\n{a}, you think I'm a horrible person, don't you?\nBut it was their parents who made me like this.\nThey had it coming.\nShe declared it flatly.\nIt was no use. Nothing I said to her would get through.\nShe had become unable to think of anything except from her own point of view.\nBut maybe that couldn't be helped.\nShe existed for one purpose only: to take revenge on them.\nIf that were gone, her existence would lose all meaning.\nUnlike us living people, she would surely vanish once she lost her reason to exist.\n...{a}.\nJust as you're thinking, I no longer have any reason to be here.\nShe gently put her hand to her mask and took it off.\nBeneath it...{p}"
+  },
+  {
+   "id": "45:64c8",
+   "op": "text",
+   "en": "Beneath it lay an expanse of empty space.\nAnd her body vanished, as if sucked into that space, until nothing was left.{p}"
+  },
+  {
+   "id": "45:6558",
+   "op": "text",
+   "en": "Only the mask she had left behind lay on the floor.{p}"
+  },
+  {
+   "id": "45:6588",
+   "op": "text",
+   "en": "I picked it up and started walking out of the school building.{p}"
+  },
+  {
+   "id": "45:65c8",
+   "op": "text",
+   "en": "Asking you won't change anything, will it?\nYes... they weren't to blame.\nThe ones truly responsible are their parents.\nI know that too.\nIt's just that what I couldn't forgive was that they made my parents grieve.\nI'm not all that hung up on having died myself.\nAfter all, I died because I wanted to.\n...Though there was a reason: their parents drove me to it.\nSo I took my revenge on them.\nIf I'd killed their parents directly, they'd never have understood my parents' suffering.\nSo there was no other way but to kill them.\nI wonder if this means I've been saved.{p}Do you think I've been saved?\n"
+  },
+  {
+   "id": "45:6814",
+   "op": "choice",
+   "en": "I think you've been saved"
+  },
+  {
+   "id": "45:6824",
+   "op": "choice",
+   "en": "I don't think you've been saved"
+  },
+  {
+   "id": "45:6838",
+   "op": "text",
+   "follows_choice": [
+    "45:6824"
+   ],
+   "en": "I see.\nSo that's what you think, {a}...\nShe said it sadly.\n...But you know, {a}.\nI think I have been saved.\nWhether someone has been saved is for that person to decide.\nIf I think I've been saved, then I'm saved, no matter what anyone else thinks.\nThat's just how it is...\n\"..........\"\nShe was right.\nWhether she had been saved was for her alone to decide.\nNo matter what anyone else thought, if she believed she had been saved, then she had been.\nShe gently put her hand to her mask.\nThe mask slowly peeled away, revealing the face hidden beneath.{p}"
+  },
+  {
+   "id": "45:6a60",
+   "op": "text",
+   "en": "Her face looked wonderfully fresh and radiant.\n\"Well then, I'll be going home. To the place where I truly belong.\"\nThe morning sun streamed in through the window.\nShe was enveloped in its light.{p}"
+  }
+ ]
+}

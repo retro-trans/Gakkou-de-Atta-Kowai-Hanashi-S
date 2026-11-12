@@ -1,0 +1,504 @@
+{
+ "slice": "S034",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S033",
+ "next": "S035",
+ "todo": [
+  "- Restroom wording: 'Boys'/Girls' restroom' (S024, S034) vs 'bathroom' (S025) — standard: restroom."
+ ],
+ "rows": [
+  {
+   "id": "07:2494c",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:24954",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:24964",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:24974",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:24984",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:24994",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:249a4",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:249ac",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:249d0",
+   "op": "text",
+   "follows_choice": [
+    "07:2494c",
+    "07:24964",
+    "07:24974",
+    "07:24984",
+    "07:24994",
+    "07:249a4"
+   ],
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}"
+  },
+  {
+   "id": "07:24b30",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:24b58",
+   "op": "text",
+   "follows_choice": [
+    "07:24954"
+   ],
+   "en": "I went into the classroom.\nRows of desks and chairs, neatly lined up.\nSeeing it like this, it was hard to believe students used it during the day.\nThe classroom felt colder than usual, too.\nAnyway, I had to search.\nFirst, I checked the teacher's lectern.\nThere seemed to be something inside it.\nWhat could it be?\nI shoved my hand in.\nOw☆\nI yanked it back out.\nWhen I looked closely, I saw the inside of the lectern was covered solid with thumbtacks.\nWas this the work of Hino and the others?\nHad they known I would shove my hand in here?\n...No, that couldn't be.\nIt was just a coincidence.\nIt had to be.\nThere didn't seem to be anything else in this classroom.{p}"
+  },
+  {
+   "id": "07:24d7c",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:24d8c",
+   "op": "text",
+   "follows_choice": [
+    "07:7724",
+    "07:f274"
+   ],
+   "en": "Which floor's restroom should I go to?\n"
+  },
+  {
+   "id": "07:24da8",
+   "op": "choice",
+   "en": "First-floor restroom"
+  },
+  {
+   "id": "07:24db8",
+   "op": "choice",
+   "en": "Second-floor restroom"
+  },
+  {
+   "id": "07:24dc8",
+   "op": "choice",
+   "en": "Third-floor restroom"
+  },
+  {
+   "id": "07:24dd8",
+   "op": "choice",
+   "en": "Fourth-floor restroom"
+  },
+  {
+   "id": "07:24de8",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:24df4",
+   "op": "text",
+   "follows_choice": [
+    "07:24de8"
+   ],
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:24e14",
+   "op": "text",
+   "follows_choice": [
+    "07:24dd8",
+    "07:24f2c",
+    "07:25058"
+   ],
+   "en": "Should I search the boys' restroom or the girls' restroom?\n"
+  },
+  {
+   "id": "07:24e44",
+   "op": "choice",
+   "en": "Boys' restroom"
+  },
+  {
+   "id": "07:24e50",
+   "op": "choice",
+   "en": "Girls' restroom"
+  },
+  {
+   "id": "07:24e5c",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:24e80",
+   "op": "text",
+   "follows_choice": [
+    "07:24e50"
+   ],
+   "en": "The girls' restroom had four stalls.\nI felt a little guilty going in, but this was no time to worry about that.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:24ef8",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:24f00",
+   "op": "choice",
+   "en": "Second from the back"
+  },
+  {
+   "id": "07:24f10",
+   "op": "choice",
+   "en": "Third from the back"
+  },
+  {
+   "id": "07:24f20",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:24f2c",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:24f44",
+   "op": "text",
+   "follows_choice": [
+    "07:24ef8",
+    "07:24f00",
+    "07:24f10",
+    "07:24f20"
+   ],
+   "en": "I'd try this one.\nI searched every inch of the stall.\n...Nothing.\nNo good.\nI'd have to search somewhere else.{p}"
+  },
+  {
+   "id": "07:24fa8",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:24fc4",
+   "op": "text",
+   "follows_choice": [
+    "07:24e44"
+   ],
+   "en": "The boys' restroom had four urinals and two toilet stalls.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25020",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:25030",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:25044",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:25058",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:25064",
+   "op": "text",
+   "follows_choice": [
+    "07:25020"
+   ],
+   "en": "I looked over the row of four urinals.\n...Nothing seemed out of the ordinary.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:250d4",
+   "op": "text",
+   "follows_choice": [
+    "07:25030",
+    "07:25044"
+   ],
+   "en": "I decided to search the toilet stall.\n...Surely it wouldn't be inside the toilet bowl itself, would it?\nI searched every inch.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:25164",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25180",
+   "op": "text",
+   "follows_choice": [
+    "07:24dc8",
+    "07:25298",
+    "07:253c4"
+   ],
+   "en": "Should I search the boys' restroom or the girls' restroom?\n"
+  },
+  {
+   "id": "07:251b0",
+   "op": "choice",
+   "en": "Boys' restroom"
+  },
+  {
+   "id": "07:251bc",
+   "op": "choice",
+   "en": "Girls' restroom"
+  },
+  {
+   "id": "07:251c8",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:251ec",
+   "op": "text",
+   "follows_choice": [
+    "07:251bc"
+   ],
+   "en": "The girls' restroom had four stalls.\nI felt a little guilty going in, but this was no time to worry about that.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25264",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:2526c",
+   "op": "choice",
+   "en": "Second from the back"
+  },
+  {
+   "id": "07:2527c",
+   "op": "choice",
+   "en": "Third from the back"
+  },
+  {
+   "id": "07:2528c",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:25298",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:252b0",
+   "op": "text",
+   "follows_choice": [
+    "07:25264",
+    "07:2526c",
+    "07:2527c",
+    "07:2528c"
+   ],
+   "en": "I'd try this one.\nI searched every inch of the stall.\n...Nothing.\nNo good.\nI'd have to search somewhere else.{p}"
+  },
+  {
+   "id": "07:25314",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25330",
+   "op": "text",
+   "follows_choice": [
+    "07:251b0"
+   ],
+   "en": "The boys' restroom had four urinals and two toilet stalls.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:2538c",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:2539c",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:253b0",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:253c4",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:253d0",
+   "op": "text",
+   "follows_choice": [
+    "07:2538c"
+   ],
+   "en": "I looked over the row of four urinals.\n...Nothing seemed out of the ordinary.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25440",
+   "op": "text",
+   "follows_choice": [
+    "07:2539c"
+   ],
+   "en": "I decided to search the toilet stall.\n...Surely it wouldn't be inside the toilet bowl itself, would it?\nI searched every inch.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:254d0",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:254ec",
+   "op": "text",
+   "follows_choice": [
+    "07:253b0"
+   ],
+   "en": "I decided to search the toilet stall.\nThe flooring had peeled away.\nBut right underneath was bare concrete.\nThere was no room at all to hide an ampoule there.{p}"
+  },
+  {
+   "id": "07:25580",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:255a0",
+   "op": "text",
+   "follows_choice": [
+    "07:24db8",
+    "07:256b8",
+    "07:257e4"
+   ],
+   "en": "Should I search the boys' restroom or the girls' restroom?\n"
+  },
+  {
+   "id": "07:255d0",
+   "op": "choice",
+   "en": "Boys' restroom"
+  },
+  {
+   "id": "07:255dc",
+   "op": "choice",
+   "en": "Girls' restroom"
+  },
+  {
+   "id": "07:255e8",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:2560c",
+   "op": "text",
+   "follows_choice": [
+    "07:255dc"
+   ],
+   "en": "The girls' restroom had four stalls.\nI felt a little guilty going in, but this was no time to worry about that.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25684",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:2568c",
+   "op": "choice",
+   "en": "Second from the back"
+  },
+  {
+   "id": "07:2569c",
+   "op": "choice",
+   "en": "Third from the back"
+  },
+  {
+   "id": "07:256ac",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:256b8",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:256d0",
+   "op": "text",
+   "follows_choice": [
+    "07:25684",
+    "07:2568c",
+    "07:2569c",
+    "07:256ac"
+   ],
+   "en": "I'd try this one.\nI searched every inch of the stall.\n...Nothing.\nNo good.\nI'd have to search somewhere else.{p}"
+  },
+  {
+   "id": "07:25734",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25750",
+   "op": "text",
+   "follows_choice": [
+    "07:255d0"
+   ],
+   "en": "The boys' restroom had four urinals and two toilet stalls.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:257ac",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:257bc",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:257d0",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:257e4",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:257f0",
+   "op": "text",
+   "follows_choice": [
+    "07:257ac"
+   ],
+   "en": "I looked over the row of four urinals.\n...Nothing seemed out of the ordinary.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25860",
+   "op": "text",
+   "follows_choice": [
+    "07:257bc",
+    "07:257d0"
+   ],
+   "en": "I decided to search the toilet stall.\n...Surely it wouldn't be inside the toilet bowl itself, would it?\nI searched every inch.\n...Nothing.{p}"
+  }
+ ]
+}

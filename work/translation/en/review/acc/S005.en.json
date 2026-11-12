@@ -1,0 +1,348 @@
+{
+ "slice": "S005",
+ "scene": "02",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S004",
+ "next": "S006",
+ "todo": [
+  "- Pilot slices S000-S005 replaced ☆/★ (e.g. 01:7050, 01:aed0, 01:2afc, 02:55cc, 02:58f0, 02:6a08): the font now has both glyphs (tools/vwf.py EXTRA 0x10/0x11); restore them where the source has them. ☆/★ are plain characters in the script, no engine effect.",
+  "- ☆/★: keep them where the source has them (S005/S001/S002 replaced them with ?! — restore)."
+ ],
+ "rows": [
+  {
+   "id": "02:3e40",
+   "op": "text",
+   "en": "\"...Come on, give them back to me.\"\n\"Aaagh!\"\nSakuma screamed at the top of his lungs.\nThe old lady's voice had come from right behind him.{p}"
+  },
+  {
+   "id": "02:3ec0",
+   "op": "text",
+   "en": "He turned around, and there stood the old lady. How she'd gotten in, he had no idea.\nIn a panic he looked at the door. It was locked tight.\nAnd it hit Sakuma all over again.\nThis old lady wasn't human.{p}"
+  },
+  {
+   "id": "02:3f80",
+   "op": "text",
+   "en": "\"...S-stop it, please.\nIt was my fault.\nForgive me!\"\nSakuma was scared, so scared, and he apologized for all he was worth.\nBut the old lady wasn't listening to a word Sakuma said.\n\"Do you like candy?\"\n\"I-I'm sorry.\nI won't do it again!\"\nNo matter how hard Sakuma apologized, the old lady paid no mind and fired one question after another at him.\n\"Do you want candy?\"\n\"Was the candy good?\"\n\"How many candies did you eat?\"\nSakuma didn't answer her questions. He just kept on apologizing, over and over.{p}"
+  },
+  {
+   "id": "02:414c",
+   "op": "text",
+   "en": "The old lady brought her wrinkled face right up to Sakuma's and grinned a nasty grin.\nAnd then she said,\n\"...Come now, give me back my candies.\"\n\"I'm sorry!\nThey're gone!\nI ate them!\"\nThe old lady grabbed Sakuma's trembling face with incredible strength and stared at it, long and hard.{p}"
+  },
+  {
+   "id": "02:4290",
+   "op": "text",
+   "en": "\"What are you talking about?\nYou've still got them right here.\nTwo lovely eyeballs, so tasty-looking...\"\n"
+  },
+  {
+   "id": "02:42ec",
+   "op": "text",
+   "en": "\"Gyaaaaaaaaah!\"\nSakuma's scream rang through the whole house.\nStartled by it, his family went to his room, and...{p}"
+  },
+  {
+   "id": "02:4380",
+   "op": "text",
+   "en": "...The whole room was a sea of blood.\nThe old lady was nowhere to be seen.\nThere was only Sakuma, alone in the middle of the room, rolling around on the floor and clutching his bloody face.\n\"My eyes...!\nMy eyes hurt!\"\nHis horrified mother pried his hands away from his face, and... his eyes were gone.\nWhere his eyes should have been, there was nothing but gaping black holes.{p}"
+  },
+  {
+   "id": "02:44d8",
+   "op": "text",
+   "en": "After that, Sakuma lost his mind, and I hear he dropped out of school.\nIt was after that, see,\nthat the Candy Granny stopped showing up.\nBut for the past few years, they say a man in sunglasses has been turning up now and then at the student gate.\nWhenever he gets the chance, he stops a student, takes off his sunglasses, and...{p}"
+  },
+  {
+   "id": "02:45ec",
+   "op": "text",
+   "en": "\"...Give me back my eyeballs.\nThey weren't candy, you know.\n...Please, give them back to me.\"\nThat's what he says, sobbing in a thin little voice.\nThe guy has no eyes, they say. Just two pitch-black holes.{p}"
+  },
+  {
+   "id": "02:46d4",
+   "op": "text",
+   "en": "You've never met him, right?\nNo telling when you might.\nWatch yourself.\n...By the way, {a}.{p}A little while ago, you said you wanted to meet the Candy Granny and eat her candy, didn't you?\n"
+  },
+  {
+   "id": "02:477c",
+   "op": "choice",
+   "en": "I said that"
+  },
+  {
+   "id": "02:4784",
+   "op": "choice",
+   "en": "I never said that"
+  },
+  {
+   "id": "02:4790",
+   "op": "text",
+   "follows_choice": [
+    "02:4784"
+   ],
+   "en": "Don't lie to me.\nI heard you, plain as day.\nThey say anyone who hears this story and says they want to eat the Candy Granny's candy gets to meet her.\nSometime in the next month, somewhere, you'll run into her.\nWhether it's in a crowd or in your own room, I couldn't tell you.\nAnd she'll hold out that delicious candy and ask you some questions.\n\"Do you like candy?\"\n\"Do you want candy?\"\n\"Was the candy good?\"\n\"How many candies did you eat?\"\nFour questions, just like that.{p}"
+  },
+  {
+   "id": "02:4968",
+   "op": "text",
+   "en": "Now listen, and listen good.\nThis is how you answer those questions.\nI'm only gonna say it once.\n\"Do you like candy?\"\nIf she asks you that,\n\"I hate it.\"\nThat's your answer.\n\"Do you want candy?\"\nIf she asks you that,\n\"I don't want any.\"\nThat's your answer.\n\"Was the candy good?\"\nIf she asks you that,\n\"Sakuma's the one who ate the candy.\"\nThat's your answer.\n\"How many candies did you eat?\"\nIf she asks you that,\n\"Sakuma ate three.\"\nThat's what you tell her.\nGot it? Don't you dare get it wrong.\nIf you try to run, or give the wrong answer to any of those questions, she'll gouge your eyes out.\nAnd then your eyeballs get turned into candy.{p}"
+  },
+  {
+   "id": "02:4ba0",
+   "op": "text",
+   "en": "Well, it's only a month you've gotta hold out.\nJust tough it out.\n...That's the end of my story.\nLet's have the next one tell theirs.{p}"
+  },
+  {
+   "id": "02:4c00",
+   "op": "text",
+   "follows_choice": [
+    "02:1068"
+   ],
+   "en": "You don't wanna eat it?\nIt's crazy good, I'm telling you.\nAnd that candy isn't just tasty, either.\nWell? You wanna try it, don't you?\nI'll keep asking as many times as it takes.{p}Me, I sure wanna eat it.\n"
+  },
+  {
+   "id": "02:4ca8",
+   "op": "choice",
+   "en": "I want to eat it"
+  },
+  {
+   "id": "02:4cb4",
+   "op": "choice",
+   "en": "I don't want to eat it"
+  },
+  {
+   "id": "02:4cc4",
+   "op": "text",
+   "follows_choice": [
+    "02:4cb4"
+   ],
+   "en": "You don't want to?\nWhat are you talking about?{p}Deep down you really wanna try it, don't you?\n"
+  },
+  {
+   "id": "02:4d10",
+   "op": "choice",
+   "en": "I want to eat it"
+  },
+  {
+   "id": "02:4d1c",
+   "op": "choice",
+   "en": "I don't want to eat it"
+  },
+  {
+   "id": "02:4d34",
+   "op": "text",
+   "follows_choice": [
+    "02:4d1c"
+   ],
+   "en": "Huh?\nYou're more stubborn than you look.\nYou're the first one who's ever heard this story and said they didn't wanna eat it.\nOr maybe...{p}Don't tell me you hate candy?\n"
+  },
+  {
+   "id": "02:4dc4",
+   "op": "choice",
+   "en": "I like candy"
+  },
+  {
+   "id": "02:4dcc",
+   "op": "choice",
+   "en": "I hate candy"
+  },
+  {
+   "id": "02:4ddc",
+   "op": "text",
+   "follows_choice": [
+    "02:4dcc"
+   ],
+   "en": "I see...\nSo you hate candy.\nWell then, I guess it can't be helped...\nBut y'know, no matter how much someone hates candy, I bet they'd say the Candy Granny's candy, at least, is absolutely delicious.\nThey say there was someone like that among the people who got her candy, too.\nI think the story went something like this...{p}"
+  },
+  {
+   "id": "02:4ef8",
+   "op": "text",
+   "en": "Satoko Katagiri, a first-year back then, was nobody you'd call a beauty, and she sure wasn't slim either.\nWhat do you call it, pear-shaped?\nShe had a huge sweet tooth, and pretty much every day she ate snacks and cake from morning till night.\nAnd the result...\nWell, naturally, she ended up with terrible cavities.\nFor a good while she couldn't eat sweets, or even regular meals.\nThen one day...{p}"
+  },
+  {
+   "id": "02:505c",
+   "op": "text",
+   "en": "Katagiri was heading out the school gate, putting up with the pain of her cavities.\nJust then, a voice called out to her.\n\"Are you all alone, dearie?\"{p}"
+  },
+  {
+   "id": "02:50ec",
+   "op": "text",
+   "en": "She turned around, and what do you know, there stood an old lady with a red hood pulled low over her eyes.\nIt was the Candy Granny.\nThere hadn't been anyone there a moment ago, but she'd appeared like a puff of smoke.{p}"
+  },
+  {
+   "id": "02:5194",
+   "op": "text",
+   "en": "\"Ah, the Candy Granny!\"\nShe had a sweet tooth, remember.\nOf course she knew the rumors about the Candy Granny.\n\"You like sweet things, don't you, dearie?\nHere, let me give you this.\"{p}"
+  },
+  {
+   "id": "02:523c",
+   "op": "text",
+   "en": "The Candy Granny picked one big ball of candy out of the basket hanging from her arm and pressed it into Katagiri's hand.{p}"
+  },
+  {
+   "id": "02:52c0",
+   "op": "text",
+   "en": "\"It's delicious candy.\nSo good your cheeks will fall right off.\"\nWith that, the old lady twisted her wrinkled mouth into a smile.\n\"Candy...?\"\n"
+  },
+  {
+   "id": "02:5358",
+   "op": "text",
+   "en": "The moment she thought it, a stabbing pain shot through the back of Katagiri's head.\nCavities, y'know...{p}"
+  },
+  {
+   "id": "02:53b4",
+   "op": "text",
+   "en": "Just picturing something sweet makes them start hurting like crazy, right?\nThat's rough, man.\nWhat about you, {a}?{p}Have you ever had a rough time with a cavity?\n"
+  },
+  {
+   "id": "02:543c",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "02:5444",
+   "op": "choice",
+   "en": "No, never"
+  },
+  {
+   "id": "02:544c",
+   "op": "text",
+   "follows_choice": [
+    "02:543c"
+   ],
+   "en": "Right, then you know.\nThat kind of pain.\nKatagiri was hurting like that too.{p}"
+  },
+  {
+   "id": "02:54b4",
+   "op": "text",
+   "en": "So...\n\"Who wants this stupid thing!\"\nshe yelled, and threw the candy away.\nI guess she just snapped.\nThe old lady must've been startled by how furious she was.\n\"Eeeeeeek!\"\nshe cried, and went hopping and bouncing off somewhere.{p}"
+  },
+  {
+   "id": "02:55cc",
+   "op": "text",
+   "en": "\"Ugh! She has no idea what I'm going through...\"\nJust then, Katagiri's best friend, Eriko Hara, happened by.\n\"Satoko! What's got you all huffy?\"\n\"Well, actually...\"\nAnd she told her everything that had just happened.\n\"Whaaat?!\nYou threw away the Candy Granny's candy?!\"\n\"Don't talk so loud.\nIt hurts my teeth.\"\n\"What are you saying?!\nWhat a waste!\nThat candy, see...\"\nPut simply, what Hara told her goes like this.{p}"
+  },
+  {
+   "id": "02:5778",
+   "op": "text",
+   "en": "The Candy Granny's candy isn't just delicious.\nThey say everyone who's ever sucked on one has found happiness, without fail.\nYou get this weird surge of confidence or something, and whatever you try, it works out.\nKids who were bad at studying suddenly get great grades, and kids with no athletic ability suddenly turn into star athletes.\nAnd then a rosy school life is waiting for them.\nSounds like a dream, right?{p}"
+  },
+  {
+   "id": "02:58f0",
+   "op": "text",
+   "en": "\"...Whaaat?!\"\nKatagiri frantically searched around where she'd thrown the candy.\nBut there was nothing like it anywhere.\nAfter that, Katagiri kept waiting for the Candy Granny, pretty much every day.\nIn the end, though, she graduated without ever seeing her again.{p}"
+  },
+  {
+   "id": "02:59fc",
+   "op": "text",
+   "en": "What a waste, blowing a chance like that, huh?\nAnd get this: no matter how many times her cavities get fixed, her teeth rot away again in no time.\nRumor is she's still going to the dentist even now.\nI bet that's her punishment for treating the Candy Granny's candy like trash, don't you think?\nShe missed her shot at good luck, and her cavities never get better. Talk about adding insult to injury.\nThis year's my last chance too, but...\nWell, I'll look for her without getting my hopes up.\nIf you ever do meet the Candy Granny, you're in luck.\nAfter all, it's magic candy.\n...Oh wait, you hate candy, don't you, {a}?\nThen when that happens, give it to me.\nWhatever you do, don't go wasting it by throwing it away like Katagiri did.\nGot it?\nAlright, that's the end of my story.\nWho's up next?{p}"
+  },
+  {
+   "id": "02:5c9c",
+   "op": "text",
+   "follows_choice": [
+    "02:15a0",
+    "02:1ee8"
+   ],
+   "en": "After all this, you're gonna say that?\n...Well, whatever.\nYou're saying you'll grab your happiness with your own two hands, is that it?\nMaybe that's not so bad either.\nBut y'know, in the end there's only so much a human being can do.\nSure, it's fine to push yourself and chase dreams that'll never come true.\nBut the people who actually make their dreams come true that way are just a tiny handful.\nYou really don't want much, do you?\nBut if that's what you say, then fine by me.\nAmong the people who got the candy, there's a story like this too...{p}"
+  },
+  {
+   "id": "02:5e6c",
+   "op": "text",
+   "en": "Satoko Katagiri, a first-year back then, was nobody you'd call a beauty, and she sure wasn't slim either.\nWhat do you call it, pear-shaped?\nBut she was a sweet kid, and I think people liked her well enough.\nShe had a best friend named Eriko Hara.\nThis girl was pretty cute, but her personality was super nasty.\nEveryone used to say, \"How do those two even stand hanging out together?\"\nNot that I saw it myself or anything.\nKatagiri was basically just there to make Hara look good.\nAnd I bet Hara felt superior about it and was perfectly happy that way.\nSeriously, what a nasty piece of work.\nOne day, after school, Katagiri was waiting at the school gate for Hara, who had cleaning duty.{p}"
+  },
+  {
+   "id": "02:60d0",
+   "op": "text",
+   "en": "\"Are you waiting for someone, dearie?\"\n\"Y-yes, just a friend.\"\nKatagiri got a little spooked.\nThen again, anybody would get spooked if an old lady who looked like that suddenly spoke up from behind them.\n\"Well then, before that friend of yours comes, there's something I want to give you.\nHere, this is it.\"{p}"
+  },
+  {
+   "id": "02:61f4",
+   "op": "text",
+   "en": "She seized the girl's hand in her wrinkled one and pressed something into it.\n\"...Candy?\"\nWhen she opened her hand, there was a huge ball of candy, about the size of a golf ball, in a crumpled wrapper.{p}"
+  },
+  {
+   "id": "02:62a8",
+   "op": "text",
+   "en": "\"I can see you've got a kind heart, dearie.\nA child like you ought to be much happier than this.\nI'll take away that handicap that keeps dogging you.\n"
+  },
+  {
+   "id": "02:6340",
+   "op": "text",
+   "en": "Heh heh heh heh.\"\n\"Uh... okay...\"{p}"
+  },
+  {
+   "id": "02:6378",
+   "op": "text",
+   "en": "With that, the old lady went hopping and bouncing off somewhere.\n\"What was that about? That old lady...\"\n\"Satoko! What's with you, spacing out like that?\"\n\"Well, actually...\"\nAnd she told her everything that had just happened.{p}"
+  },
+  {
+   "id": "02:6474",
+   "op": "text",
+   "en": "\"And this is it.\"\n\"Ew, gross! Why would you take something like that?\nHurry up and throw it away.\"\n\"Yeah, but I think I'll hang onto it anyway.\nSomething about it bugs me...\"\n\"Ugh, do whatever you want.\nIf you're keeping it, then put it away already. It's creepy.\"\nKatagiri shoved the candy into her bag...{p}"
+  },
+  {
+   "id": "02:658c",
+   "op": "text",
+   "en": "Then, while she and Hara were busy chatting about silly stuff, she forgot all about the old lady.\nWhen Katagiri got home and was going over the next day's lessons...{p}"
+  },
+  {
+   "id": "02:6644",
+   "op": "text",
+   "en": "\"Huh, did I take this out of my bag?\"\nThe candy was sitting on the right-hand edge of her desk.\n\"It must've fallen out earlier when I took my notebook out.\"\nShe picked up the candy and thought about the old lady.\n\"But she didn't give me a bad feeling at all.\nI wonder why...\nOh, well.\nI'm hungry, so maybe I'll just have it.\"\nAnd she went for it and popped it right into her mouth.{p}"
+  },
+  {
+   "id": "02:67a4",
+   "op": "text",
+   "en": "\"Oh my gosh, this is sooo delicious!\nIt makes me glad to be alive!\nGood thing I didn't throw it away!\"\nShe savored it to the very end, and then, still feeling happy, she went to sleep without even brushing her teeth.\nThat was when the strange things started.{p}"
+  },
+  {
+   "id": "02:6890",
+   "op": "text",
+   "en": "\"Hey, Satoko.\nHave you lost weight or something?\"\n\"I know, right?!\nI'm not dieting or doing anything special, but I just keep getting thinner.\"\nThat's right. She slimmed right down, and her skin got all smooth too.\nWeird, huh?\nAnd she got so pretty you wouldn't even recognize her.\n\"Hey, Katagiri's gotten kinda pretty, huh?\"\nHer popularity with the boys shot through the roof.\nThe one who wasn't happy about it was Hara, I bet.{p}"
+  },
+  {
+   "id": "02:6a08",
+   "op": "text",
+   "en": "One day, Hara cornered Katagiri.\n\"There's some secret, isn't there?\nCome on, tell me!{p}We're best friends, aren't we?\"\n"
+  },
+  {
+   "id": "02:6a6c",
+   "op": "choice",
+   "en": "Tell her the truth"
+  },
+  {
+   "id": "02:6a80",
+   "op": "choice",
+   "en": "Don't tell her"
+  },
+  {
+   "id": "02:6a8c",
+   "op": "text",
+   "follows_choice": [
+    "02:6a6c"
+   ],
+   "en": "\"Sure.\nHey, Eriko, don't you remember?\nThat old lady?\nIt's all thanks to the candy she gave me that day.\"\nAnd she told her everything that had happened since she ate the candy.\n\"I see. So that's how it is.\"\nHara grinned slyly.{p}"
+  },
+  {
+   "id": "02:6b60",
+   "op": "text",
+   "en": "After that, day after day, Hara waited for the Candy Granny at the school gate.\nRain or wind, even snow, she waited, hiding in the shadow of a utility pole.\nIf she had that much grit, she could've spent the time working on herself and gotten a lot prettier, y'know.\nHara waited.\nShe kept on waiting, desperately.{p}"
+  },
+  {
+   "id": "02:6c90",
+   "op": "text",
+   "en": "\"No luck today either...\"\nThe sun had gone down completely, and there were no students left heading home from school.\nHara decided to go home and pin her hopes on tomorrow once again.\n"
+  },
+  {
+   "id": "02:6d28",
+   "op": "text",
+   "en": "\"All by yourself, are you, dearie?\"\nJust as he was about to leave, someone suddenly spoke to him from behind.{p}"
+  },
+  {
+   "id": "02:6d94",
+   "op": "text",
+   "en": "She turned around, and what do you know, there stood an old lady with a red hood pulled low over her eyes.\nIt was the Candy Granny.\nThere hadn't been anyone there a moment ago, but she'd appeared like a puff of smoke.\n\"Y-you're the Candy Granny, aren't you!\"\nThe old lady glided right up to Hara and spoke, all but pressing her warty nose into her face.\n"
+  },
+  {
+   "id": "02:6ea8",
+   "op": "text",
+   "en": "\"...Heh heh heh... That I am.\nYou've been waiting for me, haven't you, dearie?\"\n\"...Not really.\nI was just wandering around, that's all.\"\nThis was Hara we're talking about, with her not-so-cute personality, so of course she put on a tough front.\nEven so, the old lady laughed as if she could see right through her.\n"
+  }
+ ]
+}

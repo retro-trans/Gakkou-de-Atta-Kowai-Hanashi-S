@@ -1,0 +1,1114 @@
+{
+ "chunk": "E039",
+ "scene": "20",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "slices": [
+  "S078",
+  "S079",
+  "S080"
+ ],
+ "prev": "E038",
+ "next": "E040",
+ "todo": [],
+ "rows": [
+  {
+   "id": "20:0c9c",
+   "op": "text",
+   "en": "Hey there, my name is Nozomu Kazama.\nI'm a third-year at this school, and a real nice guy.\n...Still, the seventh one never showed up after all, huh?\nThat means you can't put together your feature on the school's seven wonders.\nWell, it can't be helped.\nJust call it fate and settle for six wonders.\nTo finish things off, I'll tell you a story I've been saving.{p}"
+  },
+  {
+   "id": "20:0dc8",
+   "op": "text",
+   "en": "...Listen up, and prepare to be amazed.\nThe truth is, I can see guardian spirits.\nYou know what a guardian spirit is, right?\n"
+  },
+  {
+   "id": "20:0e28",
+   "op": "choice",
+   "en": "I know"
+  },
+  {
+   "id": "20:0e34",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "20:0e4c",
+   "op": "text",
+   "en": "You don't know?\nYou don't even know about guardian spirits?\nWell, this is a surprise.\nI didn't think there were still high schoolers like you around these days.\n...Well, it can't be helped.\nThere's no shame in not knowing.\nThough if it were me, I'd die of embarrassment.{p}",
+   "follows_choice": [
+    "20:0e34"
+   ]
+  },
+  {
+   "id": "20:0f28",
+   "op": "text",
+   "en": "Well, I'm one of the chosen, and you're just an ordinary person.\nYou don't have to die just because you didn't know.\nA guardian spirit, you see, is a spirit that protects you.\nThe more powerful the guardian spirit watching over you, the more blessed your life will be.{p}"
+  },
+  {
+   "id": "20:1010",
+   "op": "text",
+   "en": "But if the guardian spirit you've got is no good...\nyour life turns out the worst it possibly could.\nFrom a quick look, it seems like someone really amazing is watching over you as your guardian spirit, but...\nWell, before I look at your guardian spirit, I'll read your past life for you.{p}So, do you want me to read your past life?\n"
+  },
+  {
+   "id": "20:1114",
+   "op": "choice",
+   "en": "I want a reading"
+  },
+  {
+   "id": "20:1124",
+   "op": "choice",
+   "en": "I don't want a reading"
+  },
+  {
+   "id": "20:1138",
+   "op": "text",
+   "en": "Good, good, so you want a reading.\nThen kindly choose your past-life reading course.{p}You get to choose from the following three courses.\n",
+   "follows_choice": [
+    "20:1114"
+   ]
+  },
+  {
+   "id": "20:11c0",
+   "op": "choice",
+   "en": "The Special Course"
+  },
+  {
+   "id": "20:11d4",
+   "op": "choice",
+   "en": "The Ordinary Folk Course",
+   "returns": []
+  },
+  {
+   "id": "20:11e4",
+   "op": "choice",
+   "en": "The Warty Toad Course"
+  },
+  {
+   "id": "20:1200",
+   "op": "text",
+   "en": "Oh!\nMy dear customer, splendid.\nPicking the Special Course... you really do have a discerning eye.\nThe fee for the Special Course is 10,000 yen.\n10,000 yen is a bargain.\nIt'll show me exactly what you were before you were born into this world.{p}Now then, I'll have you pay that 10,000 yen.\n",
+   "follows_choice": [
+    "20:11c0"
+   ]
+  },
+  {
+   "id": "20:1304",
+   "op": "choice",
+   "en": "Pay the 10,000 yen"
+  },
+  {
+   "id": "20:1310",
+   "op": "choice",
+   "en": "Refuse to pay a whole 10,000 yen"
+  },
+  {
+   "id": "20:1324",
+   "op": "choice",
+   "en": "Say you don't have the money right now"
+  },
+  {
+   "id": "20:133c",
+   "op": "text",
+   "en": "...You are a wonderful person.\nRight now my whole body is trembling with tremendous emotion.\nI'll follow you for the rest of my life.\nI'll never, ever let you go.\nHeh heh heh...\nAll right then, let me do your reading.{p}",
+   "follows_choice": [
+    "20:1304"
+   ]
+  },
+  {
+   "id": "20:1418",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaaaah!\n...I see it.\n...I see a color.{p}Now, tell me your favorite color.\n"
+  },
+  {
+   "id": "20:14ac",
+   "op": "choice",
+   "en": "Red"
+  },
+  {
+   "id": "20:14b0",
+   "op": "choice",
+   "en": "Blue"
+  },
+  {
+   "id": "20:14b4",
+   "op": "choice",
+   "en": "Green"
+  },
+  {
+   "id": "20:14b8",
+   "op": "choice",
+   "en": "Yellow"
+  },
+  {
+   "id": "20:14c0",
+   "op": "choice",
+   "en": "White"
+  },
+  {
+   "id": "20:14c4",
+   "op": "choice",
+   "en": "Black"
+  },
+  {
+   "id": "20:14c8",
+   "op": "choice",
+   "en": "Something else"
+  },
+  {
+   "id": "20:14d8",
+   "op": "text",
+   "en": "Red!\nRed is the color of passion.\nAmazing.\nI feel like I'm starting to catch just a tiny glimpse of your past life.{p}",
+   "follows_choice": [
+    "20:14ac"
+   ]
+  },
+  {
+   "id": "20:153c",
+   "op": "text",
+   "en": "...Hmmmmm, hmmmmmmm.{p}"
+  },
+  {
+   "id": "20:1574",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaaaah!\n...I see it.\n...I see a food.{p}Now, tell me your favorite food.\n"
+  },
+  {
+   "id": "20:1610",
+   "op": "choice",
+   "en": "Hamburg steak"
+  },
+  {
+   "id": "20:161c",
+   "op": "choice",
+   "en": "Curry rice"
+  },
+  {
+   "id": "20:162c",
+   "op": "choice",
+   "en": "Ramen"
+  },
+  {
+   "id": "20:1638",
+   "op": "choice",
+   "en": "Katsudon"
+  },
+  {
+   "id": "20:1640",
+   "op": "choice",
+   "en": "Sushi"
+  },
+  {
+   "id": "20:1648",
+   "op": "choice",
+   "en": "Oden"
+  },
+  {
+   "id": "20:1650",
+   "op": "choice",
+   "en": "Something else"
+  },
+  {
+   "id": "20:1660",
+   "op": "text",
+   "en": "Sushi!\nSushi, how extravagant.\nSushi is a special food only the chosen, like me, get to eat.\nIt's not something commoners can ever have, you know.\n...How extravagant.\nEven I hardly ever get to eat it.\nWell, it can't be helped.\nAfter all, I did take your 10,000 yen.\nIt's coming, it's coming.\nLittle by little, I'm starting to see you.\n...But it's not there yet.\n...Hmmmmm, hmmmmmmm.{p}",
+   "follows_choice": [
+    "20:1640"
+   ]
+  },
+  {
+   "id": "20:17ec",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaaaah!\n...I see it.\n...I see a hobby.{p}Now, tell me your favorite hobby.\n"
+  },
+  {
+   "id": "20:1884",
+   "op": "choice",
+   "en": "Watching movies"
+  },
+  {
+   "id": "20:1890",
+   "op": "choice",
+   "en": "Sports"
+  },
+  {
+   "id": "20:189c",
+   "op": "choice",
+   "en": "Traveling"
+  },
+  {
+   "id": "20:18a4",
+   "op": "choice",
+   "en": "Reading"
+  },
+  {
+   "id": "20:18ac",
+   "op": "choice",
+   "en": "Listening to music"
+  },
+  {
+   "id": "20:18b8",
+   "op": "choice",
+   "en": "Stamp collecting"
+  },
+  {
+   "id": "20:18c4",
+   "op": "choice",
+   "en": "Something else"
+  },
+  {
+   "id": "20:18cc",
+   "op": "text",
+   "en": "Stamp collecting?\nYour hobby is collecting stamps?{p}",
+   "follows_choice": [
+    "20:18b8"
+   ]
+  },
+  {
+   "id": "20:190c",
+   "op": "text",
+   "en": "Ah ha ha ha ha...\nThat's gloomy.\nThat's one seriously gloomy hobby.\nNo, pardon me, pardon me.\nPeople can have whatever hobbies they like.\nIt was rude of me to laugh.\nAh ha ha.\nSomeone chosen like me shouldn't laugh at a thing like that.\nBy the way, I hear the 'Beauty Looking Back' stamp dropped in price?\n...Ah, no, I was just a little curious.\nIt's not like I collect stamps or anything.\nIf you've got the National Park commemorative stamp series, let's have a little talk later.{p}"
+  },
+  {
+   "id": "20:1abc",
+   "op": "text",
+   "en": "Well then, your past life is finally starting to come into clear view, so let's give it one more push.\nNow, just for you, since you chose the Special Course, I'll teach you a wonderful charm.{p}"
+  },
+  {
+   "id": "20:1b74",
+   "op": "text",
+   "en": "Say this charm, and you'll get a more accurate picture of your past life.\nAnd that's not all.\nYou'll get smarter, and a wonderful romance will come true for you too.\nYou should chant it at least three times a day.\nReady?\nSay it in unison now.\n\"Kazama is magnificent.\"{p}Go on, say it.\n"
+  },
+  {
+   "id": "20:1c70",
+   "op": "choice",
+   "en": "Kazama is magnificent"
+  },
+  {
+   "id": "20:1c88",
+   "op": "choice",
+   "en": "I can't say something like that"
+  },
+  {
+   "id": "20:1c9c",
+   "op": "choice",
+   "en": "Ask what it's supposed to mean"
+  },
+  {
+   "id": "20:1cc4",
+   "op": "text",
+   "en": "Good, good.\nYou're an admirable sort.\nKeep it up and chant it every day.\nNow, on to the next one.\nSay this right after.\n\"I respect Kazama.\"{p}",
+   "follows_choice": [
+    "20:1c70"
+   ]
+  },
+  {
+   "id": "20:1d4c",
+   "op": "text",
+   "en": "Ready... go!\n"
+  },
+  {
+   "id": "20:1d5c",
+   "op": "choice",
+   "en": "I respect Kazama"
+  },
+  {
+   "id": "20:1d78",
+   "op": "choice",
+   "en": "I'd never say that, not even if you tore my mouth open"
+  },
+  {
+   "id": "20:1d9c",
+   "op": "choice",
+   "en": "You've had enough and get angry"
+  },
+  {
+   "id": "20:1dc0",
+   "op": "text",
+   "en": "Ah ha ha.\nYou really are something.\nI'm sure you'll make it big, no doubt about it.\nOh yes, it's gradually coming into view.\nThere's no doubt now.\nAll right!\nNow I can see your past life clearly.\nJust now, the image of your past life took solid shape inside my head.{p}",
+   "follows_choice": [
+    "20:1d5c"
+   ]
+  },
+  {
+   "id": "20:1ec0",
+   "op": "text",
+   "en": "...Hmmmmm.\nBut this is a problem.\nI mean, I don't know what to say.\nShould I offer my condolences?\n...It's really hard for me to say it.{p}...Do you still want to hear it?\n"
+  },
+  {
+   "id": "20:1f64",
+   "op": "choice",
+   "en": "I want to hear it"
+  },
+  {
+   "id": "20:1f70",
+   "op": "choice",
+   "en": "I'd rather not hear it"
+  },
+  {
+   "id": "20:1f84",
+   "op": "text",
+   "en": "...Oh well.\nNo matter what I tell you, don't get mad, okay?\nIt's not like I'm making things up, you know.\nAll right, here goes.\nYour past life was........................{p}",
+   "follows_choice": [
+    "20:1f64"
+   ]
+  },
+  {
+   "id": "20:2030",
+   "op": "text",
+   "en": "No, it's still hard to say.\nFor now, I'll give you a few candidates, so would you pick one of them?\nIf you pick the right one, well, I'm a man, after all.\nI'll give you an honest answer.{p}Now, pick one of these.\n"
+  },
+  {
+   "id": "20:20f8",
+   "op": "choice",
+   "en": "A sea slug"
+  },
+  {
+   "id": "20:2104",
+   "op": "choice",
+   "en": "Galapagos lizard"
+  },
+  {
+   "id": "20:2118",
+   "op": "choice",
+   "en": "Sea anemone"
+  },
+  {
+   "id": "20:2128",
+   "op": "choice",
+   "en": "Anaconda"
+  },
+  {
+   "id": "20:2134",
+   "op": "choice",
+   "en": "American crayfish"
+  },
+  {
+   "id": "20:2148",
+   "op": "choice",
+   "en": "Giant salamander"
+  },
+  {
+   "id": "20:2170",
+   "op": "text",
+   "en": "...Ding-dong-diiing!\n...Sad to say, that's the reality.\nBefore you were born into this world, you were actually a giant salamander!\n...Shocked?\nBut don't let it get you down.\nGiant salamanders are living creatures too.\nThey say they're delicious to eat, you know.\nIt doesn't just live, it makes good food too. Quite a great guy, isn't it?\nYou should be proud that a giant salamander like that was your past life.\n",
+   "follows_choice": [
+    "20:2148"
+   ]
+  },
+  {
+   "id": "20:2304",
+   "op": "text",
+   "en": "Ah, splendid, ha ha ha!{p}"
+  },
+  {
+   "id": "20:232c",
+   "op": "text",
+   "en": "Haaaah.\nWhew, I'm tired.\n...Oh, I laughed and laughed.\nThat was quite a fun meeting, wasn't it?\nI even got to hear a few little scary stories for the first time in a while, so I'm satisfied.\nWell then, the seventh one isn't coming, so let's call it a day here.{p}"
+  },
+  {
+   "id": "20:2408",
+   "op": "choice",
+   "en": "Tell him to give back the 10,000 yen"
+  },
+  {
+   "id": "20:241c",
+   "op": "choice",
+   "en": "Ask what happened to the guardian spirit story"
+  },
+  {
+   "id": "20:2444",
+   "op": "choice",
+   "en": "It's just too ridiculous. Enough is enough: get angry"
+  },
+  {
+   "id": "20:2488",
+   "op": "text",
+   "en": "Huh?\nWhat?\n...Oh, the guardian spirit story.\nNow that you mention it, I did say something like that, didn't I?\nYou sure are a guy who nitpicks every little thing.{p}You want to hear about the guardian spirits that badly?\n",
+   "follows_choice": [
+    "20:241c"
+   ]
+  },
+  {
+   "id": "20:2534",
+   "op": "choice",
+   "en": "I want to hear it"
+  },
+  {
+   "id": "20:2540",
+   "op": "choice",
+   "en": "I don't want to hear any more"
+  },
+  {
+   "id": "20:2554",
+   "op": "text",
+   "en": "Oh, come on.\nYou still don't get it?{p}",
+   "follows_choice": [
+    "20:2534"
+   ]
+  },
+  {
+   "id": "20:2590",
+   "op": "text",
+   "en": "The guardian spirits are right here, aren't they?\n...And you know, there isn't necessarily just one guardian spirit.\nNow you've got it, right?\n...You don't?\nThe guardian spirits are us.\nAll of us gathered here are your guardian spirits.{p}"
+  },
+  {
+   "id": "20:2684",
+   "op": "text",
+   "en": "Ahahahahaha...\nAhh, that's hilarious.{p}What's wrong? Why the scary face?\n"
+  },
+  {
+   "id": "20:26cc",
+   "op": "choice",
+   "en": "So fed up I'm speechless"
+  },
+  {
+   "id": "20:26e8",
+   "op": "choice",
+   "en": "That's it. Now I'm mad!"
+  },
+  {
+   "id": "20:2700",
+   "op": "text",
+   "en": "Huh?\nSighing like that...\nWas it boring for you?\nDon't make that face.\nA guy who can't take a joke will never be great.\nOops, I'd better be getting home.\n...I had a really fun time today.\nThis school's a big place.\nWe may never meet again, but don't forget about us.\n...That really was fun.\n",
+   "follows_choice": [
+    "20:26cc"
+   ]
+  },
+  {
+   "id": "20:284c",
+   "op": "text",
+   "en": "Ah ha ha.{p}"
+  },
+  {
+   "id": "20:2868",
+   "op": "text",
+   "en": "Uh-huh.\nSo you know about them.\nBut tell me, how much do you actually know about guardian spirits?\nHave you ever met your guardian spirit?\nA guardian spirit is a spirit who protects you, right?\nDo you always give thanks to that guardian spirit?\nIt looks to me like your guardian spirit is a truly amazing person...\nHmm.\nYour guardian spirit may be amazing, but you're nothing special.\nOh, right. Let's set the guardian spirit talk aside, and I'll do a past-life reading for you.{p}",
+   "follows_choice": [
+    "20:0e28"
+   ]
+  },
+  {
+   "id": "20:2a20",
+   "op": "text",
+   "en": "What's with that face?\nAre you holding a grudge because I said you're nothing special?\nInstead of glaring at me, work on being a better man.\nYou should aim to be a cool guy like me, too.\n...Now then, {a}.\nA fine man like me is offering to do a past-life reading for you.\nWhat'll it be?\nOf course you want your fortune told, right?{p}"
+  },
+  {
+   "id": "20:2b44",
+   "op": "text",
+   "en": "You don't want your fortune told, you say?\n...Please, stop telling such sad lies.\nYou don't have to be shy.\nThe past-life reading comes in three courses.\nPick whichever one you like from these.{p}",
+   "follows_choice": [
+    "20:1124"
+   ]
+  },
+  {
+   "id": "20:2bf8",
+   "op": "text",
+   "en": "Wow...\nYou want the Ordinary Folk Course?\nYou sure don't look like ordinary folk to me, though.\n",
+   "follows_choice": [
+    "20:11d4"
+   ]
+  },
+  {
+   "id": "20:2c64",
+   "op": "text",
+   "en": "Less 'ordinary folk' and more 'ittan-momen,' I'd say.\nYou're more yokai than human.{p}"
+  },
+  {
+   "id": "20:2cc4",
+   "op": "text",
+   "en": "No, just kidding.\nPlease don't make such a scary face.\nIt ruins those handsome looks of yours.\n...That was a joke too.\nYou're not handsome.\nThe word 'handsome' exists only for people like me, after all.\nWell then, let's begin the fortune-telling.\nThis Ordinary Folk Course reads your past life by giving you a personality test.{p}"
+  },
+  {
+   "id": "20:2e00",
+   "op": "text",
+   "en": "First, take a look at this photo.\nThere's water in the glass, right?\nWhat do you think this water tastes like?\nAnswer without thinking too hard.\nPut your gut feeling into words.{p}So, what do you think this water tastes like?\n"
+  },
+  {
+   "id": "20:2ed0",
+   "op": "choice",
+   "en": "Sweet"
+  },
+  {
+   "id": "20:2ed8",
+   "op": "choice",
+   "en": "Spicy"
+  },
+  {
+   "id": "20:2ee0",
+   "op": "choice",
+   "en": "Bitter"
+  },
+  {
+   "id": "20:2ee8",
+   "op": "choice",
+   "en": "It has no taste"
+  },
+  {
+   "id": "20:2ef4",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "20:2f00",
+   "op": "text",
+   "en": "The water here stands for the world around you.\nThe answer you just gave is how you feel about the world.\nBut how you feel isn't necessarily right.\nThe world is a deep place.\nDon't you forget that.\n...Hmm, I'm starting to see it.\nYour personality.\nAnd your past life...{p}",
+   "follows_choice": [
+    "20:2ed0",
+    "20:2ed8",
+    "20:2ee0",
+    "20:2ee8",
+    "20:2ef4"
+   ]
+  },
+  {
+   "id": "20:3010",
+   "op": "text",
+   "en": "All right, on to the next question.\nNow, take a look at this photo.\nThis is our school's incinerator.\nThere's a fire burning in it, see?\n...Well?{p}What do you think is burning in those flames?\n"
+  },
+  {
+   "id": "20:30c0",
+   "op": "choice",
+   "en": "Garbage"
+  },
+  {
+   "id": "20:30c8",
+   "op": "choice",
+   "en": "A murdered person"
+  },
+  {
+   "id": "20:30d4",
+   "op": "choice",
+   "en": "Something disposed of in secret"
+  },
+  {
+   "id": "20:30e8",
+   "op": "choice",
+   "en": "I can't think of anything"
+  },
+  {
+   "id": "20:30f8",
+   "op": "text",
+   "en": "I see...\nThis incinerator, you see, stands for what's inside your heart.\nWhat's being burned in the incinerator...\nPeople who answer that it's garbage seem pretty normal, right?\nBut they're not.\nGetting rid of garbage shows a wish to deal with things you don't want.\nFor example, the person you like has a lover, and you want to do something about that lover...\nOr you wish a teacher you hate would get transferred away...\nOr you want to cut ties with a friend you can't stand.\nIt's precisely people with a strong urge to do something about those frustrations who answer like this.\nThis type of person tends to try to make the world move the way they want.\nWhich means...\nHmm, I'm gradually getting a grip on it.{p}",
+   "follows_choice": [
+    "20:30c0"
+   ]
+  },
+  {
+   "id": "20:3358",
+   "op": "text",
+   "en": "Your past life was...{p}"
+  },
+  {
+   "id": "20:337c",
+   "op": "text",
+   "en": "...Lastly, take a look at this photo.\nThis is the view looking down from the roof.\n...Well?\nDon't you feel anything when you see this?\nRemember.\nRemember the time you were in heaven.\nAnd before that...\nWhat you were doing in your past life...\nWell?\nSay whatever comes to mind.{p}You were...\n"
+  },
+  {
+   "id": "20:3498",
+   "op": "choice",
+   "en": "A human"
+  },
+  {
+   "id": "20:34a4",
+   "op": "choice",
+   "en": "A butterfly"
+  },
+  {
+   "id": "20:34b0",
+   "op": "choice",
+   "en": "A flower"
+  },
+  {
+   "id": "20:34dc",
+   "op": "text",
+   "en": "What nerve, saying something like that.\nEven someone as good-natured as me is going to get angry.\nYou were not a human.\nIt's true the personality you have now is something you inherited from your past life.\nBut it's not that the personality of some human in a past life is showing through.\n...I'll tell you plainly.\n",
+   "follows_choice": [
+    "20:3498"
+   ]
+  },
+  {
+   "id": "20:35fc",
+   "op": "text",
+   "en": "You were a poisonous mushroom growing in the Himalayans.\nThat's why you've got such a poisonous personality now.\nThat's all there is to it.\nGot it?{p}"
+  },
+  {
+   "id": "20:36b4",
+   "op": "text",
+   "en": "Wahahaha☆\n...Eh?\nThere's no mountain range called the Himalayans?\nA Himalayan is a kind of cat?\n......\nHuh?\n......{p}"
+  },
+  {
+   "id": "20:3744",
+   "op": "text",
+   "en": "Hmm.\nWell, what does it matter?\nThat fortune did you some good, didn't it?\nIt was fun, right?\nI had fun.\nSo it's all good.{p}"
+  },
+  {
+   "id": "20:37dc",
+   "op": "text",
+   "en": "Ahahahaha...\n"
+  },
+  {
+   "id": "20:37f4",
+   "op": "choice",
+   "en": "Get furious"
+  },
+  {
+   "id": "20:3804",
+   "op": "choice",
+   "en": "Weep and weep"
+  },
+  {
+   "id": "20:3814",
+   "op": "text",
+   "en": "That's it, I'm mad☆\nWhat on earth is with this guy☆\nI lunged at him.{p}",
+   "follows_choice": [
+    "20:37f4"
+   ]
+  },
+  {
+   "id": "20:3868",
+   "op": "text",
+   "en": "But Kazama dodged me nimbly and said,\n\"{a}.\nYour reflexes aren't very good, are they...\"\nGrrr...☆\nSo frustrating.\nSomehow, it's just so frustrating.\nWhat on earth is with this guy...\n\"{a}, you mustn't get rough with me.\nThat past-life reading earlier was the real thing.\nThe truth is, I'm your guardian spirit.\nThat's why I know your personality and your past life so well.\nGot it?\"\n...\nWhat is he talking about?\nWhat on earth is this guy...{p}"
+  },
+  {
+   "id": "20:3a10",
+   "op": "text",
+   "en": "\"{a}, I'm not your only guardian spirit.\nEveryone gathered here is your guardian spirit.\nYou see, a single person can have a whole bunch of guardian spirits...\"\n...That's ridiculous.\nKazama was all smiles.\nMy shoulders slumped, and I let out a huge sigh...{p}"
+  },
+  {
+   "id": "20:3b24",
+   "op": "text",
+   "en": "A murdered person, huh...\nYou see, this incinerator stands for your heart.\nA murdered person means someone whose individuality and opinions have been killed.\nToo difficult?\nI'll tell you what it means to burn a murdered person.\nYou want to kill someone's heart and burn it in your own flames.\nIn other words, you have a desire to make someone do as you please.\nEither you're in love, or there's someone you want to be friends with.\nOr you want someone to obey you, or you're trying to rise above others...\nIt's one of those.\nBut you probably have a hard time turning those feelings into reality.\nYou've got a cowardly side, don't you?\nThat's a trait that hasn't changed since your past life.\nYes, I'm gradually getting a grip on it.{p}",
+   "follows_choice": [
+    "20:30c8"
+   ]
+  },
+  {
+   "id": "20:3da8",
+   "op": "text",
+   "en": "I see...\nThis incinerator, you see, stands for what's inside your heart.\nAnswering that you're burning something disposed of in secret...\nmeans you've got something you can't tell anyone.\nYou must have been hiding that secret all along.\nAnd you hope it never comes out as long as you live.\n...It probably won't come out.\nSo go on living your life, keeping secrets from people.\nJust like you did in your past life.\nHmm, I'm gradually starting to understand.{p}",
+   "follows_choice": [
+    "20:30d4"
+   ]
+  },
+  {
+   "id": "20:3f64",
+   "op": "text",
+   "en": "...This incinerator, you see, stands for what's inside your heart.\nIf you can't think of what's in the flames...\nit means you don't really know what you want to do right now.\nYou're just living aimlessly.\nEven if you don't mean to, you definitely have that side to you.\nAnd the past life of someone like you is...\nHmm, I'm gradually starting to read it.{p}",
+   "follows_choice": [
+    "20:30e8"
+   ]
+  },
+  {
+   "id": "20:40b8",
+   "op": "text",
+   "en": "So close!\nYou weren't a butterfly.\nNot 'butterfly'... but 'but-elderly'!\nThat's right, you were the elder of a certain village☆\nIt seems you were a pretty nasty man in your past life.\nAnd everyone hated you.\nThe village women especially seem to have found you repulsive.\nThat's got something in common with you now, hasn't it?{p}",
+   "follows_choice": [
+    "20:34a4"
+   ]
+  },
+  {
+   "id": "20:41e8",
+   "op": "text",
+   "en": "Hahahaha☆\n...And so, that's the end of the past-life reading.\n"
+  },
+  {
+   "id": "20:422c",
+   "op": "text",
+   "en": "Ahahaha, how funny!{p}"
+  },
+  {
+   "id": "20:4254",
+   "op": "text",
+   "en": "See, it's funny, right?\nRight...?{p}"
+  },
+  {
+   "id": "20:428c",
+   "op": "text",
+   "en": "You.......................... do you know the word 'humility'?\nI think you need that word right now.\nHow on earth could a lame guy like you ever become a flower?\nNo, wait, it's the other way around.\n",
+   "follows_choice": [
+    "20:34b0"
+   ]
+  },
+  {
+   "id": "20:4338",
+   "op": "text",
+   "en": "How could a pretty little flower ever be reborn as a grubby guy like you?\nAhh.\nI'm feeling kind of tired.\nI've lost the will to tell your fortune seriously.\nBut I'll give you a quick rundown of your past life anyway.{p}"
+  },
+  {
+   "id": "20:4404",
+   "op": "text",
+   "en": "Your past life was a paramecium.\nAnd it was no flower, make no mistake.\nThere. Done.{p}"
+  },
+  {
+   "id": "20:4460",
+   "op": "text",
+   "en": "...Oh!\nDon't ask me how the personality I read for you earlier ties in with a paramecium.\nI'm already worn out.\nI don't want to use my head any more than this.\n"
+  },
+  {
+   "id": "20:4510",
+   "op": "text",
+   "en": "Ha ha ha...{p}"
+  },
+  {
+   "id": "20:4530",
+   "op": "text",
+   "en": "Oh, come on.\nDon't cry, you're a guy, aren't you?\n......\nStill, there's something about you I just can't leave alone.\nI can't keep quiet anymore.\nThe truth is, about that guardian spirit business earlier... I'm your guardian spirit.\nAnd not just me.\nEveryone who gathered here is your guardian spirit.\nYou see, a single person can have several guardian spirits watching over them.{p}",
+   "follows_choice": [
+    "20:3804"
+   ]
+  },
+  {
+   "id": "20:4670",
+   "op": "text",
+   "en": "Mmm, you're adorable.\nI'll protect you forever.\nForever...\n\"Uh, um...\"\nI didn't know what to do.\nWhat on earth had gotten into Kazama?\nWhy was he saying things like this?\nTh-this is scary...\n"
+  },
+  {
+   "id": "20:4754",
+   "op": "text",
+   "en": "\"Ha ha ha, you're adorable. Ha ha ha ha ha...\"\nI-it was getting even scarier...\nThis might be the scariest of all the stories so far.\nNozomu Kazama...\nA dangerous man.\nStill, this guy's jokes went way too far.\nI didn't want to get too involved with him.\n"
+  },
+  {
+   "id": "20:4830",
+   "op": "text",
+   "en": "\"Ha ha ha ha☆ Heh heh heh heh☆\"\nKazama just kept on laughing.\nMy tears stopped right away.\nBecause Kazama's behavior was just too ridiculous.........{p}"
+  },
+  {
+   "id": "20:48e8",
+   "op": "text",
+   "en": "I see...\nSo the time has finally come...\nI really didn't want to do this reading...\nOh well.\nI'll do it for you.\nThis reading uses a warty toad.\nYou know Kokkuri-san, right?\nThe Warty Toad Course is something like Kokkuri-san...\nOnly instead of a ten-yen coin, you use a warty toad.\nA live warty toad, mind you.\nYou hypnotize it and put it to sleep so it won't move.\nThen you call down into that toad the god of warty toads, who rules over every warty toad in the world.\nTo tell the truth, I had a feeling someone would beg me for this course today.\nSo I came properly prepared.{p}",
+   "follows_choice": [
+    "20:11e4"
+   ]
+  },
+  {
+   "id": "20:4b3c",
+   "op": "text",
+   "en": "...See?\nIsn't it small and cute?\nThis one's still a baby warty toad.\nHeh heh heh...\nAll right, let's begin.\nLord Warty Toad, Lord Warty Toad, please come to us.\nIf you have come, please move to 'Yes'...\n"
+  },
+  {
+   "id": "20:4c14",
+   "op": "text",
+   "en": "Honnyara maka, funnyara maka, haaaaaaah☆\n...And so, Lord Warty Toad has arrived.\nNow then, {a}.\nIs there anything you'd like to ask?{p}"
+  },
+  {
+   "id": "20:4cc0",
+   "op": "text",
+   "en": "Whoops.\nLord Warty Toad has kindly answered on your behalf.\nAs expected of Lord Warty Toad.\nLord Warty Toad has read your heart completely.\nOh yes, I forgot to mention.\nEach person may only ask Lord Warty Toad up to three questions.\nLord Warty Toad has just answered one...\nSo you can only ask two more.\nPoor you.\nBut that's fate too.\nSay, {a}.\nYou're a pretty unlucky type, aren't you?{p}"
+  },
+  {
+   "id": "20:4e5c",
+   "op": "text",
+   "en": "Whoa-ho-ho!\nLord Warty Toad answered for you again!\nYou really are unlucky.\nWe'd better hurry up and ask about your past life.\nYou've only got one question left, after all.\nLord Warty Toad, Lord Warty Toad, please answer.\nWhat manner of past life did {a} have?{p}"
+  },
+  {
+   "id": "20:4fa0",
+   "op": "text",
+   "en": "Hmm.\nIt seems your past life was a wonderful one.{p}"
+  },
+  {
+   "id": "20:4fe4",
+   "op": "text",
+   "en": "...But that's all we can ask Lord Warty Toad.\nWe've already asked three questions about you.\nHowever... depending on your attitude, I might be willing to give you a more detailed reading.{p}"
+  },
+  {
+   "id": "20:50b4",
+   "op": "text",
+   "en": "{a}.\nDo you understand what I'm getting at...?\n\"K-Kazama...\"\nKazama came up close beside me.\nThen he gently took my hand... and made the sign for money with his fingers.\n\"{a}, if you hand over the goods, I'll ask Lord Warty Toad for you.\nI'll ask to be allowed a few more questions.{p}...How about it?\"\n"
+  },
+  {
+   "id": "20:51d0",
+   "op": "choice",
+   "en": "Give him money"
+  },
+  {
+   "id": "20:51dc",
+   "op": "choice",
+   "en": "Don't give him money"
+  },
+  {
+   "id": "20:51ec",
+   "op": "text",
+   "en": "I see.\nThen I'll take ten thousand yen.\nCome along, {a}.{p}Hand over the ten thousand yen.\n",
+   "follows_choice": [
+    "20:51d0"
+   ],
+   "returns": []
+  },
+  {
+   "id": "20:5244",
+   "op": "choice",
+   "en": "Give him the money"
+  },
+  {
+   "id": "20:5250",
+   "op": "choice",
+   "en": "Don't give him money after all"
+  },
+  {
+   "id": "20:5274",
+   "op": "text",
+   "en": "Ooh-hoo-hoo...\nYou're a good kid.\nAll right, I'll ask Lord Warty Toad for you.\nLord Warty Toad, Lord Warty Toad, I beg of you.{p}",
+   "follows_choice": [
+    "20:5244"
+   ]
+  },
+  {
+   "id": "20:5300",
+   "op": "text",
+   "en": "We wish to know {a}'s past life.\nTell us plainly: what was {a} in a past life?{p}"
+  },
+  {
+   "id": "20:5380",
+   "op": "text",
+   "en": "Ooh☆\nYour past life was, of all things, a warty toad☆\nThe reason you chose the Warty Toad Course was that the memory of your past life made you do it.\n"
+  },
+  {
+   "id": "20:5404",
+   "op": "text",
+   "en": "Ha ha ha ha ha☆\n...Hm?\nWhat's the matter?\nYou look so dissatisfied.{p}"
+  },
+  {
+   "id": "20:544c",
+   "op": "text",
+   "en": "Listen, this is a great honor, you know.\nYour past life came out as a 'success,' didn't it?\nThat means you lived the finest life a warty toad could ever live.\nIsn't that a wonderful story?{p}"
+  },
+  {
+   "id": "20:54ec",
+   "op": "text",
+   "en": "Well then, there's nothing more to ask Lord Warty Toad.\nLord Warty Toad, Lord Warty Toad, thank you very much.\nPlease go back home...{p}"
+  },
+  {
+   "id": "20:5584",
+   "op": "text",
+   "en": "Ah, {a}.\nYou're not allowed to go home.\nNot even if your past life was a warty toad.\n"
+  },
+  {
+   "id": "20:55ec",
+   "op": "text",
+   "en": "Ha ha ha...{p}"
+  },
+  {
+   "id": "20:5604",
+   "op": "text",
+   "en": "Hmm.\nIt seems your past life was a terrible one.{p}"
+  },
+  {
+   "id": "20:5644",
+   "op": "text",
+   "en": "Suit yourself.\nThen that's the end of the past-life reading.\nI'll have Lord Warty Toad go back home.\nLord Warty Toad, Lord Warty Toad, thank you very much.\nPlease go back home...\nThere, that's it for Lord Warty Toad.\nNow, let's clean up...{p}",
+   "follows_choice": [
+    "20:51dc",
+    "20:5250"
+   ]
+  },
+  {
+   "id": "20:5740",
+   "op": "text",
+   "en": "\"Wh-, K-Kazama...!\"\nKazama suddenly plucked up the warty toad and crushed it in his fist with a wet pop.\nRed blood spattered everywhere, as if a water balloon had burst.\n\"P-please stop☆\"\nShocked, I tried to stop him.\nThen he wiped the blood on his fingers off on his pants and cheekily stuck out his tongue.\n\"Look, after you do Kokkuri-san, you get rid of the ten-yen coin, right?\n...It's the same with Lord Warty Toad.\nIt's customary to dispose of the toad you used as the tool once the reading's over.\"\n...Wh-what a horrible thing to do.\nI felt sick.\nThe smell of the toad's blood drifted through the club room.\nThe toad's blood gave off a foul smell, like rotting kitchen garbage.\n\"L-let's open a window or something.\"\nWhen I opened the window...{p}"
+  },
+  {
+   "id": "20:59b0",
+   "op": "text",
+   "en": "\"Ah, thank you, {a}.\"\nWith that, Kazama tossed the warty toad out the window.\nHey, what on earth is wrong with this guy?\nDoing something like that seemed like a sure way to get cursed by warty toads.\n\"It's all right.\"\nKazama spoke up.{p}"
+  },
+  {
+   "id": "20:5aa0",
+   "op": "text",
+   "en": "\"It's all right, {a}.\nNo warty toad is ever going to curse you.\nBecause I'll protect you.\nYou see, I'm your guardian spirit.\nAnd not just me.\nEveryone who gathered here today is your guardian spirit.\nDid you know?\nA single person can have several guardian spirits watching over them...\"\nFor a while, I couldn't say anything.\nThis is bad.\nThis guy is a little unhinged...\nAs I sat there uneasy, Kazama suddenly burst out laughing.{p}"
+  },
+  {
+   "id": "20:5c70",
+   "op": "text",
+   "en": "\"Ah-ha ha ha, this is hilarious.\nHey, what's with that face?\nAre you scared?\nLook, your guardian spirits are on your side.\nSo there's no need to be scared.\n...That face.\n"
+  },
+  {
+   "id": "20:5d14",
+   "op": "text",
+   "en": "Wah-ha-ha-ha☆\nOh, that's too funny☆\nThe truth is, that toad just now was a toy.\nA toy frog that squirts water when you squeeze its belly.\nWhat came out of it was tomato juice.\nThe club room was hot, so it had gone a bit off and stank, though.\nWell? Did you fall for it?\"\nKazama was laughing, having the time of his life.\n...What is with him?\nHe'd made a complete fool of me.\nI sighed and stared at the table.\nFeeling somehow sad.\nHolding down the anger that kept welling up inside me...{p}"
+  },
+  {
+   "id": "20:5ee8",
+   "op": "text",
+   "en": "\"Then I'll give you a special discount.\"\nKazama gave a big smile.\nSo for now, I decided to hand over a ten-thousand-yen bill and get change back.\nAnd then...{p}",
+   "follows_choice": [
+    "20:1310"
+   ]
+  },
+  {
+   "id": "20:5f98",
+   "op": "text",
+   "en": "Kazama's eyes gleamed.\n\"Heh heh heh.\nNormally, ten thousand yen plus consumption tax should have come to ten thousand three hundred yen.\nBut as a special favor, I'll make it ten thousand yen, tax included...\"\nHmph.\nWh-what a guy.{p}"
+  },
+  {
+   "id": "20:6064",
+   "op": "text",
+   "en": "Ah!\nHe'd already put the ten-thousand-yen bill in his pocket!\nGrr, grr, grr...\n\"Heh heh.\nWell then, shall I begin the reading?{p}"
+  },
+  {
+   "id": "20:60f8",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaah☆\n...I can see...\n...I can see a color.\nNow, tell me your favorite color.\"\n...Oh, what the heck.\nI've got nothing left to lose.\nIf it's come to this, I'll just go through this so-called reading of his.\n...What should I answer?{p}"
+  },
+  {
+   "id": "20:6200",
+   "op": "text",
+   "en": "...All right.\nYou're right, taking money from an individual isn't good.\nThe newspaper club should cover interview expenses.\nI was wrong.\n...And so, {a}.\nThe newspaper club's funds are in that cabinet over there, right?\nI'll just help myself to those, then...\n\"...Kazama.\"\nMaybe he had a point.\nAs I was thinking that...{p}",
+   "follows_choice": [
+    "20:1324"
+   ]
+  },
+  {
+   "id": "20:634c",
+   "op": "text",
+   "en": "Kazama opened the club room drawer without asking and pulled out some bills.\nBut how did he know where the club funds were?\nAnd on top of that, the drawer should have been locked...\n\"{a}.\nI have spiritual powers, you see.\nHeh heh heh, surprised?\nWell, now that I've got a ten-thousand-yen bill, shall we begin the reading?\"\n...What a baffling person.\nHad he heard from Hino where the newspaper club's money and key were kept, and then pulled this?\nHmmm...{p}"
+  },
+  {
+   "id": "20:650c",
+   "op": "text",
+   "en": "\"What are you thinking about?\nI told you, I found it with my spiritual powers.\"\nKazama said this as if he'd read my mind.\nHe was more baffling by the minute.\n\"{a}.\nIt's about time we began the reading.\"\nKazama pressed his hands together and started groaning, \"Mmm, mmm.\"\n\"Okay, here goes.{p}"
+  },
+  {
+   "id": "20:6620",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaah☆\n...I can see...\n...I can see a color.\nNow, tell me your favorite color...\"\n...Oh well.\nI guess I'll play along with his reading.\nMy favorite color...\nNow, what should I answer?{p}"
+  },
+  {
+   "id": "20:671c",
+   "op": "text",
+   "en": "I see, I see.\nBlue is the color of the sea.\nYou could even call it the color of our Mother Earth.\nI'm starting to see it, starting to see a little!{p}",
+   "follows_choice": [
+    "20:14b0"
+   ]
+  },
+  {
+   "id": "20:6780",
+   "op": "text",
+   "en": "Green... the color of plants!\nOr else...\nThere's a third-year girl called Mako Midorikawa...\nShe's pretty cute, you know.{p}",
+   "follows_choice": [
+    "20:14b4"
+   ]
+  },
+  {
+   "id": "20:6804",
+   "op": "text",
+   "en": "Ah, but that's got nothing to do with your past life, has it?\nWhat does have to do with your past life is...\nI'm starting to see it, faintly, but I'm starting to see it!{p}"
+  },
+  {
+   "id": "20:6888",
+   "op": "text",
+   "en": "Yellow, is it!\nYellow is the color of faaaaarts!\n...No, just kidding.\nYellow is the color of a warning signal.\nWhich means...\nYour past life...\nI-it's starting to rise up through the haze.\nBut it's not clear yet☆{p}",
+   "follows_choice": [
+    "20:14b8"
+   ]
+  },
+  {
+   "id": "20:6954",
+   "op": "text",
+   "en": "White, is it...!\nWhite is the color of pure innocence!\nIt doesn't suit you in the slightest!\nBut...\nLet me read your past life from why you'd like white when it doesn't suit you at all...\nHmmm☆\nNo good! I have to concentrate harder☆{p}",
+   "follows_choice": [
+    "20:14c0"
+   ]
+  },
+  {
+   "id": "20:6a20",
+   "op": "text",
+   "en": "Black is the color of darkness.\nHow frightening...\n",
+   "follows_choice": [
+    "20:14c4"
+   ]
+  },
+  {
+   "id": "20:6a58",
+   "op": "text",
+   "en": "Could it be that you...!\nNo, not yet.\nI can't say for sure yet.{p}"
+  },
+  {
+   "id": "20:6aa0",
+   "op": "text",
+   "en": "Then what color do you like?\n...I see, I see.\nSo that's the kind of color you like.{p}",
+   "follows_choice": [
+    "20:14c8"
+   ]
+  },
+  {
+   "id": "20:6b08",
+   "op": "text",
+   "en": "...How foolish.\nThat color is cursed.\nBut...\nYou mustn't give up hope just yet.\nI'll give you a deeper reading!{p}"
+  },
+  {
+   "id": "20:6b88",
+   "op": "text",
+   "en": "Hamburg steak, is it!\nYou're just like a little kid.\nBe more adulty, like me.{p}",
+   "follows_choice": [
+    "20:1610"
+   ]
+  },
+  {
+   "id": "20:6be8",
+   "op": "text",
+   "en": "What, there's no such word as 'adulty'?\nYou're a pretty cheeky one, aren't you?\n'Adulty' means 'way grown-up, dude.'\nWhat, 'way grown-up, dude' is dead slang?\n......\nWhat a nasty guy.\nYou're a really nasty guy.\n...Mmmm, I'm gradually starting to read it.\nThe past life of a nasty guy like you was...{p}"
+  },
+  {
+   "id": "20:6d0c",
+   "op": "text",
+   "en": "I see.\nSo you like curry.\nI suppose you like spicy food.\nIn that case...{p}",
+   "follows_choice": [
+    "20:161c"
+   ]
+  },
+  {
+   "id": "20:6d64",
+   "op": "text",
+   "en": "Could it be...\nYou were...\nNo, it's nothing.\nIt must be my imagination.\nI hope it is.\nI could never tell you a result like this.\n...I'll try reading it in a little more detail.{p}"
+  },
+  {
+   "id": "20:6e24",
+   "op": "text",
+   "en": "Ramen?\nDon't tell me you've never eaten anything tastier than ramen?\n...Well, that's a shame.\nI'll teach you about some really good food.{p}",
+   "follows_choice": [
+    "20:162c"
+   ]
+  },
+  {
+   "id": "20:6eb8",
+   "op": "text",
+   "en": "Let's see, how about homard lobster, Sunbararian style?\nIf you like, I'll treat you to it anytime.\nOn your dime, of course.\n"
+  },
+  {
+   "id": "20:6f4c",
+   "op": "text",
+   "en": "Ha ha ha...{p}"
+  },
+  {
+   "id": "20:6f6c",
+   "op": "text",
+   "en": "Whoops, this is no time to be laughing.\nI've got to nail your past life dead-on.{p}"
+  },
+  {
+   "id": "20:6fc0",
+   "op": "text",
+   "en": "Katsudon, huh...\nThat feeling of the meat juices sizzling and spreading through your mouth.\nThat's the real joy of katsudon, isn't it?\nI got ten thousand yen, so maybe I'll swing by the cafeteria later...\nOoh-hoo-hoo-hoo...\nNow, let's continue the reading.\nYour past life is gradually coming into view.\nNobody who likes katsudon is a bad person.\nSo you can't have been all that bad.\n...That much I can already see at this point.{p}",
+   "follows_choice": [
+    "20:1638"
+   ]
+  },
+  {
+   "id": "20:713c",
+   "op": "text",
+   "en": "Now, let's probe a little deeper.{p}"
+  },
+  {
+   "id": "20:7170",
+   "op": "text",
+   "en": "Oden is delicious, isn't it?\nBut do you know what makes oden truly delicious?\nThe truly delicious oden is the kind you eat at the beach in summer.\nDo you get what I mean?\n...Oden eaten with beach babes is the best, that's what.\nOoh-hoo-hoo...\nIn my case, babes come up and talk to me all the time.\nSo I'll be enjoying a summer fling and eating oden, that sort of thing.{p}",
+   "follows_choice": [
+    "20:1648"
+   ]
+  },
+  {
+   "id": "20:72e0",
+   "op": "text",
+   "en": "You... don't look like you're very popular with girls.\nI bet you'll never know the true deliciousness of oden.\nAww, poor thing.\nYou're a pitiful guy, aren't you?\nI bet you were a pitiful creature in your past life, too.\nI'm starting to see it, starting to see it.{p}"
+  }
+ ]
+}

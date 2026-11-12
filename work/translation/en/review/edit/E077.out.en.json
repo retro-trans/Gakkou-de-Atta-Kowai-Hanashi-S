@@ -1,0 +1,23 @@
+{
+ "rows": {
+  "40:1240": "Right?\nIt'd be embarrassing to be in high school and still not know how to swim.\n{f:As for me|Me}, {f:if I ever get a boyfriend,|I'd really like my boyfriend} {f:I want one who can swim|to be able to swim too}.\nWhy, you ask?\nIsn't it obvious?\nOtherwise it'd be no fun going to the beach together.\nAnd if I started drowning, who would save me?\nPlus, I totally want to travel abroad.\nI want to spend time alone with my boyfriend at some resort on a tropical island.\nSo he has to be able to swim, or no deal.{p}",
+  "40:1d38": "I mean, it had belonged to Seto, the ace of the girls' swim club.\nA weird rumor went around that whoever used it would get better at swimming.\nBut way too many weird things kept happening, right?\nSo in the end, nobody used it anymore.\nIt's not like anyone got better at swimming anyway.\nWell, obviously.{p}",
+  "40:2984": "\"...Aw, too bad.\nAnd here I thought you had more guts, {c}{f:|}.\n{f:At this rate|If you'd snapped a picture or something}, {f:you'll never get a girlfriend|it would've made a great scoop}.\"\n{f:I|I} {f:laughed|smiled wryly} at her words as I left the swim club room.{p}",
+  "40:2b9c": "I leaped back without thinking.\nWhat is this thing?!{p}",
+  "40:30fc": "I pounded on the locker with all my strength, hard enough to break it.\n...But there was no longer any answer.{p}",
+  "40:5cc8": "Then you'd wonder whose help she wanted, right?\nSo first, they decided that everyone in the girls' swim club would reach out one by one and try to take her hand.\nOf course, some of them were scared.\nBut the captain of the girls' swim club talked everyone into it.{p}",
+  "40:63fc": "It's when a living person's grudges or jealousy take on a ghostlike form and appear.\nI think that's what showed up in the pool.\nWasn't it Hayashi's living spirit in the water?\nMaybe Hayashi's living spirit was trying to drown anyone who swam better than her.\nThey say Seto died of a heart attack, but...\nMaybe it was Hayashi's living spirit that caused it... just kidding.\nI shouldn't say things like that?\nBut I can't help thinking it.{p}"
+ },
+ "notes": [
+  "40:1214: KEEP - returns note: choice already reads 'the dog paddle', consistent with 40:3f80 and terms_live",
+  "40:3f80: KEEP - returns note settled; 'the dog paddle' / 'dog paddling' already consistent with choice 40:1214",
+  "40:1240: EDIT - returns note: male 'Me too' had no anchor -> 'As for me, if I ever get a boyfriend, I want one who can swim'; female variant smoothed to 'Me, I'd really like my boyfriend to be able to swim too'; clumsy 'it'd be no fun otherwise' reordered",
+  "40:1d38: EDIT - clumsy 'the locker of Seto, the ace...' -> 'it had belonged to Seto, the ace...'",
+  "40:2984: EDIT - male 'At that rate' -> idiomatic 'At this rate'",
+  "40:2b9c: EDIT - removed added profanity 'the hell' (source is a plain 'what is this thing!')",
+  "40:30fc: EDIT - 'there was no more answer' -> 'there was no longer any answer'",
+  "40:5cc8: EDIT - two consecutive lines opened with 'So'; first changed to 'Then'",
+  "40:63fc: EDIT - returns note: nante ne is a playful retraction; 'just saying' -> 'just kidding'",
+  "40:3a50: KEEP - 'That was what he added.' slightly stiff but clear; left as is"
+ ]
+}

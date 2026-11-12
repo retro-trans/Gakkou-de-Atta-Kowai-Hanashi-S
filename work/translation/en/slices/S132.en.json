@@ -1,0 +1,289 @@
+{
+ "slice": "S132",
+ "scene": "34",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S131",
+ "next": "S133",
+ "rows": [
+  {
+   "id": "34:0d2c",
+   "op": "text"
+  },
+  {
+   "id": "34:10b8",
+   "op": "choice"
+  },
+  {
+   "id": "34:10c0",
+   "op": "choice"
+  },
+  {
+   "id": "34:10d4",
+   "op": "text",
+   "follows_choice": [
+    "34:10b8"
+   ]
+  },
+  {
+   "id": "34:111c",
+   "op": "choice"
+  },
+  {
+   "id": "34:1128",
+   "op": "choice"
+  },
+  {
+   "id": "34:1138",
+   "op": "text",
+   "follows_choice": [
+    "34:111c"
+   ]
+  },
+  {
+   "id": "34:1174",
+   "op": "text"
+  },
+  {
+   "id": "34:11a8",
+   "op": "choice"
+  },
+  {
+   "id": "34:11b8",
+   "op": "choice"
+  },
+  {
+   "id": "34:11d0",
+   "op": "text",
+   "follows_choice": [
+    "34:11a8"
+   ]
+  },
+  {
+   "id": "34:12d8",
+   "op": "text"
+  },
+  {
+   "id": "34:1328",
+   "op": "text"
+  },
+  {
+   "id": "34:1658",
+   "op": "text"
+  },
+  {
+   "id": "34:1ab8",
+   "op": "text"
+  },
+  {
+   "id": "34:1cc4",
+   "op": "text"
+  },
+  {
+   "id": "34:1fac",
+   "op": "text"
+  },
+  {
+   "id": "34:2064",
+   "op": "text"
+  },
+  {
+   "id": "34:22c0",
+   "op": "text"
+  },
+  {
+   "id": "34:2494",
+   "op": "text"
+  },
+  {
+   "id": "34:25d4",
+   "op": "text"
+  },
+  {
+   "id": "34:2768",
+   "op": "choice"
+  },
+  {
+   "id": "34:278c",
+   "op": "choice"
+  },
+  {
+   "id": "34:27ac",
+   "op": "choice"
+  },
+  {
+   "id": "34:27c4",
+   "op": "text",
+   "follows_choice": [
+    "34:278c"
+   ]
+  },
+  {
+   "id": "34:2924",
+   "op": "text"
+  },
+  {
+   "id": "34:29b8",
+   "op": "choice"
+  },
+  {
+   "id": "34:29c4",
+   "op": "choice"
+  },
+  {
+   "id": "34:29d4",
+   "op": "choice"
+  },
+  {
+   "id": "34:29e8",
+   "op": "text",
+   "follows_choice": [
+    "34:29b8"
+   ]
+  },
+  {
+   "id": "34:2a3c",
+   "op": "text"
+  },
+  {
+   "id": "34:2eb4",
+   "op": "text"
+  },
+  {
+   "id": "34:3024",
+   "op": "text"
+  },
+  {
+   "id": "34:31ec",
+   "op": "text"
+  },
+  {
+   "id": "34:3460",
+   "op": "text"
+  },
+  {
+   "id": "34:35d8",
+   "op": "choice"
+  },
+  {
+   "id": "34:35e0",
+   "op": "choice"
+  },
+  {
+   "id": "34:35e8",
+   "op": "text",
+   "follows_choice": [
+    "34:35d8"
+   ]
+  },
+  {
+   "id": "34:3778",
+   "op": "text"
+  },
+  {
+   "id": "34:3854",
+   "op": "text"
+  },
+  {
+   "id": "34:39fc",
+   "op": "text"
+  },
+  {
+   "id": "34:3cd0",
+   "op": "text"
+  },
+  {
+   "id": "34:3e1c",
+   "op": "text"
+  },
+  {
+   "id": "34:3f28",
+   "op": "text"
+  },
+  {
+   "id": "34:4154",
+   "op": "text"
+  },
+  {
+   "id": "34:4218",
+   "op": "text"
+  },
+  {
+   "id": "34:42e8",
+   "op": "text"
+  },
+  {
+   "id": "34:4588",
+   "op": "text"
+  },
+  {
+   "id": "34:46f0",
+   "op": "text"
+  },
+  {
+   "id": "34:4724",
+   "op": "choice"
+  },
+  {
+   "id": "34:4730",
+   "op": "choice"
+  },
+  {
+   "id": "34:4748",
+   "op": "text",
+   "follows_choice": [
+    "34:4730"
+   ]
+  },
+  {
+   "id": "34:4800",
+   "op": "text"
+  },
+  {
+   "id": "34:4958",
+   "op": "text"
+  },
+  {
+   "id": "34:4af8",
+   "op": "text"
+  },
+  {
+   "id": "34:4c04",
+   "op": "choice"
+  },
+  {
+   "id": "34:4c14",
+   "op": "choice"
+  },
+  {
+   "id": "34:4c24",
+   "op": "text",
+   "follows_choice": [
+    "34:4c14"
+   ]
+  },
+  {
+   "id": "34:4ce8",
+   "op": "text"
+  },
+  {
+   "id": "34:4e8c",
+   "op": "text"
+  },
+  {
+   "id": "34:506c",
+   "op": "text"
+  },
+  {
+   "id": "34:52b4",
+   "op": "text"
+  },
+  {
+   "id": "34:544c",
+   "op": "text"
+  },
+  {
+   "id": "34:54b8",
+   "op": "text"
+  }
+ ]
+}

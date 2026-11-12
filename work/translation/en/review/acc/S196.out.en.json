@@ -1,0 +1,23 @@
+{
+ "rows": {
+  "50:52b8": "Seeing {f:me|me} flustered, Arai narrowed his eyes, looking strangely pleased.\n\"You're scared.\nBecause of you, I had to apologize to Kazama.\nConsidering my pride, this is only what you deserve...... But I bet you've learned your lesson, right down to the bone.\nI can't free you from It, but I'll let you move.\"\nThe moment he said it, my body suddenly felt light.\nArai grinned.\n\"It seems you've had a good scare in the dark, {a}{f:|}.\nI'll have you count this as my fifth story.\"\n{f:I|I} couldn't say a word.{p}{f:And so|...Well then}, at last, it was down to the final one{f:.|.}{p}",
+  "50:5dcc": "\"Ah...\"\n{f:I|I} tried to call Arai back.\nBut no voice came out.\nKazama lay motionless on the floor, his stomach soaked in blood.\n\"What on earth just happened?\"\n{f:One of the girls|Someone} said it in a tearful voice.\nWhat had happened......\nThat was something no one {f:would ever be able to|could possibly} answer.\nThe stench of blood filled the cramped club room.\nWho could have imagined the seven wonders would come to an end like this?\nThe sobbing of {f:the girls|the others} sounded somehow far away.\n{f:I|I} could do nothing but stand there.\nNo one ever learned where Arai went.{p}",
+  "50:87f0": "\"...For now, we'd better carry him out of here.\"\n\"What★\"\nI couldn't believe my ears.\nPreserving the scene is the duty of every good citizen, and when it's something as serious as a murder, all the more so......\nKazama looked at me as if he'd seen right through what {f:I|I} was thinking.\n\"You saw it too, didn't you?\nArai was the one who came at me first.\nWhat I did was self-defense.\"\n\"B-but if that's the case, couldn't you just call the police and tell them the truth...?\"\nKazama shrugged.\n\"Are you serious?\nThe police's job is to make criminals.\nThey'd never believe a word I say in the first place.\nBesides, this happened partly because you all didn't stop us, you know.\"{p}",
+  "50:993c": "With the girls keeping watch, {f:we|we} started down the hallway.\nIf anyone saw us like this, there'd be no excuse...... I thought to myself.\nMaybe because of that, my breathing grew ragged.\nIt felt like only {f:our|our} breathing was echoing loudly through the empty school building.\nKazama must have felt the same way.\n\"You guys... keep it down a little.\"\nSo {f:I|I} held my breath as much as I could too.\nBut someone was still wheezing.\n\"Hey, you guys...\"\nKazama stopped in mid-sentence.\nAt the same moment, {f:I|I} realized it too.{p}"
+ },
+ "notes": [
+  "50:52b8: FIX meaning - Yatsu (the summoned creature) rendered as \"It\" per S195 standard (todo 1); English said \"that thing\". Also restored 4-char dot run as 6 dots.",
+  "50:52b8: TODO - todo 1 settled; no other Yatsu in S196 (the rows after 52b8 belong to other branches).",
+  "50:5dcc: FIX dots - 4-char silence after \"What had happened\" restored to 6 dots.",
+  "50:87f0: FIX dots - 4-char trailing run after \"all the more so\" restored to 6 dots.",
+  "50:993c: FIX dots - 4-char run after \"no excuse\" restored to 6 dots.",
+  "50:7e50: KEPT - 9-char silence is already 6 ellipsis characters (18 dots), longer than the 13-14 rule; not shortened.",
+  "50:74a0: TODO - male (Kazama nominates {c} as the sacrifice) and female (Kazama proposes having {c} fetch Hino; Arai says he will send the spirit to Hino) branches both checked against source; meaning complete. Female reword for encoder is accurate; encoder improvement is outside this stage.",
+  "50:7164: TODO - both branches checked: male Kazama grabs player and accuses him of dumping responsibility; female Kazama whispers, promises not to sacrifice her, proposes Hino. Accurate.",
+  "50:76c8: TODO - both branches checked (male: someone sacrificed saves us; female: we would sacrifice Hino). Accurate.",
+  "50:7ef0: RETURN - kikaku rendered \"feature\" here but \"project\" elsewhere in this scene (695c/6a08/6d78/7164); editorial may want consistency.",
+  "50:54e0: UNSURE - omoitsumeru rendered \"once they have been pushed too far\"; source is closer to \"once they get fixated/worked up\". Kept as accurate enough.",
+  "50:6b90: UNSURE - \"the barrier I put up\": source has no subject in this row, but 6c48 has Arai say he put up the barrier, so subject restored is settled.",
+  "50:993c: KEPT OMISSION - \"the girls\" keeping watch: number unstated in source; plural kept as in 8bc4 male branch."
+ ]
+}

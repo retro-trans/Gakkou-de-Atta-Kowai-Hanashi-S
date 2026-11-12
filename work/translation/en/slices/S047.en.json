@@ -1,0 +1,347 @@
+{
+ "slice": "S047",
+ "scene": "10",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S046",
+ "next": "S048",
+ "rows": [
+  {
+   "id": "10:d54c",
+   "op": "text"
+  },
+  {
+   "id": "10:d58c",
+   "op": "text"
+  },
+  {
+   "id": "10:d784",
+   "op": "text"
+  },
+  {
+   "id": "10:daa0",
+   "op": "text"
+  },
+  {
+   "id": "10:db78",
+   "op": "text"
+  },
+  {
+   "id": "10:dc3c",
+   "op": "text"
+  },
+  {
+   "id": "10:dd38",
+   "op": "text"
+  },
+  {
+   "id": "10:ddb4",
+   "op": "text",
+   "follows_choice": [
+    "10:2ee8"
+   ]
+  },
+  {
+   "id": "10:de1c",
+   "op": "text"
+  },
+  {
+   "id": "10:df0c",
+   "op": "text"
+  },
+  {
+   "id": "10:dfb8",
+   "op": "text"
+  },
+  {
+   "id": "10:e0ac",
+   "op": "text"
+  },
+  {
+   "id": "10:e104",
+   "op": "text"
+  },
+  {
+   "id": "10:e258",
+   "op": "text"
+  },
+  {
+   "id": "10:e310",
+   "op": "text"
+  },
+  {
+   "id": "10:e3fc",
+   "op": "text"
+  },
+  {
+   "id": "10:e4b0",
+   "op": "text"
+  },
+  {
+   "id": "10:e5e0",
+   "op": "text"
+  },
+  {
+   "id": "10:e650",
+   "op": "text"
+  },
+  {
+   "id": "10:e744",
+   "op": "text"
+  },
+  {
+   "id": "10:e8b0",
+   "op": "text"
+  },
+  {
+   "id": "10:e910",
+   "op": "text"
+  },
+  {
+   "id": "10:e994",
+   "op": "text"
+  },
+  {
+   "id": "10:eaa4",
+   "op": "text"
+  },
+  {
+   "id": "10:ec7c",
+   "op": "text"
+  },
+  {
+   "id": "10:ed24",
+   "op": "text"
+  },
+  {
+   "id": "10:ee34",
+   "op": "text"
+  },
+  {
+   "id": "10:f020",
+   "op": "text"
+  },
+  {
+   "id": "10:f18c",
+   "op": "text",
+   "follows_choice": [
+    "10:2ef4"
+   ]
+  },
+  {
+   "id": "10:f238",
+   "op": "text"
+  },
+  {
+   "id": "10:f2d8",
+   "op": "text",
+   "follows_choice": [
+    "10:338c"
+   ]
+  },
+  {
+   "id": "10:f4e8",
+   "op": "text"
+  },
+  {
+   "id": "10:f6cc",
+   "op": "text"
+  },
+  {
+   "id": "10:f7a8",
+   "op": "text"
+  },
+  {
+   "id": "10:f828",
+   "op": "text"
+  },
+  {
+   "id": "10:f93c",
+   "op": "text"
+  },
+  {
+   "id": "10:fa24",
+   "op": "text"
+  },
+  {
+   "id": "10:fae4",
+   "op": "text"
+  },
+  {
+   "id": "10:fbc8",
+   "op": "text"
+  },
+  {
+   "id": "10:fbec",
+   "op": "text"
+  },
+  {
+   "id": "10:fda4",
+   "op": "text"
+  },
+  {
+   "id": "10:ffac",
+   "op": "text"
+  },
+  {
+   "id": "10:100bc",
+   "op": "text",
+   "follows_choice": [
+    "10:3df0"
+   ]
+  },
+  {
+   "id": "10:101b4",
+   "op": "text"
+  },
+  {
+   "id": "10:1032c",
+   "op": "text"
+  },
+  {
+   "id": "10:105a8",
+   "op": "text"
+  },
+  {
+   "id": "10:1085c",
+   "op": "text"
+  },
+  {
+   "id": "10:10a78",
+   "op": "text",
+   "follows_choice": [
+    "10:3e04"
+   ]
+  },
+  {
+   "id": "10:10acc",
+   "op": "text"
+  },
+  {
+   "id": "10:10c04",
+   "op": "text"
+  },
+  {
+   "id": "10:10e20",
+   "op": "text"
+  },
+  {
+   "id": "10:11058",
+   "op": "text",
+   "follows_choice": [
+    "10:458c"
+   ]
+  },
+  {
+   "id": "10:111a0",
+   "op": "text"
+  },
+  {
+   "id": "10:1122c",
+   "op": "text"
+  },
+  {
+   "id": "10:11318",
+   "op": "text",
+   "follows_choice": [
+    "10:4c3c"
+   ]
+  },
+  {
+   "id": "10:1141c",
+   "op": "text",
+   "follows_choice": [
+    "10:4c4c"
+   ]
+  },
+  {
+   "id": "10:114bc",
+   "op": "choice"
+  },
+  {
+   "id": "10:114cc",
+   "op": "choice"
+  },
+  {
+   "id": "10:114d8",
+   "op": "text",
+   "follows_choice": [
+    "10:114bc"
+   ]
+  },
+  {
+   "id": "10:11520",
+   "op": "text",
+   "follows_choice": [
+    "10:114cc"
+   ]
+  },
+  {
+   "id": "10:11608",
+   "op": "text",
+   "follows_choice": [
+    "10:4da8"
+   ]
+  },
+  {
+   "id": "10:117c8",
+   "op": "text",
+   "follows_choice": [
+    "10:50f4"
+   ]
+  },
+  {
+   "id": "10:1181c",
+   "op": "text",
+   "follows_choice": [
+    "10:5204"
+   ]
+  },
+  {
+   "id": "10:11904",
+   "op": "text"
+  },
+  {
+   "id": "10:11ad0",
+   "op": "text"
+  },
+  {
+   "id": "10:11bec",
+   "op": "text",
+   "follows_choice": [
+    "10:59a8"
+   ]
+  },
+  {
+   "id": "10:11cc4",
+   "op": "text"
+  },
+  {
+   "id": "10:11e10",
+   "op": "text"
+  },
+  {
+   "id": "10:11f1c",
+   "op": "text"
+  },
+  {
+   "id": "10:11f3c",
+   "op": "text"
+  },
+  {
+   "id": "10:12028",
+   "op": "text"
+  },
+  {
+   "id": "10:12184",
+   "op": "text"
+  },
+  {
+   "id": "10:1224c",
+   "op": "text"
+  },
+  {
+   "id": "10:12514",
+   "op": "text"
+  }
+ ]
+}

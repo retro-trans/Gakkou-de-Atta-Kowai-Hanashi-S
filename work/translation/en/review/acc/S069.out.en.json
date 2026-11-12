@@ -1,0 +1,12 @@
+{
+ "rows": {
+  "17:24b4": "{f:I see|Hmm}, I see.\n{f:For a face like that, you|So you've already}{f: sure make your move when it counts, huh?| got someone...}\n{f:Uh-heh-heh-heh...|When you get bored of him, look me up.}{p}",
+  "17:29d8": "See?\nYou got to see Kokkuri-san, didn't you?\nAnd that's the end of my story.\nNext person, go ahead.\n........................\n{f:What the heck|What} was that just now?\n{f:What was this Kazama guy trying to say?|I wonder what this Kazama person was getting at.}\n...Ah!\nHe went and pocketed the five-hundred-yen coin {f:I|I} gave him!\n...What a {f:jerk|creep}!\nShaking down a junior for money like that.\nKazama is looking my way and smiling.\n{f:I'll|I'll} just ignore him.\nFrom now on, it'd be best to stay away from this {f:guy|guy}.\nI'd better hurry and hear the next person's story.\nNext up is...{p}"
+ },
+ "notes": [
+  "17:24b4: FIX markup spacing - female branch rendered \"So you've alreadygot someone...\"; added the missing space inside the second {f} female half.",
+  "17:29d8: FIX dot run - source silence is 16 dot characters, English had 14 dots; restored to 24 (3 per 2).",
+  "17:296c: UNSURE - kept \"heads nodding away... there's your Kokkuri-san\": not in the source, but it carries the kokkuri (nodding off) pun that the row exists for; editorial may trim.",
+  "17:2570: KEPT OMISSION - \"Will things go well with {f:his girlfriend|her boyfriend}\" leaves the player as unstated subject, as the source does in Kazama's question to Kokkuri-san."
+ ]
+}

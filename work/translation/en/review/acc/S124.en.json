@@ -1,0 +1,306 @@
+{
+ "slice": "S124",
+ "scene": "32",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S123",
+ "next": "S125",
+ "todo": [],
+ "rows": [
+  {
+   "id": "32:08ac",
+   "op": "text",
+   "en": "I'm Akemi Iwashita.\nI'm a third-year.\nWell then, let me begin a story I know.{p}"
+  },
+  {
+   "id": "32:08fc",
+   "op": "text",
+   "en": "...{a}, do you think you're cool?\n"
+  },
+  {
+   "id": "32:092c",
+   "op": "choice",
+   "en": "Yes, I'm cool"
+  },
+  {
+   "id": "32:0938",
+   "op": "choice",
+   "en": "No, I'm not cool"
+  },
+  {
+   "id": "32:0944",
+   "op": "choice",
+   "en": "Neither"
+  },
+  {
+   "id": "32:0954",
+   "op": "text",
+   "follows_choice": [
+    "32:0944"
+   ],
+   "en": "...I see.\nThat's a safe answer.\nThey say people who answer like that secretly think they're pretty cool, deep down.\nI'm sorry for asking you something so strange.\nMay I ask you one more strange thing?{p}"
+  },
+  {
+   "id": "32:0a14",
+   "op": "text",
+   "en": "{a}, do you like rain?\n"
+  },
+  {
+   "id": "32:0a34",
+   "op": "choice",
+   "en": "I like it"
+  },
+  {
+   "id": "32:0a3c",
+   "op": "choice",
+   "en": "I hate it"
+  },
+  {
+   "id": "32:0a44",
+   "op": "choice",
+   "en": "Neither"
+  },
+  {
+   "id": "32:0a60",
+   "op": "text",
+   "follows_choice": [
+    "32:0a3c"
+   ],
+   "en": "...So you hate rain.\nI love it.\nThe rainy season most of all.\nWhen the hydrangeas bloom.\nThe air is so humid that its lukewarm touch soaks right into your skin.\nMy shirt clings wetly to my skin and doesn't even stir in the wind, and it makes me truly feel that I'm wearing clothes. I find that so lovely.\nAnd in the rainy season, it could start raining at any moment, couldn't it?\nWeather that threatens rain but never brings it.\nA sun shower, when rain suddenly pours from a cloudless blue sky.\nRain sends shivers of delight through me.\nI'd like to live in a world where the rain never stops.\nSometimes the thought just comes over me.{p}"
+  },
+  {
+   "id": "32:0c78",
+   "op": "text",
+   "en": "Tell me, {a}, when it rains, do you use an umbrella?{p}Or do you like to go without one and get soaked?\n"
+  },
+  {
+   "id": "32:0cdc",
+   "op": "choice",
+   "en": "I use an umbrella"
+  },
+  {
+   "id": "32:0ce8",
+   "op": "choice",
+   "en": "I don't use one"
+  },
+  {
+   "id": "32:0cf8",
+   "op": "choice",
+   "en": "It depends on how hard it's raining"
+  },
+  {
+   "id": "32:0d18",
+   "op": "text",
+   "follows_choice": [
+    "32:0cdc"
+   ],
+   "en": "Oh, I see.\nWhat a waste of lovely rain.\nRain is a blessing from heaven.\nGod goes to the trouble of sending it down just for us, and yet...\nI never use an umbrella.\nNever, no matter how hard it pours.{p}"
+  },
+  {
+   "id": "32:0de8",
+   "op": "text",
+   "en": "I take in a whole sky full of rain and turn my face up to the heavens.\nAnd I catch the rain with my whole body.\nIt's wonderful.\nBecause it feels so good.\nYou should try it once yourself.\nWhen the rain is light, it turns into a mist that tickles my skin and makes me feel it.\nWhen the rain is heavy, it beats down hard on my body with a fierce roar.\nThe rain is alive.{p}"
+  },
+  {
+   "id": "32:0f38",
+   "op": "text",
+   "en": "Heh heh... Maybe you can't understand this pleasure.\nBut the story I'm about to tell may be just perfect for someone like you, who hates rain and shuts out lovely rain with an umbrella.{p}By the way, {a}, do you keep a spare umbrella at school?\n"
+  },
+  {
+   "id": "32:1014",
+   "op": "choice",
+   "en": "I do"
+  },
+  {
+   "id": "32:1020",
+   "op": "choice",
+   "en": "I don't"
+  },
+  {
+   "id": "32:102c",
+   "op": "choice",
+   "en": "Not all the time"
+  },
+  {
+   "id": "32:1050",
+   "op": "text",
+   "follows_choice": [
+    "32:102c"
+   ],
+   "en": "Of course.\nI think that's how most people who use umbrellas are.\nEspecially in the rainy season.\nEven if you keep a spare umbrella at school, when it suddenly starts raining, you end up using it, don't you?\nAnd then, when the next day is sunny, it seems people just forget to bring an umbrella back.\nNot many people keep three or four spare umbrellas at school.\nIf anyone did, they'd simply be lazy, wouldn't they?\nSo in the rainy season, rain or shine, you'd have to carry an umbrella every single day.\nBut that's not easy to do.\nUmbrellas are such a nuisance.\nWhen it looks like it couldn't possibly rain, hardly anyone walks around carrying an umbrella, right?\nAnd even if they do, they'll just end up leaving it somewhere.\nThat's why in the rainy season, you often see people waiting out the rain by the shoe lockers.{p}"
+  },
+  {
+   "id": "32:1330",
+   "op": "text",
+   "en": "How stupid of them.\nIt's lovely rain, so they should just get soaked to the skin on the way home.\nPeople clicking their tongues, looking up at the sky with openly disgusted faces, as if they hated heaven itself...\nI can't understand people like that.\nPeople like that ought to just die.\n{a}, you're not that kind of person, are you?\n...Hehehe.\nThey're just awful, people who wait out the rain.{p}"
+  },
+  {
+   "id": "32:147c",
+   "op": "text",
+   "en": "But you know, for a girl, it's also the perfect chance at love.{p}"
+  },
+  {
+   "id": "32:14c4",
+   "op": "text",
+   "en": "You quietly hold out your umbrella to a boy who's waiting out the rain.\nIt's not rare for that to turn out to be the start of a romance.\nI don't care for that sort of thing, though.{p}"
+  },
+  {
+   "id": "32:1558",
+   "op": "text",
+   "en": "Once, there was a girl named Yukari Tachibana.\nShe was in love with someone.\nHis name was Hiroshi Tsukahara.\nTachibana was by no means an unattractive girl.\nIf anything, she was cute.\nBut she wasn't the kind of flower that stands out from all the rest.{p}"
+  },
+  {
+   "id": "32:1654",
+   "op": "text",
+   "en": "Tsukahara, on the other hand, was incredibly good-looking.\nHe had features that hardly looked Japanese, a fine, chiseled face, just like a model.\nMind you, I never actually saw either of them, so I don't know what they looked like.\nSo of course he was popular.\nHe always had a following of girls around him, squealing over him.\nFrankly, Tsukahara didn't have a very nice personality.\nHe took it for granted that girls would fall for him, and he acted like a star.\nSo the other boys hated him.\nBut Tsukahara didn't care about that. If anything, it gave him a sense of superiority, and it went straight to his head.\nHonestly, he was a nasty piece of work.{p}"
+  },
+  {
+   "id": "32:188c",
+   "op": "text",
+   "en": "Even so, Tachibana admired Tsukahara, the way he was.\nBut being so reserved, she could never bring herself to speak to him first. She only ever watched him from a distance.\nAnd God gave a girl like Tachibana a chance.{p}"
+  },
+  {
+   "id": "32:1978",
+   "op": "text",
+   "en": "It was the rainy season, and Tsukahara had no umbrella, so he was waiting out the rain.\nThe very situation I just described.\nAt that moment, by chance, none of his followers were around.\nAnd Tachibana had an umbrella.\nA big red umbrella.{p}"
+  },
+  {
+   "id": "32:1a54",
+   "op": "text",
+   "en": "Could there be a better chance than this?\nIf she let it slip by, she'd never have another chance to talk to Tsukahara for the rest of her life.\nWith that thought, Tachibana walked right up to him without hesitating.{p}"
+  },
+  {
+   "id": "32:1af8",
+   "op": "text",
+   "en": "\"...Um, are you waiting for someone?\"\n\"Nah, not really.\nIt started raining, so I've got no choice but to wait it out.\nI don't want my hair getting wet.\nMan, what a pain. Stupid sky.\"\nWith that, he glared up and cursed the sky, as if he hated heaven itself.\n\"...Um, here.\nWould you like to share it with me?\"\nTachibana held out her red umbrella.\n\"Oh, yeah?\nThanks.\nYou're a lifesaver.\nWhich way are you headed?\"\nShameless as he was, Tsukahara was never going to turn down an offer like that.\n\"...Um, which way are you going, Tsukahara?\"\n\"Huh? You know my name?\nWow, I'm flattered.\nOh, my place is that way.\"\nThe direction Tsukahara pointed was the opposite way from the station Tachibana was heading for.\n\"Oh, me too.\"\nBut Tachibana said it with a smile.\nIt was her big chance, after all.\nA little lie like that didn't bother her at all.{p}"
+  },
+  {
+   "id": "32:1e14",
+   "op": "text",
+   "en": "And so the two of them walked shoulder to shoulder under one umbrella.\nTachibana was so happy.\nShe wished time would just stop right there.\nShe even thought that as long as this happiness lasted, she didn't care what became of her.\n\"So, what's your name?\"\n\"It's Yukari Tachibana.\"\n\"Oh, Yukari.\nHey, Yukari, have we met somewhere?\"\n\"...No. I think this is the first time.\"\n\"Huh. And you still knew who I was.\nHow come?\"\nThat's just the kind of person Tsukahara was.\nIf it had been me, I might have killed him.\nBut Tachibana was an earnest girl, you see.\n\"...Oh, well, I've been a fan of yours, Tsukahara.\"\n\"Wow, that makes me happy.\nThanks.\"{p}"
+  },
+  {
+   "id": "32:2068",
+   "op": "text",
+   "en": "With that, Tsukahara put his arm around Tachibana's shoulder and pulled her close.\nFor Tsukahara too, a girl like her was something rare.\nMost of the girls around him were the pushy type who squealed over him, after all.\nSo a girl like Tachibana seemed fresh to him.\n\"You're really cute, Yukari.\nI wouldn't mind making you my girlfriend.\"\nOf course, he was only half serious.\nIt was a line he said to every girl, without a second thought.\nBut to her, it was different.\nTachibana's heart was ready to leap out of her chest.\nShe was so happy, so very happy, she thought she might lose her mind.\nAnd she prayed that this wasn't a dream, and said thank you to God.{p}"
+  },
+  {
+   "id": "32:22c0",
+   "op": "text",
+   "en": "\"If you want, why don't you come over to my place now?\nI want to get to know you better, Yukari, and I think we'd really hit it off.\"\nTachibana was never going to say no.\nShe accepted his invitation in a heartbeat.\nThe Devil's invitation.{p}"
+  },
+  {
+   "id": "32:23a0",
+   "op": "text",
+   "en": "Tell me, {a}.\nWhat do you think of this guy Tsukahara?{p}Maybe he's a lot like you, hmm?\n"
+  },
+  {
+   "id": "32:2404",
+   "op": "choice",
+   "en": "He's a guy I can't stand"
+  },
+  {
+   "id": "32:2418",
+   "op": "choice",
+   "en": "All guys are like that"
+  },
+  {
+   "id": "32:2430",
+   "op": "choice",
+   "en": "I'd rather not get involved in other people's business"
+  },
+  {
+   "id": "32:2458",
+   "op": "text",
+   "follows_choice": [
+    "32:2404"
+   ],
+   "en": "...Heh, I see.\nThank you for answering my question.\nWell then, let's go on.{p}"
+  },
+  {
+   "id": "32:24c0",
+   "op": "text",
+   "en": "Tachibana went along with Tsukahara.\nAnd she went into his house.\nHis parents weren't home.\nWell, he knew that, which is why he lured her there, I suppose.{p}"
+  },
+  {
+   "id": "32:257c",
+   "op": "text",
+   "en": "She was a butterfly caught in a spider's web, wasn't she?\nEven if she'd tried to escape, he would never have let her go.\nBut Tachibana had no need to escape.\nShe never even thought of escaping.\nBecause she was happy too.\nBeing alone with Tsukahara... there was no greater happiness for her.\nTachibana already did whatever Tsukahara told her.{p}"
+  },
+  {
+   "id": "32:26cc",
+   "op": "text",
+   "en": "Those were truly happy days.\nAt school too, she stuck to Tsukahara's side.\nBut his followers didn't get angry, and they didn't complain to Tachibana either.\nThey just watched from a distance, sneering.\nAs if they already knew how it would end.{p}"
+  },
+  {
+   "id": "32:27d0",
+   "op": "text",
+   "en": "And that end came soon enough.\nIt took Tsukahara less than a week to get bored of Tachibana.\nIn the end, he probably just couldn't get along with a serious, boring girl who did nothing but whatever he said.\nTachibana was dumped, just like that.\nTachibana didn't understand what had happened.\nShe couldn't grasp where she stood right away.{p}"
+  },
+  {
+   "id": "32:2934",
+   "op": "text",
+   "en": "After all, Tsukahara had suddenly turned cold toward her.\nMore than cold, he ignored her, or rather, he started looking at her as if she were something filthy.{p}"
+  },
+  {
+   "id": "32:29d4",
+   "op": "text",
+   "en": "On the surface, he kept up appearances and smiled, but Tachibana loved him, and she could read his heart like an open book.\n'You're in my way. Hurry up and get out of my sight.' That's what it said.\nTachibana was earnest, and he was the first boy she had ever gone out with.\nSo she couldn't understand why he had changed so suddenly.\nHe wouldn't answer her calls, and when they met at school, he wouldn't even speak to her.\nHe'd trade a few smooth words with her, then go straight off to the other girls.{p}"
+  },
+  {
+   "id": "32:2b70",
+   "op": "text",
+   "en": "Still, as time went by, she came to face the truth: she had been dumped.\nShe had only been toyed with.\nBut she couldn't forget Tsukahara.\nThat's how much she loved him.\nAnd she made herself believe that the week they spent together had been a dream, a gift from God.{p}"
+  },
+  {
+   "id": "32:2cac",
+   "op": "text",
+   "en": "And so she went back to watching him from afar.\nThat way, she wouldn't get in his way, and he wouldn't come to hate her.{p}"
+  },
+  {
+   "id": "32:2d30",
+   "op": "text",
+   "en": "...Tell me, {a}.{p}What do you think of Tachibana, being like that?\n"
+  },
+  {
+   "id": "32:2d74",
+   "op": "choice",
+   "en": "I think she's sweet"
+  },
+  {
+   "id": "32:2d84",
+   "op": "choice",
+   "en": "I think she's a bit odd"
+  },
+  {
+   "id": "32:2d98",
+   "op": "choice",
+   "en": "I think she's scary"
+  },
+  {
+   "id": "32:2da4",
+   "op": "choice",
+   "en": "I think that's normal"
+  },
+  {
+   "id": "32:2db8",
+   "op": "text",
+   "follows_choice": [
+    "32:2d74",
+    "32:2d84",
+    "32:2d98",
+    "32:2da4"
+   ],
+   "en": "...I see.\nSo you think someone with a pure heart like that is a little strange.\nWell, maybe a lot of people would think so.{p}"
+  },
+  {
+   "id": "32:2e34",
+   "op": "text",
+   "en": "...Thank you for answering my question.\nI'm sorry. I'll go on with the story.{p}"
+  },
+  {
+   "id": "32:2e9c",
+   "op": "text",
+   "en": "But God does love his little pranks, doesn't he?\nAfter all, he gave Tachibana one more chance.\nIt was toward the end of the rainy season.\nMaybe Tsukahara just isn't the type to keep a spare umbrella at school.\nHe was waiting out the rain again.\nAll by himself.\nAnd Tachibana had an umbrella.\nA big blue umbrella.{p}"
+  }
+ ]
+}

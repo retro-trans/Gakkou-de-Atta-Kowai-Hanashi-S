@@ -1,0 +1,16 @@
+{
+ "rows": {
+  "24:d4c4": "Seeing that, Hosoda grinned.\n\"You just got bitten by the bug, didn't you?\"\nHe said it, his shoulders shaking with delight.\nWhat should I do?\nIf being bitten causes a change in {f:my|my} body...\n\"My story ends here...\"\nHosoda picked up the Sanbura tea bug and murmured, truly delighted.\n\"{a}{f:|}, whose story are you going to hear next?\"\n{f:Oh no|Oh no}.\nFor a while, {f:I|I} couldn't say anything.\n......\nBut...\n{f:I|I} {f:didn't drink|never drank} the Sanbura tea.\nNothing strange {f:should happen.|is going to happen, right?}\nIt's fine.\nI'm sure it's {f:fine|fine}...\n{f:I|I} decided to hear the next person's story, though a lump of unease stayed in my chest.\n\"Well then, the next story...\"{p}",
+  "24:acc4": "When I looked inside, the plant...\nThe plant with Takeuchi's face was crying.\nThe Takeuchi in human form wasn't there anymore.\nAnd the plant was saying something like this:\n\"Help me...!\nI'm Takeuchi.\nAn evil spirit turned me into this.\nHelp me... please... help me...\"\nHe told me the whole story.\nOn the first day Takeuchi came to this school, he snuck into the old school building as a prank.\nWhile he was there, he needed to use the restroom...\nWhen he used that toilet, an evil spirit's hand came out of the bowl and grabbed his leg, it seems.\nThe evil spirit sucked the life energy out of Takeuchi's body.\nAnd Takeuchi was turned into a plant, he said.\nAfter that, the evil spirit took on Takeuchi's exact form...\nAnd started coming to school in his place, he told me.\nEvery so often, the evil spirit would come to Takeuchi and suck out his life energy.\nIt drained the energy out of Takeuchi, that shriveled-up plant, like it was wringing him dry.\nI guess evil spirits don't relieve themselves at all.\nThat's why Takeuchi got the reputation of never going to the restroom.\nNobody must have known he'd been making trips to the old school building's restroom.\nTakeuchi, now a plant, was wailing.\nBut there was nothing I could do.\nI apologized to him over and over, and left the old school building's restroom behind...{p}"
+ },
+ "notes": [
+  "24:d4c4: FIX pause - source silence is a 4-character dot run; restored to 6 dots (was shortened to 3)",
+  "24:acc4: FIX meaning - source says the spirit does not excrete (haisetsu nado shinai); English said it does not go to the restroom, which flattened the cause-effect with the next line",
+  "24:b398: UNSURE - who opens the stall door is unstated; kept \"we\" (the group arrived together)",
+  "24:b41c: KEPT OMISSION - speaker of \"There's nothing here\" is not named in the source; left unattributed",
+  "24:acc4: UNSURE - kare in \"Nobody must have known he'd been making trips\" read as the spirit posing as Takeuchi, per the surrounding lines",
+  "24:e254: UNSURE - subject of taking the pot out of the stall restored as Takeuchi (he); scene settles it",
+  "24:a998: RETURN - \"Can you believe I tried...\" renders shinjirarenai kai (do you find it hard to believe); editorial may prefer \"Hard to believe..., isn't it?\"",
+  "24:b550: UNSURE - 3-character dot runs (here and 24:cb44) left as 3 dots per brief (only 4+ runs expand)"
+ ]
+}

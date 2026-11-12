@@ -1,0 +1,346 @@
+{
+ "slice": "S235",
+ "scene": "68",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S234",
+ "next": "S236",
+ "rows": [
+  {
+   "id": "68:0830",
+   "op": "text"
+  },
+  {
+   "id": "68:0b48",
+   "op": "text"
+  },
+  {
+   "id": "68:0ba4",
+   "op": "text"
+  },
+  {
+   "id": "68:0c24",
+   "op": "text"
+  },
+  {
+   "id": "68:0c90",
+   "op": "text"
+  },
+  {
+   "id": "68:0db0",
+   "op": "text"
+  },
+  {
+   "id": "68:0e70",
+   "op": "text"
+  },
+  {
+   "id": "68:0eec",
+   "op": "text"
+  },
+  {
+   "id": "68:1014",
+   "op": "text"
+  },
+  {
+   "id": "68:1454",
+   "op": "text"
+  },
+  {
+   "id": "68:1484",
+   "op": "choice"
+  },
+  {
+   "id": "68:1490",
+   "op": "choice"
+  },
+  {
+   "id": "68:14b8",
+   "op": "text",
+   "follows_choice": [
+    "68:1490"
+   ]
+  },
+  {
+   "id": "68:14d0",
+   "op": "text"
+  },
+  {
+   "id": "68:1524",
+   "op": "text"
+  },
+  {
+   "id": "68:15ec",
+   "op": "text"
+  },
+  {
+   "id": "68:17a4",
+   "op": "text"
+  },
+  {
+   "id": "68:1820",
+   "op": "text"
+  },
+  {
+   "id": "68:1900",
+   "op": "choice"
+  },
+  {
+   "id": "68:1910",
+   "op": "choice"
+  },
+  {
+   "id": "68:192c",
+   "op": "text",
+   "follows_choice": [
+    "68:1900"
+   ]
+  },
+  {
+   "id": "68:1a0c",
+   "op": "text"
+  },
+  {
+   "id": "68:1ad8",
+   "op": "text"
+  },
+  {
+   "id": "68:1b88",
+   "op": "text"
+  },
+  {
+   "id": "68:1c84",
+   "op": "text"
+  },
+  {
+   "id": "68:1cb8",
+   "op": "choice"
+  },
+  {
+   "id": "68:1cd0",
+   "op": "choice"
+  },
+  {
+   "id": "68:1cdc",
+   "op": "text",
+   "follows_choice": [
+    "68:1cb8"
+   ]
+  },
+  {
+   "id": "68:1dc8",
+   "op": "text"
+  },
+  {
+   "id": "68:1e44",
+   "op": "text"
+  },
+  {
+   "id": "68:1eb0",
+   "op": "text"
+  },
+  {
+   "id": "68:1fac",
+   "op": "text"
+  },
+  {
+   "id": "68:2124",
+   "op": "choice"
+  },
+  {
+   "id": "68:2138",
+   "op": "choice"
+  },
+  {
+   "id": "68:2158",
+   "op": "text",
+   "follows_choice": [
+    "68:2124"
+   ]
+  },
+  {
+   "id": "68:219c",
+   "op": "text"
+  },
+  {
+   "id": "68:2248",
+   "op": "text"
+  },
+  {
+   "id": "68:22c0",
+   "op": "choice"
+  },
+  {
+   "id": "68:22dc",
+   "op": "choice"
+  },
+  {
+   "id": "68:22f0",
+   "op": "text",
+   "follows_choice": [
+    "68:22c0"
+   ]
+  },
+  {
+   "id": "68:2314",
+   "op": "text"
+  },
+  {
+   "id": "68:23d4",
+   "op": "choice"
+  },
+  {
+   "id": "68:23e8",
+   "op": "choice"
+  },
+  {
+   "id": "68:23f4",
+   "op": "text",
+   "follows_choice": [
+    "68:23d4"
+   ]
+  },
+  {
+   "id": "68:2418",
+   "op": "text"
+  },
+  {
+   "id": "68:25b4",
+   "op": "choice"
+  },
+  {
+   "id": "68:25c0",
+   "op": "choice"
+  },
+  {
+   "id": "68:25d0",
+   "op": "choice"
+  },
+  {
+   "id": "68:2608",
+   "op": "text",
+   "follows_choice": [
+    "68:25d0"
+   ]
+  },
+  {
+   "id": "68:2638",
+   "op": "text"
+  },
+  {
+   "id": "68:2674",
+   "op": "choice"
+  },
+  {
+   "id": "68:2684",
+   "op": "choice"
+  },
+  {
+   "id": "68:26a8",
+   "op": "text",
+   "follows_choice": [
+    "68:2674"
+   ]
+  },
+  {
+   "id": "68:2704",
+   "op": "text"
+  },
+  {
+   "id": "68:278c",
+   "op": "text"
+  },
+  {
+   "id": "68:28a4",
+   "op": "text"
+  },
+  {
+   "id": "68:29a8",
+   "op": "text"
+  },
+  {
+   "id": "68:2a44",
+   "op": "text"
+  },
+  {
+   "id": "68:2ac4",
+   "op": "choice"
+  },
+  {
+   "id": "68:2ad4",
+   "op": "choice"
+  },
+  {
+   "id": "68:2ae0",
+   "op": "text",
+   "follows_choice": [
+    "68:2ac4"
+   ]
+  },
+  {
+   "id": "68:2b54",
+   "op": "text"
+  },
+  {
+   "id": "68:2bac",
+   "op": "text"
+  },
+  {
+   "id": "68:2c38",
+   "op": "text"
+  },
+  {
+   "id": "68:2cac",
+   "op": "text"
+  },
+  {
+   "id": "68:2eb0",
+   "op": "text"
+  },
+  {
+   "id": "68:2f20",
+   "op": "text"
+  },
+  {
+   "id": "68:2fc8",
+   "op": "text"
+  },
+  {
+   "id": "68:304c",
+   "op": "text"
+  },
+  {
+   "id": "68:3198",
+   "op": "text"
+  },
+  {
+   "id": "68:32bc",
+   "op": "text"
+  },
+  {
+   "id": "68:3418",
+   "op": "text"
+  },
+  {
+   "id": "68:349c",
+   "op": "text"
+  },
+  {
+   "id": "68:34c4",
+   "op": "text",
+   "follows_choice": [
+    "68:1484"
+   ]
+  },
+  {
+   "id": "68:351c",
+   "op": "text"
+  },
+  {
+   "id": "68:3540",
+   "op": "text",
+   "follows_choice": [
+    "68:1910"
+   ]
+  }
+ ]
+}

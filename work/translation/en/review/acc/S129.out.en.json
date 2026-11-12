@@ -1,0 +1,10 @@
+{
+ "rows": {
+  "33:8db4": "Scream, \"Stop it already!\"",
+  "33:8fe4": "Scream, \"Stop it already!\""
+ },
+ "notes": [
+  "33:8db4: FIX consistency - scream choice lacked the comma used in every other slice of scene 33 (S127, S128, S130)",
+  "33:8fe4: FIX consistency - same scream choice, comma restored"
+ ]
+}

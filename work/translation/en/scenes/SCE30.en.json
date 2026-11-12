@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "30:0b08",
+  "op": "text",
+  "en": "You want to hear my story?\nI see... Then shall I tell the second scary story?\nMy name is Akemi Iwashita.\nI'm a third-year.\nYou know, before I tell this story, there's something I'd like to ask you.\n{a}... that's what you said your name was, wasn't it?\nDo you mind?\nEven if you say you do, I'll be asking anyway.\nWell then, ready?{p}Are you a kind person?\n"
+ },
+ {
+  "id": "30:0c3c",
+  "op": "choice",
+  "en": "I'm kind"
+ },
+ {
+  "id": "30:0c44",
+  "op": "choice",
+  "en": "I'm not kind"
+ },
+ {
+  "id": "30:0c50",
+  "op": "choice",
+  "en": "I can't say either way"
+ },
+ {
+  "id": "30:0c6c",
+  "op": "text",
+  "en": "Heh heh heh... Quite something, to say that about yourself.\nEither you're terribly sure of yourself, or you really are kind.\nWell, never mind.\nOne look in your eyes will tell me which it is.{p}"
+ },
+ {
+  "id": "30:0d20",
+  "op": "text",
+  "en": "Are you someone who can keep any promise, whatever it is?\n"
+ },
+ {
+  "id": "30:0d4c",
+  "op": "choice",
+  "en": "I can keep my promises"
+ },
+ {
+  "id": "30:0d54",
+  "op": "choice",
+  "en": "I can't keep my promises"
+ },
+ {
+  "id": "30:0d60",
+  "op": "choice",
+  "en": "It depends on the situation"
+ },
+ {
+  "id": "30:0d70",
+  "op": "text",
+  "en": "I see.\nWhat a wonderful person you are.\nEveryone must be very fond of you.\nSomeone like you is rare. A precious thing.\nThis is the first time I've ever met anyone like that.\nWell then, let me ask you one more question.\n...{a}.{p}"
+ },
+ {
+  "id": "30:0e44",
+  "op": "text",
+  "en": "Are you the type who can take other people's advice to heart?\nEven when your own opinion is different from theirs.{p}Well?\n"
+ },
+ {
+  "id": "30:0eb8",
+  "op": "choice",
+  "en": "I can take it to heart"
+ },
+ {
+  "id": "30:0ec8",
+  "op": "choice",
+  "en": "I can't do that"
+ },
+ {
+  "id": "30:0ed4",
+  "op": "choice",
+  "en": "Depends on who's giving it"
+ },
+ {
+  "id": "30:0eec",
+  "op": "text",
+  "en": "Heh heh... I just knew you'd answer that way.\nYou truly are the perfect human being.\nI'm so happy to have met someone like you.\nI hope we'll know each other for a long time to come.\nHeh heh heh heh...{p}"
+ },
+ {
+  "id": "30:0fac",
+  "op": "text",
+  "en": "This is the story of a tragedy that one boy happened to stumble into.\nThat day, he had been kept late for a make-up class.\nLet's see, his name was... yes, for now, let's call him this.\n{b} {a}.\nIt's a nice name, isn't it?\nI'm sorry.\nI don't know that boy's name either, you see.\nSo I'll borrow your name for him.\n{b} {a}.\n...It's a lovely name, truly.{p}"
+ },
+ {
+  "id": "30:111c",
+  "op": "text",
+  "en": "The make-up class went like this: they were handed a worksheet, and whoever solved the problems on it could go home.\nThere were quite a few hard problems on it.\nThey weren't the kind you could solve easily.\nAnd they were the sort of students who end up in make-up classes in the first place, you know.\nNot exactly the type who love to study.\nSo they scribbled down any old answers and went to show them to the teacher.\nThen they got the teacher's go-ahead and hurried off home.\nI suppose the teacher understood how it was, too.\nWell, it was a make-up class in name only.\nBut he was different.\nHe sat down to the worksheet in earnest.\nHe wasn't the kind of person who breaks a promise.\nEven if it's only a promise to a teacher, once you've made it, you have to keep it, don't you?\nJust like you, really.\nSo he stayed behind alone in the classroom, trying to solve it to the very end.\nProblems he couldn't find so much as a hint for, however hard he thought.\n\"What, you're still here?\nI forgot all about you. You can go home now, {a}.\"\nThe teacher had been sure everyone had already gone home.\nThe classroom light was on, so the teacher looked in, suspicious, and found one student still there.\nAwful, isn't it?\nWell, since the teacher had given permission, he got ready to go home, and when he happened to look around, it had already gone completely dark.{p}"
+ },
+ {
+  "id": "30:1540",
+  "op": "text",
+  "en": "Everything around him had gone dead quiet.\nNo one was there.{p}"
+ },
+ {
+  "id": "30:1588",
+  "op": "text",
+  "en": "He had been left all alone in the dark school.\nThe only light came from dim fluorescent lamps, glowing so weakly they seemed about to go out.\nThere was only the dry clack, clack, clack of his footsteps echoing; no other sound could be heard.\nThe students who played in the schoolyard after class, the students who worked up a sweat at their clubs... none of them were left.\nHe glanced at the clock: eight thirty.\nIt had gotten so late that even he was surprised.\nHis classroom was on the third floor of the new school building.{p}"
+ },
+ {
+  "id": "30:1700",
+  "op": "text",
+  "en": "In front of him were stairs leading down to the second floor, and at the far end of the hallway stretching straight ahead was another staircase down to the second floor.\nWhichever way he chose, the distance to the school gate wasn't much different.{p}Which one would you choose?\n"
+ },
+ {
+  "id": "30:17c4",
+  "op": "choice",
+  "en": "Take the stairs right in front"
+ },
+ {
+  "id": "30:17dc",
+  "op": "choice",
+  "en": "Take the stairs at the end of the straight hallway"
+ },
+ {
+  "id": "30:1808",
+  "op": "text",
+  "en": "I see, so that's the way you choose.\nHeh heh heh... He did the same.\nHe decided to go through the long hallway and down the stairs at the far end.\nThat was the way he always went home.{p}"
+ },
+ {
+  "id": "30:18c4",
+  "op": "text",
+  "en": "A long, straight hallway is truly frightening to walk at night.\nThe lights are few and far between, so your feet slow down on their own.\nEven when you think you're hurrying, walking fast, somehow you end up slower.\n\"That's weird.\"\nHe muttered it under his breath.\nFor some reason, the hallway felt longer than usual.\nNormally he'd have reached the end long ago and be heading down the stairs by now.\nAnd yet the hallway just went on and on.\nHe walked and walked, and though he could see the stairs ahead, they never got any closer.\nThinking this was strange, he looked back...{p}"
+ },
+ {
+  "id": "30:1aa4",
+  "op": "text",
+  "en": "There was proof, all right, of how far he had walked.\nHe really had covered as much of the hallway as he thought he had.{p}"
+ },
+ {
+  "id": "30:1b0c",
+  "op": "text",
+  "en": "Thinking it was odd, he faced forward again, and a long hallway still stretched out ahead of him.\n\"Was this hallway always this long?\"\nHe tilted his head, puzzled.\nIt was his first time walking through the school at night, so maybe he just couldn't judge the distance.\nHe tried telling himself that, too.\nBut even so, something about it gave him the creeps.{p}"
+ },
+ {
+  "id": "30:1c14",
+  "op": "text",
+  "en": "What will you do?{p}Will you keep going down the hallway?\n"
+ },
+ {
+  "id": "30:1c44",
+  "op": "choice",
+  "en": "Keep going down the hallway"
+ },
+ {
+  "id": "30:1c60",
+  "op": "choice",
+  "en": "Turn back to the starting point"
+ },
+ {
+  "id": "30:1c94",
+  "op": "text",
+  "en": "\"This is definitely weird.\"\nMuttering to himself, he decided to turn back.\nSomehow he sensed it would be dangerous to keep going.\nBut once he turned back, he couldn't get back to where he'd been, no matter how long he walked.\nHe was sure he had walked farther than before, and yet he never managed to reach the place he started from.\n\"What on earth is going on?\"\nHe turned around once more.{p}"
+ },
+ {
+  "id": "30:1df8",
+  "op": "text",
+  "en": "The hallway still stretched on and on.\nAhead of him and behind him, the long hallway ran on for exactly the same distance.\nIt felt as if the fluorescent lights had grown dimmer than before.\nThe light was so weak now that he couldn't see the end of the hallway.\nBeyond the gloom, he could only vaguely sense the stairs.\nAnd even that was a faint, uncertain sense.{p}"
+ },
+ {
+  "id": "30:1f50",
+  "op": "text",
+  "en": "\"Aaaaaaaagh!\"\nHe screamed at the top of his lungs to drown out his fear, and ran.\nHe ran like a madman.\nForgetting all about the rule against running in the halls.{p}"
+ },
+ {
+  "id": "30:1fec",
+  "op": "text",
+  "en": "\"Ow!\"\nMaybe he'd strained too hard, because his own momentum sent him sprawling.\n\"Owww...\"\nLuckily, he wasn't hurt.\nHe'd only banged his elbows and knees hard, and he managed to stand.{p}"
+ },
+ {
+  "id": "30:20a4",
+  "op": "text",
+  "en": "He got up and looked around once more... It didn't feel as if he'd gotten any farther at all.\nHowever he looked at it, he was still right around the middle of the long hallway.\nTo be precise, both ends were wrapped in darkness by now, so he couldn't see them clearly.\nHe strained his eyes and took a good, hard look down the long hallway once more.\nEven so, the dim hallway would never show him what lay beyond, in the darkness.\nBut as he strained his eyes, he froze in shock.{p}"
+ },
+ {
+  "id": "30:223c",
+  "op": "text",
+  "en": "It was wrapped in darkness and he couldn't make it out clearly, but he could see someone's figure.\nDimly, a black shadow was crouched by the wall, squirming and wriggling.\nIt looked like a person, and it also looked like a lump of flesh.{p}"
+ },
+ {
+  "id": "30:2304",
+  "op": "text",
+  "en": "What will you do?\nWill you run?{p}Or else...\n"
+ },
+ {
+  "id": "30:2338",
+  "op": "choice",
+  "en": "Go closer"
+ },
+ {
+  "id": "30:2348",
+  "op": "choice",
+  "en": "Run away"
+ },
+ {
+  "id": "30:235c",
+  "op": "text",
+  "en": "It was creepy enough as it was. There was no way he could go near something so incomprehensible.\n{a} ran.\nFighting the feeling that his legs would give out, he ran for his life.\nBut no matter how far forward he went, the hallway wouldn't end.\nHe ran until he was out of breath, ran and ran and ran with everything he had, until at last he collapsed where he was.\nIt was agony; he felt like he would choke.\nHe coughed so violently that with every breath it felt as if his heart would come up along with it.\nEven so, his position hadn't changed.\nIt was like running the wrong way on a conveyor belt.{p}"
+ },
+ {
+  "id": "30:255c",
+  "op": "text",
+  "en": "Suddenly, there was a sound behind him.\nThe rustle of something moving.{p}"
+ },
+ {
+  "id": "30:25a8",
+  "op": "text",
+  "en": "He felt sweat break out all over his body.\n...What's wrong?\nIsn't that sweat on your face?\nThis isn't about you, you know.\nThis is the story of the other {a}.{p}Will you turn around?\n"
+ },
+ {
+  "id": "30:266c",
+  "op": "choice",
+  "en": "Turn around"
+ },
+ {
+  "id": "30:2678",
+  "op": "choice",
+  "en": "Don't turn around"
+ },
+ {
+  "id": "30:2688",
+  "op": "text",
+  "en": "Don't turn around.\nThat's what he told himself.\nThen, somehow steadying his breathing, he stood up again and slowly started walking.{p}"
+ },
+ {
+  "id": "30:2720",
+  "op": "text",
+  "en": "And then, what do you think happened?\nUp ahead, he could see that black shadow from before!\nHe'd run away from that black lump, yet somehow it was in front of him.\nThinking it was strange, he slowly looked back.{p}"
+ },
+ {
+  "id": "30:27dc",
+  "op": "text",
+  "en": "And then... it was behind him too.\nThat black, squirming, wriggling thing.{p}"
+ },
+ {
+  "id": "30:2834",
+  "op": "text",
+  "en": "He couldn't stop his body from shaking and trembling.\nAfter all, there was no escape now.\nHell if he went forward, hell if he went back.\nWhichever way he went, he couldn't escape that black lump.{p}What will you do?\n"
+ },
+ {
+  "id": "30:28ec",
+  "op": "choice",
+  "en": "Go forward"
+ },
+ {
+  "id": "30:28f8",
+  "op": "choice",
+  "en": "Go back"
+ },
+ {
+  "id": "30:2904",
+  "op": "choice",
+  "en": "Huddle down right there"
+ },
+ {
+  "id": "30:2924",
+  "op": "text",
+  "en": "He gathered his courage and set off, one step at a time.\nMore than courage, maybe it was closer to resignation.\nHe still couldn't see the end of the hallway, but he could tell the black thing was gradually getting closer.\nIn time with his slow steps, the thing began to take on a clear shape.{p}"
+ },
+ {
+  "id": "30:2a44",
+  "op": "text",
+  "en": "It was a girl.\nA girl in a school uniform was sitting there, huddled against the wall.\nAll at once, his fear was blown away.\nHe let out a sigh of relief and ran over to her.\nWhat feels frightening alone feels reassuring when there are two of you.{p}"
+ },
+ {
+  "id": "30:2b38",
+  "op": "text",
+  "en": "...She was crying.\nShe had her face covered, and all he could hear was her sobbing.\n\"What's wrong?\nDid something happen to you here?\"\nHe called out to her.\nThrough the gaps between the hands covering her face, she peered up at him with two bulging eyes.\n\"...My leg... my leg hurts so much I can't walk.\n...So I'm resting.\n...Please... help me.\"\nShe murmured it in a tiny, broken voice.\nShe had gently drawn her legs up, as if to protect the one that hurt.{p}"
+ },
+ {
+  "id": "30:2d08",
+  "op": "text",
+  "en": "Don't you think it's strange for a girl to be in a place like this, all by herself?\nYou do, don't you?\nWhat will you do?\nWill you help her?{p}Or will you leave her be?\n"
+ },
+ {
+  "id": "30:2dac",
+  "op": "choice",
+  "en": "Help her"
+ },
+ {
+  "id": "30:2dbc",
+  "op": "choice",
+  "en": "Leave her there and run away"
+ },
+ {
+  "id": "30:2de0",
+  "op": "text",
+  "en": "What?\nWhat did you just say?{p}Say that once more for me.\n"
+ },
+ {
+  "id": "30:2e24",
+  "op": "choice",
+  "en": "Help her"
+ },
+ {
+  "id": "30:2e34",
+  "op": "choice",
+  "en": "Leave her there and run away"
+ },
+ {
+  "id": "30:2e58",
+  "op": "text",
+  "en": "I hope I didn't hear you wrong...\nDid you just say you'd run away and leave an injured girl all alone?\nThat's what you said, isn't it?\nYou just told me yourself that you were kind.\nAm I wrong?\nOr have my ears gone funny?\nI'm sure I heard you say it.\nYou're kind, aren't you.\nSo go on, help her.\nI absolutely hate being lied to.\nWhen someone lies to me, it makes me want to kill them.\nUnderstand?\nIf you lie again, I'll kill you.\nDon't you dare lie.{p}"
+ },
+ {
+  "id": "30:302c",
+  "op": "text",
+  "en": "You're kind, after all.\nSo you will help her.{p}"
+ },
+ {
+  "id": "30:306c",
+  "op": "text",
+  "en": "\"Are you okay?\nI'll carry you on my back.\"\nYou gently helped her up and carried her on your back.\nAnd she said:\n\"...Thank you.\n...Don't let go of me.\"\nYou're kind, after all.{p}You know how you answered her, don't you?\n"
+ },
+ {
+  "id": "30:3150",
+  "op": "choice",
+  "en": "Sure"
+ },
+ {
+  "id": "30:3158",
+  "op": "choice",
+  "en": "No way"
+ },
+ {
+  "id": "30:3160",
+  "op": "text",
+  "en": "Right.\nThat's what you answered.\nBecause you're a kind person.\nOf course you did.\nAnd then you slowly began to walk.{p}"
+ },
+ {
+  "id": "30:31e8",
+  "op": "text",
+  "en": "Her body was cold, but she was very light.\nSo light it felt as though you weren't carrying anyone at all.\nEven so, you could feel her thin hands winding around your neck.\nNot being alone gave you just a little courage.\nBut the end of the hallway wasn't getting any closer.{p}"
+ },
+ {
+  "id": "30:32f4",
+  "op": "text",
+  "en": "It didn't feel like you were moving forward at all.{p}"
+ },
+ {
+  "id": "30:332c",
+  "op": "text",
+  "en": "What's more, you began to hear a strange noise behind you.\nCome to think of it, there had been a black lump at the other end of the hallway too, hadn't there?\nIn the end, you never found out what it was.\nMaybe that was what was making the noise.\nShould you turn around, or not... you couldn't decide.{p}"
+ },
+ {
+  "id": "30:3414",
+  "op": "text",
+  "en": "Just then, her breath brushed against your ear.{p}"
+ },
+ {
+  "id": "30:344c",
+  "op": "text",
+  "en": "\"...Don't turn around.\nYou mustn't turn around.\nIf you turn around, something terrible will happen...\nWhatever you do, you mustn't turn around.\"\nUnlike her cold body, her breath was lukewarm.\nA nasty breath that tickled your ear.\nAs if to escape that breath, you dropped your gaze.\nAnd then your eyes fell on her hands.{p}"
+ },
+ {
+  "id": "30:3570",
+  "op": "text",
+  "en": "You were so startled you nearly threw her off.\nHer hands were dry and withered, just like a mummy's.\nThin hands, with a single layer of skin clinging to the bone almost apologetically.\nThe fingers seemed to be nothing but bone.{p}"
+ },
+ {
+  "id": "30:3644",
+  "op": "text",
+  "en": "\"What's wrong?\nYou're shaking.\nAre you cold?\nIf you're cold, I'll warm you up.\"\nThe voice whispering in your ear was very gentle.\nEven so, it also seemed hoarse somehow, like the voice of a withered old woman.\nNow and then her hair brushed your cheek, and it was pure white.\nWhen you'd helped her up, it should have been long black hair, sleek and damp, yet what you saw now was white hair that stood out starkly against the darkness.{p}"
+ },
+ {
+  "id": "30:37a8",
+  "op": "text",
+  "en": "Who on earth was it you were carrying on your back?\nMaybe it wasn't even human.\nIf you turned around, you'd know the answer.\nWhat will you do?{p}Will you turn around?\n"
+ },
+ {
+  "id": "30:3844",
+  "op": "choice",
+  "en": "Turn around"
+ },
+ {
+  "id": "30:3850",
+  "op": "choice",
+  "en": "Don't turn around"
+ },
+ {
+  "id": "30:3860",
+  "op": "text",
+  "en": "Right.\nYou're someone who listens to advice, aren't you?\nYes, you have to listen to her advice.\nYou must not look back.\nNo matter what happens.\nYou told me so yourself, after all.\nThat you listen to advice.\nDon't lie to me.\nIf you lie, I'll kill you.\nI hate it.\nI can't forgive liars.\nUnderstood?\n...You didn't look back.\nEven so, the fear didn't go away.\nWith every step you took, the fear soaked deeper into every inch of you.{p}"
+ },
+ {
+  "id": "30:3a34",
+  "op": "text",
+  "en": "And then the girl's hands, wrapped around your neck, began to feel as if they were squeezing.\nSomehow, it was very hard to breathe.\nWith each jolt of your steps, her hands were without a doubt tightening around your neck.\nThin, cold, hard fingers were coiled firmly around your throat.\nIf you looked back, she might vanish.\nIf you shook her off, you might get away from her.{p}What will you do?\n"
+ },
+ {
+  "id": "30:3b90",
+  "op": "choice",
+  "en": "Turn around"
+ },
+ {
+  "id": "30:3b9c",
+  "op": "choice",
+  "en": "Shake her off"
+ },
+ {
+  "id": "30:3ba8",
+  "op": "choice",
+  "en": "Do nothing"
+ },
+ {
+  "id": "30:3bb4",
+  "op": "text",
+  "en": "My, how admirable of you.\nIf you turned around, you'd be ignoring her advice.\nIf you shook her off, you'd be breaking your promise to her.\nYou endured it desperately.\nYes, shielding a heart that felt ready to freeze solid with fear, you endured.{p}"
+ },
+ {
+  "id": "30:3ca0",
+  "op": "text",
+  "en": "\"...This hallway is so long, isn't it?\n...I wonder when this hallway will ever end.\nWas there ever a hallway this long at school...?\"\nHer voice, spoken to no one in particular, melted away into the darkness.\n\"...It's awfully cold, isn't it?\"{p}"
+ },
+ {
+  "id": "30:3d7c",
+  "op": "text",
+  "en": "The moment she said that, a cold wind blew at you from behind.\nAnd riding on the wind came a groaning voice, as if wrung from the pit of someone's belly.\nA dank, hateful voice, like the dead of hell cursing and reviling the living from the depths of the earth.\nIt might have been the sound of the wind.\nBut then again, it might not have been the wind at all.\nHer voice whispered at your ear again.\n\"...Scared, aren't ya?\nWanna try looking back?\nLook back, and you can rest easy. You won't have to be scared anymore.\"{p}"
+ },
+ {
+  "id": "30:3f30",
+  "op": "text",
+  "en": "A sweet, beckoning voice.\nWhat will you do?\nWill you look back?{p}If you don't look back, you might die.\n"
+ },
+ {
+  "id": "30:3f94",
+  "op": "choice",
+  "en": "Look back"
+ },
+ {
+  "id": "30:3fa0",
+  "op": "choice",
+  "en": "Don't look back"
+ },
+ {
+  "id": "30:3fb0",
+  "op": "text",
+  "en": "Even so, you didn't look back.\nBecause you listened to her advice.\nBecause you kept your promise to her.{p}"
+ },
+ {
+  "id": "30:4008",
+  "op": "text",
+  "en": "\"Eeeeeeeeeek!\"\nSuddenly an ear-splitting, high-pitched shriek rang out, and the thin fingers wrapped around your neck clenched tight.\n\"Stop it!\"\nThat was all you could manage to scream.\n...And then, you slipped away into unconsciousness.{p}"
+ },
+ {
+  "id": "30:40e4",
+  "op": "text",
+  "en": "......I'm sorry.\nIt wasn't you, was it?\nIt was the other {a}.\nYes, this was the story of the other you.\nIt was the next morning when he came to.\nA student from his class helped him up.{p}"
+ },
+ {
+  "id": "30:41ac",
+  "op": "text",
+  "en": "\"What happened to you?\nWhy are you sleeping in a place like this?\"\nEven when asked that, he didn't know how to answer.\nAs his head cleared, he hurriedly looked up and down the hallway.{p}"
+ },
+ {
+  "id": "30:4268",
+  "op": "text",
+  "en": "The hallway was plainly visible in the morning light.\nThe usual hallway was there.\nThe usual hallway, where you could see from one end to the other.\nAnd he had been lying in front of his classroom.\n\"...I made it.\"\nThat was all he could murmur.\nMaybe it had been a dream.\nMaybe he'd been worn out from studying and had a bad dream.\nThe classmate was giving him a strange look.\nAnd then the classmate said:\n\"What's with you?\nYou've got a weird bruise on your neck.\"\nAt that, he checked in a mirror.{p}"
+ },
+ {
+  "id": "30:4428",
+  "op": "text",
+  "en": "On his neck were distinct finger marks, as if he had been strangled.\nIn the end, he never found out why the hallway had been so long.\nOr what it was he had been carrying on his back.\nIf he had looked behind him, he might have learned what it really was.\nThough he might have lost his life in exchange.{p}"
+ },
+ {
+  "id": "30:4548",
+  "op": "text",
+  "en": "The bruise on his neck didn't fade for about a month.\nEven so, he survived.\nMaybe it was thanks to keeping his promise to the very end.\nYou said you were in Class 1-E, didn't you?\nIf I remember right, that classroom is on the third floor.\nIsn't Class 1-E that classroom at the end of the long hallway?{p}"
+ },
+ {
+  "id": "30:463c",
+  "op": "text",
+  "en": "But don't worry.\nYou're a kind person who keeps promises and listens to advice.\nI'll pray that never changes.\nHumans are creatures who change their minds so easily, after all.\n...Heh heh heh heh, do be careful.\nAnd that's the end of my story.\nNow, who's speaking next?{p}"
+ },
+ {
+  "id": "30:4740",
+  "op": "text",
+  "en": "What a thing to say, out of nowhere.\nDon't say such sad things.\nThen I'm asking you, please.\nBecome a kind person from now on.\nOtherwise, I can't talk with you.\nI like kind people.\nNow, give me your answer.{p}Are you a kind person?\n"
+ },
+ {
+  "id": "30:481c",
+  "op": "choice",
+  "en": "I'm kind"
+ },
+ {
+  "id": "30:4824",
+  "op": "choice",
+  "en": "I'm not kind"
+ },
+ {
+  "id": "30:4838",
+  "op": "text",
+  "en": "Thank you.\nActually, there's something else I want to ask you.\nSomething very important.{p}"
+ },
+ {
+  "id": "30:4890",
+  "op": "text",
+  "en": "You're not confident in your own kindness?\nIt's all right.\nI can tell.\nYou're a kind person.\nAren't you?\nI want you to be able to say that you are.\nI like kind people, you see.\nNow, give me your answer.{p}Are you a kind person?\n"
+ },
+ {
+  "id": "30:4968",
+  "op": "choice",
+  "en": "I'm kind"
+ },
+ {
+  "id": "30:4970",
+  "op": "choice",
+  "en": "I'm not kind"
+ },
+ {
+  "id": "30:497c",
+  "op": "text",
+  "en": "Thank you.\nActually, there's something else I want to ask you.\nSomething very important.{p}"
+ },
+ {
+  "id": "30:49d4",
+  "op": "text",
+  "en": "I see...\nSo that's the kind of person you are.\nFine. Then promise me.\nPromise that from now on, you'll be someone who keeps promises.\nPlease.\nNow, I'll ask you once more.{p}Are you someone who can keep a promise?\n"
+ },
+ {
+  "id": "30:4a8c",
+  "op": "choice",
+  "en": "I can keep my promises"
+ },
+ {
+  "id": "30:4a94",
+  "op": "choice",
+  "en": "I can't keep my promises"
+ },
+ {
+  "id": "30:4aa8",
+  "op": "text",
+  "en": "Thank you.\nYou're a good person, aren't you?\nThen I'll ask you my last question.{p}"
+ },
+ {
+  "id": "30:4b00",
+  "op": "text",
+  "en": "Don't put it like that.\nWhenever you make a promise to someone, be the kind of person who always keeps it.\nPlease.\nIf you agree, give me your answer.\n{a}...{p}You can keep a promise, can't you?\n"
+ },
+ {
+  "id": "30:4bac",
+  "op": "choice",
+  "en": "I can keep my promises"
+ },
+ {
+  "id": "30:4bb4",
+  "op": "choice",
+  "en": "I can't keep my promises"
+ },
+ {
+  "id": "30:4bc8",
+  "op": "text",
+  "en": "Thank you.\nYou're a good person, aren't you?{p}"
+ },
+ {
+  "id": "30:4bfc",
+  "op": "text",
+  "en": "Then I'll ask you my last question.{p}"
+ },
+ {
+  "id": "30:4c2c",
+  "op": "text",
+  "en": "That won't do.\nYou see, I want you to be someone who can listen to other people's advice.\nWhy would I say that to you, when we've only just met?{p}"
+ },
+ {
+  "id": "30:4ccc",
+  "op": "text",
+  "en": "Heh heh...\nBecause this school is far too dangerous.\nA tremendous spiritual aura swirls all through it.\nMeeting you here, right now, must be some kind of fate.{p}"
+ },
+ {
+  "id": "30:4d58",
+  "op": "text",
+  "en": "Listen, {a}.\nMake sure you listen to other people's advice.\nOtherwise...\nI won't answer for whatever happens to you.\nNow, give me your answer.{p}Do you listen to other people's advice?\n"
+ },
+ {
+  "id": "30:4de8",
+  "op": "choice",
+  "en": "I take people's advice to heart"
+ },
+ {
+  "id": "30:4e00",
+  "op": "choice",
+  "en": "I can't do that"
+ },
+ {
+  "id": "30:4e14",
+  "op": "text",
+  "en": "I thought you'd answer that way.\nHeh heh...\nThen I'll begin my story.{p}"
+ },
+ {
+  "id": "30:4e6c",
+  "op": "text",
+  "en": "I see...\nThat's one way to think, too.\nBut that won't get you anywhere at this school.\nIf you don't listen to all sorts of people's advice, you'll regret it later.\nThis school is far too dangerous.\nA tremendous spiritual aura swirls all through it.\nMeeting you here, right now, must be some kind of fate.\nListen, {a}.\nMake sure you listen to other people's advice.\nOtherwise...\nI won't answer for whatever happens to you.\nNow, give me your answer once more.{p}Do you listen to other people's advice?\n"
+ },
+ {
+  "id": "30:4ff8",
+  "op": "choice",
+  "en": "I take people's advice to heart"
+ },
+ {
+  "id": "30:5010",
+  "op": "choice",
+  "en": "I can't do that"
+ },
+ {
+  "id": "30:5024",
+  "op": "text",
+  "en": "I thought you'd answer that way.\nHeh heh...\nThen I'll begin my story.{p}"
+ },
+ {
+  "id": "30:5084",
+  "op": "text",
+  "en": "I see...\nWhat a shame.\nI thought that if you were a kind person, you might be able to break the curse of the girl I'm about to tell you about...\nThis is the story of a pitiful girl.\nI don't know how you'll feel about it, but that's how I see her.\nThis is the story of a pitiful girl.{p}"
+ },
+ {
+  "id": "30:51b0",
+  "op": "text",
+  "en": "Long ago, there was a girl at this school named Natsumi Kitajima.\nThere was a boy she liked.\nHis name was... what was it, now?\nI can't remember.\nLet's see, suppose we call him {a}.\nI'll borrow your name.\nHis name was {b} {a}.{p}"
+ },
+ {
+  "id": "30:52a4",
+  "op": "text",
+  "en": "Kitajima just couldn't bring herself to confess.\nShe was in the same class as {a}, but day after day went by with her doing nothing but gazing at him from afar.{p}"
+ },
+ {
+  "id": "30:5328",
+  "op": "text",
+  "en": "And then, one hot summer day...\nShe was gazing at {a}, the way she always did.{p}"
+ },
+ {
+  "id": "30:5384",
+  "op": "text",
+  "en": "{a}'s face, {a}'s hair, {a}'s arms peeking out of his shirt...\nShe had extremely sharp eyes; they say she could even see the beads of sweat running down his arm.\nAnd then a mosquito landed there.\nHe slapped the mosquito with his hand.\nAnd a tiny smear of blood was left on {a}'s arm.\nWhen she saw it, she felt a little strange.{p}"
+ },
+ {
+  "id": "30:54b4",
+  "op": "text",
+  "en": "Outside the window, the cicadas were shrilling almost deafeningly.\nA hot, hot summer day...\nLooking at the mosquito that had sucked {a}'s blood, she found herself feeling somehow envious.\nThat mosquito could land on {a}'s arm and even drink his blood, and she envied it terribly.\nShe was so far away from him, and yet that mosquito...{p}"
+ },
+ {
+  "id": "30:55d0",
+  "op": "text",
+  "en": "Day after day, mosquito after mosquito landed on his arm.\nIt made her feel awful.\nShe couldn't even speak to {a}, and yet those mosquitoes...\nShe brooded over it until she even came to think that if she could drink {a}'s blood, she wouldn't mind being swatted dead like a mosquito.\nKitajima was terrified of herself for feeling that way.\nSo she decided to confess to {a}.\nShe gathered every ounce of courage and decided to tell him how she felt.{p}...How will you answer her?\n"
+ },
+ {
+  "id": "30:5770",
+  "op": "choice",
+  "en": "Go out with her"
+ },
+ {
+  "id": "30:577c",
+  "op": "choice",
+  "en": "Turn her down"
+ },
+ {
+  "id": "30:5790",
+  "op": "text",
+  "en": "You decided to go out with her.\nAfter all, as you'd expect of a girl who had watched you from afar all that time, she was very modest and sweet.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}"
+ },
+ {
+  "id": "30:5878",
+  "op": "text",
+  "en": "The next day, the two of you decided to eat lunch together on the roof.\nA boxed lunch, eaten together with her...\nShe looked so happy.\nA happy time went on for a while.\nBut...{p}"
+ },
+ {
+  "id": "30:5934",
+  "op": "text",
+  "en": "While you were eating your rolled omelet, she suddenly slapped your arm.\n\"I'm sorry.\nThere was a mosquito just now...\"\nThat's what Kitajima said.{p}After that, she began slapping your arms and face at every chance she got.\n"
+ },
+ {
+  "id": "30:5a00",
+  "op": "choice",
+  "en": "Keep going out with her"
+ },
+ {
+  "id": "30:5a10",
+  "op": "choice",
+  "en": "Get away from her"
+ },
+ {
+  "id": "30:5a20",
+  "op": "text",
+  "en": "Even so, you kept going out with her.\nBecause she was a really good girl.\n...Except that she killed every mosquito that sucked your blood, one by one.{p}"
+ },
+ {
+  "id": "30:5ac0",
+  "op": "text",
+  "en": "And her behavior escalated more and more.\nShe simply could not forgive the mosquitoes for sucking your blood.\n{a} is mine.\nAnd yet the mosquitoes are still sucking {a}'s blood...\nWhenever she thought about it, she was beside herself.\nShe couldn't forgive the mosquitoes that drank your blood, but she also grew unable to forgive you, for letting them drink it so easily.\nAnd she became even more violent toward you than before.\nWhen you scolded her for it, she burst into tears.{p}"
+ },
+ {
+  "id": "30:5c98",
+  "op": "text",
+  "en": "She thought:\nRather than let the mosquitoes keep sucking my {a}'s blood like this...\nI might as well, I might as well just...{p}"
+ },
+ {
+  "id": "30:5d14",
+  "op": "text",
+  "en": "After that, she couldn't stop thinking about your windpipe.\nEvery time you talked, she couldn't stop thinking about the way the flesh of your throat moved.\nI might as well just...\nShe thought that, over and over again.\nAnd then, one day...{p}"
+ },
+ {
+  "id": "30:5dfc",
+  "op": "text",
+  "en": "As you were eating lunch on the roof as usual, she suddenly sank her teeth into your windpipe...\nIt seems she was ready to die right then and there.\nIf she could drink your blood, she didn't care if she died.\nThat's how determined she was.\nShe bit into you with all her might.{p}"
+ },
+ {
+  "id": "30:5f04",
+  "op": "text",
+  "en": "So hard that your throat could have torn right off...\n...\nYou fought back desperately and pinned her down.\nWord of it spread around the school, and she transferred away.\nAnd then...{p}"
+ },
+ {
+  "id": "30:5fc4",
+  "op": "text",
+  "en": "From then on, swarms of mosquitoes began breeding in the class she had been in.\nAnd their target was... {a}, it was you.\nNo, it wasn't you, was it?\nIt was the {a} in this story.\nThe mosquitoes in that class didn't drink the blood of any other student.\nThey say they drank only {a}'s blood, every day, day after day.\nThey say that every day, day after day, they fed on his flesh all over his body...\nA rumor went around the school that it was Kitajima's curse.\nAnd they say that curse still hangs over that class today.{p}"
+ },
+ {
+  "id": "30:6190",
+  "op": "text",
+  "en": "That class was... Class 1-E.\nYour class.\nThe curse, it seems, is that something speaks into the ear of a girl with an unrequited crush.\nThey say the voice says this:\n\"Make the one you love yours and yours alone.\nTo do that, you must drink their blood.\nIf you can't do it, I'll do it for you.\nWell? Shall I send the mosquitoes under my command to drink their blood for you?\"\nAnd depending on how the girl answers, mosquitoes swarm through the class.{p}"
+ },
+ {
+  "id": "30:6360",
+  "op": "text",
+  "en": "...I feel sorry for Kitajima.\nI'm sure she was led astray by whoever owns that voice.\nI don't think the mosquito swarms were her curse.\nIt must have been something in this school...\nthat led her astray, I believe.\n{a}.\nIf a girl who fell for you heard that voice, what would you do?\nI wonder if you could break the curse of that voice's owner...\nThat's the end of my story.\nWhose turn is it next?{p}"
+ },
+ {
+  "id": "30:64e4",
+  "op": "text",
+  "en": "Why would you have to turn her down?\nShe was so very sweet and modest.\nSo {a} was overjoyed when she confessed to him.\nAnd he decided to go out with her.\nListen.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}"
+ },
+ {
+  "id": "30:65e8",
+  "op": "text",
+  "en": "You started to think there was something strange about the way she acted.\nSo one day, after some time had passed, you brought up breaking up with her.{p}"
+ },
+ {
+  "id": "30:6668",
+  "op": "text",
+  "en": "Then she burst into tears and clung to your chest.\nShe thought:\nAnd just when I thought I'd finally gotten close enough to talk to him.\nIf I break up with {a}, the days of watching him from afar will start all over again.\nI can't bear that...\nAs she was thinking that, her eyes fell on your throat.{p}"
+ },
+ {
+  "id": "30:67a0",
+  "op": "text",
+  "en": "She remembered the mosquitoes that drank your blood, and an aching feeling came over her.\nAnd then she did something even she could hardly believe.{p}"
+ },
+ {
+  "id": "30:6830",
+  "op": "text",
+  "en": "Yes, she sank her teeth into your windpipe.\nShe bit down with all her might.{p}"
+ },
+ {
+  "id": "30:6888",
+  "op": "text",
+  "en": "You'd say a thing like that?\nThat's a problem. There was something I wanted you to promise me...\nI have a favor to ask of you, since you're so kind.\nI want you to break the curse I'm about to tell you about.\n...It may be an impossible thing to ask.\nBut I can't help telling you about it.\nBecause I feel so very sorry for the girl in this story.\n...Listen carefully.{p}"
+ },
+ {
+  "id": "30:69cc",
+  "op": "text",
+  "en": "I see...\nI had a favor to ask of you, kind as you are...\nThere was something I wanted you to promise me.\nI wanted you to break the curse I'm about to tell you about.\nBut you're someone who can't take other people's advice, aren't you?{p}"
+ },
+ {
+  "id": "30:6aa0",
+  "op": "text",
+  "en": "Then perhaps it's hopeless.\nI doubt you could ever take advice from me.\nStill, I'll tell you.\nAbout an incident that happened at this school long ago.\nYour class is in danger.\n...Consider yourself warned.\nWell then, let's begin the story.{p}"
+ },
+ {
+  "id": "30:6b88",
+  "op": "text",
+  "en": "I see, so that's the way you choose.\nThe same as him.\nPerhaps the two of you think alike.\nHe went down the stairs right in front of him.\nHe went down from the third floor to the floor below, and when he happened to look down the hallway...{p}"
+ },
+ {
+  "id": "30:6c34",
+  "op": "text",
+  "en": "There was his own classroom.\nHe was sure he had gone down the stairs.\nBut this was the third floor, no doubt about it.\nWhat will you do?{p}Will you try going down the stairs again?\n"
+ },
+ {
+  "id": "30:6cc0",
+  "op": "choice",
+  "en": "Go down the stairs again"
+ },
+ {
+  "id": "30:6cd8",
+  "op": "choice",
+  "en": "Go along the hallway ahead"
+ },
+ {
+  "id": "30:6d08",
+  "op": "text",
+  "en": "\"I'll try it one more time.\"\nHe went down the stairs again.\nHe was getting frantic, and without meaning to he quickened his pace.\nHe nearly tripped...{p}"
+ },
+ {
+  "id": "30:6d9c",
+  "op": "text",
+  "en": "He clung to the wall.{p}"
+ },
+ {
+  "id": "30:6dc8",
+  "op": "text",
+  "en": "It was dark underfoot on the stairs, and it felt somehow as if he were descending into darkness itself.\nWhen he reached the floor below, the first thing he looked at was the classroom at the end of the hallway.\nAnd then...{p}"
+ },
+ {
+  "id": "30:6e64",
+  "op": "text",
+  "en": "There was his own classroom.\nEven though he was sure he had gone down the stairs.\nNo matter how many times he went down, he always arrived on the third floor.\nHe gave up on these stairs and decided to walk down the hallway in front of him.\nHe would go home by the stairs at the far end.{p}"
+ },
+ {
+  "id": "30:6f44",
+  "op": "text",
+  "en": "He had a bad feeling, somehow.\nHe sensed an unusual aura about these stairs.\nSo he decided to go through the hallway in front of him and take the stairs at the far end.{p}"
+ },
+ {
+  "id": "30:6ff0",
+  "op": "text",
+  "en": "He decided to just keep going.\nConsidering how far he had already walked, going forward should get him home sooner than turning back.\nStifling the bad feeling spreading deep in his chest, he kept walking.\n......He heard something.\nStartled, he froze in his tracks.{p}"
+ },
+ {
+  "id": "30:70dc",
+  "op": "text",
+  "en": "He listened hard.........\nHe heard nothing.\nHe must have been hearing things because he was so scared.{p}"
+ },
+ {
+  "id": "30:7150",
+  "op": "text",
+  "en": "He convinced himself of that and started walking again.\nThen he heard it again.\nAnd it wasn't just one voice.\nStifled giggles were coming from all over the dark hallway.\nThis was no trick of his ears.\nHe knew it for certain.\nSomeone was here.\nHe strained his eyes, but there was no one there.\nAnd yet the voices kept coming.{p}"
+ },
+ {
+  "id": "30:728c",
+  "op": "text",
+  "en": "Terrified, he broke into a run.\nWho could blame him?\nHe tore down the hallway at full speed, so fast he could barely breathe.{p}"
+ },
+ {
+  "id": "30:72fc",
+  "op": "text",
+  "en": "Then suddenly, as if the darkness itself had congealed, a black shadow appeared in front of him.\nHe stopped.\n......At some point, the laughter had stopped.\nBut he was so absorbed by the shadow before him that he didn't even notice.{p}"
+ },
+ {
+  "id": "30:73fc",
+  "op": "text",
+  "en": "The black shadow was squirming by the wall.\nIt looked like a lump of flesh, or a garbage bag.\nBut those movements clearly belonged to a living creature with a will of its own.\nThen what on earth could it be?{p}"
+ },
+ {
+  "id": "30:74ac",
+  "op": "text",
+  "en": "He gathered his courage and slowly started walking.\nCarefully, softly, softly, he crept closer to the black shadow.{p}"
+ },
+ {
+  "id": "30:751c",
+  "op": "text",
+  "en": "Peering through the gloom, he could tell it was a person.\nA girl, in fact, wearing a sailor uniform.\nShe was crouched down, trembling.\nMaybe she was crying.\nHe worked up his nerve and was about to call out to her.{p}"
+ },
+ {
+  "id": "30:75f0",
+  "op": "text",
+  "en": "At that very moment.\nShe turned around, and when he saw her, he was so shocked his breath stopped.{p}"
+ },
+ {
+  "id": "30:7650",
+  "op": "text",
+  "en": "Huge, glinting, goggling eyes, and below them a tiny, shriveled chin and cracked lips.\nShe looked at him and reached out her hand, as if begging to be saved.\nThat little hand touched his arm as he stood frozen.\n\"Ow!\"\nHe winced in pain.\nHe looked at his arm in a panic, and the place she had touched was a festering, raw, reddish black.\nShe reached out her hand again.\nAs if she meant to leave a brand on his body.{p}"
+ },
+ {
+  "id": "30:77ec",
+  "op": "text",
+  "en": "\"Waaaaaagh!☆\"\n...Of course he ran away.\nDesperately, his legs tangling under him.\nBut she came after him.\nShrieking in a high-pitched voice, running in a bizarre way, as if on all fours.\nWhere could such a small body find that much strength?\nShe was closing the gap on him fast.{p}"
+ },
+ {
+  "id": "30:78f8",
+  "op": "text",
+  "en": "Her withered hand reached out to grab him.\nIt's all over!\nHe braced himself for the end.{p}"
+ },
+ {
+  "id": "30:7948",
+  "op": "text",
+  "en": "But just then......\nThe hand she had stretched out crumbled away.\nFrom the fingertips, as if it were turning to sand.{p}"
+ },
+ {
+  "id": "30:79d4",
+  "op": "text",
+  "en": "At the same time, her face and legs began to crumble away too, trickling like sand.\nStill staring at him with bitter regret, she lost more and more of her shape.\nBefore he knew it, all that was left on the floor was a sailor uniform and a pile of sand.\nAnd then, right before his eyes, that sailor uniform crumbled to pieces too.{p}"
+ },
+ {
+  "id": "30:7af0",
+  "op": "text",
+  "en": "...He stood there, stunned.\nHe had no idea what had happened.\nBut whatever it was, he must have been saved...\nJust as he breathed a sigh of relief at that thought,\na high-pitched voice came from the darkness right beside him.\nA chill ran down his spine.\nStiffly, he turned his head and looked toward the voice.{p}"
+ },
+ {
+  "id": "30:7bf4",
+  "op": "text",
+  "en": "There were several girls there.\nNo, I'm not sure you could even call them girls.\nThey were withered creatures in sailor uniforms, just like the thing that had crumbled before his eyes a moment ago.\nThey came toward him, all babbling gibberish.\n\"Aaah!\"{p}"
+ },
+ {
+  "id": "30:7cf0",
+  "op": "text",
+  "en": "He started running again.\nHow long did he run, I wonder?\nThe hallway went on and on.\nIt stretched straight ahead and vanished into darkness.\nThey chased him as he ran.\nGnarled fingers lunged at him like claws, trying to catch him.\nHe was so terrified that he kept looking back over his shoulder.\nEven though doing that only wears you out faster.\nBut he couldn't help looking back.{p}"
+ },
+ {
+  "id": "30:7e54",
+  "op": "text",
+  "en": "And he saw them.\nThe creatures chasing him, crumbling to pieces as they ran.\nTheir faces as they turned into piles of sand, staring at him with longing and resentment.{p}"
+ },
+ {
+  "id": "30:7f04",
+  "op": "text",
+  "en": "Climbing over the piles of sand that were all that was left of their companions, they kept coming after him, one after another.\nAnd then they crumbled in just the same way.\nThere seemed to be an endless number of them.\nNo, perhaps they really were welling up out of the darkness without end.\nThat's why he has to keep running, so they never catch him.{p}"
+ },
+ {
+  "id": "30:8044",
+  "op": "text",
+  "en": "......He must still be running, even now.\nYou look like you're wondering how I can say that... Heh heh.\nNever mind that. Let me tell you one thing.\nThe entrance to the endless hallway he wandered into is the hallway in front of Class 1-E.\nHeh heh... That's your class, isn't it?\nI don't know what makes the door to that endless world open.\nBut they say that when someone with a strong sixth sense passes through there, they sometimes hear it.\nHigh-pitched squealing, and a boy's voice screaming for help.\nAnd if, at that moment, you carelessly answer 'I'll help you,' you get dragged into the endless hallway.\n{a}, you're a kind person, aren't you?\nEven if you hear a voice begging for help, you must never be tempted.\nHalf-hearted kindness will be the death of you.\nPromise me you won't even think of trying to save him.\nOtherwise...... Well, never mind.\nI'm sure you have your own ideas.\nThat's the end of my story.\nWhose turn is it next, I wonder?{p}"
+ },
+ {
+  "id": "30:8354",
+  "op": "text",
+  "en": "Without thinking, he turned around.\nAnd the black shadow was still there.\nThat shadow was what had been rustling.\nHe must have run quite a long way.\nAnd yet the black shadow from before was still there.\nThe shadow was behind him.\nThen what about in front...?\nFearfully, he turned to face forward again.{p}"
+ },
+ {
+  "id": "30:8460",
+  "op": "text",
+  "en": "And there, too, was a black shadow...{p}"
+ },
+ {
+  "id": "30:8484",
+  "op": "text",
+  "en": "If he made another U-turn,\nmaybe this time things would be different. That's what he thought.\nBut it was no use.\nThere was the black thing in front of him, just as before.{p}"
+ },
+ {
+  "id": "30:8510",
+  "op": "text",
+  "en": "I see, so you'll huddle down.\nIf you huddle down, the black thing will come for you.\nSee...?\nThe black thing came closer and closer.\nBut you can't escape anymore.\nAfter all, you're huddled on the floor.\nThe black thing began to show its shape clearly.\nIt's coming closer.\nDo you regret it?\nSaying you'd huddle down?\nBut it's too late now.\nIt has come right up in front of you.\nHeh heh...\nAnd what appeared before you was...{p}"
+ },
+ {
+  "id": "30:86b4",
+  "op": "text",
+  "en": "A girl.\n\"Please... help me.\nMy leg hurts.\nI can't walk any farther...\"\nShe murmured it in a tiny, broken voice.\nGently shielding her aching leg.{p}"
+ },
+ {
+  "id": "30:876c",
+  "op": "text",
+  "en": "That's right.\nThat's what you have to do.\nBecause you're a kind person.\nYou said so yourself.\nWhen a girl is in trouble, you have to help her.\nIf you hadn't...\nI might have killed you.{p}"
+ },
+ {
+  "id": "30:8838",
+  "op": "text",
+  "en": "Oh, I'm sorry.\nDon't look so startled.\nIt's just that I absolutely hate liars.\nIf you call yourself kind, you'd better act like it.\nUnderstood?\nAnd don't lie from here on, either.\nI hate liars.\nPeople who lie make me want to kill them.\nYou understand, don't you?\nYou helped her.{p}"
+ },
+ {
+  "id": "30:895c",
+  "op": "text",
+  "en": "What are you talking about?\nThat's not what you said a moment ago.\nOr is it just my imagination?\nWas it my imagination that I heard you say you'd run away?\nIt must have been.\nYou're going to help her, aren't you?\nThat's what you said, isn't it?\nYou told me yourself that you were kind.\nOf course you'd help a girl in trouble.{p}"
+ },
+ {
+  "id": "30:8a90",
+  "op": "text",
+  "en": "Listen.\nDon't lie to me.\nI hate liars.\nPeople who lie make me want to kill them.\nUnderstand?\nIf you lie, I'll kill you.{p}"
+ },
+ {
+  "id": "30:8b2c",
+  "op": "text",
+  "en": "Don't be ridiculous.\nYou can't say no.\nBecause you're kind.\nThere's no way you'd let go of her.\nIf you let go, I'll kill you.\nI'll kill you.\nUnderstand?\nI can't stand liars.\nYou're kind.\nSo you won't let go of her.\nRight?\nThat's what you'll do, isn't it?\nAnd then you'll walk on.{p}"
+ },
+ {
+  "id": "30:8c54",
+  "op": "text",
+  "en": "Don't you dare play games with me.{p}"
+ },
+ {
+  "id": "30:8c6c",
+  "op": "text",
+  "en": "You said you take other people's advice, didn't you?\nThat's what you said.\nThen why did you turn around?\nIt's over now.\nYou turned around.\nI want to kill you.\nOh yes, I want to kill you.\nYou turned around.\nTo see what she really was.\nThen something fell.\nAt least, that's what it sounded like.\nAt the same moment, your back felt lighter.\nThe girl you were carrying had fallen off.\nYou looked at the floor.\nAnd there...{p}"
+ },
+ {
+  "id": "30:8e00",
+  "op": "text",
+  "en": "lay a skeleton, with bits of flesh still clinging to it.\nYou had been carrying a skeleton on your back.\nWhat's wrong?\nAre you scared?\nBut it's no use.\nYou're done for.\nBecause you're a liar.\nI'll have to kill you.\nYes, I have to kill you.\nYou turned around, so I'm going to kill you.{p}"
+ },
+ {
+  "id": "30:8f08",
+  "op": "text",
+  "en": "Listen...\nYou can hear it, can't you?\nThe skeleton's voice.\nThe skeleton's voice, cursing you.\nThis hallway is thick with spiritual aura.\nBecause it's where the spirits of people who died at school gather.\nBecause this school is big.\nBecause there are so many students.\nSome people have accidents on school grounds.\nAnd some of them die.\nPeople like that don't want to accept their own deaths, so they can't easily move on to the spirit world.{p}"
+ },
+ {
+  "id": "30:905c",
+  "op": "text",
+  "en": "And so they linger in this hallway.\nAfter all, this hallway is long, isn't it?\nBeing long means a lot of classrooms face onto it.\nWith lots of classrooms, lots of people pass through.\nSince it's a place with so much foot traffic, a lot of spirits who want someone to notice them have gathered here.\nThat's why strange things happen here.\nSo many spirits have gathered that the dimensions are a little warped.\nThere's even a path that leads to the spirit world.\nAnd there are spirits that drag people onto it.\nSome spirits are like that.\nThose spirits pull people onto the path to the spirit world and show them the illusion of a hallway that goes on forever.\n{b} {a}.\nYou were one of the people they led astray.{p}"
+ },
+ {
+  "id": "30:9298",
+  "op": "text",
+  "en": "The girl you tried to help was someone who had been led astray long ago.\nShe had seen the illusion of the never-ending hallway, so she went back and forth along the path to the spirit world.\nShe lost her way and starved to death, and even then she kept trying to escape, wandering for years and years.\nThat's why her leg hurt.\nIt hurt so much she couldn't walk.\nAnd yet you didn't do as she told you.\nI have to kill you.\nPeople like that have to be killed.{p}"
+ },
+ {
+  "id": "30:9408",
+  "op": "text",
+  "en": "Listen...\nCan't you hear a voice?\nA girl's voice.\nOr is it an old woman's voice?\nThe voice of the girl you were carrying on your back.{p}"
+ },
+ {
+  "id": "30:947c",
+  "op": "text",
+  "en": "Listen... that high-pitched voice.\nThat's her voice.\nThe voice of someone bitter that she got lost and died.\nSaying she envies you for being alive.\nSaying she wants to wring your neck.\nI feel the same way.\nI want to wring your neck.\nHeh heh...{p}"
+ },
+ {
+  "id": "30:9590",
+  "op": "text",
+  "en": "The girl wanted to go back to the school hallway.\nBecause she had never said goodbye to anyone.\nBecause one day, out of nowhere, she had wandered into this hallway.\nAnd because she was so bitter that she had died.\nShe can't just go quietly to the spirit world.\nListen...{p}"
+ },
+ {
+  "id": "30:9684",
+  "op": "text",
+  "en": "She started walking.\nYou can see it, can't you?\nA skeleton with flesh clinging to it, walking.\nShe says she'll walk on her own after all.\nShe says she can't go with you.\nShe says she can see the way out of this hallway now.\nHer leg hurts, but she says she'll walk.\nOh my... can't you see the way out?\nThen you may as well keep on wandering.\nIf you wander for as many years as she did, maybe someday you'll be able to see the way out.{p}"
+ },
+ {
+  "id": "30:97fc",
+  "op": "text",
+  "en": "Ah... she's gone.\nI can't see her anymore.\nShe made it out of the hallway.\nBut her voice still reaches us.\nListen closely.\nYou can hear it, can't you?\n\"Die in here, and never get out...\"\nDid you hear it?\nYou heard it.\nYou're going to be killed.\nShe abandoned you, and now you'll be killed.\n{a}.\nYou.......................................................................... I'm sorry.{p}"
+ },
+ {
+  "id": "30:99b0",
+  "op": "text",
+  "en": "This wasn't your story, was it?\nThe other {a}.\nThat's right, it was the story of the other you.\nAfter that, he wandered that hallway forever.\nHis punishment for ignoring her advice.\nThey say her skeleton was found in that hallway the next day.\nApparently she was clattering her withered, bony jaws, telling everything that had happened from start to finish...{p}"
+ },
+ {
+  "id": "30:9af8",
+  "op": "text",
+  "en": "By the way, you said you were in Class 1-E, didn't you?\nIf I remember right, that classroom is on the third floor, isn't it?\nWasn't Class 1-E that classroom at the end of the long hallway?\nPerhaps you'd better be careful.\nSomething dangerous might happen to you one of these days.\nHeh heh...\nThat's the end of my story.\nWhose turn is it next, I wonder?{p}"
+ },
+ {
+  "id": "30:9c08",
+  "op": "text",
+  "en": "What do you think you're doing?\nTurn around?\nYou said you'd turn around?{p}"
+ },
+ {
+  "id": "30:9c58",
+  "op": "text",
+  "en": "She told you, didn't she?\nNot to turn around.\nShe warned you, didn't she?\nThat if you turned around, something terrible would happen.\nSo why did you turn around?\nLiar.\nYou're a liar.\nYou said you could take other people's advice.\nI want to kill you.{p}"
+ },
+ {
+  "id": "30:9d38",
+  "op": "text",
+  "en": "You turned around.\nOf course, she was furious.\nLetting out a howl of wordless rage, she strangled you.{p}"
+ },
+ {
+  "id": "30:9dbc",
+  "op": "text",
+  "en": "Well?\nDoes it hurt?\nIt must hurt.\nShe means to kill you, after all.\nListen.\nYou can hear it, can't you?\nHer voice.\nAre you suffering?\nCan't you breathe?{p}"
+ },
+ {
+  "id": "30:9e4c",
+  "op": "text",
+  "en": "You can't answer anymore, can you............................................The next day, you were found in that hallway, strangled to death.{p}"
+ },
+ {
+  "id": "30:9f00",
+  "op": "text",
+  "en": "Oh, I'm sorry.\nIt wasn't you, was it?\nIt was the story of the other {a}, wasn't it?\nThey say the flesh of his neck was riddled with holes, as if someone had stabbed it with a stick.\nLittle holes all over, as if fingers had been jabbed into his neck.\nI wonder what that girl you were carrying on your back really was.\nBy the way, you said you could take other people's advice, didn't you?\nThen let me give you some.\nThis time, listen properly.\nDon't ignore my advice the way you did a moment ago.\nAll right?\nYou said you were in Class 1-E, didn't you?\nIf I remember right, that classroom is on the third floor.\nWasn't Class 1-E that classroom at the end of the long hallway?\nThat's the very hallway I've just been telling you about.\nBe careful.\nBe very, very careful.\nOur school has an awfully strong spiritual aura, doesn't it?\nThat hallway is crawling with spirits too.\nThey call it the hallway that tests people.\nIf you say you're kind, or that you keep your promises, or that you take other people's advice to heart...{p}"
+ },
+ {
+  "id": "30:a22c",
+  "op": "text",
+  "en": "if you claim you can do ideal things like those, the spirits there show you illusions to put you to the test, or so they say.\nHeh heh...\nWhat was it you said about yourself earlier?\nI'll say it once more.\nBe very, very careful.\nConsider yourself warned...\nWell, that's the end of my story.\nWhose turn is it next?{p}"
+ },
+ {
+  "id": "30:a33c",
+  "op": "text",
+  "en": "Shake her off, you say?\nYou promised a moment ago, didn't you?\nThat you wouldn't let go of her.\nThat's what you said, isn't it?\nI can't forgive you anymore.\nYou shook her off.\nAnd then you ran down the hallway.{p}"
+ },
+ {
+  "id": "30:a408",
+  "op": "text",
+  "en": "Forward, no matter what.\nShe came after you.\nFrom behind you came a strange voice, like the chirring of insects.\nA shrill voice, like metal grinding against metal.\nIt was her scream.\nYou ran for your life.\nYou tried to get away from her.\nBut her screaming didn't stop.\nShe's coming after you.\nShe's coming after you.\nShe's coming after you.\n.............................................................................She's coming after you...\nThis hallway goes on forever.\nNo matter how far you run, you can't escape.\nYou can't hide, either.\nYou can't catch a ride, either.\nThere's nothing but the hallway.\nThere's nowhere to run.\nHeh heh...\nShe chased you.\nOn and on.\nOn and on.\nOn and on.\nEven though a moment ago she said her leg hurt.\nNo matter how fast you run, she keeps coming.\nYou can hear her scream...\nRight in your ear.\nHot breath blows on you.\nBlows on the nape of your neck.{p}"
+ },
+ {
+  "id": "30:a760",
+  "op": "text",
+  "en": "A hand reached out.\nIt grabbed your shoulder.\nSome kind of hand had grabbed your shoulder.\n\"Don't let go...\"\nYou sensed something on your back.\nSomething was clinging to your back.{p}\"You said you wouldn't let go, didn't you...?\"\n"
+ },
+ {
+  "id": "30:a830",
+  "op": "choice",
+  "en": "Shake her off"
+ },
+ {
+  "id": "30:a83c",
+  "op": "choice",
+  "en": "Never let go this time"
+ },
+ {
+  "id": "30:a850",
+  "op": "text",
+  "en": "You shook her off.\nAnd you ran as hard as you could.\nAll you could think was that you had to get away.\nYou ran, and ran, and ran...\nShe chased you.\nSpitting out words of hatred.\nYou ran.\nIgnoring her words, you ran.\n...\nAt some point, you couldn't hear her voice anymore.{p}"
+ },
+ {
+  "id": "30:a978",
+  "op": "text",
+  "en": "Then you calmed down and looked around.\nIt was just a hallway.\nAn ordinary hallway with no one in it...\nYou walked slowly.\nWary of everything around you.\nAfter a while, you could see the end of the hallway.\nYou could get out.\nYou could get out of this hallway.\nYou left the school and went home...{p}"
+ },
+ {
+  "id": "30:aaa8",
+  "op": "text",
+  "en": "Good for you.\n{a}.\nYou made it home safely.\nHeh heh...\nWhat did you think of the story I just told?\nDid you really think it was something that happened to someone else?\nThat story wasn't about someone else.\nIt was about you.\nYou must have experienced it.\nThe hallway that goes on forever.\nCarrying a girl on your back.\nIt's a story with a life of its own, you see.\nYou said you were in Class 1-E, didn't you?\nIf I remember right, that classroom is on the third floor.\nWasn't Class 1-E that classroom at the end of the long hallway?\nThat story was about that very hallway.\nThey say that when you tell the story of that hallway, the people listening see illusions.\nWell?\nYou saw them too, didn't you?\nThe shadows squirming in the hallway and the girl were things I made up.\nBut didn't you see them anyway?\n...You did, didn't you?\nMaybe that hallway has the power to make fantasies real.\nHeh heh...\nThere's something in that hallway.\nYou think so too, don't you?\nIf you saw the illusion of the hallway, you must.\nOh yes, there's just one thing I'd like to say...\nYou told me you were someone who keeps promises, yet you broke your promise to her, didn't you?\nI told you I'd kill someone like that, didn't I?\nI do hope that doesn't come true as well.\nHeh heh...{p}That's the end of my story.\nWhose turn is it next, I wonder?{p}"
+ },
+ {
+  "id": "30:aee0",
+  "op": "text",
+  "en": "You reached behind you and held her up firmly.\nAnd you told her this:\nThat you'd never let go of her again.\nThat you'd keep your promise.\nShe was overjoyed.\n\"Thank you.\nDon't ever let go of me.\nForever and ever...\"{p}"
+ },
+ {
+  "id": "30:afb8",
+  "op": "text",
+  "en": "This time, you kept your promise.\nOn and on, forever, you carried her on your back.\nOn a hallway of infinite length.\nForever...\nThat's how you atone for the sin of breaking your promise to her.\nDo you understand...?{p}"
+ },
+ {
+  "id": "30:b094",
+  "op": "text",
+  "en": "Oh, I'm sorry.\nThis wasn't your story, was it?{p}"
+ },
+ {
+  "id": "30:b0e4",
+  "op": "text",
+  "en": "This was the story of the other {a}.\nBut listen, {a}.\nYou said you were in Class 1-E, didn't you?\nIf I remember right, that classroom is on the third floor.\nWasn't Class 1-E that classroom at the end of the long hallway?\nThe story I just told you was about that hallway.\nHeh heh...\nBe careful.\nThey say there was a boy who did exactly what you did and was spirited away.\nHis name was...\n{b} {a}.\nOh, I'm sorry, that's not right.\nThat was only a stand-in name I gave him.\nJust a stand-in...{p}Well, that's the end of my story.\nWhose turn is it next, I wonder?{p}"
+ },
+ {
+  "id": "30:b2f8",
+  "op": "text",
+  "en": "You're turning around?\nAfter coming this far, how could you do such a thing?{p}"
+ }
+]

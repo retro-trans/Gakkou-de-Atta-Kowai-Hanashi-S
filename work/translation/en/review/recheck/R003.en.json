@@ -1,0 +1,1071 @@
+{
+ "unit": "R003",
+ "scenes": [
+  "10",
+  "11",
+  "12",
+  "13",
+  "14"
+ ],
+ "todo": [
+  "- [recheck] 12:24fc assumes the player said they like horror/sci-fi but is not marked as following that choice (E025): check which branch reaches it."
+ ],
+ "rows": [
+  {
+   "id": "10:4444",
+   "op": "text",
+   "before": "When he happened to look down, the earth was beckoning to him.\nHe even had the illusion that it was opening its huge mouth wide, waiting for its prey to fall.\nAfter all, the soil down there had sucked up the blood of three people.\nIt would be no wonder at all if it had acquired a taste for blood.\nAizawa put his hand on the fence.{p}Then he leaned out even further and stared at the waiting ground.\n",
+   "en": "When he happened to look down, the earth was beckoning to him.\nHe even had the illusion that it was opening its huge mouth wide, waiting for its prey to fall.\nAfter all, the soil down there had sucked up the blood of three people.\nIt would be no wonder at all if it had acquired a taste for blood.\nAizawa put his hand on the railing.{p}Then he leaned out even further and stared at the waiting ground.\n",
+   "edit_notes": [
+    "10:4444: EDIT - fence -> railing, consistency"
+   ]
+  },
+  {
+   "id": "10:4b50",
+   "op": "text",
+   "before": "Now, everything is still shrouded in mystery.\nAnd that's the end of my story.\nWell then, I'll hand things over to the next person.{p}",
+   "en": "Even now, everything is still shrouded in mystery.\nAnd that's the end of my story.\nWell then, I'll hand things over to the next person.{p}",
+   "edit_notes": [
+    "10:4b50: EDIT - 'Now,' read as a discourse marker"
+   ]
+  },
+  {
+   "id": "10:4dc0",
+   "op": "text",
+   "before": "Well then, let's go.\n...I do think the story that a monster lives in this school is true.\nI can't shake the feeling, myself, that someone is possessed by something.\nNo, I don't mean me.\nI mean all of you at this school.\nThough I suppose that includes me, too.{p}",
+   "en": "Well then, let's go.\n...I do think the story that a monster lives in this school is true.\nI can't shake the feeling, myself, of being possessed by something.\nNo, I don't mean me.\nI mean all of you at this school.\nThough I suppose that includes me, too.{p}",
+   "edit_notes": [
+    "10:4dc0: EDIT - 'someone' muddled the setup; JP is ambiguous so the next line's 'No, I don't mean me' needs the self-reading (and 10:526c says 'everyone')"
+   ]
+  },
+  {
+   "id": "10:5214",
+   "op": "text",
+   "before": "\"So if I say it, I'll get to meet him?\"\n{f:I|I} asked him back.{p}",
+   "en": "\"So if I say it, I'll get to meet him?\"\n{f:I|I} asked in return.{p}",
+   "edit_notes": [
+    "10:5214: EDIT - 'asked him back' unidiomatic"
+   ]
+  },
+  {
+   "id": "10:54dc",
+   "op": "text",
+   "before": "\"It's Aizawa!\nLook, it's Aizawa!\"\nArai, who had been gripping the railing beside {f:me|me}, suddenly pointed into the empty air and climbed right over it.{p}",
+   "en": "\"It's Aizawa!\nLook, it's Aizawa!\"\nArai, who had been gripping the railing beside {f:me|me}, suddenly pointed into the empty air and climbed right over the top of it.{p}",
+   "edit_notes": [
+    "10:54dc: EDIT - returns note settled: 'over the top of it' ties 'it' to the railing, not the empty air"
+   ]
+  },
+  {
+   "id": "10:57a0",
+   "op": "text",
+   "before": "The skull vanished in an instant.\nBefore I knew it, the three who were left had gathered around {f:me|me}.\n\"What now? Three of 'em have vanished on us.\nYou still gonna keep this going?\"\nOne of them said it.\nWhat should I do?\nI never dreamed it would come to this.\nMaybe I could still turn back now.\nIf I kept on like this, I felt I'd only sink in deeper...\nI couldn't shake that feeling.\nWas what was happening around {f:me|me} right now real...\nOr was it an illusion...{p}Should I really keep going like this{f:?|?}\n",
+   "en": "The skull vanished in an instant.\nBefore I knew it, the three who were left had gathered around {f:me|me}.\n\"What now? Three of 'em have vanished on us.\nYou still gonna keep this going?\"\nOne of them asked.\nWhat should I do?\nI never dreamed it would come to this.\nMaybe I could still turn back now.\nIf I kept on like this, I felt I'd only sink in deeper...\nI couldn't shake that feeling.\nWas what was happening around {f:me|me} right now real...\nOr was it an illusion...{p}Should I really keep going like this{f:?|?}\n",
+   "edit_notes": [
+    "10:57a0: EDIT - 'said it' stiff after a question"
+   ]
+  },
+  {
+   "id": "10:5bc8",
+   "op": "text",
+   "before": "Of course.\nThat's proof that you're normal, {a}{f:.|.}\nEveryone has what they call a defensive instinct, it seems...\nBut there was once someone who felt no fear at all, no matter how frightening the place.{p}",
+   "en": "Of course.\nThat's proof that you're normal, {a}{f:.|.}\nEveryone has what they call an instinct for self-preservation, it seems...\nBut there was once someone who felt no fear at all, no matter how frightening the place.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "10:6994",
+   "op": "text",
+   "before": "There was a student who could kill the animals in the school's animal hutch without batting an eye.\nEach time, a teacher scolded him, but the lectures appealed to his feelings, so he couldn't understand the scolding at all.\n\"Morikawa, don't you feel sorry for them?\"\n\"Sorry.\"\nTo him, it felt like no more than breaking some school equipment.\n\"You eat meat and fish yourself, don't you? Then quit eating it.\"\nHe looked like he wanted to say something like that.\nEven on his way home, if he found a handy little animal, he would torment it to death.{p}",
+   "en": "There was a student who could kill the animals in the school's animal hutch without batting an eye.\nEach time, a teacher scolded him, but the lectures were all appeals to his feelings, so the scolding made no sense to him at all.\n\"Morikawa, don't you feel sorry for them?\"\n\"Sorry about that.\"\nTo him, it felt like no more than breaking some school equipment.\n\"You eat meat and fish yourself, don't you? Then quit eating it.\"\nHe looked like he wanted to say something like that.\nEven on his way home, if he came across a small animal within easy reach, he would torment it to death.{p}",
+   "edit_notes": [
+    "10:6994: EDIT - clumsy clause",
+    "10:6994: EDIT - bare 'Sorry.' after 'feel sorry for them?' read as an echo; made the flippant apology clear"
+   ]
+  },
+  {
+   "id": "10:76f0",
+   "op": "text",
+   "before": "\"So it was you after all.\"\nIt was Nakayama.\n\"I can't believe it was really killed...\"\n\"It's not like that.\nI thought you'd be sad if you found out it was dead...\"\n\"Liar!\"{p}What do you think Morikawa did then?\n",
+   "en": "\"So it was you after all.\"\nIt was Nakayama.\n\"To think it really was killed...\"\n\"It's not like that.\nI thought you'd be sad if you found out it was dead...\"\n\"Liar!\"{p}What do you think Morikawa did then?\n",
+   "edit_notes": [
+    "10:76f0: EDIT - stiff passive"
+   ]
+  },
+  {
+   "id": "10:7990",
+   "op": "text",
+   "before": "Some time later, when he'd almost forgotten about it, Nakayama, who had been absent all that time, was waiting for him near Morikawa's house.\n\"Long time no see.\"\n\"Nakayama...\"\n\"Lately, I've started to understand how you feel.\nLook...\"{p}",
+   "en": "Some time later, when he'd almost forgotten about it, Nakayama, who had been absent all that time, was waiting for Morikawa near his house.\n\"Long time no see.\"\n\"Nakayama...\"\n\"Lately, I've started to understand how you feel.\nLook...\"{p}",
+   "edit_notes": [
+    "10:7990: EDIT - pronoun/name order awkward"
+   ]
+  },
+  {
+   "id": "10:8174",
+   "op": "text",
+   "before": "In the darkness, something like a cord was moving.\n\"Nakayama... you...!\"\nShe was strangling his parents with a rope.\n\"Oh my, I said I'd tell you later, but you just couldn't wait...?\nYou know, it's the best, killing people.\nWith animals, you were my senior, but now I'm the one ahead.\nOh, that's right.\nTo thank you, I'll teach you how to kill a person.\nHeh heh, heh... heh...\"\nMorikawa tried to lunge at Nakayama.{p}",
+   "en": "In the darkness, something like a cord was moving.\n\"Nakayama... you...!\"\nShe was strangling his parents with a rope.\n\"Oh my, I said I'd tell you next time, but you just couldn't wait...?\nYou know, it's the best, killing people.\nWith animals, you were my senior, but now I'm the one ahead.\nOh, that's right.\nTo thank you, I'll teach you how to kill a person.\nHeh heh, heh... heh...\"\nMorikawa tried to lunge at Nakayama.{p}",
+   "edit_notes": [
+    "10:8174: EDIT - echo of 10:7bc4 'I'll tell you about it next time'"
+   ]
+  },
+  {
+   "id": "10:8bcc",
+   "op": "text",
+   "before": "He walked on briskly for a while, but something nagged at him, and when he looked back, Nakayama was still standing there in a daze.\n(What's with her?)\nHe must have been in a foul mood, because he decided to take a little detour.{p}",
+   "en": "He walked on briskly for a while, but something nagged at him, and when he looked back, Nakayama was still standing there in a daze.\n(What's with her?)\nHe must have been in a foul mood, so he decided to take a little detour.{p}",
+   "edit_notes": [
+    "10:8bcc: EDIT - 'must have been in a foul mood, because he decided' reasoned backwards; -> 'so he decided'"
+   ]
+  },
+  {
+   "id": "10:95e4",
+   "op": "text",
+   "before": "Huh? Nakayama, you ask?\nShe comes to school as if nothing happened.\nMorikawa says Nakayama did it, but the police don't seem to believe him.\nThis is what I heard when I went to visit Morikawa in the hospital.\nHe didn't seem to me like he was lying.{p}",
+   "en": "Huh? Nakayama, you ask?\nShe comes to school as if nothing happened.\nMorikawa says Nakayama did it, but the police don't seem to believe him.\nThis is what I heard when I went to visit Morikawa in the hospital.\nHe didn't seem to me to be lying.{p}",
+   "edit_notes": [
+    "10:95e4: EDIT - clumsy 'didn't seem to me like he was lying' -> 'to be lying'"
+   ]
+  },
+  {
+   "id": "10:9f64",
+   "op": "text",
+   "before": "...Shall we get back to Morikawa?\nSeeing someone die made him truly feel what life meant for the first time.\nI suppose he realized that the life of a living thing isn't something to be treated lightly.\nBut by then it was too late.\nFor a while, Morikawa lived tormented by regret and self-reproach.\nHe changed a great deal, you know.\nNot only did he stop killing animals, of course, he often scolded people who left food on their plates, saying no living thing's life should be taken for nothing.{p}",
+   "en": "...Shall we get back to Morikawa?\nSeeing someone die made him truly feel what life meant for the first time.\nI suppose he realized that the life of a living thing isn't something to be treated lightly.\nBut by then it was too late.\nFor a while, Morikawa lived tormented by regret and self-reproach.\nHe changed a great deal, you know.\nOf course he stopped killing animals, and what's more, he often scolded people who left food on their plates, saying no living thing's life should be taken for nothing.{p}",
+   "edit_notes": [
+    "10:9f64: EDIT - garbled 'Not only did he stop..., of course, he often scolded' -> 'Of course he stopped..., and what's more'"
+   ]
+  },
+  {
+   "id": "10:a2c0",
+   "op": "text",
+   "before": "...After Morikawa's death, something that seemed to be a suicide note was found in his room, but all it did was flatly set down the facts about the hamster.\nWhy would he leave something like that, I wonder?\nWas he thinking about his own sin as he wrote it?\nOr was he thinking about Nakayama's death?\nOr perhaps he wanted to say that human lives are just as fleeting as the lives of the animals he had so easily killed...\nWhy did Morikawa kill himself, when he had realized how precious life is?\nCan anyone say that his regret and suffering outweighed the weight of that life?{p}",
+   "en": "...After Morikawa's death, something that seemed to be a suicide note was found in his room, but all it did was flatly set down the facts about the hamster.\nWhy would he leave something like that, I wonder?\nWas he thinking about his own sin as he wrote it?\nOr was he thinking about Nakayama's death?\nOr perhaps he wanted to say that human lives are just as fleeting as the lives of the animals he had so easily killed...\nWhy did Morikawa kill himself, when he had realized how precious life is?\nCan anyone say that his regret and suffering weighed more than that life?{p}",
+   "edit_notes": [
+    "10:a2c0: EDIT - redundant 'outweighed the weight of that life' -> 'weighed more than that life'"
+   ]
+  },
+  {
+   "id": "10:a6fc",
+   "op": "text",
+   "before": "The going-home music played, and silence fell over the school.\nFor a while, he had time on his hands with nothing to do.{p}",
+   "en": "The going-home music played, and silence fell over the school.\nFor a while, he had time to kill.{p}",
+   "edit_notes": [
+    "10:a6fc: EDIT - wordy 'had time on his hands with nothing to do' -> 'had time to kill'"
+   ]
+  },
+  {
+   "id": "10:c584",
+   "op": "text",
+   "before": "The sound of his own footsteps climbing the stairs one by one echoed through the silent space.\nSomehow, he had come to feel solemn.{p}",
+   "en": "The sound of his own footsteps climbing the stairs one by one echoed through the silent space.\nSomehow, a solemn feeling had come over him.{p}",
+   "edit_notes": [
+    "10:c584: EDIT - stiff 'he had come to feel solemn' -> 'a solemn feeling had come over him'"
+   ]
+  },
+  {
+   "id": "10:dfb8",
+   "op": "text",
+   "before": "Aizawa was beaten like a punching bag.\nBeaten and battered, Aizawa screamed,\n\"I'm sorry, but I just had to know.\nIf a person falls off a roof, do they die, or what happens?\"\nThat was the reason he gave, I'm told.\nAnd then Kuwahata,{p}",
+   "en": "Aizawa was beaten like a punching bag.\nBattered and bruised, Aizawa screamed,\n\"I'm sorry, but I just had to know.\nIf a person falls off a roof, do they die, or what happens?\"\nThat was the reason he gave, I'm told.\nAnd then Kuwahata,{p}",
+   "edit_notes": [
+    "10:dfb8: EDIT - 'beaten... Beaten and battered' repetition -> 'Battered and bruised'"
+   ]
+  },
+  {
+   "id": "10:e3fc",
+   "op": "text",
+   "before": "Aizawa said this, and the two of them hurried down the stairs to see whether the teacher was dead or alive.\nIt was after school and the place was deserted, so luckily no one came to gather around.{p}",
+   "en": "Aizawa said this, and the two of them hurried down the stairs to see whether the teacher was dead or alive.\nIt was after school and the place was deserted, so luckily no crowd gathered.{p}",
+   "edit_notes": [
+    "10:e3fc: EDIT - clumsy 'no one came to gather around' -> 'no crowd gathered'"
+   ]
+  },
+  {
+   "id": "10:eaa4",
+   "op": "text",
+   "before": "Then he saw Kuwahata's and the teacher's faces floating in midair.\nThey looked happy, and they were saying this:\n\"How wonderful.\"\n\"Magnificent.\"\n\"Come on, Aizawa, you too.\"\n\"It's all thanks to you, Aizawa.\nWho knew it'd be such a great place?\"\n\"Kuwahata, by rights this isn't a place someone like you should be able to come.\"\n\"Aw, don't say that.\"\nAizawa had always been interested in jumping.\nHe couldn't hold himself back any longer.\n\"Kuwahata... Sir...\"\nHe climbed over the railing and jumped.{p}",
+   "en": "Then he saw Kuwahata's and the teacher's faces floating in midair.\nThey looked happy, and they were saying this:\n\"How wonderful.\"\n\"Magnificent.\"\n\"Come on, Aizawa, you too.\"\n\"It's all thanks to you, Aizawa.\nWho knew it'd be such a great place?\"\n\"Kuwahata, by rights someone like you shouldn't be able to come here.\"\n\"Aw, don't say that.\"\nAizawa had always been interested in jumping.\nHe couldn't hold himself back any longer.\n\"Kuwahata... Sir...\"\nHe climbed over the railing and jumped.{p}",
+   "edit_notes": [
+    "10:eaa4: EDIT - teacher's line 'this isn't a place someone like you should be able to come' -> 'someone like you shouldn't be able to come here'"
+   ]
+  },
+  {
+   "id": "10:f6cc",
+   "op": "text",
+   "before": "This time too, he waited for an opening with the delinquent he had called out, then made him inhale chloroform he'd prepared in advance.\nThe delinquent went limp at once, without even a chance to resist.\nAizawa pushed him off, just as he had Kuwahata.{p}",
+   "en": "This time too, he called out a delinquent, waited for an opening, and made him inhale chloroform he'd prepared in advance.\nThe delinquent went limp at once, without even a chance to resist.\nAizawa pushed him off, just as he had Kuwahata.{p}",
+   "edit_notes": [
+    "10:f6cc: EDIT - tangled 'waited for an opening with the delinquent he had called out' -> sequential actions, same meaning"
+   ]
+  },
+  {
+   "id": "10:fda4",
+   "op": "text",
+   "before": "The next day, the school was in an uproar.\nNot because Aizawa's body had been found.\nBut because, after the two who had gone missing, another two had gone missing.\nIn other words, Aizawa's body had gone off somewhere too.\nThe police began searching for the four of them, but nothing definite turned up.\nThere were reports that the four had been seen shuffling along a road on the day Aizawa went missing, but...\nIt was decided that they had run away from home.\nIn the end, the only ones who know the truth are me and all of you.{p}",
+   "en": "The next day, the school was in an uproar.\nNot because Aizawa's body had been found.\nBut because, on top of the two who had already gone missing, two more had gone missing.\nIn other words, Aizawa's body had gone off somewhere too.\nThe police began searching for the four of them, but nothing definite turned up.\nThere were reports that the four had been seen shuffling along a road on the day Aizawa went missing, but...\nIt was decided that they had run away from home.\nIn the end, the only ones who know the truth are all of you and me.{p}",
+   "edit_notes": [
+    "10:fda4: EDIT - 'after the two who had gone missing, another two had gone missing' -> 'on top of the two who had already gone missing, two more'; 'me and all of you' -> 'all of you and me'"
+   ]
+  },
+  {
+   "id": "10:10acc",
+   "op": "text",
+   "before": "So this time, Aizawa decided to try strangling his prey.\nHe tightened his grip carefully, so as not to kill.\nAnd then the friend went limp.\nAizawa tried to stuff his guinea pig into the burlap sack he'd prepared in advance.\nThat was when he realized the friend was dead.{p}",
+   "en": "So this time, Aizawa decided to try strangling his prey.\nHe tightened his grip carefully, so as not to kill him.\nAnd then the friend went limp.\nAizawa tried to stuff his guinea pig into the burlap sack he'd prepared in advance.\nThat was when he realized the friend was dead.{p}",
+   "edit_notes": [
+    "10:10acc: EDIT - 'so as not to kill' missing object -> 'so as not to kill him'"
+   ]
+  },
+  {
+   "id": "11:1400",
+   "op": "text",
+   "before": "You know the soccer club is split into a first team and a second team, don't you?\nAnd the second-team players, which is to say people like us, were made to hold a training camp at school.\nOf course, our treatment and our standing were different from the first team's core players, the regulars included.\nFirst-team players don't stay overnight at school.\nWe hardly ever even got to see them.\nHowever you looked at it, we had neither the talent nor the grit to move up to the first team.\nIf anything, rather than getting stronger or winning tournaments, I'd have been happy just to have fun in club activities.\nBut according to the first-team people, that makes you a loser.\nThe second team is a bunch of losers like that.\nPlayers get dropped from the first team to the second, but almost nobody ever moves up from the second to the first.\nBut for me, that actually made it easier.\nSo what if you're a loser, as long as you're having fun?{p}",
+   "en": "You know the soccer club is split into a first team and a second team, don't you?\nAnd the second-team players, which is to say people like us, were made to hold a training camp at school.\nOf course, we didn't get the same treatment or standing as the first team's core players, the regulars included.\nFirst-team players don't stay overnight at school.\nWe hardly ever even got to see them.\nHowever you looked at it, we had neither the talent nor the grit to move up to the first team.\nIf anything, rather than getting stronger or winning tournaments, I'd have been happy just to have fun in club activities.\nBut according to the first-team people, that makes you a loser.\nThe second team is a bunch of losers like that.\nPlayers get dropped from the first team to the second, but almost nobody ever moves up from the second to the first.\nBut for me, that actually made it easier.\nSo what if you're a loser, as long as you're having fun?{p}",
+   "edit_notes": [
+    "11:1400: EDIT - clumsy comparison 'our treatment and our standing were different from the ... players' smoothed"
+   ]
+  },
+  {
+   "id": "11:17ac",
+   "op": "text",
+   "before": "...I see.\nSo you and I stand on different sides, {a}.{p}",
+   "en": "...I see.\nSo you're on a different side from me, {a}.{p}",
+   "edit_notes": [
+    "11:17ac: EDIT - returns note: aligned with its echo 11:da1c ('on a different side from me'), keeping the ruling/ruled-side motif",
+    "11:da1c: EDIT - returns note settled: last line now 'So you and I stand on different sides, {a}.' to match its echo 11:17ac as it currently reads in E023 (ruling/ruled motif)."
+   ]
+  },
+  {
+   "id": "11:23e0",
+   "op": "text",
+   "before": "\"...Looks like it's only here.\"\nWith that, Sodeyama tossed his bag up onto the top bunk of a bed far from the entrance.\nThe bed to its right was empty.\n\"Then I'll take this one.\"\nI put my things on the bed to the right of the one Sodeyama had chosen.\n\"...Hey, that guy picked bed number 4.\"\n\"...Yeah.\nWhat an idiot.\"\nI didn't miss the two guys whispering to each other nearby.{p}",
+   "en": "\"...Looks like this is the only spot.\"\nWith that, Sodeyama tossed his bag up onto the top bunk of a bed far from the entrance.\nThe bed to its right was empty.\n\"Then I'll take this one.\"\nI put my things on the bed to the right of the one Sodeyama had chosen.\n\"...Hey, that guy picked bed number 4.\"\n\"...Yeah.\nWhat an idiot.\"\nI didn't miss the two guys whispering to each other nearby.{p}",
+   "edit_notes": [
+    "11:23e0: EDIT - returns note: stiff 'Looks like it's only here' -> natural spoken line"
+   ]
+  },
+  {
+   "id": "11:2894",
+   "op": "text",
+   "before": "From that day on, the grueling practices began.\nBut after dinner we had free time, so we could relax.\nEveryone had brought handheld video game consoles or portable CD players.\nThose who hadn't brought manga or novels, or cards and games instead, and everyone passed the time in their own way on their beds.\nSodeyama and I talked about all sorts of things, our studies and our hobbies.\nGood times always fly by.{p}",
+   "en": "From that day on, the grueling practices began.\nBut after dinner we had free time, so we could relax.\nEveryone had brought handheld video game consoles or portable CD players.\nThose who hadn't brought them had manga or novels, or cards and games instead, and everyone passed the time in their own way on their beds.\nSodeyama and I talked about all sorts of things, our studies and our hobbies.\nGood times always fly by.{p}",
+   "edit_notes": [
+    "11:2894: EDIT - garbled sentence read as 'those who hadn't brought manga'; restored the missing verb"
+   ]
+  },
+  {
+   "id": "11:2a48",
+   "op": "text",
+   "before": "Lights-out came, and worn out from practice, we fell asleep right away.\nIt seemed some people stayed up talking late, but I fell asleep right away, too.\nI only remember having the feeling that Sodeyama was moaning in his sleep during the night.{p}",
+   "en": "Lights-out came, and worn out from practice, we fell asleep right away.\nIt seemed some people stayed up talking late, but I fell asleep right away, too.\nAll I remember is a vague sense that Sodeyama was moaning in his sleep during the night.{p}",
+   "edit_notes": [
+    "11:2a48: EDIT - stiff 'I only remember having the feeling that' smoothed"
+   ]
+  },
+  {
+   "id": "11:30fc",
+   "op": "text",
+   "before": "Days like that went on for a while.\nAnd day by day, Sodeyama's health and color got worse.\nHe looked like someone you couldn't tell was alive or dead.\nAnd along with it, the bruise on his right hand grew bigger too, stamping its mark ever more clearly, a dark, murky black.{p}",
+   "en": "Days like that went on for a while.\nAnd day by day, Sodeyama's health and color got worse.\nHe looked as if you couldn't tell whether he was alive or dead.\nAnd along with it, the bruise on his right hand grew bigger too, stamping its mark ever more clearly, a dark, murky black.{p}",
+   "edit_notes": [
+    "11:30fc: EDIT - ungrammatical relative clause fixed"
+   ]
+  },
+  {
+   "id": "11:3998",
+   "op": "text",
+   "before": "...But what I'd taken for a blanket was a living thing.\nAn unknowable creature like a caterpillar, its whole body wrapped in a pale brown, blanket-like cloth, was lying over Sodeyama.\n\"Ah!\"\nI cried out before I could stop myself.\nThe instant I did, the thing stopped moving.{p}",
+   "en": "...But what I'd taken for a blanket was a living thing.\nA nameless, caterpillar-like creature, its whole body wrapped in a pale brown, blanket-like cloth, was lying over Sodeyama.\n\"Ah!\"\nI cried out before I could stop myself.\nThe instant I did, the thing stopped moving.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:3dd0",
+   "op": "text",
+   "before": "Then all of a sudden, it opened its mouth wide.\nIt was a mouth so huge it looked like it could swallow a human head in one gulp.\n...I couldn't run away.\nStrangely, I even forgot to run.\nFear left me unable to move, and that tangled together with the shock of meeting something unknown; my five senses were stolen from me.\nIt kept glaring at me, its huge mouth still wide open.{p}I couldn't run away. What do you think I did?\n",
+   "en": "Then all of a sudden, it opened its mouth wide.\nIt was a mouth so huge it looked like it could swallow a human head in one gulp.\n...I couldn't run away.\nStrangely, I even forgot to run.\nFear had frozen me in place, and tangled up with it was the shock of meeting something unknown; between them, my five senses were stolen from me.\nIt kept glaring at me, its huge mouth still wide open.{p}I couldn't run away. What do you think I did?\n",
+   "edit_notes": [
+    "11:3dd0: EDIT - clumsy run-on clarified, imagery kept"
+   ]
+  },
+  {
+   "id": "11:3fc8",
+   "op": "text",
+   "before": "You know, I don't know myself what came over me, but I spat.{p}",
+   "en": "I don't know what came over me myself, but I spat.{p}",
+   "edit_notes": [
+    "11:3fc8: EDIT - clunky 'You know, I don't know' doubled phrasing"
+   ]
+  },
+  {
+   "id": "11:4530",
+   "op": "text",
+   "before": "Even if I told anyone what happened to Sodeyama, there was no way they'd believe me.\nSo I kept quiet.\nBut even if I kept quiet, Sodeyama had disappeared, that was a fact, and I was the one who'd been with him until the end, so I figured I'd be questioned.\nBut nothing happened.\nThe moment it came out that Sodeyama had been sleeping in bed number 4, I was called in by the principal.{p}",
+   "en": "Even if I told anyone what happened to Sodeyama, there was no way they'd believe me.\nSo I kept quiet.\nBut even if I kept quiet, the fact remained that Sodeyama had disappeared, and I was the one who'd been with him until the end, so I figured I'd be questioned.\nBut nothing happened.\nThe moment it came out that Sodeyama had been sleeping in bed number 4, I was called in by the principal.{p}",
+   "edit_notes": [
+    "11:4530: EDIT - spliced 'Sodeyama had disappeared, that was a fact' smoothed"
+   ]
+  },
+  {
+   "id": "11:508c",
+   "op": "text",
+   "before": "...That's right, inside the lodge.\nBelieve it or not, he'd been in the soccer club, the same as me.\nWell, he'd already graduated by the time I joined, so I never met him.\nAnyway, about this Reaper Pencil.\nThey say that if you use it, you can do automatic writing.\nThe pencil's power moves your hand on its own, and it writes out a certain message.\nNow, about that message.\nApparently it reveals what the person using the Reaper Pencil will do that will get them killed.\nFor example, 'running out into the road,' or 'getting into a fight with someone'...\nThey say it's a pencil that can predict that kind of thing.\nWhat I'm going to tell you is something that happened involving this Reaper Pencil.\nIt was last summer.\nDuring the soccer club's training camp, a boy found the Reaper Pencil.\nHis name was Michio Yamamoto.{p}",
+   "en": "...That's right, inside the lodge.\nBelieve it or not, he'd been in the soccer club, the same as me.\nWell, he'd already graduated by the time I joined, so I never met him.\nAnyway, about this Reaper Pencil.\nThey say that if you use it, you can do automatic writing.\nThe pencil's power moves your hand on its own, and it writes out a certain message.\nNow, about that message.\nApparently it reveals the very thing that will get the person using the Reaper Pencil killed.\nFor example, 'running out into the road,' or 'getting into a fight with someone'...\nThey say it's a pencil that can predict that kind of thing.\nWhat I'm going to tell you is something that happened involving this Reaper Pencil.\nIt was last summer.\nDuring the soccer club's training camp, a boy found the Reaper Pencil.\nHis name was Michio Yamamoto.{p}",
+   "edit_notes": [
+    "11:508c: EDIT - convoluted 'what the person ... will do that will get them killed' clarified"
+   ]
+  },
+  {
+   "id": "11:78b0",
+   "op": "text",
+   "before": "Something like human hair.\nI thought, you know.\nCould this be...\nSodeyama's head...?\n",
+   "en": "Something like human hair.\nAnd it crossed my mind.\nCould this be...\nSodeyama's head...?\n",
+   "edit_notes": [
+    "11:78b0: EDIT - returns note: stiff 'I thought, you know.' before the fragment smoothed"
+   ]
+  },
+  {
+   "id": "11:868c",
+   "op": "text",
+   "before": "Sodeyama tried to shove the Upside-Down Woman away.\nBut he was so tense that there was no strength in his hands.\nThe Upside-Down Woman goggled her eyes at Sodeyama and threatened him.\n\"Promise me, or I'll leave you covered in blood...\"\nHearing that, Sodeyama made the promise.\nThat he wouldn't tell anyone he'd met the Upside-Down Woman.\nBut that voice of the Upside-Down Woman's...{p}",
+   "en": "Sodeyama tried to shove the Upside-Down Woman away.\nBut he was so tense that there was no strength in his hands.\nThe Upside-Down Woman glared at Sodeyama with bulging eyes and threatened him.\n\"Promise me, or I'll leave you covered in blood...\"\nHearing that, Sodeyama made the promise.\nThat he wouldn't tell anyone he'd met the Upside-Down Woman.\nBut that voice of the Upside-Down Woman's...{p}",
+   "edit_notes": [
+    "11:868c: EDIT - odd 'goggled her eyes at' -> natural phrasing"
+   ]
+  },
+  {
+   "id": "11:87c4",
+   "op": "text",
+   "before": "I see.\nSo that's the kind of story you like.\nThe story I'm about to tell is meant for someone exactly like you.\nFirst, before I tell you about the thing I mentioned that appears in the lodge, there's something I need to tell you.\nListen carefully.\nIt's about the habits of insects.\nYou know... when people keep or catch bugs, they use a bug cage, right?\nAnd bugs that get shoved into a bug cage want to get out, don't they?\nWhen that happens, some bugs try to push their heads through the bars of the cage.\nA bug like that can't get its body out through the bars, so it tries to pull back into the cage the head it went to all that trouble to get out.\nAnd then...\nSometimes it can't pull it back in properly, it catches on the bars, and the bug's head comes right off.\nThe head that came off rolls outside the bars, and inside the cage lies a headless bug carcass.{p}",
+   "en": "I see.\nSo that's the kind of story you like.\nThe story I'm about to tell is meant for someone exactly like you.\nFirst, before I tell you about the thing I mentioned that appears in the lodge, there's something I need to tell you.\nListen carefully.\nIt's about the habits of insects.\nYou know... when people keep or catch bugs, they use a bug cage, right?\nAnd bugs that get shoved into a bug cage want to get out, don't they?\nWhen that happens, some bugs try to push their heads through the bars of the cage.\nA bug like that can't get its body out through the bars, so it tries to pull its head, which it went to all that trouble to get out, back into the cage.\nAnd then...\nSometimes it can't pull it back in properly, it catches on the bars, and the bug's head comes right off.\nThe head that came off rolls outside the bars, and inside the cage lies a headless bug carcass.{p}",
+   "edit_notes": [
+    "11:87c4: EDIT - inverted object made the sentence hard to follow"
+   ]
+  },
+  {
+   "id": "11:a9ac",
+   "op": "text",
+   "before": "\"N-Naoko...\"\nTakeda was sitting on one of the beds.\n\"Why the hell did you run away from home?\nYou're getting us into all kinds of trouble.\"\n\"Yeah, hurry up and go home already.\"\nSaying that, they laid into her and shoved her around.\nJust then, they heard a cat.{p}",
+   "en": "\"N-Naoko...\"\nTakeda was sitting on one of the beds.\n\"Why'd you go and run away from home?\nYou're getting us into all kinds of trouble.\"\n\"Yeah, hurry up and go home already.\"\nSaying that, they laid into her and shoved her around.\nJust then, they heard a cat.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:afa4",
+   "op": "text",
+   "before": "The next day, there was a search for the missing girls.\nWitnesses said the girls had gone toward the lodge, and when people went looking there, they found bodies that looked as if animals had torn them apart and fed on them.\nOfficially, it was put down to wild dogs, but nothing about it added up.\nEven now, students who stay there say they woke up in the morning with cat scratches, or heard cats crying.\nWhen I was at training camp, I woke up in the morning and found cat scratches on me, so I quit the soccer team that same day.\nI was convinced the rumors were true.\nHm? Takeda, you mean?\nShe graduated last year.\nThe story I just told you is only a rumor, after all.\nBut they say Takeda still comes to the lodge from time to time.\nAnd that the cries of cats echo through the school at night.\nMaybe someone else has become cat food again.\nThat's the end of my story.\nNext, please.{p}",
+   "en": "The next day, there was a search for the missing girls.\nWitnesses said the girls had gone toward the lodge, and when people went looking there, they found bodies that looked as if animals had torn them apart and fed on them.\nOfficially, it was put down to wild dogs, but nothing about it added up.\nEven now, students who stay there say they woke up in the morning with cat scratches, or heard cats crying.\nWhen I was at training camp, I woke up in the morning and found cat scratches on me, so I quit the soccer club that same day.\nI was convinced the rumors were true.\nHm? Takeda, you mean?\nShe graduated last year.\nThe story I just told you is only a rumor, after all.\nBut they say Takeda still comes to the lodge from time to time.\nAnd that the cries of cats echo through the school at night.\nMaybe someone else has become cat food again.\nThat's the end of my story.\nNext, please.{p}",
+   "edit_notes": [
+    "11:afa4: EDIT - consistency: 'soccer club' everywhere else in the chunk"
+   ]
+  },
+  {
+   "id": "11:bd40",
+   "op": "text",
+   "before": "The next day, the bullies had vanished.\nAnd strangely enough, there were exactly as many cats as there were missing girls.\nThe police searched for them, but they were never found.\nIn the end, it was decided they had run away from home.\nHm? The cats from that night, you mean?\nThey did nothing but cry, and people found them creepy, so no one would take them.\nSo they were taken to the pound.\nI heard this later, but apparently those cats were handed over to a university hospital and became lab animals.\nDo you know what they do to lab animals?\nThey make them sick on purpose, and dissect them without anesthesia.\nBecause, supposedly, with anesthesia they can't get accurate data.\nWhat? You don't think that's disgusting?\n{a}, go look into it yourself. Lab animals.\nIf you go to the library, you'll find out.\nIt's beyond anything you can imagine.\nAnd what's more, those lab animals used to be human..................\nThat's what I think, anyway.\nBecause they appear, you see. In the lodge...\nThe ghosts of those girls, with their bellies ripped open, or turned into specimens.\nWhen I heard that story, I quit the soccer team.\nI don't want to stay overnight in that lodge.\nIf you think it's just a rumor, why don't you try staying there yourself?\nStill, I think that's the reason so many people quit the sports teams after summer vacation.\nWell, anyway, I'll end my story here.\nI'd rather not picture it too much.\nNext, please.{p}",
+   "en": "The next day, the bullies had vanished.\nAnd strangely enough, there were exactly as many cats as there were missing girls.\nThe police searched for them, but they were never found.\nIn the end, it was decided they had run away from home.\nHm? The cats from that night, you mean?\nThey did nothing but cry, and people found them creepy, so no one would take them.\nSo they were taken to the pound.\nI heard this later, but apparently those cats were handed over to a university hospital and became lab animals.\nDo you know what they do to lab animals?\nThey make them sick on purpose, and dissect them without anesthesia.\nBecause, supposedly, with anesthesia they can't get accurate data.\nWhat? You don't think that's disgusting?\n{a}, go look into it yourself. Lab animals.\nIf you go to the library, you'll find out.\nIt's beyond anything you can imagine.\nAnd what's more, those lab animals used to be human..................\nThat's what I think, anyway.\nBecause they appear, you see. In the lodge...\nThe ghosts of those girls, with their bellies ripped open, or turned into specimens.\nWhen I heard that story, I quit the soccer club.\nI don't want to stay overnight in that lodge.\nIf you think it's just a rumor, why don't you try staying there yourself?\nStill, I think that's the reason so many people quit the athletic clubs after summer vacation.\nWell, anyway, I'll end my story here.\nI'd rather not picture it too much.\nNext, please.{p}",
+   "edit_notes": [
+    "11:bd40: EDIT - consistency: 'soccer club'",
+    "11:bd40: EDIT - consistency with 'athletic clubs' (11:10e0, 11:1ae0)"
+   ]
+  },
+  {
+   "id": "11:ca80",
+   "op": "text",
+   "before": "When Takeda had answered, she suddenly vanished, cats and all.\nAnd there, a few cats had been left behind.\n\"C-cats...\"\n\"Wh-what do we do?\"\n\"But if we don't keep our promise.......\"\nEach of them took one cat home.{p}",
+   "en": "As soon as Takeda answered, she suddenly vanished, cats and all.\nA few cats were left behind where she had been.\n\"C-cats...\"\n\"Wh-what do we do?\"\n\"But if we don't keep our promise.......\"\nEach of them took one cat home.{p}",
+   "edit_notes": [
+    "11:ca80: EDIT - awkward 'When Takeda had answered' / 'And there, a few cats had been left behind' smoothed"
+   ]
+  },
+  {
+   "id": "11:d1a4",
+   "op": "text",
+   "before": "After that, the girls who had taken the cats home died strange deaths one after another: one had her head crushed by something falling at a construction site, another went headfirst through the glass of a door.\nWhy that happened to them, we can only imagine.\nMost likely, they didn't take proper care of their cats.\nThey say there was always a cat at the scene of each accident.\nMaybe leaving those cats with them was Takeda giving them one last chance.\nAnd ever since, they say something haunts the lodge.\nThe headless ghosts of those girls drift around in the middle of the night, searching for their heads.\nAs soon as I heard that story, I quit the soccer team.\nAs they say, what you don't touch can't curse you.\n{a}, maybe you'd better not pick up stray cats so casually.\nBut actually, there's still one of them left, you know: a girl who's still keeping the cat Takeda left with her.\nI hear she takes very good care of it.\nThough who knows how long that will last.\nIf you know a student at this school who keeps a cat, it might be her.\nThat's the end of my story.\nNext, please.{p}",
+   "en": "After that, the girls who had taken the cats home died strange deaths one after another: one had her head crushed by something falling at a construction site, another went headfirst through the glass of a door.\nWhy that happened to them, we can only imagine.\nMost likely, they didn't take proper care of their cats.\nThey say there was always a cat at the scene of each accident.\nMaybe leaving those cats with them was Takeda giving them one last chance.\nAnd ever since, they say something haunts the lodge.\nThe headless ghosts of those girls drift around in the middle of the night, searching for their heads.\nAs soon as I heard that story, I quit the soccer club.\nAs they say, what you don't touch can't curse you.\n{a}, maybe you'd better not pick up stray cats so casually.\nBut actually, there's still one of them left, you know: a girl who's still keeping the cat Takeda left with her.\nI hear she takes very good care of it.\nThough who knows how long that will last.\nIf you know a student at this school who keeps a cat, it might be her.\nThat's the end of my story.\nNext, please.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:d78c",
+   "op": "text",
+   "before": "...I don't know what happened after that.\nAll I know is that the next day, several half-eaten corpses were found there.\nThe bodies were so mangled that no one could tell for sure who they were.\nThe heads especially had almost no flesh left on them, and not a trace of their brains remained.\nAnd along with signs that cats had attacked them, there were also marks as if a person had bitten chunks out of them.\nEver since, they say the girls' ghosts appear in the lodge, searching for their own brains.\nWhen I stayed there for training camp, I happened to see those ghosts, you see.\nThat's why I decided to quit the soccer team.\nI have no intention of joining any other sports team from now on, either.\nI never want to use that lodge again.\nThat's the end of my story.\nNext person, please.{p}",
+   "en": "...I don't know what happened after that.\nAll I know is that the next day, several half-eaten corpses were found there.\nThe bodies were so mangled that no one could tell for sure who they were.\nThe heads especially had almost no flesh left on them, and not a trace of their brains remained.\nAnd along with signs that cats had attacked them, there were also marks as if a person had bitten chunks out of them.\nEver since, they say the girls' ghosts appear in the lodge, searching for their own brains.\nWhen I stayed there for training camp, I happened to see those ghosts, you see.\nThat's why I decided to quit the soccer club.\nI have no intention of joining any other athletic club from now on, either.\nI never want to use that lodge again.\nThat's the end of my story.\nNext person, please.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:da1c",
+   "op": "text",
+   "before": "What a rude way to put it.\nNormally, people would try a little harder to smooth it over.\nCalling someone a loser like that... you must be a very important person.\nSo you're on a different side from me, {a}.{p}",
+   "en": "What a rude way to put it.\nNormally, people would try a little harder to smooth it over.\nCalling someone a loser like that... you must be a very important person.\nSo you and I stand on different sides, {a}.{p}",
+   "edit_notes": [
+    "11:17ac: EDIT - returns note: aligned with its echo 11:da1c ('on a different side from me'), keeping the ruling/ruled-side motif",
+    "11:da1c: EDIT - returns note settled: last line now 'So you and I stand on different sides, {a}.' to match its echo 11:17ac as it currently reads in E023 (ruling/ruled motif)."
+   ]
+  },
+  {
+   "id": "11:df7c",
+   "op": "text",
+   "before": "With a loud crackling, a pale blue light appeared.\nWhen he finished the spell, one of the men said this:\n\"We offer up the sacrifice.\"\nThen my body floated up and drifted toward the pale blue light behind the men.\n...I sensed that I was going to die.\nBut I did manage to get away, you know.\nAs my body passed over the men's heads, I reached out and pulled off one of their masks.\nIt was easier than I'd expected.\nThe man couldn't resist in time.\nI peered into the man's face.\n\"...M-Moriyama...\"\nTo my surprise, the man was the captain of the soccer team.\nAnd then he grinned at me.\nThat grin turned my sense of coming death into certainty.\nMy body kept drawing closer and closer to the pale blue light.{p}",
+   "en": "With a loud crackling, a pale blue light appeared.\nWhen he finished the spell, one of the men said this:\n\"We offer up the sacrifice.\"\nThen my body floated up and drifted toward the pale blue light behind the men.\n...I sensed that I was going to die.\nBut I did get away in the end, you know.\nAs my body passed over the men's heads, I reached out and pulled off one of their masks.\nIt was easier than I'd expected.\nThe man couldn't resist in time.\nI peered into the man's face.\n\"...M-Moriyama...\"\nTo my surprise, the man was the captain of the soccer club.\nAnd then he grinned at me.\nThat grin turned my sense of coming death into certainty.\nMy body kept drawing closer and closer to the pale blue light.{p}",
+   "edit_notes": [
+    "11:df7c: EDIT - 'But I did manage to get away' read as a contradiction of the next lines (body still drawn toward the light); 'I did get away in the end' keeps the source's foreshadowing clear."
+   ]
+  },
+  {
+   "id": "11:e5dc",
+   "op": "text",
+   "before": "I found out later that some of the seniors, with Moriyama as their representative, had summoned a demon and wished for victory at the upcoming prefectural tournament.\nThe paper that got torn up that night was a contract with the demon.\nBecause the contract was torn up, Moriyama, as their representative, became the sacrifice. That's how it worked.\nPerhaps thanks to that, the soccer team won the prefectural tournament.\nAnd Sodeyama and I quit the soccer team right away.\n...But that wasn't the end of it, you know.\nJust between us, I hear Moriyama had once slept in Bed 4 too.\nAnd from that day on, he started secretly summoning the demon, or so they say...\nListen, {a}.\nThat lodge is... haunted, you know.\nBy a demon.\nEven now, I imagine it tempts the students who sleep in Bed 4 into making contracts, or squeezes the life out of them as sacrifices.\nThis school is famous for sports, but there are rumors that every sports team offers sacrifices to the demon.\nEvery year, a number of new students go missing, and I hear they're all students who used Bed 4.\nThe school knows about these incidents and silently lets them happen.\nI don't need to tell you why.\n{a}, if you ever join a sports team, please be careful.\nThere's no telling how else they might make you a sacrifice.\nThat concludes my story.\nNext, please.{p}",
+   "en": "I found out later that some of the seniors, with Moriyama as their representative, had summoned a demon and wished for victory at the upcoming prefectural tournament.\nThe paper that got torn up that night was a contract with the demon.\nBecause the contract was torn up, Moriyama, as their representative, became the sacrifice. That's how it worked.\nPerhaps thanks to that, the soccer club won the prefectural tournament.\nAnd Sodeyama and I quit the soccer club right away.\n...But that wasn't the end of it, you know.\nJust between us, I hear Moriyama had once slept in Bed 4 too.\nAnd from that day on, he started secretly summoning the demon, or so they say...\nListen, {a}.\nThat lodge is... haunted, you know.\nBy a demon.\nEven now, I imagine it tempts the students who sleep in Bed 4 into making contracts, or squeezes the life out of them as sacrifices.\nThis school is famous for sports, but there are rumors that every sports club offers sacrifices to the demon.\nEvery year, a number of new students go missing, and I hear they're all students who used Bed 4.\nThe school knows about these incidents and silently lets them happen.\nI don't need to tell you why.\n{a}, if you ever join an athletic club, please be careful.\nThere's no telling how else they might make you a sacrifice.\nThat concludes my story.\nNext, please.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:ef44",
+   "op": "text",
+   "before": "The day after I saw the monster, Sodeyama came to school.\nWith the emptiest eyes you could imagine.\nAnd after that, it seems he would sometimes sneak into that lodge.\nAnd here's the strange part...\nIt seems the teachers saw him and pretended not to notice.\nThen, a few days later, Sodeyama disappeared.\nThe school told us,\n\"Sodeyama has transferred to another school.\"\nThat's what they said, anyway.\nI find that a little hard to believe.\nWhat on earth was going on, I wonder?\nThe monster that appears at Bed 4...\nDoes that mean they were handing students over to that thing as sacrifices?\n.........I really don't know.\n{a}.\nIf you ever end up using that lodge, why not try sleeping in Bed 4?\nWon't you get to the bottom of this mystery in my place...?\nOh, I see.\nYou don't want to?\nWell, you're one of the people on the ruling side after all.\nI suppose you'd never do anything that might get your own hands dirty.\nWell then, my story ends here.\nIt was because of that incident that I quit the soccer team.\nIt was a truly strange occurrence.\n...Let's hear the next person's story.\nNow, who will be speaking next?{p}",
+   "en": "The day after I saw the monster, Sodeyama came to school.\nWith the emptiest eyes you could imagine.\nAnd after that, it seems he would sometimes sneak into that lodge.\nAnd here's the strange part...\nIt seems the teachers saw him and pretended not to notice.\nThen, a few days later, Sodeyama disappeared.\nThe school told us,\n\"Sodeyama has transferred to another school.\"\nThat's what they said, anyway.\nI find that a little hard to believe.\nWhat on earth was going on, I wonder?\nThe monster that appears at Bed 4...\nDoes that mean they were handing students over to that thing as sacrifices?\n.........I really don't know.\n{a}.\nIf you ever end up using that lodge, why not try sleeping in Bed 4?\nWon't you get to the bottom of this mystery in my place...?\nOh, I see.\nYou don't want to?\nWell, you're one of the people on the ruling side after all.\nI suppose you'd never do anything that might get your own hands dirty.\nWell then, my story ends here.\nIt was because of that incident that I quit the soccer club.\nIt was a truly strange occurrence.\n...Let's hear the next person's story.\nNow, who will be speaking next?{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:102c0",
+   "op": "text",
+   "before": "\"A-Arai...?\"\nArai got up from his seat and came toward me.\n\"It's about time I told the story to you as well.\n{a}.\nI'll tell you something good.\nThat monster didn't suck out people's timid hearts after all.\"\n\"Ara...\"\nWhat's happening to me?\nI can't move.\nAs if I'd been caught in Arai's gaze...\n\"{a}, that was a monster that sucks out a person's conscience.\nAnd so it sucked all the goodness right out of me.\nBut can something like this really happen in real life?\nIt's strange.\nTruly strange.\nI still don't really understand it.\nWhatever else it is, Bed 4 is a terrifying bed.\"{p}",
+   "en": "\"A-Arai...?\"\nArai got up from his seat and came toward me.\n\"It's about time I told you the story as well.\n{a}.\nI'll let you in on something.\nThat monster didn't suck out people's timid hearts after all.\"\n\"Ara...\"\nWhat's happening to me?\nI can't move.\nAs if I'd been caught in Arai's gaze...\n\"{a}, that was a monster that sucks out a person's conscience.\nAnd so it sucked all the goodness right out of me.\nBut can something like this really happen in real life?\nIt's strange.\nTruly strange.\nI still don't really understand it.\nWhatever else it is, Bed 4 is a terrifying bed.\"{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "11:10704",
+   "op": "text",
+   "before": "\"{a}, I'll tell you the real reason I left the soccer team.\nActually, I didn't quit; I was made to quit.\nI got into a little trouble for violence, you see.\nAfter all, I have no conscience.\nNaturally, I get the urge to lash out once or twice.\nEven if I am one of the ruled, that doesn't mean I'll put up with absolutely anything.\nHa ha ha ha... Oh, what's the matter?\nCan't you even answer me?\nYou really are rude, aren't you?\nOh, I see, your throat's squeezed so tight you can't make a sound...\"\n",
+   "en": "\"{a}, I'll tell you the real reason I left the soccer club.\nActually, I didn't quit; I was made to quit.\nI got into a little trouble for violence, you see.\nAfter all, I have no conscience.\nIt's only natural I'd want to lash out once or twice.\nEven if I am one of the ruled, that doesn't mean I'll put up with absolutely anything.\nHa ha ha ha... Oh, what's the matter?\nCan't you even answer me?\nYou really are rude, aren't you?\nOh, I see, your throat's squeezed so tight you can't make a sound...\"\n",
+   "edit_notes": [
+    "11:10704: EDIT - clumsy 'I get the urge to lash out once or twice' -> 'It's only natural I'd want to lash out once or twice.'"
+   ]
+  },
+  {
+   "id": "11:10b48",
+   "op": "text",
+   "before": "I sat up.\nMy head was aching for some reason.\nWhen I stood up, Arai lent me a hand.\nRight now, Arai's expression was gentle.\nBut I couldn't let my guard down.\nIf I said anything to make him angry here, I'd be right back on that bed.\n",
+   "en": "I sat up.\nMy head was aching for some reason.\nWhen I stood up, Arai lent me a hand.\nFor now, Arai's expression was gentle.\nBut I couldn't let my guard down.\nIf I said anything to make him angry here, I'd be right back on that bed.\n",
+   "edit_notes": [
+    "11:10b48: EDIT - tense clash 'Right now ... was' -> 'For now'."
+   ]
+  },
+  {
+   "id": "11:10d6c",
+   "op": "text",
+   "before": "Without a word, he reached for my throat.\nThis time he might not hold back.\nI felt that I had once again chosen the wrong way.\n",
+   "en": "Without a word, he reached for my throat.\nThis time he might not hold back.\nI sensed that, once again, I had taken the wrong approach.\n",
+   "edit_notes": []
+  },
+  {
+   "id": "12:1498",
+   "op": "text",
+   "before": "Heh heh... So you like sci-fi and horror?\nYou have rather vulgar taste, don't you?{p}",
+   "en": "Heh heh... So you like sci-fi and horror?\nYou have rather bad taste, don't you?{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "12:14f4",
+   "op": "text",
+   "before": "I don't much care for that type of film myself.\nAbove all, they have no class.\nThe story is just tacked on as an afterthought, and far too many of them rely on nothing but scares for the eye and special effects.\n...But movies are frightening, aren't they?\nNo, I don't mean horror movies.\nI mean film itself.\nDon't you think so?\nPeople have long said that photographs steal a person's soul, haven't they?\nNowadays we laugh that off as superstition, but back then people seriously believed it.\nThat every photo taken of you shortened your life, or that when three people are photographed together, the one in the middle dies young.\nBack then, I suppose photography must have seemed utterly uncanny.\nYour own image, sealed inside a single sheet of paper.\nIt truly was magic.\nAnd so everyone feared it.\nIt's the same with movies.\nWhen movies were first born, they caused quite a stir.\nFor example, a character in a film fires a gun right at the screen, you see?\nThey say the audience watching it fainted, thinking they'd been shot dead.\nPeople even believed that different people lived beyond that silver screen, and that they were watching the world those people lived in.\nNowadays no one believes that, of course.\n...But is it really a lie?\nWas what people believed back then truly just their imagination?\nI can't quite bring myself to think so.\nSometimes film captures things that should never be filmed, or strange things that don't exist in reality...\nI can't shake the feeling that film has that kind of uncanny power.\nWhat I'm about to tell you is the story of one such movie.{p}",
+   "en": "I don't much care for that type of film myself.\nAbove all, they have no class.\nThe story is just tacked on as an afterthought, and far too many of them rely on nothing but visual shocks and special effects.\n...But movies are frightening, aren't they?\nNo, I don't mean horror movies.\nI mean film itself.\nDon't you think so?\nPeople have long said that photographs steal a person's soul, haven't they?\nNowadays we laugh that off as superstition, but back then people seriously believed it.\nThat every photo taken of you shortened your life, or that when three people are photographed together, the one in the middle dies young.\nBack then, I suppose photography must have seemed utterly uncanny.\nYour own image, sealed inside a single sheet of paper.\nIt truly was magic.\nAnd so everyone feared it.\nIt's the same with movies.\nWhen movies were first born, they caused quite a stir.\nFor example, a character in a film fires a gun right at the screen, you see?\nThey say the audience watching it fainted, thinking they'd been shot dead.\nPeople even believed that other people lived beyond that silver screen, and that they were watching the world those people lived in.\nNowadays no one believes that, of course.\n...But is it really a lie?\nWas what people believed back then truly just their imagination?\nI can't quite bring myself to think so.\nSometimes film captures things that should never be filmed, or strange things that don't exist in reality...\nI can't shake the feeling that film has that kind of uncanny power.\nWhat I'm about to tell you is the story of one such movie.{p}",
+   "edit_notes": [
+    "12:14f4: EDIT - clumsy 'scares for the eye' -> 'visual shocks'; 'different people lived beyond' -> 'other people'"
+   ]
+  },
+  {
+   "id": "12:24fc",
+   "op": "text",
+   "before": "And so filming began on the society's memorable first production.\nI think it was right around this time last year.\n...You like horror and sci-fi movies, didn't you say?\nAs it happens, so did he.\nThe movie he set out to make was a horror film titled 'The Mummy Man and the Beauty.'\nNow, don't laugh at the title.\nWhat he wanted to make wasn't one of today's SFX films loaded with special effects; if anything, he wanted to make an old-fashioned monster movie from the golden age.\nNot that he could have pulled off flashy special effects even if he'd tried.\nSo instead of fussing over that sort of thing, he poured himself into dark direction and atmosphere, so that even a cheap monster in a simple costume and makeup would look real.{p}",
+   "en": "And so filming began on the society's memorable first production.\nI think it was right around this time last year.\n...You said you like horror and sci-fi movies, didn't you?\nAs it happens, so did he.\nThe movie he set out to make was a horror film titled 'The Mummy Man and the Beauty.'\nNow, don't laugh at the title.\nWhat he wanted to make wasn't one of today's SFX films loaded with special effects; if anything, he wanted to make an old-fashioned monster movie from the golden age.\nNot that he could have pulled off flashy special effects even if he'd tried.\nSo instead of fussing over that sort of thing, he poured himself into dark direction and atmosphere, so that even a cheap monster in a simple costume and makeup would look real.{p}",
+   "flag": "ACC",
+   "edit_notes": [
+    "12:24fc: EDIT - returns note: tense mismatch fixed -> 'You said you like horror and sci-fi movies, didn't you?' / 'As it happens, so did he.'",
+    "12:24fc: VOICE - line assumes the player likes horror/sci-fi though it is not marked follows_choice; check branch routing if needed"
+   ]
+  },
+  {
+   "id": "12:3398",
+   "op": "text",
+   "before": "Of course, the detective was played by one of the film society members.\nThe actual death scene was a simple one.\nThe detective, attacked by the mummy, runs away.\nThe mummy's hands reach for the detective's neck, and the screen goes black.\nThen comes the detective's scream.{p}",
+   "en": "Of course, the detective was played by one of the film society members.\nThe death scene they had actually shot was a simple one.\nThe detective, attacked by the mummy, runs away.\nThe mummy's hands reach for the detective's neck, and the screen goes black.\nThen comes the detective's scream.{p}",
+   "edit_notes": [
+    "12:3398: EDIT - 'The actual death scene' was ambiguous against the uncanny footage -> 'The death scene they had actually shot'"
+   ]
+  },
+  {
+   "id": "12:4290",
+   "op": "text",
+   "before": "...I'm sure you've guessed by now.\nThe girl who played the heroine was found brutally murdered.\nThey say her body was in pieces.\nOf course, I never heard the details, but Tokita knew.\nWhat state the body was in, and how she was killed.\nAnd that the proof was all recorded on that reel.\nIt was after school that very day, as I recall.\nThat Tokita came up to me and told me how realistic and amazing this movie was.{p}",
+   "en": "...I'm sure you've guessed by now.\nThe girl who played the heroine was found brutally murdered.\nThey say her body was in pieces.\nOf course, I never heard the details, but Tokita knew.\nWhat state the body was in, and how she was killed.\nAnd that the proof was all recorded on that reel.\nIt was after school that very day, as I recall.\nTokita came up to me and told me how realistic and amazing this movie was.{p}",
+   "edit_notes": [
+    "12:4290: EDIT - dangling fragment 'That Tokita came up to me...' made a full sentence"
+   ]
+  },
+  {
+   "id": "12:48f4",
+   "op": "text",
+   "before": "The clapperboard filled the screen, and the acting began.\nTake after take was called off, the same scene repeating again and again.\nIt's fascinating, you know.\n\"...Ah!\"{p}",
+   "en": "The clapperboard filled the screen, and the acting began.\nOne blown take followed another, the same scene repeating again and again.\nIt's fascinating, you know.\n\"...Ah!\"{p}",
+   "edit_notes": [
+    "12:48f4: EDIT - 'Take after take was called off' (NG) unclear -> 'One blown take followed another'"
+   ]
+  },
+  {
+   "id": "12:4ca8",
+   "op": "text",
+   "before": "\"It's going to kill me!\nIf I don't stop it fast, the mummy's going to kill me!\nEveryone dies.\nEveryone who gets attacked in this film really dies!\"\nTokita screamed in a trembling voice.\nHonestly, I didn't understand.\nIt was at that moment.\nHe told me the secret of this film.\nIf someone told you something like that, could you believe it?\nI'm sorry, but I couldn't.\nPeople dying exactly the way it happened in a film? Surely not.\nOn the screen, Tokita was quaking with terror.\nJust like the real one standing right in front of me...\n\"Eeeeek!\"{p}",
+   "en": "\"It's going to kill me!\nIf I don't stop it fast, the mummy's going to kill me!\nEveryone dies.\nEveryone who gets attacked in this film really dies!\"\nTokita screamed in a trembling voice.\nHonestly, I didn't understand.\nAnd then, at that very moment,\nhe told me the secret of this film.\nIf someone told you something like that, could you believe it?\nI'm sorry, but I couldn't.\nPeople dying exactly the way it happened in a film? Surely not.\nOn the screen, Tokita was quaking with terror.\nJust like the real one standing right in front of me...\n\"Eeeeek!\"{p}",
+   "edit_notes": [
+    "12:4ca8: EDIT - split fragment 'It was at that moment. / He told me...' joined across the line break"
+   ]
+  },
+  {
+   "id": "12:5a88",
+   "op": "text",
+   "before": "But then, how can this be?\nWhen I watched it again a while later, Tokita's murdered body was rotting more and more.\nAs if the world inside that film existed with its time flowing just like time in the real world.{p}",
+   "en": "But then, how can this be?\nWhen I watched it again a while later, Tokita's murdered body was rotting more and more.\nAs if time flowed in the world inside that film just as it does in the real world.{p}",
+   "edit_notes": [
+    "12:5a88: EDIT - convoluted time-flow sentence smoothed, same meaning"
+   ]
+  },
+  {
+   "id": "12:5b5c",
+   "op": "text",
+   "before": "After that, I started watching the film at regular intervals.\nAs if I were observing it.\nAs the months went by, Tokita turned completely into a skeleton.\nAnd before I knew it, there was no one on the screen anymore.\nThe bones were cleanly gone too, whether they'd crumbled away or someone had cleared them up.\nNot a single bone was left.\nJust the empty audiovisual room, shown flatly, on and on.\nBut when I looked closely, it wasn't so.\nI was wrong to think no one was there.\nRight beside the spot where Tokita's body had been, someone was standing there, blankly.{p}",
+   "en": "After that, I started watching the film at regular intervals.\nAs if I were observing it.\nAs the months went by, Tokita turned completely into a skeleton.\nAnd before I knew it, there was no one on the screen anymore.\nThe bones were cleanly gone too, whether they'd crumbled away or someone had cleared them up.\nNot a single bone was left.\nJust the empty audiovisual room, shown flatly, on and on.\nBut when I looked closely, it wasn't so.\nI was wrong to think no one was there.\nRight beside the spot where Tokita's body had been, someone was standing blankly.{p}",
+   "edit_notes": [
+    "12:5b5c: EDIT - doubled 'there' removed ('someone was standing blankly')"
+   ]
+  },
+  {
+   "id": "12:64ec",
+   "op": "text",
+   "before": "...You dislike them?\nI see. That's a shame.\nFrench films do choose their audience, after all.\nWhenever I ask people if they like French films, they all tell me the images are beautiful.\nBut most of them say they can't understand what the film is about, or what's so interesting about it...\nSadly...\nBy the way, {a}, could it be that you dislike films altogether?{p}",
+   "en": "...You dislike them?\nI see. That's a shame.\nFrench films do choose their audience, after all.\nWhenever I ask people if they like French films, they all tell me the images are beautiful.\nBut most of them say they can't understand what the film is about, or what's so interesting about it...\nSadly...\nBy the way, {a}, could it be that you dislike movies in general?{p}",
+   "edit_notes": [
+    "12:64ec: EDIT - echo question worded the same as 12:1224 ('dislike movies in general?'), both lead to the same choice"
+   ]
+  },
+  {
+   "id": "12:6830",
+   "op": "text",
+   "before": "If it's the usual sort of film, then...\nToday, let me tell you about a student at this school named Tokita.{p}",
+   "en": "If it's the usual sort of film, then...\nToday, let me tell you about a student at this school named Tokita.{p}",
+   "flag": "ACC",
+   "edit_notes": []
+  },
+  {
+   "id": "12:751c",
+   "op": "text",
+   "before": "\"A mummy man... So this was a film after all?\"\nBy now, he was in the mood for watching a film.\nHe was watching the cruel scenes unfolding on the video with an appreciative eye.\nHe had already broken free of the delusion that it was real footage of today.\nThen the video ended.{p}",
+   "en": "\"The Mummy Man... So this was a film after all?\"\nBy now, he was in the mood for watching a film.\nHe was watching the cruel scenes unfolding on the video with an appreciative eye.\nHe had already broken free of the delusion that it was real footage of today.\nThen the video ended.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "12:762c",
+   "op": "text",
+   "before": "For a while, Tokita just sat there in a daze.\nBecause amid the clumsy direction, scenes with a force like nothing he had ever seen had unfolded.\nThe mummy man had chased a high school girl and mercilessly torn her apart until she died.\n\"It must be an indie film.\nIf the school is the setting, someone connected with the school must have made it.\"\nOnce he thought that, he couldn't rest until he had found the tape's owner.\nHe wanted to see what came next... no, he wanted to see the finished film. With that thought, he went to bed.\nAnd it was already starting to get light by the time he finally drifted off to sleep.{p}",
+   "en": "For a while, Tokita just sat there in a daze.\nBecause amid the clumsy direction, there had been scenes with a force unlike anything he had ever seen.\nThe Mummy Man had chased a high school girl and mercilessly torn her apart until she died.\n\"It must be an indie film.\nIf the school is the setting, someone connected with the school must have made it.\"\nOnce he thought that, he couldn't rest until he had found the tape's owner.\nHe wanted to see what came next... no, he wanted to see the finished film. With that thought, he went to bed.\nAnd it was already starting to get light by the time he finally drifted off to sleep.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "12:7978",
+   "op": "text",
+   "before": "Lying in a corner of the ground there was a scrap of bandage.\nAt that moment, Tokita understood.\nThe footage on that video had really happened.\nAnd from then on, he couldn't get the scenes from that video out of his head.\nApparently the police investigated the murder as the work of a deranged person.\nBut Tokita alone was certain the truth of the case lay elsewhere.{p}",
+   "en": "There on the ground, off in a corner, lay a scrap of bandage.\nAt that moment, Tokita understood.\nThe footage on that video had really happened.\nAnd from then on, he couldn't get the scenes from that video out of his head.\nApparently the police investigated the murder as the work of a deranged person.\nBut Tokita alone was certain the truth of the case lay elsewhere.{p}",
+   "edit_notes": [
+    "12:7978: EDIT - clumsy 'Lying in a corner of the ground there was' -> 'There on the ground, off in a corner, lay'"
+   ]
+  },
+  {
+   "id": "12:7f40",
+   "op": "text",
+   "before": "In the schoolyard, ropes had been strung up around the spot where the high school girl was killed.\nThere was no body where the officer had been killed in the video.\n\"Looks like it hasn't happened yet.\"\nHe was certain that a police officer was going to be killed.\nAnd so Tokita waited.\nHe waited a long time.\nBut everything around him was hushed and still.\nNow and then, a patrol car drove past.\n\"If I keep hanging around like this, they'll get suspicious of me.\"\nIt was just as he was about to head home.{p}",
+   "en": "In the schoolyard, ropes had been strung up around the spot where the high school girl was killed.\nThere was no body at the spot where the officer had been killed in the video.\n\"Looks like it hasn't happened yet.\"\nHe was certain that a police officer was going to be killed.\nAnd so Tokita waited.\nHe waited a long time.\nBut everything around him was hushed and still.\nNow and then, a patrol car drove past.\n\"If I keep hanging around like this, they'll get suspicious of me.\"\nIt was just as he was about to head home.{p}",
+   "edit_notes": [
+    "12:7f40: EDIT - 'no body where the officer had been killed' -> 'at the spot where', clearer"
+   ]
+  },
+  {
+   "id": "12:8844",
+   "op": "text",
+   "before": "I see.\nSo you like action?\nYou can really tell that action movies these days keep getting more and more extreme and intense.\nAnd a lot of them are very well made, too.\nBut I don't care much for action movies myself.\nYou see, action movies are nearly always full of stunt people, aren't they?\nI can't bear to watch them.\nI feel so sorry for them that I can't enjoy the movie.\nI find myself wondering whether that stuntman was badly injured afterward, and so on.\nI'm timid, you see.\nI tend to imagine what goes on on the filmmakers' side.\nBecause in my first year, there was someone in my class who made movies.\nAmateur films, mind you.{p}",
+   "en": "I see.\nSo you like action?\nYou can really tell that action movies these days keep getting more and more extreme and intense.\nAnd a lot of them are very well made, too.\nBut I don't care much for action movies myself.\nYou see, action movies are nearly always full of stunt people, aren't they?\nI can't bear to watch them.\nI feel so sorry for them that I can't enjoy the movie.\nI find myself wondering whether that stuntman was badly injured afterward, and so on.\nI'm timid, you see.\nI tend to imagine what goes on behind the scenes for the filmmakers.\nThat's because in my first year, there was someone in my class who made movies.\nAmateur films, mind you.{p}",
+   "edit_notes": [
+    "12:8844: EDIT - clumsy 'goes on on the filmmakers' side' and dangling 'Because in my first year' -> smoother spoken lines"
+   ]
+  },
+  {
+   "id": "12:913c",
+   "op": "text",
+   "before": "It showed the hero teaching martial arts forms to the young students of his dojo.\nThey had shot a scene like that, but this was different from what he remembered.\nTokita was astonished when he watched the film.\nEveryone, whose acting had been so clumsy, was as good as real actors.\nEveryone moved swiftly, exactly as he instructed them.\nIt was almost enough to fool him into thinking his teaching really was that good and they were all improving by leaps and bounds.\nThat's how well it had been shot.{p}",
+   "en": "It showed the hero teaching martial arts forms to the young students of his dojo.\nThey had shot a scene like that, but this was different from what he remembered.\nTokita was astonished when he watched the film.\nTheir acting had been so clumsy, yet here they all were, as good as real actors.\nEveryone moved swiftly, exactly as he instructed them.\nIt was almost enough to fool him into thinking his teaching really was that good and they were all improving by leaps and bounds.\nThat's how well it had been shot.{p}",
+   "edit_notes": [
+    "12:913c: EDIT - awkward relative clause 'Everyone, whose acting had been so clumsy, was as good as...' -> natural narration"
+   ]
+  },
+  {
+   "id": "12:9d98",
+   "op": "text",
+   "before": "\"No way...\nThis is wrong!\"\nIf you ask me, it could never have been shot that well in the first place, so that itself was what was wrong.\nTokita thought he might have seen it wrong, and tried to watch it again.{p}Would you watch it again, {a}?\n",
+   "en": "\"No way...\nThis is wrong!\"\nThough if you ask me, it could never have come out that well in the first place, so the whole thing was wrong to begin with.\nTokita thought he might have seen it wrong, and tried to watch it again.{p}Would you watch it again, {a}?\n",
+   "edit_notes": [
+    "12:9d98: EDIT - tangled aside 'so that itself was what was wrong' -> clearer 'the whole thing was wrong to begin with'"
+   ]
+  },
+  {
+   "id": "12:9eec",
+   "op": "text",
+   "before": "Then the scene in question came up.\nHe stared at it, his eyes wide as saucers.\nThe hero's punch was about to land... or so it seemed.\n\"Not again★\"\nThe hero's punch only grazed the air.\nThe boss's punch slammed into the hero...{p}",
+   "en": "Then the scene in question came up.\nHe stared at it, his eyes wide as saucers.\nThe hero's punch was about to land... or so it seemed.\n\"Not again★\"\nThe hero's punch only cut through empty air.\nThe boss's punch slammed into the hero...{p}",
+   "edit_notes": [
+    "12:9eec: EDIT - 'grazed the air' (odd) -> 'only cut through empty air'"
+   ]
+  },
+  {
+   "id": "12:b2d0",
+   "op": "text",
+   "before": "There, he found a small animal.\nIt was a creature like a chick, shining silver.\nNo bird like this exists on Earth.\nThinking about it, it should have been eerie, but to Tokita, it looked enchanting.\nHe decided to keep it in the old school building.{p}",
+   "en": "There, he found a small animal.\nIt was a creature like a chick, shining silver.\nNo bird like this exists on Earth.\nWhen you think about that, it should have been eerie, but to Tokita, it looked enchanting.\nHe decided to keep it in the old school building.{p}",
+   "edit_notes": [
+    "12:b2d0: EDIT - dangling 'Thinking about it' -> 'When you think about that'"
+   ]
+  },
+  {
+   "id": "12:c6b0",
+   "op": "text",
+   "before": "How should he edit the footage he'd shot?\nHe thought it over.\nThen he asked the members of the film society for help and decided to turn it into a comic film.\nHe would raise the problem through laughter. That was his idea.{p}",
+   "en": "How should he edit the footage he'd shot?\nHe thought it over.\nThen he asked the members of the film club for help and decided to turn it into a comic film.\nHe would raise the problem through laughter. That was his idea.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "12:c774",
+   "op": "text",
+   "before": "He started editing.\nEditing is a kind of sorcery, isn't it?\nWith cheerful music, sound effects and the way the film is spliced together, grim footage of bullying turns into a comedy.\nThough it also helped that the society members really knew what they were doing.{p}",
+   "en": "He started editing.\nEditing is a kind of sorcery, isn't it?\nWith cheerful music, sound effects and the way the film is spliced together, grim footage of bullying turns into a comedy.\nThough it also helped that the club members really knew what they were doing.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "12:c858",
+   "op": "text",
+   "before": "The comedy was shown at the school festival.\nThe audience laughed a lot, you know.\nWithout knowing it was a tragedy that had really happened.\nMaybe the truly frightening thing is the crowd, people like that.\nAs long as they think it's fiction, they can laugh at someone else's misery.\nNo, even if they knew it was true, they might still laugh.\nI even got the feeling they would.{p}",
+   "en": "The comedy was shown at the school festival.\nThe audience laughed a lot, you know.\nWithout knowing it was a tragedy that had really happened.\nMaybe what's truly frightening is a crowd like that.\nAs long as they think it's fiction, they can laugh at someone else's misery.\nNo, even if they knew it was true, they might still laugh.\nI even got the feeling they would.{p}",
+   "edit_notes": [
+    "12:c858: EDIT - clumsy 'the crowd, people like that' -> 'a crowd like that'"
+   ]
+  },
+  {
+   "id": "12:f038",
+   "op": "text",
+   "before": "Then one day, Nakayama came down with a cold and was laid up for about four days.\nDuring that time, Tokita did the filming.\nHe seemed fairly confident in his own camera skills, too.\nThen Nakayama got over his cold, and it seems the shooting wrapped without a hitch.{p}",
+   "en": "Then one day, Nakayama came down with a cold and was laid up for about four days.\nDuring that time, Tokita did the filming.\nHe seemed to have some confidence in his own camera skills, too.\nThen Nakayama got over his cold, and it seems the shooting wrapped without a hitch.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "12:11038",
+   "op": "text",
+   "before": "...You don't want to see it?\nSo you believe my story is true, {a}.\nThank you.\nAfter all, you don't want to see it because it scares you, right?\nWell, even if you'd wanted to see it, it would have been impossible.\nTokita's death at school became the talk of the place, but the dozens of films in the audiovisual room vanished without a trace, as if they had never existed at all.{p}",
+   "en": "...You don't want to see it?\nSo you believe my story is true, {a}.\nThank you.\nAfter all, you don't want to see it because it scares you, right?\nWell, even if you'd wanted to see it, it would have been impossible.\nTokita dying at school caused quite a stir, but the dozens of films in the audiovisual room vanished without a trace, as if they had never existed at all.{p}",
+   "edit_notes": [
+    "12:11038: EDIT - clumsy 'became the talk of the place' -> natural phrasing"
+   ]
+  },
+  {
+   "id": "12:11510",
+   "op": "text",
+   "before": "The school on the screen had turned to night.\nAnd his self on the screen was meeting a girl.\n",
+   "en": "The school on the screen had turned to night.\nAnd on the screen, he himself was meeting a girl.\n",
+   "edit_notes": [
+    "12:11510: EDIT - awkward 'his self on the screen'"
+   ]
+  },
+  {
+   "id": "12:1156c",
+   "op": "text",
+   "before": "The footage ended there.\n(That's weird. I never did anything like this. Maybe it isn't me?)\nThe date on the footage was tonight, in the middle of the night.{p}",
+   "en": "The footage ended there.\n(That's weird. I never did anything like this. Maybe it isn't me?)\nThe date on the footage was tonight, late at night.{p}",
+   "edit_notes": [
+    "12:1156c: EDIT - redundant 'tonight, in the middle of the night'"
+   ]
+  },
+  {
+   "id": "12:11604",
+   "op": "text",
+   "before": "(What if it's a videotape that shows the future?)\nHe'd seen one too many movies too, hadn't he?\nImagine that idea popping into his head right away.\nSo he went to the school that night.{p}",
+   "en": "(What if it's a videotape that shows the future?)\nHe'd watched too many movies too, hadn't he?\nFor an idea like that to pop into his head right away...\nSo he went to the school that night.{p}",
+   "edit_notes": [
+    "12:11604: EDIT - clumsy 'one too many movies too' / 'Imagine that idea popping' -> spoken rhythm"
+   ]
+  },
+  {
+   "id": "12:11820",
+   "op": "text",
+   "before": "While Tokita was distracted by the breeze, a girl appeared at the spot that had been on the video.\n(Huh? When did she get here?)\nAnd without hesitation, Tokita walked toward her.\nThen the girl said,\n\"Good evening.\"\nJust like that, she spoke to him.\nHe felt as if he'd stepped into a movie.\n\"Come on, let's go.\"\nThat's what she said.\n\"Huh? Go where...\"\n\"That's how it goes in the script, isn't it?\"\nHe didn't want to lose that thrill of being inside this movie.\nTokita went along with her.{p}",
+   "en": "While Tokita was distracted by the breeze, a girl appeared at the spot that had been on the video.\n(Huh? When did she get here?)\nAnd without hesitation, Tokita walked toward her.\nThen the girl said,\n\"Good evening.\"\nJust like that, she spoke to him.\nHe felt as if he'd stepped into a movie.\n\"Come on, let's go.\"\nThat's what she said.\n\"Huh? Go where...\"\n\"That's how it goes in the script, isn't it?\"\nHe didn't want to lose the thrill of being inside a movie.\nTokita went along with her.{p}",
+   "edit_notes": [
+    "12:11820: EDIT - 'that thrill...this movie' mismatch"
+   ]
+  },
+  {
+   "id": "12:120c4",
+   "op": "text",
+   "before": "You're going to stop editing?\nI see. When someone involved in an independent film has died, I understand why you can't help thinking that way.\nHe'd finally founded the Film Research Society he'd longed for and gotten to the point of actually making a film, so he was bitterly disappointed too.\nHe was a warm-hearted person, so he decided to give up editing the film.\nBesides, he was reluctant to edit a movie that showed a person who'd been murdered.{p}",
+   "en": "You're going to stop editing?\nI see. When someone involved in an amateur film has died, I can understand having second thoughts.\nHe'd finally founded the Film Research Society he'd longed for and gotten to the point of actually making a film, so he was bitterly disappointed too.\nHe was a warm-hearted person, so he decided to give up editing the film.\nBesides, he was reluctant to edit a movie that showed a person who'd been murdered.{p}",
+   "edit_notes": [
+    "12:120c4: EDIT - stiff phrasing; aligned with parallel branch 12:108b0 (E026)"
+   ]
+  },
+  {
+   "id": "12:12340",
+   "op": "text",
+   "before": "\"The last time I was in the audiovisual room was last Saturday.\nI'm sure I put all the editing equipment away then...\"\nAfter all, the only ones with keys to this room were the teacher and him...\nAnd the teacher would hardly do something like that.\nBut he chose to look on the bright side.\nSurely this was Katayama, who had met such a bitter end, pleading with him to finish the film...\nIt's certain that he himself had strong regrets about having to stop editing partway through.{p}",
+   "en": "\"The last time I was in the audiovisual room was last Saturday.\nI'm sure I put all the editing equipment away then...\"\nAfter all, the only ones with keys to this room were the teacher and him...\nAnd the teacher would hardly do something like that.\nBut he chose to look on the bright side.\nSurely this was Katayama, who had met such a bitter end, pleading with him to finish the film...\nThere's no doubt he himself deeply regretted having to stop editing partway through.{p}",
+   "edit_notes": [
+    "12:12340: EDIT - stiff 'It's certain that...had strong regrets'"
+   ]
+  },
+  {
+   "id": "12:12970",
+   "op": "text",
+   "before": "\"If you feel that strongly about it, then go ahead and quit.\"\nTokita agreed to let Nakayama quit.\nMaybe Tokita was far more concerned with the film he was making right then than with that.\n\"Nakayama, would you help me with the editing, just for today?\"\nTokita asked him.\nIt was his last day anyway, and he wanted to see the scenes he'd shot, so Nakayama decided to help.\nThey were both film lovers to begin with, after all.\nI'm sure they enjoyed it, as you'd expect.{p}",
+   "en": "\"If you feel that strongly about it, then go ahead and quit.\"\nTokita agreed to let Nakayama quit.\nMaybe Tokita cared far more about the film he was making right then than about that.\n\"Nakayama, would you help me with the editing, just for today?\"\nTokita asked him.\nIt was his last day anyway, and he wanted to see the scenes he'd shot, so Nakayama decided to help.\nThey were both film lovers to begin with, after all.\nI'm sure they enjoyed it, as you'd expect.{p}",
+   "edit_notes": [
+    "12:12970: EDIT - clumsy comparison"
+   ]
+  },
+  {
+   "id": "12:1312c",
+   "op": "text",
+   "before": "There, the same thing Tokita had done to Nakayama was playing out.\nI shut my eyes without thinking.\nEven so, I could still hear Tokita's screams and the hissing of his face melting.\n\"Nakayama, please stop☆\"\nI cried out without thinking.{p}",
+   "en": "There, the same thing Tokita had done to Nakayama was playing out.\nI shut my eyes without thinking.\nEven so, I could still hear Tokita's screams and the hissing of his face melting.\n\"Nakayama, please stop☆\"\nI cried out in spite of myself.{p}",
+   "edit_notes": [
+    "12:1312c: EDIT - repeated 'without thinking' two lines apart"
+   ]
+  },
+  {
+   "id": "12:13478",
+   "op": "text",
+   "before": "I see...\nWell, I could make an exception and show it to you.\nIt must be fate that you and I met like this.\nBut I can't guarantee your life.\nTokita was killed because he got involved with this film, after all.\nFrankly, I think it's a more terrifying thing than anything edited into a finished movie.\nThough you may not have thought so.\n...I'll ask you once more.{p}You're saying you want to see the film I have?\n",
+   "en": "I see...\nWell, I could make an exception and show it to you.\nIt must be fate that you and I met like this.\nBut I can't guarantee you'll come out of it alive.\nTokita was killed because he got involved with this film, after all.\nFrankly, I think it's a more terrifying thing than anything edited into a finished movie.\nThough you may not have thought so.\n...I'll ask you once more.{p}You're saying you want to see the film I have?\n",
+   "edit_notes": [
+    "12:13478: EDIT - unidiomatic 'guarantee your life'; force kept"
+   ]
+  },
+  {
+   "id": "12:13640",
+   "op": "text",
+   "before": "If you believed my story, you normally couldn't give an answer like that...\nI don't know what you're thinking, but if you insist that much, I'll show it to you.{p}",
+   "en": "Anyone who believed my story couldn't normally give an answer like that...\nI don't know what you're thinking, but if you insist that much, I'll show it to you.{p}",
+   "edit_notes": [
+    "12:13640: EDIT - clumsy word order"
+   ]
+  },
+  {
+   "id": "12:136f4",
+   "op": "text",
+   "before": "In exchange, there's one condition.\nYou'll go and see it alone with me.{p}Is that all right?\n",
+   "en": "In exchange, there's one condition.\nYou'll come and see it alone with me.{p}Is that all right?\n",
+   "edit_notes": [
+    "12:136f4: EDIT - 'go' -> 'come' (Arai is inviting the player)"
+   ]
+  },
+  {
+   "id": "12:137a8",
+   "op": "text",
+   "before": "A hallway with the lights off is frightening, isn't it?\nI wonder if the teacher on patrol has already gone home.\n{a}.\nFrom here on, whatever happens, there won't be any adults to help you.\nHeh heh heh...\nPeople like you are what they call reckless with their lives, I suppose.{p}",
+   "en": "A hallway with the lights off is frightening, isn't it?\nI wonder if the teacher on patrol has already gone home.\n{a}.\nFrom here on, whatever happens, there won't be any adults to help you.\nHeh heh heh...\nWhen people say someone is reckless with their life, I suppose they mean someone like you.{p}",
+   "edit_notes": [
+    "12:137a8: EDIT - awkward construction; 'reckless with their life' imagery kept"
+   ]
+  },
+  {
+   "id": "12:143c4",
+   "op": "text",
+   "before": "...Practically chased out by Arai, I left the audiovisual room.\nOnly my footsteps echoed in the empty hallway.\nThat was a horrible story to hear.\nI need to get back to the club room, fast.\nI want this whole project over with, right now.\nI wish I'd never said I wanted to see that tape...\nBut still... what's going on?\nIt feels like too many strange things are happening.\n\"Go back to the club room ahead of me.\"\nThey all say that to me.\nWhy on earth...?\nAt first it was still fine.\nKazama's story was practically a joke.\nI'd thought, huh, so this is all the school's seven wonders amount to...{p}",
+   "en": "...Practically chased out by Arai, I left the audiovisual room.\nOnly my footsteps echoed in the empty hallway.\nThat was a horrible story to hear.\nI need to get back to the club room, fast.\nI want this whole project over with, right now.\nI wish I'd never said I wanted to see that tape...\nBut still... what's going on?\nIt feels like too many strange things are happening.\n\"Go back to the club room ahead of me.\"\nThey all say that to me.\nWhy on earth...?\nAt first, things were still fine.\nKazama's story was practically a joke.\nI'd thought, huh, so this is all the school's seven wonders amount to...{p}",
+   "edit_notes": [
+    "12:143c4: EDIT - clarity"
+   ]
+  },
+  {
+   "id": "13:2c68",
+   "op": "text",
+   "before": "Exactly.\nI found it strange too.\nSo I asked around among the people who knew the doll story.\nAnd I learned one fact.\nFirst, the teachers apparently never come to harm.\nSo it doesn't concern them.\nAnd the student is apparently chosen before they even enter the school.\nIt's only a rumor, mind you.\nBut they say the principal knows.\nAmong those who pass this school's entrance exam, for some reason, there's always at least one who actually failed.\nAnd that one, they say, is the sacrifice the doll has chosen.\nThat's why every year a few students slip into this school who never should have been accepted.\nAnd the principal knows it.\nKnows it, and lets them in.\nThe students who are meant to become sacrifices.\nDon't you think that's a frightening story?{p}",
+   "en": "Exactly.\nI found it strange too.\nSo I asked around among the people who knew the doll story.\nAnd then I learned one fact.\nFirst, the teachers apparently never come to harm.\nSo it doesn't concern them.\nAnd the student is apparently chosen before they even enter the school.\nIt's only a rumor, mind you.\nBut they say the principal knows.\nAmong those who pass this school's entrance exam, for some reason, there's always at least one who actually failed.\nAnd that one, they say, is the sacrifice the doll has chosen.\nThat's why every year a few students slip into this school who never should have been accepted.\nAnd the principal knows it.\nKnows it, and lets them in.\nThe students who are meant to become sacrifices.\nDon't you think that's a frightening story?{p}",
+   "edit_notes": [
+    "13:2c68, 13:6784: EDIT - shared explanation (identical JP lines in both branches) harmonized to one wording; 'frightening' in both"
+   ]
+  },
+  {
+   "id": "13:3448",
+   "op": "text",
+   "before": "Even seeing that, the teacher kept up a calm front, as if nothing had been seen.\n\"...Looks like Kanai isn't feeling well.\nSomeone take him to the nurse's office.\"\nThat one remark was the end of it.\nEven though the teacher knew perfectly well it was the doll's doing.\nTeachers are awful, aren't they?\nThe principal must have sworn them to silence, or they're getting something out of it.{p}",
+   "en": "Even seeing that, the teacher kept up a calm front, pretending not to have seen a thing.\n\"...Looks like Kanai isn't feeling well.\nSomeone take him to the nurse's office.\"\nThat one remark was the end of it.\nEven though the teacher knew perfectly well it was the doll's doing.\nTeachers are awful, aren't they?\nThe principal must have sworn them to silence, or they're getting something out of it.{p}",
+   "edit_notes": [
+    "13:3448: EDIT - clumsy passive 'as if nothing had been seen' -> 'pretending not to have seen a thing'"
+   ]
+  },
+  {
+   "id": "13:35ac",
+   "op": "text",
+   "before": "Anyone could see that Kanai was wasting away.\nHe'd never had much of a build to begin with, but in less than a week after he saw the doll at the incinerator, he'd grown as thin as a skeleton.\nAnd day by day, people stopped going near Kanai.\nBut that couldn't be helped.\nIf you were just near him, he'd try to strangle you or start thrashing around.\nIt looked as if the people around him would be killed before Kanai ever became the doll's sacrifice.\nThat's how dangerous Kanai had become.\nThe teacher told him to stay home from school, too.\nBut it seemed less out of concern than because the teacher didn't want to be involved.{p}",
+   "en": "Anyone could see that Kanai was wasting away.\nHe'd never had much of a build to begin with, but in less than a week after he saw the doll at the incinerator, he'd grown as thin as a skeleton.\nAnd day by day, people stopped going near Kanai.\nBut that couldn't be helped.\nJust being near him was enough for him to try to strangle you or start thrashing around.\nIt looked as if the people around him would be killed before Kanai ever became the doll's sacrifice.\nThat's how dangerous Kanai had become.\nThe teacher told him to stay home from school, too.\nBut it seemed less out of concern than because the teacher didn't want to be involved.{p}",
+   "edit_notes": [
+    "13:35ac: EDIT - 'If you were just near him, he'd...' unclear -> 'Just being near him was enough for him to...'"
+   ]
+  },
+  {
+   "id": "13:39a0",
+   "op": "text",
+   "before": "Kanai was standing beside my desk.\nAs if he wanted to say something, and looking miserable.\nTo be honest, I'd be lying if I said I wasn't scared.\nI tried hard to act normal, but it shows in your manner, doesn't it?\nWithout meaning to, I seem to have avoided meeting his eyes.\n\"You're scared of me, aren't you?\nNobody will listen to me.\n...Please. Will you let me talk something over with you?\"\nI'm sure that's what a ghost's voice sounds like.\nA voice so faint you could barely make it out, and yet it echoed strangely in my head.\nAnd a dark, gloomy force that made it impossible to refuse once he asked.\nI found myself nodding, just as he wanted.\nThe pitying looks everyone gave Kanai had spread to me too.\n\"...Let's talk on the way home.\"\nIf I could, I'd have rather talked in the classroom.\nThere were still people there.\nI thought they'd help me if anything happened.\nBut I did as he said.\nFor some reason, the mood left me no choice but to agree.{p}{a}{f:|}.\nDo you think I'm a pathetic sort of man for that?\n",
+   "en": "Kanai was standing beside my desk.\nAs if he wanted to say something, and looking miserable.\nTo be honest, I'd be lying if I said I wasn't scared.\nI tried hard to act normal, but it shows in your manner, doesn't it?\nWithout meaning to, I seem to have avoided meeting his eyes.\n\"You're scared of me, aren't you?\nNobody will listen to me.\n...Please. Will you let me talk something over with you?\"\nI'm sure that's what a ghost's voice sounds like.\nA voice so faint you could barely make it out, and yet it echoed strangely in my head.\nAnd a dark, gloomy force that made it impossible to refuse once he asked.\nI found myself nodding, just as he wanted.\nThe pitying looks everyone gave Kanai had spread to me too.\n\"...Let's talk on the way home.\"\nIf I could have, I'd rather have talked in the classroom.\nThere were still people there.\nI thought they'd help me if anything happened.\nBut I did as he said.\nFor some reason, the mood left me no choice but to agree.{p}{a}{f:|}.\nDo you think I'm a pathetic sort of man for that?\n",
+   "edit_notes": [
+    "13:39a0: EDIT - grammar 'I'd have rather talked' -> 'If I could have, I'd rather have talked'",
+    "13:39a0: KEEP - 'The pitying looks everyone gave Kanai had spread to me too' is as ambiguous as the JP (now pitied by others, or pitying him too); left"
+   ]
+  },
+  {
+   "id": "13:3f20",
+   "op": "text",
+   "before": "\"...I'm going to die today.\"\nIt came out of nowhere.\nWho knows what was on his mind, but Kanai murmured those words.\nI didn't know what to say.\nWhen I didn't answer, Kanai started talking on his own.\n\"...You know, for the past two or three days, I've been seeing the doll the whole time.\nI know now, too. Every year this school has to hand over one sacrifice to the doll, right?\"\nAnd then he looked at me.{p}",
+   "en": "\"...I'm going to die today.\"\nIt came out of nowhere.\nWho knows what was on his mind, but Kanai murmured those words.\nI didn't know what to say.\nWhen I didn't answer, Kanai started talking on his own.\n\"...You know, for the past two or three days, I've been seeing the doll the whole time.\nI know now, too. Every year, this school has to offer up one sacrifice to the doll, right?\"\nAnd then he looked at me.{p}",
+   "edit_notes": [
+    "13:3f20: EDIT - 'hand over one sacrifice' -> 'offer up one sacrifice' (matches 13:71c0 and 13:9688)"
+   ]
+  },
+  {
+   "id": "13:42bc",
+   "op": "text",
+   "before": "I could hardly breathe; I felt like I was going to die.\nI kept my mouth shut, and it was all I could do to mechanically put one foot in front of the other.\n\"...The doll calls me.\nI don't know why the doll calls me.\nOr why I was the one chosen...\nBut it's a fact that I'm being called.\nAnd soon I'm going to die.\nThe doll won't leave me.\nLook, it's right beside you now.\nRight now you're walking between the doll and me.\"\nWith that, Kanai suddenly thrust his face right in front of mine as I looked away.{p}",
+   "en": "I could hardly breathe; I felt like I was going to die.\nI kept my mouth shut, and it was all I could do to mechanically put one foot in front of the other.\n\"...The doll is calling me.\nI don't know why the doll is calling me.\nOr why I was the one chosen...\nBut it's a fact that I'm being called.\nAnd soon I'm going to die.\nThe doll won't leave my side.\nLook, it's right beside you even now.\nRight now you're walking between the doll and me.\"\nWith that, Kanai suddenly thrust his face right in front of mine as I tried to look away.{p}",
+   "edit_notes": [
+    "13:42bc, 13:7560: EDIT - 'The doll calls me.' (reads like naming) -> 'The doll is calling me.'; 'won't leave me' -> 'won't leave my side' as in 13:471c; both branches now identical"
+   ]
+  },
+  {
+   "id": "13:655c",
+   "op": "text",
+   "before": "Oh no, you can only say things like that for now.\nSoon enough, you won't be laughing.\nAnd then you'll be certain.\nThat the doll really does exist...{p}",
+   "en": "No, you can only say things like that for now.\nSoon enough, you won't be laughing.\nAnd then you'll be certain.\nThat the doll really does exist...{p}",
+   "edit_notes": [
+    "13:655c: EDIT - 'Oh no,' read as dismay (source is a plain 'no') -> 'No,'"
+   ]
+  },
+  {
+   "id": "13:6784",
+   "op": "text",
+   "before": "First of all, apparently the teachers are never harmed.\nSo they have nothing to do with it.\nAnd the student, apparently, is chosen before they even enter the school.\nIt's only a rumor, mind you.\nBut they say the principal knows.\nFor some reason, among those who pass this school's entrance exam, there's always at least one person who actually failed.\nAnd that person, apparently, is the sacrifice the doll has chosen.\nSo every year, a few students who should never have gotten into this school slip in.\nThe principal knows that.\nThe principal knows, and lets them in anyway.\nThe students who are meant to be sacrifices.\nApparently the doll sometimes takes a liking to someone other than the person meant to be the sacrifice.\nWhen that happens, the sacrifice changes, or so they say...\nOn the other hand, if you become the sacrifice yourself, there's apparently just one way to escape.\nThough they say the chances of it working are very slim.\nDon't you think that's a terrifying story?{p}",
+   "en": "First, the teachers apparently never come to harm.\nSo it doesn't concern them.\nAnd the student is apparently chosen before they even enter the school.\nIt's only a rumor, mind you.\nBut they say the principal knows.\nAmong those who pass this school's entrance exam, for some reason, there's always at least one who actually failed.\nAnd that one, they say, is the sacrifice the doll has chosen.\nThat's why every year a few students slip into this school who never should have been accepted.\nAnd the principal knows it.\nKnows it, and lets them in.\nThe students who are meant to become sacrifices.\nApparently the doll sometimes takes a liking to someone other than the person meant to be the sacrifice.\nWhen that happens, the sacrifice changes, or so they say...\nOn the other hand, if you become the sacrifice yourself, there's apparently just one way to escape.\nThough they say the chances of it working are very slim.\nDon't you think that's a frightening story?{p}",
+   "edit_notes": [
+    "13:2c68, 13:6784: EDIT - shared explanation (identical JP lines in both branches) harmonized to one wording; 'frightening' in both"
+   ]
+  },
+  {
+   "id": "13:6f80",
+   "op": "text",
+   "before": "You're pretty harsh, aren't you, {a}{f:|}?\nYou didn't have to say that.\nYes, I'm a pathetic person.\nI'll admit that much.\nBut if you were in my shoes, {a}{f:|}, I think you'd have ended up doing what he said too.\nI hurriedly packed my things into my bag while Kanai kept watch over me.{p}",
+   "en": "You're pretty harsh, aren't you, {a}{f:|}?\nYou didn't have to say that.\nYes, I'm a pathetic person.\nI'll admit that much.\nBut if you were in my shoes, {a}{f:|}, I think you'd have ended up doing what he said too.\nWith Kanai keeping watch on me, I hurriedly packed my things into my bag.{p}",
+   "edit_notes": [
+    "13:6f80: EDIT - last line identical JP to 13:3d84; same wording"
+   ]
+  },
+  {
+   "id": "13:7104",
+   "op": "text",
+   "before": "At that hour it was usually packed with students heading home, but for some reason there wasn't a soul around that day. It was dead silent.\nI started walking side by side with Kanai.\nDown the empty hallway...\n",
+   "en": "Usually at that hour it was packed with students heading home, but for some reason there wasn't a soul in sight that day; it was utterly silent.\nI started walking side by side with Kanai.\nDown the empty hallway...\n",
+   "edit_notes": [
+    "13:7104, 13:71c0, 13:7560: EDIT - repeat of the hallway walk (identical JP to 13:3e44/3f20/42bc in the other branch); worded the same as its echo"
+   ]
+  },
+  {
+   "id": "13:71c0",
+   "op": "text",
+   "before": "\"...I'm going to die today.\"\nIt came out of nowhere.\nWho knows what got into him, but Kanai muttered that.\nI didn't know what to say.\nWhen I didn't answer, Kanai began talking on his own.\n\"...You know, for the past two or three days, I've been seeing the doll the whole time.\nI know now, too.\nEvery year, this school has to offer up one sacrifice to the doll, right?\"\nAnd then he looked at me.{p}",
+   "en": "\"...I'm going to die today.\"\nIt came out of nowhere.\nWho knows what was on his mind, but Kanai murmured those words.\nI didn't know what to say.\nWhen I didn't answer, Kanai started talking on his own.\n\"...You know, for the past two or three days, I've been seeing the doll the whole time.\nI know now, too.\nEvery year, this school has to offer up one sacrifice to the doll, right?\"\nAnd then he looked at me.{p}",
+   "edit_notes": [
+    "13:7104, 13:71c0, 13:7560: EDIT - repeat of the hallway walk (identical JP to 13:3e44/3f20/42bc in the other branch); worded the same as its echo",
+    "13:3f20: EDIT - 'hand over one sacrifice' -> 'offer up one sacrifice' (matches 13:71c0 and 13:9688)"
+   ]
+  },
+  {
+   "id": "13:7560",
+   "op": "text",
+   "before": "I felt like I was suffocating to death.\nI kept my mouth shut, and it was all I could do to mechanically put one foot in front of the other.\n\"...The doll calls to me.\nI don't know why the doll calls me.\nOr why I was the one chosen...\nBut it's a fact that I'm being called.\nAnd soon I'm going to die.\nThe doll won't leave me alone.\nLook, it's right next to you even now.\nRight now, you're walking between the doll and me.\"\n",
+   "en": "I could hardly breathe; I felt like I was going to die.\nI kept my mouth shut, and it was all I could do to mechanically put one foot in front of the other.\n\"...The doll is calling me.\nI don't know why the doll is calling me.\nOr why I was the one chosen...\nBut it's a fact that I'm being called.\nAnd soon I'm going to die.\nThe doll won't leave my side.\nLook, it's right beside you even now.\nRight now you're walking between the doll and me.\"\n",
+   "edit_notes": [
+    "13:7104, 13:71c0, 13:7560: EDIT - repeat of the hallway walk (identical JP to 13:3e44/3f20/42bc in the other branch); worded the same as its echo",
+    "13:42bc, 13:7560: EDIT - 'The doll calls me.' (reads like naming) -> 'The doll is calling me.'; 'won't leave me' -> 'won't leave my side' as in 13:471c; both branches now identical"
+   ]
+  },
+  {
+   "id": "13:7c00",
+   "op": "text",
+   "before": "He laughed again.\nI couldn't look away anymore.\n\"...Actually, these sacrifices end next year.\nWhoever becomes the sacrifice next year will be the last one.\nBecause that's what the doll says.\n...Isn't that right?\"{p}",
+   "en": "He laughed again.\nI couldn't look away anymore.\n\"...Actually, these sacrifices end next year.\nWhoever becomes the sacrifice next year will be the last one.\nThat's what the doll says.\n...Isn't that right?\"{p}",
+   "edit_notes": [
+    "13:7c00: EDIT - 'Because that's what the doll says.' -> matches identical JP line in 13:4ae0"
+   ]
+  },
+  {
+   "id": "13:81c8",
+   "op": "text",
+   "before": "\"Arai, you're in the middle of the story.\nPlease tell me the name of the person who'll be the sacrifice.\"\n{f:I|I} asked, practically lunging at him.\nAs if {f:my|my} words weren't even reaching his ears, Arai hurried to leave the club room.\n{f:I|I} grabbed his hand.\n\"Please.\nWhat's that person's name★\"\nI pressed him.{p}",
+   "en": "\"Arai, you haven't finished the story.\nPlease tell me the name of the person who'll be the sacrifice.\"\n{f:I|I} asked, practically lunging at him.\nAs if {f:my|my} words weren't even reaching his ears, Arai hurried to leave the club room.\n{f:I|I} grabbed his hand.\n\"Please.\nWhat's that person's name★\"\nI pressed him.{p}",
+   "edit_notes": [
+    "13:81c8: EDIT - 'you're in the middle of the story' -> 'you haven't finished the story'"
+   ]
+  },
+  {
+   "id": "14:2804",
+   "op": "text",
+   "before": "\"It's already past eight, huh.\"\nFukuzawa peered into a classroom beside us and was surprised by the clock on the wall.\nSo it had {f:already|already} gotten that late.\nWhen {f:I|I} came to the club room, it had looked like it could rain any minute, but the weather {f:seemed to have|seemed to have} held.\n\"{f:We sure stayed late, huh|We stayed really late, didn't we}.\"\n\"{f:Yeah|Mm-hm}.\"\nAfter that, the conversation went nowhere.{p}",
+   "en": "\"It's already past eight, huh.\"\nFukuzawa peered into a nearby classroom and looked at the clock on the wall in surprise.\nSo it had {f:already|already} gotten that late.\nWhen {f:I|I} came to the club room, it had looked like it could rain any minute, but the weather {f:seemed to have|seemed to have} held.\n\"{f:We sure stayed late, huh|We stayed really late, didn't we}.\"\n\"{f:Yeah|Mm-hm}.\"\nAfter that, the conversation went nowhere.{p}",
+   "edit_notes": [
+    "14:2804: EDIT - clumsy 'peered into a classroom beside us and was surprised by the clock' -> 'peered into a nearby classroom and looked at the clock on the wall in surprise'"
+   ]
+  },
+  {
+   "id": "14:2970",
+   "op": "text",
+   "before": "{f:I|I} didn't know what to talk about and kept searching for something to say.\nI had hoped that cheerful Fukuzawa might come up with a topic, but maybe that was a bit too convenient a wish.\nStill, having Fukuzawa there was a real help to {f:me|me}, {f:honestly|honestly}.\nAfter hearing all those scary stories, I don't think {f:I|I}'d have had quite enough courage to walk home from school alone.\nWithout meaning to, I quickened my pace down the hallway, which felt longer than usual.\nThe only sound was our footsteps echoing down the hall, so they sounded terribly loud, and I even had the illusion that a whole crowd of people was following behind us.\nWas all of this just the fear Arai had planted in me{f:?|?}{p}",
+   "en": "{f:I|I} didn't know what to talk about and kept searching for something to say.\nI had hoped that cheerful Fukuzawa might come up with a topic, but maybe that was a little too much to hope for.\nStill, having Fukuzawa there was a real help to {f:me|me}, {f:honestly|honestly}.\nAfter hearing all those scary stories, I don't think {f:I|I}'d have had quite enough courage to walk home from school alone.\nWithout meaning to, I quickened my pace down the hallway, which felt longer than usual.\nOur footsteps were the only sound, echoing down the hall so loudly that I even had the illusion a whole crowd of people was following behind us.\nWas all of this just the fear Arai had planted in me{f:?|?}{p}",
+   "edit_notes": [
+    "14:2970: EDIT - 'a bit too convenient a wish' -> 'a little too much to hope for'; untangled the run-on footsteps sentence"
+   ]
+  },
+  {
+   "id": "14:2d18",
+   "op": "text",
+   "before": "\"Hey, Fukuzawa.\"\n{f:I|I} tugged at Fukuzawa's sleeve.\n\"What's wrong?\"\n\"Why don't we take a different way, {f:huh|okay}?\"{p}",
+   "en": "\"Hey, Fukuzawa.\"\n{f:I|I} tugged at Fukuzawa's sleeve.\n\"What's wrong?\"\n\"Why don't we take a different way, {f:yeah|okay}?\"{p}",
+   "edit_notes": [
+    "14:2d18: EDIT - male tag 'huh' odd on a suggestion -> 'yeah'"
+   ]
+  },
+  {
+   "id": "14:3160",
+   "op": "text",
+   "before": "\"...It's okay.\nBut that really surprised me.\nI never thought you'd be this much of a scaredy-cat, {c}{f:|}.\nSorry for pushing you like that.\nOkay, I get it. Let's go a different way.\"\nActing like she was the older one, Fukuzawa patted {f:me|me} on the shoulder.\nIt was really embarrassing.\nSure, {f:I|I} was a scaredy-cat, but being pitied by {f:a girl|someone} my own age made me strangely want to make excuses.\nEven so, I really didn't have the courage to push on down this hallway.\nFor now, I decided not to argue and to accept Fukuzawa's kindness.{p}",
+   "en": "\"...It's okay.\nBut that really surprised me.\nI never thought you'd be this much of a scaredy-cat, {c}{f:|}.\nSorry for pushing you like that.\nOkay, I get it. Let's go a different way.\"\nActing like she was the older one, Fukuzawa patted {f:me|me} on the shoulder.\nIt was really embarrassing.\nSure, {f:I|I} was a scaredy-cat, but being pitied by {f:a girl|someone} my own age gave me a strange urge to make excuses.\nEven so, I really didn't have the courage to push on down this hallway.\nFor now, I decided not to argue and to accept Fukuzawa's kindness.{p}",
+   "edit_notes": [
+    "14:3160: EDIT - 'made me strangely want to make excuses' -> 'gave me a strange urge to make excuses'"
+   ]
+  },
+  {
+   "id": "14:3438",
+   "op": "text",
+   "before": "There was something {f:up|up} ahead, too.\n{f:I|I} was trapped between two unknown figures.\nAnd {f:this one|this one} was slowly closing in on {f:me|me}!\n{f:It|It} came toward me, twisting its body as if hopping, moving in jerky fits.\nJust like a puppet on strings...\nA doll?\n{f:I|I} gasped.\nLooked at {f:a certain|a certain} way, {f:that thing|that thing} {f:really|really} was a doll.\nSurely it wasn't the doll Arai had been talking about...{p}",
+   "en": "There was something {f:up|up} ahead, too.\n{f:I|I} was trapped between two unknown figures.\nAnd {f:this one|this one} was slowly closing in on {f:me|me}!\n{f:It|It} came toward me, twisting its body as if hopping, moving in jerky fits.\nJust like a puppet on strings...\nA doll?\n{f:I|I} gasped.\nSeen in {f:a certain|a certain} light, {f:that thing|that thing} {f:really|really} was a doll.\nSurely it wasn't the doll Arai had been talking about...{p}",
+   "edit_notes": [
+    "14:3438: EDIT - dangling 'Looked at a certain way' -> 'Seen in a certain light'. KEEP returns note: 'puppet on strings... A doll?' already carries the puppet/doll link in English; no pun forced"
+   ]
+  },
+  {
+   "id": "14:421c",
+   "op": "text",
+   "before": "Hino reacted as if to say 'oops' and clapped his hands.\n\"Right, that.\nI completely forgot to tell you, but that was my mistake.\nI thought I'd asked seven people, but when I thought about it later, I'd only asked six.\nI meant to apologize later, but it slipped my mind.\nSorry, sorry.\"\nWhat an anticlimactic ending.\nWho'd have thought Hino had simply forgotten to invite one person?\nI was so let down I couldn't even {f:think of|think of} a reply.{p}",
+   "en": "Hino clapped his hands as if to say 'oops.'\n\"Right, that.\nI completely forgot to tell you, but that was my mistake.\nI thought I'd asked seven people, but when I thought about it later, I'd only asked six.\nI meant to apologize later, but it slipped my mind.\nSorry, sorry.\"\nWhat an anticlimactic ending.\nWho'd have thought Hino had simply forgotten to invite one person?\nI was so let down I couldn't even {f:think of|think of} a reply.{p}",
+   "edit_notes": [
+    "14:421c: EDIT - 'Hino reacted as if to say oops and clapped his hands' -> 'Hino clapped his hands as if to say oops'"
+   ]
+  },
+  {
+   "id": "14:4de0",
+   "op": "text",
+   "before": "\"But...\"\n\"That's right.\nYou're getting dreams and reality all mixed up.\nThe six I invited were Kazama and Shindo, plus Iwashita, Kiyose, Hosoda, and Fukuzawa.\"\n\"Kiyose?\"\nThe name Kiyose didn't ring a bell.\nThere had definitely been no one like that there.{p}",
+   "en": "\"But...\"\n\"It's true.\nYou're getting dreams and reality all mixed up.\nThe six I invited were Kazama and Shindo, plus Iwashita, Kiyose, Hosoda, and Fukuzawa.\"\n\"Kiyose?\"\nThe name Kiyose didn't ring a bell.\nThere had definitely been no one like that there.{p}",
+   "edit_notes": [
+    "14:4de0: EDIT - Hino's 'That's right.' answering 'But...' read oddly -> 'It's true.' (sou da yo)"
+   ]
+  },
+  {
+   "id": "14:5404",
+   "op": "text",
+   "before": "...Just as I thought.\nNot surprisingly, Iwashita had stayed home from school.\nI'd better try someone else.{p}",
+   "en": "...Just as I thought.\nUnderstandably, Iwashita had stayed home from school.\nI'd better try someone else.{p}",
+   "edit_notes": [
+    "14:5404: EDIT - 'Just as I thought' + 'Not surprisingly' doubled -> 'Understandably' (sasuga ni)"
+   ]
+  },
+  {
+   "id": "14:54c4",
+   "op": "text",
+   "before": "I found her classroom and peeked in. Iwashita was leaning on a desk with her hands, lost in some vague thought.\n\"Iwashita!\"\nWhen {f:I|I} called out, Iwashita slowly turned around.\nThen, wearing that chilling, eerie smile of hers, she beckoned {f:me|me} over.{p}",
+   "en": "I found her classroom and peeked in. Iwashita was standing with her hands resting on a desk, lost in some vague thought.\n\"Iwashita!\"\nWhen {f:I|I} called out, Iwashita slowly turned around.\nThen, wearing that chilling, eerie smile of hers, she beckoned {f:me|me} over.{p}",
+   "edit_notes": [
+    "14:54c4: EDIT - 'leaning on a desk with her hands' -> 'standing with her hands resting on a desk'"
+   ]
+  },
+  {
+   "id": "14:55c4",
+   "op": "text",
+   "before": "{f:I|I} stood beside her and spoke in a low whisper.\n\"...Um, it's about Arai.\"\n\"The doll story?\"\nIf Iwashita was bringing up the doll story, then {f:it really|it really} hadn't been my dream.\n{f:Iwashita|Iwashita, too,} had heard Arai's story{f:.|!}\n\"No, more than that... I just asked Hino about it a moment ago.\nApparently he never invited anyone called Arai.\nWorse, he says he doesn't even know anyone like that.\"\n{f:I|I} was hoping for some reaction from Iwashita, {f:but|but} she was perfectly calm and not the least bit surprised.{p}",
+   "en": "{f:I|I} stood beside her and spoke in a low whisper.\n\"...Um, it's about Arai.\"\n\"The doll story?\"\nIf Iwashita was bringing up the doll story, then {f:it really|it really} hadn't been my dream.\n{f:Iwashita|Iwashita, too,} had heard Arai's story{f:.|!}\n\"No, more importantly... I just asked Hino about it a moment ago.\nApparently he never invited anyone called Arai.\nWorse, he says he doesn't even know anyone like that.\"\n{f:I|I} was hoping for some reaction from Iwashita, {f:but|but} she was perfectly calm and not the least bit surprised.{p}",
+   "edit_notes": [
+    "14:55c4: EDIT - 'No, more than that...' -> 'No, more importantly...' (iie, sore yori mo)"
+   ]
+  },
+  {
+   "id": "14:664c",
+   "op": "text",
+   "before": "Fukuzawa looked worried again.\nShe seemed to be connecting this with the way {f:I|I} had acted last night.\n\"...What's wrong? Is your head okay?\"\n\"Just answer {f:me, okay|me}.\n{f:We|We} definitely heard the doll story from Arai{f:, right|, didn't we}?\"{p}",
+   "en": "Fukuzawa looked worried again.\nShe seemed to be connecting this with the way {f:I|I} had acted last night.\n\"...What's wrong? Are you okay in the head?\"\n\"Just answer {f:me, okay|me}.\n{f:We|We} definitely heard the doll story from Arai{f:, right|, didn't we}?\"{p}",
+   "edit_notes": [
+    "14:664c: EDIT - Fukuzawa's 'Is your head okay?' read as physical -> 'Are you okay in the head?'"
+   ]
+  },
+  {
+   "id": "14:6d98",
+   "op": "text",
+   "before": "{f:Apparently Hosoda had gotten|Hosoda told me he'd gotten} hold of a drink called Sanbura tea abroad, and he drinks it all the time.\nSanbura tea... a tea that, if you drink it, means you never have to go to the toilet again.\nHe said he'd just told everyone a story he dreamed up while drinking that tea{f:.|.}\nHe also said some nonsense about letting me have a taste of it as a special treat...\nThen why on earth is Hosoda going to the toilet{f:?|?}\nWasn't he supposed to have stopped needing the toilet{f:?|?}\n{f:No|No}... maybe he didn't go there to relieve himself.{p}",
+   "en": "{f:Apparently Hosoda had gotten|Hosoda told me he'd gotten} hold of a drink called Sanbura tea abroad, and he drinks it all the time.\nSanbura tea... drink it, and you never have to go to the toilet again.\nHe said he'd just told everyone a story he dreamed up while drinking that tea{f:.|.}\nHe also said some nonsense about letting me have a taste of it as a special treat...\nThen why on earth is Hosoda going to the toilet{f:?|?}\nWasn't he supposed to have stopped needing the toilet{f:?|?}\n{f:No|No}... maybe he didn't go there to relieve himself.{p}",
+   "edit_notes": [
+    "14:6d98: EDIT - clumsy 'a tea that, if you drink it, means you never have to...' -> 'drink it, and you never have to...'"
+   ]
+  },
+  {
+   "id": "14:7ff8",
+   "op": "text",
+   "before": "Shindo came up to {f:me|me} and muttered with a sigh.\n\"...So, how'd it go?\nDid you find Arai?\"\nShindo too...?\nShindo couldn't find him either{f:?|?}\n{f:I|I} honestly shook my head.\n\"...I see.\nCome over here a sec.\"{p}",
+   "en": "Shindo came up to {f:me|me} and muttered with a sigh.\n\"...So, how'd it go?\nDid you find Arai?\"\nShindo too...?\nShindo couldn't find him either{f:?|?}\n{f:I|I} admitted it with a shake of my head.\n\"...I see.\nCome over here a sec.\"{p}",
+   "edit_notes": [
+    "14:7ff8: EDIT - odd 'I honestly shook my head' -> 'I admitted it with a shake of my head'"
+   ]
+  },
+  {
+   "id": "14:8458",
+   "op": "text",
+   "before": "...{f:I|I} had bigger things to worry about.\nSomething was visible behind Shindo.\nIt was a doll, no doubt about it.\nA life-sized doll with a brown face was staring at {f:me|me} through the classroom window.\n\"What're you lookin' at, {a}?\"\nBothered by where {f:I|I} was looking, Shindo turned around.\nBut Shindo apparently couldn't see {f:it|it}; he just kept glancing all around.{p}",
+   "en": "...{f:I|I} had bigger things to worry about.\nI could see something behind Shindo.\nIt was a doll, no doubt about it.\nA life-sized doll with a brown face was staring at {f:me|me} through the classroom window.\n\"What're you lookin' at, {a}?\"\nBothered by where {f:I|I} was looking, Shindo turned around.\nBut Shindo apparently couldn't see {f:it|it}; he just kept glancing all around.{p}",
+   "edit_notes": [
+    "14:8458: EDIT - 'Something was visible behind Shindo' -> 'I could see something behind Shindo'"
+   ]
+  },
+  {
+   "id": "14:8860",
+   "op": "text",
+   "before": "...It started after that.\nThat {f:I|I} began seeing the doll often.\nA life-sized doll with a brown face and big eyes.\nIt was quite different from the one in Arai's story, but he'd said its appearance depends on who sees it, so the doll in front of {f:me|me} right now must be the one{f:.|.}\nFor a while now, the doll has been standing silently in a corner of {f:my|my} room.\nAt first I only saw the doll at school, but now it comes all the way to {f:my|my} house.\nAnd the number of times {f:I|I} saw the doll grew by the day.{p}",
+   "en": "...It started after that.\n{f:I|I} began seeing the doll often.\nA life-sized doll with a brown face and big eyes.\nIt was quite different from the one in Arai's story, but he'd said its appearance depends on who sees it, so the doll in front of {f:me|me} right now must be the one{f:.|.}\nFor a while now, the doll has been standing silently in a corner of {f:my|my} room.\nAt first I only saw the doll at school, but now it comes all the way to {f:my|my} house.\nAnd the number of times {f:I|I} saw the doll grew by the day.{p}",
+   "edit_notes": [
+    "14:8860: EDIT - Japanese inversion fragment 'That I began seeing the doll often' -> plain sentence"
+   ]
+  },
+  {
+   "id": "14:9710",
+   "op": "choice",
+   "before": "Shelf",
+   "en": "Shelf",
+   "flag": "ACC"
+  },
+  {
+   "id": "14:b574",
+   "op": "text",
+   "before": "\"My contract is hereby concluded.\"\nThe moment the voice was heard, the principal screamed.{p}",
+   "en": "\"My contract is hereby concluded.\"\nThe instant the voice spoke, the principal screamed.{p}",
+   "edit_notes": [
+    "14:b574: EDIT - stiff passive 'the moment the voice was heard' -> 'the instant the voice spoke' (previous row already uses 'rang out')"
+   ]
+  }
+ ]
+}

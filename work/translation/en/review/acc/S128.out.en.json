@@ -1,0 +1,14 @@
+{
+ "rows": {
+  "33:4d1c": "\".........\"\nWithout a word, she focused all her attention on her ear.\nNothing at all came from the other end of the line.\nWhoever it was seemed to be waiting for her to respond, too, quietly watching to see what she'd do.\nWhat should she do?{p}Would you try saying something?\n",
+  "33:4ecc": "\"...Hello?\"\nEven so, the other side said nothing.\n\"Huh? What?\"\nBut when she listened carefully, she could hear a very, very tiny voice.\n\"......ser...ear...\"\nShe pressed the receiver against her ear, trying to make out what it was saying.\nThis is what the voice was saying.\n\"...Closer... closer... bring your ear closer...\"\nIt sounded like a child.\nLike the voice of a little girl.\nShe pressed the receiver tight against her ear.\nSo hard it hurt.\nThat was when it happened.{p}",
+  "33:55f4": "\"Mmmmmmmmph!\"\nWith the receiver forced into her mouth, she let out a scream that never became a voice.\n",
+  "33:5e64": "I'll call you every single day.\nDon't worry, I don't need to ask for your phone number. I can find it out easily enough.\nWait for my call.\nShall we set a time for our calls?\nWhat time would be good?\nNine?\nOr ten?\nDon't you ever betray me.\nIf you do, I won't hesitate to kill you.\nI'm very possessive, you see.{p}",
+  "33:6550": "Why, thank you.\nI'm happy, even if it's only flattery.\n......Of course it's flattery, isn't it?\nYou're not the kind of person who makes passes at other girls when he already has a sweetheart, are you?\nThat would be rude to your sweetheart.\nAnd to me, too.\nSurely you didn't take me for some cheap girl who gets ideas the moment someone flatters her?\nI loathe people who make a fool of me.\nSo if that's what you had in mind, I'll come to hate you.\nIt's frightening to make an enemy of me, you know.\n...Heh heh, look at that face.\nI can tell from your eyes that you're not that kind of person, {a}.\nI'm joking. Only joking.\nBut since you answered like that, does it mean you're rather fond of me?\nIf that's so...\nWon't you break up with your sweetheart and go out with me instead?{p}"
+ },
+ "notes": [
+  "33:4d1c: FIX dots - source silence is 6 dot-characters, restored to 9 dots",
+  "33:4ecc: FIX dots - the garbled fragment has a 4-char run then 2-char runs; second run was lengthened to 6 dots, now 3",
+  "33:67d0: KEPT OMISSION - 'because you love them': the sweetheart's gender is left open in this line; elsewhere Iwashita assumes 'she'. Also kept the existing 11-dot run (source 4 chars) per 'do not shorten a longer run'"
+ ]
+}

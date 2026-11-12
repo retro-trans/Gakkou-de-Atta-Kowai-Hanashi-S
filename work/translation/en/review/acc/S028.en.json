@@ -1,0 +1,480 @@
+{
+ "slice": "S028",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S027",
+ "next": "S029",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:17d50",
+   "op": "text",
+   "en": "But where would the key be?\n"
+  },
+  {
+   "id": "07:17d70",
+   "op": "text",
+   "en": "I came to the nurse's office.{p}"
+  },
+  {
+   "id": "07:17d94",
+   "op": "text",
+   "en": "...It's locked.{p}That's right, I have to find the key first.\n"
+  },
+  {
+   "id": "07:17dd0",
+   "op": "text",
+   "en": "There doesn't seem to be anything here.{p}Maybe I'd better search somewhere else.\n"
+  },
+  {
+   "id": "07:17e1c",
+   "op": "text",
+   "en": "Just to be sure, I came back to the nurse's office one more time.{p}"
+  },
+  {
+   "id": "07:17e78",
+   "op": "text",
+   "en": "When I opened the door, a stifling smell hit my nose.\nSomething raw-smelling, and sweet...\nWhat is this?\nWithout thinking, I glanced down at the floor.{p}"
+  },
+  {
+   "id": "07:17f00",
+   "op": "text",
+   "en": "\"Hh...!\"\nA sound escaped me before I could stop it.\nThe one lying on the floor was, without a doubt, Hosoda.\nHis eyes were bulging, and blood was running from his mouth.\nHe must have bled a great deal.\nEverything from his chin down to his neck was stained red.\nHe looked like he was already dead.\nBetween his fingers, bent as if in agony, I saw a blackish lump.\nThis was... his tongue!\nHosoda had died with his tongue cut out.\nAnd on top of that, he'd been made to clutch it in his own hand.\nI staggered and bumped into the wall.{p}"
+  },
+  {
+   "id": "07:180c0",
+   "op": "text",
+   "en": "With a start I turned around, and there were words scrawled in blood.\nThis suits a blabbermouth perfectly☆\n...This is insane.\nNausea welled up in me.\nBut I swallowed hard and held it down.{p}"
+  },
+  {
+   "id": "07:18180",
+   "op": "text",
+   "en": "This is no time for that.\nI don't have time.\nMake yourself believe that what's lying there is just a thing.{p}I told myself that.\n"
+  },
+  {
+   "id": "07:18208",
+   "op": "text",
+   "en": "Just to be sure, I came back to the nurse's office one more time.\nOf course, I made sure not to look at Hosoda... no, at the thing lying on the floor.{p}But come to think of it, the smell seems a little fainter than before.\n"
+  },
+  {
+   "id": "07:182c0",
+   "op": "text",
+   "en": "I decided to go to the nurse's office.{p}"
+  },
+  {
+   "id": "07:182fc",
+   "op": "text",
+   "en": "Now, what should I do?\n"
+  },
+  {
+   "id": "07:18314",
+   "op": "text",
+   "follows_choice": [
+    "07:df78"
+   ],
+   "en": "I decided to examine the bed.{p}"
+  },
+  {
+   "id": "07:18338",
+   "op": "text",
+   "en": "There didn't seem to be anything particularly suspicious...{p}"
+  },
+  {
+   "id": "07:18374",
+   "op": "text",
+   "en": "Just as I thought that, I heard a strange sound.\nIf I had to describe it, it was like something desperately trying to hold back ragged breathing...?{p}What should I do?\n"
+  },
+  {
+   "id": "07:183f0",
+   "op": "choice",
+   "en": "Look behind the curtain"
+  },
+  {
+   "id": "07:1840c",
+   "op": "choice",
+   "en": "Look under the bed"
+  },
+  {
+   "id": "07:18420",
+   "op": "text",
+   "follows_choice": [
+    "07:1840c"
+   ],
+   "en": "I looked under the bed.{p}"
+  },
+  {
+   "id": "07:1844c",
+   "op": "text",
+   "en": "In the darkness, I saw two glowing eyes.\n\"Waaah!\"\nWas it me who screamed, or was it him?\nEither way, I came to my senses a split second sooner.\nI jumped up onto the bed.\n\"Gweh!\"\nI heard a pained voice.\n\"I... I can't breathe... get off me, pleeease...\"\nThat voice was Hosoda's.{p}"
+  },
+  {
+   "id": "07:1855c",
+   "op": "text",
+   "en": "Big as he was, there was no way he could flip the bed over with me on top of it.\n\"You were lying in wait to kill me, weren't you? Too bad, but I'm not letting you get me.\"\nThrough the thin mattress, I could feel Hosoda squirming.\n\"Now you're going to tell me where the ampoule is.\"\nShoes and all, I stomped down on the bed with a bang.\n\"S... stop it... I can't breathe... I'll tell you if you get off me, okay?\"\nHe really did sound like he was suffering.\nI decided to get off the bed.\nIt wasn't as if I wanted to hurt Hosoda.\nBut the instant I stepped down from the bed...{p}"
+  },
+  {
+   "id": "07:1878c",
+   "op": "text",
+   "en": "\"Raaaaaargh!\"\nHosoda sent the bed flying.\nI never thought he still had that much strength left★\nThe hard metal-frame bed slammed into me.{p}"
+  },
+  {
+   "id": "07:18810",
+   "op": "text",
+   "en": "Dragging the curtain with me, I crashed into the windowpane.{p}"
+  },
+  {
+   "id": "07:18854",
+   "op": "text",
+   "en": "The glass shattered with a crash.\nLuckily, the curtain had shielded me from the glass.\nWithout it, I'd have been cut up all over.\nHosoda came at me, thrusting out his thick arms.\nIf those got hold of me, I'd never have the strength to break free.\nI picked up one of the scattered shards of glass.\nIt was pure reflex.\nI thrust the shard in my hand out as hard as I could.{p}"
+  },
+  {
+   "id": "07:189cc",
+   "op": "text",
+   "en": "\"Gyaaah☆\"\nThe glass shard sliced off Hosoda's left ear.\n\"It hurts! It hurts, my ear!\"\nHosoda howled, clutching his ear and trying to stop the bleeding.{p}What will you do?\n"
+  },
+  {
+   "id": "07:18a78",
+   "op": "text",
+   "follows_choice": [
+    "07:183f0"
+   ],
+   "en": "I peered behind the curtain.\nJust then...{p}"
+  },
+  {
+   "id": "07:18abc",
+   "op": "text",
+   "en": "\"Raaaaaargh!\"{p}"
+  },
+  {
+   "id": "07:18ae4",
+   "op": "text",
+   "en": "Someone sent the bed flying with a yell.\nWas that voice Hosoda's★\nBefore I could even check, the hard metal-frame bed slammed into me.{p}"
+  },
+  {
+   "id": "07:18b6c",
+   "op": "text",
+   "en": "All right, then, let's search the medicine cabinet.{p}"
+  },
+  {
+   "id": "07:18b94",
+   "op": "text",
+   "en": "But it wouldn't open.\nIt seemed to be locked.\nI settled for just looking through the glass.\nFrom what I could see, all sorts of medicine bottles were lined up inside.\nAmong them were several ampoules that looked like the one I was after.\nI strained my eyes.\nDepending on what I found, I might have to break the cabinet's glass door.{p}...But the ampoule burned into my memory wasn't there.\n"
+  },
+  {
+   "id": "07:18cd0",
+   "op": "text",
+   "en": "I looked at the medicine cabinet once more.{p}"
+  },
+  {
+   "id": "07:18cf4",
+   "op": "text",
+   "en": "There were lots of medicines I'd never even seen before.\nCouldn't one of these do the same job as the antidote?\n...But wait.\nIt wasn't impossible that a side effect might make the poison even stronger.{p}I'd better not, after all.\n"
+  },
+  {
+   "id": "07:18dd8",
+   "op": "text",
+   "follows_choice": [
+    "07:e03c"
+   ],
+   "en": "I settled for just looking through the glass.\nFrom what I could see, all sorts of medicine bottles were lined up inside.\nAmong them were several ampoules that looked like the one I was after.\nI strained my eyes.{p}"
+  },
+  {
+   "id": "07:18e8c",
+   "op": "text",
+   "en": "\"Raaaaaagh!\"\nThat was when it happened.{p}"
+  },
+  {
+   "id": "07:18ec4",
+   "op": "text",
+   "en": "Sending the bed flying, Hosoda burst out from behind it.\nDamn.\nI should have checked the bed!\nBut it was too late now.{p}"
+  },
+  {
+   "id": "07:18f34",
+   "op": "text",
+   "follows_choice": [
+    "07:e2f4"
+   ],
+   "en": "On instinct, I twisted aside and dodged.\nHosoda couldn't stop in time and plowed into the medicine cabinet.{p}"
+  },
+  {
+   "id": "07:18fa8",
+   "op": "text",
+   "en": "The glass shattered with a crash.\n\"It hurts, it hurtsss...\"\nHosoda groaned, his whole face covered in blood.\nIt looked like the glass had sliced off his ear.{p}What will you do?\n"
+  },
+  {
+   "id": "07:1903c",
+   "op": "text",
+   "en": "There doesn't seem to be anything here.{p}I gave up and decided to search somewhere else.\n"
+  },
+  {
+   "id": "07:19078",
+   "op": "text",
+   "follows_choice": [
+    "07:e2c0"
+   ],
+   "en": "I shoved my hand into my pocket.\nThe feel of a plastic handle.\nWho'd have thought something like this could feel so reassuring?\nI raised the screwdriver and hurled it.{p}"
+  },
+  {
+   "id": "07:19120",
+   "op": "text",
+   "en": "\"Gyaaah!\"\nThe screwdriver stabbed into Hosoda's eye.\nDamn.\nI rushed over, but Hosoda paid me no mind, rolling around and screaming.\nI felt a little sorry for him, but my life was on the line too.\nI grabbed Hosoda by the shoulder.\n\"Where's the ampoule? Answer me.\"\n\"Uh... uhh...\"\nHosoda didn't answer.\nMaybe he couldn't.{p}"
+  },
+  {
+   "id": "07:19268",
+   "op": "text",
+   "en": "I gripped the screwdriver still stuck in his eye.\n\"If you don't answer, I'll shove this in even deeper!\"\nFear came over Hosoda's face.\n\"Ah... th-the old school building...\"\nThe old school building!\nHe didn't look like he was lying.\nI gave a firm nod.\n\"Got it.\"\nI yanked the screwdriver out hard.\n\"Gwahk!\"\nLetting out a strange noise, Hosoda passed out.\nI'd never dreamed I could do something this drastic.{p}"
+  },
+  {
+   "id": "07:19408",
+   "op": "text",
+   "follows_choice": [
+    "07:e2fc"
+   ],
+   "en": "I ran for it.\n\"Wait!\"\nBehind me, I heard Hosoda's voice.\nLike I'd wait.\nI circled around to the side of the bed and found a basin full of disinfectant.\nAs Hosoda lunged after me, I spun around and threw it at him.\n\"Gah!\"\nWhile he flinched, I dashed for the door.\n\"You're not getting away!\"\nJust as I tried to slip past, Hosoda thrust out his arm.{p}"
+  },
+  {
+   "id": "07:1953c",
+   "op": "text",
+   "en": "His thick arm caught me square in the throat.\nMy breath stopped.\nI staggered, and he swept my legs out from under me.\nI fell, and Hosoda sat astride me.\nDisinfectant dripped from his hair.\nHosoda wrapped both hands around my neck and squeezed.\n\"Heh heh heh... Can't breathe?\"\nHe brought his face close to mine.\nAt this rate, he was going to kill me.\nJust then, my hand touched something hard.\nI grabbed it on reflex and swung it.{p}"
+  },
+  {
+   "id": "07:196a4",
+   "op": "text",
+   "en": "I felt a hard thunk.{p}"
+  },
+  {
+   "id": "07:196c8",
+   "op": "text",
+   "en": "I'd hit Hosoda in the head.\nHosoda collapsed on top of me.\nHe was really heavy.\nWith a struggle, I crawled out from under him.\nHosoda didn't get up.\nBlood was flowing from inside his ear.\nMaybe he was hurt pretty badly.\nI kicked his huge body over with the tip of my shoe.\n\"Where's the ampoule? Answer me.\"\n\"Uh... uhh...\"\nHosoda didn't answer.\nMaybe he couldn't.{p}"
+  },
+  {
+   "id": "07:1981c",
+   "op": "text",
+   "en": "\"If you don't answer, I'll kick you to death!\"\nHosoda's face, gasping with pain, went from pale to a deathly gray.\nWas he feeling the fear of death?\nServes him right.\nNow he'd have some idea how I felt.\nHosoda's mouth flapped open and shut.\n\"Ah... th-the old school building...\"\nThe old school building!\nHe didn't look like he was lying.\n\"Got it.\"\nI nodded, then kicked Hosoda in the head.\n\"Gwahk!\"\nLetting out a strange noise, Hosoda passed out.\nI'd never dreamed I could do something this drastic.{p}"
+  },
+  {
+   "id": "07:199e8",
+   "op": "text",
+   "follows_choice": [
+    "07:e4dc"
+   ],
+   "en": "\"Sorry about that, really.\"\nI apologized.\nHosoda looked up at me with teary eyes.\n\"I don't want to do this, you know. But I've got no choice if I want to live. You understand, don't you?\"\n\"Uh...\"\nHosoda nodded, again and again.\nIt was as if he thought he'd be dead the moment I got in a bad mood.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:19b18",
+   "op": "text",
+   "follows_choice": [
+    "07:e4e4"
+   ],
+   "en": "\"Are you all right, Hosoda?\"\nI put on a sickly-sweet voice.\nHow hypocritical.\nI disgusted myself.\nBut it couldn't be helped.\nI wanted to live, too.\nSeeing how I was acting, Hosoda seemed to get some strange hope.\nHis face brightened, and he looked at me, fawning.\n\"That was mean. But you're amazing, you know. I bet you could get into the Murder Club.\"\nHe was trying to smile through the pain.\n\"The Murder Club, see, is a secret club, and Lord Hino is its president. Want me to ask Lord Hino for you? Ask him to please make you a member? Then we could all get together and kill anyone we can't stand.\"{p}"
+  },
+  {
+   "id": "07:19d28",
+   "op": "text",
+   "follows_choice": [
+    "07:e4ec"
+   ],
+   "en": "All right, then I'll run.\n...But where to?\nThere's no getting out of the school.\nI'm no better than a cornered rat.\nSomehow, I was starting to get angry.\n\"Ngh!\"{p}"
+  },
+  {
+   "id": "07:19dd0",
+   "op": "text",
+   "en": "I kicked Hosoda hard.\n\"Ow! It hurts! It hurts! Stop it, please, I'll tell you where the ampoule is!\"{p}"
+  },
+  {
+   "id": "07:19e3c",
+   "op": "text",
+   "follows_choice": [
+    "07:e78c"
+   ],
+   "en": "\"How dare you try to kill me!\"{p}"
+  },
+  {
+   "id": "07:19e70",
+   "op": "text",
+   "en": "I punched Hosoda hard.\nHe let out a sob and fell to the floor.\nHe didn't seem to have any fight left in him.{p}"
+  },
+  {
+   "id": "07:19ed0",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:19ee0",
+   "op": "text",
+   "follows_choice": [
+    "07:e798"
+   ],
+   "en": "\"Why are you trying to kill me?!\"\nHosoda looked up at me timidly.\n\"Tell me, or I'll kill you!\"\n\"I-I'll tell you. I'll tell you...\"\nBy now Hosoda's face was a sniveling mess.\n\"I like curry, you see.\"\nHuh?\nWhat is this guy talking about?\nI thought he was making fun of me, but Hosoda's face was dead serious.\n\"The other day I ordered curry in the cafeteria, but it was sold out. So I asked, and they said {a}... you bought the last serving.\"\n\"Wha...\"\nI was speechless.\nApparently Hosoda meant every word.\nBut I wasn't about to get killed over something like that!{p}I was so angry I couldn't stand it.\n"
+  },
+  {
+   "id": "07:1a110",
+   "op": "text",
+   "en": "\"Why are you trying to kill me?!\"\nHosoda looked at me blankly.\n\"I already told you that.\"\nThat's right.\nThis guy had tried to kill me over curry rice, of all things.\nHe'd said so himself, with a face that said 'What's wrong with that?'{p}I have to calm down.\n"
+  },
+  {
+   "id": "07:1a220",
+   "op": "text",
+   "follows_choice": [
+    "07:e7b0"
+   ],
+   "en": "\"Where's the ampoule?\"\nI asked what I most needed to know.\n\"If I tell you, will you spare me?\"\n...This guy!\nJust how far is he going to push his luck?\nWithout thinking, I clenched my fist.\nHosoda's face suddenly went stiff.\n\"S-sorry. I'll talk. Where the ampoule is, right? I know where it is.\"\n\"Then talk. If you tell me the truth, maybe I'll spare you.\"{p}"
+  },
+  {
+   "id": "07:1a374",
+   "op": "text",
+   "follows_choice": [
+    "07:e7c8"
+   ],
+   "en": "Should I just let him go?\nBut he tried to kill me.\nIf I let him go, wouldn't I just be making another enemy for myself?\n...No, it's fine.\nI'll let him go.\nThis kind of thing just isn't like me.\nHosoda is my senior, after all.\nAs a first-year, it weighs on me to keep doing this to him.\n\"...Go.\"{p}"
+  },
+  {
+   "id": "07:1a4cc",
+   "op": "text",
+   "en": "Hosoda looked at me as if he couldn't understand.\n\"I said go! Before I change my mind.\"\n\"Ah... okay, okay.\"\nHosoda hurriedly got to his feet.\nHe scurried eagerly toward the door.\nWas this really the right thing to do?{p}"
+  },
+  {
+   "id": "07:1a5ac",
+   "op": "text",
+   "en": "...The instant I thought that, Hosoda's hands shot out for my neck.\nBefore I could get away, he was choking me.\n\"Ngh... ugh.\"\n\"It's just like Lord Hino said!\"\nHosoda shouted gleefully.\n\"We're the chosen ones, so no matter what trouble we're in, we'll be saved for sure! Lord Hino knew everything all along☆\"\nHe squeezed tighter and tighter.\nI was blacking out.\nIt's... over.\nThe moment I lost consciousness, there was a dull crack.\nIt was the sound of my neck breaking.{p}"
+  },
+  {
+   "id": "07:1a740",
+   "op": "text",
+   "follows_choice": [
+    "07:e7d8"
+   ],
+   "en": "I tore up a sheet and made a makeshift rope.\nI roughly tied Hosoda up.\n\"Ow! Don't be so rough!\"\n\"Shut up!\"\nIgnoring him, I yanked the knots tight, then tighter.\nAt last, Hosoda burst into tears.\n\"Stop it, pleeease... you'll break my bones. I'll tell you where the ampoule is, so please don't tie me up...\"{p}"
+  },
+  {
+   "id": "07:1a868",
+   "op": "text",
+   "follows_choice": [
+    "07:df9c"
+   ],
+   "en": "I opened the cupboard and peered inside.\nWere all these bound documents the students' medical records?\nI could see the ampoule wasn't here, but maybe something in here was written about Hino and the others' weak points★{p}Should I look through them?\n"
+  },
+  {
+   "id": "07:1a934",
+   "op": "choice",
+   "en": "Look through them"
+  },
+  {
+   "id": "07:1a93c",
+   "op": "choice",
+   "en": "Leave it"
+  },
+  {
+   "id": "07:1a948",
+   "op": "text",
+   "follows_choice": [
+    "07:1a93c"
+   ],
+   "en": "I'd better not.{p}Right now, I can't waste even a minute.\n"
+  },
+  {
+   "id": "07:1a984",
+   "op": "text",
+   "follows_choice": [
+    "07:1a934",
+    "07:1ac34"
+   ],
+   "en": "I looked through the medical records.{p}"
+  },
+  {
+   "id": "07:1a9a4",
+   "op": "text",
+   "en": "...There didn't seem to be anything worth noting in this file.{p}Should I keep looking?\n"
+  },
+  {
+   "id": "07:1a9f0",
+   "op": "choice",
+   "en": "Keep looking"
+  },
+  {
+   "id": "07:1a9f8",
+   "op": "choice",
+   "en": "Leave it"
+  },
+  {
+   "id": "07:1aa04",
+   "op": "text",
+   "follows_choice": [
+    "07:1a9f8"
+   ],
+   "en": "I'd better not.{p}Right now, I can't waste even a minute.\n"
+  },
+  {
+   "id": "07:1aa40",
+   "op": "text",
+   "follows_choice": [
+    "07:1a9f0"
+   ],
+   "en": "I looked through the medical records.{p}"
+  },
+  {
+   "id": "07:1aa60",
+   "op": "text",
+   "en": "...There was Kazama's name.\nLet's see...\nLots of cavities.\nThis is useless.\nIt's no help at all.{p}Should I keep looking?\n"
+  },
+  {
+   "id": "07:1aae0",
+   "op": "choice",
+   "en": "Keep looking"
+  },
+  {
+   "id": "07:1aae8",
+   "op": "choice",
+   "en": "Leave it"
+  },
+  {
+   "id": "07:1aaf4",
+   "op": "text",
+   "follows_choice": [
+    "07:1aae8"
+   ],
+   "en": "I'd better not.{p}Right now, I can't waste even a minute.\n"
+  },
+  {
+   "id": "07:1ab30",
+   "op": "text",
+   "follows_choice": [
+    "07:1aae0"
+   ],
+   "en": "I looked through the medical records.{p}"
+  },
+  {
+   "id": "07:1ab50",
+   "op": "text",
+   "en": "...There was Hosoda's name.\nLet's see...\nSomewhat overweight.\nI can tell that just by looking at him!\nThat's enough of this.{p}Right now, I can't waste even a minute.\n"
+  },
+  {
+   "id": "07:1abe8",
+   "op": "text",
+   "en": "I opened the cupboard and peered inside.{p}Should I look at the medical records again?\n"
+  },
+  {
+   "id": "07:1ac34",
+   "op": "choice",
+   "en": "Look through them"
+  },
+  {
+   "id": "07:1ac3c",
+   "op": "choice",
+   "en": "Leave it"
+  },
+  {
+   "id": "07:1ac48",
+   "op": "text",
+   "follows_choice": [
+    "07:1ac3c"
+   ],
+   "en": "I'd better not.{p}Right now, I can't waste even a minute.\n"
+  },
+  {
+   "id": "07:1ac84",
+   "op": "text",
+   "en": "All right, let's try the gym.{p}"
+  }
+ ]
+}

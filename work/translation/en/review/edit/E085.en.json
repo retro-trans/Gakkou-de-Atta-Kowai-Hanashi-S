@@ -1,0 +1,386 @@
+{
+ "chunk": "E085",
+ "scene": "43",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S167"
+ ],
+ "prev": "E084",
+ "next": "E086",
+ "todo": [],
+ "rows": [
+  {
+   "id": "43:f194",
+   "op": "text",
+   "en": "(Hey, you!\nWhat kind of thing is that to think?\nAbout the guy who saved your life!\nI knew all along, you know.\nI knew you tried to sacrifice me, too.\nBut forget it. I'm the one who let Kanda pass on, after all.\nI'm not human. I'm only borrowing a human form.\nWhat am I, you ask?{p}"
+  },
+  {
+   "id": "43:f2a4",
+   "op": "text",
+   "en": "...Heh heh, let's just say I'm an extraterrestrial life-form. A good man ought to keep plenty of mystery about him, after all.){p}"
+  },
+  {
+   "id": "43:f2fc",
+   "op": "text",
+   "en": "Kazama's voice echoed in my head.\nWas this telepathy?\nK-Kazama, what are you saying?\nMaybe the reason Kazama always acted so strangely was to fool the eyes of the world.\nKazama, just what are you...?{p}"
+  },
+  {
+   "id": "43:f3f4",
+   "op": "text",
+   "en": "Then I looked down at Motoki, who lay collapsed in my arms.\nShe was still unconscious.\n...What should I do?\nThen Kazama laid a hand on Motoki's head and focused his energy with a sharp shout.\nIt seemed she had come to.{p}"
+  },
+  {
+   "id": "43:f4cc",
+   "op": "text",
+   "en": "\"...What happened to me?\nDon't tell me... did somebody die?\"\nMotoki said, looking as if she might burst into tears at any moment.\nI gave her a quick summary of everything that had happened.{p}"
+  },
+  {
+   "id": "43:f56c",
+   "op": "text",
+   "en": "\"...I see. Thank goodness.\nI was so scared someone might have died.\nSo there are times even Grandma can't save people, huh.\"\nMotoki looked relieved.\nKazama was watching over her, too.\nThen she looked at Kazama and said,\n\"...Was it you who saved everyone?\nThank you.\"\nAnd so, thanks to Motoki and Kazama, everyone was safe.\nIt was all over.{p}"
+  },
+  {
+   "id": "43:f6d8",
+   "op": "text",
+   "en": "...Every one of them seems like the culprit.\n...But there's no solid proof.\nI have to offer up one of them as a victim.\nEither way, do I really have to name one person here...?\nAnd so, I made my decision.{p}",
+   "follows_choice": [
+    "43:6914"
+   ],
+   "returns": [
+    "43:f6d8: RETURN - this branch intro (and 43:1119c, 43:12bc8) is in present tense while the parallel intros 43:10088 / 43:11fac are past; meaning identical, harmonise in editorial"
+   ]
+  },
+  {
+   "id": "43:f7a0",
+   "op": "text",
+   "en": "...Makoto Shindo.{p}"
+  },
+  {
+   "id": "43:f7c0",
+   "op": "text",
+   "en": "No... now that I really think about it, I can't choose just one person after all.\nWhat am I supposed to do☆\n(What's the matter?\nChoose, quickly...\nOr else...)\nHis voice rang inside my head.\nThen the man who must have been Kanda came into the club room, moving stiffly, like a robot.\n(Quickly... choose quickly.)\nIt was hopeless.\nJust then, someone shouted from the club room doorway.{p}"
+  },
+  {
+   "id": "43:f920",
+   "op": "text",
+   "en": "\"Kanda☆\nIt's you, Kanda, isn't it?\nWhy are you here?\"{p}"
+  },
+  {
+   "id": "43:f95c",
+   "op": "text",
+   "en": "It was Hino.\nHe must have come to check on us, I thought.\nBut how could Hino tell right away it was Kanda, when he had no head?\nI could plainly see the blood draining from Hino's face.\nHis teeth were chattering so hard I could hear them.{p}"
+  },
+  {
+   "id": "43:fa3c",
+   "op": "text",
+   "en": "\"So you've come back because you hate me...\nNo wonder you can't rest in peace.\nBut it's your own fault, too☆\nYou were the one who treated me like I didn't matter...\"\nAs he said this, Hino wept, tears pouring down his face.{p}"
+  },
+  {
+   "id": "43:faf4",
+   "op": "text",
+   "en": "\"We were such good friends, weren't we?\nAnd then what?\nYou went and lost your head over girls...\nI couldn't stand it anymore, so I confessed my feelings to you.\nBut after that, you started avoiding me.\nYou looked at me like I was something filthy.\nYou could accept Iwashita's feelings and Fukuzawa's, but you couldn't accept mine☆\nWhy did you reject me☆\"\nThen Hino threw his arms around the headless Kanda.\n\"You're the one person I will never let anyone else have☆\"\nWith that, Hino lifted him up in his arms.{p}"
+  },
+  {
+   "id": "43:fd00",
+   "op": "text",
+   "en": "\"Even now that you're like this.\nI still love you, you know.\"\nHino rubbed his cheek against the torn stump of Kanda's neck.\nSo very lovingly...\nThen, still holding him, Hino ran off down the hallway.{p}"
+  },
+  {
+   "id": "43:fddc",
+   "op": "text",
+   "en": "Even Iwashita and Fukuzawa, of all people, were at a loss for words.\n...So Hino was someone who couldn't love the opposite sex.\nBut come to think of it, the only difference is whether it's the opposite sex or the same sex. Maybe it doesn't matter who a person loves.\nMotoki spoke up.{p}"
+  },
+  {
+   "id": "43:fed0",
+   "op": "text",
+   "en": "\"Looks like even Grandma didn't see this coming.\nBut I'm glad you're safe, {a}.\nReally...\"\nI held her hand even tighter, as if to make sure it was there.\nShe was smiling.\nI gave a big nod.\nIt was all over.{p}"
+  },
+  {
+   "id": "43:ffc8",
+   "op": "text",
+   "en": "...Then a week went by.\nSince that day, I never saw them again.\nHino was found drowned in the river that runs beside the school.\nIn the end, it was apparently ruled a suicide and the matter was closed, but...{p}"
+  },
+  {
+   "id": "43:10088",
+   "op": "text",
+   "en": "...Every one of them seemed like the culprit.\n...But there was no solid proof.\nI had to pick one victim from among them.\nEither way, if I didn't name someone here, everyone might be killed.\nAnd so, I decided.{p}",
+   "follows_choice": [
+    "43:691c"
+   ],
+   "returns": [
+    "43:f6d8: RETURN - this branch intro (and 43:1119c, 43:12bc8) is in present tense while the parallel intros 43:10088 / 43:11fac are past; meaning identical, harmonise in editorial"
+   ]
+  },
+  {
+   "id": "43:10164",
+   "op": "text",
+   "en": "...Hosoda.\nHe must resent Kanda terribly.\nHow much he must have hated him for taking Fukuzawa, the girl he loved.\nHe's just the type to fall into a persecution complex like, 'He stole my girlfriend'...\n...That's right, maybe Hosoda killed Kanda.\nSo it would only be natural for Kanda to haunt him to death.\nI was trying to justify to myself the fact that I had chosen him.{p}"
+  },
+  {
+   "id": "43:102f8",
+   "op": "text",
+   "en": "And then...\n(It's Tomoharu Hosoda...)\nI murmured inside my head.\n(...Understood.)\nA voice that seemed to be a reply echoed in my head.{p}"
+  },
+  {
+   "id": "43:10380",
+   "op": "text",
+   "en": "Then the figure that must have been Kanda began to walk, stiff as a robot.\nPat... pat... His footsteps echoed as he walked around everyone.\nEveryone had their eyes shut and their fists clenched tight.\nI could almost hear them all screaming, don't stop behind me.\n...Is he really going to kill the person I named?\nKanda kept walking for a while.\nHow could he walk so well without a head?\nCould he sense his way?\nEither way, he was no longer of this world.\nThen he stopped dead behind Hosoda.\nS-so I was right.\nIt was true.{p}"
+  },
+  {
+   "id": "43:10568",
+   "op": "text",
+   "en": "Just then, the lights suddenly went out.\nAt the same moment, I heard a horrible scream and a sound like something being snapped in two.\nIt's not a good feeling, something happening in the dark.\nSomething was definitely happening, yet I couldn't even move.\nThen, before long, the lights came back on.{p}"
+  },
+  {
+   "id": "43:10674",
+   "op": "text",
+   "en": "\"Aagh☆\"\nWe let out soundless screams.\nThere lay Hosoda's corpse, its head wrenched off.\nBlood was still spurting from the arteries of the torn neck.\nThe body seemed to still be twitching.\nAnd we froze.{p}"
+  },
+  {
+   "id": "43:10780",
+   "op": "text",
+   "en": "Kanda was standing in the club room doorway.\nCradling Hosoda's head in both hands...\nKanda lifted the head to attach it to his own body, but immediately tossed it away onto the floor.\nHosoda's head rolled like a ball until it bumped against its own body and stopped.\n(No good. Even if he's the guy who killed me, a head like this won't save me!)\nJust as Kanda took a step toward us!{p}"
+  },
+  {
+   "id": "43:108e8",
+   "op": "text",
+   "en": "Hosoda's head floated softly up into the air.\n(How mean of you.)\nHosoda's head flew circles around Kanda's body, apparently complaining about something.\n(What's wrong with my head, huh?\nDon't go saying such rude things.)\nWith that, Hosoda's head forced itself onto Kanda's body.{p}"
+  },
+  {
+   "id": "43:10a1c",
+   "op": "text",
+   "en": "(S-stop... Quit it!)\nKanda thrashed about, twisting his body to get the head off, but it didn't seem to be working.\nIt looked as though he had lost control of his body.{p}"
+  },
+  {
+   "id": "43:10ab4",
+   "op": "text",
+   "en": "Before long, a bitter, frustrated groan resounded through the club room, and at the same moment, Kanda's body vanished.\nOnly Hosoda's head remained, floating in the air.\nThen once again, Hosoda's voice came into my head.\n(What a nasty person.\nHe hasn't changed one bit, even after dying.\nGetting killed by me twice... Heh heh heh, poor thing.){p}"
+  },
+  {
+   "id": "43:10be0",
+   "op": "text",
+   "en": "Hosoda was watching me with a creepy smile.\n({a}, I won't forget today.\nNot ever...)\nThe next moment, Hosoda's headless body sat bolt upright.\nHe clutched his own head tightly in his arms, went out into the hallway, and ran off at a terrifying speed.{p}"
+  },
+  {
+   "id": "43:10ce4",
+   "op": "text",
+   "en": "Where could he be going?{p}"
+  },
+  {
+   "id": "43:10d18",
+   "op": "text",
+   "en": "After Hosoda was gone, the club room fell silent.\nNo one said anything.\nI squeezed Motoki's hand, which I'd been holding without realizing it.\nShe was staring straight into my eyes.\nThey were eyes that seemed to know everything in my heart.{p}"
+  },
+  {
+   "id": "43:10dfc",
+   "op": "text",
+   "en": "Was I really right to name him?\nBut Kanda had said it.\nThat Hosoda had killed him...\nAnd Hosoda himself admitted it, didn't he?\nStill, Hosoda seemed to know that I was the one who named him as the sacrifice.\nIf he holds a grudge over that...\nMy life is in danger★{p}"
+  },
+  {
+   "id": "43:10f28",
+   "op": "text",
+   "en": "Then Motoki gripped my hand tightly.\n\"It's okay. I'll protect you.\"\nIt was all over.{p}"
+  },
+  {
+   "id": "43:10f94",
+   "op": "text",
+   "en": "We agreed that what happened here would stay a secret among the seven of us.\nWell, even without such a promise, no one would ever tell anyone.\nTelling wouldn't change anything, and it seemed the others hadn't heard Kanda's voice or the words of Hosoda's head anyway.\nBesides me, only one other person, Motoki, probably understood.\nThe truth of what happened was recorded only in the hearts of the two of us.\nHosoda remains missing.\nWhen I think he could appear in front of me at any moment, it makes me uneasy, but...{p}"
+  },
+  {
+   "id": "43:11150",
+   "op": "text",
+   "en": "For now, a week has passed without incident.\nMaybe it's because she's protecting me?{p}"
+  },
+  {
+   "id": "43:1119c",
+   "op": "text",
+   "en": "...Every one of them seems like the culprit.\n...But there's no solid proof.\nI have to offer up one of them as a victim.\nEither way, if I don't name someone here, everyone might be killed.\nJust then, a single name suddenly came to mind.{p}",
+   "follows_choice": [
+    "43:6928"
+   ],
+   "returns": [
+    "43:f6d8: RETURN - this branch intro (and 43:1119c, 43:12bc8) is in present tense while the parallel intros 43:10088 / 43:11fac are past; meaning identical, harmonise in editorial"
+   ]
+  },
+  {
+   "id": "43:11288",
+   "op": "text",
+   "en": "...Shoji Arai.\nI don't know why.\nHe has nothing to do with Kanda...\nOf all the members Hino gathered here, he's the only one with no connection to Kanda.\nIf Hino had some reason for gathering only people connected to Kanda, then maybe this guy has some secret, too...{p}"
+  },
+  {
+   "id": "43:113c8",
+   "op": "text",
+   "en": "My curiosity about him grew bigger and bigger inside me.\nAnd in the end, that temptation was read.\n(Understood.\nShoji Arai, then...)\nA voice that must have been Kanda's rang inside my head.\n(N-no!\nThat's not it! He's...)\nEven the scream in my heart was somehow weak.\nMaybe my curiosity was stronger...{p}"
+  },
+  {
+   "id": "43:11508",
+   "op": "text",
+   "en": "By the time I snapped to my senses, it was already too late.\nThe figure that must have been Kanda began to walk, stiff as a robot, and circled around everyone, his footsteps echoing, pat... pat...\nWas he looking for Arai...?\nCould he really tell who was who without a head...?\nThen he stopped dead behind Arai.\nArai had his eyes shut, praying desperately.{p}"
+  },
+  {
+   "id": "43:11660",
+   "op": "text",
+   "en": "Just then, the lights suddenly went out.\nAt the same moment, I heard a horrible scream and a sound like something being snapped in two.\nIt's not a good feeling, something happening in the dark.\nSomething was definitely happening, yet I couldn't even move.\nThen, before long, the lights came back on.{p}"
+  },
+  {
+   "id": "43:11768",
+   "op": "text",
+   "en": "\"Aagh☆\"\nWe let out soundless screams.\nThere lay Arai's corpse, its head wrenched off.\nBlood was still spurting from the arteries of the torn neck.\nThe body seemed to still be twitching.\nAnd we froze.{p}"
+  },
+  {
+   "id": "43:11860",
+   "op": "text",
+   "en": "Kanda was standing in the club room doorway.\nYes, wearing the head he had torn off Arai...\n(I've got my head.\nAnyone would have done.\nThis head belongs to someone I've never even seen, but it's not bad at all.\nIt's a shame it isn't the guy who killed me, but now I can finally be saved.)\nKanda was looking at me with Arai's face.{p}"
+  },
+  {
+   "id": "43:1199c",
+   "op": "text",
+   "en": "Just then, a voice other than Kanda's... Arai's voice came into my head.{p}"
+  },
+  {
+   "id": "43:119f4",
+   "op": "text",
+   "en": "({a}, that's cruel of you.\nWhat is it I'm supposed to have done?\nWhy did you sacrifice me?)\nOh no, I've done something terrible.\nOut of my own curiosity, I killed Arai, who had done nothing wrong.\nKanda, wearing Arai's head, turned his back on us and disappeared into the hallway.{p}"
+  },
+  {
+   "id": "43:11b34",
+   "op": "text",
+   "en": "({a}, that's cruel of you.)\nArai's voice stayed in my ears, on and on.\nWhat if I had named someone else...?\nIf it was going to come to this, maybe I should have been the sacrifice myself.{p}"
+  },
+  {
+   "id": "43:11be8",
+   "op": "text",
+   "en": "When I glanced over, Motoki was crying.\nNot just Motoki.\nEveryone seemed to feel some guilt that Arai, who had nothing to do with what happened to Kanda, had become the victim.\nBut this was a result I had brought on.\nIt came to this because I was the one who chose him in the first place.{p}"
+  },
+  {
+   "id": "43:11ce0",
+   "op": "text",
+   "en": "I have to take responsibility...{p}"
+  },
+  {
+   "id": "43:11d14",
+   "op": "text",
+   "en": "\"Everyone, thank you for today.\"\nThat was all I said. I bowed, hoisted Arai's headless corpse onto my back, and dashed out of the club room as fast as I could.\nThey must all have been stunned.\nBut I couldn't die in there.\nI didn't want to cause them any more trouble.\nI ran...{p}"
+  },
+  {
+   "id": "43:11e44",
+   "op": "text",
+   "en": "Suddenly, Arai's corpse moved.\nIts hands were trying to strangle me.\n(Go ahead.\nI'm the one who killed you, after all...)\nThen, from somewhere, I heard Arai's voice.\n(I'm glad to hear you say that, {a}.\nNow I can be saved, too...)\nThe hands around my neck tightened.\nAs my consciousness faded, I thought dimly.\nThe one who will save my soul is...{p}"
+  },
+  {
+   "id": "43:11fac",
+   "op": "text",
+   "en": "...Every one of them seemed like the culprit.\n...But there was no solid proof.\nI had to pick one victim from among them.\nEither way, if I didn't name someone here, everyone might be killed.\nAnd so, I decided.{p}",
+   "follows_choice": [
+    "43:6934"
+   ],
+   "returns": [
+    "43:f6d8: RETURN - this branch intro (and 43:1119c, 43:12bc8) is in present tense while the parallel intros 43:10088 / 43:11fac are past; meaning identical, harmonise in editorial"
+   ]
+  },
+  {
+   "id": "43:12088",
+   "op": "text",
+   "en": "...Fukuzawa.\nShe hates Iwashita intensely.\nBecause of Iwashita, she must have resented him at times, too.\nAll the more because she loved him...\n...That's right, maybe Fukuzawa killed Kanda.\nI was trying to justify to myself the fact that I had chosen her.{p}"
+  },
+  {
+   "id": "43:121ac",
+   "op": "text",
+   "en": "(Fuku...)\nBefore I could even answer in my head, Kanda's reply came back.\n(...Understood. {b} {a}, then.){p}"
+  },
+  {
+   "id": "43:12224",
+   "op": "text",
+   "en": "Huh★\nWhat did he just say?\n(Wait a minute, that's not what I meant...)\nBut Kanda's voice no longer came into my head.{p}"
+  },
+  {
+   "id": "43:122cc",
+   "op": "text",
+   "en": "Then Kanda came walking stiffly into the club room.\nAt this rate, my life really was in danger.\nEveryone had their eyes shut, praying with all their might.{p}"
+  },
+  {
+   "id": "43:12364",
+   "op": "text",
+   "en": "In the midst of it all, I alone was thinking.\nWho on earth named me...?{p}"
+  },
+  {
+   "id": "43:123c4",
+   "op": "text",
+   "en": "It was just my conceit to think that only I could hear Kanda's voice.\n...What's that?\nI felt like Fukuzawa just looked at me.\nNot only Fukuzawa.\nEveryone kept stealing glances at me, then looking apologetic.\nIt was almost as if they were praying to me.\n......☆\nNo way!\nDid everyone name me★{p}"
+  },
+  {
+   "id": "43:1250c",
+   "op": "text",
+   "en": "(That's right. Seems you're one seriously hated guy.)\nKanda's voice echoed in my head.\nIt can't be!\nI looked at Motoki, who was beside me.{p}"
+  },
+  {
+   "id": "43:125a8",
+   "op": "text",
+   "en": "When our eyes met, Motoki said,\n\"It's okay, I'm right here with you.\nDon't worry,\"\nand smiled.{p}"
+  },
+  {
+   "id": "43:12614",
+   "op": "text",
+   "en": "Easy for her to say, but Kanda was already standing behind me.\nI could tell that much without even looking.\n...I could feel his presence behind me.\nA cold, slimy, clinging, nasty presence...\nAgh!\nSomething chilly just touched the nape of my neck.\nIt seemed to be Kanda's hand.\nNow all I could do was believe Motoki's words.\nShe's probably the only one who can save me...{p}"
+  },
+  {
+   "id": "43:127a0",
+   "op": "text",
+   "en": "\"That's right, {a}.\nI came here to save you, after all.\"\nUrk...!{p}"
+  },
+  {
+   "id": "43:1280c",
+   "op": "text",
+   "en": "The hand Kanda had placed on my neck squeezed harder.\nBut Motoki just kept smiling and gazing at me.\nH... hurry, help...\n\"Not yet.\nFirst you have to become the sacrifice, {a}, and save everyone here.\"\nUghk...☆{p}"
+  },
+  {
+   "id": "43:12908",
+   "op": "text",
+   "en": "Kanda's nails, his fingers, dug into my throat...\nNo good, my head was going hazy.\n\"Don't worry, I won't let you die.\nWe'll be together fooooooooorever.\"\nSnap, snap. I could hear blood vessels or nerves or something tearing.\nStrangely, there was no pain.\n\"{a}, get along with Grandpa and Grandma and the others, okay?\"\nMotoki looked truly happy.{p}"
+  },
+  {
+   "id": "43:12a50",
+   "op": "text",
+   "en": "At the corners of her mouth, the faces of countless people were writhing.\nWas she telling me to become one of them...?\nSo that's what she meant by saving me...{p}"
+  },
+  {
+   "id": "43:12ae8",
+   "op": "text",
+   "en": "It's true that Motoki and I ended up together.\nBut you can't call this a marriage.\n(Now I'm saved...)\nI felt terribly envious of those last words I heard from Kanda.\nWill I really be saved...?\nInside Motoki's mouth..........{p}"
+  },
+  {
+   "id": "43:12bc8",
+   "op": "text",
+   "en": "...Every one of them seems like the culprit.\n...But there's no solid proof.\nBesides, even if one of them were the culprit, there's no way they'd admit their crime.\nBut at this rate, we'll all be killed.{p}",
+   "follows_choice": [
+    "43:6948"
+   ],
+   "returns": [
+    "43:f6d8: RETURN - this branch intro (and 43:1119c, 43:12bc8) is in present tense while the parallel intros 43:10088 / 43:11fac are past; meaning identical, harmonise in editorial"
+   ]
+  },
+  {
+   "id": "43:12c94",
+   "op": "text",
+   "en": "Just then, I happened to glance at Motoki.\nMake Motoki the victim...{p}"
+  },
+  {
+   "id": "43:12ce0",
+   "op": "text",
+   "en": "No, I can't do that!\nShe came here to save us. I can't trample on her kindness like that.\n...M-maybe Motoki can do something about this.\nShe came to save us in the first place, after all...\nIt's all or nothing now.{p}"
+  },
+  {
+   "id": "43:12df4",
+   "op": "text",
+   "en": "\"Motoki!\nThis guy is trying to sacrifice us so he can pass on.\nI don't want to sacrifice anyone☆\"\nI pleaded with her.\nMotoki's eyes were fixed on me, piercing.\nWhat on earth was she thinking?\nMaybe I had asked her for something far too convenient for me after all...\nThat's right, what could she possibly do?{p}"
+  },
+  {
+   "id": "43:12f5c",
+   "op": "text",
+   "en": "\"I see... so that's how it is... How dare you trample on my feelings.\"{p}",
+   "follows_choice": [
+    "43:c914"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+{
+ "slice": "S022",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S021",
+ "next": "S023",
+ "todo": [
+  "- Spelling: 'ampule' (S022) -> 'ampoule' (glossary/brief); fix by script across the corpus."
+ ],
+ "rows": [
+  {
+   "id": "07:9f84",
+   "op": "text",
+   "en": "...I was so appalled I couldn't say a word.\nHe really tried to kill me for a reason like that?\nJust because some water splashed on his pants?\nAnd it wasn't even on purpose. It just happened by accident.\nOn top of that, I don't even remember whether it ever happened.\nAnd yet he held a grudge over it and tried to kill me?\n...Is this guy out of his mind?\nA fresh wave of terror washed over me.\nDo I really have to die for people like these?{p}"
+  },
+  {
+   "id": "07:a114",
+   "op": "text",
+   "en": "\"Go on, kill me! Why don't you just kill me! Ptui!\"\nKazama spat at me.{p}What should I do?\n"
+  },
+  {
+   "id": "07:a16c",
+   "op": "text",
+   "follows_choice": [
+    "07:9bd8"
+   ],
+   "en": "\"Where's the ampoule?\"\n\"No idea. Why don't you look for it yourself?\nYou can hit me all you like, but isn't that just a waste of time?\"{p}"
+  },
+  {
+   "id": "07:a1f4",
+   "op": "text",
+   "en": "Maybe what I'd said earlier had set him off. Kazama wasn't backing down from his defiant attitude.{p}What should I do?\n"
+  },
+  {
+   "id": "07:a248",
+   "op": "choice",
+   "en": "Hit him"
+  },
+  {
+   "id": "07:a250",
+   "op": "choice",
+   "en": "Get tough with him"
+  },
+  {
+   "id": "07:a264",
+   "op": "choice",
+   "en": "Apologize and get him to calm down"
+  },
+  {
+   "id": "07:a280",
+   "op": "text",
+   "follows_choice": [
+    "07:a250"
+   ],
+   "en": "\"...You want to try dying?\"\nI was going to die soon.\nI was going to die, all because of scum like these.\nWhy should I have to apologize to a guy like this?\n\"You told me to kill you a minute ago. Want me to kill you, just like you asked?\nEven if you die, there are plenty of other ways to find the ampoule.\"\nI tried to slam Kazama's head into the cabinet again.\nThis time into the other cabinet, the one with its glass still intact...\n\"...Stop! I'm sorry! I'll tell you anything!\"\nKazama shrieked, his voice cracking.\n\"You should've said that from the start. Where's the ampoule?\"\n\"...Th-that's something only Hino knows.\"\n\"You want to die?\"\n\"It's true! It really is! I really don't know!\"\nIt looked like he truly didn't know.\n...If I believed what he said, my only options were to search for the ampoule or to ask Hino directly.\nThere was no point in going after any of the others.{p}What should I do?\n"
+  },
+  {
+   "id": "07:a590",
+   "op": "text",
+   "follows_choice": [
+    "07:9c08"
+   ],
+   "en": "I yanked the cord out of an electric drill in the art room and tied Kazama up with it.\nThen I tried to stuff a rag into his mouth.{p}"
+  },
+  {
+   "id": "07:a61c",
+   "op": "text",
+   "en": "\"Stop! That's filthy! What are you doing to my beautiful face?!\"\n\"Shut up! Be grateful I'm not killing you!\"\nI shoved the dirty rag into Kazama's mouth.\nHe mumbled and struggled, but he soon gave up and went quiet.{p}"
+  },
+  {
+   "id": "07:a710",
+   "op": "text",
+   "en": "Right. Time to make my move.\n"
+  },
+  {
+   "id": "07:a728",
+   "op": "text",
+   "follows_choice": [
+    "07:93b4"
+   ],
+   "en": "I searched the tool shelves.\nThere was no ampoule.\nBut there were plenty of saws, hammers and the like.\n\"...Looks like I'm going to end up fighting them.\"\nI rummaged through the tool shelves.\nI wanted to take the whole toolbox, but it looked heavy and would only get in my way.\nFrom it, I picked out a hammer and a saw.{p}"
+  },
+  {
+   "id": "07:a838",
+   "op": "text",
+   "en": "A weapon in each hand.\nI felt like Miyamoto Musashi with his two swords.\nThis really was a matter of life or death.\nI jammed the hammer and the saw into my belt.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:a8d8",
+   "op": "text",
+   "follows_choice": [
+    "07:93c4"
+   ],
+   "en": "I headed for the art prep room next to the art room.{p}"
+  },
+  {
+   "id": "07:a910",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:a920",
+   "op": "choice",
+   "en": "Search the cabinets"
+  },
+  {
+   "id": "07:a92c",
+   "op": "choice",
+   "en": "Search the desk"
+  },
+  {
+   "id": "07:a938",
+   "op": "choice",
+   "en": "Go back to the art room"
+  },
+  {
+   "id": "07:a948",
+   "op": "text",
+   "follows_choice": [
+    "07:a920"
+   ],
+   "en": "I decided to check the cabinets.{p}"
+  },
+  {
+   "id": "07:a96c",
+   "op": "text",
+   "en": "The cabinets were full of paintings, apparently done by art club students.\nThere was no way the ampoule would be in a place like this, I supposed.{p}"
+  },
+  {
+   "id": "07:a9f8",
+   "op": "text",
+   "en": "...Huh?\nAmong them, I found a portrait.\n\"It's Iwashita.\"\nI had no idea who had painted it, but the person on that canvas was unmistakably Akemi Iwashita.\n\"This might come in handy.\"\nI decided to take the painting with me.{p}What should I do next?\n"
+  },
+  {
+   "id": "07:aaf0",
+   "op": "text",
+   "follows_choice": [
+    "07:a938"
+   ],
+   "en": "I went back to the art room.{p}What should I do?\n"
+  },
+  {
+   "id": "07:ab18",
+   "op": "text",
+   "en": "I decided to go to the old school building.{p}"
+  },
+  {
+   "id": "07:ab54",
+   "op": "text",
+   "en": "...The old school building.\nEven in the state I was in, the old school building still scared me.\nThere was no electricity in the old school building, so unless I had a flashlight, there was no way I could search it.\nI didn't have a flashlight.{p}What should I do?\nShould I go inside the old school building anyway?\n"
+  },
+  {
+   "id": "07:ac38",
+   "op": "choice",
+   "en": "Go in"
+  },
+  {
+   "id": "07:ac40",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:ac60",
+   "op": "text",
+   "follows_choice": [
+    "07:ac38"
+   ],
+   "en": "All the same, I went into the pitch-dark old school building.\n...It was no use.\nI couldn't tell left from right, not even close.\n...I'd better give up.{p}"
+  },
+  {
+   "id": "07:acf4",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:ad04",
+   "op": "text",
+   "en": "That's it!\nThere should be a teacher on duty in the night-duty room!\nI didn't know which teacher it was, but I'd go and see.\nIf I explained what was going on, maybe something could be done?\n...No, would I just get yelled at?\nIt was all or nothing. I'd go and see!{p}"
+  },
+  {
+   "id": "07:adc8",
+   "op": "text",
+   "en": "The light was on in the night-duty room.\nYes!\nSomeone was in there!{p}"
+  },
+  {
+   "id": "07:ae04",
+   "op": "text",
+   "en": "The door was locked.{p}"
+  },
+  {
+   "id": "07:ae38",
+   "op": "text",
+   "en": "\"Excuse me! Excuse me! Please! Open the door!\"\n...There was no answer.\nWas the teacher out making the rounds right now?{p}"
+  },
+  {
+   "id": "07:aeb8",
+   "op": "text",
+   "en": "What should I do?\nShould I try to get in?\nOr should I go somewhere else?\n"
+  },
+  {
+   "id": "07:aef0",
+   "op": "choice",
+   "en": "Unlock the door"
+  },
+  {
+   "id": "07:aefc",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:af14",
+   "op": "text",
+   "follows_choice": [
+    "07:aef0"
+   ],
+   "en": "I opened the door with the bunch of keys I'd brought from the staff room.{p}"
+  },
+  {
+   "id": "07:af74",
+   "op": "text",
+   "en": "The TV was on.{p}The teacher was watching it, back turned to me.\n"
+  },
+  {
+   "id": "07:afb8",
+   "op": "choice",
+   "en": "Run over to the teacher"
+  },
+  {
+   "id": "07:afc8",
+   "op": "choice",
+   "en": "Take a good look around the room"
+  },
+  {
+   "id": "07:afdc",
+   "op": "text",
+   "follows_choice": [
+    "07:afc8"
+   ],
+   "en": "Something was wrong.\nThe teacher was right there inside, yet didn't answer?\n...Could something have happened?\nWithout thinking, I looked around the room.\nThere was nowhere in this room for anyone to hide.\nI called out once more.\n\"...Teacher?\"\nBut still no answer came back.\nI ran over and put my hand on the teacher's shoulder.\nAnd then...\nThe teacher slumped limply over.\n\"Aaagh!\"\nThe teacher's throat had been slit wide open, straight across.{p}"
+  },
+  {
+   "id": "07:b168",
+   "op": "text",
+   "en": "...Dead!\n\"Diiiiiie!\"\nSuddenly, a voice rang out.{p}"
+  },
+  {
+   "id": "07:b1c4",
+   "op": "text",
+   "en": "I turned around to see Shindo lunging at me from the doorway.\nHe had a knife in his hand.\n\"Whoa!\"\nI dodged it by a hair.\nThe knife grazed my cheek.\nIt burned!\nI pulled the hammer and the saw out of my belt.{p}"
+  },
+  {
+   "id": "07:b288",
+   "op": "text",
+   "en": "Seeing that, Shindo grinned.\n\"Packing some pretty dangerous stuff there, huh?\nYou planning to take me on with that?\"\nShindo held his knife ready, watching me closely.\nHe looked like he was well used to fighting.\nIf I charged in carelessly, I'd be the one who got taken down.\nBut the same went for Shindo.\nWe each watched the other, waiting.{p}"
+  },
+  {
+   "id": "07:b3c0",
+   "op": "text",
+   "en": "\"Did you kill the teacher?\"\n\"Yeah. They were in my way.\"\nThis guy... he kills a person and doesn't feel a thing?\nIf this kept up, time would just keep slipping away.{p}"
+  },
+  {
+   "id": "07:b450",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:b460",
+   "op": "choice",
+   "en": "Rush in close to him"
+  },
+  {
+   "id": "07:b47c",
+   "op": "choice",
+   "en": "Throw the hammer at him"
+  },
+  {
+   "id": "07:b494",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "07:b49c",
+   "op": "choice",
+   "en": "Run for now"
+  },
+  {
+   "id": "07:b4bc",
+   "op": "text",
+   "follows_choice": [
+    "07:b47c"
+   ],
+   "en": "On reflex, I hurled the hammer at him.\n\"Ngh!\"\nAs Shindo threw both hands up in front of his face to block it, I brought down the saw I was holding in my other hand.{p}"
+  },
+  {
+   "id": "07:b558",
+   "op": "text",
+   "en": "\"Gyaah!\"\nThe saw bit into Shindo's right hand, and he dropped the knife.\nWithout stopping, I slammed my body into him, knocked him down and straddled him.{p}"
+  },
+  {
+   "id": "07:b5e8",
+   "op": "text",
+   "en": "\"Guhh!\"\nI quickly snatched up the knife he had dropped and pressed it against his throat.\nShindo was trembling.\nThen he went still.\nWas he waiting for me to slip up, or had he given up?{p}"
+  },
+  {
+   "id": "07:b6a4",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:b6b4",
+   "op": "choice",
+   "en": "Press the knife in harder"
+  },
+  {
+   "id": "07:b6d0",
+   "op": "choice",
+   "en": "Ask why he's trying to kill me"
+  },
+  {
+   "id": "07:b6f0",
+   "op": "choice",
+   "en": "Ask where the ampoule is"
+  },
+  {
+   "id": "07:b710",
+   "op": "choice",
+   "en": "Let him go"
+  },
+  {
+   "id": "07:b720",
+   "op": "choice",
+   "en": "Tie him up"
+  },
+  {
+   "id": "07:b72c",
+   "op": "text",
+   "follows_choice": [
+    "07:b6f0"
+   ],
+   "en": "\"Where's the ampoule?\"\n\"Beats me.\"\nI pressed the blade against him.\n\"Lie to me and I'll kill you. I don't have much time left.\nI don't mind killing you and taking you down with me.\"\nCold sweat beaded on his forehead.\n\"...I really don't know. Only Hino knows.\"{p}"
+  },
+  {
+   "id": "07:b820",
+   "op": "text",
+   "en": "...So what Kazama said was true after all.{p}"
+  },
+  {
+   "id": "07:b858",
+   "op": "text",
+   "follows_choice": [
+    "07:b6d0"
+   ],
+   "en": "\"Why are you trying to kill me? I've never done anything to deserve your revenge!\"\nAt that, Shindo's eyes flew wide open, then he gave me a look of contempt and snorted.\n\"...Hmph. You say you don't know me?\nFigures, for a lowlife like you.\nI bet you don't even remember the time I was out recruiting new students for my club.\"\nI frowned.\nClub recruitment...\nI'd talked with plenty of upperclassmen, but I didn't remember Shindo's face.\n\"That look says you don't remember.\nNot that I expected you to.\nI called out to you again and again.\nBut you ignored me and just walked off.\"\n\"And?\"\n\"That's it.\"\n\"...That's it?\"\nI couldn't believe what Shindo was saying.\n\"That's more than enough reason to kill you, isn't it? Die!\"\nShindo's words shocked me so badly that I let my guard slip for an instant.\nShindo didn't miss it.{p}"
+  },
+  {
+   "id": "07:bb98",
+   "op": "text",
+   "en": "He threw me off, grabbed the hammer I'd thrown, raised it high and came at me.{p}"
+  },
+  {
+   "id": "07:bbec",
+   "op": "text",
+   "en": "\"Waaah!\"\nOn instinct, I yanked the TV cord that was right by my hand.\n\"Ah!\"\nShindo tripped over the cord and fell.{p}"
+  },
+  {
+   "id": "07:bc70",
+   "op": "text",
+   "en": "Right then, I pulled the cord out and tied Shindo's hands behind his back.{p}"
+  },
+  {
+   "id": "07:bcb4",
+   "op": "text",
+   "en": "\"Stop it! Let go of me!\"\n...I didn't even feel like killing a guy like this.\nOnce I'd tied Shindo up, I pulled a sock off the teacher's body sprawled on the floor and stuffed it into Shindo's mouth.\n\"Mmph!\"{p}"
+  },
+  {
+   "id": "07:bd68",
+   "op": "text",
+   "en": "Then I slapped Shindo across the face.\n\"Shut up! That's all you deserve.\nI'll hand you over to the police later. You murderer!\"\nI gagged Shindo and tied him to a pillar.\nThen I decided to take the knife Shindo had been carrying.{p}"
+  },
+  {
+   "id": "07:be4c",
+   "op": "text",
+   "en": "This looked like it'd be easier to use than a hammer or a saw.{p}"
+  },
+  {
+   "id": "07:bea0",
+   "op": "text",
+   "en": "Now, what should I do?\nI had to search the night-duty room.\n"
+  },
+  {
+   "id": "07:becc",
+   "op": "choice",
+   "en": "Check the sink"
+  },
+  {
+   "id": "07:bedc",
+   "op": "choice",
+   "en": "Check the closet"
+  },
+  {
+   "id": "07:bef0",
+   "op": "choice",
+   "en": "Check the shelf"
+  },
+  {
+   "id": "07:befc",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:bf0c",
+   "op": "text",
+   "follows_choice": [
+    "07:bef0"
+   ],
+   "en": "I checked the shelf.\nThere was no sign of the ampoule.\nBut there was a flashlight sitting there.\nSome places had no working lights.\nWith this, I could manage places like that.\nI decided to take the flashlight with me.{p}What should I do?\n"
+  },
+  {
+   "id": "07:bff0",
+   "op": "text",
+   "follows_choice": [
+    "07:befc"
+   ],
+   "en": "All right, I'd go somewhere else.{p}Where should I go?\n"
+  },
+  {
+   "id": "07:c01c",
+   "op": "text",
+   "follows_choice": [
+    "07:7748",
+    "07:f298"
+   ],
+   "en": "The newspaper club room☆\nThat's right, it might be there.\nIt was the last place I'd ever think to search.\nHino being Hino, I was sure of it.\nHe'd be out to outsmart me, no doubt.\n...Was anyone still left in the newspaper club room?\nNo, judging from the situation, they were all out looking for me.\nDid they think they were having fun on some kind of manhunt?{p}"
+  },
+  {
+   "id": "07:c158",
+   "op": "text",
+   "en": "I arrived at the newspaper club room.\nI couldn't hear any voices from inside.\nKeeping an eye on my surroundings, I went into the club room.{p}"
+  },
+  {
+   "id": "07:c1ec",
+   "op": "text",
+   "en": "...No one was there.\nNow, where should I search?\n"
+  },
+  {
+   "id": "07:c214",
+   "op": "choice",
+   "en": "Search the shelf"
+  },
+  {
+   "id": "07:c220",
+   "op": "choice",
+   "en": "Search the table"
+  },
+  {
+   "id": "07:c230",
+   "op": "choice",
+   "en": "Go somewhere else"
+  }
+ ]
+}

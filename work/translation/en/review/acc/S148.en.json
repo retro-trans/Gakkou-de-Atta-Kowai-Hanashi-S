@@ -1,0 +1,329 @@
+{
+ "slice": "S148",
+ "scene": "38",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S147",
+ "next": "S149",
+ "todo": [],
+ "rows": [
+  {
+   "id": "38:6874",
+   "op": "choice",
+   "en": "I saw something"
+  },
+  {
+   "id": "38:687c",
+   "op": "choice",
+   "en": "I can't see anything"
+  },
+  {
+   "id": "38:6888",
+   "op": "text",
+   "follows_choice": [
+    "38:687c"
+   ],
+   "en": "So you didn't actually see anything.\nBut you can tell this tree isn't just an ordinary cherry tree, right?\nYou can tell from the blossoms alone, but there's a lot more around it, things the eye can't see.\nThere might be loads of faces full of hatred showing up on that trunk, too...{p}"
+  },
+  {
+   "id": "38:69a0",
+   "op": "text",
+   "en": "Heh heh, looks like you did see something, {c}{f:|}.\nIf you didn't see anything, I guess that means your sixth sense is weak.\n...You've had enough now, right?\nLet's go back to the club room.\nWe still have to hear everyone else's stories.\nWho are you picking next?{p}"
+  },
+  {
+   "id": "38:6a68",
+   "op": "text",
+   "follows_choice": [
+    "38:6624"
+   ],
+   "en": "So you really are scared.\nYou know, around this tree, nothing comes near it. Not just animals, even birds and bugs stay away.\nEven the stray dogs you see in empty lots never go near it, and you don't see crows flying around here either, right?\nAnimal instinct, I guess.\nThey can sense the danger.\nHumans are the only ones who still want to go, even when they know better.{p}"
+  },
+  {
+   "id": "38:6b88",
+   "op": "text",
+   "en": "Did you know?\nLots of people go missing around this tree.\nSometimes they get found, apparently, but every one of them is so weak it's like all the nourishment got sucked out of their bodies, and hardly any of them make it.\nEven the ones who finally pulled through get tormented by visions, and they're in the hospital, or so I hear...\nOne of them said they could see a human face on their arm, and tried to cut it off with a box cutter.\nAs if you could cut off an arm with something like that.\nThe people around them stopped them right away, so the wound wasn't too bad, apparently.\nBut then, the wound talked, they say.\nTwisting up hideously, it let out a shriek, 'Come quickly,' and laughed.\n...Are you even more scared now?\nOkay, okay, let's hurry back.\nWho are you going to ask next?{p}"
+  },
+  {
+   "id": "38:6e10",
+   "op": "text",
+   "follows_choice": [
+    "38:6730"
+   ],
+   "en": "What's wrong?\nYou've had enough already?{p}"
+  },
+  {
+   "id": "38:6e30",
+   "op": "text",
+   "follows_choice": [
+    "38:20ac",
+    "38:5cf0",
+    "38:60fc",
+    "38:8998",
+    "38:8c00"
+   ],
+   "en": "You're not going?{p}"
+  },
+  {
+   "id": "38:6e54",
+   "op": "text",
+   "en": "Hmm, how boring...\nWell, they do say it's better not to go near it carelessly, just out of curiosity.\nLike, say you touched that cherry tree, right?\nThey say the skin where you touched it breaks out in a rash.\nAt first it just puffs up a little, but nothing you put on it makes it heal, and in the end it festers into an oozing mess. That's what I've heard.\nThere was someone before who touched the tree out of curiosity, and their skin festered, and they couldn't stand it anymore and cut that spot off with a box cutter.{p}"
+  },
+  {
+   "id": "38:7010",
+   "op": "text",
+   "en": "Why couldn't they stand it?\nOther people couldn't see it like that, but it talked, they say, with a human face...\nAnd it was always looking up at them with resentment, apparently.\nThat blackened, festering skin they'd cut off twisted its lips and said this, they say.{p}"
+  },
+  {
+   "id": "38:711c",
+   "op": "text",
+   "en": "\"I want your body...\"\nThat's the end of my story.\nWell then, next person, go ahead...{p}"
+  },
+  {
+   "id": "38:7174",
+   "op": "text",
+   "follows_choice": [
+    "38:56fc"
+   ],
+   "en": "Do you really think so?\n\"Let's chop that tree down.\"\n...Weren't you the one saying stuff like that?{p}"
+  },
+  {
+   "id": "38:71d0",
+   "op": "text",
+   "en": "Ahaha, you're starting to get scared, huh.\nThat's a relief.\nI was starting to think I was the only scaredy-cat.{p}"
+  },
+  {
+   "id": "38:7248",
+   "op": "text",
+   "en": "But you can feel it, right?\nThat swirl of sinister energy wrapping itself around this school...\nAnd right at the center of it is that cherry tree.{p}"
+  },
+  {
+   "id": "38:72c4",
+   "op": "text",
+   "en": "They say schools are places where spirits gather easily.\nBecause that tree is pulling in the spirit paths, I think all the wandering spirits around here are gathering there too.\nThey say that with Kokkuri-san too, low-level spirits and animal spirits are easier to call, right?\nI can't tell what kind of spirit paths run through it, but I feel like I can kind of sense a swirl of dark feelings centered on the cherry tree.\nWhenever I look at that tree, I get goosebumps.\nSomewhere far off in the back of my mind, an alarm goes off.\nThat tree is dangerous!\nThey say it's still on the quiet side for now.\nBut one of these days... the grudges of the spirits, stored up to their limit, will burst into bloom.\nWith malice riding on every single petal...\nWhen that time comes, what's going to happen to this school, I wonder?\nIt might be tomorrow, or it might be a year from now.\nOr maybe it's already...{p}"
+  },
+  {
+   "id": "38:759c",
+   "op": "text",
+   "en": "Actually, before I came here, I went to look at that tree.\nIt was in bloom.\nIt seems kind of off-season, but they say that cherry tree is like this every year.\nMy big sister graduated from here too.\nShe told me it's the cherry tree that forgets the seasons.\nAnd so...\nWhat kind of blossoms do you think were blooming?\nCherry blossoms, of course.{p}Don't go answering roses or tulips or something.\n"
+  },
+  {
+   "id": "38:76e8",
+   "op": "choice",
+   "en": "Ordinary cherry blossoms"
+  },
+  {
+   "id": "38:76f8",
+   "op": "choice",
+   "en": "Cherry blossoms filled with grudges"
+  },
+  {
+   "id": "38:7728",
+   "op": "text",
+   "follows_choice": [
+    "38:76e8"
+   ],
+   "en": "Good for you.\nDon't worry, they were still ordinary blossoms.\nThough the cherry tree itself was creepy, like always.\nFrom now on, you'd better keep a careful eye on that tree too, {c}{f:|}.\nLike, keep an observation diary or something...\nOh, that's a good one!\nYou totally have to do it.\nAnd if it looks like something's about to happen, tell me, okay?\nOkay, that's as far as my story goes.\nWho's next?{p}"
+  },
+  {
+   "id": "38:786c",
+   "op": "text",
+   "follows_choice": [
+    "38:76f8"
+   ],
+   "en": "...Hmm.\nSo it really is like that, huh.\nYou know, that cherry tree's blossoms are usually a deeper color than ordinary cherry blossoms.\nFrom far away, it looks like a red mist.\nBut when I saw it just now, the blossoms were white.\nLike snow... is that how I'd put it?{p}"
+  },
+  {
+   "id": "38:795c",
+   "op": "text",
+   "en": "Pale, bluish-white blossoms without the slightest warmth were in full bloom.\nIt was beautiful, but it was a frightening sight...\nThe petals fluttering down felt like they were chasing me, so I hurried away from there.\nEven so, petals stuck to my hair and shoulders, and they just wouldn't come off.\nSee, there are still some stuck on me, right?{p}"
+  },
+  {
+   "id": "38:7a74",
+   "op": "text",
+   "en": "Eww, I just noticed something.\nLook.\nThese petals... can't you see faces on them★\nMore like skulls than faces, maybe.\nAnyway, these are blossoms full of grudges, aren't they!\nEek, I don't want them!{p}"
+  },
+  {
+   "id": "38:7b40",
+   "op": "text",
+   "en": "Here, they're yours, {c}{f:|}.{p}"
+  },
+  {
+   "id": "38:7b64",
+   "op": "text",
+   "en": "Hurry up and throw them away!\n…………\n…………{p}"
+  },
+  {
+   "id": "38:7bb8",
+   "op": "text",
+   "en": "...Did you throw them away?\n"
+  },
+  {
+   "id": "38:7bd0",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "38:7bd8",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "38:7bf4",
+   "op": "text",
+   "follows_choice": [
+    "38:7bd0"
+   ],
+   "en": "Thank you.\nMore importantly, things have gotten really bad, huh.\nI mean, the grudge blossoms have bloomed.\nThis gathering isn't going to end safely.\nI don't know what's going to happen, but I hope we get to hear everyone's stories.\nOkay, that's the end of my story.\nLet's hurry on to the next person.{p}"
+  },
+  {
+   "id": "38:7cf4",
+   "op": "text",
+   "follows_choice": [
+    "38:7bd8"
+   ],
+   "en": "Meanie!{p}"
+  },
+  {
+   "id": "38:7d04",
+   "op": "text",
+   "follows_choice": [
+    "38:6874"
+   ],
+   "en": "Really?\nThat's great.\nTelling this story was worth it, then.\nOkay, try putting your hand on the tree trunk.\nTry to feel the spirits even more...{p}"
+  },
+  {
+   "id": "38:7d8c",
+   "op": "text",
+   "en": "Close your eyes...\nOpen your heart...\nSee? Amazing, right?\nThey say people who see spirits here get bewitched by the cherry tree.\nThe spirits' grudges drag the living in, they say.\nAnd the ones who get pulled in try to escape their suffering by calling yet another person, they say.\nWhen they pull someone else in, they're freed from the suffering for just a little while, or so I hear...{p}"
+  },
+  {
+   "id": "38:7ef0",
+   "op": "text",
+   "en": "{c}{f:|}, you saw the spirits, didn't you?\nHeh heh, I didn't see a thing.\nBut you saw them, right?\nEver since I heard this story, I've brought all kinds of people here, but you're the first one who's ever seen the spirits, {c}{f:|}.\nSo I don't know what happens to people who get bewitched.\nSorry.\nYou'll probably get dragged in.\nScary, huh.\n...I see, so the rumor was true.\nWell, I'm satisfied now, so shall we head back to the club room?\nHeh heh, don't worry.\nIf anything happens to you, {c}{f:|}, I'll prove it for you.\nIt was the cherry tree's curse.\n...Like that.\nThat's as far as my story goes.\nWho's next...?{p}"
+  },
+  {
+   "id": "38:811c",
+   "op": "text",
+   "follows_choice": [
+    "38:17a0"
+   ],
+   "en": "I think so too.\nNo matter how you look at it, it's not normal.\nI'll tell you a story about that tree.\n...It's from before this school was built, so it was a really long time ago...{p}"
+  },
+  {
+   "id": "38:81d0",
+   "op": "text",
+   "en": "They say there used to be a small lake around here.\nThat cherry tree supposedly stood on the shore of that lake, so the old school building would have been completely underwater.\nNature worship, I guess you'd call it?\nIt's a faith that's been around in Japan since way back, and that lake and the cherry tree were worshipped by the people back then too.\nIt was a local folk faith, so I think it was something simple.\nPrayers for a good harvest, praying for rain, and festivals of thanks...\nOrdinary stuff you'd find anywhere, right?\nLoved by simple people, it must have spent its days in peace.\nYes, until that time came...{p}"
+  },
+  {
+   "id": "38:83a8",
+   "op": "text",
+   "en": "One year, a famine struck the village.\nThe drought went on and on, the crops withered, and even the river that flowed nearby was running low.\nEven so, the lake was still brimming with clear water, they say.\nThanks to that, the villagers could at least quench their thirst, apparently.\nSince it was a sacred place, they held back at first, but little by little, everyone seems to have gotten more shameless.\nThey were greedy, weren't they.\nBefore long, the villagers were fighting each other over the water, and it got fiercer day by day.\nAs if heaven were angry at people like that, there wasn't the slightest sign of rain.\nOn the contrary, even the lake's water started to shrink.{p}"
+  },
+  {
+   "id": "38:85c8",
+   "op": "text",
+   "en": "By then, the villagers' fighting had turned into killing each other, they say...\nWhen a traveler passing through saw it, the villagers' corpses were scattered across the bottom of the dried-up lake, and every body was shriveled bone-dry, without a single drop of blood left in it.{p}"
+  },
+  {
+   "id": "38:86a4",
+   "op": "text",
+   "en": "Right beside them, that cherry tree was apparently in magnificent full bloom.\nIt happened at the end of summer, too, when it wasn't blossom season at all.\nIt sucked up the villagers' blood and bloomed.\nThat's why the cherry tree here is a little deeper red.{p}"
+  },
+  {
+   "id": "38:8774",
+   "op": "text",
+   "en": "...So, scary story, right?{p}What part scared you?\n"
+  },
+  {
+   "id": "38:87a4",
+   "op": "choice",
+   "en": "Human greed"
+  },
+  {
+   "id": "38:87b0",
+   "op": "choice",
+   "en": "The power of nature"
+  },
+  {
+   "id": "38:87bc",
+   "op": "text",
+   "follows_choice": [
+    "38:87a4"
+   ],
+   "en": "You think the same way I do.\nGhosts and monsters are scary too, but people really are the scariest.\nEspecially people possessed by greed.\nThey don't know any limits, right?\nI'm not saying having no desires is a good thing, but hearing this story kind of makes you think, doesn't it?\nYou'd better remember that people can change into something else entirely.\nAnd also that, along with the villagers' blood, that vile greed flowed into that cherry tree.\nInside that tree lives a devil, made of greed and the grudges that always come with it.\nSo?\nWhy don't we go take a look right now?{p}Take a look at what? That cherry tree, of course.\n"
+  },
+  {
+   "id": "38:898c",
+   "op": "choice",
+   "en": "Let's go see it"
+  },
+  {
+   "id": "38:8998",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "38:89a8",
+   "op": "text",
+   "follows_choice": [
+    "38:87b0"
+   ],
+   "en": "Right?\nIn the face of nature's incredible power, humans are such tiny things.\nThere are huge powers like drought, and there are even mysterious powers, like flowers that bloom by sucking blood from corpses.\nThere may not be many people who can reach a plant's heart, but most plants understand what people say, you know.\nEven something humans spent long, long years building, nature can snatch away in an instant.\nYou've probably figured it out already, but hidden inside that cherry tree are nature's mysterious power and the bitter regret of the humans who lost to it...\nYou should take a good look at it sometime.\nIt'll overwhelm you.\nOh, I know, why don't we go see it now?{p}Come on, it can count as research for the interview too.\n"
+  },
+  {
+   "id": "38:8bf4",
+   "op": "choice",
+   "en": "Let's go see it"
+  },
+  {
+   "id": "38:8c00",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "38:8c34",
+   "op": "text",
+   "follows_choice": [
+    "38:23a8"
+   ],
+   "en": "Really?\nTelling this story was worth it, then.\nOkay, try putting your hand on the tree trunk.\nTry to feel the spirits even more...\nAnd then, try closing your eyes.{p}"
+  },
+  {
+   "id": "38:8cdc",
+   "op": "text",
+   "en": "Now listen closely.\nSee, amazing, right?\nAnd you know, they say once someone has seen a spirit here, they'll see all kinds of things for a while afterward.\nIn this world, it's often happier not to see, isn't it?\nEspecially at this school...\nIf you're stuck in a place this full of ghosts, you'll go crazy.{p}"
+  },
+  {
+   "id": "38:8e04",
+   "op": "text",
+   "en": "{c}{f:|}?\nYou look pale.\nDon't tell me you're seeing something horrible?\nOh my, that's bad.\nWe'd better hurry back to the club room.\nHeh heh, but it's the same wherever you go, I guess...\nAnyway, my story ends here.\nNext person, go ahead.{p}"
+  },
+  {
+   "id": "38:8efc",
+   "op": "text",
+   "follows_choice": [
+    "38:2504"
+   ],
+   "en": "Really?\nTelling this story was worth it, then.\nOkay, try putting your hand on the tree trunk.\nTry to feel the spirits even more...\nAnd then, try closing your eyes.{p}"
+  },
+  {
+   "id": "38:8fa4",
+   "op": "text",
+   "en": "See, amazing, right?\nAnd you know, they say once someone has seen a spirit here, for a while afterward, whenever they close their eyes, what they saw will float up in front of them.\nGo on, try blinking...\nGo on, try closing your eyes...\nCan't you see it?{p}"
+  },
+  {
+   "id": "38:908c",
+   "op": "text",
+   "en": "Heh heh heh.\nThat's the end of my story.\nWell then, next person, go ahead...{p}"
+  },
+  {
+   "id": "38:90f8",
+   "op": "text",
+   "en": "It's a story that makes you want to cry, isn't it?\nBut she still clings to this world, so it seems she envies the people who are actually alive.\nThat's why they say it's better not to go near it carelessly, just out of curiosity.\nLike, say you touched that cherry tree, right?\nThey say the skin where you touched it breaks out in a rash.\nAt first it just puffs up a little, but nothing you put on it makes it heal, and in the end it festers into an oozing mess. That's what I've heard.\nThere was someone before who touched the tree out of curiosity, and their skin festered, and they couldn't stand it anymore and cut that spot off with a box cutter.{p}"
+  },
+  {
+   "id": "38:92fc",
+   "op": "text",
+   "en": "Why couldn't they stand it?\nOther people couldn't see it like that, but it talked, they say, with a human face...\nAnd it was always looking up at them with resentment, apparently.\nThat blackened, festering skin they'd cut off twisted its lips and said this, they say.\n\"Take me away from there...\"\nThat's the end of my story.\nWell then, next person, go ahead...{p}"
+  }
+ ]
+}

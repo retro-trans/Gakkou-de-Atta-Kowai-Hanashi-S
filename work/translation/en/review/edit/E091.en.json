@@ -1,0 +1,817 @@
+{
+ "chunk": "E091",
+ "scene": "45",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S178",
+  "S179"
+ ],
+ "prev": "E090",
+ "next": "E092",
+ "todo": [],
+ "rows": [
+  {
+   "id": "45:a6b8",
+   "op": "text",
+   "en": "...Beneath this mask lies my heart.\nIf I take the mask off, it will reach you.\nAnd then you'll surely think I'm a horrible girl......\nJust saying it myself has made me sad...{p}"
+  },
+  {
+   "id": "45:a780",
+   "op": "text",
+   "en": "...She turned toward the window.\nThe morning sun had begun to rise, and bright light streamed in through the window.\nThe throat peeking out from under her mask glittered, reflecting the light.\n\"No, you're wrong. Your heart isn't like that.\nMaybe right now it's stained with the rage you felt when you were killed, but your true heart is still pure.\"\nI said it almost in a shout.{p}"
+  },
+  {
+   "id": "45:a8c8",
+   "op": "text",
+   "en": "She lowered her head a little.\nAnd I felt as if she had said 'thank you.'\n...Well then, we'll be going back now.\nYou take care, too.\nI was thinking of making you one of us, but I'll let it go.\nYour heart is too dazzling for me...{p}"
+  },
+  {
+   "id": "45:a9cc",
+   "op": "text",
+   "en": "...Goodbye.\nShe went back into the stall.\nThen, still facing away, she took off her mask, held it up high and waved it.\nI felt as though the white, expressionless mask smiled a little.\n.............\n\"Goodbye...\"\nWhen the six had gone into the stalls too, the doors closed on their own.{p}"
+  },
+  {
+   "id": "45:aafc",
+   "op": "text",
+   "en": "Morning sunlight was shining in through the window.\nBathing in that refreshing light, I gazed outside.\nThe sharp light stung my sleep-deprived eyes, but somehow even that felt good.\nIt felt as though everything that had been happening until just a moment ago had been a long dream.\nI stretched as hard as I could.\n\"Mmmmh...\"{p}"
+  },
+  {
+   "id": "45:ac1c",
+   "op": "text",
+   "en": "When I hurriedly turned around, that mask was lying in front of the stall.\nI picked it up.\n...It was the same white, expressionless mask as when I first saw it.\nI looked at the stall door once more, but I could no longer feel anything from it.{p}"
+  },
+  {
+   "id": "45:ad08",
+   "op": "text",
+   "en": "Still holding the mask, I left the restroom.{p}"
+  },
+  {
+   "id": "45:ad3c",
+   "op": "text",
+   "en": "You're an indecisive person, aren't you.\n...Well, fine.\nThere's no need to go out of my way to show it to someone who doesn't want to see it.{p}",
+   "follows_choice": [
+    "45:87d4"
+   ]
+  },
+  {
+   "id": "45:adb4",
+   "op": "text",
+   "en": "But the truth is, you got scared, didn't you?\nWhen you heard you might regret it.\nI can tell, you know. I know how you feel.{p}With courage like that, do you really think you could save a girl when it counts?\n"
+  },
+  {
+   "id": "45:ae74",
+   "op": "choice",
+   "en": "Yes, I think I could"
+  },
+  {
+   "id": "45:ae80",
+   "op": "choice",
+   "en": "No, I don't think I could"
+  },
+  {
+   "id": "45:ae90",
+   "op": "choice",
+   "en": "Don't answer"
+  },
+  {
+   "id": "45:aea0",
+   "op": "text",
+   "en": "I see.\nThat strikes me as a serious delusion, though...\nAfter all, you couldn't save Tomoharu Hosoda, could you?\nOr could you have saved someone if it were a girl instead of a boy?\nVery well.\nI'll test you.\nTo see whether you can save a girl when it counts.\n...With that, she called Iwashita and Fukuzawa forward.\n\"If it were up to you, which girl would you like to try saving?\"{p}",
+   "follows_choice": [
+    "45:ae74"
+   ],
+   "returns": [
+    "45:aea0/45:b47c: RETURN - tonda kanchigai rendered 'a serious delusion'; 'you're sorely mistaken' may suit the voice better."
+   ]
+  },
+  {
+   "id": "45:b020",
+   "op": "text",
+   "en": "\"You seem to understand yourself well.\nBut isn't it sad?\nThinking of yourself that way.\nOr are you the type who enjoys tormenting yourself with thoughts like that?\n...You did a fine job as the six's guide.\nBut that role is over now.\nAt least you got to have a precious experience before you die.\nIf I'd taken a liking to you, I was going to stay with you, but it seems you weren't worth that much.\nWell then, goodbye.\"{p}",
+   "follows_choice": [
+    "45:ae80"
+   ]
+  },
+  {
+   "id": "45:b1ec",
+   "op": "text",
+   "en": "\"Wha...\"\nThe scenery around me wavered for an instant, and then everything was swallowed by darkness.\n(Where am I★)\nI looked around and was shocked.\nBelow me, I could see the streetlights of the town.\nBefore I knew it, I was up in the sky!\nI was falling at a tremendous speed.\nThe streetlights that had spread out below me now spread out above my head.\nI was falling headfirst.\n(Am I going to die?\nWhy?\nNo, I don't want to die yet☆){p}"
+  },
+  {
+   "id": "45:b38c",
+   "op": "text",
+   "en": "Faced with the terror of death, I felt my consciousness slip away.{p}"
+  },
+  {
+   "id": "45:b3c0",
+   "op": "text",
+   "en": "\"You have a poor memory, don't you.\nDidn't I just tell you I know what you're thinking?{p}You were thinking...\n",
+   "follows_choice": [
+    "45:ae90"
+   ]
+  },
+  {
+   "id": "45:b434",
+   "op": "choice",
+   "en": "That I could save a girl"
+  },
+  {
+   "id": "45:b454",
+   "op": "choice",
+   "en": "That I couldn't save a girl"
+  },
+  {
+   "id": "45:b47c",
+   "op": "text",
+   "en": "You seem to think you could save one.\nThat strikes me as a serious delusion, though...\nAfter all, you couldn't save Tomoharu Hosoda, could you?\nOr could you have saved someone if it were a girl instead of a boy?\nVery well.\nI'll test you.\nTo see whether you can save a girl when it counts.\n...With that, she called Iwashita and Fukuzawa forward.{p}\"If it were up to you, which girl would you like to try saving?\"\n",
+   "follows_choice": [
+    "45:b434"
+   ],
+   "returns": [
+    "45:aea0/45:b47c: RETURN - tonda kanchigai rendered 'a serious delusion'; 'you're sorely mistaken' may suit the voice better."
+   ]
+  },
+  {
+   "id": "45:b628",
+   "op": "choice",
+   "en": "Iwashita"
+  },
+  {
+   "id": "45:b630",
+   "op": "choice",
+   "en": "Fukuzawa"
+  },
+  {
+   "id": "45:b638",
+   "op": "choice",
+   "en": "I don't want either one"
+  },
+  {
+   "id": "45:b654",
+   "op": "text",
+   "en": "So you're not just indecisive, you're plain selfish.\nIn that case, let's do this.\nSuppose I were a woman of unrivaled beauty...\nWith that, she took off her mask without the slightest hesitation.{p}",
+   "follows_choice": [
+    "45:b638"
+   ]
+  },
+  {
+   "id": "45:b71c",
+   "op": "text",
+   "en": "The face beneath it...\nIt was a face of a beauty beyond words.\nFor a while, I could only stare at it, entranced.\n...So this is the kind of face you like.\nToo bad, but your face isn't my type.\nThen again, you can't tell what a person is really like from the outside alone.{p}"
+  },
+  {
+   "id": "45:b828",
+   "op": "text",
+   "en": "She kept guessing every single thought in my head, which made her really hard to deal with.{p}"
+  },
+  {
+   "id": "45:b880",
+   "op": "text",
+   "en": "...Now, try to save me.\nMe, back when I was being bullied...\nWith that, she put the mask on me.{p}"
+  },
+  {
+   "id": "45:b904",
+   "op": "text",
+   "en": "(Wh-what is this place?)\nAn unfamiliar classroom... but somehow it looked like somewhere I'd seen before...\nI've got it, this is the old school building.\nBut unlike the old school building I knew, it felt somewhat newer.\nIs this the world as seen through the mask?\nBesides me, several students were studying.\n\"Hey, don't you think the teacher forgot about us?\"\nOne of the students brought it up.\n\"No way...\"\n\"Nah, it could happen.\"\n(Wh-what is this★\nThis is that make-up class story she was telling me about!\nOne, two, three, four... sure enough, there are seven other students besides me!\nAnd the students here all look like the six who gathered to tell the scary stories.\nExcept that the masked girl is mixed in with them)\n\"Hey, {a}, you think so too, right?\"\n\"Yeah, you're right.\nThe teachers must have forgotten all about us.\"\n(Wh-what★ The words are coming out on their own!)\nWhen I was acting normally, I could move my body freely, but at the crucial moments, my body moved on its own.\n(Is this a hallucination? Why am I in a place like this?){p}"
+  },
+  {
+   "id": "45:bcbc",
+   "op": "text",
+   "en": "\"Man, this really ticks me off...\nHey, look, there's someone still studying in a situation like this.\"\nA guy who looked like Shindo turned his attack on the masked girl.\n(Is this guy Shindo's father...?)\n\"If you love studying that much, you should've studied before the test.\"\n\"It's like she's doing it just to rub it in our faces.\"\nEveryone started badmouthing her.\nShe stayed silent, staring at her desk.\n\"You, come here a minute. We need to talk.\"{p}"
+  },
+  {
+   "id": "45:be64",
+   "op": "text",
+   "en": "Saying that, she took the masked girl to the restroom.\nEveryone else went along too.\nMy body followed along too, on its own.\n(...Isn't this the third-floor girls' restroom?)\n\"Listen, you're just panicking because you got a failing grade for the first time, aren't you?\"\n\"Yeah, we get one every single time.\"\n\"...Not that it's anything to brag about.\"\n\"Anyway, I'd like you to stop throwing off our study pace.\nWith you around, it just makes us look like we're slacking off.\"\nWith that, everyone surrounded her and shoved her again and again.\n(No, we can't do this. She hasn't done anything wrong.\n...It's no good, my body won't listen to me)\nI was shoving her right along with them.\n\"Let's lock her in the restroom and go home.\"\nSomeone said it in a low voice.\nLow as it was, she must have heard it.\nEven so, she kept her eyes down and said nothing.\n\"Ooh, nice. Sounds fun...\"{p}"
+  },
+  {
+   "id": "45:c1b8",
+   "op": "text",
+   "en": "No, I have to stop this.\nBut my body won't obey me.{p}What do I do...?\n"
+  },
+  {
+   "id": "45:c204",
+   "op": "choice",
+   "en": "Try to stop them somehow"
+  },
+  {
+   "id": "45:c21c",
+   "op": "choice",
+   "en": "Watch how it plays out"
+  },
+  {
+   "id": "45:c230",
+   "op": "text",
+   "en": "It's no use.\nNo matter what I do, my body won't obey me.\nTears were welling up in her eyes.\nWhat do I do...?{p}",
+   "follows_choice": [
+    "45:c204"
+   ]
+  },
+  {
+   "id": "45:c298",
+   "op": "text",
+   "en": "She pressed her lips tightly together, desperately holding back her tears.\nWhat do I do...?{p}"
+  },
+  {
+   "id": "45:c2f0",
+   "op": "text",
+   "en": "It's no use.\nNo matter what I do, my body won't obey me.\nBig tears spilled from her eyes.\nI summoned every ounce of strength I had and tried to force my disobedient body to move.\n(It's no good, it won't move...\nShe's crying, isn't she? Am I going to let that tragedy happen all over again?\nI'm so powerless.\nEven being right here, there's nothing at all I can do for her...\nWhy can't I save her...?\nAm I really just afraid?\nDon't I think that if I stand up for her, I'll be the one bullied next?\nSay my body did move the way I wanted... would I even try to save her then?\nAren't I just hiding behind this body that won't move?\n...Maybe that's it.\nThe truth is, I don't have the courage to save her.\nThat's why I can't save her.\nI'm a coward.\nA hopeless coward.\nJust a spineless wimp who's scared of being shunned by everyone.\nEverybody feels that way, I'm sure.\nNobody wants to be left out.\nI'm one of them too.\n...Then what about her?\nShe must hate being left out too.\nAnd I'm the one trying to leave her out.\nNo, this is wrong, this is all wrong!)\nSuddenly my body felt lighter.\n(I can move! I can move!){p}"
+  },
+  {
+   "id": "45:c7b8",
+   "op": "text",
+   "en": "\"Hey, let's stop.\nDoing this won't get us anywhere.\nWhat's locking her up supposed to accomplish?\"\nEveryone was staring at me.\n\"...Hey, what's your deal, {a}?\nDon't go killing the mood all of a sudden.\"\n\"What good is doing this?\nShe hasn't done anything wrong.\nDon't you feel sorry for her?\"\nI pleaded desperately.\nEven so, Shindo wouldn't listen.\n\"It doesn't have to do any good.\nAs long as we're having fun right now, that's all that matters.\n...Great, now you've killed the mood.\nHey, don't tell me you like her.\nYou're covering for her 'cause you like her, right?\"\nEveryone started grinning.\n(Here it comes. I can pretty much guess what these guys are thinking.\nWhenever they find something new to tease about, they jump right on it)\n\"She's our classmate, so of course I would.\nWe're friends, so it's wrong to bully her.\"\n\"Ha... You're no fun at all, you know that?\nLet's go home. The mood's dead.\n...Hey, {a}.\nYou'd better remember this.\"\nWith that, the six went home.{p}"
+  },
+  {
+   "id": "45:cb70",
+   "op": "text",
+   "en": "\"Thank you. Thank you, {a}.\"\nSomewhere far off, I heard a voice thanking me.\nI turned around to look...{p}"
+  },
+  {
+   "id": "45:cbec",
+   "op": "text",
+   "en": "I was in the restroom of the real old school building.\nThere was no one there anymore.\nNot even the six...{p}"
+  },
+  {
+   "id": "45:cc64",
+   "op": "text",
+   "en": "The mask slid off my face.{p}"
+  },
+  {
+   "id": "45:cca4",
+   "op": "text",
+   "en": "I picked it up and looked at it.\nIt was just a white mask, made of something like plastic.\nLooking at it, I thought.\nMaybe I could only stand up for her because it wasn't reality, but a virtual world.\nHadn't I just put on a mask and played a different version of myself?\nThe guy who looked like Shindo had told me:\n'{a}, you'd better remember this.'\nBut I knew there was no tomorrow in that world.\nI knew my turn would never come around.\nThat's exactly why I could stand up for her back then.\nAnd what if it had been the real world?\nI surely wouldn't have been able to save her.\nHad she truly been saved by this?{p}"
+  },
+  {
+   "id": "45:cf08",
+   "op": "text",
+   "en": "Morning sunlight came streaming in through the window.\nI walked out of the restroom alone.{p}"
+  },
+  {
+   "id": "45:cf5c",
+   "op": "text",
+   "en": "It's no use, there's nothing I can do.{p}",
+   "follows_choice": [
+    "45:c21c"
+   ]
+  },
+  {
+   "id": "45:cf88",
+   "op": "text",
+   "en": "\"All right, let's do it right now.\"\nI was saying things I didn't mean.\n\"Go on, get in. Come on, hurry up.\"\n"
+  },
+  {
+   "id": "45:cffc",
+   "op": "text",
+   "en": "We shoved her into the stall.\nThen we wedged a bar against the door so it couldn't be opened from inside.\n"
+  },
+  {
+   "id": "45:d064",
+   "op": "text",
+   "en": "\"Let me out, let me out! Please... let me out of here!\"\nFrom inside came a tearful, heartrending plea.\n\"Heh, serves her right.\"\nWith that, we left the restroom.\nWe didn't forget to turn off the restroom light, either.{p}"
+  },
+  {
+   "id": "45:d130",
+   "op": "text",
+   "en": "The restroom went pitch-black.\nFrom inside, I could hear her sobbing quietly.\n(It's no good, I couldn't save her.\nBut it can't be helped. My body won't listen to me.\nIf I'd had control of my body, I'm sure I could have saved her...)\nJust then, I heard a voice from somewhere.\n\"{a}. In the end, you couldn't save me after all, could you?\nFine. You will spend the rest of your life there.\nAnd your child will be the one I take my revenge on...\"{p}"
+  },
+  {
+   "id": "45:d308",
+   "op": "text",
+   "en": "It felt like a flash of light shot through my head.\n(Huh, I thought I just heard something inside my head...\nWas it just my imagination...?)\n\"Man, the teacher's so awful.\nGoing home and forgetting all about us.\"\n\"What a mess we got into.\"\nWe walked down the now completely dark hallway toward the classroom.\n(I'm beat today. A lot happened.\nI'll go to bed early tonight...){p}"
+  },
+  {
+   "id": "45:d45c",
+   "op": "text",
+   "en": "You were thinking you couldn't save a girl, weren't you?\nIs that why you couldn't answer?\nYou really are a coward.\n...You did a fine job as the six's guide.\nBut that role is over now.\nAt least you got to have a precious experience before you die.\nIf I'd taken a liking to you, I was going to stay with you, but it seems you weren't worth that much.\nWell then, goodbye.{p}",
+   "follows_choice": [
+    "45:b454"
+   ]
+  },
+  {
+   "id": "45:d5f0",
+   "op": "text",
+   "en": "\"Wha...\"\nThe scenery around me wavered for an instant, and then everything was swallowed by darkness.\n(Where am I★)\nI looked around and was shocked.\nBelow me, I could see the streetlights of the town.\nBefore I knew it, I was up in the sky!\nI was falling at a tremendous speed.\nThe streetlights that had spread out below me now spread out above my head.\nI was falling headfirst.\n(Am I going to die?\nWhy?\nNo, I don't want to die yet☆){p}"
+  },
+  {
+   "id": "45:d790",
+   "op": "text",
+   "en": "Faced with the terror of death, I felt my consciousness slip away.{p}"
+  },
+  {
+   "id": "45:d7c4",
+   "op": "text",
+   "en": "I chose Iwashita.\nMaybe, partly because of what happened with Uchiyama, I felt guilty.\n\"So, you choose her.\"\nWhen I looked at Iwashita, she was smiling sweetly.\nFukuzawa, standing beside her, didn't look very happy.{p}",
+   "follows_choice": [
+    "45:b628"
+   ]
+  },
+  {
+   "id": "45:d8b8",
+   "op": "text",
+   "en": "\"But why Iwashita, of all people?\nIwashita tried to kill you, you know.\nAnd you'll still take up the challenge.\n...Now I understand. How kind you are.\nIf I touch a heart like that, maybe even I could pass on.\"\nWith that, the masked woman walked toward me.\nAnd she and I overlapped.{p}"
+  },
+  {
+   "id": "45:d9cc",
+   "op": "text",
+   "en": "A dazzling flash of light shot through the room.\nThat was when it happened.\nThey vanished like smoke.{p}"
+  },
+  {
+   "id": "45:da28",
+   "op": "text",
+   "en": "...Leaving behind only the white mask.\nI picked up the mask and stared at it.\nHad she been saved?\nHad my kindness let her pass on?\nI didn't know, but I felt really good.{p}"
+  },
+  {
+   "id": "45:db00",
+   "op": "text",
+   "en": "Morning sunlight came streaming in from outside the window.\n(It's already morning...){p}"
+  },
+  {
+   "id": "45:db54",
+   "op": "text",
+   "en": "I started to leave the restroom.\n\"Wait, {a}.\"\nI turned around.\n\"Ah...\"{p}"
+  },
+  {
+   "id": "45:dbd0",
+   "op": "text",
+   "en": "Fukuzawa was standing there.\n\"Fukuzawa...\"\n\"{a}. Give me back the mask.\nI won't forget, you know. That you didn't choose me, {a}.\nI was so sure that you, {a}, would choose me.\nIt's a shame...\nFrom today on, I'm taking over that mask.\nAnd I'll make this restroom my home.\n...The old school building will be torn down soon.\nWhen that happens, I'll move. Over to the new school building.\nAnd someday, I'll call you over to my place too.{p}"
+  },
+  {
+   "id": "45:dd7c",
+   "op": "text",
+   "en": "'Cause I've gone and fallen for you, {a}.\n...Just kidding!\nBut the part about coming to get you is true. Look forward to it.\"{p}"
+  },
+  {
+   "id": "45:de0c",
+   "op": "text",
+   "en": "With that, she took the mask from me and went into the stall.\n..................\nThe restroom rumors had not come to an end.\nHad yet another new Hanako-san been brought into the world?\nAnyway, my job was done.\nAll that was left was to write it up as an article.\nThe moment I thought that, I was hit by overwhelming drowsiness.{p}"
+  },
+  {
+   "id": "45:df2c",
+   "op": "text",
+   "en": "The slanting sunlight pierced my eyes fiercely.\nI'll go home and sleep.\nAnd just for today, I'll skip school.{p}"
+  },
+  {
+   "id": "45:dfac",
+   "op": "text",
+   "en": "Rubbing my sleepy eyes, I staggered out through the school gate.\n"
+  },
+  {
+   "id": "45:dff4",
+   "op": "text",
+   "en": "(Huh, I hear some kind of huge noise...)\n(F-Fukuzawa... has she come for me already...? That's way too soon...){p}"
+  },
+  {
+   "id": "45:e06c",
+   "op": "text",
+   "en": "I chose Fukuzawa.\nFukuzawa was a first-year, just like me.\nI felt bad for Iwashita, but I felt closer to Fukuzawa.{p}",
+   "follows_choice": [
+    "45:b630"
+   ]
+  },
+  {
+   "id": "45:e0e8",
+   "op": "text",
+   "en": "\"I see. So it's Fukuzawa.\nYou abandoned Fukuzawa once, didn't you?\nAnd you still want to try saving her?\"\nThe masked woman said.\n\"That's not true!\nI never abandoned Fukuzawa.\nI couldn't have predicted that would happen.\nIt all happened so fast, there was no way I could save her!\"\n\"Exactly.\nBut can you ever predict when the moment that counts will come?\"\n\"Ngh...\"\nI couldn't say anything back.\n...I'd thought that you, of all people, might be able to save my heart...\nBut it seems I can't expect that.\nShe heaved a big sigh beneath the mask.\nThen she took off her mask.{p}"
+  },
+  {
+   "id": "45:e354",
+   "op": "text",
+   "en": "\"............\"\nHer face looked terribly sad.\nAll I could do was silently look into her deep, sorrowful eyes.{p}"
+  },
+  {
+   "id": "45:e3f0",
+   "op": "text",
+   "en": "They vanished like smoke.\n...Leaving behind only the white mask.{p}"
+  },
+  {
+   "id": "45:e434",
+   "op": "text",
+   "en": "I picked up the mask.\nAnd the moment I turned to leave the restroom...{p}"
+  },
+  {
+   "id": "45:e48c",
+   "op": "text",
+   "en": "The mask exploded.\nWith tremendous force.\nWithout even a moment to think about what had happened, I was blown to pieces.\nI watched the scene from up near the ceiling.\nWhen I looked behind me, the girl wearing the mask was beckoning to me.\nBehind her stood the six, smiling brightly.{p}"
+  },
+  {
+   "id": "45:e594",
+   "op": "text",
+   "en": "\"I'd like Kazama, please...\"\nI'd gone and answered a question like that.\nI must have lost my mind.\nAnd on top of that, I'd picked Kazama, of all people.{p}",
+   "follows_choice": [
+    "45:a16c"
+   ]
+  },
+  {
+   "id": "45:e640",
+   "op": "text",
+   "en": "\"So you want me to kill you. Good, good, aren't you a cute one.\nI'll kill you with the most fun way to die there is.{p}Can you guess what it is?\"\n"
+  },
+  {
+   "id": "45:e6c8",
+   "op": "choice",
+   "en": "Death by dancing"
+  },
+  {
+   "id": "45:e6d4",
+   "op": "choice",
+   "en": "Death by singing"
+  },
+  {
+   "id": "45:e6e0",
+   "op": "choice",
+   "en": "Death by sleeping"
+  },
+  {
+   "id": "45:e6ec",
+   "op": "text",
+   "en": "\"Bzzt! The correct answer was number four, 'death by laughing'!\"\n(...This guy's infuriating right up to the very end)\n\"Now, I'll let you hear my greatest gag ever.\nIt's a terrifying one that makes you laugh until you die.\nAre you ready?\"\nWith that, Kazama whispered into my ear.{p}",
+   "follows_choice": [
+    "45:e6c8",
+    "45:e6d4",
+    "45:e6e0"
+   ]
+  },
+  {
+   "id": "45:e7f4",
+   "op": "text",
+   "en": "\".........\"\n(Huh? What? I can't hear you.)\n\".........\"\n(Huh? What?)\n\".........\"{p}"
+  },
+  {
+   "id": "45:e870",
+   "op": "text",
+   "en": "\".........Pfft... Ahahahahahahahahahahahahahahahahahahaha!\"\nI burst out laughing so hard my sides nearly split.\nWhat was so funny about a gag like that?\nBut I couldn't stop laughing.\nIt was humiliating.\nTo think I'd laugh at a gag like that.\nI laughed so hard my diaphragm started to ache.\nTears streamed endlessly from my eyes.\nI-I can't... breathe...\nI was laughing so violently I couldn't breathe, and it grew more and more painful.\nDrool dribbled sloppily from my mouth.\nI tried to draw a breath, but it wouldn't come.\n\"...Hee... hee-hee...\"\nHe said I'd die having fun, but... it... hurts... so...{p}"
+  },
+  {
+   "id": "45:ea9c",
+   "op": "text",
+   "en": "The color drained from my face, little by little.\n\"Kh... kah.........\"{p}"
+  },
+  {
+   "id": "45:eae0",
+   "op": "text",
+   "en": "I died.{p}"
+  },
+  {
+   "id": "45:eb0c",
+   "op": "text",
+   "en": "What a pathetic way to die.\nIf I had to die anyway, I wish I could have died a more decent death.\nThey'll probably find it tomorrow. My corpse...\nA male student, dead in front of the restroom, clutching his stomach.\nAnd then the doctor will say,\n\"...The cause of death is laughter. ...He laughed himself to death...\"\nH-how pathetic...{p}"
+  },
+  {
+   "id": "45:ec34",
+   "op": "text",
+   "en": "\"Well, well, so you want me to kill you...\"\nArai said, his lips stretching into a slow grin.\nDamn it.\nWhy on earth did I pick someone like him?{p}",
+   "follows_choice": [
+    "45:a174"
+   ]
+  },
+  {
+   "id": "45:ecc8",
+   "op": "text",
+   "en": "\"Very well. There's something I've wanted to try at least once myself, you see.\"\nWith that, Arai asked everyone to hold me down.\n\"The truth is, I heard about it somewhere once before.\nOh, if you're asking what, it's nothing much, really.\nIt's a story that if you stab a straw into someone's body, blood spurts out through the straw and they die...\"\nArai took out a straw and stroked it, smirking.\n\"My, I never thought I'd actually get the chance to try it.\"\nWith that, Arai drove the straw into my thigh.{p}"
+  },
+  {
+   "id": "45:eeec",
+   "op": "text",
+   "en": "\"Ghh...\"{p}"
+  },
+  {
+   "id": "45:ef10",
+   "op": "text",
+   "en": "A fierce pain shot through my thigh.\nWhy would a mere straw pierce my leg...?\nThat stupid thought flashed through my mind.\nThe answer was simple.\nThat straw was made of iron. It was less a straw than an iron tube.{p}"
+  },
+  {
+   "id": "45:eff8",
+   "op": "text",
+   "en": "\"Well, how boring.\nI was sure the blood would come spurting out, but it's only dripping...\"\nSaying that, Arai drove a straw into my other leg as well.\n\"No good. It still won't spurt. I suppose it would if I stuck it into an artery...\"{p}"
+  },
+  {
+   "id": "45:f10c",
+   "op": "text",
+   "en": "As he spoke, he kept stabbing straw after straw into me.\nBlood dripped endlessly from their ends, drip, drip, without stopping.\nMaybe because of all the blood drained out of me, my mind was growing hazy.\nEach time Arai stabbed in another straw, the pain cleared my head, but it soon clouded over again.\nAnd then I stopped feeling even the pain.\n(I'm so sleepy...)\nA crushing drowsiness came over me.\n(How good it would feel to just fall asleep like this...){p}"
+  },
+  {
+   "id": "45:f2a4",
+   "op": "text",
+   "en": "I gently closed my eyes.\nAnd I fell into eternal sleep...{p}"
+  },
+  {
+   "id": "45:f2e4",
+   "op": "text",
+   "en": "\"Me, huh? {a}, you've got some real guts. Picking me of all people.\"\nShindo said it with a pleased look.{p}",
+   "follows_choice": [
+    "45:a180"
+   ]
+  },
+  {
+   "id": "45:f34c",
+   "op": "text",
+   "en": "\"If I lay a hand on you, killing you'd be easy.\nBut that wouldn't be any fun, would it?\n............\n{a}, you don't wanna die, right?\nYeah, figured.\nThere's no reason at all for you to die.\nSo here's the deal. I'll give you a chance.\nGo ahead and run. As far as you want.\nI'll be coming after you.\nIf I catch you, don't say I didn't warn you.\nThat'll be when you die.\"\nWith that, Shindo let go of me.\n\"Hurry up and run.\nIn one minute, I'm coming after you.\nRun wherever you like.{p}"
+  },
+  {
+   "id": "45:f530",
+   "op": "text",
+   "en": "But don't think you can get away from me that easy.\nI'll follow you anywhere.\nEven to the ends of the universe...\"\nShindo grinned.{p}"
+  },
+  {
+   "id": "45:f5d0",
+   "op": "text",
+   "en": "I shot off like a spring.\n(I'll get away! This is the chance I finally got.\nI'm going to escape no matter what!)\nI ran all the way to the school gate.\nA minute must have passed long ago.\nI looked back over my shoulder.{p}"
+  },
+  {
+   "id": "45:f6b0",
+   "op": "text",
+   "en": "\"☆\"\nShindo was running after me.\nAbout fifty meters behind.\nHe was moving at an unbelievable speed.{p}"
+  },
+  {
+   "id": "45:f718",
+   "op": "text",
+   "en": "I ran at full speed.\n\"I must have... put a good distance... between us by now...\"\nI looked back.{p}"
+  },
+  {
+   "id": "45:f788",
+   "op": "text",
+   "en": "\"Whoa!\"\nHe was still following me☆\nAbout fifty meters behind, same as before, with a terrifying look on his face.{p}"
+  },
+  {
+   "id": "45:f7ec",
+   "op": "text",
+   "en": "I ran with everything I had.\nMy heart felt like it was about to burst.\n\"It's no use... I can't... run any farther...\"{p}"
+  },
+  {
+   "id": "45:f85c",
+   "op": "text",
+   "en": "When I looked back, he was still following about fifty meters behind me, same as ever.\nWith a pickaxe in his hand.\n(S-something's wrong. The gap has stayed about this size the whole time.\nMaybe this gap will never change at all.){p}"
+  },
+  {
+   "id": "45:f934",
+   "op": "text",
+   "en": "I tried stopping.\n(No good! If I stop, the gap closes!)\nI could never stop again, not ever.\nIt seemed that unless I kept up a certain speed, the gap between Shindo and me would shrink.\n\"Hah... hah... hah...\"{p}"
+  },
+  {
+   "id": "45:fa24",
+   "op": "text",
+   "en": "(My side hurts...)\nThis was the first time I'd ever run this much.\nI'd already run all the way to the next town.\n(If it hurts this much, I'd be better off dead...){p}"
+  },
+  {
+   "id": "45:fab4",
+   "op": "text",
+   "en": "I even thought about steeling myself to stop and letting Shindo kill me.\nBut I couldn't bring myself to do it.\nMy legs kept carrying me forward on their own.\nThere must still be some part of me, somewhere, that didn't want to die.{p}"
+  },
+  {
+   "id": "45:fb88",
+   "op": "text",
+   "en": "\"My heart...\"{p}"
+  },
+  {
+   "id": "45:fb9c",
+   "op": "text",
+   "en": "My heart was screaming.\nIt felt like even the slightest jolt would make it burst.\nEverything before my eyes was going blurry...{p}"
+  },
+  {
+   "id": "45:fc10",
+   "op": "text",
+   "en": "\"☆☆\"\n(My heart...){p}"
+  },
+  {
+   "id": "45:fc30",
+   "op": "text",
+   "en": "My heart hurt as if it were being crushed in a vise.\nAt last, I collapsed.\nI couldn't move another step. I couldn't even stand up...\nWhen I looked back, Shindo was already almost upon me.{p}"
+  },
+  {
+   "id": "45:fce0",
+   "op": "text",
+   "en": "Thump... thump...... thu... thump.{p}"
+  },
+  {
+   "id": "45:fd10",
+   "op": "text",
+   "en": "My heartbeat was wrong.\nShindo was right in front of me now.{p}"
+  },
+  {
+   "id": "45:fd50",
+   "op": "text",
+   "en": "Thump......{p}"
+  },
+  {
+   "id": "45:fd68",
+   "op": "text",
+   "en": "Shindo was raising the pickaxe high.{p}"
+  },
+  {
+   "id": "45:fd94",
+   "op": "text",
+   "en": "...Thu...mp...{p}"
+  },
+  {
+   "id": "45:fdac",
+   "op": "text",
+   "en": "My heart stopped.\n(M-my mind is...)\nMy consciousness was slipping away.\nThe pickaxe swinging down at me filled my eyes.\n(............){p}"
+  },
+  {
+   "id": "45:fe3c",
+   "op": "text",
+   "en": "\"By Fukuzawa...\"\nI picked Fukuzawa.\nSurely Fukuzawa wouldn't kill me in some horrible way.{p}",
+   "follows_choice": [
+    "45:a188"
+   ]
+  },
+  {
+   "id": "45:feb8",
+   "op": "text",
+   "en": "\"Whaaat? You want me to kill you?\"\nFukuzawa seemed surprised that she'd been chosen.\n\"What should I do...\n............\nOh, I know! How about I cut off some of your flesh, {a}, and make you eat it?\"\nWh-what a horrible idea.\nWith a face that cute, how could she think up something like that?\nThis is exactly why you can't trust girls.\n\"Look, there's even a kitchen knife right here...\"\nFukuzawa produced a kitchen knife from somewhere.\n\"So, where should I start?\n{a}, which part of you would you like to eat?\"{p}"
+  },
+  {
+   "id": "45:1009c",
+   "op": "text",
+   "en": "(What does it matter where she starts?\nOh, I know. I'll say the meat of my neck.\nThat way, I can die the moment she cuts into my neck.\nAt least then I might not have to suffer.)\n\"Fukuzawa, I want to eat the meat of my neck. Please start there.\"\nI tried asking her.\n\"Whaaat, the neck?\nBut that's no fun at all.\nIf you eat from a place like that, you'll die right away!\"\nShe saw right through me...\nI was so crushed with despair I nearly fainted.{p}"
+  },
+  {
+   "id": "45:10260",
+   "op": "text",
+   "en": "\"Let's see... How about some thigh meat?\nDoesn't that look pretty tasty?\"\nWith that, Shindo and the others around us pinned my legs down.\nMy pants were slashed open.\n\"My, doesn't that look delicious...\"\nFukuzawa stroked my leg, looking utterly delighted.\nI couldn't stop shaking.\n\"Okay, here I go...\"{p}"
+  },
+  {
+   "id": "45:1038c",
+   "op": "text",
+   "en": "\"Gyaaaaaaaaahhh!\"{p}"
+  },
+  {
+   "id": "45:103ac",
+   "op": "text",
+   "en": "A sharp pain shot through my thigh.\nI felt like I'd pass out any second.{p}"
+  },
+  {
+   "id": "45:10400",
+   "op": "text",
+   "en": "\"See, I got it off. Well? Looks yummy, doesn't it?\"\nFukuzawa held the meat of my thigh in one hand, smiling sweetly.{p}"
+  },
+  {
+   "id": "45:10480",
+   "op": "text",
+   "en": "(That's my leg... My leg, which was moving just a moment ago...)\nSaying, \"Here you go, enjoy,\" Fukuzawa brought the meat to my mouth.\nThe thought of being made to eat that meat sickened me so much I almost forgot the pain in my leg.{p}"
+  },
+  {
+   "id": "45:10568",
+   "op": "text",
+   "en": "\"Come on, we're treating you to a nice meal here. Hurry up and eat.\"\nWith that, Shindo forced my mouth open.\nThe fresh meat, cut away only a moment ago, was shoved into my mouth.{p}"
+  },
+  {
+   "id": "45:10628",
+   "op": "text",
+   "en": "Lukewarm blood spread through my mouth.\nNo matter how hard I tried not to swallow, it slid down into my stomach on its own.{p}"
+  },
+  {
+   "id": "45:10698",
+   "op": "text",
+   "en": "\"Come on, you gotta chew it properly.\"\nShindo grabbed my jaw and forcibly worked it up and down.{p}"
+  },
+  {
+   "id": "45:10708",
+   "op": "text",
+   "en": "Squelch... squelch...\nA raw, fishy stench spread through my mouth.\n\"Gh... hurk...\"\nI felt so sick I nearly threw up.{p}"
+  },
+  {
+   "id": "45:10794",
+   "op": "text",
+   "en": "\"Come on, there's plenty more, so don't be shy.\"\nFukuzawa kept pushing more and more into my mouth.\nI couldn't take it anymore and spewed up everything in my stomach.{p}"
+  },
+  {
+   "id": "45:1084c",
+   "op": "text",
+   "en": "\"Ewwwww, gross!\nYou can't do that! It's wrong to waste food.\"\nFukuzawa scooped up the spewed-out mess with her hands and poured it into my mouth.{p}"
+  },
+  {
+   "id": "45:108f0",
+   "op": "text",
+   "en": "(Why do I have to go through this?\nAll because I took on this project...\nHelp... somebody help me...)\nMaybe from losing so much blood, my vision began to blur.\nI could see Fukuzawa's face, gleeful, as she fed me the meat.{p}"
+  },
+  {
+   "id": "45:109e4",
+   "op": "text",
+   "en": "That was the last sight I ever saw.\nThe next day, I was found with the flesh cut from every part of my body and stuffed into my mouth.{p}"
+  },
+  {
+   "id": "45:10a54",
+   "op": "text",
+   "en": "\"B-by Hosoda...\"{p}",
+   "follows_choice": [
+    "45:a194"
+   ]
+  },
+  {
+   "id": "45:10a88",
+   "op": "text",
+   "en": "\"Huh? You really want me?\"\nHosoda's face broke into a truly happy smile.\n(Damn it, why did I pick this guy?\nA bad feeling ran through me.)\n\"I'm so happy, I really am...\"\nHosoda threw his arms around me as I lay on the floor.{p}"
+  },
+  {
+   "id": "45:10b78",
+   "op": "text",
+   "en": "(Well, I'm not happy...\n...Ugh, h-heavy......)\nEven though he was a ghost, I could feel his weight.\nHosoda climbed completely on top of me.{p}"
+  },
+  {
+   "id": "45:10bfc",
+   "op": "text",
+   "en": "\"Guh... gehh...\"\n\"I'm so happy... I'm so happy...\"\nHosoda bounced his body up and down on top of me.\nEach time, his weight, which had to be well over a hundred kilos, came crashing down on me.{p}"
+  },
+  {
+   "id": "45:10cc4",
+   "op": "text",
+   "en": "\"Geh, geh, geh...\"\nHosoda's bulging belly pressed down on my stomach.\nIt felt like my guts were about to come flying out of my mouth.{p}"
+  },
+  {
+   "id": "45:10d54",
+   "op": "text",
+   "en": "Hosoda's face was so close our noses were almost touching.\n\"Ah, {a}. Your breath really stinks, you know...\"\nHosoda said that to me while breathing his own foul breath on me.\nI wanted to say \"Look who's talking,\" but I couldn't get a sound out.{p}"
+  },
+  {
+   "id": "45:10e48",
+   "op": "text",
+   "en": "Gradually, even breathing became painful.\n(Am I going to die crushed by Hosoda...?)\nWho could ever have imagined dying like this?\nIf I had to die like this, I thought, I'd rather have died with my throat slit.\nBut it's too late now...{p}"
+  },
+  {
+   "id": "45:10f4c",
+   "op": "text",
+   "en": "Somewhere, I thought I heard a wet squelch.{p}"
+  },
+  {
+   "id": "45:10f94",
+   "op": "text",
+   "en": "Blood gushed from my mouth like a fountain.\nI saw Hosoda's face, drenched in that blood and dyed bright red.\nHosoda was grinning happily...{p}"
+  },
+  {
+   "id": "45:11030",
+   "op": "text",
+   "en": "\"Thank you.\nI think so too.\nNow I can finally go to the place I was always meant to go.\nGoodbye, then, {a}.\"\nThe morning sun shone in through the window.\nShe was wrapped in its light.{p}",
+   "follows_choice": [
+    "45:6814"
+   ]
+  },
+  {
+   "id": "45:110f4",
+   "op": "text",
+   "en": "Then she vanished, as if swallowed up by that light.\nWhere she had stood, the mask she'd been wearing lay where it had been gently set down.{p}",
+   "returns": [
+    "45:110f4: RETURN - 'lay where it had been gently set down' is accurate but clunky; editorial may smooth"
+   ]
+  },
+  {
+   "id": "45:1118c",
+   "op": "text",
+   "en": "I looked out the window.\nThe long night was over, and a soft light enveloped everything.\n\"Mmmmm...\"\nI gave a big stretch.\nSomehow, I felt like I could write a good article.\nBut how would I explain the disappearance of the people who had told me scary stories?\n...There was no need to think about it.\nAll I could do was write honestly about what I'd been through.\nAfter all, it's something even I can't explain.{p}"
+  },
+  {
+   "id": "45:112e4",
+   "op": "text",
+   "en": "I picked up the mask and walked out of the restroom.{p}"
+  },
+  {
+   "id": "45:11334",
+   "op": "text",
+   "en": "I shook off that hand.\nLike hell I'd let them take me.\nThere were still so many things I wanted to do.\nBesides, there was no reason at all for me to be taken.{p}",
+   "follows_choice": [
+    "45:7574"
+   ]
+  },
+  {
+   "id": "45:113e4",
+   "op": "text",
+   "en": "(...It can't be helped. Sooner or later, you will become one of us.\nThat is your fate. That is the fate laid upon you.\nYou cannot escape it...\nThat is why I'm telling you to come with us...{p}"
+  },
+  {
+   "id": "45:114b8",
+   "op": "text",
+   "en": "Very well. Then I'll go on ahead. I'll be looking forward to it, so come soon.\nHeh heh heh heh heh...){p}"
+  },
+  {
+   "id": "45:11518",
+   "op": "text",
+   "en": "Iwashita and the others simply went away.{p}"
+  },
+  {
+   "id": "45:11550",
+   "op": "text",
+   "en": "(My fate...)\nBlood kept flowing endlessly from my leg.\n(Maybe it is. At this rate, I'm going to die...)\nThe blood pouring out of me had dyed my uniform bright red.{p}"
+  },
+  {
+   "id": "45:11610",
+   "op": "text",
+   "en": "(No, I can't lose heart. I'm going to make it home alive.)\nDragging my leg, I started walking toward the outside.\nEverything in front of me looked doubled, tripled, blurring.\n(Just a little more... just a little more and I'll be outside...){p}"
+  },
+  {
+   "id": "45:116d4",
+   "op": "text",
+   "en": "A gentle light was shining in through the window of the exit door.\n(...just a little more......)\n"
+  },
+  {
+   "id": "45:11730",
+   "op": "text",
+   "en": "I collapsed right where I was.\nThe light from the window looked like the light of heaven...{p}"
+  },
+  {
+   "id": "45:1178c",
+   "op": "text",
+   "en": "...If that is the entrance to heaven, then I probably won't be going to heaven...\nBecause it doesn't look like I can make it that far...\nIs my fate, after all, to become one of those six?\nWhen was a fate like that decided?\nCan I not defy that fate?\nI don't want to obey some fate... but it doesn't... look like... I can do... that... either......{p}"
+  }
+ ]
+}

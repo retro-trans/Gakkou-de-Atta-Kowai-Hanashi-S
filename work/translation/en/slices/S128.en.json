@@ -1,0 +1,345 @@
+{
+ "slice": "S128",
+ "scene": "33",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S127",
+ "next": "S129",
+ "rows": [
+  {
+   "id": "33:3f10",
+   "op": "text"
+  },
+  {
+   "id": "33:400c",
+   "op": "text"
+  },
+  {
+   "id": "33:405c",
+   "op": "text"
+  },
+  {
+   "id": "33:40ac",
+   "op": "text"
+  },
+  {
+   "id": "33:4208",
+   "op": "text"
+  },
+  {
+   "id": "33:4320",
+   "op": "choice"
+  },
+  {
+   "id": "33:4328",
+   "op": "choice"
+  },
+  {
+   "id": "33:4334",
+   "op": "choice"
+  },
+  {
+   "id": "33:435c",
+   "op": "text",
+   "follows_choice": [
+    "33:4320",
+    "33:d534"
+   ]
+  },
+  {
+   "id": "33:4490",
+   "op": "text"
+  },
+  {
+   "id": "33:451c",
+   "op": "text"
+  },
+  {
+   "id": "33:4608",
+   "op": "choice"
+  },
+  {
+   "id": "33:4618",
+   "op": "choice"
+  },
+  {
+   "id": "33:462c",
+   "op": "choice"
+  },
+  {
+   "id": "33:4644",
+   "op": "choice"
+  },
+  {
+   "id": "33:4660",
+   "op": "text",
+   "follows_choice": [
+    "33:462c"
+   ]
+  },
+  {
+   "id": "33:46c8",
+   "op": "text"
+  },
+  {
+   "id": "33:4714",
+   "op": "text"
+  },
+  {
+   "id": "33:4834",
+   "op": "text"
+  },
+  {
+   "id": "33:4940",
+   "op": "text",
+   "follows_choice": [
+    "33:4608"
+   ]
+  },
+  {
+   "id": "33:49e8",
+   "op": "text"
+  },
+  {
+   "id": "33:4b04",
+   "op": "text"
+  },
+  {
+   "id": "33:4b64",
+   "op": "text"
+  },
+  {
+   "id": "33:4bf4",
+   "op": "choice"
+  },
+  {
+   "id": "33:4bfc",
+   "op": "choice"
+  },
+  {
+   "id": "33:4c08",
+   "op": "choice"
+  },
+  {
+   "id": "33:4c1c",
+   "op": "choice"
+  },
+  {
+   "id": "33:4c44",
+   "op": "text",
+   "follows_choice": [
+    "33:4bf4",
+    "33:c7bc"
+   ]
+  },
+  {
+   "id": "33:4cec",
+   "op": "text"
+  },
+  {
+   "id": "33:4d1c",
+   "op": "text"
+  },
+  {
+   "id": "33:4e08",
+   "op": "choice"
+  },
+  {
+   "id": "33:4e14",
+   "op": "choice"
+  },
+  {
+   "id": "33:4e24",
+   "op": "choice"
+  },
+  {
+   "id": "33:4e30",
+   "op": "choice"
+  },
+  {
+   "id": "33:4e68",
+   "op": "text",
+   "follows_choice": [
+    "33:4e08"
+   ]
+  },
+  {
+   "id": "33:4ecc",
+   "op": "text"
+  },
+  {
+   "id": "33:50a8",
+   "op": "text"
+  },
+  {
+   "id": "33:51bc",
+   "op": "text"
+  },
+  {
+   "id": "33:53a0",
+   "op": "text"
+  },
+  {
+   "id": "33:54d4",
+   "op": "text"
+  },
+  {
+   "id": "33:5520",
+   "op": "text"
+  },
+  {
+   "id": "33:55f4",
+   "op": "text"
+  },
+  {
+   "id": "33:5658",
+   "op": "text"
+  },
+  {
+   "id": "33:56e4",
+   "op": "text"
+  },
+  {
+   "id": "33:57c4",
+   "op": "text"
+  },
+  {
+   "id": "33:5b08",
+   "op": "text"
+  },
+  {
+   "id": "33:5ba4",
+   "op": "text"
+  },
+  {
+   "id": "33:5db0",
+   "op": "text"
+  },
+  {
+   "id": "33:5e64",
+   "op": "text"
+  },
+  {
+   "id": "33:5f8c",
+   "op": "text"
+  },
+  {
+   "id": "33:6048",
+   "op": "text",
+   "follows_choice": [
+    "33:1500"
+   ]
+  },
+  {
+   "id": "33:60fc",
+   "op": "choice"
+  },
+  {
+   "id": "33:6104",
+   "op": "choice"
+  },
+  {
+   "id": "33:6110",
+   "op": "choice"
+  },
+  {
+   "id": "33:6124",
+   "op": "choice"
+  },
+  {
+   "id": "33:6140",
+   "op": "text",
+   "follows_choice": [
+    "33:60fc"
+   ]
+  },
+  {
+   "id": "33:61dc",
+   "op": "text"
+  },
+  {
+   "id": "33:6550",
+   "op": "text",
+   "follows_choice": [
+    "33:6104"
+   ]
+  },
+  {
+   "id": "33:67d0",
+   "op": "text",
+   "follows_choice": [
+    "33:6110"
+   ]
+  },
+  {
+   "id": "33:68dc",
+   "op": "text"
+  },
+  {
+   "id": "33:6990",
+   "op": "text"
+  },
+  {
+   "id": "33:6a34",
+   "op": "text"
+  },
+  {
+   "id": "33:6c34",
+   "op": "text"
+  },
+  {
+   "id": "33:6c48",
+   "op": "text"
+  },
+  {
+   "id": "33:6d14",
+   "op": "text"
+  },
+  {
+   "id": "33:6e34",
+   "op": "text"
+  },
+  {
+   "id": "33:6ffc",
+   "op": "choice"
+  },
+  {
+   "id": "33:7008",
+   "op": "choice"
+  },
+  {
+   "id": "33:7014",
+   "op": "choice"
+  },
+  {
+   "id": "33:703c",
+   "op": "text",
+   "follows_choice": [
+    "33:6ffc"
+   ]
+  },
+  {
+   "id": "33:7158",
+   "op": "text"
+  },
+  {
+   "id": "33:7204",
+   "op": "text"
+  },
+  {
+   "id": "33:740c",
+   "op": "text"
+  },
+  {
+   "id": "33:7444",
+   "op": "text"
+  },
+  {
+   "id": "33:75a0",
+   "op": "text"
+  },
+  {
+   "id": "33:7620",
+   "op": "text"
+  }
+ ]
+}

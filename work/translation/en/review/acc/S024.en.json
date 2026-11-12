@@ -1,0 +1,445 @@
+{
+ "slice": "S024",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S023",
+ "next": "S025",
+ "todo": [
+  "- Restroom wording: 'Boys'/Girls' restroom' (S024, S034) vs 'bathroom' (S025) — standard: restroom."
+ ],
+ "rows": [
+  {
+   "id": "07:e2fc",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "07:e304",
+   "op": "text",
+   "follows_choice": [
+    "07:e2dc"
+   ],
+   "en": "I snatched up a shard of the glass that had shattered when I broke the cabinet.\n\"Ow!\"\nIn my hurry, I'd cut my hand.\nBut I couldn't worry about that right now.\n\"Yaaah!\"\nI thrust the glass shard at him, out of my mind.{p}"
+  },
+  {
+   "id": "07:e3fc",
+   "op": "text",
+   "en": "\"Owww!\"\nThe glass shard sliced Hosoda's ear clean off.\n\"It hurts! It hurts! My ear, my ear!\"\nHosoda clutched his left ear, tumbling and rolling on the floor.\nHosoda's left ear lay at my feet.{p}What will you do?\n"
+  },
+  {
+   "id": "07:e4c8",
+   "op": "choice",
+   "en": "Act tough"
+  },
+  {
+   "id": "07:e4dc",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "07:e4e4",
+   "op": "choice",
+   "en": "Comfort him"
+  },
+  {
+   "id": "07:e4ec",
+   "op": "choice",
+   "en": "Run off"
+  },
+  {
+   "id": "07:e4f8",
+   "op": "text",
+   "follows_choice": [
+    "07:e4c8"
+   ],
+   "en": "\"Quit your bawling!\"{p}"
+  },
+  {
+   "id": "07:e520",
+   "op": "text",
+   "en": "I kicked Hosoda hard in the side as he rolled around.\n\"Gaahk!\"\nDisgustingly, Hosoda threw up his half-digested food.\nThen I grabbed Hosoda by the hair and yanked his face up as hard as I could.\n\"How many people have you killed so far, you bastard?! You murderer!\nAnd yet the moment you get hurt yourself, you start crying.\nCry any more and I'll slice off your other ear too!\"\nI was burning with a rage I couldn't put into words.\nWhenever I thought of how this guy had killed so many innocent people, I was so angry I couldn't stand it.\nMaybe my threat had worked; Hosoda curled up his huge body and began to shake.\nAt least he seemed to have stopped crying.\nHe was desperately sniffling back his snot, trying not to cry.{p}What will you do?\n"
+  },
+  {
+   "id": "07:e78c",
+   "op": "choice",
+   "en": "Punch him flying"
+  },
+  {
+   "id": "07:e798",
+   "op": "choice",
+   "en": "Ask why he's trying to kill"
+  },
+  {
+   "id": "07:e7b0",
+   "op": "choice",
+   "en": "Ask where the ampoule is"
+  },
+  {
+   "id": "07:e7c8",
+   "op": "choice",
+   "en": "Let him get away"
+  },
+  {
+   "id": "07:e7d8",
+   "op": "choice",
+   "en": "Tie him up"
+  },
+  {
+   "id": "07:e7e4",
+   "op": "choice",
+   "en": "Ask about the Murder Club"
+  },
+  {
+   "id": "07:e7fc",
+   "op": "text",
+   "follows_choice": [
+    "07:e7e4"
+   ],
+   "en": "\"What's the Murder Club?! Tell me!\"\n\"Eek, please, anything but that. They'll kill me!\"\nHosoda started crying again.{p}"
+  },
+  {
+   "id": "07:e874",
+   "op": "text",
+   "en": "\"You'll get killed even if you cry.\nI just saw Kazama dead. Hino killed him.\nI tied up Shindo, but he's probably dead by now, isn't he?\n...And Arai and Iwashita are dead too.\nDo you want to die too?\"\nMy words must have been a huge shock to him.\nAfter that, Hosoda started blabbing away, even about things I hadn't asked.{p}"
+  },
+  {
+   "id": "07:e99c",
+   "op": "text",
+   "en": "\"Help me! Protect me! I'll tell you anything.\n"
+  },
+  {
+   "id": "07:e9d4",
+   "op": "text",
+   "en": "\"Then you want me to kill you, is that it?\nIf you don't talk right now, you'll be sorry.\"\nOnce I threatened him, Hosoda started blabbing away, even about things I hadn't asked.{p}"
+  },
+  {
+   "id": "07:ea70",
+   "op": "text",
+   "en": "\"Help me! Forgive me! I'll tell you anything.\n"
+  },
+  {
+   "id": "07:eaa4",
+   "op": "text",
+   "en": "The Murder Club has been around for a long time.\nI don't know the details myself, but it never acts out in the open.\nBecause it's an underground club.\nYou get it, right? Right? Right?\nSo, anyway, the current president is Lord Hino.\nAt this school, anyone who goes against Lord Hino gets killed. Every one of them.\nThere are only seven members in the club right now, but they're all scary people.\n...I know! I'll ask Lord Hino for you.\nSo you can become a member of the Murder Club. How about it? Sounds good, right?\nThat way you won't have to die either. And we can all get together and kill anyone we don't like.\nRight? Let's do that. Right? Right?\"{p}"
+  },
+  {
+   "id": "07:ecc4",
+   "op": "text",
+   "en": "What the hell is this guy suggesting?\nHe wants me to join the Murder Club?\n...But if I did, I'd be saved.{p}"
+  },
+  {
+   "id": "07:ed2c",
+   "op": "text",
+   "en": "There are only three members left, him included...\nWouldn't Hino want more members right about now?{p}"
+  },
+  {
+   "id": "07:ed9c",
+   "op": "text",
+   "en": "What will you do?\n"
+  },
+  {
+   "id": "07:edac",
+   "op": "choice",
+   "en": "Get them to let you join the Murder Club"
+  },
+  {
+   "id": "07:edc8",
+   "op": "choice",
+   "en": "Refuse to join something like that"
+  },
+  {
+   "id": "07:ede0",
+   "op": "text",
+   "follows_choice": [
+    "07:edc8"
+   ],
+   "en": "\"Don't get cute with me. Look who you're talking to!\nSay something that stupid again and I'll fucking kill you!\"\nI waved the bloodstained glass right in front of Hosoda's eyes.\n\"I'm sorry! I'm sorry!\nI didn't mean it like that!\nThat's right, you're not the kind of person who'd join a club like this, are you?\nInstead, I'll tell you where the ampoule is. So please, forgive me.\"{p}"
+  },
+  {
+   "id": "07:ef30",
+   "op": "text",
+   "en": "\"What did you say★\"\nFor a moment, I couldn't believe my ears.\n\"You know where the ampoule is★\"{p}"
+  },
+  {
+   "id": "07:ef8c",
+   "op": "text",
+   "en": "\"Y-Yeah, yeah, yeah!\"\nHosoda nodded over and over.\nIt seemed he really did know.\n\"If you're lying, I'll fucking kill you!\"\nHosoda shook his head hard.\n\"I'm not lying. I'll do anything, if you'll just save me.\nThe ampoule is in the old school building.\nYou see, I saw Lord Hino going to hide it in the old school building.\nI don't know where, but I'm sure it's in the old school building.\"\n\"...The old school building, huh.\"\n\"...Oh! You have to keep this a secret, no matter what.\nOtherwise they'll kill me. Please.\"\nI shoved Hosoda away as he clung to me.{p}"
+  },
+  {
+   "id": "07:f1b4",
+   "op": "text",
+   "en": "\"...The old school building.\"\n"
+  },
+  {
+   "id": "07:f1c8",
+   "op": "text",
+   "en": "I had to hurry.\n...But was there anywhere I needed to go first?{p}Where will you go?\n"
+  },
+  {
+   "id": "07:f22c",
+   "op": "choice",
+   "en": "Chemistry lab"
+  },
+  {
+   "id": "07:f234",
+   "op": "choice",
+   "en": "Art room"
+  },
+  {
+   "id": "07:f23c",
+   "op": "choice",
+   "en": "Nurse's office"
+  },
+  {
+   "id": "07:f244",
+   "op": "choice",
+   "en": "Gym"
+  },
+  {
+   "id": "07:f24c",
+   "op": "choice",
+   "en": "Old school building"
+  },
+  {
+   "id": "07:f254",
+   "op": "choice",
+   "en": "Staff room"
+  },
+  {
+   "id": "07:f25c",
+   "op": "choice",
+   "en": "Night-duty room"
+  },
+  {
+   "id": "07:f264",
+   "op": "choice",
+   "en": "Other"
+  },
+  {
+   "id": "07:f26c",
+   "op": "choice",
+   "en": "Classroom"
+  },
+  {
+   "id": "07:f274",
+   "op": "choice",
+   "en": "Restroom"
+  },
+  {
+   "id": "07:f27c",
+   "op": "choice",
+   "en": "School gate"
+  },
+  {
+   "id": "07:f284",
+   "op": "choice",
+   "en": "Flower bed"
+  },
+  {
+   "id": "07:f28c",
+   "op": "choice",
+   "en": "Home economics room"
+  },
+  {
+   "id": "07:f298",
+   "op": "choice",
+   "en": "Newspaper club room"
+  },
+  {
+   "id": "07:f2a8",
+   "op": "choice",
+   "en": "Library"
+  },
+  {
+   "id": "07:f2b0",
+   "op": "choice",
+   "en": "Other"
+  },
+  {
+   "id": "07:f2b8",
+   "op": "text",
+   "follows_choice": [
+    "07:f24c"
+   ],
+   "en": "I headed straight for the old school building.\n\"Please! Don't tell, okay? You have to keep me out of it, no matter what!\"\nHosoda was shouting behind me.\nBut I had no time to waste on a guy like that.\nI had to hurry to the old school building.{p}"
+  },
+  {
+   "id": "07:f390",
+   "op": "text",
+   "en": "I rushed into the old school building.\nIt was dark, just as I'd expected.\nNormally, I'd never come to a place like this alone.\nBut this was no time to be saying things like that.\nI switched on my flashlight.{p}"
+  },
+  {
+   "id": "07:f474",
+   "op": "text",
+   "en": "The old school building had three floors.{p}Where will you go?\n"
+  },
+  {
+   "id": "07:f49c",
+   "op": "choice",
+   "en": "First-floor classrooms"
+  },
+  {
+   "id": "07:f4a8",
+   "op": "choice",
+   "en": "First-floor restroom"
+  },
+  {
+   "id": "07:f4b8",
+   "op": "choice",
+   "en": "Second-floor classrooms"
+  },
+  {
+   "id": "07:f4c4",
+   "op": "choice",
+   "en": "Second-floor restroom"
+  },
+  {
+   "id": "07:f4d4",
+   "op": "choice",
+   "en": "Third-floor classrooms"
+  },
+  {
+   "id": "07:f4e0",
+   "op": "choice",
+   "en": "Third-floor restroom"
+  },
+  {
+   "id": "07:f4f0",
+   "op": "choice",
+   "en": "Leave the old school building"
+  },
+  {
+   "id": "07:f50c",
+   "op": "text",
+   "follows_choice": [
+    "07:f49c"
+   ],
+   "en": "I decided to go to the classrooms on the first floor of the old school building.{p}"
+  },
+  {
+   "id": "07:f54c",
+   "op": "text",
+   "en": "The hallway floor looked like it could give way any second.\nBut I couldn't let that stop me.\nEven in the old school building, there were seven classrooms on each floor.{p}Which classroom will you go to?\n"
+  },
+  {
+   "id": "07:f5c8",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:f5d0",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:f5e0",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:f5f0",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:f600",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:f610",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:f620",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:f628",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:f634",
+   "op": "text",
+   "follows_choice": [
+    "07:f5c8"
+   ],
+   "en": "I decided to go to the classroom on the far left.{p}"
+  },
+  {
+   "id": "07:f66c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:f798",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:f7a8",
+   "op": "text",
+   "follows_choice": [
+    "07:f5d0"
+   ],
+   "en": "I decided to go to the second classroom from the left.{p}"
+  },
+  {
+   "id": "07:f7e4",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Nothing.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:f910",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:f920",
+   "op": "text",
+   "follows_choice": [
+    "07:f5e0"
+   ],
+   "en": "I decided to go to the third classroom from the left.{p}"
+  },
+  {
+   "id": "07:f95c",
+   "op": "text",
+   "en": "I went into the classroom and shone my flashlight around inside.\nOnly a few scattered desks were left.\nIt didn't look like searching would take long.\nFirst, I checked the teacher's platform.\n...Nothing.\nNext, I checked the remaining desks.\nI searched every inch inside the desks, too.\n...Huh?\nThere's something here.\nWhat is this?{p}"
+  },
+  {
+   "id": "07:fa68",
+   "op": "text",
+   "en": "\"Whoa!\"\n...It was a dead rat.\n...Phew, that nearly gave me a heart attack.\nThere was nothing in the desks.\nI searched every inch of the room, corner to corner.\nIt didn't seem to be in this classroom.{p}"
+  },
+  {
+   "id": "07:fb0c",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:fb1c",
+   "op": "text",
+   "follows_choice": [
+    "07:f628"
+   ],
+   "en": "That's enough of the first-floor classrooms for now.{p}"
+  },
+  {
+   "id": "07:fb54",
+   "op": "text",
+   "en": "Where will you go?\n"
+  },
+  {
+   "id": "07:fb70",
+   "op": "text",
+   "follows_choice": [
+    "07:f4a8"
+   ],
+   "en": "I decided to go to the first-floor restroom.\nThere was a boys' restroom and a girls' restroom.{p}Which one will you search?\n"
+  }
+ ]
+}

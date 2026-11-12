@@ -1,0 +1,926 @@
+{
+ "chunk": "E015",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S032",
+  "S033"
+ ],
+ "prev": "E014",
+ "next": "E016",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:204b4",
+   "op": "text",
+   "en": "Hino pulled out a knife.\nI probably didn't even have the strength left to dodge.\n...No, that was no good.\nI wasn't going to give up over something like this.\nIf he stabbed me, I'd take him down with me.\nI timed my breathing.\nHino raised the knife high and came at me.\nReady to sacrifice an arm, I tried to lunge at him.\nJust then, with a rumbling crash, the wall came tumbling down.{p}"
+  },
+  {
+   "id": "07:20610",
+   "op": "text",
+   "en": "\"Aaagh!\"\nI dodged just in time, but Hino was crushed under the rubble.\n\"H-Hino!\"\nHino lay with his lower body pinned under the wall.\nBlood trickled from his lips.\n\"My... Murder Club...... of the chosen ones...\"\nHis voice broke off.\nWas he dead?\nI tried to get closer.\nBut the walls were starting to collapse again.\nAt this rate, I'd be buried alive too!\nPlanting my unsteady feet, I fled the old school building.{p}"
+  },
+  {
+   "id": "07:207b4",
+   "op": "text",
+   "en": "The night air was cold and delicious.\nAll the tension drained out of me at once, and I sank to the ground in the schoolyard.{p}"
+  },
+  {
+   "id": "07:20814",
+   "op": "text",
+   "en": "Against the dark night sky, the flames blazed bright red in a mad, wild feast.\nIt's beautiful... I thought.{p}"
+  },
+  {
+   "id": "07:2086c",
+   "op": "text",
+   "en": "As I sat there in a daze, I heard the wail of sirens.\nProbably a fire engine one of the neighbors had called.\nThat sound should have been shrill, but right now it was soothing to me.\nI was alive.\nI was really alive.{p}"
+  },
+  {
+   "id": "07:2091c",
+   "op": "text",
+   "en": "Once I knew I'd made it, the fear suddenly swelled.\nThis was the old school building in the dead of night.\nWaiting here until morning was far too frightening to even consider.\nI picked up the flashlight that had been flung aside and stood up.\nThen, without really thinking, my eyes fell on a broken window frame.{p}"
+  },
+  {
+   "id": "07:20a14",
+   "op": "text",
+   "en": "Rotten, crumbling wood.\nBut it still looked at least a little sturdy.\nAn idea came to me.\n...This might come in handy.\nI picked up the broken window frame.\nMaybe that really was a warning from God.{p}"
+  },
+  {
+   "id": "07:20aec",
+   "op": "text",
+   "en": "...I felt dizzy.\nExhaustion crashed down on me all at once.\nStill, I couldn't believe how much I'd managed to do.\nI was impressed by my own stamina.\nStaggering, I slowly put one leaden leg in front of the other.{p}"
+  },
+  {
+   "id": "07:20bb0",
+   "op": "text",
+   "en": "Going down the stairs was agony.\nWith every step, I felt like my foot was about to slip.\nThere was no strength left in my legs at all.\nBy the time I finally made it down to the first floor, the sky was about to start turning pale.{p}"
+  },
+  {
+   "id": "07:20c74",
+   "op": "text",
+   "en": "\"...Let's go home. ...Let's go back home.\"\nI muttered it over and over to keep my spirits up.\nThe school gate was right in front of me.{p}"
+  },
+  {
+   "id": "07:20cfc",
+   "op": "text",
+   "en": "...And then.\nThere they stood, in front of the school gate.\nThat's right: Hino and Kazama.{p}"
+  },
+  {
+   "id": "07:20d50",
+   "op": "text",
+   "en": "\"Not bad at all.\"\nHino grinned at me.\n\"You've been so entertaining that I came up with another game.\"\nA game?\nJust hearing Hino's words made me sick to my stomach.\nWhat more did he want to make me do?{p}"
+  },
+  {
+   "id": "07:20e44",
+   "op": "text",
+   "en": "Just then, Kazama stepped forward.\nHe looked pale.{p}"
+  },
+  {
+   "id": "07:20e7c",
+   "op": "text",
+   "en": "\"Kazama here swallowed one of those poison capsules a little while ago.\nI told him he doesn't get the antidote unless he kills you.\"\n\"What★\"\nI couldn't believe my ears.\nWeren't these guys on the same side?\nAnd yet he'd turned him into a prop for his game.\nHino laughed.\n\"Go on, Kazama. If you don't hurry, the poison's going to spread.\"{p}",
+   "returns": [
+    "07:20e7c: RETURN - 'he'd turned him into a prop' has two male pronouns (Hino / Kazama); editorial may want to name Hino"
+   ]
+  },
+  {
+   "id": "07:20fc8",
+   "op": "text",
+   "en": "As if spurred on by that, Kazama stepped even closer.\nHis eyes were brimming with murderous intent.\nHe meant it!\nThe instant I realized it, Kazama lunged at me.{p}"
+  },
+  {
+   "id": "07:21060",
+   "op": "text",
+   "en": "I dodged on reflex and grabbed his arm.{p}What should I do?\n"
+  },
+  {
+   "id": "07:21090",
+   "op": "choice",
+   "en": "Try to talk him down"
+  },
+  {
+   "id": "07:210a0",
+   "op": "choice",
+   "en": "Break his arm"
+  },
+  {
+   "id": "07:210b0",
+   "op": "text",
+   "en": "I bore down on his arm with all my strength.{p}",
+   "follows_choice": [
+    "07:210a0"
+   ]
+  },
+  {
+   "id": "07:210d4",
+   "op": "text",
+   "en": "\"Ngh!\"\nKazama's face twisted in pain.\nBut the next instant...{p}"
+  },
+  {
+   "id": "07:21128",
+   "op": "text",
+   "en": "Kazama drove his knee up into my stomach.\n\"Ugh!\"\nAs I doubled over, the next blow caught me in the temple.{p}"
+  },
+  {
+   "id": "07:21194",
+   "op": "text",
+   "en": "I was blacking out.\nKazama pounded me over and over where I lay.\nAt this rate, he'd beat me to death.\n...But I couldn't fight back.\nToo much had happened tonight. Far too much.\nI couldn't move anymore...\nI was losing all feeling.{p}"
+  },
+  {
+   "id": "07:21278",
+   "op": "text",
+   "en": "Just then, as I lay sprawled on the earth, the light of dawn shone down on me.{p}"
+  },
+  {
+   "id": "07:212b0",
+   "op": "text",
+   "en": "\"Kazama, why do we have to fight each other★\"\nI shouted.\n\"Even if you take me down, there's no guarantee Hino will give you the ampoule☆\"{p}",
+   "follows_choice": [
+    "07:21090"
+   ]
+  },
+  {
+   "id": "07:21344",
+   "op": "text",
+   "en": "Kazama's expression changed.\nHe knitted his brows in anguish.\nMaybe I could talk him around after all.\nThat gave me strength.\n\"Listen, Kazama...\"{p}"
+  },
+  {
+   "id": "07:213c8",
+   "op": "text",
+   "en": "\"Raaaaagh☆\"\nBefore I could finish, Kazama suddenly tackled me.\nCaught off guard, I went down.\nTangled together, we rolled across the ground.{p}"
+  },
+  {
+   "id": "07:21470",
+   "op": "text",
+   "en": "Kazama raised an ice pick.\nWas he going to stab me★\nI wasn't going to let him.\nI tried to wrench the ice pick away from Kazama.\nAs we grappled, the point slipped.{p}"
+  },
+  {
+   "id": "07:21528",
+   "op": "text",
+   "en": "\"Ah!\"\nKazama's body went rigid.\nThe ice pick was buried deep in his chest.\nStill glaring at me, Kazama slowly slid down into a heap.{p}"
+  },
+  {
+   "id": "07:215bc",
+   "op": "text",
+   "en": "\"Tch. Useless.\"\nHino spat out the words.\nI couldn't believe it.\nWhat kind of person was he?\nOne of his own had just died, and...\nSeeing the look on my face, Hino twisted his lips into a sneer.{p}"
+  },
+  {
+   "id": "07:21668",
+   "op": "text",
+   "en": "\"What, got a problem with that?\"\nA knife appeared from his pocket.\n\"If you do, why don't you come at me★\"\nSo now he was going to threaten me with a weapon?\nHe was filthy right down to the core.\nHim, I could never forgive!\nI slammed my body into Hino.{p}"
+  },
+  {
+   "id": "07:2174c",
+   "op": "text",
+   "en": "\"Whoa★\"\nHino went flying.\nHe must never have imagined I wouldn't be afraid of his knife.\n\"How dare you...\"\nA savage light burned in his eyes.\nThe eyes of a beast that tears everything apart.\nThis must have been Hino's true nature.\nHino slowly tried to get to his feet.\nJust then, someone grabbed Hino's leg.{p}"
+  },
+  {
+   "id": "07:21888",
+   "op": "text",
+   "en": "It was Kazama, who had been lying on the ground.\n\"L... Lord Hino... the ampoule...\"{p}"
+  },
+  {
+   "id": "07:218e0",
+   "op": "text",
+   "en": "\"Don't be stupid. You're useless.\"\nHino said it coldly and kicked Kazama's hand away.\n\"Even if I gave you the ampoule, with that wound, you're going to die anyway.\"{p}"
+  },
+  {
+   "id": "07:21978",
+   "op": "text",
+   "en": "Kazama's eyes blazed with rage.\n\"But... you're abandoning me?\"{p}"
+  },
+  {
+   "id": "07:219c8",
+   "op": "text",
+   "en": "\"Yeah. I've got no use for losers, you see.\"\nHino turned back to me.\n\"Now, {a}, it's your turn.\"\nBut I couldn't answer.\nMy eyes were fixed on what was behind Hino.{p}"
+  },
+  {
+   "id": "07:21a88",
+   "op": "text",
+   "en": "On the hate-filled stare of Kazama, who had staggered to his feet.\nIn his hand he gripped the bloody ice pick he'd pulled from his chest.\n\"Hino...!\"{p}"
+  },
+  {
+   "id": "07:21b18",
+   "op": "text",
+   "en": "The moment I shouted, Kazama brought the ice pick down.{p}"
+  },
+  {
+   "id": "07:21b6c",
+   "op": "text",
+   "en": "\"Gyaaaaaaaaah☆\"\nHino's scream echoed all around.{p}"
+  },
+  {
+   "id": "07:21bb4",
+   "op": "text",
+   "en": "Hino crashed hard to the ground.\nThe ice pick sticking out of his back seemed to have taken his life in a single blow.\nKazama dragged himself along the ground toward Hino.{p}"
+  },
+  {
+   "id": "07:21c50",
+   "op": "text",
+   "en": "\"...There it is, the ampoule...\"\nKazama pulled the antidote ampoule from Hino's pocket.\nThen he drained its contents in one gulp.{p}"
+  },
+  {
+   "id": "07:21cd4",
+   "op": "text",
+   "en": "\"Now... now I'll be all... ri... ght...\"\nWith a satisfied smile, Kazama breathed his last, too.\nI sank limply to the ground.\nI couldn't take another step.\nI just wanted to fall asleep right there.\nWas it over now...?\nWas it really over...?\nJust then, as if in answer to my question, the first light of morning came streaming in.{p}"
+  },
+  {
+   "id": "07:21e0c",
+   "op": "text",
+   "en": "I see...\nSo it really was over.\nThe long, long night was finally over.{p}"
+  },
+  {
+   "id": "07:21e50",
+   "op": "text",
+   "en": "...The faculty room!\nI had to get to the faculty room first, or I wouldn't be able to go anywhere.{p}"
+  },
+  {
+   "id": "07:21ea4",
+   "op": "text",
+   "en": "I reached the faculty room.\n...Thank goodness.\nLuckily, the faculty room wasn't locked.\nThe lights were off, too.{p}"
+  },
+  {
+   "id": "07:21f1c",
+   "op": "text",
+   "en": "I slipped into the faculty room.\nThere was no time.\nWhatever I did, I couldn't afford to take it slow.{p}What should I do?\n"
+  },
+  {
+   "id": "07:21f98",
+   "op": "text",
+   "en": "I reached the faculty room.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:21fc8",
+   "op": "text",
+   "en": "I searched the desks once more.{p}"
+  },
+  {
+   "id": "07:21fec",
+   "op": "text",
+   "en": "Searching so many desks over and over was hard work.\nIf nothing turned up this time, it would all be a complete waste of effort.\n...But I didn't find anything.{p}What should I do next?\n"
+  },
+  {
+   "id": "07:22094",
+   "op": "text",
+   "en": "I stood in front of the bulletin board.\nI didn't think there was anything here, after all.{p}What should I do?\n"
+  },
+  {
+   "id": "07:220f4",
+   "op": "text",
+   "en": "I hurriedly picked up the receiver.\n...No good.\nThat's right, I'd already found out earlier that the phone line was cut.{p}"
+  },
+  {
+   "id": "07:22170",
+   "op": "text",
+   "en": "I slowly put the receiver back.{p}"
+  },
+  {
+   "id": "07:221a4",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:221b4",
+   "op": "text",
+   "en": "That's it!\nThere should be a teacher on duty in the night-duty room!\nI didn't know which teacher it would be, but I'd go and see.\nIf I explained the situation, maybe something could be done?\n...Or would I just get chewed out?\nIt was all or nothing. I'd go and see!{p}"
+  },
+  {
+   "id": "07:22274",
+   "op": "text",
+   "en": "The light was on in the night-duty room.\nYes!\nSomeone was in there!{p}"
+  },
+  {
+   "id": "07:222b0",
+   "op": "text",
+   "en": "The door was locked.{p}"
+  },
+  {
+   "id": "07:222e4",
+   "op": "text",
+   "en": "\"Excuse me! Excuse me! Please! Open the door!\"\n...There was no answer.\nWere they out making the rounds right now?\nI didn't have a key to open this door.{p}"
+  },
+  {
+   "id": "07:223a8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:223c8",
+   "op": "text",
+   "en": "The night-duty room door was locked.\nI didn't have a key to open this door.{p}"
+  },
+  {
+   "id": "07:22428",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:22448",
+   "op": "text",
+   "en": "I made it to the night-duty room.{p}"
+  },
+  {
+   "id": "07:22464",
+   "op": "text",
+   "en": "It was still locked, same as before.\nEven though the lights inside were blazing.{p}"
+  },
+  {
+   "id": "07:224c0",
+   "op": "text",
+   "en": "I came to the night-duty room.{p}"
+  },
+  {
+   "id": "07:224dc",
+   "op": "text",
+   "en": "I tried going to the night-duty room once more.{p}"
+  },
+  {
+   "id": "07:2252c",
+   "op": "text",
+   "en": "Beside the teacher, who lay limp on the floor, was Shindo, tied up...\nOh my God!\nShindo was lying face down.\nAnd yet his face alone was looking up at the ceiling.\nIn other words, his neck had been twisted a hundred and eighty degrees, so that his face was on his back.\nOne look at his wide-open, staring eyes, and it was clear he was dead.\nNext to his head, there was writing in blood.\nThe incompetent don't even deserve to live.\nI stifled a scream.{p}"
+  },
+  {
+   "id": "07:2269c",
+   "op": "text",
+   "en": "Whoever killed Shindo might still be lurking somewhere nearby.{p}What should I do?\n"
+  },
+  {
+   "id": "07:226f4",
+   "op": "text",
+   "en": "I came to the night-duty room again.\nI did my best not to look at the corpses lying in the middle of the room.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:22774",
+   "op": "text",
+   "en": "\"Teacher, something terrible's happened!\"\nI ran over to the teacher.\nWhen I touched the teacher's shoulder, the head lolled to one side.\nThe body toppled right over.\nAcross the throat was a single straight gash!{p}",
+   "follows_choice": [
+    "07:afb8"
+   ]
+  },
+  {
+   "id": "07:22818",
+   "op": "text",
+   "en": "\"Aaaagh!\"\nI screamed.{p}"
+  },
+  {
+   "id": "07:22850",
+   "op": "text",
+   "en": "At that very moment, something hot slammed into my back with a thud.\nWhat...?{p}"
+  },
+  {
+   "id": "07:228b0",
+   "op": "text",
+   "en": "I turned around, and there was Shindo, his eyes wild with fury.\nIn his hand he gripped a blood-soaked knife.\nBlood...?\nI put my hand to my back.\nIt was slick.\nThis was...\nMy palm was smeared bright red.\nThe strength suddenly drained out of my body.\nShindo was laughing.\nWas I going to die?\nI...{p}"
+  },
+  {
+   "id": "07:229c4",
+   "op": "text",
+   "en": "A warm darkness enveloped me.\nI couldn't see anything anymore.{p}"
+  },
+  {
+   "id": "07:22a00",
+   "op": "text",
+   "en": "Something was wrong.\nThe teacher was right there inside, and yet there was no answer.\n...Could something have happened?\nI looked around the room without thinking.\nThere was nowhere in this room for anyone to hide.\nI called out once more.\n\"...Teacher?\"\nBut still no answer came back.\nI ran over and put my hand on the teacher's shoulder.\nAnd then...\nThe teacher slumped over, just like that.\n\"Whoa!\"\nThe teacher's throat had been slashed straight across.\n...Dead!\n\"Diiiiiiie!\"\nSuddenly, a voice rang out.{p}"
+  },
+  {
+   "id": "07:22bd4",
+   "op": "text",
+   "en": "I turned around, and Shindo was lunging at me from the doorway.\nHe had a knife in his hand.\n\"Whoa!\"\nI dodged by a hair.\nThe knife grazed my cheek.\nIt burned!\nI pulled out the saw I'd tucked in at my hip.{p}"
+  },
+  {
+   "id": "07:22c8c",
+   "op": "text",
+   "en": "Something was wrong.\nThe teacher was right there inside, and yet there was no answer.\n...Could something have happened?\nI looked around the room without thinking.\nThere was nowhere in this room for anyone to hide.\nI called out once more.\n\"...Teacher?\"\nBut still no answer came back.\nI ran over and put my hand on the teacher's shoulder.\nAnd then...\nThe teacher slumped over, just like that.\n\"Whoa!\"\nThe teacher's throat had been slashed straight across.\n...Dead!\n\"Diiiiiiie!\"\nSuddenly, a voice rang out.{p}"
+  },
+  {
+   "id": "07:22e60",
+   "op": "text",
+   "en": "I turned around, and Shindo was lunging at me from the doorway.\nHe had a knife in his hand.\n\"Whoa!\"\nI dodged by a hair.\nThe knife grazed my cheek.\nIt burned!{p}"
+  },
+  {
+   "id": "07:22ef0",
+   "op": "text",
+   "en": "I steeled myself and lunged in close.\nI rammed headfirst into Shindo's stomach.{p}",
+   "follows_choice": [
+    "07:b460"
+   ]
+  },
+  {
+   "id": "07:22f48",
+   "op": "text",
+   "en": "Shindo staggered and dropped the knife.\nNow!\nI shoved Shindo down and straddled him.{p}"
+  },
+  {
+   "id": "07:22fa4",
+   "op": "text",
+   "en": "Shindo was a different kind of person from me.\nI had no confidence I could win if I made an enemy of him.\nSlowly, I lowered the arms I'd raised to fight.{p}",
+   "follows_choice": [
+    "07:b494"
+   ]
+  },
+  {
+   "id": "07:23020",
+   "op": "text",
+   "en": "\"...I'm sorry. I don't want to fight you.\"\nShindo gave me a suspicious look.\n\"Huh. You got real tame all of a sudden.\"\n\"All I want is the ampoule.\nPlease, I'm begging you, tell me where it is.\"\nI meekly bowed my head.{p}"
+  },
+  {
+   "id": "07:23150",
+   "op": "text",
+   "en": "Shindo lowered his knife.\n\"Hmm... If you're gonna go that far, I might think about it.\nBut only if you become my lackey.\"{p}What should I do?\n",
+   "returns": []
+  },
+  {
+   "id": "07:231d0",
+   "op": "choice",
+   "en": "Refuse"
+  },
+  {
+   "id": "07:231d8",
+   "op": "choice",
+   "en": "Agree to be his lackey"
+  },
+  {
+   "id": "07:231ec",
+   "op": "text",
+   "en": "\"All right. Please make me your lackey.\"\nI nodded meekly.\nMy life matters more than some stupid pride.{p}",
+   "follows_choice": [
+    "07:231d8"
+   ]
+  },
+  {
+   "id": "07:23268",
+   "op": "text",
+   "en": "\"Good. Then I'll tell you.\"\nShindo grinned, satisfied.\n\"But it'd be bad if Hino heard. Lend me your ear.\"\nDoing as I was told, I leaned my ear toward Shindo.{p}"
+  },
+  {
+   "id": "07:2331c",
+   "op": "text",
+   "en": "In that instant, a jolt ran through the back of my neck.\nShindo had slashed me with the knife.\nWhy...?{p}"
+  },
+  {
+   "id": "07:23398",
+   "op": "text",
+   "en": "Shindo was laughing, enjoying himself.\n\"What an idiot. There's no point making someone like you my lackey.\"\nSo I'd been tricked.\nIt was so... galling.\nBlood spraying from my neck, I slowly crumpled to the floor.{p}"
+  },
+  {
+   "id": "07:2345c",
+   "op": "text",
+   "en": "\"No way! I won't do it!\"\nI shouted.{p}",
+   "follows_choice": [
+    "07:231d0"
+   ]
+  },
+  {
+   "id": "07:234a0",
+   "op": "text",
+   "en": "\"What did you say?\"\nShindo started to raise his knife.{p}"
+  },
+  {
+   "id": "07:234d8",
+   "op": "text",
+   "en": "I looked for a way out.\n...It's no good.\nThe night-duty room's windows have bars over them.\nThere's no gap a person could ever fit through.\nThe only door is behind Shindo.\nThere's no way I can escape!{p}What will you do?\n",
+   "follows_choice": [
+    "07:b49c"
+   ],
+   "returns": []
+  },
+  {
+   "id": "07:23598",
+   "op": "text",
+   "en": "I pressed the knife against Shindo.\nShindo's face went pale.\n\"Wh... what are you gonna do to me?\"\nHis voice was hoarse with fear.\nI deliberately didn't answer him.\nLet him get more and more scared.\nThen maybe he'd understand a little of how I felt.{p}",
+   "follows_choice": [
+    "07:b6b4"
+   ]
+  },
+  {
+   "id": "07:2367c",
+   "op": "text",
+   "en": "All right, I'll let Shindo go.{p}",
+   "follows_choice": [
+    "07:b710"
+   ]
+  },
+  {
+   "id": "07:236ac",
+   "op": "text",
+   "en": "I climbed off Shindo.{p}"
+  },
+  {
+   "id": "07:236d8",
+   "op": "text",
+   "en": "That instant, Shindo punched me and sent me flying.{p}"
+  },
+  {
+   "id": "07:23700",
+   "op": "text",
+   "en": "Sparks burst before my eyes.{p}"
+  },
+  {
+   "id": "07:23734",
+   "op": "text",
+   "en": "...When I came to, Shindo was sitting astride me.\nThe exact reverse of a moment ago.\nShindo's eyes glinted cruelly.\n\"So long, {a}.\"{p}"
+  },
+  {
+   "id": "07:237bc",
+   "op": "text",
+   "en": "The moment he said it, my throat was slashed straight across.{p}"
+  },
+  {
+   "id": "07:23808",
+   "op": "text",
+   "en": "I yanked the TV cord out.\nWith Shindo pinned down, I tied his hands behind his back.{p}",
+   "follows_choice": [
+    "07:b720"
+   ]
+  },
+  {
+   "id": "07:23858",
+   "op": "text",
+   "en": "I looked at the sink.\nAn empty cup noodle container had been left there.{p}Was it the murdered teacher's last supper?\n",
+   "follows_choice": [
+    "07:becc"
+   ]
+  },
+  {
+   "id": "07:238cc",
+   "op": "text",
+   "en": "I opened the closet.\nThere was one set of futon bedding, and nothing else.{p}Should I pull the futon out too, just in case?\n",
+   "follows_choice": [
+    "07:bedc"
+   ]
+  },
+  {
+   "id": "07:23928",
+   "op": "choice",
+   "en": "Do it, just in case"
+  },
+  {
+   "id": "07:2393c",
+   "op": "choice",
+   "en": "No need to go that far"
+  },
+  {
+   "id": "07:23958",
+   "op": "text",
+   "en": "Eh, I don't need to go that far.\n",
+   "follows_choice": [
+    "07:2393c"
+   ]
+  },
+  {
+   "id": "07:23974",
+   "op": "text",
+   "en": "I dragged the futon out of the closet.\nBetter safe than sorry.\n...But in the end, there was nothing.{p}I shoved the futon roughly back inside.\n",
+   "follows_choice": [
+    "07:23928"
+   ]
+  },
+  {
+   "id": "07:239f8",
+   "op": "text",
+   "en": "I searched the shelves.{p}Just as I thought, the ampoule doesn't seem to be here.\n"
+  },
+  {
+   "id": "07:23a3c",
+   "op": "text",
+   "en": "Which floor's classrooms should I go to?\n",
+   "follows_choice": [
+    "07:771c",
+    "07:f26c",
+    "07:23b60",
+    "07:23f58",
+    "07:24760",
+    "07:249ac"
+   ]
+  },
+  {
+   "id": "07:23a58",
+   "op": "choice",
+   "en": "First-floor classrooms"
+  },
+  {
+   "id": "07:23a64",
+   "op": "choice",
+   "en": "Second-floor classrooms"
+  },
+  {
+   "id": "07:23a70",
+   "op": "choice",
+   "en": "Third-floor classrooms"
+  },
+  {
+   "id": "07:23a7c",
+   "op": "choice",
+   "en": "Fourth-floor classrooms"
+  },
+  {
+   "id": "07:23a88",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:23a94",
+   "op": "text",
+   "en": "Where should I search?\n",
+   "follows_choice": [
+    "07:23a88"
+   ]
+  },
+  {
+   "id": "07:23ab4",
+   "op": "text",
+   "en": "The new school building had seven classrooms on each floor.{p}",
+   "follows_choice": [
+    "07:23a58"
+   ]
+  },
+  {
+   "id": "07:23aec",
+   "op": "text",
+   "en": "Which classroom should I go to?\n"
+  },
+  {
+   "id": "07:23b00",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:23b08",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:23b18",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:23b28",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:23b38",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:23b48",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:23b58",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:23b60",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:23b84",
+   "op": "text",
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}",
+   "follows_choice": [
+    "07:23b00",
+    "07:23b08",
+    "07:23b18",
+    "07:23b38",
+    "07:23b48",
+    "07:23b58"
+   ]
+  },
+  {
+   "id": "07:23ce4",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:23d0c",
+   "op": "text",
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Is something in there?\nI hurriedly pulled it out.\n...A broken piece of chalk.\nI was let down.\nThere was nothing in the desks.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}",
+   "follows_choice": [
+    "07:23b28"
+   ]
+  },
+  {
+   "id": "07:23e90",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:23eac",
+   "op": "text",
+   "en": "The new school building had seven classrooms on each floor.{p}",
+   "follows_choice": [
+    "07:23a64"
+   ]
+  },
+  {
+   "id": "07:23ee4",
+   "op": "text",
+   "en": "Which classroom should I go to?\n"
+  },
+  {
+   "id": "07:23ef8",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:23f00",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:23f10",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:23f20",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:23f30",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:23f40",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:23f50",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:23f58",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:23f7c",
+   "op": "text",
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}",
+   "follows_choice": [
+    "07:23ef8",
+    "07:23f00",
+    "07:23f10",
+    "07:23f20",
+    "07:23f50"
+   ]
+  },
+  {
+   "id": "07:240dc",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:24104",
+   "op": "text",
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, the desks.\nInside one of them was a small bottle.\nCould this be...?\nBut it wasn't.\nWhen I held it to my nose, it smelled like flowers.\nPerfume.\nCologne, I guess you'd call it?\nDon't bring stuff like this to school!\nTaking my frustration out on it, I put the bottle back.\nOther than that, there's nothing out of the ordinary.\nIt doesn't look like it's in this classroom.{p}",
+   "follows_choice": [
+    "07:23f30"
+   ]
+  },
+  {
+   "id": "07:24314",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:2433c",
+   "op": "text",
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, the desks.\nInside one of them was a letter that hadn't even been opened.\nThere was no sender's name, either.\nCould it be a love letter?{p}Should I take a little peek?\n",
+   "follows_choice": [
+    "07:23f40"
+   ]
+  },
+  {
+   "id": "07:2449c",
+   "op": "choice",
+   "en": "Take a look"
+  },
+  {
+   "id": "07:244a8",
+   "op": "choice",
+   "en": "I don't want to look"
+  },
+  {
+   "id": "07:244b4",
+   "op": "text",
+   "en": "No, that would be in poor taste.\nBesides, I don't have time for that.{p}",
+   "follows_choice": [
+    "07:244a8"
+   ]
+  },
+  {
+   "id": "07:24504",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:24514",
+   "op": "text",
+   "en": "I tore the letter open.\nWith a dry rustle, I unfolded the notepaper.\nLet's see, what does it say...\n\"Whoever reads this letter will die within twenty-four hours,\" it says★\n\"If you don't want to die, write three letters with the same words and send them out...\"\nA chain letter of doom.\nNow, of all times.\nIt felt like my bad luck had just come crashing down on me even harder.\nI wish I hadn't looked...\nI put the letter back.{p}",
+   "follows_choice": [
+    "07:2449c"
+   ]
+  },
+  {
+   "id": "07:24698",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:246b4",
+   "op": "text",
+   "en": "The new school building had seven classrooms on each floor.{p}",
+   "follows_choice": [
+    "07:23a70"
+   ]
+  },
+  {
+   "id": "07:246ec",
+   "op": "text",
+   "en": "Which classroom should I go to?\n"
+  },
+  {
+   "id": "07:24700",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:24708",
+   "op": "choice",
+   "en": "Second from left"
+  },
+  {
+   "id": "07:24718",
+   "op": "choice",
+   "en": "Third from left"
+  },
+  {
+   "id": "07:24728",
+   "op": "choice",
+   "en": "Fourth from left"
+  },
+  {
+   "id": "07:24738",
+   "op": "choice",
+   "en": "Fifth from left"
+  },
+  {
+   "id": "07:24748",
+   "op": "choice",
+   "en": "Sixth from left"
+  },
+  {
+   "id": "07:24758",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:24760",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:24784",
+   "op": "text",
+   "en": "I went into the classroom.\nDesks and chairs stood in neat rows.\nSeeing it like this, it's hard to believe students use it during the day.\nThe classroom feels colder than usual, too.\nAnyway, I have to search.\nFirst, I check the teacher's platform.\n...Nothing.\nNext, I check the desks.\nOf course, I search thoroughly inside them too.\n...Nothing.\nI search every corner of the room.\nIt doesn't look like it's in this classroom.{p}",
+   "follows_choice": [
+    "07:24700",
+    "07:24708",
+    "07:24718",
+    "07:24728",
+    "07:24738",
+    "07:24748",
+    "07:24758"
+   ]
+  },
+  {
+   "id": "07:248e4",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:24900",
+   "op": "text",
+   "en": "The new school building had seven classrooms on each floor.{p}",
+   "follows_choice": [
+    "07:23a7c"
+   ]
+  },
+  {
+   "id": "07:24938",
+   "op": "text",
+   "en": "Which classroom should I go to?\n"
+  }
+ ]
+}

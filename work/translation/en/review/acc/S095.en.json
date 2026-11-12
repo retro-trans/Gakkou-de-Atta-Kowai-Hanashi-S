@@ -1,0 +1,360 @@
+{
+ "slice": "S095",
+ "scene": "25",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S094",
+ "next": "S096",
+ "todo": [],
+ "rows": [
+  {
+   "id": "25:3860",
+   "op": "text",
+   "follows_choice": [
+    "25:3854"
+   ],
+   "en": "I can't stay in a place like this.\nMy sixth sense is telling me so.\nI have to get out of here!{p}"
+  },
+  {
+   "id": "25:38cc",
+   "op": "text",
+   "en": "I ran for the door.\n"
+  },
+  {
+   "id": "25:38ec",
+   "op": "text",
+   "en": "I grabbed the knob roughly and twisted it, rattling it as if I meant to wrench it right off.\n...It won't open!\n"
+  },
+  {
+   "id": "25:3940",
+   "op": "text",
+   "en": "The knob won't turn!{p}As if it had been locked from the outside, the door wouldn't budge, no matter whether I pushed or pulled.\nI was trapped in the restroom.{p}"
+  },
+  {
+   "id": "25:39e8",
+   "op": "text",
+   "en": "\"Open up!\"\nI screamed at the top of my lungs and pounded on the door like a madman.{p}"
+  },
+  {
+   "id": "25:3a3c",
+   "op": "text",
+   "en": "As if joining in with my screams, the pounding from inside the stalls grew even more violent.{p}"
+  },
+  {
+   "id": "25:3aa8",
+   "op": "text",
+   "en": "\"Waaaaaaaah!\"\nI screamed without even knowing why.{p}"
+  },
+  {
+   "id": "25:3afc",
+   "op": "text",
+   "en": "...The moment I did, the restroom went silent.\nI gasped for breath with my whole body.\nI let out a breath so hard I thought I'd throw up my insides.{p}"
+  },
+  {
+   "id": "25:3b80",
+   "op": "text",
+   "en": "...The sound had stopped.\nAs if all that noise had been a lie, now silence came flooding in.{p}"
+  },
+  {
+   "id": "25:3bf0",
+   "op": "text",
+   "en": "\"Waaah!\"\nIt happened without warning.\nWith a crash like a hammer slamming into a door, every door flew open at once.\nI craned my neck and peeked inside, ever so carefully.{p}"
+  },
+  {
+   "id": "25:3c9c",
+   "op": "text",
+   "en": "...Nothing there.\nCalm down.\nJust calm down.\nI told myself that again and again.\nI had to calm down and think of a way to get out of here.\nCalm down.{p}What should I do?\n"
+  },
+  {
+   "id": "25:3d40",
+   "op": "choice",
+   "en": "Wash my face at the sink"
+  },
+  {
+   "id": "25:3d54",
+   "op": "choice",
+   "en": "Take a deep breath"
+  },
+  {
+   "id": "25:3d68",
+   "op": "choice",
+   "en": "Try turning the doorknob again"
+  },
+  {
+   "id": "25:3d94",
+   "op": "text",
+   "follows_choice": [
+    "25:3d40"
+   ],
+   "en": "That's it.\nI'll wash my face.\nI can't let myself get scared.\nThat's right.\nThere's nothing to be scared of.\nI have to show I'm not rattled.\nOkay, I'll wash my face.{p}"
+  },
+  {
+   "id": "25:3e20",
+   "op": "text",
+   "en": "Trying to ignore everything else, I headed for the sink.\nThe face in the mirror was as white as paper.\nIs this really my face?\n...Calm down.\nJust calm down.{p}"
+  },
+  {
+   "id": "25:3ee0",
+   "op": "text",
+   "en": "I turned the faucet.\nThe water came gushing out.\nCold.\nThe ice-cold water snapped my jittery nerves back into place.\nI scooped up water in my palms and buried my face in it.\n...That feels good.\nLittle by little, I was calming down.\nThat's the way.\nYes, this is fine.\nI filled my palms again and splashed my face hard.\nThe chill steadied my nerves even more.\nBeing scared is the problem.\nIt's because I'm scared that I see weird things.{p}"
+  },
+  {
+   "id": "25:40a0",
+   "op": "text",
+   "en": "...Phew, that's refreshing.{p}"
+  },
+  {
+   "id": "25:40e8",
+   "op": "text",
+   "en": "I raised my head and looked in the mirror.\nYeah, I've got more color than before.\nI was gradually calming down.\n...Huh?\nWhat's that black shadow behind me in the mirror?\nSome kind of hazy black shadow.\nWhat is that?\nIs something behind me?\n...My legs started shaking again.\nThe shaking had finally stopped, and now my teeth began chattering again.\nWhat is this presence?\nA sickening feeling, like someone stroking my hair up from the roots.\nA creeping revulsion, like someone stroking the nape of my neck.{p}"
+  },
+  {
+   "id": "25:42b0",
+   "op": "text",
+   "en": "...I-I'll wash my face again.\nI must have seen wrong.{p}"
+  },
+  {
+   "id": "25:42e4",
+   "op": "text",
+   "en": "I only see weird things because I keep thinking how scared I am.\nI thrust my hands into the water gushing from the faucet.\nThe splashing drops soaked my shirt.\nI buried my face in the water once more.{p}"
+  },
+  {
+   "id": "25:4398",
+   "op": "text",
+   "en": "And now, to look in the mirror again.{p}"
+  },
+  {
+   "id": "25:43d4",
+   "op": "text",
+   "en": "Nothing's there.\n...Nothing's in the mirror.\nTelling myself that, I raised my head and slowly opened my eyes.\nSlowly, slowly, the mirror came into view.{p}"
+  },
+  {
+   "id": "25:4474",
+   "op": "text",
+   "en": "...Nothing's there.\nI can't see anything.\n...Only my own face is in the mirror.\nSee, I really did see wrong.\nIf I calm down and take a good look, there's nothing weird to see.\nThank goodness.\nI'll wash my face once more.\nJust to clear my head.{p}"
+  },
+  {
+   "id": "25:4570",
+   "op": "text",
+   "en": "..........!\nIt happened the instant I looked down.\nThat was when I saw something strange in the sink.\nBefore I knew it, the sink had filled to the brim with water, and there was a human face in it.\nWith only the face poking out above the surface, a half-rotten face was staring right at me.\nIts hair drifted and swayed.\nTwo eyeballs, ready to spill out at any moment, quivered as if about to be squeezed out of rims of rotten, mushy, melting flesh.\nAnd then the face grinned.{p}"
+  },
+  {
+   "id": "25:4708",
+   "op": "text",
+   "en": "\"Waaaaaaaaaah!\"{p}"
+  },
+  {
+   "id": "25:472c",
+   "op": "text",
+   "en": "...I lost consciousness.\n...How much time had passed?\n\"{a}! ...{a}!\"\nSomeone was calling me.{p}"
+  },
+  {
+   "id": "25:47c8",
+   "op": "text",
+   "en": "When I opened my eyes, that face was... no, it was Hosoda's face.\n\"Are you all right?\nYou never came back, so I got worried and came to check on you.\nDid something happen?\"\nSomething?\nIt was a lot more than something.\nI didn't know how to answer him.{p}Hosoda was looking at me as if he were hoping for that something.\n"
+  },
+  {
+   "id": "25:48f8",
+   "op": "choice",
+   "en": "Say nothing happened"
+  },
+  {
+   "id": "25:490c",
+   "op": "choice",
+   "en": "Tell him what just happened"
+  },
+  {
+   "id": "25:4920",
+   "op": "text",
+   "follows_choice": [
+    "25:48f8"
+   ],
+   "en": "\"No, nothing really happened.\nI just got a little dizzy and fell over.\nMaybe all these scary stories had me so tense that I wore myself out...\"\n\"...I see.\nWell, as long as you're okay.\"\nHosoda looked disappointed.{p}"
+  },
+  {
+   "id": "25:4a00",
+   "op": "text",
+   "en": "The restroom door was open.\nThe door that had been shut so tight now stood open as if it were nothing.\nIf I was going to escape, it was now.\nWith Hosoda holding me up by the shoulder, I staggered out on unsteady legs and finally made it out of the restroom.\nHosoda murmured under his breath.{p}"
+  },
+  {
+   "id": "25:4af0",
+   "op": "text",
+   "en": "\"...Hey.\nI still feel like there's something in this restroom, though...\"\n\"No. There's nothing in there.\nIt's just your imagination.\"\nI flatly brushed off what Hosoda said.{p}"
+  },
+  {
+   "id": "25:4bb4",
+   "op": "text",
+   "en": "Just then, the restroom door suddenly slammed shut.\nIt sounded like someone had angrily slammed it with all their strength.\nHosoda stared hard at my face.{p}"
+  },
+  {
+   "id": "25:4c44",
+   "op": "text",
+   "en": "\"...Did you hear that just now?\nThat wasn't the wind, was it?\"\n\"It was the wind.\nCome on, let's hurry back.\nThere's no way ghosts exist.\"\nI denied it stubbornly.\nAnd I knew perfectly well it wasn't because I didn't believe, but because I didn't want to admit it.\nHosoda nodded as if he understood exactly how I felt.\n\"...I see.\nNo, you're right.\nActually, you know, I got locked in that restroom once myself.\nThat time, the stall doors kept banging back and forth, and I could hear these weird sounds...\"\n\"Stop it!\"\nI didn't want to hear any more of Hosoda's story.\nMaybe because I'd shouted without meaning to, Hosoda looked at me blankly.\nBut he soon smiled.\nA knowing smile, as if he knew everything.\n\"...Oh, right.\nIt's just our imagination, isn't it?\n...I think you and I are alike.\nVery much alike, I think.\n...Come on, let's hurry back to the newspaper club.\nEveryone's waiting for us.\"{p}"
+  },
+  {
+   "id": "25:4f90",
+   "op": "text",
+   "en": "That's right.\nMy job wasn't finished yet.\nI trudged back to the newspaper club with heavy steps.\nTo hear the next scary story.{p}"
+  },
+  {
+   "id": "25:5014",
+   "op": "text",
+   "en": "...Behind me, I thought I could still hear the restroom door rattling.\nIt's my imagination.\nOr else, it's just the wind...{p}"
+  },
+  {
+   "id": "25:5080",
+   "op": "text",
+   "follows_choice": [
+    "25:192c"
+   ],
+   "en": "Don't say that.\nMy story will end right here.\nPlease, I guarantee it'll make a really interesting article.\nIf I just tell it here, it'll only be half as scary, right?\nShow a little curiosity, like a real newspaper club member.{p}"
+  },
+  {
+   "id": "25:5154",
+   "op": "text",
+   "en": "So, what do you say?\n"
+  },
+  {
+   "id": "25:518c",
+   "op": "text",
+   "follows_choice": [
+    "25:1c04"
+   ],
+   "en": "\"Really★\nSo you do have a sixth sense!\nJust as I thought.\nWell then, shall we go right in?{p}"
+  },
+  {
+   "id": "25:5208",
+   "op": "text",
+   "en": "I'm sorry to ask, but would you upperclassmen mind waiting out in the hallway?\"\nEveryone murmured a little.\nHosoda went on.\n\"I really think it'll be easier for us both to sense something if it's just the two of us.\"\nThen someone spoke up.\n\"Then there was no point in us coming along at all.\"\n\"No, I wanted you here so you could help us if anything happened.\nEveryone!\nPlease, I'm asking for your cooperation.\"\nHosoda bowed his head to everyone.\nReluctantly, everyone stepped out into the hallway.{p}"
+  },
+  {
+   "id": "25:53e4",
+   "op": "text",
+   "en": "\"Now, {a}{f:|}, which stall do you sense the aura coming from?\"\nI should never, ever have said I sensed an aura.\nI only said it because I had a vague feeling, that's all...\nRight now, {f:I|I} really regret it...\n{f:Hosoda|Interview or not}, {f:to put it bluntly, is fat|I can't believe I'm going into the boys' restroom}.\n{f:If I get shut in a tiny closed space like this with him|If anyone finds out}, what {f:am I|am I} supposed to {f:do|do}?\nBesides, {f:Hosoda has kind of a girly side to him|I have no idea what kind of person Hosoda is}.\nWhat if he grabs my hand or something...\n{f:Well|Nah}, I'm overthinking it{f:, right|, aren't I}? {f:Ha ha ha|Ahaha}.\n\"What are you laughing at?\nCome on, let's go in.\"{p}"
+  },
+  {
+   "id": "25:5678",
+   "op": "text",
+   "en": "The boys' restroom on the north side of the new building's first floor has only two stalls.\nAt a glance there seem to be three{f:, but|, but} the one on the far right is a cleaning closet.\nFor now, {f:we decided|it was settled} that we'd go into the middle one.\nFirst, Hosoda opened the door.{p}"
+  },
+  {
+   "id": "25:5780",
+   "op": "text",
+   "en": "A stifling reek of ammonia hung in the air.\n\"Go ahead, you first...\"\nAt his urging, {f:I|I} went inside.\nThen he came in after me, practically shoving {f:me|me} in.{p}"
+  },
+  {
+   "id": "25:5840",
+   "op": "text",
+   "en": "{f:Ugh|Ugh}, {f:we're pressed right up against each other... this is the worst|I should've just said no}.\n{f:I|What am I} {f:hate fat people.|even doing?}\n{f:And Hosoda|I don't want} {f:fits the image I have of them exactly.|to put this in any article.}\n{f:He gives off this|Anyway, I don't} {f:stale, sour smell, like fat that won't burn all the way.|sense any aura at all.}\n{f:Mixed with the restroom smell,|Ugh,} {f:it makes an indescribable stench.|I just want to get out of here.}\n{f:And then he|Hosoda} whispered to {f:me|me}.\n\"Come on, {a}{f:|}, try to feel the spirits more.\"\nRight now, the only thing I can feel is Hosoda crushing me{f:.|!}\n\"Mmm, I sense the spirits!\nUgh, sorry, I'm starting to feel sick!\nLet's get out, quick!\"\nThis is the only way {f:I|I} can escape from here!\n\"Hosoda, {f:I|I} want to get out of here, now.\nPlease, let's just go...\"{p}"
+  },
+  {
+   "id": "25:5bd0",
+   "op": "text",
+   "en": "Shoving Hosoda out, I tumbled into the hallway.\nSomeone was looking at {f:me|me} with concern.\n\"{a}{f:|}, what's wrong★\nDid something happen★\nYou're drenched in sweat.\nAnd you look pale...\"\n{f:If I had to squeeze into a stall with someone,|..........} {f:I wish it had been a girl...|I can't even muster the strength to answer.}{p}"
+  },
+  {
+   "id": "25:5d0c",
+   "op": "text",
+   "en": "\"{a}{f:|} sensed a spirit in there just now and started feeling sick.\"\nHosoda told them.\nThe truth is, {f:it was all Hosoda's fault|that's not what happened at all}...\nThis time, {f:I|I}'ll just have to {f:grin and bear it|put up with it}.\n\"{f:I|I}'m fine, really... come on, let's hurry on to the next one.\"\nI have to pull myself together and think of this as training to become a good newspaper club member...\nHosoda seemed {f:all fired up|really pumped}.{p}"
+  },
+  {
+   "id": "25:5eb8",
+   "op": "text",
+   "en": "Okay, this is the restroom on the south side of the new building's first floor.\nWell?\nDo you sense anything here too?{p}"
+  },
+  {
+   "id": "25:5f14",
+   "op": "text",
+   "en": "...I see.\nSo you don't sense anything here.\nHmm... I've decided to trust your sixth sense.\nWell then, let's try the second floor.{p}"
+  },
+  {
+   "id": "25:5fbc",
+   "op": "text",
+   "en": "Well, actually, there's a weird rumor about that last restroom.\nWhen you said you sensed a spirit back there, for a moment I got my hopes up, wondering what was about to happen.\n...Here we are.{p}"
+  },
+  {
+   "id": "25:60a4",
+   "op": "text",
+   "en": "This is the restroom on the south side of the new building's second floor.\n...What do you think?\nGive me your honest opinion.\nTake a really good look.\nWell?\nDo you sense anything?{p}"
+  },
+  {
+   "id": "25:6144",
+   "op": "text",
+   "en": "\"Whoa★\nYou sense something?\nGreat, I'm glad.\nSo, which stall is it coming from?\"\nHosoda asked {f:me|me}, looking pleased with himself.{p}"
+  },
+  {
+   "id": "25:61d4",
+   "op": "text",
+   "en": "\"From that toilet over there...\"\n{f:I|I} pointed.\n\"Really? Then let's go in together.\"\nHosoda {f:looked|seemed} {f:delighted|so happy}.\nJust then,{p}"
+  },
+  {
+   "id": "25:6280",
+   "op": "text",
+   "en": "\"Sorry, but would you go in with me instead?\"\nFukuzawa cut in from the side.\n{f:Score|Yay}! I don't have to go in with Hosoda.\n\"But... well, all right.\"\nHosoda {f:seemed|seemed} to give in to Fukuzawa's pushiness.\n\"Come on, {c}{f:|}, let's go in together.\"\nAt Fukuzawa's urging, {f:I|I} went into the stall.{p}"
+  },
+  {
+   "id": "25:6410",
+   "op": "text",
+   "en": "With a click, she locked the stall.\n\"Do you sense something too, Fukuzawa?\"\n{f:I|I} asked.\nSince Fukuzawa's in the same year as me, I {f:feel|feel} more at ease with her.\n\"I sense it...\nI sense a powerful spirit here.\"\nFukuzawa was trembling as she said it.{p}"
+  },
+  {
+   "id": "25:6524",
+   "op": "text",
+   "en": "\"Urgh☆\"\nSuddenly she spewed a huge load of vomit from her mouth into the toilet.\nThen, slowly, she raised her face...\nHer eyes had rolled back to the whites.{p}"
+  },
+  {
+   "id": "25:65c0",
+   "op": "text",
+   "en": "Then her whole body began to shudder.\nLittle by little her trembling grew worse.\n\"Uuugh, uuuugh, uuuuuuuuugh!\"\nShe {f:seemed|seemed} to have fallen into a trance.\nWith her blocking the way out, {f:I|I} {f:could only|had no choice but to} watch her bizarre behavior from the corner of the stall.\n\"Scritch, scritch, scritch...\"\nThen I noticed another sound mixed in with her strange cries.\n\"Ugh!\"\nWhen {f:I|I} looked down, I nearly fainted.{p}"
+  },
+  {
+   "id": "25:6760",
+   "op": "text",
+   "en": "A huge swarm of bugs {f:was swarming|was crawling} all over the vomit she'd thrown up.\n\"Shield bugs★\"\nThe shield bugs were squirming out of the toilet tank and welling up out of the bowl.\nShield bugs give off such an awful smell that they're also called stinkbugs{f:.|, you know.}\nThe foul stench of the shield bugs mixed with the smell of her vomit, and {f:I|I} was about to pass out{f:.|...}{p}"
+  },
+  {
+   "id": "25:68b8",
+   "op": "text",
+   "en": "\"Uuugh, uuuugh, uuuuuuuuugh!\"\nShe was {f:still|still} stuck in that same state.{p}"
+  },
+  {
+   "id": "25:6918",
+   "op": "text",
+   "en": "{f:I|I} squeezed my eyes shut.\nI'm going to lose my mind☆\nThe instant I thought that...\nShe grabbed {f:me|me} by the shoulder.{p}"
+  },
+  {
+   "id": "25:69bc",
+   "op": "text",
+   "en": "When I slowly looked up, there was her face, smiling sweetly.\n\"So, how was it?\nThat was fun, wasn't it?\"\nShe smiled as she said it.\nShe was completely back to normal.\n\"What on earth is going on...?\"\n{f:I|I} asked her.\n\"I just asked the spirit here to show you a fun little dream, {c}{f:|}.\"\n\"★\"\nShe went on.\n\"Sometimes when I concentrate, I can make contact with spirits.\nYou went and said you sensed a spirit, {c}{f:|}, when you didn't believe it at all...\nSo I thought I'd play a little prank on you!\nTee-hee-hee!\"\nThat's {f:insane, there's no way that really happened|ridiculous..........}☆\nShe pointed at her wristwatch and said,\n\"It may have felt long, but it's only been fifteen seconds since then.\"\n{f:I|I} went limp.\nWhether what she said was a lie or the truth, it didn't matter anymore.\nI just wanted to get out of here, fast.\nI feel {f:sick|so sick}.{p}"
+  },
+  {
+   "id": "25:6d3c",
+   "op": "text",
+   "en": "\"Oh, are you okay?\"\nShe rubbed {f:my|my} back.\nAh!\nDon't rub it...\nIf you rub it, it'll only...\n\"{f:Bleeeeeegh|Mm... urk}\"\n{f:Too late...|I'm about to throw up...}{p}"
+  },
+  {
+   "id": "25:6e08",
+   "op": "text",
+   "en": "\"Oh dear, you're hopeless.\n{f:Throwing up this much|Making a face like that over something this small}.\n{f:Don't tell me|Oh, what am I going to do with you}, {f:is this one of those sympathy pukes|shall we head back to the club room already}?\n{f:Ahahahaha|Kyahahaha}\"\nShe {f:laughed in my face as she said it|seemed to be having a great time}.{p}"
+  },
+  {
+   "id": "25:6f2c",
+   "op": "text",
+   "en": "When she unlocked the stall, she told everyone,\n\"{a}{f:|} sensed way too many spirits and {f:threw up|started feeling sick}.\nCome on, we'd better not stay here.\nLet's hurry back to the club room!\"\n{f:I|I}-{f:I'm|I'm}... never trusting her again, ever☆{p}"
+  },
+  {
+   "id": "25:7044",
+   "op": "text",
+   "en": "\"A spirit... you sense a spirit?\nI see, so which stall is it coming from?\"\nHosoda asked {f:me|me}, looking pleased with himself.\n\"From that toilet over there...\"\n{f:I|I} pointed.\n\"Really? Then let's go in together.\"\nHosoda {f:looked|seemed} {f:delighted|so happy}.\nJust then, Shindo cut in from the side.{p}"
+  },
+  {
+   "id": "25:7180",
+   "op": "text",
+   "en": "\"Sorry, but let me go in instead.\nI'm the upperclassman here, so you'll step aside, right?\"\n{f:Score|Yay}! I don't have to go in with Hosoda.\n\"But... well, all right.\"\nHosoda {f:seemed|seemed} to give in to Shindo's pushiness.\n\"{a}, let's go in.\"\nAt Shindo's urging, {f:I|I} went into the stall.{p}"
+  },
+  {
+   "id": "25:72fc",
+   "op": "text",
+   "en": "With a click, he locked the stall.\nShindo looked all around the inside of the stall, then suddenly stopped moving.\nAnd then he didn't move at all.\n\"...What's wrong?\"\n{f:I|I} asked him.\nHe didn't answer {f:my|my} question; he just stood there, stock-still.{p}"
+  }
+ ]
+}

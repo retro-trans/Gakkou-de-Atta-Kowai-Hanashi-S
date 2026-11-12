@@ -1,0 +1,442 @@
+{
+ "slice": "S062",
+ "scene": "14",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S061",
+ "next": "S063",
+ "todo": [
+  "- Long dot runs were shortened in S019 06:5988, S066 15:1460, S062 14:eb00/ec64/f300: now wrap automatically — restore source length in review."
+ ],
+ "rows": [
+  {
+   "id": "14:b258",
+   "op": "text",
+   "en": "{f:This thing|This thing} was alive{f:.|, wasn't it?}\nBetween its brown skin and the yellow-green membrane ran a web of red and blue things like blood vessels, and from its smashed-open head it was feebly spewing a blackish liquid.\nWhen I happened to look around, the doll that had been beside {f:me|me} until a moment ago was gone.\n...I see.\nSo {f:this thing|this} was its true body{f:.|, then.}\nThe doll that was always at {f:my|my} side must have been {f:its|its} phantom{f:.|.}\nAnd {f:this thing had kept growing inside this wardrobe|it had kept growing inside this wardrobe}, sucking out the soul of one sacrifice every year{f:.|.}\n{f:My God...|Oh my God...}{p}"
+  },
+  {
+   "id": "14:b4c8",
+   "op": "text",
+   "en": "\"I'll kill you!\"\nJust then, the principal lunged at {f:me|me}.\n\"It was you!\nYou killed Shoji!\"\n...Stop it.\nHe's going to kill me!\nJust then, an eerie voice rang out.{p}"
+  },
+  {
+   "id": "14:b574",
+   "op": "text",
+   "en": "\"My contract is hereby concluded.\"\nThe moment the voice was heard, the principal screamed.{p}"
+  },
+  {
+   "id": "14:b5cc",
+   "op": "text",
+   "en": "\"Gyaaah!\"\nI couldn't tell what had happened, but the principal's chest split open and red blood gushed out of it like a fountain.\nAnd that blood, of all things, was being sucked into a single point in midair{f:!|.}{p}"
+  },
+  {
+   "id": "14:b688",
+   "op": "text",
+   "en": "\"...I-it's not me.\nTh-the sacrifice is... that one...\"\nThe principal pointed feebly toward {f:me|me}, {f:but|but} it was far too late for that to change anything.{p}"
+  },
+  {
+   "id": "14:b728",
+   "op": "text",
+   "en": "As if I were watching a film on fast-forward, the blood drained from the principal's face and his whole body withered away like a mummy.{p}"
+  },
+  {
+   "id": "14:b79c",
+   "op": "text",
+   "en": "Then, in an instant, he was nothing but skin and bones, and he crumbled.\nHe hit the floor and shattered, and not even a corpse was left, only a heap of sand.\n...The contract is over?\nThe contract with a devil{f:?|?}{p}"
+  },
+  {
+   "id": "14:b86c",
+   "op": "text",
+   "en": "I could hardly breathe.\n{f:My|My} heart was pounding so hard it felt like it would leap out of my mouth.\n...It was over.\n{f:I|I} was saved{f:.|, wasn't I?}\nI didn't have to become the doll's sacrifice after all{f:.|!}{p}"
+  },
+  {
+   "id": "14:b938",
+   "op": "text",
+   "en": "\"Gack!\"\nAt that moment...\nSuddenly, {f:I|I} was being strangled from behind.\nWhat {f:the hell|is this}{f:...|...}★{p}"
+  },
+  {
+   "id": "14:b9cc",
+   "op": "text",
+   "en": "I forcibly twisted my neck around and looked back over my shoulder. The doll with the split head was strangling {f:me|me}.{p}"
+  },
+  {
+   "id": "14:ba3c",
+   "op": "text",
+   "en": "The doll's face looked not unlike Shoji Arai's.\n...{f:My God|Oh my God}.\nIf the contract is over, that means {f:this thing|this} comes back to life{f:!|, doesn't it!}\nBloody froth gurgled from {f:the thing's|the doll's} mouth of crooked teeth, and it cackled, its eyes unfocused.{p}"
+  },
+  {
+   "id": "14:bb68",
+   "op": "text",
+   "en": "\"Let's... play... Let's... play...\"\nThis strength was beyond anything a doll should have{f:.|.}\nThere was no way I could shake it off.\nWhat {f:do I do|should I do}!\nAm {f:I|I} going to die like this{f:?|?}{p}And just when I'd felt the will to live welling up inside my body...\n"
+  },
+  {
+   "id": "14:bc58",
+   "op": "choice",
+   "en": "Thrust my hand into the doll's split head"
+  },
+  {
+   "id": "14:bc7c",
+   "op": "choice",
+   "en": "Pull the doll's head off"
+  },
+  {
+   "id": "14:bc90",
+   "op": "choice",
+   "en": "Tear up the diary"
+  },
+  {
+   "id": "14:bca0",
+   "op": "choice",
+   "en": "Throw the sand that was once the principal at the doll"
+  },
+  {
+   "id": "14:bcd4",
+   "op": "text",
+   "follows_choice": [
+    "14:bc90"
+   ],
+   "en": "{f:I|I} reached for the diary and tore its pages to shreds.\nI couldn't shake the feeling that this diary was wrapped in a black aura{f:.|.}\nAll I could rely on now was my own hunch{f:.|.}{p}"
+  },
+  {
+   "id": "14:bdc8",
+   "op": "text",
+   "en": "\"Kiiiiiiiiih★\"\n...It seemed {f:my|my} hunch had been right{f:.|.}\nThe doll let out an agonized shriek, then stopped moving.\nThe yellow-green membrane covering the doll's surface melted and ran down {f:my|my} shoulder.\nIt gave off a tremendous stench, like rotting food scraps{f:, but|, but} {f:I|I} didn't have the energy left to care.{p}"
+  },
+  {
+   "id": "14:bf24",
+   "op": "text",
+   "en": "When I dragged the doll down out of the wardrobe, it had turned back into an ordinary doll.{p}"
+  },
+  {
+   "id": "14:bf70",
+   "op": "text",
+   "en": "Before I knew it, it had turned back into an ordinary doll.{p}"
+  },
+  {
+   "id": "14:bfb8",
+   "op": "text",
+   "en": "\"{f:Whoa|Eek}!\"\n{f:I|I} leapt up in a panic.\nSpiders as big as the palm of my hand came skittering out of the doll's split head{f:.|!}\nEvery one of those spiders had a human face.\nOne, two... eleven, twelve.\nThere were twelve human-faced spiders in all.\n{f:Were these|Could these be} the souls of all the students who had been sacrificed until now?\nAs the spiders crawled out of the head, they vanished as if melting into the air.{p}"
+  },
+  {
+   "id": "14:c17c",
+   "op": "text",
+   "en": "{f:I|I} happened to glance down at the torn diary.\nI hadn't noticed it before, but a slip of paper had been tucked inside.{p}"
+  },
+  {
+   "id": "14:c210",
+   "op": "text",
+   "en": "It was densely covered in letters I had never seen before, and near the bottom someone had pressed a red fingerprint seal.\nA seal in blood, no doubt{f:.|.}\nThis must be the contract with the devil{f:.|.}\nNow that it was torn in two, had this contract lost its power{f:?|?}\nIf so, that would be {f:fine|good}...{p}"
+  },
+  {
+   "id": "14:c334",
+   "op": "text",
+   "en": "The stench finally became too much to bear, and {f:I|I} stood up.\nHow would this incident be dealt with{f:?|?}\nWould the police just write it off as the principal having gone missing{f:?|?}{p}"
+  },
+  {
+   "id": "14:c400",
+   "op": "text",
+   "en": "And what would the police make of the broken doll with its lower half still inside the wardrobe{f:?|?}\n"
+  },
+  {
+   "id": "14:c460",
+   "op": "text",
+   "en": "And the broken doll in the principal's office... how would anyone explain that{f:?|...}\n"
+  },
+  {
+   "id": "14:c4a4",
+   "op": "text",
+   "en": "No one would believe {f:my|my} story anyway{f:.|.}\nI'd like to run this as the seventh story in the school paper's special feature{f:, but|, but}... that project stalled after that day, didn't it.{p}"
+  },
+  {
+   "id": "14:c578",
+   "op": "text",
+   "en": "Even outside the principal's office, everything was deathly quiet.\n{f:I|I} dragged my heavy legs down the empty hallway and headed home.{p}"
+  },
+  {
+   "id": "14:c5fc",
+   "op": "text",
+   "en": "...And about a month went by.{p}"
+  },
+  {
+   "id": "14:c62c",
+   "op": "text",
+   "en": "{f:I|I}'m fully recovered now, ready for the second term that starts tomorrow.\nNow {f:I|I} wonder.\nWhy did Shoji Arai join {f:our|our} gathering?{p}"
+  },
+  {
+   "id": "14:c6e0",
+   "op": "text",
+   "en": "Didn't he want to tell {f:us|us} something{f:?|?}{p}"
+  },
+  {
+   "id": "14:c738",
+   "op": "text",
+   "en": "Maybe, deep down, he never wanted to come back to life{f:?|?}\nSometimes that selfish, all-too-convenient thought crosses {f:my|my} mind.\nWhatever the case, {f:it's|it's all} over.\nI still doubt whether that thing was really the true form of the monster nesting in our school{f:, but|, but} at any rate, there will be no more victims of the doll{f:.|.}\nThat's {f:some|some} small comfort, at least.\n...{f:I|I} still have nightmares about the doll.{p}"
+  },
+  {
+   "id": "14:c8d4",
+   "op": "text",
+   "follows_choice": [
+    "14:1f64"
+   ],
+   "en": "\"Um, everyone...\nWon't you stay here a little longer?\nI just kind of feel like it...\"\n{f:I|I} ventured.{p}"
+  },
+  {
+   "id": "14:c970",
+   "op": "text",
+   "en": "\"What? Give me a break.\nYou make us feel this awful, and now you want us to stay?\"\nHosoda started complaining.\nHe had a point{f:.|, didn't he.}\nI had no reason to keep them here{f:.|.}\n{f:I|I} said,\n\"...I'm sorry.\nI didn't really mean anything by it...\nI just got a little worried about that story.\nI thought maybe we should talk about what to do from here on...\nSo I just...\"{p}"
+  },
+  {
+   "id": "14:cb14",
+   "op": "text",
+   "en": "\"No, it's fine.\nYou were worried about us, right?\nWe're all friends now, after all.\nDon't make that face.\nNobody's going to die.\nWell, {f:I'm heading home|see you next time}.\"{p}"
+  },
+  {
+   "id": "14:cbdc",
+   "op": "text",
+   "en": "With that, Hosoda went home.\nEveryone else trailed out after him.\n\"Good work, everyone~\"{p}"
+  },
+  {
+   "id": "14:cc6c",
+   "op": "text",
+   "en": "The last of them left, and {f:I|I} checked that everything was locked up.\n{f:I|I} kept replaying Arai's words in my head.\nThat's {f:right|right}, a story like that is a lie{f:.|, isn't it.}\nSomeone here is going to die?\nThere's no way something that stupid could {f:happen...|happen!}{p}"
+  },
+  {
+   "id": "14:cd64",
+   "op": "text",
+   "follows_choice": [
+    "14:23e8"
+   ],
+   "en": "{f:I|I} tensed my shoulders.\nWait {f:a sec|a minute}...\nNo way, th-the doll★\nShowing up with timing this perfect isn't fair!\nI could feel a presence behind me that sent chills down my spine.\nShould I just make a run for it{f:?|?}\nThat's {f:the only way|all I can do}!\n\"Eek!\"\nAt that moment, {f:it|it} grabbed {f:my|my} shoulder hard.\nThen it forced {f:me|me} to turn around.{p}"
+  },
+  {
+   "id": "14:cedc",
+   "op": "text",
+   "en": "\"Help me.........{f:Huh|Jeez}, it's just you, Fukuzawa.\"{p}"
+  },
+  {
+   "id": "14:cf18",
+   "op": "text",
+   "follows_choice": [
+    "14:273c"
+   ],
+   "en": "\"{f:No|Nah}, {f:I|I}'ll go home by myself{f:.|.}\nI still have to return the key to the night-duty room{f:.|.}\nI'd feel bad making you tag along just for that{f:...|, you know...}\"{p}"
+  },
+  {
+   "id": "14:cfd8",
+   "op": "text",
+   "en": "{f:I|I} lied to Fukuzawa.\nActually, one of the seniors had made a copy of the newspaper club room key{f:.|.}\n{f:I|I} was borrowing it at the moment{f:, so|, so} I didn't really need to return this key at all{f:.|, you see.}\nTo be frank, Fukuzawa is {f:the noisy type, so I|kind of loud, so I}'m not too comfortable around her{f:.|.}\nStill, she's better than Iwashita.{p}"
+  },
+  {
+   "id": "14:d12c",
+   "op": "text",
+   "en": "\"Oh, really?\nWhat a shame, after I waited for you and everything.\nI know, I'll go ahead and wait for you at the side entrance.\nIs that still a no?\"\nFukuzawa wasn't one to give up easily.\n\"Okay, fine{f:.|.}\nThen {f:I|I}'ll hurry and return it, and we'll meet up there.\"\n{f:I|I} gave in to her pushiness.{p}"
+  },
+  {
+   "id": "14:d23c",
+   "op": "text",
+   "en": "\"See you then.\"\n{f:We|We} set off in different directions.\n...What do I do? This has turned into a real pain{f:.|.}\nIf I don't stall a little before heading over, she'll think something's strange.\nI should have just dropped the stubbornness and said I'd go with her.\nIt can't be helped. I'll take the long way around.{p}"
+  },
+  {
+   "id": "14:d370",
+   "op": "text",
+   "en": "The school at night was unbelievably frightening.\nI didn't want to remember, but everyone's stories from earlier kept surfacing in my head.\nMy eyes were gradually getting used to the dark, but a hallway lit only by emergency lights was {f:unnerving|unnerving}.{p}"
+  },
+  {
+   "id": "14:d438",
+   "op": "text",
+   "en": "Suddenly I saw what looked like a human figure at the corner up ahead.\n...I could sense something there.{p}"
+  },
+  {
+   "id": "14:d480",
+   "op": "text",
+   "en": "{f:I|I} stopped in my tracks without thinking.\nWhat do I do?\n{f:It|It} seemed to be watching {f:me|me} intently{f:.|.}\nI could feel greasy sweat seeping out over {f:my|my} hands and feet.\nWhat's more, as if it had run out of patience with my not moving, {f:it started toward me|it started toward me}.{p}"
+  },
+  {
+   "id": "14:d5b0",
+   "op": "text",
+   "en": "Hopping, its body twisting, jerking along...\nAgainst the green glow of the emergency lights, it kept coming closer and closer.\nI had to get away from here, fast!{p}"
+  },
+  {
+   "id": "14:d668",
+   "op": "text",
+   "en": "{f:I|I} turned my back on {f:the thing|the figure} and ran at full speed.\nAll I could think about was getting away from {f:it|the figure}.\nBut no matter how hard I ran, {f:its|the figure's} footsteps never grew any fainter.\nAh, that's Fukuzawa walking over there{f:!|!}\n{f:I|I} ran as hard as I could, my legs nearly tangling.{p}"
+  },
+  {
+   "id": "14:d7a4",
+   "op": "text",
+   "en": "\"Fukuzawa☆\"\n{f:I|I} clung to her back without thinking.\n\"{c}{f:|}★\nWhat's wrong★\nGrabbing on to me all of a sudden like that.\"\nI could still hear the footsteps.\nCouldn't she see it{f:★|★}\nThat thing's figure, its footsteps...\n{f:I|I} stayed clinging to Fukuzawa's back with my eyes shut tight.{p}"
+  },
+  {
+   "id": "14:d8c8",
+   "op": "text",
+   "en": "\"...{c}{f:|}.\n{c}{f:|}!\"\nFukuzawa had pried {f:me|me} off her back and was shaking my shoulders.{p}"
+  },
+  {
+   "id": "14:d948",
+   "op": "text",
+   "en": "\"What's wrong★\nYou're drenched in sweat.\nDid you return the key already?\"{p}"
+  },
+  {
+   "id": "14:d9a0",
+   "op": "text",
+   "follows_choice": [
+    "14:2ce8",
+    "14:302c"
+   ],
+   "en": "{f:No|No}, I'll just keep going straight ahead{f:.|.}\nThat figure was just my imagination{f:.|.}\n{f:Fukuzawa and I|Fukuzawa and I} kept walking straight on.{p}"
+  },
+  {
+   "id": "14:da50",
+   "op": "text",
+   "en": "Then the figure abruptly vanished around the corner.\n...It didn't vanish. It was an illusion{f:.|.}\nThank goodness, it was just {f:my|my} imagination after all{f:.|.}\nThen we turned the last corner.{p}"
+  },
+  {
+   "id": "14:db24",
+   "op": "text",
+   "en": "\"★\"\nThe figure from before was pressed flat against the edge of that corner.\nAnd it was looking at {f:me|me}, with Fukuzawa between us.\nIt was faintly lit by the green glow of the emergency lights.\n{f:I|I} walked faster so that {f:it|it} wouldn't come into view.{p}"
+  },
+  {
+   "id": "14:dc44",
+   "op": "text",
+   "en": "\"{c}{f:|}, you sure walk fast.\"\nFukuzawa said.\n{f:I|I} didn't answer her and kept walking.\nThat thing seemed to be staring at {f:my|my} back{f:.|.}\nIt didn't look like it was going to follow {f:me|me}{f:.|.}\nAt this hour{f:,|,} of course, the students' entrance was locked.\nSo we'd have to go out through the side gate{f:.|...}{p}"
+  },
+  {
+   "id": "14:ddd4",
+   "op": "text",
+   "en": "At the end of the hallway, I could see the side entrance under its emergency light.\n\"Finally, the exit{f:...|...}\"{p}"
+  },
+  {
+   "id": "14:de24",
+   "op": "text",
+   "en": "{f:I|I} murmured in relief.{p}"
+  },
+  {
+   "id": "14:de54",
+   "op": "text",
+   "en": "Fukuzawa looked at {f:me|me} and laughed.\n...Wait {f:a second|a minute}, what's that sound?\nI could definitely hear something.{p}"
+  },
+  {
+   "id": "14:dedc",
+   "op": "text",
+   "en": "{f:I|I} looked back behind me.\nThe glow of the streetlights shone faintly in through the windows.\nSomething flickered in and out of view.{p}"
+  },
+  {
+   "id": "14:df60",
+   "op": "text",
+   "en": "A figure★\n...A figure was coming toward us from the far end.\n\"...{c}{f:|}.\n{c}{f:|}!\"\nFukuzawa's voice snapped {f:me|me} back to my senses.{p}"
+  },
+  {
+   "id": "14:e020",
+   "op": "text",
+   "en": "Fukuzawa was shaking {f:my|my} shoulders.\n\"What's wrong?\nYou're drenched in sweat.\"{p}"
+  },
+  {
+   "id": "14:e078",
+   "op": "text",
+   "follows_choice": [
+    "14:3930"
+   ],
+   "en": "I'd better not ask after all{f:.|.}\n{f:Right|Yes}, if I said something like that here, she'd be sure to think {f:my|my} head had gone funny.\nI'd better not say anything{f:.|, right?}{p}"
+  },
+  {
+   "id": "14:e148",
+   "op": "text",
+   "en": "\"Seriously, I wondered what was wrong with you back there.\nDid something happen?\"\nFukuzawa was still looking at {f:me|me} with concern.\n\"I'm fine{f:.|.}\nI just got a little dizzy{f:.|.}\n{f:I|I} have low blood pressure, so I get like this sometimes{f:.|.}\nIt's {f:a real pain|such a pain, huh}.\"\n{f:I|I} came up with a plausible story and smoothed things over.{p}"
+  },
+  {
+   "id": "14:e2b4",
+   "op": "text",
+   "en": "\"If it pleases you, I should be most delighted to graciously lend you my shoulder, I do declare.\nOhohoho.\"\nFukuzawa laughed as she said it.\nHer joke eased {f:my|my} nerves a little.\n\"That will not be necessary, my lady.\nCome, let us be off.\nOne never knows what may happen in a school at night{f:...|...}\"{p}"
+  },
+  {
+   "id": "14:e3cc",
+   "op": "text",
+   "en": "{f:I|I} {f:cracked a joke right back|joked right back} at her.\nThat's {f:right|right}, let's get out of here, fast.\nYou never know what might happen in a school at night{f:.|.}\nAnd so {f:we|we} hurried away from the school.{p}"
+  },
+  {
+   "id": "14:e494",
+   "op": "text",
+   "en": "{f:I|I} thought it over after that.{p}"
+  },
+  {
+   "id": "14:e4b8",
+   "op": "text",
+   "follows_choice": [
+    "14:7a88"
+   ],
+   "en": "{f:I|I} decided it was better not to dig any further into this matter.\nI had a feeling that if I did, something terrible would happen, and honestly, I was scared.\n{f:But|But} who was Arai, really{f:?|?}\n{f:I|I} was wandering absently down the hallway beside the second-year classrooms.\n\"{a}!\"\nStartled by the voice calling to me, {f:I|I} turned around.{p}"
+  },
+  {
+   "id": "14:e630",
+   "op": "text",
+   "en": "\"Shindo!\"\nWhen I turned around, Shindo was standing there.\nShindo clenched his fist and said,\n\"What, you came looking for Arai too?\"\n{f:I|I} spoke to Shindo as if pleading with him.{p}"
+  },
+  {
+   "id": "14:e6f0",
+   "op": "text",
+   "en": "\"{f:I|I} didn't come looking for Arai.\n...Actually, Arai was never supposed to come to that meeting.\nApparently someone called Kiyose was supposed to come instead.\nYes, Hino told me.\nSo I went to see this Kiyose person, but...\nI can't make heads or tails of any of it.\"{p}"
+  },
+  {
+   "id": "14:e82c",
+   "op": "text",
+   "en": "Shindo came up to {f:me|me} and muttered with a sigh.\n\"...I see. ...I went looking for Arai, y'know.\"\n{f:I|I} was a little startled.\n\"...What! Really★\nAnd?\"\nIt was hard to believe I was the same person who'd just been saying I wouldn't stick my nose into this{f:.|.}\n\"...Come over here a sec.\"{p}"
+  },
+  {
+   "id": "14:e95c",
+   "op": "text",
+   "follows_choice": [
+    "14:8e74",
+    "14:1a284"
+   ],
+   "en": "No... I'm fine with everything staying just as it is.\n"
+  },
+  {
+   "id": "14:e984",
+   "op": "text",
+   "en": "Whatever I do now, it'll all end the same way{f:.|.}\nStarting tomorrow, I won't go to school.\nI won't take baths.\nI won't eat.\nI won't go to the restroom.\nI won't do anything anymore.\nI'll stop everything I have to do to stay alive.\nIf the doll is going to kill me anyway...\nEverything I do to stay alive just seems ridiculous.\n{f:I|I} lay down on the bed and slowly closed my eyes.{p}"
+  },
+  {
+   "id": "14:eb00",
+   "op": "text",
+   "en": "Then I slowly opened them.\nWhen I looked beside me, that doll was lying next to {f:me|me}.\nIts skin was pressed flat against {f:mine|mine}.\n...The doll's skin was cool, and it felt good.\nThat's what {f:I|I} thought, with what senses I had left.\n………… ………… It seemed the doll's skin was warming up too, taking on the warmth of {f:my|my} skin{f:.|.}{p}"
+  },
+  {
+   "id": "14:ec64",
+   "op": "text",
+   "en": "………… ………… No, that's not it.\nI could tell {f:my|my} body temperature was steadily dropping.\nThe doll was sucking the warmth out of {f:my|my} body{f:.|!}\nMy eyelids kept trying to close.\nPeople get sleepy when their body temperature drops, don't they...\nIf I fell asleep like this, would I never wake up again{f:?|?}\nThe doll was no longer beside {f:me|me}.{p}"
+  },
+  {
+   "id": "14:edfc",
+   "op": "text",
+   "en": "The doll was standing there, looking down at {f:me|me} as I lay on the bed.\nIt was looking at {f:me|me} and laughing.\nThen, glancing back at {f:me|me}, it walked out of the room.\nI see... so now that school will be freed from the doll's curse{f:.|.}\nAfter it offers {f:me|me} up as its last sacrifice...\nFor some reason, the feelings I had already lost came back to me for an instant.{p}"
+  },
+  {
+   "id": "14:ef44",
+   "op": "text",
+   "en": "Lying on my back, I felt a single tear run from {f:my|my} eye.\nMaybe because my body was so cold, the tear felt warm.\nNo, that's not it...\nEven with my body this cold, my tears alone could still be this warm... {f:I|I} had never known that until now.{p}"
+  },
+  {
+   "id": "14:f030",
+   "op": "text",
+   "follows_choice": [
+    "14:8e98",
+    "14:1a2a8"
+   ],
+   "en": "Did that doll have feelings{f:?|?}\nMaybe it had some fragment of feeling.\nIt couldn't be thinking nothing at all{f:.|.}\nAt the very least, it wanted to haunt {f:me|me} to death...\nMaybe I could reach the doll, heart to heart.\nWith that thought, {f:I|I} decided to pour what little strength I had left into reaching the doll's heart.\nI knew it was very dangerous{f:, though|, though}.\n{f:I|I} lay down on the bed and slowly closed my eyes.{p}"
+  },
+  {
+   "id": "14:f204",
+   "op": "text",
+   "en": "I tried beckoning to the doll.\nI sensed the doll lying beside me.\nHere it {f:is|is}...\n{f:I|I} silently questioned the doll in my heart.\n({f:Who are you|Who are you}?\nWhy are you trying to haunt {f:me|me} to death{f:?|?}){p}"
+  },
+  {
+   "id": "14:f300",
+   "op": "text",
+   "en": "………… …………\nIt didn't seem to answer {f:my|my} question{f:.|.}\nI asked once more.\nSomething echoed inside {f:my|my} head.\nIt was the sound of a man sobbing{f:.|.}{p}"
+  },
+  {
+   "id": "14:f400",
+   "op": "text",
+   "en": "(...It's... enough now.\n...I just... want to rest...\nIf... it stays... like this...)\nI heard the voice in broken fragments.\n...I couldn't quite make it out.\nBut {f:my|my} attempt had worked.\n{f:I|I} had managed to talk with the doll, heart to heart{f:.|!}\nBut {f:I|I} didn't understand what it meant.\nAnd the doll seemed a little different from how it had been before.\nIt wore a strange expression {f:I|I}'d never seen on it.{p}"
+  }
+ ]
+}

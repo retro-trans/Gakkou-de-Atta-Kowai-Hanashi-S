@@ -1,0 +1,30 @@
+{
+ "rows": {
+  "20:1010": "But if the guardian spirit you've got is no good...\nyour life turns out the worst it possibly could.\nAt a glance, it looks like you've got someone really amazing watching over you as your guardian spirit, but...\nWell, before I look at your guardian spirit, I'll read your past life for you.{p}So, do you want me to read your past life?\n",
+  "20:1200": "Oh!\nSplendid, my dear customer.\nPicking the Special Course... you really do have a discerning eye.\nThe fee for the Special Course is 10,000 yen.\n10,000 yen is a bargain.\nIt'll show me exactly what you were before you were born into this world.{p}Now then, I'll have you pay that 10,000 yen.\n",
+  "20:1b74": "Say this charm, and you'll get a more accurate picture of your past life.\nAnd that's not all.\nYou'll get smarter, and a wonderful romance will come true for you too.\nYou should chant it at least three times a day.\nReady?\nAll together now.\n\"Kazama is magnificent.\"{p}Go on, say it.\n",
+  "20:1d9c": "Get fed up and angry",
+  "20:20f8": "Sea slug",
+  "20:2170": "...Ding-dong-diiing!\n...Sad to say, that's the reality.\nBefore you were born into this world, you were actually a giant salamander!\n...Shocked?\nBut don't let it get you down.\nGiant salamanders are living creatures too.\nThey say they're delicious to eat, you know.\nNot only does it live, it makes good eating too. That's a pretty great guy, isn't it?\nYou should be proud that a giant salamander like that was your past life.\n",
+  "20:34dc": "What nerve, saying something like that.\nEven someone as good-natured as me is going to get angry.\nYou were not a human.\nIt's true the personality you have now is something you inherited from your past life.\nBut that doesn't mean it's the personality of a human past life showing through.\n...I'll tell you plainly.\n",
+  "20:48e8": "I see...\nSo the time has finally come...\nI really didn't want to do this reading...\nOh well.\nI'll do it for you.\nThis reading uses a warty toad.\nYou know Kokkuri-san, right?\nThe Warty Toad Course is something like Kokkuri-san...\nOnly instead of a ten-yen coin, you use a warty toad.\nA live warty toad, mind you.\nYou hypnotize it and put it to sleep so it won't move.\nThen you call down into that toad the god of warty toads, ruler of every warty toad in the world.\nTo tell the truth, I had a feeling someone would beg me for this course today.\nSo I came properly prepared.{p}",
+  "20:51ec": "I see.\nThen I'll take 10,000 yen.\nCome now, {a}.{p}Kindly hand over the 10,000 yen.\n",
+  "20:5f98": "Kazama's eyes gleamed.\n\"Heh heh heh.\nNormally, 10,000 yen plus consumption tax would come to 10,300 yen.\nBut as a special favor, I'll make it 10,000 yen, tax included...\"\nHmph.\nWh-what a guy.{p}",
+  "20:6fc0": "Katsudon, huh...\nThat feeling of the meat juices sizzling and spreading through your mouth.\nThat's the real joy of katsudon, isn't it?\nI got 10,000 yen, so maybe I'll swing by the cafeteria later...\nOoh-hoo-hoo-hoo...\nNow, let's continue the reading.\nYour past life is gradually coming into view.\nNobody who likes katsudon is a bad person.\nSo you can't have been all that bad.\n...That much I can already see at this point.{p}"
+ },
+ "notes": [
+  "20:1010: EDIT - clumsy 'From a quick look, it seems like' -> 'At a glance, it looks like you've got'",
+  "20:1200: EDIT - awkward 'My dear customer, splendid.' -> 'Splendid, my dear customer.'",
+  "20:1b74: EDIT - 'Say it in unison now' (only the player speaks) -> idiomatic 'All together now'",
+  "20:1d9c: EDIT - choice 'You've had enough and get angry' mixed second person into a command-style choice -> 'Get fed up and angry'",
+  "20:20f8: EDIT - 'A sea slug' -> 'Sea slug' so it matches the other five candidates (no article)",
+  "20:2170: EDIT - stiff 'It doesn't just live, it makes good food too. Quite a great guy' -> natural phrasing, same meaning",
+  "20:34dc: EDIT - tangled 'But it's not that the personality of some human in a past life is showing through' -> clearer",
+  "20:48e8: EDIT - awkward trailing clause -> 'the god of warty toads, ruler of every warty toad in the world'",
+  "20:51ec: EDIT - returns note settled: lofty 'Kindly hand over' for dashita-mae; 'Come along' (= follow me) -> 'Come now'",
+  "20:51ec/5f98/6fc0: EDIT - amounts written '10,000 yen' as in the choices and the Special Course lines (chunk mixed 'ten thousand yen'); '10,300 yen' easier to read; 'ten-thousand-yen bill' kept",
+  "20:11d4: KEEP - returns note: 'the Ordinary Folk Course' is a fixed term (fix_terms.py) and matches 2bf8/2c64 pun; S081 'Ordinary Person Course' is outside this chunk and should be unified to Ordinary Folk there",
+  "20:2444: KEEP - 'Enough is enough: get angry' matches source (ikura nan demo okotte miru); acceptable",
+  "20:40b8: VOICE - 'but-elderly' pun (cho butterfly / soncho village chief) is weak but serviceable; left"
+ ]
+}

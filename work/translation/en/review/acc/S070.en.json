@@ -1,0 +1,405 @@
+{
+ "slice": "S070",
+ "scene": "17",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S069",
+ "next": "S071",
+ "todo": [
+  "- Dot run shortened in S070 17:52dc — restore.",
+  "- Shortened/reworded only for old wrapper limits (now fixed): S068 4220 (dots), S074 18:3fa0 ('Hurry up.'), S070 17:4ec4 ('500-yen coin') — restore in review."
+ ],
+ "rows": [
+  {
+   "id": "17:38f4",
+   "op": "text",
+   "en": "Ah...!\nThe paper for summoning Kokkuri-san {f:had fallen|had fallen} to the floor.\n\"Aaah!\"\nKazama let out a shout.{p}"
+  },
+  {
+   "id": "17:3984",
+   "op": "text",
+   "en": "\"You dropped the ritual paper!\nYou'll be cursed!\n{c}, {f:you|you}... you're going to be cursed...☆\"\nEveryone in the club room held their breath and stared at {f:me|me}.{p}"
+  },
+  {
+   "id": "17:3a18",
+   "op": "text",
+   "en": "\"...However, {c}{f:|}.\"\nKazama fixed {f:me|me} with a challenging stare and murmured slowly.\n\"There is just one way you can be saved.\nAnd that is...\nto keep this charm on your person.\nAs a special favor, I'll sell it to you for a thousand yen.\"{p}"
+  },
+  {
+   "id": "17:3b10",
+   "op": "text",
+   "en": "......\nIn Kazama's hand as he said this was an eraser, the kind they sell everywhere for about fifty yen.\n\"...Um.\"\n{f:I|I} began to feel that something was off.{p}"
+  },
+  {
+   "id": "17:3bdc",
+   "op": "text",
+   "en": "\"Hm, what is it?\nYou'll buy it?\"\nKazama's expression had changed completely from a moment ago; now he was grinning.\n...Something's fishy {f:here|here}.\n\"Um...\n...Isn't that just an ordinary eraser?\"\nWhen {f:I|I} asked, Kazama threw out his arms theatrically and rattled this off in one breath.{p}"
+  },
+  {
+   "id": "17:3cf0",
+   "op": "text",
+   "en": "\"How dare you say such a thing you this eraser is a genuine charm that really works because I purified it myself in natural water flowing down a certain mountain famed for its miraculous powers\"\nWhile {f:I|I} was still reeling, he piled on even more.\n\"The mountain water I purified this eraser with comes from a waterfall that many practitioners stand under for their ascetic training.\nIf you purify something in that water for one night, even an ordinary eraser takes on spiritual power and becomes a charm.\nYou can choose anything you like to purify and turn into a charm.\nIt can be something you wear every day, or a key chain, or whatever.\nWhat matters is purifying it in the water of that waterfall.\nI chose an eraser because it's easy to bring to school.{p}"
+  },
+  {
+   "id": "17:3f20",
+   "op": "text",
+   "en": "You know, it's a real ordeal getting to where that waterfall is.\nNormally, letting it go for a thousand yen would be unthinkable.\nI heard we'd be telling ghost stories about the seven wonders this time, so I brought one along in case something bad happened.{p}And I'm saying I'll part with it, specially for you.\"\n"
+  },
+  {
+   "id": "17:402c",
+   "op": "choice",
+   "en": "I believe him"
+  },
+  {
+   "id": "17:4034",
+   "op": "choice",
+   "en": "I don't believe him"
+  },
+  {
+   "id": "17:4040",
+   "op": "text",
+   "follows_choice": [
+    "17:402c"
+   ],
+   "en": "\"Kazama, I'm very sorry.\nI doubted you, and I called your charm just an eraser...\"\nWhen I apologized, Kazama handed {f:me|me} the eraser and said that as long as I understood, it was fine.\nSo {f:I|I} thanked him and handed Kazama a thousand-yen bill.{p}"
+  },
+  {
+   "id": "17:4154",
+   "op": "text",
+   "en": "\"Ufufu.\nYou're so obedient.\nGood kid.\nYou really are a good kid.\"\nKazama gave a little \"ufufu\" laugh.\n...Wait, isn't something weird about this after {f:all|all}?\nBut it was already too late.\nKazama stuffed the bill into his pocket and hurried away from {f:me|me}.\nWh-what a guy.\nAll that talk about summoning the real Kokkuri-san, and showing it to us, and putting a curse on me... wasn't it all just to trick and scare {f:me|me} into buying an eraser{f:?|?}\n......\nHino, why on earth did you invite someone like this...?\nOh...{p}"
+  },
+  {
+   "id": "17:4364",
+   "op": "text",
+   "en": "But why did the Kokkuri-san paper fall to the floor earlier, {f:I wonder|I wonder}?\nThinking back, I was sure neither Kazama nor {f:I|I} had touched the paper...\nPaying no attention to {f:me|me} as I sat lost in thought, Kazama called out to everyone, looking satisfied.{p}"
+  },
+  {
+   "id": "17:4450",
+   "op": "text",
+   "en": "\"I'd gone to the trouble of planning to show you the real Kokkuri-san, but now that the ritual paper has fallen, I can't do it anymore.\nIf you try to summon it with paper that's fallen, Kokkuri-san gets angry, you see.\nOh well, looks like all we can do is hear the next person's story.\nSo, whose turn is it next?\"{p}"
+  },
+  {
+   "id": "17:4564",
+   "op": "text",
+   "follows_choice": [
+    "17:4034"
+   ],
+   "en": "\"Kazama...\"\n{f:I|I} was completely fed up.\nEverything he said was way too fishy.\n\"...That's enough.\nLet's hear the next person's story.\"\nAt that, Kazama started muttering.{p}"
+  },
+  {
+   "id": "17:4620",
+   "op": "text",
+   "en": "\"Are you sure?\nAre you really sure?\nYou'll get cursed, you know?\nOh, I'll even take five hundred yen, so come on, buy this charm.\"\n...This was getting fishier and fishier.\nAs {f:I|I} glared at him, Kazama hurriedly started saying this.{p}"
+  },
+  {
+   "id": "17:46fc",
+   "op": "text",
+   "en": "\"W-well, it can't be helped.\nAnd here I was, kindly offering to let you have the charm.\nIf you get into some kind of accident from now on, don't come crying to me.\nStill, it's a shame.\nI was planning to show you the real Kokkuri-san, but now that the ritual paper has fallen, it's no good.\nIf you used fallen paper, Kokkuri-san would get angry, you see.\nOh well, looks like all we can do is hear the next person's story...\"\n"
+  },
+  {
+   "id": "17:4870",
+   "op": "text",
+   "en": "For a moment, {f:I|I} felt a chill.{p}"
+  },
+  {
+   "id": "17:48b4",
+   "op": "text",
+   "en": "Come to think of it, why did the Kokkuri-san paper fall to the floor earlier, {f:I wonder|I wonder}?\nThinking back, I was sure neither Kazama nor {f:I|I} had touched it...\nKazama was fishy, but maybe some kind of spiritual presence really had come into this room.\nBreaking into a cold sweat inside, {f:I|I} called out to everyone.\n\"W-well then, let's move on to the next story...\"{p}"
+  },
+  {
+   "id": "17:4a1c",
+   "op": "text",
+   "follows_choice": [
+    "17:1e80"
+   ],
+   "en": "What a thing to say.\nYou came here to do an interview, didn't you?\nI'd say you'd be a fool to pass up the chance to behold the real Kokkuri-san right here.{p}"
+  },
+  {
+   "id": "17:4a90",
+   "op": "text",
+   "en": "Well, it seems that when ordinary people do Kokkuri-san the wrong way, they can end up possessed by a low-level spirit or something.\nBut a Kokkuri-san researcher of my caliber has looked into all sorts of things.\nI know a way to summon a high-level spirit as Kokkuri-san without fail.\nSo it's fine.\nLeave it to me and nothing will go wrong.\nGot it?\nAll right, let's begin.\nListen, if you want to summon the real, high-level spirit Kokkuri-san, you can't be cheap and use a ten-yen coin.\n...That's right, you use a five-hundred-yen coin.\nThat way you can call a better Kokkuri-san.{p}"
+  },
+  {
+   "id": "17:4ca0",
+   "op": "text",
+   "follows_choice": [
+    "17:20ac"
+   ],
+   "en": "What are you doing?\nHurry up and take out the five-hundred-yen coin.\n...Don't tell me you're not going to?\nUnbelievable.{p}"
+  },
+  {
+   "id": "17:4d14",
+   "op": "text",
+   "en": "You'll never get a chance like this again, you know.\nHere I am, offering to summon the real, high-level Kokkuri-san for you.{p}"
+  },
+  {
+   "id": "17:4d80",
+   "op": "text",
+   "en": "Are you really serious about doing this interview?\n"
+  },
+  {
+   "id": "17:4da8",
+   "op": "choice",
+   "en": "Give him a 500-yen coin"
+  },
+  {
+   "id": "17:4db8",
+   "op": "choice",
+   "en": "Don't give him a 500-yen coin"
+  },
+  {
+   "id": "17:4dcc",
+   "op": "choice",
+   "en": "Say I don't have one on me"
+  },
+  {
+   "id": "17:4dec",
+   "op": "text",
+   "follows_choice": [
+    "17:4da8"
+   ],
+   "en": "...Good, that's more like it.\nNow then, let's summon Kokkuri-san with this five-hundred-yen coin.{p}"
+  },
+  {
+   "id": "17:4e54",
+   "op": "text",
+   "follows_choice": [
+    "17:4db8"
+   ],
+   "en": "What?!★\nYou won't give me the five-hundred-yen coin, {f:you say|you say}?\n...I hope I just misheard you.{p}"
+  },
+  {
+   "id": "17:4ec4",
+   "op": "text",
+   "en": "{f:Listen|I'll say this just once more}, {f:I'll say this just once more|take out a five-hundred-yen coin}.\n{f:Take out a 500-yen coin|Refuse, and you'll be sorry}.{p}{f:If you refuse...|Do you understand what that means,} {f:you'll be sorry.|heh heh heh...}\n"
+  },
+  {
+   "id": "17:4fb8",
+   "op": "choice",
+   "en": "Do as he says"
+  },
+  {
+   "id": "17:4fc0",
+   "op": "choice",
+   "en": "Don't do as he says"
+  },
+  {
+   "id": "17:4fcc",
+   "op": "text",
+   "follows_choice": [
+    "17:4fb8"
+   ],
+   "en": "...I see you've come around.{p}"
+  },
+  {
+   "id": "17:4ffc",
+   "op": "text",
+   "follows_choice": [
+    "17:20c0",
+    "17:4dcc"
+   ],
+   "en": "Well, if you don't have one, it can't be helped.\nThen let's try it with the ten-yen coin I've got on me.\nBut with a ten-yen coin, there's no guarantee it'll work.\nAll right, let's start Kokkuri-san.\n{c}{f:|}, would you put your index finger on that ten-yen coin?\nHere we go.{p}"
+  },
+  {
+   "id": "17:510c",
+   "op": "text",
+   "en": "...Kokkuri-san, Kokkuri-san, please come to us.\nPlease come into this ten-yen coin.{p}"
+  },
+  {
+   "id": "17:5170",
+   "op": "text",
+   "en": "Fundaradatta, fundaradatta, fundaradatta, kwaaaah!\n......{p}"
+  },
+  {
+   "id": "17:51d0",
+   "op": "text",
+   "en": "Kokkuri-san has arrived.\nNow let's begin the fortune-telling.{p}So, which will it be?\n"
+  },
+  {
+   "id": "17:521c",
+   "op": "choice",
+   "en": "Love trouble"
+  },
+  {
+   "id": "17:5228",
+   "op": "choice",
+   "en": "Money trouble"
+  },
+  {
+   "id": "17:5234",
+   "op": "choice",
+   "en": "Studies or work"
+  },
+  {
+   "id": "17:5240",
+   "op": "choice",
+   "en": "My future"
+  },
+  {
+   "id": "17:5250",
+   "op": "text",
+   "follows_choice": [
+    "17:521c",
+    "17:5228",
+    "17:5234",
+    "17:5240"
+   ],
+   "en": "Got it, let's divine it.\nKokkuri-san, Kokkuri-san, please answer us.\nWhat of {c}{f:|}'s...{p}"
+  },
+  {
+   "id": "17:52dc",
+   "op": "text",
+   "en": "Waaaaah! K-Kokkuri-san, I'm terribly sorry!☆\nA t-ten-yen coin won't do, will it!\nI-I understand, please depart...!\n………………………………………………{p}"
+  },
+  {
+   "id": "17:53c8",
+   "op": "text",
+   "en": "{c}{f:|}, this is no good.\nJust as I thought, a ten-yen coin won't do.\nA high-level spirit Kokkuri-san did come just now, but...\nit was most displeased that we performed the ritual with a makeshift ten-yen coin.\nIt's no use.\nWe can't try any more with a ten-yen coin.\nIf only we had a five-hundred-yen coin, I could have divined that question for you for sure...\nAre you really sure you don't have a five-hundred-yen coin?\nTry looking one more time.{p}If you have one, I'll divine it for you right away...\n"
+  },
+  {
+   "id": "17:5564",
+   "op": "choice",
+   "en": "Take out the 500-yen coin I was hiding"
+  },
+  {
+   "id": "17:5580",
+   "op": "choice",
+   "en": "Don't take it out"
+  },
+  {
+   "id": "17:5594",
+   "op": "text",
+   "follows_choice": [
+    "17:5564"
+   ],
+   "en": "Oh!\nSo you did have a five-hundred-yen coin!\nWonderful, truly wonderful.{p}"
+  },
+  {
+   "id": "17:55d8",
+   "op": "text",
+   "follows_choice": [
+    "17:4fc0"
+   ],
+   "en": "\"I refuse.\"\nWhen {f:I|I} said that...\n"
+  },
+  {
+   "id": "17:5618",
+   "op": "text",
+   "en": "Kazama went into a sulk.\n\"Kazama?\"\nEven when I called to him, he wouldn't answer.\n\"Um, Kazama?\"\n\"......\"\n\"I'd like to move things along.\"\n\"......\"\n\"Well, it can't be helped.\nIn that case, let's hear the next person's...\"\nWhen I tried to move on, Kazama silently tugged at {f:my|my} clothes.\n...What is {f:with|with} this guy?\n\"P-please let go.\"\nKazama was looking at {f:me|me} with sad eyes.\n...Oh, brother.{p}At this rate, {f:this|this} is going {f:nowhere|nowhere}.\n"
+  },
+  {
+   "id": "17:57f0",
+   "op": "choice",
+   "en": "Give in and give him a 500-yen coin"
+  },
+  {
+   "id": "17:5810",
+   "op": "choice",
+   "en": "Still refuse to give him money"
+  },
+  {
+   "id": "17:5840",
+   "op": "text",
+   "follows_choice": [
+    "17:57f0"
+   ],
+   "en": "All right!\nNow we can do Kokkuri-san!\nYes, yes, let's get started.{p}"
+  },
+  {
+   "id": "17:5890",
+   "op": "text",
+   "follows_choice": [
+    "17:5580"
+   ],
+   "en": "{f:I|I} couldn't go along with his demand.\n\"I'm sorry, Kazama.\nI really don't have a five-hundred-yen coin.\nPlease save Kokkuri-san for another time.\"\nWhen {f:I|I} said that, Kazama's shoulders slumped.\nThen he said just one thing.{p}"
+  },
+  {
+   "id": "17:5998",
+   "op": "text",
+   "en": "\"{f:You don't even have a measly five hundred yen?|And here I was going to divine your fortune for you.} {f:You'll never be popular with girls like that.|Now I won't forgive you unless you go on a date with me.}\"\n...Wh-what is {f:with|with} this guy?!★{p}"
+  },
+  {
+   "id": "17:5a68",
+   "op": "text",
+   "en": "\"Still, it's a shame, {c}{f:|}.\nIf only you'd had a five-hundred-yen coin, I could have shown you the real Kokkuri-san and divined your fortune.\nAnd I'd prepared such good material, too.\nOops, I shouldn't call a high-level spirit Kokkuri-san 'material.'\nNaughty, naughty, mutter mutter mutter...\"\nKazama kept muttering to himself.\nHe sure is a weird {f:guy|guy}.\n{f:I|I} decided to just go ahead and hear the next story,\npraying that the Kokkuri-san we'd just done wasn't another of Kazama's hoaxes.\n\"Well then, let's move on.\nThe next story is...\"{p}"
+  },
+  {
+   "id": "17:5c70",
+   "op": "text",
+   "follows_choice": [
+    "17:5810"
+   ],
+   "en": "Kazama gave me a resentful look.\nEven so, {f:I|I} didn't hand over the five-hundred-yen coin.\nWithout looking Kazama's way again, I called out to everyone.{p}"
+  },
+  {
+   "id": "17:5d08",
+   "op": "text",
+   "en": "\"Well then, let's hear the next person's...\"\nJust then, something came flying at {f:me|me} and {f:hit me on the head|landed right beside me}.\n\"{f:Ow!|Eek!}\"{p}"
+  },
+  {
+   "id": "17:5d9c",
+   "op": "text",
+   "en": "Why, it was an {f:eraser|eraser}.\nOne from the newspaper club's {f:supplies|supplies}.\n......\n{f:It couldn't be the work of a spirit... could it?|It isn't the work of a spirit, is it?}{p}"
+  },
+  {
+   "id": "17:5e38",
+   "op": "text",
+   "en": "I had a feeling it had come flying from the direction where Kazama {f:was|was}.\n{f:But|But} I couldn't exactly go and check.\nHonestly, this is so {f:annoying|annoying}.\nWhat kind of Kokkuri-san had Kazama meant to do with a five-hundred-yen coin, {f:I wonder|I wonder}?\nHe'd said something about showing us the real Kokkuri-san{f:, but|, but}...\n...Oh, {f:whatever|whatever}.\nKazama's kind of weird anyway, and if he did Kokkuri-san, we'd probably end up cursed {f:for real|for real}.\n{f:I|I} decided to just go on and hear the next story.\n\"Well then, the next story...\"{p}"
+  },
+  {
+   "id": "17:604c",
+   "op": "text",
+   "follows_choice": [
+    "17:2434"
+   ],
+   "en": "I see, there's no one.\nThen... let's see, I'll ask whether you'll meet someone to fall in love with soon.\nKokkuri-san, Kokkuri-san, please answer us.\nIn the near future, will a romantic encounter come {f:his|her} way?{p}"
+  },
+  {
+   "id": "17:6148",
+   "op": "text",
+   "en": "Well, well, {f:you're quite the sly one|I thought as much}.\n{f:You dog, you!|...The one you'll meet must be none other than me.}\n{f:If there's romance coming,|Then} {f:I'd better divine how it|I'd better divine how this encounter} develops, too.{p}"
+  },
+  {
+   "id": "17:621c",
+   "op": "text",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nWhat feelings will this sweetheart come to have for {c}{f:|}?{p}"
+  },
+  {
+   "id": "17:6308",
+   "op": "text",
+   "en": "{f:That's impossible|Ohh}!\n{f:...Oh, pardon me.|It read my heart in one shot!}\n{f:Well, there's no accounting for taste.|Heh heh heh...}\n{f:Anyway|From now on}, {f:try your best to make it work|let's get along nicely, shall we}.\nUm, let's see.{p}"
+  },
+  {
+   "id": "17:63f4",
+   "op": "text",
+   "en": "Well then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:642c",
+   "op": "text",
+   "en": "Well, well, well.\nMm-hm, mm-hm.{p}"
+  },
+  {
+   "id": "17:6454",
+   "op": "text",
+   "en": "{f:Be happy, now|Let's be happy together}.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:64a8",
+   "op": "text",
+   "en": "{f:Life has its ups and downs|That's impossible}.\n{f:Cheer up and|My hand slipped, so} {f:let's move on|forget that one}.\nSo, what shall I divine{f: now| next}?{p}"
+  },
+  {
+   "id": "17:6540",
+   "op": "text",
+   "en": "We already divined that one.\nAsk about something else.{p}"
+  },
+  {
+   "id": "17:6580",
+   "op": "text",
+   "follows_choice": [
+    "17:24a0"
+   ],
+   "en": "I see, so it's one-sided.\nThat's rough.\nAll right, this is exactly when you need Kokkuri-san.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|}'s love bear fruit?{p}"
+  }
+ ]
+}

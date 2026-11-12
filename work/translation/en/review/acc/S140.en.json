@@ -1,0 +1,344 @@
+{
+ "slice": "S140",
+ "scene": "36",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S139",
+ "next": "S141",
+ "todo": [],
+ "rows": [
+  {
+   "id": "36:0ae0",
+   "op": "text",
+   "en": "I'm telling the first story?\n...Okay, what should I talk about?\nOh, before that, let me introduce myself.\nMy name is Reiko Fukuzawa.\nI'm a brand-new first-year, just started here this spring.\nNice to meeeet you, all my seniors!\nUmm, you're {c}{f:|}, right?\nWe're both first-years, but we've never met, have we?\nWell, this school is huge.\nOr maybe you're always skipping class?\nAhahahaha...\nNow that I think about it, I've seen you skipping {f:behind the gym|in the nurse's office}.\nKidding, kidding.\nOh, sorry, sorry.\nWe're supposed to tell scary stories, right?\nOkay then, ready?{p}"
+  },
+  {
+   "id": "36:0d08",
+   "op": "text",
+   "en": "Every class has at least one weird kid, right?\nI don't mean a kid who gets bullied, or one nobody notices, or anything like that.\nThey're just different from everyone else somehow.\nSomething's off about them.\nThe way they think, the way they act, it's different from everyone else somehow.\nLike they're out of focus, or like they're not of this world.\n...Hmm, I can't really put it into words.\nThere's a kid like that in my class too.\nMy class is Class 1-G, by the way.{p}"
+  },
+  {
+   "id": "36:0ea4",
+   "op": "text",
+   "en": "Her name is Sanae Motoki.\nSanae is really weird.\nLike, in home ec cooking class, you use kitchen knives, right?\nWhen you give Sanae a knife, she just stares and stares at it.\nGrinning this creepy grin the whole time.\nAnd then,\n\"If I stabbed this into my eye, it would really hurt, wouldn't it?\"\nshe mutters, stuff like that.\nThose of us watching are totally freaked out, right?\nThen she turns the tip of the knife toward herself.\nAnd she stays frozen in that position for a while, just staring.\nAfter that, she lets out a big sigh, and\n\"Whew, that was scary,\"\nshe says, or something like that.\nThe whole time, the rest of us were frozen stiff.\nWe had no idea what was going to happen, so we couldn't move, we just watched in silence.\nThen again, if she nicks her finger a little with a knife, she starts bawling her eyes out.\nIt's not even much blood.\nBut she cries like it's the end of the world.\nI thought something awful had happened. I was more shocked than she was.{p}"
+  },
+  {
+   "id": "36:11b8",
+   "op": "text",
+   "en": "And when she eats her lunch, she always prays for over ten minutes before she starts.\nI can't tell what she's saying, but she mutters away in a tiny voice, mumble mumble mumble.\nThen she bows to her lunch box over and over and over.\nAnd only then does she finally start eating.\nUnbelievable, right?\nAnd when she eats, she must chew every bite more than thirty times.\nI mean, she eats incredibly slowly.\nShe uses up the whole lunch break eating.\nThen, when she's done, she bows to her lunch box again and starts praying, mumble mumble mumble.\nShe's a little unhinged, huh?\nKind of scary, right?\nBut you know, it's not like she's dumb.\nShe's actually pretty good at studying.\nShe always ranks near the top on tests and stuff.\nAnd she doesn't get bullied, either.\nIt kind of bugs me to say it as a girl myself, but she's really cute.\nYou know, the kind of face everybody likes?\nGirls like that have it easy, huh?\nEven me, sometimes I find Sanae really irritating, but then I go, 'Oh, whatever,' and forgive her right away.\nActually, we're pretty good friends.\nMaybe I'm weird too.\nBesides, Sanae may be weird, but she's fun.{p}"
+  },
+  {
+   "id": "36:1590",
+   "op": "text",
+   "en": "The other day, she suddenly started spinning around and around in the classroom, staring up at the ceiling.\n\"What's wrong?\"\nI asked her, and she said,\n\"I'm dizzy and everything's spinning.\nSo I'm spinning the other way.\nIf I do that, it'll go away.\"\nThat's what she told me.\nThere's no way that would fix it.\nI was just speechless, honestly.\nBut, like, when Sanae says stuff like that, you can't help laughing.\nIsn't there a kid like that in your class too?{p}"
+  },
+  {
+   "id": "36:1700",
+   "op": "text",
+   "en": "But you know, that's not the only weird thing about Sanae.\nShe had an amazing secret.\nAnd I happened to see that secret by accident.\nThe other day, when we had P.E., Sanae sat it out because she said she felt sick.\nAt first she watched the class, but then she said she wanted to lie down and went to the nurse's office.\nHer face was deathly pale.{p}"
+  },
+  {
+   "id": "36:1828",
+   "op": "text",
+   "en": "She really did feel sick.\nThat day in P.E., the girls were playing volleyball.\nAnd I jammed my finger.\nJammed fingers really hurt, right?\nSo I went to the nurse's office.\nAnd the nurse wasn't there, and Sanae was lying in bed all alone.{p}"
+  },
+  {
+   "id": "36:1910",
+   "op": "text",
+   "en": "She had the blanket pulled up over her head, and she was shaking like crazy.\nI couldn't decide whether to say something to her or not.\nI mean, she was shaking so hard it looked like the whole bed might start rocking.\nLike the bed was about to go wild any second.{p}It felt like I shouldn't say a word to her.\n"
+  },
+  {
+   "id": "36:19ec",
+   "op": "choice",
+   "en": "Try calling out to her"
+  },
+  {
+   "id": "36:19fc",
+   "op": "choice",
+   "en": "Leave her alone for now"
+  },
+  {
+   "id": "36:1a14",
+   "op": "choice",
+   "en": "Go get the nurse"
+  },
+  {
+   "id": "36:1a28",
+   "op": "text",
+   "follows_choice": [
+    "36:19ec"
+   ],
+   "en": "After all, she's my friend.\nI went up to her, meaning to say something.{p}"
+  },
+  {
+   "id": "36:1a78",
+   "op": "text",
+   "en": "When I got close, the shaking got even worse, like it was reacting to me.\nThe bed was scraping across the floor, scrape, scrape.\nThat's how hard she was shaking.\nI got really worried, and I took hold of the blanket.\n\"Sanae, are you okay?\"\nNo answer.\n"
+  },
+  {
+   "id": "36:1b68",
+   "op": "text",
+   "en": "I figured she hadn't heard me, so I asked again, a little louder.\n\"Hey, Sanae, are you okay?\"\nStill no answer.\nI didn't know what to do anymore, so I shook her hard by the shoulder.\n\"Sanae! Sanae!\"\nI was screaming.\nThen a mop of messy hair came poking out of the blanket.\nThe face was hideously swollen, and the lips, gone purple, were flopped open and curled back.\nIt was a face you couldn't bear to look at twice.\n"
+  },
+  {
+   "id": "36:1d18",
+   "op": "text",
+   "en": "\"Ugh, keep it down. I feel sick, okay?\nCan you just leave me alone?\"\n...It was somebody else.\n"
+  },
+  {
+   "id": "36:1d88",
+   "op": "text",
+   "en": "I was so sure it was Sanae lying there that it gave me a real shock.\nI was so embarrassed my face was on fire.\nRight after that, the school nurse came back.{p}"
+  },
+  {
+   "id": "36:1e30",
+   "op": "text",
+   "en": "\"What's the matter?\"\n\"Oh, um... I jammed my finger.\"\nThe whole time she was treating me, I couldn't settle down.\nFrom the next bed came\n\"...Geez, seriously. And I've got a fever, too,\"\nand more sulky grumbling like that.\nIf he had that bad a fever, he should've just gone home.\nI don't go to the nurse's office much, but Ms. Iwasaki, the school nurse, is really kind. She's a good one.\nI could kind of see why the boys go out of their way to fake being sick so they can go to the nurse's office.\n\"There, all better.\"\nAfter she'd patched me up, I worked up the nerve to ask.\n\"Um, did Motoki come by here, by any chance?\"\n\"Motoki?\"\nMs. Iwasaki gave me a puzzled look.\nWell, of course. She doesn't teach our class, so how would she know who someone is just from a name?\n\"Um, did a girl come in a little while ago, saying she felt sick?\nShe's in Class 1-G.\"\nMs. Iwasaki looked troubled.\n\"...I'm not sure. I stepped out for a bit to take care of something.\nMaybe she came in while I was gone.\"\n\"Nobody came in.\"\nThe sulky-faced guy lying in the bed answered curtly.\nNobody asked him, right?\nI bet he's a fan of Ms. Iwasaki too.\nThat's why he's lying around in the nurse's office instead of going home.\nA guy like him is exactly what they mean by 'doesn't know his place.'{p}"
+  },
+  {
+   "id": "36:2298",
+   "op": "text",
+   "en": "But I couldn't figure it out.\nIf Sanae didn't go to the nurse's office, where on earth had she gone?\nWhat if she'd collapsed somewhere on the way?\nI mean, she's the kind of girl who bursts into tears at the sight of a little blood.\nSo I went looking for Sanae.\nBut I found her right away.{p}"
+  },
+  {
+   "id": "36:23cc",
+   "op": "text",
+   "en": "She was sitting at her own desk in the classroom, all limp.\nMaybe she'd headed for the nurse's office, found the nurse wasn't there, and come back to the classroom.\nOr maybe she'd never meant to go to the nurse's office at all, and had planned to rest in the classroom from the start.\nI didn't know why, but Sanae was sitting at her desk.\nHer arms were hanging down limp, her body was slumped against the back of the chair, and her head was flopped back.\nShe didn't look asleep so much as unconscious.\nNo, actually, she almost looked dead.\nIt looked like her eyes had rolled back, showing only the whites.\nFor a moment, I didn't know what to do, and I just stood there frozen.\nI just stared at Sanae, stunned.{p}"
+  },
+  {
+   "id": "36:2600",
+   "op": "text",
+   "en": "Then suddenly, her body jerked up with a jolt.\nJust like a puppet on strings, I swear.\nShe jerked up hard, and then she sat bolt upright.\nAnd then she started slowly rolling her head around and around in a circle.\nI tried to cry out, but it was like something had been shoved down my throat. No sound came out.\nMy body couldn't move either, like I was paralyzed.\nI couldn't even look away.{p}"
+  },
+  {
+   "id": "36:2784",
+   "op": "text",
+   "en": "I got such a shock.\nBecause next, while Sanae sat there bolt upright, still as a wax doll, something like white smoke came out of her mouth.\nThis hazy stuff kept pouring out of her slack, half-open mouth, more and more of it.\nIt seemed kind of too solid to be smoke, and it held together strangely.\nIt was more like cotton.\nAnd then it started taking on a hazy human shape, see?\nThat's what they call ectoplasm, right?\nEven I know that much.\nEctoplasm is a person's soul, isn't it?\nSince it came out of Sanae's mouth, I figured it had to be Sanae's soul.\nIt didn't look the least bit like Sanae's face, but it was a beautiful woman.\nA beautiful woman with long hair.\nIt was just a lump of smoke, but you could clearly make out her features.\nSee, you're not seeing that with your eyes.\nIt's a sight you sense with the eye inside your head.\nNot your physical eyes, your mind's eye, you know?\nThat's why you can see it clearly, even though it's smoke.\nI don't know the details, but that's what I think.\nBut the ectoplasm itself is real.\nSo you see the ectoplasm with your physical eyes, but the face in the smoke you see with your mind's eye.\nToo complicated?\nSo anyway, that ectoplasm looked at me.\nOr maybe it's more accurate to say I felt like it looked at me?\nBut the moment it did, I got the feeling back in my body.\nI could breathe easier, and my voice came back.\nSo then I couldn't decide whether it was okay to say something to Sanae.\nI mean, if I called out to her at a time like this and something happened to her, that would be terrible.\nBut if I just left her like this, there was no guarantee she'd be okay, either.{p}What should I do?\n"
+  },
+  {
+   "id": "36:2d04",
+   "op": "choice",
+   "en": "Call out to her"
+  },
+  {
+   "id": "36:2d10",
+   "op": "choice",
+   "en": "Leave her be"
+  },
+  {
+   "id": "36:2d1c",
+   "op": "text",
+   "follows_choice": [
+    "36:2d10"
+   ],
+   "en": "I decided to just watch quietly for the time being.\nI mean, wouldn't you?\nEctoplasm was coming out of Sanae's mouth.\nIf I suddenly called out and gave it a fright, what would happen?\nIt didn't seem to be doing any harm for now, and if anything happened, I'd jump in right then.\nSo I just watched without a word.{p}"
+  },
+  {
+   "id": "36:2e48",
+   "op": "text",
+   "en": "The ectoplasm stretched and shrank, drifting around for a while.\nThe thin, threadlike smoke stretching from Sanae's mouth seemed like a lifeline.\nLike a baby's umbilical cord, that thin, flimsy thread was holding up the spirit body.\nWhat would happen if it snapped by some accident?\nThat was the weird thing I was worrying about.\nIt only lasted a few minutes, but it felt like hours to me.\nAfter a while, Sanae's body shook, jerk, jerk.\nAnd then the ectoplasm got sucked back into Sanae's mouth, slurrrp.\nNot all at once, though.\nSlowly, slowly, it went in, like it was making sure of the place it was returning to.\nIn the end, every bit of it went back inside Sanae, without leaving a trace.\nAnd at that exact moment...{p}"
+  },
+  {
+   "id": "36:3120",
+   "op": "text",
+   "en": "Sanae's body lurched again, and she slumped forward.\n"
+  },
+  {
+   "id": "36:3168",
+   "op": "text",
+   "en": "Sanae banged her head on the desk with a thunk.\nThat looked like it hurt.\nAnd then, get this.\nSanae stretched and let out this 'Mmmmmm' sound, like someone who's been dragged out of bed in the morning while they're still sleepy.\nShe really did seem like she'd been asleep. She was rubbing her puffy eyelids, rub rub.{p}"
+  },
+  {
+   "id": "36:3274",
+   "op": "text",
+   "en": "Then suddenly, Sanae turned her sleepy eyes my way.\nWhat should I do?{p}I made a split-second decision.\n"
+  },
+  {
+   "id": "36:32dc",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "36:32e4",
+   "op": "choice",
+   "en": "Run over to her"
+  },
+  {
+   "id": "36:32f0",
+   "op": "text",
+   "follows_choice": [
+    "36:32e4"
+   ],
+   "en": "I felt like this was bad, and I thought about running away.\nBut our eyes had met, right?\nNo point running away then.\nBesides, she's my friend.\n\"Sanae!\"\nWithout thinking, I grabbed her hand.\nIt was shockingly cold.\nJust like a dead person's.\nI almost let go without meaning to.\nBut then Sanae squeezed my hand tight.\nI was about ready to cry.\n\"Reiko, stay like this.\nKeep holding my hand, okay?\"\nShe said it with blank, unfocused eyes.\nShe was looking at me, but her eyes seemed to go right through me, looking at something behind me.{p}"
+  },
+  {
+   "id": "36:351c",
+   "op": "text",
+   "en": "Feeling like I'd been hypnotized, I just nodded and did as she said.\nLittle by little, Sanae's hand got its warmth back.\nHer eyes slowly came into focus too, and she came back to herself.\nAnd then, all of a sudden, she hung her head.\nI didn't know what to say either, so I kept quiet.\nIt was kind of awkward.\n\"...Reiko, did you see it?\"\nI was so startled.\nI mean, out of nowhere, Sanae comes out with that.{p}I didn't know how to answer...\n"
+  },
+  {
+   "id": "36:36dc",
+   "op": "choice",
+   "en": "Tell her I saw it"
+  },
+  {
+   "id": "36:36ec",
+   "op": "choice",
+   "en": "Tell her I didn't see anything"
+  },
+  {
+   "id": "36:3700",
+   "op": "text",
+   "follows_choice": [
+    "36:36dc"
+   ],
+   "en": "I felt like she'd see through me if I lied...\nSo I answered honestly.\n\"What... was that?\nSanae, did you already know about it?\"{p}"
+  },
+  {
+   "id": "36:37a0",
+   "op": "text",
+   "en": "Sanae looked up at me from under her lashes, then hung her head again.\n\"...Yeah. That was my grandma.\"\n\"Your grandma? That wasn't you?\"\n\"It wasn't me. It was Grandma.\nGrandma died three years ago, you know.\nAnd ever since, she's been inside me.\nSometimes she comes out like that.\"\nSanae said it with her head still hanging.\nI didn't know what to say back.\n\"Grandpa's in here too.\nAnd my dad's big sister, and my mom's dad, and all kinds of people are inside me.\"\nSanae told me that, too.\nI just nodded without saying anything.\nSomehow I felt like I shouldn't joke about it or make fun of her.\nWith a serious face,\n\"Yeah, I see, I see,\"\nis what I said.\n\"And Grandma and the others teach me all sorts of things.\nLike stuff about tests, and tomorrow's weather, all kinds of things.\n...Even what everyone thinks of me.\"\nMy heart skipped a beat.\nIf I thought anything weird, it would all get passed on to Sanae.\n\"...Don't be scared, okay?\nReiko, you're a good friend.\nPlease keep being my friend from now on, too.\"\nI answered right away.\n\"Okay,\"\nI said.\nThen, since P.E. still wasn't over, I said goodbye.\nSanae stayed behind, saying she'd keep resting in the classroom.{p}"
+  },
+  {
+   "id": "36:3c54",
+   "op": "text",
+   "en": "See?\nShe's weird, right?\n...Sanae and I are still good friends.\nShe's the same as ever, but she's a good kid.\nOh yeah, this is a secret, okay?\nSince then, she's been telling me what's going to be on tests and stuff.\nShe says she asked her grandma.\nAnd it's spot-on every time.\nBut it sounds too wild to be true, doesn't it?{p}Can you believe it?\n"
+  },
+  {
+   "id": "36:3d80",
+   "op": "choice",
+   "en": "I believe it"
+  },
+  {
+   "id": "36:3d88",
+   "op": "choice",
+   "en": "I don't believe it"
+  },
+  {
+   "id": "36:3d94",
+   "op": "choice",
+   "en": "I can't really say"
+  },
+  {
+   "id": "36:3da4",
+   "op": "text",
+   "follows_choice": [
+    "36:3d88"
+   ],
+   "en": "Yeah, I figured.\nYou can't believe it unless you actually see it, huh?\nSo anyway, remember I said Sanae prays at lunch?\nI wanted to know what she was mumbling about, so I snuck up close and listened.\nAnd guess what she was saying?{p}"
+  },
+  {
+   "id": "36:3eac",
+   "op": "text",
+   "en": "\"My, my, what a tasty-looking lunch again today,\"\nand\n\"Ahh, I'm a lucky old fella, I am,\"\nthat's the kind of stuff she was saying.\nAnd it wasn't Sanae's voice, either.\nIt was somebody else's voice.\nI thought Sanae might be doing an impression of someone, but that wasn't it.\nWhen I listened closely, I could hear a bunch of voices at the same time.\nNot just one voice. Lots of them were all chattering at once.\nI peeked at Sanae's face.{p}"
+  },
+  {
+   "id": "36:404c",
+   "op": "text",
+   "en": "And then, guess what? Right at her slightly open mouth, I could see human faces.\nTiny human faces, like the heads of matchsticks.\nThere must have been about twenty of them.\nAnd they were all staring hard at the lunch.\nThose faces were each saying whatever they liked.\nI froze up again.\nJust then, Sanae suddenly grabbed my hand.{p}"
+  },
+  {
+   "id": "36:4184",
+   "op": "text",
+   "en": "Then she looked at me and smiled.\n\"Grandma just said something.\nShe says you're going to meet a {f:boy|girl} soon, Reiko.\nThat {f:boy|girl} is in a really dangerous position right now.\nSo she told me to tell you to be careful, Reiko.\nBe careful, Reiko. Apparently that {f:boy|girl}'s name is {c}{f:|}.\"{p}"
+  },
+  {
+   "id": "36:42f8",
+   "op": "text",
+   "en": "...And that's the end of my story.\n{c}{f:|}.\nMeeting you like this can't be a coincidence, can it?\nI bet you don't believe it, but Sanae was giving a warning.\nYou've got some kind of secret, don't you?\nAm I wrong?\nWell, I don't know what it is.\nBut you'd better be careful.\nI don't really know the details myself.\nSo, whose story is next?\nI can't wait... Hee hee.{p}"
+  },
+  {
+   "id": "36:4468",
+   "op": "text",
+   "follows_choice": [
+    "36:19fc"
+   ],
+   "en": "Yeah.\nSo I quietly watched her for a while.\nThinking stuff like, if Sanae doesn't stop shaking, I'll have to go get the nurse.\n"
+  },
+  {
+   "id": "36:4504",
+   "op": "text",
+   "en": "Sanae kept on shaking and shaking.\nBut when I looked closer...\nIt didn't seem like she was shaking.\nIt was more like she was fiddling around with something under the blanket.\nI got the feeling I'd seen something I wasn't supposed to, so I ducked out of sight a bit.\nAnd then Sanae...\n"
+  },
+  {
+   "id": "36:4610",
+   "op": "text",
+   "en": "sat up all of a sudden and walked right out of the nurse's office.\nWith her face still pale.\nI wondered where she could be going when she felt so sick, but...\nI wanted to know what Sanae had been doing in the bed, so I checked the bed a little.\nAnd from inside the pillowcase...{p}"
+  },
+  {
+   "id": "36:471c",
+   "op": "text",
+   "en": "...Want to know?\nWhat'll you give me if I tell you?\nAhaha, kidding, kidding.\nSo, from inside the pillowcase, out came a little scrap of paper.\nIt looks like Sanae had been fiddling around under there to slip it in.{p}"
+  },
+  {
+   "id": "36:47dc",
+   "op": "text",
+   "en": "On that scrap of paper was one word:\n'Ketsu'\nThat's what was written on it.\nHey, what are you laughing at?\nI was really scared when I saw that paper, you know.{p}I mean, 'Ketsu'...\n"
+  },
+  {
+   "id": "36:4880",
+   "op": "choice",
+   "en": "It's 'ketsu' as in 'decide'"
+  },
+  {
+   "id": "36:4898",
+   "op": "choice",
+   "en": "It's slang for 'butt', right?"
+  },
+  {
+   "id": "36:48b0",
+   "op": "choice",
+   "en": "I'm pretty sure there's an idol by that name..."
+  },
+  {
+   "id": "36:48d0",
+   "op": "text",
+   "follows_choice": [
+    "36:4880"
+   ],
+   "en": "It means 'ketsu' as in 'decide,' right?\nHiding the word 'decide' in a bed...\nYou'd think she was brooding over something, wouldn't you?\nSo I got worried and went looking for Sanae.{p}"
+  },
+  {
+   "id": "36:499c",
+   "op": "text",
+   "en": "I thought maybe she'd gone back to the classroom, or if she was that desperate, maybe she was on the roof, so I looked all over.\nBut she wasn't there.\nShe wasn't anywhere.\nI was wandering up and down the hallway wondering what to do, when I heard a sound coming from the chemistry lab.\n"
+  },
+  {
+   "id": "36:4aa8",
+   "op": "text",
+   "en": "Clink, clunk... like that.\nThere wasn't any class in the chemistry lab at that hour.\nRight away, I thought,\nit might be Sanae.\nMaybe Sanae, troubled by something, was looking through the chemical cabinet to take some deadly chemical from the lab.\nSo I quietly peeked in.{p}"
+  },
+  {
+   "id": "36:4bb8",
+   "op": "text",
+   "en": "It was Sanae, all right.\nSanae took a bottle of some kind of powder off the shelf...\nShe stuck her middle finger in the bottle, stirred it a little, and licked the powder off her finger.\nOh no!\nI'd been watching with my breath held, so I missed my chance to stop her.\nIf that was poison, Sanae might die.\nThen Sanae staggered out of the chemistry lab again and went off somewhere.{p}"
+  },
+  {
+   "id": "36:4d48",
+   "op": "text",
+   "en": "I looked for the chemical Sanae had licked.\nAt the back of the chemical cabinet, where Sanae had been rummaging around, I looked for a bottle of that shape.\nInside the bottle was a brown powder...\nIt didn't have a label.{p}So what do you think I did?\n"
+  },
+  {
+   "id": "36:4e28",
+   "op": "choice",
+   "en": "Lick what's inside the bottle"
+  },
+  {
+   "id": "36:4e40",
+   "op": "choice",
+   "en": "Take the bottle to a teacher"
+  },
+  {
+   "id": "36:4e6c",
+   "op": "text",
+   "follows_choice": [
+    "36:4898"
+   ],
+   "en": "It means 'butt,' right?\nWhat would she put a word like that in a pillowcase for?\nKind of scary, don't you think?\nSanae was supposed to have come to the nurse's office because she felt sick, and she's slipping a scribble that says 'Ketsu' into the pillow...\nMaybe she wants to dream about butts?\nIf that's true, nothing could be scarier, right?\n.........\nBut that wasn't it.{p}"
+  },
+  {
+   "id": "36:4fb0",
+   "op": "text",
+   "en": "Ahaha...\nCould you tell it wasn't that?\nAt the time, I was thinking,\n(Butts, seriously...?)\nbut Sanae's face had been so pale that I got worried and went looking for her.{p}"
+  }
+ ]
+}

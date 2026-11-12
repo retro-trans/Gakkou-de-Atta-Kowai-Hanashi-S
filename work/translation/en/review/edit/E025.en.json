@@ -1,0 +1,750 @@
+{
+ "chunk": "E025",
+ "scene": "12",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "slices": [
+  "S052",
+  "S053"
+ ],
+ "prev": "E024",
+ "next": "E026",
+ "todo": [],
+ "rows": [
+  {
+   "id": "12:10cc",
+   "op": "text",
+   "en": "...So, it's finally my turn to speak.\nMy name is Shoji Arai.\nI'm a second-year.\nTell me, do you all like movies?\nI love them.\nFrench films in particular.\nEuropean cinema is wonderful, isn't it?\nThe images are beautiful and poetic; they cleanse the soul.\nWhat about you, {a}?{p}Do you like French films?\n"
+  },
+  {
+   "id": "12:11ec",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "12:11f4",
+   "op": "choice",
+   "en": "I don't like them"
+  },
+  {
+   "id": "12:11fc",
+   "op": "choice",
+   "en": "Neither, really"
+  },
+  {
+   "id": "12:120c",
+   "op": "choice",
+   "en": "I've never seen one"
+  },
+  {
+   "id": "12:1224",
+   "op": "text",
+   "en": "...What a pitiful person you are.\nTo think you've never yet encountered such splendor.\nYou really must see one.\nI'm sure you'll come to love them.\n...Could it be, {a}, that you dislike movies in general?\n",
+   "follows_choice": [
+    "12:120c"
+   ]
+  },
+  {
+   "id": "12:12d4",
+   "op": "choice",
+   "en": "I like movies"
+  },
+  {
+   "id": "12:12dc",
+   "op": "choice",
+   "en": "I don't like movies"
+  },
+  {
+   "id": "12:12e4",
+   "op": "choice",
+   "en": "Neither, really"
+  },
+  {
+   "id": "12:12f4",
+   "op": "text",
+   "en": "Oh, is that so?\nYou like movies, and yet you don't watch French films.\nWhat an odd person you are.\nBut then, everyone is different.{p}",
+   "follows_choice": [
+    "12:12d4"
+   ]
+  },
+  {
+   "id": "12:137c",
+   "op": "text",
+   "en": "Well, if you like movies, I think you and I will get along.\nSometime, let's sit down and talk about movies all night long.\nJust the two of us, until morning... heh heh.{p}"
+  },
+  {
+   "id": "12:1410",
+   "op": "text",
+   "en": "So, what genre of movies do you like?\n"
+  },
+  {
+   "id": "12:1444",
+   "op": "choice",
+   "en": "Action"
+  },
+  {
+   "id": "12:1450",
+   "op": "choice",
+   "en": "Sci-fi/Horror"
+  },
+  {
+   "id": "12:1460",
+   "op": "choice",
+   "en": "Suspense"
+  },
+  {
+   "id": "12:146c",
+   "op": "choice",
+   "en": "Love/Romance"
+  },
+  {
+   "id": "12:147c",
+   "op": "choice",
+   "en": "Drama"
+  },
+  {
+   "id": "12:1484",
+   "op": "choice",
+   "en": "Comedy"
+  },
+  {
+   "id": "12:1498",
+   "op": "text",
+   "en": "Heh heh... So you like sci-fi and horror?\nYou have rather vulgar taste, don't you?{p}",
+   "follows_choice": [
+    "12:1450"
+   ],
+   "returns": []
+  },
+  {
+   "id": "12:14f4",
+   "op": "text",
+   "en": "I don't much care for that type of film myself.\nAbove all, they have no class.\nThe story is just tacked on as an afterthought, and far too many of them rely on nothing but scares for the eye and special effects.\n...But movies are frightening, aren't they?\nNo, I don't mean horror movies.\nI mean film itself.\nDon't you think so?\nPeople have long said that photographs steal a person's soul, haven't they?\nNowadays we laugh that off as superstition, but back then people seriously believed it.\nThat every photo taken of you shortened your life, or that when three people are photographed together, the one in the middle dies young.\nBack then, I suppose photography must have seemed utterly uncanny.\nYour own image, sealed inside a single sheet of paper.\nIt truly was magic.\nAnd so everyone feared it.\nIt's the same with movies.\nWhen movies were first born, they caused quite a stir.\nFor example, a character in a film fires a gun right at the screen, you see?\nThey say the audience watching it fainted, thinking they'd been shot dead.\nPeople even believed that different people lived beyond that silver screen, and that they were watching the world those people lived in.\nNowadays no one believes that, of course.\n...But is it really a lie?\nWas what people believed back then truly just their imagination?\nI can't quite bring myself to think so.\nSometimes film captures things that should never be filmed, or strange things that don't exist in reality...\nI can't shake the feeling that film has that kind of uncanny power.\nWhat I'm about to tell you is the story of one such movie.{p}"
+  },
+  {
+   "id": "12:1ae8",
+   "op": "text",
+   "en": "There was a boy in my class named Yasuo Tokita.\nHe loved movies like no one else, and he often talked to me about them.\nAnd my, did he know a lot.\nA real film fanatic, I suppose you'd call him.\nI thought I knew quite a lot myself, but there's always someone better.\nHe had me beat.\nThere was hardly a movie he hadn't seen.\nEven when I did desperate research, trying to show him up, it was no use.\nThere's the expression \"walking encyclopedia,\" and when it came to movies, that's exactly what he was.\nBeing such a movie lover, Tokita deeply regretted that our school had no film club of any kind.\nAfter all, his dream, of course, was to become a film director.\nSo he went and started one himself.\nBack then, we were first-years.{p}"
+  },
+  {
+   "id": "12:1d88",
+   "op": "text",
+   "en": "Even so, Tokita actively reached out to upperclassmen and teachers, and in no time at all he'd founded a film society.\nNaturally, it couldn't become an official club right away.\nIt turns out there are quite a lot of movie lovers, if you look for them.\nAll told, about twenty people joined, I heard.\nHe was overjoyed.{p}"
+  },
+  {
+   "id": "12:1eac",
+   "op": "text",
+   "en": "He brought most of the filming equipment himself.\nThough by equipment, I just mean an 8mm camera and some simple lighting gear.\nAnd by 8mm, I don't mean the kind of video camera everyone uses now.\nI mean an old-fashioned handheld 8mm film camera.\nYou don't see many of those these days.\nEven so, the members were thrilled, I hear.\nAfter all, they got to play at making a real movie.\nThey felt a bit like professionals.{p}"
+  },
+  {
+   "id": "12:2038",
+   "op": "text",
+   "en": "Hm?\nMe?\nDid I join that Film Research Society, you ask?\nNo, I didn't.\nI was in the soccer club, you see.\nIs it funny, me being in the soccer club?\nWell, that's a story for another time.\nBy the way, what about you?{p}Would you be interested in a film research society?\n"
+  },
+  {
+   "id": "12:2138",
+   "op": "choice",
+   "en": "I'm interested"
+  },
+  {
+   "id": "12:2140",
+   "op": "choice",
+   "en": "I'm not interested"
+  },
+  {
+   "id": "12:2148",
+   "op": "text",
+   "en": "I see.\nSo you're interested.\nThen if it were you, what job would you want to take on?\nThere are so many jobs in filmmaking, after all.{p}",
+   "follows_choice": [
+    "12:2138"
+   ]
+  },
+  {
+   "id": "12:21c0",
+   "op": "choice",
+   "en": "Actor"
+  },
+  {
+   "id": "12:21c8",
+   "op": "choice",
+   "en": "Director"
+  },
+  {
+   "id": "12:21d0",
+   "op": "choice",
+   "en": "Cameraman"
+  },
+  {
+   "id": "12:21dc",
+   "op": "choice",
+   "en": "Producer"
+  },
+  {
+   "id": "12:21ec",
+   "op": "choice",
+   "en": "Screenwriter"
+  },
+  {
+   "id": "12:21f4",
+   "op": "choice",
+   "en": "Behind-the-scenes crew"
+  },
+  {
+   "id": "12:2204",
+   "op": "text",
+   "en": "Oh, you're quite the connoisseur.\nWell, whether a movie turns out good or bad is decided almost entirely by the director.{p}",
+   "follows_choice": [
+    "12:21c8"
+   ]
+  },
+  {
+   "id": "12:2270",
+   "op": "text",
+   "en": "But it seems most people say actor.\nActors stand out, after all; it's flashy and glamorous.\nAnd the actors are the ones who become popular.\nIf you screened your own movie at the school festival, whoever played the lead would become a star.\nProvided the movie was any good, of course.\nStarstruck types watch movies for the actors.\nBut connoisseurs watch them for the director.\nNaturally, Tokita wanted to direct.\nWell, I suppose most of the people who joined were the starstruck type.{p}"
+  },
+  {
+   "id": "12:243c",
+   "op": "text",
+   "en": "Nearly all of them wanted to act, and besides, Tokita was the society's founder.\nAnd he was the one who'd brought the equipment, too.\nThe upperclassmen gladly agreed to let him direct.{p}"
+  },
+  {
+   "id": "12:24fc",
+   "op": "text",
+   "en": "And so filming began on the society's memorable first production.\nI think it was right around this time last year.\n...You like horror and sci-fi movies, didn't you say?\nAs it happens, so did he.\nThe movie he set out to make was a horror film titled 'The Mummy Man and the Beauty.'\nNow, don't laugh at the title.\nWhat he wanted to make wasn't one of today's SFX films loaded with special effects; if anything, he wanted to make an old-fashioned monster movie from the golden age.\nNot that he could have pulled off flashy special effects even if he'd tried.\nSo instead of fussing over that sort of thing, he poured himself into dark direction and atmosphere, so that even a cheap monster in a simple costume and makeup would look real.{p}",
+   "returns": [
+    "12:24fc: RETURN - 'You like horror and sci-fi movies, didn't you say?' / 'As it happens, so did he.' tense mismatch for editorial."
+   ]
+  },
+  {
+   "id": "12:27a8",
+   "op": "text",
+   "en": "He worked truly hard at it.\nPeople who are eager at first gradually lose interest; that's how it goes.\nIn the end, they only do what they want to, and won't touch anything that bores them or takes real work.\nMost of them had joined half for fun, after all.\nEven so, Tokita kept at it, helped by the very few who shared his ambition, handling everything from odd jobs to acting.\nIn my heart, I was cheering him on.\nWhat was the movie about?\nTokita wrote the script too.\nThe basic plot goes like this.{p}"
+  },
+  {
+   "id": "12:297c",
+   "op": "text",
+   "en": "A mummy brought over from Egypt comes back to life and searches for the reincarnation of the princess it once served.\nIn the end, it turns her into a mummy too, places her in its own coffin with it, and the two of them return to Egypt together.\nSimple, isn't it?\nWell, the actors were all hams.\nAnd they were students, too.\nMost of it is set in the school.\nSo the heroine is a student at this school, too, wearing a sailor uniform.\nAnd she's supposed to be the reincarnation of an Egyptian princess.\nRather a dubious premise, isn't it?\nEven so, somehow or other, they finished filming.{p}"
+  },
+  {
+   "id": "12:2b88",
+   "op": "text",
+   "en": "But that's when the hard part begins.\nYou probably think that once you've shot it, the movie is done, but you'd be dead wrong.\nWhether it turns out interesting or not depends entirely on the editing that comes next.\nYou take all the scattered scenes captured on the film you've shot and splice them together, one by one.\nAnd then a single movie is complete.\nApparently, it's work that takes a great deal of patience.\nThough for someone who loves it, I suppose it's irresistibly fun.\nAnd Tokita was one of those people.\nHe threw himself into the editing, losing all track of time.{p}"
+  },
+  {
+   "id": "12:2d88",
+   "op": "text",
+   "en": "\"...Huh?\nThat's weird.\nDid I shoot a scene like this?\"\nLooking at one of the reels, he tilted his head, puzzled.\nIt was a scene with the Mummy Man.\nThe scene where the Mummy Man lumbers around in the dark, searching for the reincarnated princess.\nHe had indeed shot a similar scene, but this one matched neither his memory nor his storyboards.\nWhen you make a movie, you first draw up what's called a storyboard.\nThen you shoot each scene to match it.\nOtherwise, by the time you finish shooting, you can't make heads or tails of anything, and you can't shoot efficiently in the limited time you have.{p}"
+  },
+  {
+   "id": "12:2fbc",
+   "op": "text",
+   "en": "\"I'm sure the scene I shot was a long shot of the mummy from far away...\nBut here the mummy's in close-up.\"\nHe found himself staring at the film, transfixed.{p}"
+  },
+  {
+   "id": "12:3078",
+   "op": "text",
+   "en": "The film clearly showed the mummy's face.\nAnd it was far more grotesque and realistic than the makeup he had applied.\nEven Tokita, who must have seen countless horror movies, felt a chill run down his spine when he saw that film.\nThat's how well it was shot.\nHe had no memory of shooting a cut like that.\nBut maybe he was misremembering.\nThere was no way Tokita wouldn't use a scene that good.\nHe edited it in.{p}"
+  },
+  {
+   "id": "12:3254",
+   "op": "text",
+   "en": "But the next day, while looking at some other film, he found yet another scene he didn't remember shooting.\nWhen you shoot a movie, you run many times more film than the actual running time.\nSo you end up with a huge number of reels.\nThis was the scene where a detective investigating a mysterious string of murders is killed by the Mummy Man.{p}"
+  },
+  {
+   "id": "12:3398",
+   "op": "text",
+   "en": "Of course, the detective was played by one of the film society members.\nThe actual death scene was a simple one.\nThe detective, attacked by the mummy, runs away.\nThe mummy's hands reach for the detective's neck, and the screen goes black.\nThen comes the detective's scream.{p}"
+  },
+  {
+   "id": "12:3480",
+   "op": "text",
+   "en": "After that, a close-up of the mummy's bloodied hands.{p}"
+  },
+  {
+   "id": "12:34b8",
+   "op": "text",
+   "en": "Yet that film clearly showed the detective dying.\nAnd how realistic it was!\nThe detective barely had any screen time.\nYou see, the boy who played him was such a terrible actor that they couldn't give him much screen time.\nAnd yet here was an utterly convincing performance.\nThe detective being strangled by the mummy, his face twisted in agony.\nThen a single thread of bright red blood spilling from the corner of his mouth.\nThe detective collapsing to the ground and going still.\nOne cut after another like that appeared on the screen.{p}"
+  },
+  {
+   "id": "12:3694",
+   "op": "text",
+   "en": "This time there was no doubt about it: he had never shot a scene like this.\nBut it was truly well done.\nSo, without hesitation, he edited that scene in too, and put it in the final cut.{p}"
+  },
+  {
+   "id": "12:3750",
+   "op": "text",
+   "en": "It was the very next day.\n"
+  },
+  {
+   "id": "12:3774",
+   "op": "text",
+   "en": "The student who played the detective was killed.\n"
+  },
+  {
+   "id": "12:37ac",
+   "op": "text",
+   "en": "Strangled, you see.\n"
+  },
+  {
+   "id": "12:37c4",
+   "op": "text",
+   "en": "When Tokita heard how it happened, he couldn't believe his ears.\nIt was exactly like that scene, wasn't it?\nApparently, no one knows who strangled him.\nAfter all, he had been asleep alone in his own room in the middle of the night.\nThere was no sign that anyone had snuck in, and the room hadn't been disturbed.\nSo naturally, suspicion falls on the family.\nTokita grew terrified.\nWhat if he had died because Tokita had watched that film...\nWhat if this was the mummy's curse...\nWhat would you think, in his place?\nWould you want to keep editing that movie?{p}If you did, something even stranger might show up on the film.\n"
+  },
+  {
+   "id": "12:3a0c",
+   "op": "choice",
+   "en": "Keep editing"
+  },
+  {
+   "id": "12:3a1c",
+   "op": "choice",
+   "en": "Stop editing now"
+  },
+  {
+   "id": "12:3a3c",
+   "op": "text",
+   "en": "Heh heh... How cruel you are.\nWith a personality like that, I won't be responsible for what becomes of you.\nBut Tokita was the same.\nHe loved movies to death, after all.\nThis movie might become a masterpiece for the ages.\nWhen he thought that, he wanted to keep editing more than anything.{p}",
+   "follows_choice": [
+    "12:3a0c"
+   ]
+  },
+  {
+   "id": "12:3b48",
+   "op": "text",
+   "en": "And sure enough, the film he watched that day had something even stranger on it.\n"
+  },
+  {
+   "id": "12:3b9c",
+   "op": "text",
+   "en": "This time, it was the scene where the heroine, the reincarnated princess, is shut inside the coffin.\nIn the script, she sees the mummy, faints from sheer terror, and is then shut inside the mummy's coffin.{p}"
+  },
+  {
+   "id": "12:3c60",
+   "op": "text",
+   "en": "But what do you know?\nWhat that film showed was a scene of cruelty so savage you'd want to look away.{p}"
+  },
+  {
+   "id": "12:3ce0",
+   "op": "text",
+   "en": "The mummy squeezed her in its arms so hard that it crushed her insides.\nAnd then, of all things, it began tearing off her arms and legs.\nOne by one, carefully.\nShe wasn't dead yet.\nShe twisted her bloodied body, thrashing desperately to get away from the mummy.\nBut it was no use.\nOnce the mummy had torn off every last one of her limbs, it tossed them into the coffin.\nThen, at last, it twisted off her head and carelessly threw the rest of her body into the coffin.\nAnd then it rubbed its cheek against her head and hugged it close.{p}"
+  },
+  {
+   "id": "12:3ec0",
+   "op": "text",
+   "en": "And with that, the film ended.\nTokita stared at the scene, stunned.\nThere are all sorts of horror movies, and the ones with one bloody scene after another are called splatter films, or gore flicks.\nBut the images now burned into Tokita's mind were beyond anything such feeble terms could describe.\n\"...I've never seen a movie like this.\"\nIt's strange, considering he was supposedly the one filming it.\nThe movie had taken on a life of its own.\nThat's what Tokita thought, and he watched the scene over and over again.\nNo matter how many times he watched it, it never lost its freshness.{p}"
+  },
+  {
+   "id": "12:40cc",
+   "op": "text",
+   "en": "And each time he watched it, a different terror seized him.\nThis was more convincing acting than he'd seen in any movie.\n{g}And the makeup was magnificent.{p}"
+  },
+  {
+   "id": "12:416c",
+   "op": "text",
+   "en": "Naturally, he used that scene for the movie's climax.\nOf course, there was no way a movie with such extreme gore spliced into it could be screened at school.\nEven so, he was satisfied.\nHe was convinced that, as an independent film, it would succeed wherever he pitched it.{p}"
+  },
+  {
+   "id": "12:426c",
+   "op": "text",
+   "en": "It was the very next day.{p}"
+  },
+  {
+   "id": "12:4290",
+   "op": "text",
+   "en": "...I'm sure you've guessed by now.\nThe girl who played the heroine was found brutally murdered.\nThey say her body was in pieces.\nOf course, I never heard the details, but Tokita knew.\nWhat state the body was in, and how she was killed.\nAnd that the proof was all recorded on that reel.\nIt was after school that very day, as I recall.\nThat Tokita came up to me and told me how realistic and amazing this movie was.{p}"
+  },
+  {
+   "id": "12:4458",
+   "op": "text",
+   "en": "\"I'm making an amazing movie right now.\nIt's a masterpiece, no doubt about it.\nIt's going to go down in history.\n...You like movies, don't you?\nIf you want, I could show you a little of what I'm editing.\"\nThat's how I came to hear about this movie.\nI gladly tagged along after him.\nI was so excited.\n...Well?\nIf you got an invitation like that, would you have high hopes for the movie?{p}Or would you sneer at it, figuring it's just some amateur production anyway?\n"
+  },
+  {
+   "id": "12:45fc",
+   "op": "choice",
+   "en": "I'd have high hopes"
+  },
+  {
+   "id": "12:460c",
+   "op": "choice",
+   "en": "I'd sneer at it"
+  },
+  {
+   "id": "12:4618",
+   "op": "choice",
+   "en": "I can't tell until I see it"
+  },
+  {
+   "id": "12:4634",
+   "op": "text",
+   "en": "You would, wouldn't you?\nAnyone who heard him talk like that couldn't just sit still.\nNot a true movie lover, anyway.{p}",
+   "follows_choice": [
+    "12:45fc"
+   ]
+  },
+  {
+   "id": "12:46b0",
+   "op": "text",
+   "en": "The Film Research Society was allowed to use the audiovisual room after school.\nIt couldn't become an official club yet, you see, so it had no club room of its own.\nHe began editing with practiced hands.\n\"Today, as a special treat, I'll show you a new scene before it's been edited.\nThe climax is ferocious, but you'll have to wait for the finished film to enjoy that.\"\nThen he pulled one reel out of the mountain of film piled up there.{p}"
+  },
+  {
+   "id": "12:4828",
+   "op": "text",
+   "en": "\"...I haven't edited this one yet.\nLet's watch this one today.\"{p}"
+  },
+  {
+   "id": "12:4878",
+   "op": "text",
+   "en": "It's a strange feeling, watching a film that isn't finished yet.\nIt was the first time I'd ever seen one, after all.\nIt felt very fresh.{p}"
+  },
+  {
+   "id": "12:48f4",
+   "op": "text",
+   "en": "The clapperboard filled the screen, and the acting began.\nTake after take was called off, the same scene repeating again and again.\nIt's fascinating, you know.\n\"...Ah!\"{p}"
+  },
+  {
+   "id": "12:4984",
+   "op": "text",
+   "en": "Suddenly, for some reason, Tokita cried out.\n\"What's wrong?\"\nI had no idea what had happened, and the question slipped out of me before I could think.{p}"
+  },
+  {
+   "id": "12:4a10",
+   "op": "text",
+   "en": "\"...That's me on there.\n"
+  },
+  {
+   "id": "12:4a28",
+   "op": "text",
+   "en": "I have to stop it!\n"
+  },
+  {
+   "id": "12:4a38",
+   "op": "text",
+   "en": "I have to stop it, now!\"\nI had no idea at all what he was panicking about.{p}"
+  },
+  {
+   "id": "12:4a9c",
+   "op": "text",
+   "en": "Tokita was frantically trying to stop the editing equipment.\n"
+  },
+  {
+   "id": "12:4ad8",
+   "op": "text",
+   "en": "He should have been used to handling machines like that, yet maybe his fingers were shaking, because he didn't seem able to work it properly.{p}"
+  },
+  {
+   "id": "12:4b4c",
+   "op": "text",
+   "en": "\"It won't stop... The machine won't stop!\"\n"
+  },
+  {
+   "id": "12:4b84",
+   "op": "text",
+   "en": "His face had gone deathly pale.\nStartled, I looked back and forth between the screen and his face.{p}"
+  },
+  {
+   "id": "12:4bdc",
+   "op": "text",
+   "en": "On the screen were Tokita and the mummy.\n\"...That's amazing.\nThat's a really well-made mummy.\"\nI honestly thought so.\nIt didn't look fake at all. It was as realistic as the real thing.{p}"
+  },
+  {
+   "id": "12:4ca8",
+   "op": "text",
+   "en": "\"It's going to kill me!\nIf I don't stop it fast, the mummy's going to kill me!\nEveryone dies.\nEveryone who gets attacked in this film really dies!\"\nTokita screamed in a trembling voice.\nHonestly, I didn't understand.\nIt was at that moment.\nHe told me the secret of this film.\nIf someone told you something like that, could you believe it?\nI'm sorry, but I couldn't.\nPeople dying exactly the way it happened in a film? Surely not.\nOn the screen, Tokita was quaking with terror.\nJust like the real one standing right in front of me...\n\"Eeeeek!\"{p}"
+  },
+  {
+   "id": "12:4ed4",
+   "op": "text",
+   "en": "At last, he yanked out the plug.\nBut what do you think happened?{p}"
+  },
+  {
+   "id": "12:4f20",
+   "op": "text",
+   "en": "The editing equipment was still running.\nEven though he had pulled the plug.\n\"Aaaah!\"\nHe clutched his head and crouched down right where he stood.\nThe Tokita on the screen was doing exactly the same thing.\nAfter all, Tokita was the only one who knew the film's scenes.\nI thought he was trying to scare me, so I did my best to stay calm.{p}"
+  },
+  {
+   "id": "12:5064",
+   "op": "text",
+   "en": "But it was right then.\nSuddenly, a hand covered in bandages thrust out of the darkness and seized Tokita by the neck.\nI couldn't do a thing.\nIt was all too much. I could only stand there, frozen.\nThen, after the bandaged hand, a mummy with bandages wound around its face emerged from the darkness.\nThe eyeballs peering out between the roughly wound bandages were dull and clouded, like a dead fish's.{p}"
+  },
+  {
+   "id": "12:51fc",
+   "op": "text",
+   "en": "\"AAAAAAAAAGH!\"\nTokita's death scream echoed through the audiovisual room.{p}"
+  },
+  {
+   "id": "12:5260",
+   "op": "text",
+   "en": "The mummy's hand gripped Tokita's head and crushed it.\nThe mummy crushed Tokita's head as easily as a mandarin orange.\nWhat was left of Tokita, changed beyond recognition, looked like a split watermelon.\nEven with his head crushed, Tokita's body was still twitching and trembling.{p}"
+  },
+  {
+   "id": "12:5374",
+   "op": "text",
+   "en": "I couldn't do anything. I just stood there.\nWhen I suddenly came to my senses, the mummy was gone.\nIt had vanished, as if it had melted into the darkness.\nAll that was left behind was Tokita's corpse.{p}"
+  },
+  {
+   "id": "12:5450",
+   "op": "text",
+   "en": "And the editing screen showed Tokita lying dead in exactly the same pose, stopped on that very scene.\n"
+  },
+  {
+   "id": "12:54cc",
+   "op": "text",
+   "en": "I ran.{p}"
+  },
+  {
+   "id": "12:54e4",
+   "op": "text",
+   "en": "And I went straight home.\nNo matter who I told, nobody would believe a story like this.\nI decided I had seen nothing, and heard nothing.{p}"
+  },
+  {
+   "id": "12:559c",
+   "op": "text",
+   "en": "...Say, {a}.{p}Would you want to see that film?\n"
+  },
+  {
+   "id": "12:55dc",
+   "op": "choice",
+   "en": "I'd like to see it"
+  },
+  {
+   "id": "12:55e8",
+   "op": "choice",
+   "en": "I don't want to see it"
+  },
+  {
+   "id": "12:55f4",
+   "op": "text",
+   "en": "I see.\nI thought so.\nYou like horror films, after all.\nYou'd want to see just how incredible the footage on it was, I'm sure.\nBut you know, Tokita's death at school caused quite a stir, and yet the dozens of reels of film in the audiovisual room vanished without a trace, as if they had never been there at all.{p}",
+   "follows_choice": [
+    "12:55dc"
+   ]
+  },
+  {
+   "id": "12:5734",
+   "op": "text",
+   "en": "And with Tokita's death, the Film Research Society was disbanded too.\nNone of the Film Research Society's members knew anything about that film.\nWhat was that film, I wonder?\nIf that film has been completed somewhere, I'd very much like to see it...{p}"
+  },
+  {
+   "id": "12:5830",
+   "op": "text",
+   "en": "By the way, I ended up taking one reel of that film with me.\n"
+  },
+  {
+   "id": "12:5888",
+   "op": "text",
+   "en": "Did I take it home without realizing, or did someone quietly slip it into my pocket?\nIt was the reel with the scene where Tokita is killed.\nYes, the very same film I saw in the audiovisual room.{p}"
+  },
+  {
+   "id": "12:5944",
+   "op": "text",
+   "en": "Would you like to see just this one reel, at least?\n"
+  },
+  {
+   "id": "12:5970",
+   "op": "choice",
+   "en": "I'd love to see it"
+  },
+  {
+   "id": "12:597c",
+   "op": "choice",
+   "en": "I don't need to see it"
+  },
+  {
+   "id": "12:5990",
+   "op": "text",
+   "en": "I see.\nBut this is the one thing I can't show you.\nThe truth is, that scene was so incredible it was burned into my eyes, so I went to the trouble of buying an 8mm projector and watched it at home.\nIt was all there, clear as day.\nThe sight of Tokita being killed, just as I saw it with my own eyes.{p}",
+   "follows_choice": [
+    "12:5970"
+   ]
+  },
+  {
+   "id": "12:5a88",
+   "op": "text",
+   "en": "But then, how can this be?\nWhen I watched it again a while later, Tokita's murdered body was rotting more and more.\nAs if the world inside that film existed with its time flowing just like time in the real world.{p}"
+  },
+  {
+   "id": "12:5b5c",
+   "op": "text",
+   "en": "After that, I started watching the film at regular intervals.\nAs if I were observing it.\nAs the months went by, Tokita turned completely into a skeleton.\nAnd before I knew it, there was no one on the screen anymore.\nThe bones were cleanly gone too, whether they'd crumbled away or someone had cleared them up.\nNot a single bone was left.\nJust the empty audiovisual room, shown flatly, on and on.\nBut when I looked closely, it wasn't so.\nI was wrong to think no one was there.\nRight beside the spot where Tokita's body had been, someone was standing there, blankly.{p}"
+  },
+  {
+   "id": "12:5d7c",
+   "op": "text",
+   "en": "...It was me.\nAs if it were reenacting what happened that day.\nAnd behind me, an eerie bandaged hand was just about to reach out.\nI hurriedly stopped the projector.\nI wondered what I would do if it didn't stop, but luckily, it did.\nThat's why I'm still alive here today.\nWhen I think of what would have happened if the machine hadn't stopped, like that time in the audiovisual room... it still makes my blood run cold.\nThat's why I will never watch that film again.\nIf I did, it would surely be my turn to die.\nI can't bring myself to throw it away either, so I keep it carefully at the back of a drawer.{p}"
+  },
+  {
+   "id": "12:5fd0",
+   "op": "text",
+   "en": "All the while wondering what I'd do if someone ever watched it.\nThe terror of always living side by side with death... none of you could understand that, I suppose.\n...That's how it always is for me.\nBecause of that living film.\nWhether it's the mummy's curse or the film's curse, I can't tell.{p}"
+  },
+  {
+   "id": "12:60e4",
+   "op": "text",
+   "en": "But what became of the film that disappeared back then?\nIs it still passing from hand to hand, even now?\nMaybe the reason people die is really no more than that.\nSomewhere, someone quietly watches the footage of the moment you die.\nIt's a cursed film, after all.{p}"
+  },
+  {
+   "id": "12:6204",
+   "op": "text",
+   "en": "Perhaps it has changed its form.\nNot 8mm film anymore, but a videotape...\nAnd perhaps it has found its way into your home.\nIf you ever find an old videotape with no title label on it, be careful.\nThere's no guarantee that it's a tape of yours...\nAnd with that, I'll end my story.{p}"
+  },
+  {
+   "id": "12:6354",
+   "op": "text",
+   "en": "So, at last, it's the final person's turn.\n...I'm looking forward to it.\nHehehehehe...{p}"
+  },
+  {
+   "id": "12:63a0",
+   "op": "text",
+   "en": "I see.\nTo think there'd be another French-film lover here...\nThat's right.\nFrench films choose their audience.\nEven in my circle, film buff that I am, only two or three people can understand that poetic world.\nWhich makes you, {a}, one of those precious few.{p}",
+   "follows_choice": [
+    "12:11ec"
+   ]
+  },
+  {
+   "id": "12:64ac",
+   "op": "text",
+   "en": "By the way, {a}, what other kinds of films do you like?{p}"
+  },
+  {
+   "id": "12:64ec",
+   "op": "text",
+   "en": "...You dislike them?\nI see. That's a shame.\nFrench films do choose their audience, after all.\nWhenever I ask people if they like French films, they all tell me the images are beautiful.\nBut most of them say they can't understand what the film is about, or what's so interesting about it...\nSadly...\nBy the way, {a}, could it be that you dislike films altogether?{p}",
+   "follows_choice": [
+    "12:11f4"
+   ]
+  },
+  {
+   "id": "12:6654",
+   "op": "text",
+   "en": "Well, well...\nThis is a golden opportunity to make another French-film lover.\nThere are all sorts of French films, you know.\nSome don't go over well with ordinary audiences, but others have popular appeal.\nNext time, I'll pick out some French films I recommend for you.\nYou have my guarantee.\nYou're sure to love them.{p}",
+   "follows_choice": [
+    "12:11fc"
+   ]
+  },
+  {
+   "id": "12:67a0",
+   "op": "text",
+   "en": "By the way, {a}, what kinds of films do you like?{p}"
+  },
+  {
+   "id": "12:67e8",
+   "op": "text",
+   "en": "You dislike them?\nI think films are wonderful things, myself.{p}",
+   "follows_choice": [
+    "12:12dc"
+   ]
+  },
+  {
+   "id": "12:6830",
+   "op": "text",
+   "en": "If it's the usual sort of film, then...\nToday, let me tell you about a student at this school named Tokita.{p}"
+  },
+  {
+   "id": "12:68a0",
+   "op": "text",
+   "en": "He was the kind of student who would stay up all night watching films and then doze off at school.\nIt wasn't that the teachers never scolded him, but Tokita's grades were decent, so they mostly let it slide.\nNo matter how much you love films, there's only so much you can buy or rent on a high schooler's allowance.\nSo he recorded TV broadcasts himself, and asked friends who had satellite or cable TV at home to tape things for him.\nWell, the friends who had gladly agreed at first gradually started finding it a hassle.\nStill, maybe it was down to Tokita's good nature.\nHis friends only made half-joking snide remarks, and kept recording for him.\nThen, one day...{p}"
+  },
+  {
+   "id": "12:6af8",
+   "op": "text",
+   "en": "As usual, Tokita was in the classroom after school, excitedly looking over the videotapes he had received that day.\nFor someone who loves films, just sitting in front of a pile of tapes wondering which one to watch is pure bliss.\nThen, when he looked at the last tape he took out, it had no title.{p}"
+  },
+  {
+   "id": "12:6c1c",
+   "op": "text",
+   "en": "\"Huh? There's no title...\"\nA few times before, he had borrowed tapes where someone had forgotten to write the title.\nEach time, not knowing what was on them had driven him crazy.{p}This time too, he couldn't stop wondering about it.\n"
+  },
+  {
+   "id": "12:6cf0",
+   "op": "choice",
+   "en": "Hurry home and check it"
+  },
+  {
+   "id": "12:6d0c",
+   "op": "choice",
+   "en": "Check it in the audiovisual room"
+  },
+  {
+   "id": "12:6d20",
+   "op": "text",
+   "en": "Curious about what was on it, he hurried home.\nAnd once he got home, he checked the tape.{p}",
+   "follows_choice": [
+    "12:6cf0"
+   ]
+  },
+  {
+   "id": "12:6d98",
+   "op": "text",
+   "en": "The tape showed nothing but ordinary scenes of the school.\nTokita assumed it was a home video someone had shot.\n\"I'll ask around whose it is and give it back.\"\nA film or a TV recording is one thing, but with home video footage, you feel guilty, as if you were peeking into someone's diary.\nThinking that, he put it in his bag.{p}"
+  },
+  {
+   "id": "12:6ee0",
+   "op": "text",
+   "en": "The next day at school, he asked the people who had recorded for him about the tape.\nBut none of them recognized it.\nTokita was at a loss, and searched hard for the owner.\nWell, most people would just think it was fine to wait for someone to come forward.\nI suppose that's why nobody ever disliked Tokita.\nBut in the end, the owner was never found.{p}"
+  },
+  {
+   "id": "12:7030",
+   "op": "text",
+   "en": "Then he went home.\nEven at home, he couldn't stop thinking about the tape.\n\"Maybe if I watch what's on it, I'll find out whose it is.\"\nOnce he thought that, he was seized by the temptation to see what was on it.\nHe was so into films, after all, so maybe it was only natural that a devil would whisper to him to watch it.\nMaybe there was a film recorded after the home video scenes he'd seen yesterday.\nThe more he imagined things like that, the more his desire to watch it swelled up inside him.\nAnd at last, he put the video into the deck and decided to watch it.{p}"
+  },
+  {
+   "id": "12:726c",
+   "op": "text",
+   "en": "The footage showed the school grounds, the same as yesterday.\n\"Huh, I'm in this.\"\nOn the screen was Tokita himself, looking for the videotape's owner earlier that day.\n\"But this tape got mixed in with mine yesterday...\"{p}"
+  },
+  {
+   "id": "12:7348",
+   "op": "text",
+   "en": "The video went on, and night fell.\n\"That's weird. It should still be light outside.\"\nWhen he looked at his window, the evening sun was streaming in.\nTokita realized he had been assuming the video was shot today, and found it funny.\n\"How dumb can I be? There's no way this was shot today.\"\nAnd the footage rolled on.{p}"
+  },
+  {
+   "id": "12:748c",
+   "op": "text",
+   "en": "Some kind of white figure appeared.\n\"Who's that?\"\nTokita followed the footage.\nThe figure gradually grew clearer.{p}"
+  },
+  {
+   "id": "12:751c",
+   "op": "text",
+   "en": "\"A mummy man... So this was a film after all?\"\nBy now, he was in the mood for watching a film.\nHe was watching the cruel scenes unfolding on the video with an appreciative eye.\nHe had already broken free of the delusion that it was real footage of today.\nThen the video ended.{p}"
+  },
+  {
+   "id": "12:762c",
+   "op": "text",
+   "en": "For a while, Tokita just sat there in a daze.\nBecause amid the clumsy direction, scenes with a force like nothing he had ever seen had unfolded.\nThe mummy man had chased a high school girl and mercilessly torn her apart until she died.\n\"It must be an indie film.\nIf the school is the setting, someone connected with the school must have made it.\"\nOnce he thought that, he couldn't rest until he had found the tape's owner.\nHe wanted to see what came next... no, he wanted to see the finished film. With that thought, he went to bed.\nAnd it was already starting to get light by the time he finally drifted off to sleep.{p}"
+  },
+  {
+   "id": "12:7848",
+   "op": "text",
+   "en": "The next day, when he got to school bleary-eyed, a high school girl had been killed.\nTorn apart, mercilessly, at that...\nPassing by, Tokita instinctively looked away.{p}"
+  },
+  {
+   "id": "12:7908",
+   "op": "text",
+   "en": "Then, keeping his eyes on the ground, he hurried toward his classroom.\nIt was just as he was about to enter the school building.{p}"
+  },
+  {
+   "id": "12:7978",
+   "op": "text",
+   "en": "Lying in a corner of the ground there was a scrap of bandage.\nAt that moment, Tokita understood.\nThe footage on that video had really happened.\nAnd from then on, he couldn't get the scenes from that video out of his head.\nApparently the police investigated the murder as the work of a deranged person.\nBut Tokita alone was certain the truth of the case lay elsewhere.{p}"
+  },
+  {
+   "id": "12:7ac8",
+   "op": "text",
+   "en": "He went home and sat thinking in front of the video.\nThat tape had gotten mixed in with his the day before yesterday.\nBut the incident must have happened last night.\nThen what was it that had been recorded on that tape?\nStill, no matter how he thought about it, it had to be a scene of last night's murder.\nI have to check, he thought.\nAnd he played the video once more.{p}"
+  },
+  {
+   "id": "12:7c24",
+   "op": "text",
+   "en": "It was the same schoolyard scene he had seen yesterday.\nThen came night, the area deserted and hushed.\n\"Now comes the killing.\"{p}"
+  },
+  {
+   "id": "12:7ca8",
+   "op": "text",
+   "en": "A figure came into view.{p}"
+  },
+  {
+   "id": "12:7ccc",
+   "op": "text",
+   "en": "And then, the mummy man.\n\"Huh.........?\"{p}"
+  }
+ ]
+}

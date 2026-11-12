@@ -1,0 +1,12 @@
+{
+ "rows": {
+  "55:0ff0": "So then, why did I bring up a story like that...?\nThe truth is, there's one at this school too.\nA yokai that appears when three o'clock comes............\nThat yokai...\nI call it 'the Three O'Clock Phantom,' but it seems very few people know it exists.\nWell, that's only natural.\nThis phantom very rarely shows itself, you see.\nFor the Three O'Clock Phantom to appear, a certain condition has to be met.\nAnd that condition is...{p}{a}, what do you think it might be?\n",
+  "55:1f00": "You're saying we should wait a little longer?\nYou have quite a persistent nature.\nJust what I'd expect from a newspaper club member.{p}",
+  "55:1f74": "...But let's give up for today.\nIt's not good to stay at school too late, after all.\nWell then, this brings my story to............\nJust as Arai was saying that and looked down...!{p}",
+  "55:27b8": "\"{a}... {a}...\"\nSomeone was calling me............\n...Arai's voice?{p}"
+ },
+ "notes": [
+  "55:1f00: TODO - removed the opening quote. Arai's storytelling is unquoted everywhere else in this scene (e.g. 1dd8), and the other two branches into 1f74 (S208 55:6d14 after 1e94, 55:6eb0 after 1ea8) open no quote.",
+  "55:1f74: TODO - removed the closing quote (the source has 」 here, but its matching 「 is only on the 1ec0 branch). All three branches now read the same: unquoted Arai speech, then narration. S208 6d14/6eb0 need no change. Also settles the S208 todo item."
+ ]
+}

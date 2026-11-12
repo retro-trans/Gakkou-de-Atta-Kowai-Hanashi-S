@@ -1,0 +1,24 @@
+{
+ "rows": {
+  "35:4590": "............{f:I|I} was alive.\nBut I couldn't move my arms or legs.\n{f:Was I tied up?|Was I tied up?}{p}",
+  "35:6d98": ".........................................\n............My head hurt.\nIt was pounding.\nLike I had an oil drum over my head and people were banging on it from all around.{p}",
+  "35:73c0": "{f:I|I} jumped in spite of myself.\nSomeone was shouting outside the door.\n\"What happened?\nWhat was that scream just now?!\"\n\"Open up! Open this door!\"\n......It was the teachers{f:.|.}{p}",
+  "35:83c4": "His eyes were fixed on.......................{f:me|me}!{p}",
+  "35:8688": "As if all my strength were draining out from there, {f:I|I} sank limply to the floor.\nJust like a balloon with a hole in it.\nWhen I reached around to my back, I felt something slick.\n......Blood?{p}",
+  "35:8c5c": "......There was a sickening crunch.\nWhen I came to my senses, Hino was lying on the floor.\nBlood was running from his nose and mouth, and from his ears too.{p}",
+  "35:8d28": "Someone said that.\nBut if I hadn't done it, {f:I|I} would have...!\nAs {f:I|I} turned to make excuses, they backed away as if frightened.\n\"M-Murderer!\"\n\"Murderer!\"\nOne person's scream set it off, and everyone started running.\nThey rushed out of the club room.\nI could hear them all screaming.\n{f:Should I|I had to} run too while I had the chance{f:?|.}\n...But where to?\nI'd never get away.\n{f:I'm|I'm} a murderer{f:.|.}\n......But what did {f:I|I} ever do{f:?|?}\nAll I did was try to collect the seven wonders{f:!|!}\nOr... is {f:it|it} because I learned all seven that I'm being punished by someone{f:?|?}\nThe hallway was getting noisy.\nAt least, before they caught me, I would have liked to know who was trying to punish me.\n...{f:I|I} was idly thinking such things.{p}",
+  "35:4f10": "\"Even like that, they're alive.\nAnd now they're my comrades.\nThe only difference is whether you keep a human shape like this or not.\"\nThen he looked at {f:me|me} once more and laughed.\n\"...Whether you get to keep the shape you've got now probably depends on you.\nIf you fuse well, let's make more comrades together.\nHeh heh heh...\"\nThen he turned his eyes the opposite way from the living lumps of flesh.{p}",
+  "35:8804": "On that hand was a cloudy white liquid.\n...What {f:was|was} this?\nIf it had been stained red with blood, that would be one thing, but why was it like this...?\n\"This one's blood... why is it white?\"\nI heard someone's voice.\nWhite?\n{f:White blood?|White blood?}{p}",
+  "35:88ec": "\"See, I told you!\nThis one's the monster that ate Iwayama!\"\nI could hear Hino's voice.{p}"
+ },
+ "notes": [
+  "35:4590: FIX dots - source opens with 8 ellipsis chars; English kept the raw ellipsis glyphs. Set to 12 periods (2 chars = 3 dots).",
+  "35:6d98: FIX dots - 27-char silence + period and 8-char run; English had 26/8 raw ellipsis glyphs. Set to 41 periods (40 + the period) and 12.",
+  "35:73c0: FIX dots - 4-char run before the teachers line was raw glyphs; set to 6 periods.",
+  "35:83c4: FIX dots - 15-char run before me was raw glyphs; set to 23 periods (22.5 rounded up).",
+  "35:8688: FIX dots - 4-char run before Blood? set to 6 periods (was raw glyphs).",
+  "35:8c5c: FIX dots - 4-char run before the crunch set to 6 periods (was raw glyphs).",
+  "35:8d28: FIX dots - 4-char run before But what did I ever do set to 6 periods (was raw glyphs).",
+  "35:7b74: UNSURE - source pause before by me is 4 chars (6 dots); English has 10 dots, already longer, left as is per brief."
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "rows": {
+  "26:a2c8": "That friend's name was Keiichi Tsuda.\nIt's not like Tsuda used that restroom on purpose or anything.\nHe knew the stories about it, after all.{p}",
+  "26:a370": "One day, after P.E. class ended, he suddenly needed to go.\nIt beat wetting himself, so he had no choice but to go there.{p}",
+  "26:a480": "The letters on the board stood out more clearly than he'd expected.\nHe tried his best not to look at it, but it bothered him all the same.\nAnyway, he did his business quickly and went outside.{p}",
+  "26:a830": "\"Hey, Tsuda!\"\nTsuda only glanced at me for a second; the hand holding his chopsticks never stopped for a moment.\nWas he eating something that delicious?\nIf so, maybe I'd ask him for a bite too, I thought as I got closer...\nI almost threw up what I'd just eaten.\nWhat he was eating were baby mice.\nHis lunch box was heaped with baby mice.\nThe raw pink kind that hadn't grown any fur yet.\nHe knew I was right next to him, but he kept eating, completely absorbed.{p}",
+  "26:ad94": "I followed him, and the place he went was that restroom.\nI quietly watched him from behind a tree.{p}",
+  "26:ae10": "Tsuda crouched down and seemed to be staring intently at the restroom's letter board.\nThen he started licking the letter board, lick, lick.\nAfter licking it for a while, he suddenly stood up and started hopping up and down.{p}",
+  "26:aee0": "At that point, it was still more of a strange sight than a scary one.\nIt was dusk, and a few big moths had gathered around the fluorescent light in the dim restroom.\nHe deftly caught those moths in his mouth and started eating them.\nThere must have been several moths, and it looked like he ate every last one.\nWatching that sight the whole time made me feel sick.\nWhich, I suppose, is only natural.\n\"Bleeeeegh!\"\nI threw up violently, right there.\nThinking he might have heard me, I quietly looked over at the restroom.{p}",
+  "26:b408": "\"Hosoda?\nWhat's going on?\nWhy am I here?\"\nTsuda seemed to be thinking for a while.\nThen he said this to me.\n\"...You know, I don't remember anything from the past few days.\nWhat happened to me?\nI went to that restroom beside the gym, and I don't remember anything after that.\nAnd when I came to, I was here.\nWeird, huh?\"\nI found myself nodding along to what he said.\nAnd I kept quiet about all the strange things he'd been doing.\nI mean, I didn't think Tsuda would believe me even if I told him.\nI think Tsuda was probably possessed by that fox.\nOf course, I didn't tell him that either.\nWell, Tsuda was back to normal, after all.\nCase closed, as they say.\nTsuda still comes to school like normal, even now.\nAlive and well.{p}",
+  "26:c298": "That's good.\nI was worried about what I'd do if you said you wanted to see it, {a}{f:|}.\nI was only asking as a joke, though.\n...That's the end of my story.\nWell then, let's move on to the next one.\nIf the seventh person doesn't come, it'll be the last one.{p}",
+  "26:c36c": "That's for the best.\nAs if your own life could be figured out that easily.\nIt's just for peace of mind.\nI believe in spirits, but I don't believe in fortune-telling.\nThough if you use spirits to tell fortunes, that's another story.{p}",
+  "26:cdf8": "And then he started researching crueler ways to kill them.\nHe'd try jabbing insect pins into both of a fish's eyes, or stick pins all over its body and go,\n\"Now you're a porcupinefish.\"\nThat's the kind of thing he'd say.\nOr he'd try soaking goldfish in bleach.\nOne time, he caught a turtle, shoved its legs into its shell, wrapped it round and round with wire, and roasted it from underneath with fire.\nThe turtle tried to struggle, but because of the wire, it couldn't get its legs out.\nLittle by little, the fire scorched its shell.\nAfter a sound like a scream, a long squeeeee, the turtle didn't struggle anymore.\n\"Suffer more!\nStruggle harder!\"\nHe shouted.\nAs if he had a grudge against the fish.\nThe helpless fish put up what little resistance they could and soon died.{p}",
+  "26:e230": "\"Ooh, there, there.\nYou want me to torment you that badly?\"\nHe said it with a smirk.\nThen he pinned the koi down with his foot and peeled off its scales one by one.{p}",
+  "26:f3e4": "He slammed Ponkichi onto the floor.\nSlipping out of his hands, Ponkichi tried to run.\n\"Get back here, you little bastard!\"\nHe hurriedly grabbed Ponkichi.\n\"Don't think you're getting away.\"\nHe gripped Ponkichi firmly and hugged it to his chest, careful not to get bitten again.{p}",
+  "26:fcf4": "Afterward, the boy who'd been taking care of Ponkichi found it.\nHe was heartbroken.\n\"Who would do something this horrible...\"\nThinking he could at least give it a grave, he made one beside that restroom and buried it there.{p}",
+  "26:ffd8": "Instead, he got beaten to a pulp and dragged into the restroom.\nThe guy must have figured he could beat him as much as he liked where no one could see.\nAnd he kept on beating him.\nSo much that the whole restroom ended up covered in blood.{p}"
+ },
+ "notes": [
+  "26:d288: KEEP - returns note (koi vs carp): 26:dd60 already reads 'that koi'; chunk uses 'koi' throughout, nothing to unify",
+  "26:dd60: KEEP - same returns note; already 'koi'",
+  "26:a2c8: EDIT - clumsy 'didn't use ... / He did know the stories about that restroom' -> natural 'It's not like...' + less repetition",
+  "26:a370: EDIT - doubled cause ('so ... since he had no choice') -> 'had no choice but to go there'",
+  "26:a480: EDIT - stiff 'For the time being' -> 'Anyway'",
+  "26:a830: EDIT - 'ask him for one too' had no referent -> 'a bite'",
+  "26:ad94: EDIT - 'from the shade of a tree' -> 'from behind a tree' (hiding)",
+  "26:ae10: EDIT - 'went hopping' -> 'started hopping'",
+  "26:aee0: EDIT - awkward 'threw up right there, hard' -> 'threw up violently, right there'",
+  "26:b408: EDIT - stiff 'Prompted by his words' -> 'nodding along to what he said'",
+  "26:c298: EDIT - 'this will be the last one' was ambiguous after 'the next one' -> 'it'll be'",
+  "26:cdf8: EDIT - 'put up their tiny resistance' -> 'what little resistance they could'",
+  "26:e230: EDIT - echo of 26:d5a8 (identical JP): unified 'Ooh, there, there' / 'with a smirk'",
+  "26:f3e4: EDIT - 'hurried and grabbed' -> 'hurriedly grabbed'",
+  "26:fcf4: EDIT - echo of next-chunk 26:11d1c (identical JP): unified to 'this horrible' / 'Thinking he could at least give it a grave'",
+  "26:ffd8: EDIT - garbled 'he'd beat him all he liked' -> 'he could beat him as much as he liked'"
+ ]
+}

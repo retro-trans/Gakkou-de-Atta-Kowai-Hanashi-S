@@ -1,0 +1,363 @@
+{
+ "slice": "S001",
+ "scene": "01",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S000",
+ "next": "S002",
+ "todo": [
+  "- Pilot slices S000-S005 replaced ☆/★ (e.g. 01:7050, 01:aed0, 01:2afc, 02:55cc, 02:58f0, 02:6a08): the font now has both glyphs (tools/vwf.py EXTRA 0x10/0x11); restore them where the source has them. ☆/★ are plain characters in the script, no engine effect.",
+  "- Choice wording consistency: 01:4bdc (S001) vs 01:4bec / 01:5c70 / 01:5c80 (S002) \"You went / You didn't go to the school\".",
+  "- ☆/★: keep them where the source has them (S005/S001/S002 replaced them with ?! — restore)."
+ ],
+ "rows": [
+  {
+   "id": "01:0bf0",
+   "op": "text",
+   "en": "All right then, I'll tell the first story.\nThe name's Makoto Shindo, Class 3-D.\nHave any of you ever been to the old school building?\nNobody uses it anymore, but you've all been there at least once, right?{p}"
+  },
+  {
+   "id": "01:0ca4",
+   "op": "text",
+   "en": "It's off-limits, and it's falling apart and creepy, but it's the best place there is for an adventure.\nEven in broad daylight it gives you the chills.\nThe floor creaks under every step like it's about to give way, and the sound echoes, so you start to feel like someone else is walking around in there too.\nThen you turn around... and nobody's there.\nYou've all had that happen, right?\nNo?\nWhat about you, {a}?{p}You've been to the old building, haven't you?{p}And you've walked down that dim hallway, right?\n"
+  },
+  {
+   "id": "01:0e3c",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "01:0e44",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "01:0e4c",
+   "op": "text",
+   "follows_choice": [
+    "01:0e44"
+   ],
+   "en": "You haven't?\nYou've got no guts.\nIf you go to this school, you've got to go there at least once.\nThat place is crawling with ghosts.\nIt's perfect for a test of courage.\nTell you what, next time I'll take you there myself.{p}"
+  },
+  {
+   "id": "01:0f24",
+   "op": "text",
+   "en": "Especially the stairs up to the third floor, past the end of the long second-floor hallway in the old building.\nMaybe it's just colder there, but even in summer it's chilly, like being inside a refrigerator.\nAnd since no sunlight gets in, it's dark even in the daytime, and nobody would know you were there, so it's the perfect spot for skipping class.\nIt's way too cold in winter, though.{p}"
+  },
+  {
+   "id": "01:1050",
+   "op": "text",
+   "en": "So, on the landing of those stairs, there's a big mirror.\nThe kind they call a full-length mirror.\nOne tall single pane that shows your whole body.\nThere's a strange rumor about that mirror.\nOf course, I don't believe it.\nNo, I guess it's more accurate to say I didn't believe it.\nNot until that thing happened.\nI'll tell you the story of that mirror.{p}"
+  },
+  {
+   "id": "01:1164",
+   "op": "text",
+   "en": "...A good while back, that mirror got to be a bit of a topic among us.\nAll kinds of rumors went around: that you'd see strange things when you walked past it, or that your reflection wouldn't show up in it.\nBut I didn't believe any of it.\nEven when the guys in my class talked about it, I never joined in.{p}"
+  },
+  {
+   "id": "01:1288",
+   "op": "text",
+   "en": "Then one day, that punk Yoshioka came to me, saying he wanted to talk something over with me.\nYoshioka was a gloomy guy who always kept to himself, always alone.\nI never hung out with him.\nHe didn't stand out, and I didn't particularly care what he got up to.\nHe was the kind of guy you could hardly tell was there or not.\nAnd this Yoshioka says he wants my advice.\nI think that was probably the first time he'd ever spoken to me.\nI didn't have any reason to turn him down, and when someone goes out of his way to ask for advice, you can't exactly refuse to listen, right?\nSo I heard him out.\nAt first he just fidgeted, but eventually he started mumbling, like it was hard for him to say.{p}What do you think he talked about?\n"
+  },
+  {
+   "id": "01:1500",
+   "op": "choice",
+   "en": "His girlfriend"
+  },
+  {
+   "id": "01:150c",
+   "op": "choice",
+   "en": "Studying"
+  },
+  {
+   "id": "01:1518",
+   "op": "choice",
+   "en": "The old building's mirror"
+  },
+  {
+   "id": "01:1534",
+   "op": "text",
+   "follows_choice": [
+    "01:1518"
+   ],
+   "en": "That's right.\nOut of nowhere, he started talking about that mirror.\nHe suddenly pulled out this shady-looking old book.\nAnd he showed it to me.\nThere was a photo of a mirror in that book.\nApparently it was a magic mirror that connected to the spirit world.\n\"Doesn't the mirror in this book look familiar to you?\nIt's the same as the one on the landing in the old building, isn't it?\"\nThat's what he suddenly comes out with.\nI just laughed.\nI mean, that's an ordinary mirror you'd find anywhere.\nThe one in the book and the one on the landing were both plain, unremarkable mirrors, the kind they sell everywhere.\nThey didn't have any special decorations, and they looked really cheap.\nBut Yoshioka was dead serious about it.\n\"I can tell. This mirror is definitely the one on that landing.\nAnd it connects this world with the spirit world.\"\nThat's what he said.\nI burst out laughing.\nI told him to knock it off and didn't take him seriously.\nWho would, right?\nAnd then, all of a sudden, he got angry.{p}"
+  },
+  {
+   "id": "01:18ac",
+   "op": "text",
+   "en": "\"You don't believe me?! I know it's true!\nThat mirror leads to the spirit world!\"\nHe said that, red in the face and shaking.\nI was the one who got startled.\nI even tried to calm him down, told him there was no need to get that worked up.\nAnd then he says we should go look at the mirror together.\nHe'd prove that what he'd told me was true.\nHe was so worked up about it that I went,\n\"Sure, fine.\"\nand nodded along.\nBut when I started to head over there, he stopped me.\n\"Not now. I can only prove it at 3:33 and 33 seconds in the middle of the night.\nThe door to the spirit world won't open at any other time.\"\nThat's the kind of nonsense he came out with.\nEven I was fed up.\nI didn't bother with him after that.\nAnd he never talked to me again after that, either.\nBut then, get this.{p}"
+  },
+  {
+   "id": "01:1bcc",
+   "op": "text",
+   "en": "Three days later, Yoshioka suddenly came up to me and said,\n\"The spiritual energy is really strong today.\nOn a day like this, it's sure to work.\nI'll prove it to you.\"\nHe just came out with it, out of the blue.\nAnd with a dead-serious face, too.\nAt first I had no idea what he was talking about, and I just stared at him blankly.\nFor a second I thought, no way, he can't mean that mirror thing.\nThen he asked me to sneak into the school with him that night.\nFor a guy who looked so meek, he had some nerve.\nEven I'd never been to school in the middle of the night.\nI figured he was joking, so I answered without thinking much of it.\n\"Yeah, sure. I'll be waiting in front of the school gate at three.\"\nThat's what I said.\nHe gave me this creepy, happy grin.\nNow that I think about it, that was the first time I'd ever seen him smile.\nThe first and last smile I ever saw on him.{p}"
+  },
+  {
+   "id": "01:1ec0",
+   "op": "text",
+   "en": "So I went home after school, and for a while I forgot all about it.\nIt was late at night, and I was thinking about going to bed, when Yoshioka's face suddenly popped into my head.\nI looked at the clock: two in the morning.\nIf I wanted to, I could still make it in time.\nWhenever I remembered that creepy grin of his, I just couldn't get to sleep.\nBut going all the way to school now was such a pain.\nPlus, if he didn't show up, I'd be the one who looked like an idiot.\nShould I go or shouldn't I? I agonized over it.{p}So what do you think I did in the end?\n"
+  },
+  {
+   "id": "01:20a4",
+   "op": "choice",
+   "en": "You went to the school"
+  },
+  {
+   "id": "01:20b4",
+   "op": "choice",
+   "en": "You didn't go"
+  },
+  {
+   "id": "01:20c8",
+   "op": "text",
+   "follows_choice": [
+    "01:20a4"
+   ],
+   "en": "It just kept nagging at me, you know.\nSo I decided to go.{p}"
+  },
+  {
+   "id": "01:2120",
+   "op": "text",
+   "en": "The school at night was seriously creepy.\nI wondered what I'd do if Yoshioka wasn't there, but he was.\nHe was standing in front of the school gate, staring blankly, just like a ghost.\nHolding a flashlight.{p}"
+  },
+  {
+   "id": "01:21ec",
+   "op": "text",
+   "en": "When he spotted me, he came over, waving the flashlight in his hand.\nHe could at least have smiled, but he didn't crack even a hint of one.\nMaybe he was nervous; his face was damp with sweat, and he just looked at me with no expression at all.{p}"
+  },
+  {
+   "id": "01:22b8",
+   "op": "text",
+   "en": "\"I've been waiting. Now we'll get to see the spirit world.\"\nThe one saying that, Yoshioka himself, was way creepier than any ghost.\n\"They say the spirit world shows itself in all kinds of forms.\nThere's no telling what form it'll take in front of us until the moment comes.\"{p}"
+  },
+  {
+   "id": "01:23c4",
+   "op": "text",
+   "en": "As he said that, he took a grimy hand mirror out of the paper bag he was carrying.\n"
+  },
+  {
+   "id": "01:2414",
+   "op": "text",
+   "en": "It was a round compact mirror, the kind a woman would carry.\nHe kept flashing it at me.\n\"At 3:33 and 33 seconds in the middle of the night, you hold a mirror you always use up to the one on the landing.\nThen the two mirrors reflect each other, and you can see something mysterious in them.\nAnd not just see it. Something might even come out. I can't wait.\"\nBut his face was blank as he said it; he didn't look like he was enjoying it at all.{p}"
+  },
+  {
+   "id": "01:2590",
+   "op": "text",
+   "en": "School in the middle of the night is scary as hell.\nEven the new building is creepy, and we were headed for the old one.\nYou can imagine how scary that was, can't you?\nNot even a haunted house is that scary.\nYoshioka had more guts than you'd think.\nEven I was pretty freaked out, but he just strode right along at a brisk pace.\nHe kept pushing deeper and deeper into the pitch-black school with nothing but one dim flashlight.\nIt was all I could do to keep up.{p}"
+  },
+  {
+   "id": "01:2740",
+   "op": "text",
+   "en": "Even inside the old building, he didn't flinch once.\nAt night, your footsteps on the floorboards sound really loud.\nCreak, creak, creak, creak... a sound like nails scratching on glass echoes all around.\nThere's no other sound, right?\nSo that noise really grates on your ears.\nThat musty smell of old, rotting wood you hardly notice during the day, you can smell it clearly at night.\nThat smell is the only thing in the air, and when you breathe in, it fills your mouth, thick and stifling.{p}"
+  },
+  {
+   "id": "01:28dc",
+   "op": "text",
+   "en": "\"We're here. It's almost 3:33.\"\nSuddenly his footsteps stopped, and the flashlight lit up the mirror.\nA mirror to the spirit world?\nGive me a break.\nThis was just a mirror.\nThat's what I told myself.\nIf I didn't, I felt like I'd get sucked into that mirror any second.\n\"It's 3:33. I'm going to line up the mirrors.\nReady? No matter what happens, don't panic.\"{p}"
+  },
+  {
+   "id": "01:2a40",
+   "op": "text",
+   "en": "With that, Yoshioka held the compact mirror up in front of the full-length mirror on the landing.{p}And what do you think happened?\n"
+  },
+  {
+   "id": "01:2aa8",
+   "op": "choice",
+   "en": "A demon jumped out"
+  },
+  {
+   "id": "01:2abc",
+   "op": "choice",
+   "en": "It showed his dying face"
+  },
+  {
+   "id": "01:2ad4",
+   "op": "choice",
+   "en": "You heard groaning"
+  },
+  {
+   "id": "01:2ae8",
+   "op": "choice",
+   "en": "Nothing happened"
+  },
+  {
+   "id": "01:2afc",
+   "op": "text",
+   "follows_choice": [
+    "01:2abc"
+   ],
+   "en": "\"It's showing my face.\"\nYoshioka suddenly came out with that.\n\"Well, duh. It's a mirror, so of course it shows your face.\"\nI was startled, wondering what he was going on about.\nAll the mirror showed was his face, after all.\n\"No, that's not it. My face is purple. I read about it in that book. If your face in the mirror is purple, it's proof that you're going to die soon. And that purple face is the face you'll have when you die.\"\nHis voice was shaking.\n\"Don't talk crazy.\"\nI looked at the mirror again.\nIn the mirror, sure enough, Yoshioka's face was...\n\"Ah!!\"\nI couldn't help screaming.{p}"
+  },
+  {
+   "id": "01:2d4c",
+   "op": "text",
+   "en": "Yoshioka's face had looked normal in it just a moment ago, but before I knew it, the face in the mirror had turned purple.\nAnd it wasn't a normal face, either.\nHow do I put it... it was swollen, or like a wax doll's face... anyway, it just wasn't normal.{p}"
+  },
+  {
+   "id": "01:2e48",
+   "op": "text",
+   "en": "I freaked out and ran.\nI don't remember at all how I got out of that pitch-black old building.\nBut one way or another, I got out.\nLeaving Yoshioka behind, all alone.\nThe only thing I remember is, from behind me,\n\"Don't leave meeee!\"\n"
+  },
+  {
+   "id": "01:2f30",
+   "op": "text",
+   "en": "Yoshioka screaming that, and that's about it.\nEven so, I never once thought about going back to help him.\nNot even I wanted to go back in there again.{p}"
+  },
+  {
+   "id": "01:2fd8",
+   "op": "text",
+   "en": "Still, I fought down my fear and waited in front of the main gate for a while.\nBut no matter how long I waited, he never came out.\nI figured maybe he'd gone home through the back gate, so I went home too.{p}"
+  },
+  {
+   "id": "01:309c",
+   "op": "text",
+   "en": "By the time I got home it was almost dawn, and I didn't sleep a wink.\nThen I ate breakfast at home and went straight to school.\nAnd that's when I found out.\nYoshioka was dead.{p}"
+  },
+  {
+   "id": "01:314c",
+   "op": "text",
+   "en": "A teacher on patrol found him early in the morning, they said.\nYoshioka was lying dead in front of the old building.\nI don't know.\nWhether he got out of the old building on his own, or whether somebody carried him out front after he died in front of the mirror.\nI have no idea at all.\nThey say he had the compact mirror clutched tight in his right hand, though.\nA compact mirror smashed to pieces.\n...The next day, I ended up going to Yoshioka's wake.\nHe was a classmate, after all.\nThe whole class went.\nWe weren't exactly close, but I guess when someone dies, it's still sad.\nThe girls were all crying.\nThat's when I saw it.\nYoshioka's face, in the coffin.{p}"
+  },
+  {
+   "id": "01:33a4",
+   "op": "text",
+   "en": "I screamed, without any regard for where I was.\nI couldn't help it.\nThere in the coffin was Yoshioka's face, the same face I'd seen reflected in that mirror.{p}"
+  },
+  {
+   "id": "01:3444",
+   "op": "text",
+   "en": "Right then, maybe it was just my imagination, but his eyes opened for a split second.\nAnd he glared right at me.\nWhy didn't you help me back then?\nWhy did you run off and save yourself?\nThat's what his eyes seemed to be saying.{p}"
+  },
+  {
+   "id": "01:3538",
+   "op": "text",
+   "en": "It was after that.\nThat I got this strange ability.\nMaybe it's a curse for abandoning Yoshioka and running.\nOr maybe I've already become a resident of the spirit world.\nSee, I can tell when somebody's about to die.\nEven total strangers. I can tell even from the face of someone on TV.\nWhen I look at someone who's about to die, their face looks purple to me.\nAnd then they die.{p}"
+  },
+  {
+   "id": "01:36b4",
+   "op": "text",
+   "en": "...Oh, I know.\nWant me to take a look at your face?\nIt's {a}, right?\nWant me to tell you how your face looks to me right now?\nAre you scared, wondering why I'm asking you this?\nI don't mind telling you.{p}Do you want to hear it?\n"
+  },
+  {
+   "id": "01:3774",
+   "op": "choice",
+   "en": "Tell me"
+  },
+  {
+   "id": "01:3784",
+   "op": "choice",
+   "en": "Don't tell me"
+  },
+  {
+   "id": "01:3798",
+   "op": "text",
+   "follows_choice": [
+    "01:3774"
+   ],
+   "en": "Is that so?\nYou want me to tell you, huh?\nAll right then, I'll tell you.\nWhatever I say, don't freak out.\nAnd whatever I say, accept that it's your fate and give up.\nYour face is...{p}"
+  },
+  {
+   "id": "01:3864",
+   "op": "text",
+   "en": "............Forget it.\nThere's no point in telling you.\nThose who are going to die will die, and those who are going to live will live.\nWhether your face looks purple or not, telling you won't change your fate.\nIt's best not to know your own future.\nBesides, I'm not even sure you believe my story.\n...Well, that's the end of my story.\nWho's going to tell the next one?{p}"
+  },
+  {
+   "id": "01:39c0",
+   "op": "text",
+   "follows_choice": [
+    "01:0e3c"
+   ],
+   "en": "I see.\nIt's a great place, isn't it?\nThere's nobody around, so it's dead quiet.\nBut there are ghosts there, you know.\nYou get the feeling something's there, don't you?{p}"
+  },
+  {
+   "id": "01:3a4c",
+   "op": "text",
+   "en": "Especially the stairs up to the third floor, past the end of the long second-floor hallway in the old building.\nSeems like every school has all kinds of stories about stairs, though.\nWhy, you ask?\nBecause there's a mirror there, right?{p}"
+  },
+  {
+   "id": "01:3b00",
+   "op": "text",
+   "en": "The mirror on the stair landing, that thing is bad news.\nListen, the story I'm about to tell you is something I really went through.\nIt's the story of the mirror on the old building's stairs.{p}"
+  },
+  {
+   "id": "01:3ba8",
+   "op": "text",
+   "en": "This was a little while back.\nYoshioka, from my class, came to me saying he wanted my advice.\nYoshioka was a gloomy guy, the type who always seemed left out.\nFor some reason, he came and talked to me, even though we'd never really hung out.{p}What do you think he talked about?\n"
+  },
+  {
+   "id": "01:3ca4",
+   "op": "text",
+   "follows_choice": [
+    "01:1500"
+   ],
+   "en": "That's right.\nFor such a meek-looking guy, he had a girlfriend, can you believe it?\nHer name was Keiko Meguro, and what he wanted to talk about was her.\nApparently there's a strange legend about the mirror on that landing.\nThey say if you put both hands on that mirror at 3:33 and 33 seconds in the middle of the night, you can go to another dimension.\nSounds made up, right?\nOf course, nobody sneaks into school in the middle of the night.\nBesides, even if you got to another dimension, there's no guarantee you could come back.\nSo nobody ever tried it.\nIt was just a scary rumor that got passed around among a few people.\nBut when I heard him out, it sounded like she'd actually tried it.\n"
+  },
+  {
+   "id": "01:3ef0",
+   "op": "text",
+   "en": "One day, Meguro opened up to Yoshioka, he said.\n\"School's no fun. At home, my parents do nothing but fight. So if that legend is true, I want to go to the other dimension.\"\nThat's what she told him.\nYoshioka listened to her seriously, apparently.\nHe must have really liked Meguro.\nAnd she liked him too.\n\"Yoshioka, if you love me, will you come to the other dimension with me?\"\nShe asked him something like that, he said.{p}What do you think Yoshioka said to that?\n"
+  },
+  {
+   "id": "01:40b8",
+   "op": "choice",
+   "en": "Let's go together"
+  },
+  {
+   "id": "01:40c8",
+   "op": "choice",
+   "en": "I can't go with you"
+  },
+  {
+   "id": "01:40dc",
+   "op": "choice",
+   "en": "He said nothing"
+  },
+  {
+   "id": "01:40ec",
+   "op": "text",
+   "follows_choice": [
+    "01:40b8"
+   ],
+   "en": "He must have really loved her.\nYoshioka answered without hesitation.\nShe was overjoyed, he said.\nIt was the kind of story that made me blush just listening to it.{p}"
+  },
+  {
+   "id": "01:4198",
+   "op": "text",
+   "en": "So the two of them snuck into the school in the middle of the night.\nIt was kind of like eloping.\nTwo young lovers, hand in hand, quietly running away without their parents knowing.\nThe only difference was that they weren't running off to the ends of the earth, but to another dimension.\nThe two of them weren't scared at all.\nWell, of course not.\nAfter all, they were full of hope.{p}"
+  },
+  {
+   "id": "01:42f0",
+   "op": "text",
+   "en": "The moment drew closer, second by second.\nThey'd only get one chance.\nIf they missed 3:33 and 33 seconds exactly, they couldn't get to the other dimension.\nAt last, the fateful moment came.\nAt that instant, they both pressed their hands to the mirror.\n"
+  },
+  {
+   "id": "01:43c0",
+   "op": "text",
+   "en": "...But guess what happened.{p}"
+  },
+  {
+   "id": "01:43e8",
+   "op": "text",
+   "en": "Yoshioka's timing was off, just slightly.\nRight before his eyes, Meguro faded like mist and was sucked into the mirror.\nYoshioka was left there all alone.\nNo matter how much he called and screamed, there was no answer.\nThe mirror showed nothing but his own reflection.\nYoshioka prayed it was all a dream.\nBut it wasn't.\nFrom the next day on, Meguro was gone.\nAnd ever since then, he said, Yoshioka had been sneaking into the school every night, standing in front of that mirror, and putting his hands on it when the time came.\nBut maybe his timing was still just a little off, because no matter how many times he tried, it never worked once.\nAfter agonizing over it, he wanted someone to help him, so he came to me for advice.{p}"
+  },
+  {
+   "id": "01:4660",
+   "op": "text",
+   "en": "Can you believe a story like that?\nHe told me all that with a straight face, totally serious.\nI knew Meguro had stopped coming to school.\nShe was in a different class, but news like that spreads fast.\nBut I hadn't heard anything about her getting sucked into a mirror.\nPeople were saying whatever they liked: she'd gone missing, she'd run away from home, she'd stopped going to school.\nI figured Yoshioka had lost it after his beloved Meguro disappeared.{p}"
+  },
+  {
+   "id": "01:47fc",
+   "op": "text",
+   "en": "\"Please. I have to see Meguro no matter what.\nI bet she's lonely all by herself.\nShe must be waiting for me to come, looking forward to it the whole time.\nPlease help me.\"\nHe begged me like that, looking like he'd burst into tears any second.\nHe was being such a pain that I said it lightly, just to get out of the situation.\n\"Yeah, sure. I'll be waiting in front of the school gate at three.\"\nThat's what I said.\nHe gave me this creepy, happy grin.\nNow that I think about it, that was the first time I'd ever seen him smile.\nThe first and last smile I ever saw on him.{p}"
+  },
+  {
+   "id": "01:49f8",
+   "op": "text",
+   "en": "So I went home after school, and for a while I forgot all about it.\nIt was late at night, and I was thinking about going to bed, when Yoshioka's face suddenly popped into my head.\nI looked at the clock: two in the morning.\nIf I wanted to, I could still make it in time.\nWhenever I remembered that creepy grin of his, I just couldn't get to sleep.\nBut going all the way to school now was such a pain.\nPlus, if he didn't show up, I'd be the one who looked like an idiot.\nShould I go or shouldn't I? I agonized over it.{p}So what do you think I did in the end?\n"
+  },
+  {
+   "id": "01:4bdc",
+   "op": "choice",
+   "en": "You went to the school"
+  }
+ ]
+}

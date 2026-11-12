@@ -1,0 +1,107 @@
+{
+ "slice": "S211",
+ "scene": "57",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S210",
+ "next": "S212",
+ "rows": [
+  {
+   "id": "57:0138",
+   "op": "text"
+  },
+  {
+   "id": "57:027c",
+   "op": "text"
+  },
+  {
+   "id": "57:03f0",
+   "op": "choice"
+  },
+  {
+   "id": "57:03fc",
+   "op": "choice"
+  },
+  {
+   "id": "57:0410",
+   "op": "text",
+   "follows_choice": [
+    "57:03f0"
+   ]
+  },
+  {
+   "id": "57:04d0",
+   "op": "text"
+  },
+  {
+   "id": "57:07f8",
+   "op": "text"
+  },
+  {
+   "id": "57:0990",
+   "op": "text"
+  },
+  {
+   "id": "57:0b38",
+   "op": "text"
+  },
+  {
+   "id": "57:0cc4",
+   "op": "text"
+  },
+  {
+   "id": "57:0d6c",
+   "op": "choice"
+  },
+  {
+   "id": "57:0d88",
+   "op": "choice"
+  },
+  {
+   "id": "57:0da0",
+   "op": "text",
+   "follows_choice": [
+    "57:0d6c"
+   ]
+  },
+  {
+   "id": "57:0ecc",
+   "op": "text",
+   "follows_choice": [
+    "57:03fc"
+   ]
+  },
+  {
+   "id": "57:0f2c",
+   "op": "text",
+   "follows_choice": [
+    "57:0d88"
+   ]
+  },
+  {
+   "id": "57:0f48",
+   "op": "choice"
+  },
+  {
+   "id": "57:0f6c",
+   "op": "choice"
+  },
+  {
+   "id": "57:0f90",
+   "op": "text",
+   "follows_choice": [
+    "57:0f48"
+   ]
+  },
+  {
+   "id": "57:1098",
+   "op": "text"
+  },
+  {
+   "id": "57:10cc",
+   "op": "text",
+   "follows_choice": [
+    "57:0f6c"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+{
+ "slice": "S019",
+ "scene": "06",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S018",
+ "next": "S020",
+ "todo": [
+  "- Long dot runs were shortened in S019 06:5988, S066 15:1460, S062 14:eb00/ec64/f300: now wrap automatically — restore source length in review."
+ ],
+ "rows": [
+  {
+   "id": "06:448c",
+   "op": "text",
+   "en": "\"Gyaaaaaah!☆\"{p}"
+  },
+  {
+   "id": "06:44b0",
+   "op": "text",
+   "en": "An agonized scream rose from the flames.\n...Huh?\nWhat on earth was that...★{p}"
+  },
+  {
+   "id": "06:4514",
+   "op": "text",
+   "en": "Smoke came pouring out of the incinerator.\nNot the kind of smoke you get when you burn something.\n...It was a ghost.{p}"
+  },
+  {
+   "id": "06:4560",
+   "op": "text",
+   "en": "It seemed to be the ghost of a woman.\nCould it be... the diva's ghost?\n\"I never imagined I would be treated like this.\nHow dare you throw me into an incinerator...\"\nWhat was I going to do?\nWhat a terrible thing I had done.\nBut there was no turning back time now.{p}"
+  },
+  {
+   "id": "06:4660",
+   "op": "text",
+   "en": "...She began to sing.\nA sad melody.\nThe tears just welled up on their own...\nShe kept on singing.\nI couldn't stop crying.\nAnd I was sleepy.\nSo sleepy.\nSo sleepy...\n.........It burned☆{p}"
+  },
+  {
+   "id": "06:4724",
+   "op": "text",
+   "en": "\"Wh-whoaaaagh!☆\"\nA heat like being seared by flames coursed through my body.\n\"Hohoho. That heat is only an illusion.\nYou are asleep right now.\n"
+  },
+  {
+   "id": "06:47b4",
+   "op": "text",
+   "en": "Lulled by my song.\nDon't worry.\nYour body isn't really burning.\nThat agony is nothing more than something happening in a dream.\nBut from now on, you will go on feeling that pain forever.\nI'll put a curse on you, so that you never wake up.\nTell me, where would you like to sleep?\nShall I lay you down somewhere no one will ever find you?\nThen you'd starve to death in a few days, and you'd escape the agony of the flames.\nAhaha.........\nAhahahaahahahaahaa.........\"\nHer words echoed eerily inside my head.\nInside my dream of flames, I could do nothing but pray to be freed from this agony as soon as possible...{p}"
+  },
+  {
+   "id": "06:49f0",
+   "op": "text",
+   "follows_choice": [
+    "06:1390"
+   ],
+   "en": "What are you getting all squeamish for?\nFine, then I'll tell you about this book's curse.\nListen up, {a}.\nDon't be shocked.\nThe curse on this book is one that lets you sweet-talk women left and right.\nFirst, you hold this book in your left hand and picture a flame in your head.\nThe kind of flame you picture when you think of love.\nDo that, and you get hit with a sweet little curse that lets you smooth-talk any woman you want.{p}"
+  },
+  {
+   "id": "06:4b4c",
+   "op": "text",
+   "en": "...I'm not lying.\nSomebody actually tried it.\nA student at our school.\nHe was good-looking, and he'd never had trouble with girls to begin with.\nBut there was one woman he just couldn't win over, no matter what.\n...What kind of woman do you think?\nHeh, a teacher.\nA new one, a real sexy teacher.\nHe used the cursed book to win her over.{p}"
+  },
+  {
+   "id": "06:4c90",
+   "op": "text",
+   "en": "He held the book in his left hand and pictured the flame of love.\nAnd then...\nWhat do you know, all kinds of images started popping into his head.\nWell, not images exactly...\nMore like inspiration.\nOne line of love after another came to him, exactly the kind women love to hear.\nA flood of words.\nSo he called the teacher over after school and seduced her with sweet talk.{p}"
+  },
+  {
+   "id": "06:4dc0",
+   "op": "text",
+   "en": "...{a}.\nYour face is red.\nYou're getting interested in this book, aren't you?\nThe story's not over yet.{p}"
+  },
+  {
+   "id": "06:4e28",
+   "op": "text",
+   "en": "...The teacher fell for him in no time.\nShe went totally weak at the knees over his sweet talk.\nShe'd even secretly make him a packed lunch without him asking.\nShe did all kinds of stuff for him.\nOf course, the two of them kept it a secret that they were going out.\nThat thrill of wondering if you're gonna get caught.\nWhether you've got that or not makes a huge difference, you know.\nIt really gets you fired up.\nTimes like that.{p}"
+  },
+  {
+   "id": "06:4f90",
+   "op": "text",
+   "en": "...{a}.\nWell?\nDon't you think that's a pretty sweet story?\nThen again, what's on this book is...\nless a curse than some kind of sorcery.\nYou know, the kind you always hear about, right?{p}"
+  },
+  {
+   "id": "06:5034",
+   "op": "text",
+   "en": "A woman seducing the powerful men of her age and leading them astray...\nThis book was supposedly used for that kind of thing.\nSo if a woman uses this book, she can wrap men around her little finger.\nScary story, huh?\nHahaha.{p}"
+  },
+  {
+   "id": "06:50f8",
+   "op": "text",
+   "en": "...Hey, {a}.\nWhy don't you give it a try?{p}Go on, get yourself a taste of the good life...\n"
+  },
+  {
+   "id": "06:5144",
+   "op": "choice",
+   "en": "Try it"
+  },
+  {
+   "id": "06:514c",
+   "op": "choice",
+   "en": "I'll pass"
+  },
+  {
+   "id": "06:5164",
+   "op": "text",
+   "follows_choice": [
+    "06:5144"
+   ],
+   "en": "Alright.\nNow hold this book in your left hand.{p}"
+  },
+  {
+   "id": "06:5190",
+   "op": "text",
+   "en": "That's it.\nNow picture a flame.{p}"
+  },
+  {
+   "id": "06:51d8",
+   "op": "text",
+   "en": "...Well?\nIt's hot, isn't it?\nHuman emotions burn even hotter.\nPicture a hotter flame, hotter and hotter.\nMore.\nMore...............{p}"
+  },
+  {
+   "id": "06:525c",
+   "op": "text",
+   "en": "Your eyes are the sun the stars a shooting star, even on rainy days as long as I have you my life is rosy...............{p}Your outfit's so cute today it really suits you, I just love a girl with good taste oh and your shoes are stylish too, a girl who takes care with her feet too is the real deal if you ask me...............{p}"
+  },
+  {
+   "id": "06:533c",
+   "op": "text",
+   "en": "Thinking of you keeps me up all night, ah, let those sweet lips of yours murmur my name.....................\nCountless words swirled round and round in my head.\nAh...\nI was becoming a real lady-killer...\n\"{a}! {a}!☆\"\nShindo slapped me across the cheek.{p}"
+  },
+  {
+   "id": "06:5434",
+   "op": "text",
+   "en": "\"Well?\nDid it work?\nCome on, let's go hit on a woman...\"\nWith that, Shindo pointed, and there stood a woman teacher.{p}"
+  },
+  {
+   "id": "06:54c8",
+   "op": "text",
+   "en": "S-so sexy...\nWas there ever a teacher like that at our school?\n\"Go on, {a}.\nHit on her.\nThe way you are now, you could even win over a teacher...\"\nThe beautiful teacher stood there, waiting.\nI had to say something.{p}...What should I do?\n"
+  },
+  {
+   "id": "06:55a4",
+   "op": "choice",
+   "en": "Compliment her looks"
+  },
+  {
+   "id": "06:55b4",
+   "op": "choice",
+   "en": "Whisper words of love"
+  },
+  {
+   "id": "06:55c8",
+   "op": "choice",
+   "en": "Speak of the joy of meeting her"
+  },
+  {
+   "id": "06:55dc",
+   "op": "text",
+   "en": "\"{a}, you're pretty good at this, huh?\"\nShindo was grinning.\n\"...Shindo, you're in the way.\nIt's just getting to the good part.\"\nI brushed him off coldly.\nAnd then...\n\"{a}...\nDoesn't any of this strike you as weird?\nDo you really think there's something as convenient as a cursed book that helps you pick up women?\n...I'll tell you the truth.{p}"
+  },
+  {
+   "id": "06:5738",
+   "op": "text",
+   "en": "This book puts people under a spell of suggestion and makes them see illusions.\nMaybe there's a devil living inside it, huh?\nThey say that in exchange for showing people sweet dreams, it cuts a few years off the life of whoever dreams them.\nThat's a curse, alright.{p}"
+  },
+  {
+   "id": "06:581c",
+   "op": "text",
+   "en": "So what's standing in front of you right now isn't a teacher.\nIt's just a bookshelf.\nA short little bookshelf.\nYou were whispering sweet nothings to a bookshelf.\nAnd your lines weren't all that classy, either.\nHahaha.........\"{p}"
+  },
+  {
+   "id": "06:58f0",
+   "op": "text",
+   "en": "Wh... what?★\nHow could Shindo say something like that?\n\"Th-that's a lie!☆\nShe's a teacher!☆\nShe's not some bookshelf!\nRight, Miss...\"{p}"
+  },
+  {
+   "id": "06:5988",
+   "op": "text",
+   "en": "\"Ah, {a}!\nWhat are you doing, banging your head on a bookshelf...\"\n.................... Everything went black.{p}"
+  },
+  {
+   "id": "06:5a04",
+   "op": "text",
+   "en": "This couldn't be happening.\nMy strength seemed to be draining away...\nI felt an impact on my head.\nAs if someone had hit me...\nWas this the shock of the devil taking away years of my life?\nI didn't know.\nI didn't know anything anymore.\nMy head hurt.\nIt hurt...\nI collapsed limply to the floor.\nAnd slowly, I lost consciousness...{p}"
+  },
+  {
+   "id": "06:5b24",
+   "op": "text",
+   "follows_choice": [
+    "06:55a4"
+   ],
+   "en": "\"Ah... my beautiful one.\nBefore you, every flower fades.\nYour eyes, fresh as brimming clear water.\nYour smile, like light dancing and sparkling on the surface of a lake.\nEven the gentle breeze must hesitate to touch you.\nThat is how noble and dazzling you are.\"\n...The teacher blushed.{p}"
+  },
+  {
+   "id": "06:5c48",
+   "op": "text",
+   "follows_choice": [
+    "06:55b4"
+   ],
+   "en": "\"Love... it is the story of a man and a woman.\nThere is only one thing I wish to tell you now.\nMy... love for you.\nAh☆\nI can think of nothing but you anymore.\nEven if I must make an enemy of the whole world...\nAs long as I can win your heart, I don't care what happens.\nThere is only you.\nFor me, there is no one but you...\"\nThe teacher looked down bashfully.{p}"
+  },
+  {
+   "id": "06:5dac",
+   "op": "text",
+   "follows_choice": [
+    "06:55c8"
+   ],
+   "en": "\"I cannot stop giving thanks to fate right now.\nTo the fate that let me meet you...\nI want to give you all the happiness in this world.\nAnd I want your smile to be mine and mine alone...\nIf that wish came true, I could die happy.\nI would die for you.\nThat is my truth...\"\nThe teacher's eyes grew misty.{p}"
+  },
+  {
+   "id": "06:5ed4",
+   "op": "text",
+   "follows_choice": [
+    "06:514c"
+   ],
+   "en": "What are you talking about?\nDon't throw away a chance like this.\nJust hold the book already!\nWith your left hand, got it?\nWhat are you hesitating for?\nHurry up!\n...Overwhelmed by Shindo's intensity, I ended up taking hold of the book.\nShindo smiled, satisfied, and went on...{p}"
+  },
+  {
+   "id": "06:5fc8",
+   "op": "text",
+   "follows_choice": [
+    "06:1514"
+   ],
+   "en": "\"I see, so you don't want to.\nThen I'll do it for you.\"\nWith that, Shindo placed his hand on the book's cover.\n\"Alright. Now watch closely.\nThis book...\"{p}"
+  },
+  {
+   "id": "06:6084",
+   "op": "text",
+   "en": "\"Wh-what are you doing?!★\"\nShindo had hit me with the cursed book.\nWhat was he thinking?\nDoing something like that... what if it brought a curse down on us...{p}"
+  },
+  {
+   "id": "06:6128",
+   "op": "text",
+   "en": "\"{a}, you're way too cocky.\"\nShindo was glaring at me menacingly.\n\"This book's got one hell of a curse on it.\nGet this: whoever gets hit with this book gets cursed.\nFirst, you put your hand on the book and picture the name of the person you want to curse.\nThen you smack them on the head with the book.\nAnd that's how the curse takes hold.\nIf you'd just put your hand on it like you were told, I would've let you curse somebody else.{p}"
+  },
+  {
+   "id": "06:629c",
+   "op": "text",
+   "en": "Hahaha...\nThis book devours the soul of whoever it curses.\nWell? Scared?\n...Mind you, there is one way you can be saved.{p}"
+  },
+  {
+   "id": "06:6324",
+   "op": "text",
+   "en": "Alright, I'll tell you.\nAll you've gotta do is answer the questions I'm about to ask.\nDo that, and you won't get cursed.\nListen, you'd better answer seriously.{p}"
+  },
+  {
+   "id": "06:63d4",
+   "op": "text",
+   "follows_choice": [
+    "06:17a8"
+   ],
+   "en": "You've got a rotten personality, you know that?\nDid you really think I'd quit just because you said that?\nYou've gotta be kidding.\nThere's no backing out for you now.\nIf you quit here, you're gonna get cursed for sure.\nWell, just watch.\nI'm about to ask you the questions.\nAnswer them seriously.\nIf you just answer any old way, you're the one who'll be in trouble.\nWhether you get cursed or not depends on your answers.{p}"
+  },
+  {
+   "id": "06:6528",
+   "op": "text",
+   "follows_choice": [
+    "06:190c"
+   ],
+   "en": "Isn't that answer itself a lie?\nWho could believe you've never told a single lie since the day you were born?\nWell, even if you really haven't lied,\nhaven't there been times when people who dealt with you felt they'd been fooled?\nI sure felt that way just now.\nI thought you were a bit more decent than this.\nAnd here you are, telling me with a straight face that you've never lied.\nListen, think hard before you answer.\nTake a serious look back at your life.{p}"
+  },
+  {
+   "id": "06:66bc",
+   "op": "text",
+   "follows_choice": [
+    "06:196c"
+   ],
+   "en": "Well, everybody feels like that sometimes.\nJust don't go doing anything rash.\nAlright, next.{p}"
+  },
+  {
+   "id": "06:671c",
+   "op": "text",
+   "follows_choice": [
+    "06:19d8"
+   ],
+   "en": "I see...\nI wonder what that person thinks of you...{p}"
+  },
+  {
+   "id": "06:6768",
+   "op": "text",
+   "follows_choice": [
+    "06:1a68"
+   ],
+   "en": "You're a hopeless liar.\n...From now on, watch what you say.{p}"
+  },
+  {
+   "id": "06:67b8",
+   "op": "text",
+   "follows_choice": [
+    "06:1ac0"
+   ],
+   "en": "How can you even say that?\nYou've never once thought about things from someone else's point of view, have you?\nThat's just the kind of person you are.\nIt's always the ones who think they've never hurt anybody who end up hurting all kinds of people.\nWell, you're answering honestly about how you feel.\nSo I guess you're not lying.\nBut that answer was the worst.\n...Alright, next one.{p}"
+  },
+  {
+   "id": "06:6918",
+   "op": "text",
+   "follows_choice": [
+    "06:1b70"
+   ],
+   "en": "Right, right.\nIf you say so, it must be true.\nYou're a perfect human being who's never betrayed anyone.\nGo right ahead and think that, all by yourself.{p}Someone like you would never even dream that people might hate you, huh?\n"
+  },
+  {
+   "id": "06:69f4",
+   "op": "choice",
+   "en": "There's no way they hate me"
+  },
+  {
+   "id": "06:6a0c",
+   "op": "choice",
+   "en": "They might hate me"
+  },
+  {
+   "id": "06:6a30",
+   "op": "text",
+   "follows_choice": [
+    "06:69f4"
+   ],
+   "en": "...........\nThere are all kinds of people in this world.\nNot everybody's gonna get along with you.\nThere's bound to be some who hate you.\nTry thinking about that kind of thing a little.{p}"
+  },
+  {
+   "id": "06:6ae4",
+   "op": "text",
+   "en": "...What's wrong?\nWhat's with that face?{p}"
+  },
+  {
+   "id": "06:6b0c",
+   "op": "text",
+   "follows_choice": [
+    "06:6a0c"
+   ],
+   "en": "I see.\nIn the end, you've just got the kind of nasty personality that makes people hate you.{p}"
+  },
+  {
+   "id": "06:6b60",
+   "op": "text",
+   "follows_choice": [
+    "06:1d38"
+   ],
+   "en": "What are you talking about?\nDon't get cocky with me.\nIf people hate you, then naturally they hold grudges against you too.\n...You don't want to believe that?\n{a}, quit struggling. It's pointless.\nUnderstand what you are.\nThere's definitely someone in this world who holds a grudge against you.{p}"
+  },
+  {
+   "id": "06:6c50",
+   "op": "text",
+   "follows_choice": [
+    "06:1f38"
+   ],
+   "en": "I figured you'd say that.\nThings not working out with people, your studies not going well.\nAll kinds of stuff happens, right?\nAlright, next one.{p}"
+  },
+  {
+   "id": "06:6cdc",
+   "op": "text",
+   "follows_choice": [
+    "06:205c"
+   ],
+   "en": "I see.\nBut haven't you ever wanted to punch someone?\nIsn't it just that you want to, but can't?\n...And what do you think of yourself for that?\n.........\nNext.{p}"
+  },
+  {
+   "id": "06:6d7c",
+   "op": "text",
+   "follows_choice": [
+    "06:21c8"
+   ],
+   "en": "Can you say for sure there's never been a single time?\nCan you say you've gotten through life putting on a nice face for everybody?\nOr is it that you don't feel guilty even when you do something wrong?\nOr do you only notice your sins after you've done something bad?\n...Either way, that's not a good thing.\nThis book says so too.\n{a}, it says someone like you deserves to be cursed.\nHey, deep down you're really a bad person, aren't you?\nThat's the feeling I get.{p}"
+  },
+  {
+   "id": "06:6ef0",
+   "op": "text",
+   "follows_choice": [
+    "06:2340"
+   ],
+   "en": "You've never had any regrets?\nAren't you just acting tough?\nOr are you saying every single day of yours is totally satisfying?\nYeah, right.\nWell, maybe that's fine for you.\nYou've got the face of someone who only cares about themselves.\nBut the people around you might have regrets.\nLike, they wish they'd never met someone like you...{p}"
+  },
+  {
+   "id": "06:7034",
+   "op": "text",
+   "follows_choice": [
+    "06:2458"
+   ],
+   "en": "Seriously?\nYou don't even kill mosquitoes?\nAre you saying the bugs on the vegetables you eat don't get killed?\nYou've never even stepped on an ant?\nGet a clue about yourself.\nDirectly or indirectly, you've gotta have killed bugs.\nEven if you think you haven't, you have.\nSomeone like you could never understand the pain of all those dead bugs, huh?{p}"
+  },
+  {
+   "id": "06:7190",
+   "op": "text",
+   "follows_choice": [
+    "06:2620"
+   ],
+   "en": "Well, of course you can't.\nIt's impossible for you.\nThat much is obvious.{p}"
+  },
+  {
+   "id": "06:71f0",
+   "op": "text",
+   "follows_choice": [
+    "06:2720"
+   ],
+   "en": "Oh, is that so?\nBut saying that won't erase the sins you've committed up to now.\nWhat's with that face?\nAre you telling me you've never committed a single sin in your life?\nCan you still say that after answering my questions?\nWell? Can you?\nYou look back on the life you've lived and don't feel the slightest remorse?{p}"
+  },
+  {
+   "id": "06:7314",
+   "op": "text",
+   "follows_choice": [
+    "06:2868"
+   ],
+   "en": "You're hopeless.\nA total scumbag.\nYou're gonna get what's coming to you one of these days.........{p}"
+  },
+  {
+   "id": "06:7374",
+   "op": "text",
+   "follows_choice": [
+    "06:2954"
+   ],
+   "en": "I see.\nSo you've even done stuff like that.\n...Then I'll ask you one more time.\nThink hard before you answer.{p}"
+  },
+  {
+   "id": "06:73dc",
+   "op": "text",
+   "follows_choice": [
+    "06:29d0"
+   ],
+   "en": "You're hopeless.\nYou're the lowest of the low.\nYou say you regret your life, but you won't lift a finger to change.\nListen, {a}.\nPeople like you...{p}"
+  },
+  {
+   "id": "06:7478",
+   "op": "text",
+   "follows_choice": [
+    "06:1c98"
+   ],
+   "en": "Quit screwing around.\nYou've betrayed people, haven't you?\nThen you've gotta be hated.\nHow can you not realize that?\nPeople hate you, no doubt about it.\nThey hate you.\nAnd they hold grudges against you.{p}"
+  },
+  {
+   "id": "06:7554",
+   "op": "text",
+   "en": "...What's wrong?\nDon't look at me with that face.{p}"
+  }
+ ]
+}

@@ -1,0 +1,422 @@
+{
+ "slice": "S218",
+ "scene": "61",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S217",
+ "next": "S219",
+ "todo": [
+  "- S219 61:5370/538c should match S218 16f0/170c (same choices)."
+ ],
+ "rows": [
+  {
+   "id": "61:0c38",
+   "op": "text",
+   "en": "My name is Akemi Iwashita.\nI'm a third-year.\nSo I'm the one telling the second story.{p}"
+  },
+  {
+   "id": "61:0c80",
+   "op": "text",
+   "en": "Heh, I'm glad.\nThat my turn came around so early...{p}"
+  },
+  {
+   "id": "61:0cc0",
+   "op": "text",
+   "en": "Tell me, {a}...\nDoes the newspaper club always stay this late?\n...To be honest with you.\nI don't really approve of staying at school until so late.\nBecause the school after hours is dangerous in all sorts of ways.\nOnce the dismissal time has passed, and all the students are gone...\n...when the hour they call omagatoki, the hour of meeting demons, arrives.\nThis place stops being the school we know.\nThe number of steps on the stairs changes...\nThe sound of a bouncing ball comes from the empty gym...\nEerie stains rise up on the classroom walls...\nAfter school, this place becomes a dreadful space ruled by evil.\nHeh...\nIs it still a little early for omagatoki?\nBut the hour of evil is already close at hand.\nDusk...\nThe threshold of night...\nWhat I'm about to tell you is the story of a student who went through something terrifying in the school at night.{p}"
+  },
+  {
+   "id": "61:0f84",
+   "op": "text",
+   "en": "...There was once a boy at this school named Yasuhiro Nanase.\nI hear he was cheerful, and good at making people laugh.\nEvery class has at least one, doesn't it?\nThe kind of boy both the boys and the girls like...\nBut you see, Nanase had a bad habit that even the teachers couldn't do anything about.\nHe... forgot things. All the time.\nTextbooks, notebooks, homework, gym clothes, his lunch......\nThey say not a single day went by without him forgetting something.{p}"
+  },
+  {
+   "id": "61:1124",
+   "op": "text",
+   "en": "Heh...\n{a}?{p}What about you?\n"
+  },
+  {
+   "id": "61:115c",
+   "op": "choice",
+   "en": "I forget things a lot"
+  },
+  {
+   "id": "61:116c",
+   "op": "choice",
+   "en": "I don't forget things much"
+  },
+  {
+   "id": "61:1180",
+   "op": "choice",
+   "en": "I never forget anything"
+  },
+  {
+   "id": "61:119c",
+   "op": "text",
+   "follows_choice": [
+    "61:116c"
+   ],
+   "en": "I see...\nSo you can't say it never happens.\nThen again, perhaps that's normal...\nBut you had better be careful.{p}"
+  },
+  {
+   "id": "61:121c",
+   "op": "text",
+   "en": "Heh...\nIt goes without saying that it's better not to forget things.{p}"
+  },
+  {
+   "id": "61:1264",
+   "op": "text",
+   "en": "Nanase must have thought so too.\nEvery time a teacher scolded him for forgetting something, every time everyone laughed at him, he must have sworn to himself that tomorrow, for sure, he wouldn't forget a thing.\nAnd at last, that day came.\nThe day Nanase didn't forget anything...\nIt was in his third year, I believe.\nHis textbooks...\nHis homework...\nHis lunch...\nHe had every last thing.{p}"
+  },
+  {
+   "id": "61:13b8",
+   "op": "text",
+   "en": "\"How about that?\nNow you all know I can do it when I try, right?\"\nNanase looked thoroughly pleased with himself...\nYou'd think he had worked some great miracle.\nEveryone was so astonished, and\n\"It's gonna rain spears tomorrow!\"\n...that was the joke going around.{p}"
+  },
+  {
+   "id": "61:14c0",
+   "op": "text",
+   "en": "But you see, Nanase was forgetful after all.\nIt happened after school that same day...{p}"
+  },
+  {
+   "id": "61:1520",
+   "op": "text",
+   "en": "Nanase went home in high spirits, but the moment he opened his bag to do his homework, it hit him.\nHe had art homework due the next day, but he had left the bag with his art supplies at school.\nHeh heh heh...\nThat kind of forgetting happens too, doesn't it?\nNanase panicked.\nAfter all his bragging to everyone that day, he had gone and forgotten something after all.{p}"
+  },
+  {
+   "id": "61:1684",
+   "op": "text",
+   "en": "Tell me, {a}?\nHave you ever forgotten something like that?{p}What would you do at a time like this?\n"
+  },
+  {
+   "id": "61:16f0",
+   "op": "choice",
+   "en": "Go back to school to get it"
+  },
+  {
+   "id": "61:170c",
+   "op": "choice",
+   "en": "Get to school early the next morning and do the homework there"
+  },
+  {
+   "id": "61:1730",
+   "op": "choice",
+   "en": "Give up on the homework"
+  },
+  {
+   "id": "61:174c",
+   "op": "text",
+   "follows_choice": [
+    "61:16f0"
+   ],
+   "en": "You'd go back for it.\nHeh, I thought you'd say that.\n"
+  },
+  {
+   "id": "61:1780",
+   "op": "text",
+   "en": "...Nanase was the same.\nHe sprang up from his chair without thinking and headed for the school.\nAny other homework would have been one thing, but he wasn't confident he could finish art homework first thing in the morning.\n"
+  },
+  {
+   "id": "61:181c",
+   "op": "text",
+   "en": "Besides, he was bad at getting up early.\nHe always woke up just barely in time not to be late, which is why he always forgot something or other.{p}"
+  },
+  {
+   "id": "61:189c",
+   "op": "text",
+   "en": "Seen under the moonlight, the school looked completely different from the way it did in the daytime.\nIt should have been familiar, yet it was like a place he was visiting for the first time...\nThe hushed, silent building even began to seem like some huge creature holding its breath in the darkness.\nEvery time the lukewarm wind brushed his cheek, a chill ran down his spine, and in a corner of his mind he heard a voice, almost a warning, telling him to turn back.{p}"
+  },
+  {
+   "id": "61:19f0",
+   "op": "text",
+   "en": "Even so, Nanase didn't try to turn back.\nThe one thing he wanted to avoid was everyone finding out he had forgotten something.\nAfter bragging so much, they'd laugh at him all the more.\nBesides...\nA high schooler saying,\n\"I was too scared of the school at night to go get what I forgot\"\n...would be a little embarrassing, wouldn't it?{p}"
+  },
+  {
+   "id": "61:1b34",
+   "op": "text",
+   "en": "Nanase slipped into the building so no one would see him, and walked down the dark hallway with nothing but the feeble glow of the emergency lights to guide him.\nAll he could hear were his own footsteps...\nWith every step he took, a chill crept up from the floor under his feet.\nHe had made it this far, driven only by the wish not to be humiliated, but...\nAs he listened to his dry footsteps echoing down the empty hallway, I imagine he grew more and more uneasy.\n\"Maybe I should've just gotten up early and come tomorrow...\"\nThey say he muttered something like that.\nHeh...\nIt's a little late to be saying that now, isn't it?\nHe hurried down the hallway, climbed the stairs...\n"
+  },
+  {
+   "id": "61:1d44",
+   "op": "text",
+   "en": "And after all that, Nanase finally reached his own classroom.{p}"
+  },
+  {
+   "id": "61:1d90",
+   "op": "text",
+   "en": "Then he timidly opened the door and stepped inside, peering in as he went.\nWith the moonlight coming in through the windows, and his eyes used to the dark, he could make out the room without turning on the lights.\nAt this rate, he'd be done sooner than he thought...\nI imagine that's what went through his mind.\nBut you see, the moment he looked at his seat by the window, Nanase was stunned.\nThere was nothing hanging on the hook at the side of his desk.{p}"
+  },
+  {
+   "id": "61:1f0c",
+   "op": "text",
+   "en": "He hurriedly shoved his hand inside his desk, but what he was looking for wasn't there either.\n\"Oh no!\nMy art supplies are all in the art room!\"{p}"
+  },
+  {
+   "id": "61:1fa0",
+   "op": "text",
+   "en": "...Heh heh heh.\nHe really was a forgetful one, wasn't he?\nHe had even forgotten where his own things were.{p}"
+  },
+  {
+   "id": "61:2008",
+   "op": "text",
+   "en": "Tell me, {a}.\nYou know the annex next to the new school building, the one just for special classrooms like the art room and the music room?\nUntil that annex was added on, most of the classes that used special classrooms were held in the old school building.\nThey say that back then, every time students changed rooms, they had to walk along the walkway between the two buildings, which was nothing but a simple rain cover over a row of boards...\nYes...\nThe art room where Nanase's art supplies were was in the old school building too.\n{a}...?{p}Have you ever been inside the old school building?\n"
+  },
+  {
+   "id": "61:21cc",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "61:21d4",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "61:21dc",
+   "op": "text",
+   "follows_choice": [
+    "61:21cc"
+   ],
+   "en": "Oh, you've been inside?\nYou're a naughty one, aren't you...\nThat place is off-limits.\nYou'd be in serious trouble if a teacher caught you.{p}"
+  },
+  {
+   "id": "61:2268",
+   "op": "text",
+   "en": "Heh heh heh...\nDon't worry.\nI'll keep it a secret for you.{p}"
+  },
+  {
+   "id": "61:22b0",
+   "op": "text",
+   "en": "...Let's get back to the story.{p}"
+  },
+  {
+   "id": "61:22e4",
+   "op": "text",
+   "en": "Nanase headed for the art room.\n\"I'm fine, I'm fine.\nI'm not scared one bit.\"\nThat's what he kept telling himself, of course.\n"
+  },
+  {
+   "id": "61:2358",
+   "op": "text",
+   "en": "Through the dark, lonely hallway, down the stairs...{p}"
+  },
+  {
+   "id": "61:23a4",
+   "op": "text",
+   "en": "He came to a lone door at the end of the first-floor hallway.\n"
+  },
+  {
+   "id": "61:23e0",
+   "op": "text",
+   "en": "Heh, the door that leads out to the walkway.\nNanase took one deep breath and slowly opened the door.{p}"
+  },
+  {
+   "id": "61:245c",
+   "op": "text",
+   "en": "Outside the door, pitch-black darkness stretched out before him.\nAll he could faintly make out was the narrow path of boards stretching away, and just a few of the posts that held up the rain cover.\nFarther on, both the path and the posts melted into the dark, and the old school building was lost in it completely.\nHe couldn't see it at all.\nIt's like it leads down to the bottom of the abyss...\nThat's what Nanase thought.\nAs if one false step would have the ground swallow him up on the spot...\nEven wild ideas like that came into his head.\n"
+  },
+  {
+   "id": "61:25fc",
+   "op": "text",
+   "en": "Creak... creak...\nOnly the creaking of the boards sounded strangely loud.\nCreak... creak-creak...\n...That's weird.\nDoes one person walking really make this much noise...?\n"
+  },
+  {
+   "id": "61:26b4",
+   "op": "text",
+   "en": "Skreek.\nAnd...\nOn top of the footsteps, I think I hear something like metal grinding, too...\nWithout realizing it, Nanase had started walking softly, muffling his steps.\n"
+  },
+  {
+   "id": "61:2758",
+   "op": "text",
+   "en": "Creak, clatter...\nThe strange noises gradually grew louder.\nHe couldn't see anyone, but someone besides Nanase was walking along the walkway.\n"
+  },
+  {
+   "id": "61:27ec",
+   "op": "text",
+   "en": "...Someone's coming.\nFrom in front of me...?\nOr from behind...?\n"
+  },
+  {
+   "id": "61:2848",
+   "op": "text",
+   "en": "Thunk, clatter-clack...\n"
+  },
+  {
+   "id": "61:2870",
+   "op": "text",
+   "en": "...In front!\nIt's coming this way from up ahead!\nThe instant he thought that...\n"
+  },
+  {
+   "id": "61:28c4",
+   "op": "text",
+   "en": "The boards shook with a rattle.\nNanase stopped dead without meaning to.\nOver toward the old school building, he could dimly see something like a human figure.\nIt seemed the figure was walking toward Nanase.\n"
+  },
+  {
+   "id": "61:299c",
+   "op": "text",
+   "en": "...A teacher making the rounds?\nBut nobody would make the rounds without even a flashlight...\nThen who on earth could it be?\nThe figure looked unsteady, swaying feebly, and yet it gave off a strange sense of presence.\n"
+  },
+  {
+   "id": "61:2a64",
+   "op": "text",
+   "en": "Creak...\nThe creaking of the walkway sounded like a scream.\n...Maybe whatever's coming from over there isn't human.\nNanase couldn't shake that thought.\nHeh heh heh...{p}What would you do at a time like this?\n"
+  },
+  {
+   "id": "61:2b38",
+   "op": "choice",
+   "en": "Ignore it and keep going"
+  },
+  {
+   "id": "61:2b48",
+   "op": "choice",
+   "en": "Wait and watch for a while"
+  },
+  {
+   "id": "61:2b5c",
+   "op": "choice",
+   "en": "Run away as fast as I can"
+  },
+  {
+   "id": "61:2b80",
+   "op": "text",
+   "follows_choice": [
+    "61:2b48"
+   ],
+   "en": "I see, you'd wait and watch.\nNanase did the same.\nHe stood stock-still on the spot, watching to see what would happen.\n...Or rather, he was frozen stiff with fear.{p}"
+  },
+  {
+   "id": "61:2c38",
+   "op": "text",
+   "en": "As Nanase watched, holding his breath, the figure came slowly toward him with a dull clanking and rumbling.\nAs if surfacing out of the darkness, its shape gradually became clear.\nAnd when it came close enough that he could make out even the details of its face...\n"
+  },
+  {
+   "id": "61:2d18",
+   "op": "text",
+   "en": "\"..........☆\"\nNanase caught his breath in spite of himself.{p}"
+  },
+  {
+   "id": "61:2d68",
+   "op": "text",
+   "en": "What appeared from the far end of the walkway was a soldier in a tattered military uniform.\nThe soldier was pushing an empty cart, staring into space with exhausted, hollow eyes.\nThen he stopped in front of the trembling Nanase, his hollow eyes flashed with a sudden glint, and he glared at him with a terrifying face.\n\"Wh-waaaaugh!\"\n"
+  },
+  {
+   "id": "61:2e90",
+   "op": "text",
+   "en": "Nanase screamed and ran.\nBack the way he came, toward the new school building.\nThen the soldier came after Nanase, clanking and rumbling.{p}"
+  },
+  {
+   "id": "61:2f30",
+   "op": "text",
+   "en": "Nanase ran for his life.\n"
+  },
+  {
+   "id": "61:2f4c",
+   "op": "text",
+   "en": "If he could just make it to the new school building, maybe he'd be safe...\nI imagine he was thinking something like that.\nBut you see, the soldier kept coming after Nanase, wherever he went.\nEven into the new school building itself...{p}"
+  },
+  {
+   "id": "61:300c",
+   "op": "text",
+   "en": "He tore down the first-floor hallway...\nBefore he knew it, the end of the hallway was drawing near.\nAhead of him was nothing but a single classroom door and the stairs up to the second floor.\nBehind him, the soldier was still coming after him.\nRun upstairs...\nOr hide in the classroom...\n"
+  },
+  {
+   "id": "61:30f8",
+   "op": "text",
+   "en": "Tell me, {a}.{p}What do you think Nanase did?\n"
+  },
+  {
+   "id": "61:312c",
+   "op": "choice",
+   "en": "He ran up the stairs"
+  },
+  {
+   "id": "61:3140",
+   "op": "choice",
+   "en": "He hid in the classroom"
+  },
+  {
+   "id": "61:3150",
+   "op": "choice",
+   "en": "He stopped running and charged at the soldier"
+  },
+  {
+   "id": "61:3184",
+   "op": "text",
+   "follows_choice": [
+    "61:3140"
+   ],
+   "en": "That's right.\nYou got it.\nNanase ducked into the nearest classroom and decided to hide, keeping still under a desk.{p}"
+  },
+  {
+   "id": "61:3204",
+   "op": "text",
+   "en": "Without thinking, he had chosen a desk far from the door.\n"
+  },
+  {
+   "id": "61:3248",
+   "op": "text",
+   "en": "Clank... rumble...\nFrom the hallway came the sound of the cart the soldier was pushing.\n...Please, just go on past!\nNanase prayed with all his heart.\n"
+  },
+  {
+   "id": "61:32cc",
+   "op": "text",
+   "en": "But then...\n"
+  },
+  {
+   "id": "61:32e0",
+   "op": "text",
+   "en": "...Clunk.\nThe sound stopped dead, and the classroom door was flung open.{p}"
+  },
+  {
+   "id": "61:3358",
+   "op": "text",
+   "en": "Clack... clack...\nThe soldier's footsteps, drowned out until now by the noise of the cart, echoed through the hushed classroom.\n"
+  },
+  {
+   "id": "61:33dc",
+   "op": "text",
+   "en": "And then...\n"
+  },
+  {
+   "id": "61:33f8",
+   "op": "text",
+   "en": "Knock knock...\nFrom across the room came the sound of a desk being lightly rapped.\nAnd after that,\n\"Not here...\"\ncame a muttering voice...\n"
+  },
+  {
+   "id": "61:3474",
+   "op": "text",
+   "en": "Next, a desk was rapped a little closer.\n\"Not here either...\"\nKnock knock...\n"
+  },
+  {
+   "id": "61:34d4",
+   "op": "text",
+   "en": "\"Not here either...\"\nThe soldier was checking under the desks, coming closer and closer.\nOne at a time, slowly, surely...\nAnd then...{p}"
+  },
+  {
+   "id": "61:3580",
+   "op": "text",
+   "en": "Knock knock.\n"
+  },
+  {
+   "id": "61:359c",
+   "op": "text",
+   "en": "At last came the sound of the desk right next to his being rapped.\n\"Not here either...\"\n...Oh no, this is it. What do I do?\nNanase shut his eyes and trembled.{p}"
+  },
+  {
+   "id": "61:363c",
+   "op": "text",
+   "en": "Clack... clack...\n"
+  },
+  {
+   "id": "61:365c",
+   "op": "text",
+   "en": "The soldier came closer and closer.\nOne step, two steps...\nClack.\nThe footsteps rang out right beside him.\n...It's all over!\nNanase squeezed his eyes shut even tighter.\n"
+  },
+  {
+   "id": "61:36f0",
+   "op": "text",
+   "en": "But then...\nFor some reason, there was no sound of the desk being rapped.\nEven after he stayed still for a while, he couldn't hear a single sound.\n...Maybe I'm safe.\nSlowly steadying his breathing, Nanase opened his eyes.\nAnd at that very moment!{p}"
+  },
+  {
+   "id": "61:37e8",
+   "op": "text",
+   "en": "What Nanase saw was the terrifying face of the soldier, peering in at him...☆\nThe soldier twisted his lips into an eerie grin.\n\"So this is where you were...\"{p}"
+  }
+ ]
+}

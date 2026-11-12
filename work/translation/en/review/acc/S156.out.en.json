@@ -1,0 +1,23 @@
+{
+ "rows": {
+  "40:b468": "You really are a scaredy-cat, huh.\nHow boring.\nI thought you, at least, were different, {c}{f:|}.\nUgh, boring, so boring.\nForget it!\nI'm not telling my story anymore.\nI don't want to talk to boring people any longer.\nThat's the end.\nIf the seventh person doesn't come, the next one's the last, right?\nHurry up and move on to the next one.{p}",
+  "40:b6b4": "What {f:could|could} be in the locker Seto supposedly used, now?\nSince it's off-limits, maybe there's nothing in it at all{f:?|?}\n\"What are you thinking so hard about, {c}{f:|}?\"\nFukuzawa peered into {f:my|my} face.\n\"Hey, which locker are we opening next?\"{p}",
+  "40:bcb4": "\"{c}{f:|}, open it for me, will you?\"\nShe said something terrifying.\n\"{f:M|M}-{f:me|me}...?\"\nWhile I hesitated, Fukuzawa {f:glared at me|looked at me almost like she was glaring}.\n\"{f:Come on|Come on}, {f:hurry up|please}☆\"\nPushed by her, I reluctantly opened the locker, and...{p}",
+  "40:c688": "\"........................\"\nIn the locker were a jacket, notebooks, a brush, and a mirror.\n.........But {f:is it really okay|is it really okay} for us to keep opening lockers one after another like this?\nSneaking into the girls' swim club room without permission and peeking into locker after locker...\n{f:Is|Is} something like this really allowed?\n...It's {f:a problem, all right|not good, is it}.\n{f:I mean|I mean}, {f:these lockers are flat-out full of people's personal things|we've even got a boy here with us}.\nAnd above all, it's the girls' swim club room...\n...{f:I don't know about this|Hmm}.{p}",
+  "40:cde0": "...Two more.\nThere are {f:two lockers left|just two lockers left}.\nOne of those two might be the never-opened locker.\nNow that we'd come this far, I could understand her getting anxious and saying strange things{f:.|.}\nBut...\n\"Fukuzawa, whatever happens, I'm opening this locker.\"\n{f:I|I} took a deep breath, then opened the door of the locker I was touching...{p}",
+  "40:d7f8": "I decided to wait a while and see what happened.\nEven I don't really know why I did something so cruel.\nBut I couldn't lift a finger.\nBecause I just couldn't believe what was happening right in front of me.\nAnd then...{p}"
+ },
+ "notes": [
+  "40:b468: FIX added detail - source repeats tsumannai twice after aah; English had three 'boring's",
+  "40:b6b4: FIX meaning - 'to iu rokka' is hearsay (the locker Seto was said to have used); added 'supposedly'",
+  "40:bcb4: FIX meaning - female branch is 'ne, onegai' (come on, please); English 'Please, pretty please' doubled the plea and dropped 'ne'",
+  "40:c688: FIX meaning - yurusareru here is 'allowed/permitted', not 'forgiven'",
+  "40:c688: UNSURE - source {f} branches look swapped: the male branch worries about personal items, the female branch says 'a boy has come along with us too'. Translated faithfully as written; flag for the lead (possible original-game quirk)",
+  "40:cde0: FIX meaning - only the female branch has 'dake' (just); male branch now plain 'two lockers left'",
+  "40:d7f8: FIX meaning - restored the causal 'kara da' (because) linking disbelief to not intervening",
+  "40:bae0: KEPT OMISSION - speaker of 'This locker smells kind of nasty' is unmarked in source (could be the player, given Fukuzawa's following 'watashi mo'); left unattributed",
+  "40:c54c: UNSURE - tsukareru has no stated subject; kept 'She's exhausting' as the cause is Fukuzawa's prank; 'This is exhausting' would be the neutral reading",
+  "40:e214: UNSURE - the closing '{a}.' call is unattributed; next branches show it is the last one (male final storyteller); left as in source",
+  "40:cf4c: KEPT - 3-character dot run inside quotes rendered '...', same as 40:e53c; rule only fixes 2 and 4+ runs"
+ ]
+}

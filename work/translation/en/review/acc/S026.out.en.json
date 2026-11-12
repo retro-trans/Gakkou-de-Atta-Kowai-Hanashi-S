@@ -1,0 +1,22 @@
+{
+ "rows": {
+  "07:1221c": "\"...I...'ll... cur...se... you... to... de............a............th\"\nHe collapsed.\nIt wasn't as if I couldn't have seen it coming, Hino taking his own life.\nBut I couldn't stop him.\nI had no chance to stop him, and even if I had, would I have stopped him?\n\"...If you want to curse me, go ahead and curse me. I'm not afraid of your curse.\nThanks to you, I've found the confidence to live strong.\"\nNo answer came back from Hino.\nBy now he must be riding the train to hell.{p}",
+  "07:12474": "I dialed.\n\"...Hello, police? There's been a murder at the school. The school is at..................\"{p}",
+  "07:126ec": "\"I don't need it. Not something like that!\"\nI turned my face away.\n\"So tough. How cool.\"\nAt Hino's joking tone, someone giggled.{p}",
+  "07:12780": "\"Then just die.\"\nIwashita said it coldly.\nHow can she look at me with a face like that?\nThose aren't the eyes you look at a human being with★\n\"No way, that'd be a problem.\"\nFukuzawa pouted.\n\"That's right. It'd be no fun if you died off that easily.\"\nIs this really Hino?\nIs this the same Hino, our senior, who coached us first-years so patiently★\nHis eyes gleamed coldly, as if he were a completely different person.\n\"Then let's do this.\nIf you lose this game and die, I'll pay a visit to your house.\"\n...What?\nAs I looked up, he grinned at me.\n\"If I tell them I'm your senior from the club, they'll surely serve me a cup of tea at least.\nThen, when no one's looking, I'll drop the same capsule I made you swallow into your family's teacups.\"\n\"Wh... what a horrible thing to--!\"\nI yelled before I knew it.{p}",
+  "07:12b5c": "No way in hell am I wagging my tail for a coward like him!{p}"
+ },
+ "notes": [
+  "07:1221c: FIX pause - Hino's dying syllable-by-syllable curse has two 4-ellipsis pauses (before shi and before the final ru); English had one 6-dot run and a trailing ellipsis the source lacks. Restored two 12-dot runs inside 'death', ending on the last syllable like the source; short runs keep the slice-wide 2-ellipsis = '...' mapping.",
+  "07:12474: FIX pause - the phone call trails off on 6 ellipsis chars; restored to 18 dots (English had 3).",
+  "07:126ec: FIX tone - odoketa = joking/clowning, not 'mocking'.",
+  "07:12780: FIX verb - 'ano Hino-senpai datte iu no ka' is a question; restored 'Is this' so the line is not a verbless fragment.",
+  "07:12b5c: FIX added detail - mappira da = 'no way'; 'I'd rather die' added a death the source does not say (the player is poisoned, so it changes the meaning).",
+  "TODO: Lord Hino - this slice already uses 'Lord Hino' (07:12cf8, 07:13870, 07:148c0); nothing to fix here.",
+  "07:14f30: UNSURE - speaker of 'Hurry, hurry, {a}!' left unnamed as in the source; next row (Hosoda mimes running) suggests Hosoda (same at 07:15398, 07:1580c).",
+  "07:12780: UNSURE - 'That's right. It'd be no fun...' left unattributed as in the source; context suggests Hino (the next lines describe Hino's change).",
+  "07:13670: KEPT OMISSION - speaker of 'You never learn' not named in the source; the next row (Shindo kicks) makes Shindo likely, English leaves it to context.",
+  "07:12410: RETURN - 'beyond the sky' is literal for sora no mukou; editorial may prefer 'on the far edge of the sky'.",
+  "Scene 07 single-gender (male): player uses boku, 'like a man' (12b90, 12c6c), Iwashita/Fukuzawa use {a}-kun; no gendered fixes needed."
+ ]
+}

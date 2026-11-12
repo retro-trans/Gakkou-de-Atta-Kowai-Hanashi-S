@@ -1,0 +1,178 @@
+{
+ "_style": {
+  "romanization": "Hepburn without macrons (Shuichi, Shindo, Shoji, Kota). The font has no macron letters.",
+  "name_order": "Full names in Western order (Akemi Iwashita). Characters address each other by surname as in the Japanese.",
+  "honorifics": "Dropped (-san, -kun, -senpai). Use the plain surname; keep 'senpai' only where the senior/junior relation is the point of the line. DECISION PENDING USER CONFIRMATION.",
+  "class_names": "1年E組 -> Class 1-E; 一年生 -> first-year; 三年 -> third-year",
+  "sources": [
+   "https://vndb.org/v745/chars (names, ages, Hino = newspaper club, glasses)",
+   "https://www.gamer.ne.jp/news/201305030001/ (six storytellers; protagonist default name Sakagami Shuichi, changeable)",
+   "https://www.nintendo.co.jp/wii/vc/vc_gkh/vc_gkh_01.html (six storytellers gathered for a newspaper feature)",
+   "game script: SDATA00 prologue, EXE default names 坂上 修一 / 倉田 恵美"
+  ]
+ },
+ "characters": [
+  {
+   "jp": "坂上 修一",
+   "en": "Shuichi Sakagami",
+   "short": "Sakagami",
+   "gender": "male",
+   "role": "protagonist when the player picks male; first-year, Class 1-E, newspaper club. Default name, the player may rename him (placeholders {a} {b} {c}).",
+   "personality": "polite junior, narrates in first person (僕 -> I)",
+   "source": "EXE defaults; vndb.org/v746/chars (Sakagami Shuuichi, 15, boku)"
+  },
+  {
+   "jp": "倉田 恵美",
+   "en": "Emi Kurata",
+   "short": "Kurata",
+   "gender": "female",
+   "role": "protagonist when the player picks female (default name; {c} gives her given name)",
+   "personality": "first person 私 -> I",
+   "source": "EXE defaults 0x3C054"
+  },
+  {
+   "jp": "日野 貞夫",
+   "en": "Sadao Hino",
+   "short": "Hino",
+   "gender": "male",
+   "role": "third-year newspaper club senior who arranged the meeting",
+   "personality": "",
+   "source": "vndb.org/v745/chars (17, newspaper club, glasses)"
+  },
+  {
+   "jp": "岩下 明美",
+   "en": "Akemi Iwashita",
+   "short": "Iwashita",
+   "gender": "female",
+   "role": "storyteller, third-year",
+   "personality": "calm, elegant, cold and menacing; feminine speech (〜わよ, 〜かしら)",
+   "source": "vndb.org/v745/chars (18); script SCE29"
+  },
+  {
+   "jp": "細田 友晴",
+   "en": "Tomoharu Hosoda",
+   "short": "Hosoda",
+   "gender": "male",
+   "role": "storyteller, second-year",
+   "personality": "",
+   "source": "vndb.org/v745/chars (16)"
+  },
+  {
+   "jp": "新堂 誠",
+   "en": "Makoto Shindo",
+   "short": "Shindo",
+   "gender": "male",
+   "role": "storyteller, third-year",
+   "personality": "",
+   "source": "vndb.org/v745/chars (17)"
+  },
+  {
+   "jp": "風間 望",
+   "en": "Nozomu Kazama",
+   "short": "Kazama",
+   "gender": "male",
+   "role": "storyteller, third-year",
+   "personality": "",
+   "source": "vndb.org/v745/chars (Kazama Nozomu, 17)"
+  },
+  {
+   "jp": "荒井 昭二",
+   "en": "Shoji Arai",
+   "short": "Arai",
+   "gender": "male",
+   "role": "storyteller, second-year",
+   "personality": "gloomy",
+   "source": "vndb.org/v745/chars (Arai Shouji, 16)"
+  },
+  {
+   "jp": "福沢 玲子",
+   "en": "Reiko Fukuzawa",
+   "short": "Fukuzawa",
+   "gender": "female",
+   "role": "storyteller, first-year",
+   "personality": "",
+   "source": "vndb.org/v745/chars (15)"
+  },
+  {
+   "jp": "元木 早苗",
+   "en": "Sanae Motoki",
+   "short": "Motoki",
+   "gender": "female",
+   "role": "first-year (appears in the series' seventh-storyteller routes)",
+   "personality": "",
+   "source": "vndb.org/v745/chars (15)"
+  },
+  {
+   "jp": "内山 浩太",
+   "en": "Kota Uchiyama",
+   "short": "Uchiyama",
+   "gender": "male",
+   "role": "boy in Class 1-E in Iwashita's story",
+   "personality": "",
+   "source": "script SCE29 29:0a4c"
+  }
+ ],
+ "terms": [
+  {
+   "jp": "語り部",
+   "en": "storyteller"
+  },
+  {
+   "jp": "取材メモ",
+   "en": "Interview Notes",
+   "note": "save files (memory card)"
+  },
+  {
+   "jp": "新聞部",
+   "en": "newspaper club"
+  },
+  {
+   "jp": "七不思議",
+   "en": "seven wonders",
+   "note": "school's seven mysteries"
+  },
+  {
+   "jp": "悪霊",
+   "en": "evil spirit"
+  },
+  {
+   "jp": "部室",
+   "en": "club room"
+  },
+  {
+   "jp": "学校であった怖い話",
+   "en": "Scary Stories from School",
+   "note": "title; keep the Japanese title on the title screen"
+  },
+  {
+   "jp": "一話目",
+   "en": "First Story"
+  },
+  {
+   "jp": "誰の話を聞く？",
+   "en": "Whose story will you hear?"
+  },
+  {
+   "jp": "花子さん",
+   "en": "Hanako-san",
+   "note": "name of the school-restroom legend; the -san is part of the legend name (exception to the no-honorifics rule)"
+  },
+  {
+   "jp": "先生 (after a teacher's name)",
+   "en": "Mr. / Ms. + surname",
+   "note": "teachers keep a title (Mr. Sakurai, Ms. Sasaki); gender unknown -> surname alone"
+  },
+  {
+   "jp": "日野様",
+   "en": "Lord Hino"
+  },
+  {
+   "jp": "アンプル",
+   "en": "the ampoule"
+  }
+ ],
+ "todo": [
+  "Genders of Hosoda, Shindo, Kazama, Arai, Hino, Fukuzawa, Iwashita confirmed from script speech/pronouns only; VNDB gives no gender field.",
+  "Story-specific names: extract per scene before translating each storyteller's route."
+ ]
+}

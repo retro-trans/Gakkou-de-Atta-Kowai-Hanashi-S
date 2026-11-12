@@ -1,0 +1,441 @@
+{
+ "slice": "S023",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S022",
+ "next": "S024",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:c240",
+   "op": "text",
+   "follows_choice": [
+    "07:c214"
+   ],
+   "en": "I searched the shelves.\nThere was nothing in particular...{p}"
+  },
+  {
+   "id": "07:c280",
+   "op": "text",
+   "en": "\"Aagh!\"\nSuddenly, a searing pain shot through my leg.\nI looked down and saw Iwashita sinking her teeth into my leg.\n...Had she been hiding under the table?{p}"
+  },
+  {
+   "id": "07:c328",
+   "op": "text",
+   "en": "\"I'll kill you!\"\nHair flying wildly, Iwashita lunged at me.\nShe was gripping a rope in her hands.\nWas that the rope that had tied my hands and feet?\nI had no time to regain my balance.\nAs I fell, the rope looped around my neck.\n\"Die!\"\nThen Iwashita pulled with all her strength.\n\"Ghhk!\"\nThe rope cinched tight around my throat in an instant.\nIn agony, I flung away what I'd been holding.\nBut at that very moment, the rope around my neck slackened.{p}"
+  },
+  {
+   "id": "07:c4cc",
+   "op": "text",
+   "en": "...I see.\nShe'd been startled by the portrait of Iwashita I was holding.\nI hurriedly pulled the rope off my neck and reached for the portrait.{p}What should I do?\n"
+  },
+  {
+   "id": "07:c554",
+   "op": "choice",
+   "en": "Threaten her"
+  },
+  {
+   "id": "07:c55c",
+   "op": "choice",
+   "en": "Hit her"
+  },
+  {
+   "id": "07:c564",
+   "op": "choice",
+   "en": "Ask why she's trying to kill me"
+  },
+  {
+   "id": "07:c57c",
+   "op": "choice",
+   "en": "Ask where the ampoule is"
+  },
+  {
+   "id": "07:c594",
+   "op": "choice",
+   "en": "Let her go"
+  },
+  {
+   "id": "07:c5a4",
+   "op": "choice",
+   "en": "Tie her up"
+  },
+  {
+   "id": "07:c5b0",
+   "op": "text",
+   "follows_choice": [
+    "07:c554"
+   ],
+   "en": "I took the knife out of my pocket and pressed it against the portrait.{p}"
+  },
+  {
+   "id": "07:c5f4",
+   "op": "text",
+   "en": "\"How about I rip this painting to shreds?★\"{p}"
+  },
+  {
+   "id": "07:c624",
+   "op": "text",
+   "en": "\"Stop!\"\nIwashita screamed.\nJust as I'd thought, this painting meant a great deal to her.\nLooking ready to burst into tears, Iwashita fell to her knees and pressed her hands together as if in prayer.\n\"Please! Just don't lay a hand on that painting!\"\nThat was when it happened.{p}"
+  },
+  {
+   "id": "07:c70c",
+   "op": "text",
+   "en": "\"Waaaaaaagh!\"\nSomeone attacked me from behind.{p}What should I do?\n"
+  },
+  {
+   "id": "07:c758",
+   "op": "choice",
+   "en": "Jump aside"
+  },
+  {
+   "id": "07:c764",
+   "op": "choice",
+   "en": "Use the portrait as a shield"
+  },
+  {
+   "id": "07:c778",
+   "op": "choice",
+   "en": "Swing the knife around"
+  },
+  {
+   "id": "07:c78c",
+   "op": "text",
+   "follows_choice": [
+    "07:c764"
+   ],
+   "en": "I spun around on reflex and thrust out Iwashita's portrait.{p}"
+  },
+  {
+   "id": "07:c7d4",
+   "op": "text",
+   "en": "A chisel plunged into the portrait.{p}"
+  },
+  {
+   "id": "07:c804",
+   "op": "text",
+   "en": "My attacker was Arai.\n\"Time to die, {a}!\"\nArai slashed the portrait open with the chisel in his hand.\nThen he peered out through the hole in the canvas, looking delighted.{p}"
+  },
+  {
+   "id": "07:c8b8",
+   "op": "text",
+   "en": "\"Eeeeeeeek!☆\"\nArai slashing the portrait and Iwashita screaming happened at the same instant.{p}"
+  },
+  {
+   "id": "07:c920",
+   "op": "text",
+   "en": "\"I'll kill you!\"\nThen, her face twisted with rage, Iwashita attacked.\n...Not me, but Arai.\nArai certainly never saw that coming.\nAs the two of them grappled, the chisel ended up in Iwashita's hand.\n\"Die! Die! Drop dead!\"{p}"
+  },
+  {
+   "id": "07:ca18",
+   "op": "text",
+   "en": "\"Gyahh!\"\nThen, as if possessed, Iwashita drove the chisel into Arai's chest again and again and again.\nI could only stand there, dumbstruck, watching it happen.{p}"
+  },
+  {
+   "id": "07:cac0",
+   "op": "text",
+   "en": "Arai's white shirt was turning red with blood.\nAnd as his shirt grew redder, his face grew paler and paler.\nHe was no longer breathing.\n\"{a}!\"\nSuddenly, Iwashita turned to face me.\nOne look at her face, and I couldn't move.\nI had never seen a human face so horribly transformed.\nIwashita was going to kill me.\nThen, without warning, Iwashita drove the chisel into her own face.\n\"If this painting is gone, I'll die too.\nThe senior I loved painted it for me.\nThen my senior graduated and left only this painting behind, so I killed them.\nI never forgive anyone who leaves me behind.\n...{a}, I'll go on ahead and wait for you in Hell.\nYour life will be over soon too, you know.\"\nI couldn't stop her.{p}"
+  },
+  {
+   "id": "07:cd44",
+   "op": "text",
+   "en": "Iwashita stabbed her own face over and over with the chisel, and at last drove it into her throat.\n\"Hhhhhhhh...\"\nA hoarse rasp leaked from her mouth, blood sprayed from her gaping throat, and Iwashita died.\nThe club room was drenched red with the blood of the two of them.\nIwashita's dead face looked exactly like the face in the slashed portrait.{p}"
+  },
+  {
+   "id": "07:ce7c",
+   "op": "text",
+   "en": "\"Y-You've got to be kidding... They're all... they're all out of their minds.\"\nMy legs gave out, and I slumped to the floor of the club room, now a sea of blood.{p}"
+  },
+  {
+   "id": "07:cef0",
+   "op": "text",
+   "en": "Because water splashed on a guy's pants?\nBecause I didn't answer when someone called out to me?\nI'm going to be killed just for that?\n...No doubt Iwashita and Arai had no real reason to kill me either.{p}"
+  },
+  {
+   "id": "07:cfa0",
+   "op": "text",
+   "en": "...They're all murderers.\nI just happened to become the sacrifice of a pack of killers.\n...Am I going to die?\n...Am I really going to die?\n...F-For now, I have to get up.\n...F-For now, I have to find the ampoule.\n\"Aagh!\"\nMy legs were shaking and the floor was slick, and I couldn't get up.\nThe moment I lost my balance, a notebook tumbled off the shelf.{p}"
+  },
+  {
+   "id": "07:d108",
+   "op": "text",
+   "en": "On the notebook were the words \"Grudge Notebook.\"{p}...What is this?\nShould I read it?\n"
+  },
+  {
+   "id": "07:d164",
+   "op": "choice",
+   "en": "Read it"
+  },
+  {
+   "id": "07:d170",
+   "op": "choice",
+   "en": "Better not read it"
+  },
+  {
+   "id": "07:d19c",
+   "op": "text",
+   "follows_choice": [
+    "07:d164"
+   ],
+   "en": "With my blood-soaked hands, I turned the pages.\nInside were petty gripes written by Hino, Shindo and the others.\nSpilled coffee on me.\nGot barked at by a dog.\nHid my shoes.\nTold a stupid joke.\nTapped me on the shoulder out of nowhere.\nWas noisy when I was sleepy.\nHas a vulgar laugh.\nNever apologized.\nDidn't pay interest on the money I lent.\nWouldn't let me copy their notes.\n...Along with such trivial complaints, many people's names were written down.{p}"
+  },
+  {
+   "id": "07:d338",
+   "op": "text",
+   "en": "An execution list...\nI caught my breath and read on.{p}"
+  },
+  {
+   "id": "07:d374",
+   "op": "text",
+   "en": "...There it was.\nMy name, at the very end.\nAnd written beside it was this...{p}"
+  },
+  {
+   "id": "07:d3c4",
+   "op": "text",
+   "en": "Yo, {a}.\nI figured you'd come back to the newspaper club, so I'm leaving this notebook on the shelf for you.\nIf you find it, read it carefully.\nThese are the sinners we've killed so far.\nThe reasons you're going to be killed are many.\nYou've committed crimes that would justify the death penalty.\nThe charges are as follows.{p}"
+  },
+  {
+   "id": "07:d4b8",
+   "op": "text",
+   "en": "You splashed water on Kazama's pants.\nYou ignored Shindo when he called out to you.\nArai was standing on the train, and you didn't give him your seat.\nYou looked at Iwashita and laughed.\nYou bought the last of the cafeteria curry, so Hosoda didn't get to eat any.\nFukuzawa stepped on gum you spat out.\nAnd my dad works at the same company as your dad.\nYour dad got promoted there, so my dad couldn't.\nThat's why you deserve to die.\nHino.{p}"
+  },
+  {
+   "id": "07:d664",
+   "op": "text",
+   "en": "...I turned to the last page.\nAt the very end of the notebook, this was written:\nA band of people chosen to make this world a paradise.\nThe Murder Club... it said.\nThe Murder Club?\nI've never heard of a club like that.\nAre all of them members of this Murder Club?\nI flung the notebook away.{p}"
+  },
+  {
+   "id": "07:d790",
+   "op": "text",
+   "en": "The notebook landed in the sea of blood with a wet splat.{p}"
+  },
+  {
+   "id": "07:d7d0",
+   "op": "text",
+   "en": "...I'm tired.\n"
+  },
+  {
+   "id": "07:d7e0",
+   "op": "text",
+   "en": "...What now?\nDo I still have the will to keep searching for the ampoule?{p}With that Murder Club crowd against me.\n"
+  },
+  {
+   "id": "07:d84c",
+   "op": "choice",
+   "en": "I can't lose now"
+  },
+  {
+   "id": "07:d864",
+   "op": "choice",
+   "en": "I don't care anymore"
+  },
+  {
+   "id": "07:d878",
+   "op": "text",
+   "follows_choice": [
+    "07:d84c"
+   ],
+   "en": "I stood up.\nNo way am I dying here.\nFind your courage and stand tall!{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:d8f4",
+   "op": "text",
+   "follows_choice": [
+    "07:c230"
+   ],
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:d920",
+   "op": "text",
+   "follows_choice": [
+    "07:772c",
+    "07:f27c"
+   ],
+   "en": "I headed for the school gate.\nIf I set even one foot outside the school, I'm dead.{p}"
+  },
+  {
+   "id": "07:d974",
+   "op": "text",
+   "en": "I stood in front of the school gate.\nHino must be watching me from somewhere.{p}What should I do?\nShould I try going outside?\n"
+  },
+  {
+   "id": "07:d9ec",
+   "op": "choice",
+   "en": "Go out through the school gate"
+  },
+  {
+   "id": "07:d9fc",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:da0c",
+   "op": "text",
+   "follows_choice": [
+    "07:d9fc"
+   ],
+   "en": "I can't leave through the school gate.\nThere's no point in coming here yet.{p}"
+  },
+  {
+   "id": "07:da74",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:da84",
+   "op": "text",
+   "en": "I decided to go back to the art room once more.{p}"
+  },
+  {
+   "id": "07:dab0",
+   "op": "text",
+   "en": "To ask Kazama about the Murder Club.{p}"
+  },
+  {
+   "id": "07:dadc",
+   "op": "text",
+   "en": "If I could pry some information out of Kazama, I might find a way through this.\nIf I kept searching blindly like this, I'd never find the ampoule.\nI headed for the art room.{p}"
+  },
+  {
+   "id": "07:dba0",
+   "op": "text",
+   "en": "...In the art room, Kazama was dead.\n\"...My God.\"\nMy knees buckled, and a sigh escaped my lips.\nKazama's head lay where it had carelessly rolled, and on the floor, written in blood, were the words:\nDeath to the losers!\n...Did Hino kill him?{p}"
+  },
+  {
+   "id": "07:dc70",
+   "op": "text",
+   "en": "At this rate, Shindo has probably been killed too.{p}"
+  },
+  {
+   "id": "07:dca4",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:dcb4",
+   "op": "text",
+   "en": "I decided to go to the old school building.{p}"
+  },
+  {
+   "id": "07:dcf0",
+   "op": "text",
+   "en": "...The old school building.\nEven in my current state, the old school building scares me.\nThere's no electricity in the old school building, so without a flashlight, there'd be no way to search it.\nLuckily, I have the flashlight I picked up in the night-duty room.\nBut searching a building this huge without a single clue is next to impossible.\nI gave up and decided to go somewhere else.{p}"
+  },
+  {
+   "id": "07:de40",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:de50",
+   "op": "text",
+   "en": "I decided to go to the nurse's office.\nIf you hide medicine, you hide it where the medicine is.\nThat's just common sense.\nI hurried to the nurse's office.{p}"
+  },
+  {
+   "id": "07:ded4",
+   "op": "text",
+   "en": "The door was locked.{p}"
+  },
+  {
+   "id": "07:df00",
+   "op": "text",
+   "en": "I undid the lock with the bunch of keys I'd brought from the staff room.\nI went into the nurse's office.{p}"
+  },
+  {
+   "id": "07:df64",
+   "op": "text",
+   "en": "...Where should I search?\n"
+  },
+  {
+   "id": "07:df78",
+   "op": "choice",
+   "en": "Search around the beds"
+  },
+  {
+   "id": "07:df8c",
+   "op": "choice",
+   "en": "Search the medicine cabinet"
+  },
+  {
+   "id": "07:df9c",
+   "op": "choice",
+   "en": "Search the cupboard"
+  },
+  {
+   "id": "07:dfa8",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:dfb8",
+   "op": "text",
+   "follows_choice": [
+    "07:df8c"
+   ],
+   "en": "I'll search the medicine cabinet.{p}"
+  },
+  {
+   "id": "07:dfd0",
+   "op": "text",
+   "en": "...It's locked.\nOnly the school nurse should have the key to this.{p}What should I do?\nBreak it open?\n"
+  },
+  {
+   "id": "07:e034",
+   "op": "choice",
+   "en": "Break it open"
+  },
+  {
+   "id": "07:e03c",
+   "op": "choice",
+   "en": "Give up"
+  },
+  {
+   "id": "07:e044",
+   "op": "text",
+   "follows_choice": [
+    "07:e034"
+   ],
+   "en": "What am I hesitating for?\nThis is life or death!{p}"
+  },
+  {
+   "id": "07:e08c",
+   "op": "text",
+   "en": "I smashed the glass of the medicine cabinet.\nThen I rummaged through it.\nAmong the bottles of cold medicine and stomach medicine stood row after row of little vials just like that ampoule.\nWith so many of them, I couldn't tell which one it was.\nWhat should I do?\nShould I drink them all?\nThey're kept in the nurse's office, so they can't be poison.{p}"
+  },
+  {
+   "id": "07:e1bc",
+   "op": "text",
+   "en": "\"Raaaaaagh!\"\nThat was when it happened.{p}"
+  },
+  {
+   "id": "07:e1f4",
+   "op": "text",
+   "en": "Flinging the bed aside, Hosoda emerged from behind it.\nDamn it.\nI should have checked the bed!\nHis huge body quaking, he charged at me.{p}"
+  },
+  {
+   "id": "07:e278",
+   "op": "text",
+   "en": "My knife's gone!\nI left it behind at the newspaper club.{p}"
+  },
+  {
+   "id": "07:e2b0",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:e2c0",
+   "op": "choice",
+   "en": "Grab the screwdriver in my pocket"
+  },
+  {
+   "id": "07:e2dc",
+   "op": "choice",
+   "en": "Grab a shard of broken glass"
+  },
+  {
+   "id": "07:e2f4",
+   "op": "choice",
+   "en": "Dodge"
+  }
+ ]
+}

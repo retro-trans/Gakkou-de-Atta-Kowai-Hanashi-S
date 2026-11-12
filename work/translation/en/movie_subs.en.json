@@ -1,0 +1,114 @@
+{
+ "movie": "MOVIES/SEXMOVIE.STR",
+ "note": "opening narration (new game). XA channel 1 = male narrator (boku), 2 = female (watashi); same words otherwise, so one English track. Times in seconds from channel 1 (sector / 150). Japanese from faster-whisper large-v3 (local), checked against both channels.",
+ "cues": [
+  {
+   "start": 8.27,
+   "end": 13.07,
+   "jp_female": "",
+   "en": "\"Let's do a feature on our school's\nseven wonders in the next paper!\""
+  },
+  {
+   "start": 13.07,
+   "end": 18.89,
+   "jp_female": "",
+   "en": "With that one remark from our club president,\nour newspaper club ended up featuring them."
+  },
+  {
+   "start": 18.89,
+   "end": 24.57,
+   "jp_female": "",
+   "en": "This summer, the old school building,\nunused for years, was to be torn down,"
+  },
+  {
+   "start": 24.57,
+   "end": 28.07,
+   "jp_female": "",
+   "en": "and he wanted a horror piece\nto go with it."
+  },
+  {
+   "start": 28.07,
+   "end": 35.91,
+   "jp_female": "",
+   "en": "And I, still a first-year and the newest member,\nended up being put in charge of it."
+  },
+  {
+   "start": 35.91,
+   "end": 42.29,
+   "jp_female": "",
+   "en": "But I didn't really know what scary stories\nhad been handed down at this school."
+  },
+  {
+   "start": 42.29,
+   "end": 51.99,
+   "jp_female": "",
+   "en": "So my upperclassman offered to bring people\nwho knew the seven wonders to the club room."
+  },
+  {
+   "start": 51.99,
+   "end": 59.65,
+   "jp_female": "",
+   "en": "But he had something to do and couldn't come,\nso I'd have to run things myself."
+  },
+  {
+   "start": 59.65,
+   "end": 64.45,
+   "jp_female": "",
+   "en": "I wouldn't know who the seven were\nuntil I met them."
+  },
+  {
+   "start": 65.19,
+   "end": 68.57,
+   "jp_female": "",
+   "en": "Apparently the seven would gather\nin the club room after school today."
+  },
+  {
+   "start": 68.57,
+   "end": 75.31,
+   "jp_female": "",
+   "en": "I'm not good with scary stories.\nIf anything, I'm a bit of a coward."
+  },
+  {
+   "start": 75.31,
+   "end": 80.83,
+   "jp_female": "",
+   "en": "Today, dull gray clouds\nfilled the whole sky."
+  },
+  {
+   "start": 80.83,
+   "end": 83.33,
+   "jp_female": "",
+   "en": "It looked like it could rain any minute."
+  },
+  {
+   "start": 83.33,
+   "end": 87.65,
+   "jp_female": "",
+   "en": "Even the wind was damp,\nclinging to my skin."
+  },
+  {
+   "start": 87.65,
+   "end": 93.31,
+   "jp_female": "",
+   "en": "Why did I have to hear scary stories\nin a dim club room on a day like this?"
+  },
+  {
+   "start": 93.89,
+   "end": 95.55,
+   "jp_female": "",
+   "en": "I was starting to want to run away."
+  },
+  {
+   "start": 96.17,
+   "end": 102.19,
+   "jp_female": "",
+   "en": "And yet, against my will,\nmy feet were carrying me to the club room."
+  },
+  {
+   "start": 102.19,
+   "end": 106.91,
+   "jp_female": "",
+   "en": "Maybe, deep down, part of me\nwanted to see something scary."
+  }
+ ]
+}

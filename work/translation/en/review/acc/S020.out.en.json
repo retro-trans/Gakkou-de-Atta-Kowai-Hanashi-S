@@ -1,0 +1,27 @@
+{
+ "rows": {
+  "07:5134": "......Pitch black.\nMy head hurts.\n......What happened to me?\nThat's right!\nSomeone hit me from behind.\nAnd I passed out...... Where am I?\nI can't move.\nMy hands and feet seem to be tied.{p}",
+  "07:525c": "......When I slowly opened my eyes, I was in the familiar newspaper club room.\nI was tied hand and foot with rough rope to the club's big table.\nAnd standing in front of me were seven people, boys and girls.\nFaces I recognized.\nIt was Shindo and the others.\nAnd in the middle of them......\n\"Yo, {a}. Finally awake, huh?\"\nHino was standing there.\nHe was the newspaper club senior who had set up this meeting and gathered the seven members.\n\"Hino!\"\n\"What's with the surprised face? That's a real dumb-looking mug you've got there.{p}",
+  "07:626c": "Hino slipped something hard into my barely open mouth.\nWhat......?\nA capsule......?\nMmgh!\n......I swallowed it.\nOnce they saw my throat bob as I swallowed, Hino and the others looked very satisfied.\n\"What you just swallowed is poison.\n......Now, now, don't look so shocked.\nYou won't die right away. It's in a capsule.\nBut once your stomach acid dissolves the capsule and the poison inside gets out, that's it for you.\nNothing left to do but die.\n......Let's see. By my calculations, you've got about five hours left before you die, I'd say.\"\nHino looked very pleased with himself.\n\"......Y-you're joking, right?\"\nI'm sure my voice sounded pathetic.\nI would surely have done anything at all, if only they would tell me it was a joke.{p}",
+  "07:69a4": "......There's no other way.\nIf I don't lick it, I won't survive.\nI shut my eyes, swallowed my tears, and licked his shoe.\n\"Wahahahaha! Look at this guy! He's licking my shoe! Disgusting!\n......Look, he's crying, this guy.\"\n......For now, I have to endure whatever they say.\nThere's nothing I can do but endure.{p}",
+  "07:6f88": "These guys, what kind of people are they!\nThey want to have fun watching me search like mad★\n\"I'll untie you now.\nListen, just because you're free, don't you lay a hand on us.\nIf you try anything against us, I'll smash that ampoule.\nI'm the only one who knows where it's hidden.\nAnd one more thing. Don't you dare leave the school.\nIf you so much as try to leave the school, I won't hesitate to get rid of the ampoule.\nGo to the police or a hospital, nobody's going to take your story seriously.\nThere's only one way you can be saved.\nFind the ampoule hidden somewhere in this school.\nThere's only one rule to keep.\nDon't leave the school.{p}",
+  "07:73d0": "\"Hurry!\"\n\"Hurry!\"\n\"Hurry or you'll die!\"\nThey all jeered at me together.\n......I wanted to beat the hell out of them, but I didn't even have the time to spare for that.\nFor now, just like they said, finding the antidote came first.{p}",
+  "07:77f8": "I reached the chemistry lab, but......\nDamn, I don't have a key!\nThe key...... where's the key★{p}",
+  "07:7af8": "I hurriedly picked up the receiver.\n........................No good!\nThe line's dead.{p}"
+ },
+ "notes": [
+  "07:5134: FIX dots - second ...... run was shortened to ...; restored to source length.",
+  "07:525c: FIX pro-drop - restored subject 'He was' for the sentence describing Hino (source is a full sentence ending in da).",
+  "07:626c: FIX meaning - last line read as if being told it was a joke would make him do anything; source means he would have done anything to have them say it was a joke.",
+  "07:69a4: FIX added force - koitsu rendered as 'It's licking' and 'the loser' (not in source); now 'this guy / he'. Also 'the bastard's shoe' for yatsu -> 'his shoe'. RETURN: editorial may want a contemptuous tone, but without adding words.",
+  "07:6f88: FIX added detail - 'what kind of monsters' (source: nante renchuu da, 'what a bunch'); removed the added '...' pause.",
+  "07:73d0: FIX dots - ... restored to ...... (source has two dot characters).",
+  "07:77f8: FIX dots - ... restored to ......",
+  "07:7af8: FIX dots - source has 8 dot characters (24 dots); English had 20.",
+  "07:5428: TODO - Hino-sama already 'Lord Hino' in all rows of this slice (5428, 6724, 67c4, 6800); nothing to change here.",
+  "07:5134: UNSURE - player gender taken as male: scene 07 has no {f} codes, player uses boku throughout, and Hino's lines treat him as a boy (ii ko da is neutral; boku is the evidence).",
+  "07:74b8: KEPT OMISSION - speaker of this taunt not named in the source (uses {a}-kun; could be Fukuzawa or Hosoda); English names no one.",
+  "07:5550: UNSURE - gakuseifuku rendered 'school uniform jacket'; reading it as the gakuran jacket he dropped is inferred, kept.",
+  "07:6984: UNSURE - ikura nan demo rendered 'No matter what'; closer is 'that's going too far', but meaning is close enough; kept."
+ ]
+}

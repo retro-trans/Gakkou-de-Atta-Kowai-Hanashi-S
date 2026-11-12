@@ -1,0 +1,898 @@
+{
+ "chunk": "E031",
+ "scene": "14",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S063",
+  "S064"
+ ],
+ "prev": "E030",
+ "next": "E032",
+ "todo": [],
+ "rows": [
+  {
+   "id": "14:f59c",
+   "op": "text",
+   "en": "When I opened my eyes, the doll was no longer there.\nWhat on earth had that doll been saying{f:?|?}\nWhat had it been trying to tell me{f:...|...}\n{f:I|I} remembered Arai's story.{p}"
+  },
+  {
+   "id": "14:f668",
+   "op": "text",
+   "en": "{f:I|I} decided to talk to someone about it.{p}",
+   "follows_choice": [
+    "14:8ec0",
+    "14:1a2d0"
+   ]
+  },
+  {
+   "id": "14:f694",
+   "op": "text",
+   "en": "That's it, I'll try talking to Shindo.{p}"
+  },
+  {
+   "id": "14:f6c8",
+   "op": "text",
+   "en": "For now, {f:I|I} decided to try calling Shindo.\nHino would have been fine too, but someone who had heard that story with me seemed better{f:.|.}\n\"...Sure, that's no trouble at all.\"\nHino gave me Shindo's phone number right away.\n(Brrring, brrring...)\nShindo was at home.\n\"Hello, is this Shindo?\n{f:It's me|It's me}, {a}.\nActually...\"{p}"
+  },
+  {
+   "id": "14:f830",
+   "op": "text",
+   "en": "{f:I|I} poured out everything that had happened since then, like a dam bursting.\n\"I see... So that's what happened...\nSo {a}'s the sacrifice, huh.\nAh, hang on a sec, a friend of mine just came over.\n...Yeah, an underclassman... kinda off in the head... it's this heat, y'know.\nI've got... my hands full... too.\"\n{f:I|I} slammed the phone down.\nPartway through, Shindo had apparently covered the receiver with his hand while he talked{f:,|,} but {f:I|I} heard every word.\n{f:I|I} just know he was telling his friend the heat had fried {f:my|my} brain☆{p}"
+  },
+  {
+   "id": "14:fa28",
+   "op": "text",
+   "en": "How cruel...\nIn the end, nobody cares about anything that doesn't concern them{f:.|.}\nAnd I bet they're all relieved that they weren't the ones sacrificed.{p}"
+  },
+  {
+   "id": "14:facc",
+   "op": "text",
+   "en": "{f:I|I} was so frustrated.\nTears ran down my cheeks.\nThe tears were warm...\nEven someone like me could still shed warm tears{f:.|.}\nThen it hit {f:me|me}.\n{f:I|I} didn't want to die yet.\nThere were still so many things I wanted to do before I died{f:.|.}\nAt that thought, the feeling that I had to do something welled up out of my apathy.\nJust then, {f:I|I} suddenly remembered Arai's story.{p}"
+  },
+  {
+   "id": "14:fc58",
+   "op": "text",
+   "en": "Whatever I do, it's wasted effort{f:.|.}\nHow many people before me had struggled in vain{f:?|?}\nNo, the ones who were chosen probably never even felt the will to try{f:.|.}\nI don't care anymore. Everything can just stay the way it is.{p}",
+   "follows_choice": [
+    "14:8ef4",
+    "14:1a304"
+   ]
+  },
+  {
+   "id": "14:fd38",
+   "op": "text",
+   "en": "{f:I|I} didn't go in.\nI still held a faint hope that the doll might be nothing but an illusion{f:.|.}\nIn the midst of these unreal events, common sense had begun to get in the way.\nAnd so {f:I|I} turned to go home.{p}",
+   "follows_choice": [
+    "14:95fc"
+   ]
+  },
+  {
+   "id": "14:fe20",
+   "op": "text",
+   "en": "\"{f:It's|It's} the principal...\"\nHe was coming toward me, holding a golf club.\n\"So this really isn't a dream{f:.|.}\"\n{f:I|I} admitted to myself that I was living through something far beyond the ordinary.{p}"
+  },
+  {
+   "id": "14:ff00",
+   "op": "text",
+   "en": "Then I went into the principal's office and locked the door.{p}"
+  },
+  {
+   "id": "14:ff3c",
+   "op": "text",
+   "en": "I had to look for clues while I still could.\n{f:I|I} searched the principal's desk.\nBut there was nothing that looked like a clue.\nThere was just a mountain of thank-you letters piled on the desk.\nWhat was he being thanked for, anyway...{p}"
+  },
+  {
+   "id": "14:10004",
+   "op": "text",
+   "en": "Then I turned around and saw certificates of honor awarded to the principal, lined up wall to wall.\n\"Come to think of it, word is he's about to receive a medal{f:.|.}\"\nWhy would such a distinguished principal...\n{f:I|I} went up to the wall and looked at the certificates.\nA hollow feeling welled up in me.\nJust then, I heard the door open.{p}"
+  },
+  {
+   "id": "14:10138",
+   "op": "text",
+   "en": "\"Principal...\"\nOh, no{f:.|.}\nOf course he'd have a key to his own office{f:.|.}\n{f:I|I} dashed over to the cabinet on the spot.{p}"
+  },
+  {
+   "id": "14:101dc",
+   "op": "text",
+   "en": "Then the principal swung the golf club down at {f:my|my} back.\n{f:I|I} rolled aside to dodge it.{p}"
+  },
+  {
+   "id": "14:10260",
+   "op": "text",
+   "en": "The golf club cut through the air and smashed the cabinet's glass with tremendous force.{p}"
+  },
+  {
+   "id": "14:102b0",
+   "op": "text",
+   "en": "And shards of broken glass flew everywhere.{p}"
+  },
+  {
+   "id": "14:102f0",
+   "op": "text",
+   "en": "The certificates and trophies in the cabinet were smashed to pieces.{p}"
+  },
+  {
+   "id": "14:10338",
+   "op": "text",
+   "en": "\"Raaaaaagh☆\"\nThe principal let out a roar like a wild beast.\n{f:I|I} braced myself.\nWhatever happened, I had to get away somewhere!\nBut the principal didn't attack again.{p}"
+  },
+  {
+   "id": "14:103fc",
+   "op": "text",
+   "en": "The principal picked up a framed certificate and was frantically trying to put back the paper stuck to its back.\n({f:What|Why}...?)\nA darkness like black mist came pouring out of the trophies and certificates in the cabinet.\nThe darkness spread until it filled the room.\nWhat on earth was happening{f:?|?}{p}"
+  },
+  {
+   "id": "14:10510",
+   "op": "text",
+   "en": "When the darkness had covered the room, Arai suddenly appeared from its center.\n\"Principal, that's a breach of contract.\nYou understand that, don't you?\"\n\"Th-th-this was an accident!\"\n\"That excuse won't work.\nYou wanted this school's sports teams to do well in tournaments, so you made a contract with {f:me|me}, didn't you?\"\n\"I kept the contract. Every year I offered up one sacrifice.\nThe contract tearing was an accident!\"{p}"
+  },
+  {
+   "id": "14:1067c",
+   "op": "text",
+   "en": "Arai grinned and shook his head.\nThen, out of the darkness, several high school students I didn't know came floating up.\nThey were calling the principal's name, full of resentment.\n\"You're finished.\"\nPale blue flames appeared around the principal and engulfed his body.\nHis scream rang out.{p}"
+  },
+  {
+   "id": "14:10768",
+   "op": "text",
+   "en": "\"...Hey... hey! {a}, {a}!\"\nHearing my name called, {f:I|I} slowly opened my eyes.{p}"
+  },
+  {
+   "id": "14:107d8",
+   "op": "text",
+   "en": "\"Hino...\"\nBefore I knew it, {f:I|I} was in the schoolyard.\n\"You've been acting weird ever since that interview, so I went to your house.\nThen your mom said you were at school, so I came here.\"\nHino said it with a very kind smile.\n\"Th-thank you.\"\n{f:I|I} was really happy.\nThen I glanced toward the principal's office.{p}"
+  },
+  {
+   "id": "14:10930",
+   "op": "text",
+   "en": "Then a figure flitted past the window.\n(Arai...? {f:No, it's just my imagination|No, it's just my imagination})\n{f:I|I} turned away.{p}"
+  },
+  {
+   "id": "14:109b4",
+   "op": "text",
+   "en": "Then, just as I started to walk away, words echoed inside my head.{p}"
+  },
+  {
+   "id": "14:109f8",
+   "op": "text",
+   "en": "(You'll take over the contract.\nIf the contract isn't completed, {f:I|I} can't go back, you see.)\nI looked toward the school building.{p}"
+  },
+  {
+   "id": "14:10a6c",
+   "op": "text",
+   "en": "There was a figure standing outside the front entrance.\n(You know what happens if you don't keep the contract.\nBut whatever you wish for will be yours.){p}"
+  },
+  {
+   "id": "14:10adc",
+   "op": "text",
+   "en": "The figure vanished.\nNo one's there. It's just my imagination{f:.|.}\n{f:I|I} felt relieved.\nWhen I reached into my pocket to wipe the sweat running down my forehead, I found a scrap of paper in it.{p}"
+  },
+  {
+   "id": "14:10ba0",
+   "op": "text",
+   "en": "(...The contract.){p}"
+  },
+  {
+   "id": "14:10bc8",
+   "op": "text",
+   "en": "{f:I|I} looked at Hino.\n\"{a}, why are you looking at me with such a scary face?\"\nHino was smiling gently.\n...I have no choice.\nI have no choice{f:!|!}\n{f:I|I} led Hino toward the school building.\nThen I shoved him from behind as hard as I could, so that his head would slam into the wall.{p}"
+  },
+  {
+   "id": "14:10ce0",
+   "op": "text",
+   "en": "The next instant, with a short scream, Hino crumpled to the ground...{p}"
+  },
+  {
+   "id": "14:10d24",
+   "op": "text",
+   "en": "First, {f:I|I} checked the cabinet.\nThe glass-fronted cabinet was crammed with all kinds of certificates and trophies.\nSo this was the glory bought in exchange for sacrifices{f:...|...}\nSomehow {f:I|I} felt a tightness in my chest.\nIt was because these tokens of that glory felt terribly small for something paid for with human lives{f:.|.}\nThe cabinet was firmly locked in four places{f:,|,} and there was nothing I could do.\nIf I wanted to open it, it looked like I'd have to break the glass{f:.|.}\nMaybe I'd better look somewhere else{f:.|.}{p}",
+   "follows_choice": [
+    "14:9710",
+    "14:9d70"
+   ]
+  },
+  {
+   "id": "14:10f38",
+   "op": "text",
+   "en": "{f:I|I} decided to check the desk drawers.\nI'd open them in order from the bottom.\nIt was a single-pedestal desk with three drawers.\nThe bottom one... held documents that {f:I|I} couldn't make heads or tails of.\n{f:Now|Next}, the second one{f:.|.}\nThere were lots of business card holders...\nMixed in with the cards of big shots I'd never heard of were cards from girls at some clubs and hostess bars.\nSo even the principal goes to places like that{f:.|.}\n{f:Teachers are human too, I guess|...Somehow}, {f:so maybe he goes to places like that now and then to blow off steam|I just can't picture it}.{p}",
+   "follows_choice": [
+    "14:9718"
+   ]
+  },
+  {
+   "id": "14:11148",
+   "op": "text",
+   "en": "{f:...Wait, no|But this has nothing to do with anything}, {f:this is no time to be impressed|I need to check other places too}.\nNow, the top drawer{f:.|...}\nWh-what... It's no use{f:.|.}\nIt's locked.\nIt's built so sturdily, there's no way I could break it{f:.|.}\n"
+  },
+  {
+   "id": "14:11248",
+   "op": "text",
+   "en": "Anyway, I can't stand around dithering here{f:.|.}\nI'd better look somewhere else{f:.|.}{p}"
+  },
+  {
+   "id": "14:112b4",
+   "op": "text",
+   "en": "{f:I|I} took a look at the umbrella stand.\nIt was a steel umbrella stand.\nIn it was an umbrella with a handle shaped like a dog's head.\nA spare someone left here{f:, maybe?|, I wonder?}\n{f:I|I} carefully opened the umbrella.\nIt popped open with a loud bang.\n{f:I|I} flinched and closed it right away.\nIt {f:seemed to be|looked like} an automatic umbrella with a strong spring.\nThere's nothing here{f:, it seems|, is there}.\nI should hurry and look somewhere else.{p}",
+   "follows_choice": [
+    "14:9728",
+    "14:9d84"
+   ]
+  },
+  {
+   "id": "14:11458",
+   "op": "text",
+   "en": "{f:I|I} pulled at the wardrobe's handle.\nAs I'd expected, this one {f:seemed to be|was} locked.\nI had nothing to force it open with.\nMaybe I should leave this for later.{p}",
+   "follows_choice": [
+    "14:9738",
+    "14:9d94"
+   ]
+  },
+  {
+   "id": "14:11520",
+   "op": "text",
+   "en": "Now, where should I look next?{p}"
+  },
+  {
+   "id": "14:11540",
+   "op": "text",
+   "en": "There's nothing more to check here{f:.|.}\nI'll look somewhere else.{p}",
+   "follows_choice": [
+    "14:9d7c"
+   ]
+  },
+  {
+   "id": "14:1157c",
+   "op": "text",
+   "en": "I already searched here, so never mind{f:.|.}\nI have to look somewhere else...{p}",
+   "follows_choice": [
+    "14:971c"
+   ]
+  },
+  {
+   "id": "14:115c4",
+   "op": "text",
+   "en": "There's nothing here{f:.|.}\n{f:I'd better look|I'll look} somewhere else.{p}",
+   "follows_choice": [
+    "14:9730",
+    "14:9d8c"
+   ]
+  },
+  {
+   "id": "14:11620",
+   "op": "text",
+   "en": "This one's locked{f:.|.}\n{f:I'd better try|I'll try} somewhere else.{p}",
+   "follows_choice": [
+    "14:9744",
+    "14:9da0"
+   ]
+  },
+  {
+   "id": "14:11684",
+   "op": "text",
+   "en": "...{f:But|But} wait{f:.|.}\nIf it's locked, that means something important must be inside{f:!|, right?}{p}"
+  },
+  {
+   "id": "14:1170c",
+   "op": "text",
+   "en": "(Isn't there something I could use to open it{f:...|...})\nI looked around the principal's office{f:,|,} but I didn't see anything.\n({f:What do I do|What should I do}...)\nAs I thought that, {f:my|my} eyes fell on the chair.\nI'm going to die anyway if this goes on{f:.|.}\n{f:I|I} went over to the desk and lifted the chair.{p}"
+  },
+  {
+   "id": "14:11834",
+   "op": "text",
+   "en": "Then I raised it over my head and {f:smashed|slammed} it hard into the wardrobe.{p}"
+  },
+  {
+   "id": "14:11884",
+   "op": "text",
+   "en": "A loud crash rang out.\nThe noise must have carried all around{f:.|.}\nI have to find something before {g}someone comes{f:.|.}{p}"
+  },
+  {
+   "id": "14:1190c",
+   "op": "text",
+   "en": "I struck the wardrobe with the chair once more.\nThen, with a sound like metal breaking, the wardrobe door slowly swung open.{p}"
+  },
+  {
+   "id": "14:11980",
+   "op": "text",
+   "en": "I felt something like cold air flowing out from inside the wardrobe, and {f:I|I} backed away.\nThen I felt myself bump into something, and when I turned around...{p}"
+  },
+  {
+   "id": "14:11a14",
+   "op": "text",
+   "en": "\"Well, well. Couldn't wait, so you came on your own?\nYou'll soon be joining them, too.\"\nSaying that, the principal turned his eyes toward the wardrobe.\n{f:I|I} looked where the principal was staring, too.\nInside the open wardrobe, mummified heads, nothing but heads, were piled up in a heap.{p}"
+  },
+  {
+   "id": "14:11b0c",
+   "op": "text",
+   "en": "{f:I|I} ran.\nI ran and ran, and when I came to, I was in my own room at home.{p}"
+  },
+  {
+   "id": "14:11b74",
+   "op": "text",
+   "en": "(What do I do?)\nThere was nothing I could do anymore.\n({f:So I'm going to die|Is dying all that's left for me}...)\nSensing something, I looked toward the doorway of my room.{p}"
+  },
+  {
+   "id": "14:11c00",
+   "op": "text",
+   "en": "A child was standing there, staring at me.\n(It's the doll{f:.|.})\nIts pale skin, its large expressionless eyes and black hair {f:stood out|were striking}.\nSo {f:I'm|I'm} the last sacrifice...\nWhat {f:is|is} the sacrifice even for?\n{f:I|I} wondered that, all of a sudden.\nAnd that was {f:my|my} last conscious thought.{p}"
+  },
+  {
+   "id": "14:11d24",
+   "op": "text",
+   "en": "{f:I|I} ducked under the principal's club and escaped out of the room.{p}",
+   "follows_choice": [
+    "14:ab68"
+   ]
+  },
+  {
+   "id": "14:11d7c",
+   "op": "text",
+   "en": "The hallway was dead silent, with no one in sight.\n\"Somebody! Somebody!\"\n{f:My|My} footsteps echoed emptily down the deserted hallway.\nSoon, a second set of footsteps began to echo, keeping time with {f:my|my} own.\n(It's the principal{f:!|!})\nAt that thought, the fear inside {f:me|me} grew and grew.{p}"
+  },
+  {
+   "id": "14:11e9c",
+   "op": "text",
+   "en": "\"Help {f:me|me}!\"\nI ran down the stairs and kept running.\n\"Somebody! Help me!\"{p}"
+  },
+  {
+   "id": "14:11efc",
+   "op": "text",
+   "en": "I could see the faculty room.\nIf I get there, it'll be all right{f:.|.}\n{f:I|I} opened the faculty room door.{p}"
+  },
+  {
+   "id": "14:11f6c",
+   "op": "text",
+   "en": "Inside, the teachers were calmly working as if it were any other day.\n\"Please help me!\"{p}"
+  },
+  {
+   "id": "14:11fbc",
+   "op": "text",
+   "en": "There were several teachers in the faculty room.\n(I'm saved{f:!|!})\n{f:I|I} caught my breath and shouted to the teachers.\n\"The principal is trying to kill {f:me|me}...\"\nOne of the teachers came toward me.\n\"Please, the principal is...\"\n\"I see. So it's you this year.\"\n\"What...?\"{p}"
+  },
+  {
+   "id": "14:120cc",
+   "op": "text",
+   "en": "One by one, teachers gathered around {f:me|me}.\n\"Now, that won't do. You've been chosen, after all.\"{p}"
+  },
+  {
+   "id": "14:12134",
+   "op": "text",
+   "en": "One of the teachers held {f:me|me} down.\n\"It'd be a problem for us if you ran away.\nThe school's prosperity is part of the contract too, you know.\"\nOne after another, the gathered teachers started pinning {f:me|me} down.{p}"
+  },
+  {
+   "id": "14:121ec",
+   "op": "text",
+   "en": "\"Now then, Principal.\"\nThe principal, who had crept up behind {f:me|me} without my noticing, raised his golf club with a grin...{p}"
+  },
+  {
+   "id": "14:1227c",
+   "op": "text",
+   "en": "The last thing {f:I|I} saw was my own blood spraying everywhere.{p}"
+  },
+  {
+   "id": "14:122dc",
+   "op": "text",
+   "en": "Unable to bear it, {f:I|I} pounded on the wardrobe with all my strength.{p}",
+   "follows_choice": [
+    "14:ad18"
+   ]
+  },
+  {
+   "id": "14:12320",
+   "op": "text",
+   "en": "Then something pounded back from inside the wardrobe.{p}"
+  },
+  {
+   "id": "14:12364",
+   "op": "text",
+   "en": "{f:I|I} heaved on the wardrobe with all my might.{p}",
+   "follows_choice": [
+    "14:ad28"
+   ]
+  },
+  {
+   "id": "14:123a8",
+   "op": "text",
+   "en": "I never knew I could do something like this when it came down to it.\nThe wardrobe fell with a tremendous crash.\nThe impact of the fall smashed it to pieces.\nIt must have been made of heavy material; it apparently couldn't withstand the shock of falling{f:.|.}\n\"Ah... ah... Shoji, Shoji...\"\nThe principal clung to the broken wardrobe.\nThen he cleared away the pieces of wood.\n{f:I|I} carefully peered in.{p}"
+  },
+  {
+   "id": "14:12534",
+   "op": "text",
+   "en": "\"{f:Hurk|Eeeek}!\"{p}"
+  },
+  {
+   "id": "14:12558",
+   "op": "text",
+   "en": "At that overwhelming stench and sight, {f:I|I} {f:threw up everything in my stomach|nearly threw up}.\nWhen the principal removed the pieces of wood, there lay the doll-like thing that had always been at {f:my|my} side.{p}"
+  },
+  {
+   "id": "14:12620",
+   "op": "text",
+   "en": "And the thing's head had been smashed open by a timber of the wardrobe.\nIts brown skin was wrapped in a yellow-green mucous membrane, and it was twitching feebly in small jerks.\n\"Ah, auh, auh...\"\nIt {f:seemed to be gasping|looked like it was gasping}.{p}"
+  },
+  {
+   "id": "14:12704",
+   "op": "text",
+   "en": "{f:I tried to run|I wanted to run} somewhere else, but where in this cramped space could I possibly go{f:?|?}\nI glanced at the window.\nThe principal's office was on the third floor, so escaping through the window was impossible{f:.|.}\n...I don't care what happens anymore!{p}",
+   "follows_choice": [
+    "14:ad50"
+   ]
+  },
+  {
+   "id": "14:127ec",
+   "op": "text",
+   "en": "{f:I|I} leapt out the window on impulse.\nMy body floated lightly through the air.\n{f:Like hell I'd|I wouldn't} let {f:those guys|them} have their way with me.\nThat was the one thing I couldn't allow.\nAt the very least, I wanted to end my life on my own terms.\nRather than becoming that monster's prey, {f:I|I} chose to take my own life{f:.|.}{p}"
+  },
+  {
+   "id": "14:1291c",
+   "op": "text",
+   "en": "...But was this really the right thing to do{f:?|?}\nMaybe there had been some better way.\n...Not that it matters now.\nAnother new sacrifice will be added.\nAnd {f:I|I} couldn't even stop it.{p}"
+  },
+  {
+   "id": "14:129ec",
+   "op": "text",
+   "en": "{f:Doesn't this thing|Doesn't this thing} have a weak spot{f:?|?}★\n{f:I|I} thrust my hand into its split-open head on impulse.\nI didn't care anymore at this point.\nSomething sticky and lukewarm clung to my fingers.\n{f:I|I} squeezed it as hard as I could.\nThe feeling of the brains oozing out between my fingers {f:was|was} indescribable.{p}",
+   "follows_choice": [
+    "14:bc58"
+   ]
+  },
+  {
+   "id": "14:12b44",
+   "op": "text",
+   "en": "\"Kiiiiiiieee☆\"\nThe doll let out an agonized shriek, then stopped moving.\nThe yellow-green mucus that had covered the doll's surface melted and ran down {f:my|my} shoulder.\nSomething like what in a human you'd call nerves was stuck to my skin.{p}"
+  },
+  {
+   "id": "14:12c1c",
+   "op": "text",
+   "en": "It was a horrible stench, like rotting leftovers{f:,|,} but right now {f:I|I} didn't even have the energy to care.{p}"
+  },
+  {
+   "id": "14:12c90",
+   "op": "text",
+   "en": "Before I knew it, it had turned back into an ordinary doll.{p}"
+  },
+  {
+   "id": "14:12cd8",
+   "op": "text",
+   "en": "\"{f:Whoa|Eek}!\"\n{f:I|I} jumped back in a panic.\nOut of the doll's broken head, spiders as big as my palm {f:came|were} swarming out.\nEvery one of those spiders had a human face.\nOne, two... eleven, twelve.\nThere were twelve human-faced spiders in all.\nWere these the souls of the students who had been sacrificed until now{f:?|?}\nThe spiders crawled out of the head and vanished, as if dissolving into the air.{p}"
+  },
+  {
+   "id": "14:12e9c",
+   "op": "text",
+   "en": "{f:I|I} happened to glance down at the diary lying on the floor.\nI hadn't noticed it before, but there was a scrap of paper tucked inside the diary.{p}"
+  },
+  {
+   "id": "14:12f38",
+   "op": "text",
+   "en": "It was covered with writing I had never seen before, and near the bottom a red seal had been pressed with a finger.\nIt must be a seal of blood{f:.|.}\nThis must be the devil's contract{f:.|.}{p}"
+  },
+  {
+   "id": "14:12ff0",
+   "op": "text",
+   "en": "{f:I|I} hurriedly tore the contract to pieces.\nI could only hope that would strip it of its power{f:...|...}\nThe stench finally got to be too much, and {f:I|I} stood up.\n{f:How would this whole incident be handled?|I wondered how this whole incident would be handled.}\nWould the police just {f:write it off|write it off} as the principal having gone missing?\nAnd what would the police make of the broken doll in the principal's office{f:?|...?}{p}"
+  },
+  {
+   "id": "14:13160",
+   "op": "text",
+   "en": "{f:I|I} wrapped my hands around the doll's neck.\nThen I yanked with all my strength.{p}",
+   "follows_choice": [
+    "14:bc7c"
+   ]
+  },
+  {
+   "id": "14:131c4",
+   "op": "text",
+   "en": "With a wet, sucking pop, the doll's head tore free.{p}",
+   "returns": []
+  },
+  {
+   "id": "14:13208",
+   "op": "text",
+   "en": "\"Kiiiiiiieee!\"\nThe doll let out an anguished shriek, and then it stopped moving.\nA spinal cord, just like a human's, had come slithering out with the head I'd yanked off.\nAnd it was still twitching.\nThe yellow-green slime that had coated the doll's surface melted and ran down {f:my|my} shoulders.\nSomething like human nerves clung to its skin.{p}"
+  },
+  {
+   "id": "14:1333c",
+   "op": "text",
+   "en": "{f:I|I} grabbed a fistful of the sand beside me, all that was left of the principal.\nThen I hurled it straight at the face of the doll that was strangling {f:me|me}.{p}",
+   "follows_choice": [
+    "14:bca0"
+   ]
+  },
+  {
+   "id": "14:133e0",
+   "op": "text",
+   "en": "\"Kiiiiiiieee!\"\nThe doll let out an anguished shriek, and then it stopped moving.\nThe yellow-green slime that coated its surface melted and was running down {f:my|my} shoulders.\nSo this sand was the doll's weak point{f:.|.}\n{f:Apparently|It seemed} a half-finished doll like this didn't stand a chance against the sand.\nHalf its head had already melted away.{p}"
+  },
+  {
+   "id": "14:13510",
+   "op": "text",
+   "en": "I already heard what Fukuzawa had to say a little while ago{f:.|.}\nI'll try someone else.{p}",
+   "follows_choice": [
+    "14:51a4"
+   ]
+  },
+  {
+   "id": "14:13554",
+   "op": "text",
+   "en": "No, wait, wasn't Iwashita absent today?\nI was wandering aimlessly, thinking that, when Iwashita appeared right in front of me.{p}",
+   "follows_choice": [
+    "14:51bc"
+   ]
+  },
+  {
+   "id": "14:135e4",
+   "op": "text",
+   "en": "(Whoa...)\nI almost cried out, but I just barely held it in.\n\"I'm sorry about yesterday.\"\n\"Oh, Iwashita...\"\nShe was a different person now, bright and cheerful.\n\"What's the matter? You look so gloomy.\"\n\"...Weren't you supposed to be absent today...?\"\nI said it with my feelings held in check.\nI just couldn't forget the way she'd acted yesterday.{p}"
+  },
+  {
+   "id": "14:1371c",
+   "op": "text",
+   "en": "\"I felt better, so I came in.\nI really am sorry about yesterday.\"\n\"Never mind that. Yesterday, you met Arai, didn't you?\"{p}"
+  },
+  {
+   "id": "14:137a0",
+   "op": "text",
+   "en": "\"What are you talking about, {a}?\"\nThe Iwashita in front of me now acted as if yesterday had never happened.\n\"That Arai guy was never supposed to come, you know.\"\nI said it a little too heatedly.\n\"Well, what does it matter? We were short a member anyway...\"\nThen I briefly told Iwashita what had happened after she went home yesterday.\n\"I see. All right. Then I'll help you look for him.\"{p}"
+  },
+  {
+   "id": "14:138f0",
+   "op": "text",
+   "en": "She gave me a pat on the back and strode briskly off.\nI followed along behind her like a lackey.\nAnd we went around the second-year classrooms, visiting them one by one.{p}"
+  },
+  {
+   "id": "14:13990",
+   "op": "text",
+   "en": "I was getting desperate.\nAfter hearing that story, I'd seen something eerie, something I couldn't explain.\nIf Arai's story was true, this year's sacrifice might be me.\nArai wasn't supposed to come. So why had he shown up at the newspaper club uninvited and told that story?\nCould it be that he came to warn me about the sacrifice...?{p}"
+  },
+  {
+   "id": "14:13adc",
+   "op": "text",
+   "en": "We went around every one of the second-year classrooms.\nAnd we learned one fact.{p}"
+  },
+  {
+   "id": "14:13b30",
+   "op": "text",
+   "en": "There was nobody named Shoji Arai in the second year.\nThen who was he?\nWe had to be overlooking something.\nWhatever it took, we had to find out for sure.\n\"{a}!\"\nJust as we were about to make another round of the second-year classrooms, a voice called out to us from behind.{p}"
+  },
+  {
+   "id": "14:13c2c",
+   "op": "text",
+   "en": "\"Shindo!\"\nI turned around, and there stood Shindo.\n\"Iwashita and {a} hanging out together? That's weird.\nWhat brought this on?\"\n\"That's none of your business.\"\n\"No, we just came looking for Arai, that's all.\"\n\"You looking for Arai so you can beat the crap out of him too?\"\nI hadn't been planning to beat him up or anything, but I'd come looking for him, same as Shindo.\nShindo had a tense look on his face.\nHe looked a little pale, too.{p}"
+  },
+  {
+   "id": "14:13dec",
+   "op": "text",
+   "en": "He came over to me and muttered with a sigh.\n\"...So, how'd it go? You find Arai?\"\nHe asked it with a serious face.\n(Shindo too...?\nShindo couldn't find him either?)\nI honestly shook my head.\n\"...I see. C'mere a sec.\"\nHe grabbed my sleeve and dragged me off.{p}"
+  },
+  {
+   "id": "14:13f14",
+   "op": "text",
+   "en": "\"Hey, what is it? Let me in on it too!\"{p}"
+  },
+  {
+   "id": "14:13f4c",
+   "op": "text",
+   "en": "Shindo led me into the shadow of a pillar.\nThen he started talking in a low voice.\nIt seemed to be something it would be bad for anyone to overhear.\n\"Looks like there's no such guy as Shoji Arai in the second year at our school.\"\nShindo's words completely crushed my faint hope.\n\"...Yesterday, after all that, it was bugging me, so I looked into a bunch of stuff.\nAnd guess what.\nThat doll story he told looks like it might actually be true.\nApparently, every single year, one person always ends up as the victim and dies.{p}"
+  },
+  {
+   "id": "14:140e4",
+   "op": "text",
+   "en": "I went looking for Arai to beat the truth out of him, but there's no guy like that among our students.\nI can't stop thinking about the last thing he said.\nOne of us is gonna be this year's sacrifice.\nAnd the guy who said that doesn't even exist in this world. Doesn't that creep you out?{p}"
+  },
+  {
+   "id": "14:141e8",
+   "op": "text",
+   "en": "...Hey, {a}.\nYou listening to me?\"\nShindo poked me in the arm.\nI was listening.\nBut my eyes were glued to Iwashita.{p}"
+  },
+  {
+   "id": "14:14290",
+   "op": "text",
+   "en": "She was staring at the corner of the hallway, frightened.\nWhat was wrong with her?\nWhat was she looking at?\nWarily, I followed her gaze.{p}"
+  },
+  {
+   "id": "14:1433c",
+   "op": "text",
+   "en": "\"Arai...\"\n\"Huh? What is it, {a}?\"\nShindo turned around and shouted.\n\"Arai!\"\nHe went running toward Arai.\nIwashita and I chased after him.\nBut Arai's silhouette disappeared around the corner before we got there.{p}"
+  },
+  {
+   "id": "14:14424",
+   "op": "text",
+   "en": "When we rounded the corner, Arai was nowhere to be seen.\n\"Where the hell did Arai go?\"\nShindo muttered, out of breath.\n\"He's a student at this school.\nIf he's not a second-year, then is he a first-year? A third-year?\"\nWhen he said that, Iwashita cut in.{p}"
+  },
+  {
+   "id": "14:14518",
+   "op": "text",
+   "en": "\"Couldn't it be a fake name?\"\n\"Yeah... With how many kids go here, it'd take forever to check them all.\"\n\"If I remember correctly, the library keeps photographs taken at school events, doesn't it?\"\nI just listened to the two of them talk, dazed.\n\"Oh, right. Let's go.\"\nWhen Shindo said that, we headed for the library.{p}"
+  },
+  {
+   "id": "14:14654",
+   "op": "text",
+   "en": "\"I believe they're here.\"\nWhen we got to the library, we searched for the albums with Iwashita showing the way.\n\"Oh, here they are.\"\nI found the albums and called everyone over.{p}"
+  },
+  {
+   "id": "14:146ec",
+   "op": "text",
+   "en": "But we couldn't find Arai anywhere in those albums.\n\"We all saw him just now, right?\"\nShindo said it in a voice that was half bewildered, half angry.\nWe'd hit a dead end.\nAnd we could feel that we had wandered into an eerie maze with no way back out.\nFor the time being, we split up.{p}"
+  },
+  {
+   "id": "14:14834",
+   "op": "text",
+   "en": "The next day, when I went to school, I learned that Hosoda was dead.\n(Why did he die?)\nThey said the cause of death was a heart attack on his way home, but that wasn't what I wanted to know.\nWas he this year's victim...?{p}"
+  },
+  {
+   "id": "14:14900",
+   "op": "text",
+   "en": "I went to talk it over with Shindo and Iwashita.\nBut we couldn't find any way out of this enormous maze.\nAnd all I could do was go on living my everyday life.{p}"
+  },
+  {
+   "id": "14:149b4",
+   "op": "text",
+   "en": "\"Hey, {a}, get over here!\"\nI was spacing out during break when Shindo came running into my classroom.\nAnd I followed Shindo, just like he told me to.{p}"
+  },
+  {
+   "id": "14:14a60",
+   "op": "text",
+   "en": "A crowd had gathered in the schoolyard.\n\"What happened?\"\n\"Fukuzawa just killed herself.\"{p}"
+  },
+  {
+   "id": "14:14ac4",
+   "op": "text",
+   "en": "Neither the ambulance nor the police had arrived yet.\nShindo spoke, almost in a mutter.{p}"
+  },
+  {
+   "id": "14:14b14",
+   "op": "text",
+   "en": "\"Two of the people from that meeting are dead.\nThat leaves me, you, Iwashita, Kazama, and Arai.\nBut Arai's not at this school.\"\nHe had the face of someone holding back terror.\n\"I figured Hosoda was this year's victim......\"\nShindo murmured it under his breath.\nWe didn't know what we should do, and for a while we just stood there, frozen.{p}"
+  },
+  {
+   "id": "14:14c58",
+   "op": "text",
+   "en": "Arai had appeared before the three of us...\nWas it to tell us something?\nOr was it to kill us, just like those two?{p}"
+  },
+  {
+   "id": "14:14cd4",
+   "op": "text",
+   "en": "...I parted ways with Shindo.\nThe next day, just as I'd feared, Kazama had been killed.\nI couldn't even be surprised anymore.\nMaybe everyone from that day was going to die like this, one by one.\nBut why...?{p}"
+  },
+  {
+   "id": "14:14dac",
+   "op": "text",
+   "en": "After school, the three of us got together.\nBut none of us could bring ourselves to speak.\nNext, one of us here would...\nI thought it, but I couldn't say it out loud.\nBut the others had to be thinking the same thing.\n\"The only lead we've got is the principal.\"\nShindo said.\nThat's right.\nIf we looked into the principal, we might find something out.\n\"Let's go.\"\nI looked from one of them to the other.{p}"
+  },
+  {
+   "id": "14:14f08",
+   "op": "text",
+   "en": "Now that we'd been driven this far into a corner, we couldn't be picky about how we did it.\nWe made sure there was no one in the hallway outside the principal's office, then crept up to it.{p}"
+  },
+  {
+   "id": "14:14fa0",
+   "op": "text",
+   "en": "The principal's office wasn't locked.\nWe decided to split up and search for clues.\nThe desk, the shelves, the walls... we checked everything.\n...How long had we been at it?{p}"
+  },
+  {
+   "id": "14:15054",
+   "op": "text",
+   "en": "\"Nothing! There's nothing here!\"\nShindo suddenly spat out.\nHe was right. There was nothing that seemed to have anything to do with all this.\nWhat were we supposed to do?\nFor a while, we just stood there, stunned.{p}"
+  },
+  {
+   "id": "14:15108",
+   "op": "text",
+   "en": "Just then, we heard a window swing open with a clack.{p}"
+  },
+  {
+   "id": "14:1514c",
+   "op": "text",
+   "en": "\"Hello there, you three.\"\nBefore we knew it, Arai was standing there.\nThen the door of the principal's office opened, and a whole group of teachers came in.\nAll of them had vacant eyes.\n\"...Kill the three of them.\"\nAt Arai's word, the teachers closed in on us like puppets.\nWere we going to be killed?\nNo... Arai had said it himself, back then, hadn't he?\nThat only one more would become the doll's sacrifice.\nThen why did so many people have to be killed?\nI'll never know now.\nNot me, when I'm about to die...{p}"
+  },
+  {
+   "id": "14:15324",
+   "op": "text",
+   "en": "Forget it. If I went to see that person now, it'd only put me in a bad mood{f:.|.}\nI'll try someone else.{p}"
+  },
+  {
+   "id": "14:15380",
+   "op": "text",
+   "en": "Right, there was nobody in that classroom earlier.\nIt looks like everyone's already gone home, so I'll try someone else{f:.|.}{p}",
+   "follows_choice": [
+    "14:51d0"
+   ]
+  },
+  {
+   "id": "14:153f0",
+   "op": "text",
+   "en": "No, I never want to go see Kazama again.\nIt'd be smarter to try someone else.{p}",
+   "follows_choice": [
+    "14:51e0"
+   ]
+  },
+  {
+   "id": "14:15444",
+   "op": "text",
+   "en": "No, I never want to go see Kazama again{f:.|.}\n{f:Like hell I'm going.|There's no way I'm going.}\nIt'd be smarter to try someone else{f:.|, wouldn't it?}{p}"
+  },
+  {
+   "id": "14:154d0",
+   "op": "text",
+   "en": "I'm not going near him again.\nBest friends? You've got to be kidding me.{p}",
+   "follows_choice": [
+    "14:51f4"
+   ]
+  },
+  {
+   "id": "14:15514",
+   "op": "text",
+   "en": "He seemed to be hiding something{f:.|.}\nAnd that sudden fever of his sounded kind of fishy too{f:.|.}\nSo I went back to Class 3-F one more time.\nOn the way, I saw Kiyose through the window, running across the schoolyard.\n{f:It looked like he was|He seemed to be} heading for the old school building.{p}",
+   "follows_choice": [
+    "14:520c"
+   ]
+  },
+  {
+   "id": "14:15614",
+   "op": "text",
+   "en": "{f:I|I} ran down the stairs and chased after Kiyose.\nI made it as far as the entrance to the old school building{f:, but|, but} Kiyose was nowhere around.\n\"Maybe he went inside.\"\n{f:I|I} went in.{p}"
+  },
+  {
+   "id": "14:156d8",
+   "op": "text",
+   "en": "Inside, it was dead silent, with no sign of anyone.\n\"Maybe he's not in here after all{f:.|.}\"{p}"
+  },
+  {
+   "id": "14:1574c",
+   "op": "text",
+   "en": "With that thought, I went back outside, and from inside the old school building came a man's faint scream.\nKiyose...?\n{f:I|I} slowly made my way toward the scream.\nIt was this way, {f:I think|wasn't it}...\nThinking that, I climbed the stairs.{p}"
+  },
+  {
+   "id": "14:15830",
+   "op": "text",
+   "en": "Everything around me had gone quiet again.\n{f:I|I} peered into a second-floor classroom.{p}"
+  },
+  {
+   "id": "14:15888",
+   "op": "text",
+   "en": "\"Ah, Arai...\"\nArai was standing there.\n\"What are you trying to dig up?\"\nHe glared hard at {f:me|me}.\nSomehow, he had a different air about him than the Arai of yesterday.\nThe way he talked was strange too{f:.|.}\nFor an instant, Arai dropped his gaze to the floor.{p}"
+  },
+  {
+   "id": "14:1597c",
+   "op": "text",
+   "en": "I looked, and there was Kiyose, lying face down.{p}"
+  },
+  {
+   "id": "14:159c0",
+   "op": "text",
+   "en": "Blood was spreading out around Kiyose's head.\n\"This guy knew what I really am.\nSo I killed him.\nI wouldn't want anyone interfering with the sacrificial ritual, you see.\"\nHe was holding a bloody knife.\n{f:My|My} hands were clammy with tension, and I couldn't move.{p}"
+  },
+  {
+   "id": "14:15ad0",
+   "op": "text",
+   "en": "\"You've realized by now that I'm not a student at this school, haven't you?\"\nArai came closer, step by step.\nAll {f:I|I} could manage was a nod.\n\"But that's not quite accurate.\nTo be precise, I used to be a student here.\nBut I lost my body in a certain accident.\"{p}"
+  },
+  {
+   "id": "14:15bdc",
+   "op": "text",
+   "en": "Wrapped in a shimmering light like a heat haze, his body changed into a doll.\n\"And only my soul came to dwell in a doll, so I barely managed to stay in this world.\nBut after today, that's over.\nThe last victim is you, {a}{f:|}.\nOnce you take my place, I'll come back to life as a complete human being.\nBut relax.\nUnlike the ones before you, you get to stay in this world as a doll.\nIf you put your mind to it, you can come back to life like me.\"\nFrom Arai, now in the form of a doll, spread a shadow like some eerie demon.\nThat was the last thing {f:I|I} saw as a human being.{p}"
+  },
+  {
+   "id": "14:15df4",
+   "op": "text",
+   "en": "......When I came to, there was a classroom spread out before my eyes.\n(Huh... I'm alive?){p}"
+  },
+  {
+   "id": "14:15e50",
+   "op": "text",
+   "en": "But {f:I|I} had become a doll.{p}"
+  },
+  {
+   "id": "14:15e80",
+   "op": "text",
+   "en": "{f:I|I} decided to search the shelf thoroughly.\n\"Oh, what the hell. Here goes.\"\n{f:I bashed a desk chair into the glass of the shelf.|I slammed a desk chair into the glass of the shelf as hard as I could.}{p}",
+   "follows_choice": [
+    "14:9714",
+    "14:9d74"
+   ]
+  },
+  {
+   "id": "14:15f0c",
+   "op": "text",
+   "en": "The glass shattered with a tremendous crash.\nSomeone might come running.\nFor a while, {f:I|I} braced myself.\n...There was no sign of anyone coming.{p}"
+  },
+  {
+   "id": "14:15fa0",
+   "op": "text",
+   "en": "{f:Was I in the clear?|Was I in the clear, I wondered?}\nOkay, I'd better search it quickly and get out of here.\n{f:I|I} frantically raked out the trophies inside and searched the shelf.\nI finished pulling everything out of it.\nAll sorts of things were scattered across the floor.\n...There were no clues at all.\nThinking of the risk I'd taken to search this shelf, I started trembling all over again.\n{f:I|I} stared at the floor.\n{f:But|But} there was no turning back now{f:.|.}\nPulling myself together, {f:I|I} raised my head.{p}"
+  },
+  {
+   "id": "14:16168",
+   "op": "text",
+   "en": "Huh, something's stuck on here...\nIn the corner of the shelf, a sheet of paper with something like an incantation written on it had been pasted.{p}"
+  },
+  {
+   "id": "14:161d8",
+   "op": "text",
+   "en": "I peeled it off and took a good look{f:, but|, but} I couldn't tell what it was.\nWhat on earth is going on{f:?|?}{p}"
+  },
+  {
+   "id": "14:16260",
+   "op": "text",
+   "en": "After making sure there was nothing in the shelf, I went over to the principal's desk.\nThere had to be some clue...\n{f:I|I} yanked open every drawer, one after another.\nOnly the top right drawer was locked.{p}"
+  },
+  {
+   "id": "14:16318",
+   "op": "text",
+   "en": "Without a thought for the consequences, {f:I|I} pried it open by force with whatever was lying around.{p}"
+  },
+  {
+   "id": "14:1637c",
+   "op": "text",
+   "en": "...Inside were a diary and a battered old Western book.\n\"What {f:the hell|on earth} is this?\"\nThe Western book was nothing {f:I|I} could possibly read.\n{f:I|I} decided to read the diary.\nThere was a strap buckled around the diary{f:, but|, but} I cut it with the scissors on the desk and opened it.\nIt was less a diary than a logbook.\nRecords of the students who had been sacrificed, going back years, and the plans for them{f:.|.}\nAccording to the diary, the sacrifices had been offered for the glory of the sports clubs.\n\"For something like this...\"\n{f:I|I} kept on reading.{p}"
+  },
+  {
+   "id": "14:16588",
+   "op": "text",
+   "en": "The diary read: Shoji Arai... he is a demon that dwells in the school.\n({f:So he's|So he was} the very demon the sacrifices are offered to...)\nStunned, {f:I|I} headed for the door to leave the principal's office.{p}"
+  },
+  {
+   "id": "14:16670",
+   "op": "text",
+   "en": "The principal was standing there.\n\"Principal...\"\n\"Uoooooooh☆\"\nThe principal let out a roar like a beast and raised a golf club over his head.\nWhat {f:the hell|on earth}...★\nWhatever it was, I had to get away somewhere!{p}"
+  },
+  {
+   "id": "14:16744",
+   "op": "text",
+   "en": "The golf club smashed the shelf to pieces.\nHaving barely dodged it, {f:I|I} ducked around behind the desk.{p}"
+  },
+  {
+   "id": "14:1679c",
+   "op": "text",
+   "en": "\"Stop... Please, stop...\"\nHe started screaming.\n(Huh?){p}"
+  },
+  {
+   "id": "14:167e8",
+   "op": "text",
+   "en": "I followed the principal's gaze down to {f:my|my} fist and saw I was clutching the paper I'd peeled off earlier with all my might.\n(Could it be... this paper...?){p}"
+  },
+  {
+   "id": "14:16874",
+   "op": "text",
+   "en": "{f:I|I} ripped the paper apart and threw it away.{p}"
+  },
+  {
+   "id": "14:168c0",
+   "op": "text",
+   "en": "\"Waaaaah!\"\nThe principal clutched his head and started howling.\nThen, from the trophies and certificates lying on the shelves and the floor, a darkness like black smoke came welling up.{p}"
+  },
+  {
+   "id": "14:16958",
+   "op": "text",
+   "en": "What on earth is this...?\nThe darkness engulfed the principal's body.\n\"I'm sorry... I'm so sor...\"\nHe was apologizing, writhing in agony inside the darkness.\nThe principal screamed and collapsed to the floor.\nThen the darkness took the shapes of many people's bodies and faded away.{p}"
+  },
+  {
+   "id": "14:16a3c",
+   "op": "text",
+   "en": "\"What {f:the hell|on earth} was that...?\"\nHow long had I been standing there{f:?|?}\nIt was already getting dark.\n\"I should go home.\"\n{f:I|I} murmured that and left the principal's office.{p}"
+  },
+  {
+   "id": "14:16af0",
+   "op": "text",
+   "en": "On the way home, I kept thinking that those shadows might have been the students who had been sacrificed all these years.{p}"
+  },
+  {
+   "id": "14:16b48",
+   "op": "text",
+   "en": "When summer vacation ended and I went back to school, a new principal had taken up the post.\nAt the opening ceremony, he laid out his ambitions.\n\"We will strive to become a first-rate college-prep school, ........................\"{p}"
+  },
+  {
+   "id": "14:16be4",
+   "op": "text",
+   "en": "...No way.\n{f:Has|Has} the doll's evil hand reached this new principal too?{p}"
+  },
+  {
+   "id": "14:16c44",
+   "op": "text",
+   "en": "The doll that craves sacrifices is still in this school{f:.|.}\nAfter all, {f:I|I} hadn't defeated the doll... the demon.\nA first-rate college-prep school, huh...\n{f:I|I} murmured it to myself.\nHow many will be sacrificed for that this time{f:?|, I wonder?}{p}"
+  },
+  {
+   "id": "14:16d30",
+   "op": "text",
+   "en": "I'm never going near him again.\nBest friends? You've got to be kidding me.\nBut why is he so hung up on being best friends, anyway?\nI just started walking, with nowhere in particular to go.{p}"
+  }
+ ]
+}

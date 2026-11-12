@@ -1,0 +1,319 @@
+{
+ "slice": "S139",
+ "scene": "35",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S138",
+ "next": "S140",
+ "rows": [
+  {
+   "id": "35:d7c8",
+   "op": "text"
+  },
+  {
+   "id": "35:da44",
+   "op": "text"
+  },
+  {
+   "id": "35:daa4",
+   "op": "text",
+   "follows_choice": [
+    "35:40fc"
+   ]
+  },
+  {
+   "id": "35:db34",
+   "op": "text"
+  },
+  {
+   "id": "35:dbe8",
+   "op": "text"
+  },
+  {
+   "id": "35:dcb0",
+   "op": "text"
+  },
+  {
+   "id": "35:dd58",
+   "op": "text",
+   "follows_choice": [
+    "35:39d4"
+   ]
+  },
+  {
+   "id": "35:dddc",
+   "op": "choice"
+  },
+  {
+   "id": "35:dde4",
+   "op": "choice"
+  },
+  {
+   "id": "35:ddf0",
+   "op": "text",
+   "follows_choice": [
+    "35:dddc"
+   ]
+  },
+  {
+   "id": "35:de14",
+   "op": "text",
+   "follows_choice": [
+    "35:dde4"
+   ]
+  },
+  {
+   "id": "35:deec",
+   "op": "text"
+  },
+  {
+   "id": "35:e05c",
+   "op": "choice"
+  },
+  {
+   "id": "35:e068",
+   "op": "choice"
+  },
+  {
+   "id": "35:e078",
+   "op": "text",
+   "follows_choice": [
+    "35:e05c"
+   ]
+  },
+  {
+   "id": "35:e0d8",
+   "op": "text"
+  },
+  {
+   "id": "35:e128",
+   "op": "text",
+   "follows_choice": [
+    "35:e068"
+   ]
+  },
+  {
+   "id": "35:e1e0",
+   "op": "text"
+  },
+  {
+   "id": "35:e27c",
+   "op": "text"
+  },
+  {
+   "id": "35:e2d0",
+   "op": "text"
+  },
+  {
+   "id": "35:e4a0",
+   "op": "text"
+  },
+  {
+   "id": "35:e550",
+   "op": "text"
+  },
+  {
+   "id": "35:e5b8",
+   "op": "text"
+  },
+  {
+   "id": "35:e628",
+   "op": "text"
+  },
+  {
+   "id": "35:e680",
+   "op": "text"
+  },
+  {
+   "id": "35:e6f4",
+   "op": "text"
+  },
+  {
+   "id": "35:e7e4",
+   "op": "text"
+  },
+  {
+   "id": "35:e8e8",
+   "op": "text"
+  },
+  {
+   "id": "35:ea6c",
+   "op": "text"
+  },
+  {
+   "id": "35:ea9c",
+   "op": "text"
+  },
+  {
+   "id": "35:eadc",
+   "op": "text"
+  },
+  {
+   "id": "35:ebac",
+   "op": "text"
+  },
+  {
+   "id": "35:ec9c",
+   "op": "text"
+  },
+  {
+   "id": "35:eec8",
+   "op": "text"
+  },
+  {
+   "id": "35:efbc",
+   "op": "text"
+  },
+  {
+   "id": "35:f114",
+   "op": "text"
+  },
+  {
+   "id": "35:f2fc",
+   "op": "text"
+  },
+  {
+   "id": "35:f54c",
+   "op": "text"
+  },
+  {
+   "id": "35:f59c",
+   "op": "text"
+  },
+  {
+   "id": "35:f648",
+   "op": "text"
+  },
+  {
+   "id": "35:f6ac",
+   "op": "text"
+  },
+  {
+   "id": "35:f8d8",
+   "op": "text"
+  },
+  {
+   "id": "35:faa0",
+   "op": "text"
+  },
+  {
+   "id": "35:fc1c",
+   "op": "text"
+  },
+  {
+   "id": "35:fcfc",
+   "op": "text"
+  },
+  {
+   "id": "35:fd48",
+   "op": "text"
+  },
+  {
+   "id": "35:fdc4",
+   "op": "text"
+  },
+  {
+   "id": "35:fe30",
+   "op": "text"
+  },
+  {
+   "id": "35:100ac",
+   "op": "text"
+  },
+  {
+   "id": "35:100fc",
+   "op": "text"
+  },
+  {
+   "id": "35:103d0",
+   "op": "text"
+  },
+  {
+   "id": "35:104fc",
+   "op": "text"
+  },
+  {
+   "id": "35:106ac",
+   "op": "text"
+  },
+  {
+   "id": "35:106e0",
+   "op": "text"
+  },
+  {
+   "id": "35:10940",
+   "op": "text"
+  },
+  {
+   "id": "35:10b2c",
+   "op": "text"
+  },
+  {
+   "id": "35:10bf0",
+   "op": "text"
+  },
+  {
+   "id": "35:10da0",
+   "op": "text"
+  },
+  {
+   "id": "35:10df8",
+   "op": "text"
+  },
+  {
+   "id": "35:11034",
+   "op": "text"
+  },
+  {
+   "id": "35:11250",
+   "op": "text"
+  },
+  {
+   "id": "35:113b8",
+   "op": "text"
+  },
+  {
+   "id": "35:1140c",
+   "op": "text"
+  },
+  {
+   "id": "35:1154c",
+   "op": "text"
+  },
+  {
+   "id": "35:115b8",
+   "op": "text"
+  },
+  {
+   "id": "35:1168c",
+   "op": "text"
+  },
+  {
+   "id": "35:11718",
+   "op": "text"
+  },
+  {
+   "id": "35:11750",
+   "op": "text"
+  },
+  {
+   "id": "35:117ec",
+   "op": "text"
+  },
+  {
+   "id": "35:11924",
+   "op": "text"
+  },
+  {
+   "id": "35:119b0",
+   "op": "text"
+  },
+  {
+   "id": "35:11bdc",
+   "op": "text"
+  },
+  {
+   "id": "35:11d48",
+   "op": "text"
+  }
+ ]
+}

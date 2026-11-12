@@ -1,0 +1,22 @@
+{
+ "rows": {
+  "14:eb00": "Then I slowly opened them.\nWhen I looked beside me, that doll was lying next to {f:me|me}.\nIts skin was pressed flat against {f:mine|mine}.\n...The doll's skin was cool, and it felt good.\nThat's what {f:I|I} thought, with what senses I had left.\n.................................It seemed the doll's skin was warming up too, taking on the warmth of {f:my|my} skin{f:.|.}{p}",
+  "14:ec64": ".................................No, that's not it.\nI could tell {f:my|my} body temperature was steadily dropping.\nThe doll was sucking the warmth out of {f:my|my} body{f:.|!}\nMy eyelids kept trying to close.\nPeople get sleepy when their body temperature drops, don't they...\nIf I fell asleep like this, would I never wake up again{f:?|?}\nThe doll was no longer beside {f:me|me}.{p}",
+  "14:f300": ".......................................\nIt didn't seem to answer {f:my|my} question{f:.|.}\nI asked once more.\nSomething echoed inside {f:my|my} head.\nIt was the sound of a man sobbing{f:.|.}{p}",
+  "14:b938": "\"Gack!\"\nAt that moment...\nSuddenly, {f:I|I} was being strangled from behind.\nWhat {f:the hell|is this}{f:|}★{p}",
+  "14:c578": "Even outside the principal's office, everything was so quiet.\n{f:I|I} dragged my heavy legs down the empty hallway and headed home.{p}",
+  "14:c970": "\"What? Give me a break.\nWe get put in this awful mood, and on top of that you want us to stay here?\"\nHosoda started complaining.\nHe had a point{f:.|, didn't he.}\nI had no reason to keep them here{f:.|.}\n{f:I|I} said,\n\"...I'm sorry.\nI didn't really mean anything by it...\nI just got a little worried about that story.\nI thought maybe we should talk about what to do from here on...\nSo I just...\"{p}"
+ },
+ "notes": [
+  "14:eb00: TODO - long run (22 chars) had been shortened to two 4-char groups; restored as 33 dots per 3-per-2 rule.",
+  "14:ec64: TODO - long run (22 chars) restored as 33 dots.",
+  "14:f300: TODO - long run (26 chars) restored as 39 dots.",
+  "14:b938: FIX added pause - source ends on the shock mark directly; removed the added ellipsis before the star.",
+  "14:c578: FIX added detail - source says only 'very quiet'; 'deathly' removed.",
+  "14:c970: FIX direction - source is passive (we were made to feel this bad, i.e. by the stories); English blamed the player ('You make us feel').",
+  "14:b258: UNSURE - female branch kashira (wondering) rendered 'wasn't it?'; male asserts. Kept as close enough.",
+  "14:b688: UNSURE - kocchi ('this one/here', pointing at player) rendered 'that one'; kept, pointing makes the referent clear.",
+  "14:c460: KEPT OMISSION - source leaves who interprets the doll open (c400 alternative names the police); 'anyone' used.",
+  "14:cbdc: KEPT OMISSION - speaker of the parting 'otsukaresan' is not named; left unattributed."
+ ]
+}

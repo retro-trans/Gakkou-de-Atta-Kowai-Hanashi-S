@@ -1,0 +1,777 @@
+{
+ "chunk": "E007",
+ "scene": "06",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "slices": [
+  "S017",
+  "S018"
+ ],
+ "prev": "E006",
+ "next": "E008",
+ "todo": [],
+ "rows": [
+  {
+   "id": "06:0994",
+   "op": "text",
+   "en": "So it's finally my turn, huh?\nI got sick of waiting.\nAlright, before I start, let me introduce myself.\nThe name's Makoto Shindo.\nThird-year.\nNice to meet you.\nNow, let's get right to it.\nSince I'm the one closing things out, I brought a real special one I'd been saving.\n...Have you guys ever used the library at this school?\nMe... to tell the truth, not much.\nI'd rather be moving around than reading books anyway.\nReading books just kinda wears me out.\nManga's fine, though.\nIf our school library stocked manga, I might actually use it more.\nWhat about you, {a}?{p}Do you like books?\n"
+  },
+  {
+   "id": "06:0be4",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "06:0bec",
+   "op": "choice",
+   "en": "I don't like them"
+  },
+  {
+   "id": "06:0bf4",
+   "op": "choice",
+   "en": "Neither, really"
+  },
+  {
+   "id": "06:0c08",
+   "op": "text",
+   "en": "Figured.\nYou've got just the face for it.\nBut listen, you shouldn't spend all your time reading.\nGet some exercise once in a while.\n...Still, if you like books, our library might be right up your alley.{p}",
+   "follows_choice": [
+    "06:0be4"
+   ]
+  },
+  {
+   "id": "06:0cc0",
+   "op": "text",
+   "en": "After all, it's got as many books as any public library around.\nAnd get this: way back, the son of some big shot from some foreign country went to our school.\nAnd supposedly, a mountain of weird, pricey-looking books nobody could make heads or tails of got donated because of it.\nNo matter how valuable books like that are, nobody's ever gonna read them, right?\nThe school would've been a lot happier with a cash donation, I bet, but they couldn't exactly say no.\nAnd once they had them, they couldn't just go and sell them off either.\nSo the story goes, there's a whole pile of books nobody's ever read stashed in the back of the library.\nIt's a pretty well-known story.\nEven a guy like me who never goes near the library knows it.\nSo here's the thing: mixed in with those donated books, there's supposed to be one cursed book.\nNobody knows why a book like that got donated.\nMaybe it got mixed in by chance, or maybe somebody just made a mistake.\n...Or maybe it was on purpose.{p}"
+  },
+  {
+   "id": "06:0fd8",
+   "op": "text",
+   "en": "Well, none of that matters.\nThe book's there either way.\nSo, for today, I actually went and found out that book's title and where it's kept.\nGot it from somebody in my class.\nHow did they know about it, you ask?\nWell, never mind that.\nSo, what do you say?{p}Want to go to the library right now and take a look at that book?\n"
+  },
+  {
+   "id": "06:111c",
+   "op": "choice",
+   "en": "Go to the library"
+  },
+  {
+   "id": "06:112c",
+   "op": "choice",
+   "en": "Don't go to the library"
+  },
+  {
+   "id": "06:1154",
+   "op": "text",
+   "en": "That's the spirit. Otherwise it's no fun.\nAlright, let's go right now.\n...I'd never set foot in the library unless it was for something like this, anyway.\nTo tell you the truth, this'll be my first time seeing that book too.\nI mean, it's more fun that way, right?{p}",
+   "follows_choice": [
+    "06:111c"
+   ]
+  },
+  {
+   "id": "06:1238",
+   "op": "text",
+   "en": "...Here we are.\nHang on a sec, I gotta look up where the book is.\n...This is it.\nNo doubt about it.{p}"
+  },
+  {
+   "id": "06:12bc",
+   "op": "text",
+   "en": "Well?\nYou can't read what it says, can you?\nSupposedly it's some kind of ancient script.\nMan, what a grimy old book.\nSo, {a}.\nI've got a favor to ask you.{p}Of course you'll do me this favor, right?\n"
+  },
+  {
+   "id": "06:1384",
+   "op": "choice",
+   "en": "I'll do it"
+  },
+  {
+   "id": "06:1390",
+   "op": "choice",
+   "en": "I'd rather not"
+  },
+  {
+   "id": "06:13a0",
+   "op": "choice",
+   "en": "Depends on what it is..."
+  },
+  {
+   "id": "06:13bc",
+   "op": "text",
+   "en": "I see.\nWell, that's fair enough.\nYou can't just say yes without knowing what the favor is.\nAlright, I'll tell you the favor first.\nIf you're okay with it, then you can do it for me.{p}",
+   "follows_choice": [
+    "06:13a0"
+   ]
+  },
+  {
+   "id": "06:146c",
+   "op": "text",
+   "en": "Here's the thing: I want you to put your hand on this book's cover.\nSee? Easy, right?\nWhat's with that face? You look almost let down.\nGo on, put it there.{p}You can do that much for me, right?\n"
+  },
+  {
+   "id": "06:1500",
+   "op": "choice",
+   "en": "Put my hand on the cover"
+  },
+  {
+   "id": "06:1514",
+   "op": "choice",
+   "en": "Don't put my hand on it"
+  },
+  {
+   "id": "06:152c",
+   "op": "text",
+   "en": "Good.\nPut it so it covers up the picture drawn on the cover.\n...Good.\nOkay, you can take your hand off now.\nNow comes the real show.{p}",
+   "follows_choice": [
+    "06:1500"
+   ]
+  },
+  {
+   "id": "06:15b4",
+   "op": "text",
+   "en": "See, this book supposedly devours the soul of whoever it curses.\nWho does it curse, you ask?\nWhoever put their hand on it, obviously.\nIn other words, you.{p}"
+  },
+  {
+   "id": "06:1644",
+   "op": "text",
+   "en": "Ahahahahaha...\nHey, don't get mad.\nOf course, it doesn't curse just anybody.\nIf you answer the questions I ask you, you won't get cursed.\nGot it?{p}"
+  },
+  {
+   "id": "06:16f4",
+   "op": "text",
+   "en": "...Do you believe what I'm telling you?\nMaybe you don't, huh?\nIf you don't believe it, that's fine by me.\nI'll just drop the whole thing.\nSo which is it?{p}Give me a straight answer.\n"
+  },
+  {
+   "id": "06:179c",
+   "op": "choice",
+   "en": "I believe it"
+  },
+  {
+   "id": "06:17a8",
+   "op": "choice",
+   "en": "I don't believe it"
+  },
+  {
+   "id": "06:17b8",
+   "op": "text",
+   "en": "Is that right.\nThen that's fine.\nAlright, I'll ask you the questions.\nAnswer them seriously.\n",
+   "follows_choice": [
+    "06:179c"
+   ],
+   "returns": []
+  },
+  {
+   "id": "06:1808",
+   "op": "text",
+   "en": "If you just answer any old way, you're the one who'll be in trouble.\nI mean, whether you get cursed or not is your problem.\nIt's got nothing to do with my life.\nGot it?{p}"
+  },
+  {
+   "id": "06:18a8",
+   "op": "text",
+   "en": "Let's start the questions.\nHave you ever told a lie in your life?{p}Answer honestly.\n"
+  },
+  {
+   "id": "06:1904",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:190c",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:1914",
+   "op": "text",
+   "en": "I see.\n",
+   "follows_choice": [
+    "06:1904"
+   ]
+  },
+  {
+   "id": "06:1920",
+   "op": "text",
+   "en": "Okay, next question.{p}Have you ever wanted to die?\n"
+  },
+  {
+   "id": "06:196c",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:1974",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:197c",
+   "op": "text",
+   "en": "...Is that the truth?\nAlright, next question.\n",
+   "follows_choice": [
+    "06:1974"
+   ]
+  },
+  {
+   "id": "06:19a8",
+   "op": "text",
+   "en": "Have you ever wanted to kill someone?\n"
+  },
+  {
+   "id": "06:19d8",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:19e0",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:19e8",
+   "op": "text",
+   "en": "...Is that really so?\nIf you lied, I'll give you one chance. Just one.{p}Is what you just said the truth?\n",
+   "follows_choice": [
+    "06:19e0"
+   ]
+  },
+  {
+   "id": "06:1a60",
+   "op": "choice",
+   "en": "It's the truth"
+  },
+  {
+   "id": "06:1a68",
+   "op": "choice",
+   "en": "Actually, I lied"
+  },
+  {
+   "id": "06:1a78",
+   "op": "text",
+   "en": "Good.\nOkay, next.{p}Have you ever hurt someone?\n",
+   "follows_choice": [
+    "06:1a60"
+   ]
+  },
+  {
+   "id": "06:1ab8",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:1ac0",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:1ac8",
+   "op": "text",
+   "en": "So you've hurt people before.\n...Behind that face of yours, I bet you've done some pretty cruel stuff, huh?\nNext.{p}",
+   "follows_choice": [
+    "06:1ab8"
+   ]
+  },
+  {
+   "id": "06:1b40",
+   "op": "text",
+   "en": "Have you ever betrayed someone?\n"
+  },
+  {
+   "id": "06:1b68",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:1b70",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:1b8c",
+   "op": "text",
+   "en": "...Hahaha.\nI figured.\nPeople betray others all the time without even noticing.\nJust being aware of it means maybe even you've got a little humanity in you.{p}",
+   "follows_choice": [
+    "06:1b68"
+   ]
+  },
+  {
+   "id": "06:1c48",
+   "op": "text",
+   "en": "Alright, next.{p}Do you think people hate you?\n"
+  },
+  {
+   "id": "06:1c84",
+   "op": "choice",
+   "en": "I think people hate me"
+  },
+  {
+   "id": "06:1c98",
+   "op": "choice",
+   "en": "I don't think they do"
+  },
+  {
+   "id": "06:1cb0",
+   "op": "text",
+   "en": "Right.\nYou betray people, so of course you'd be hated.{p}",
+   "follows_choice": [
+    "06:1c84"
+   ]
+  },
+  {
+   "id": "06:1cf0",
+   "op": "text",
+   "en": "Okay, next.{p}Do you think someone holds a grudge against you?\n"
+  },
+  {
+   "id": "06:1d28",
+   "op": "choice",
+   "en": "Someone holds a grudge"
+  },
+  {
+   "id": "06:1d38",
+   "op": "choice",
+   "en": "Nobody holds a grudge"
+  },
+  {
+   "id": "06:1d50",
+   "op": "text",
+   "en": "...Hahaha.\nYou understand yourself pretty well, don't you?{p}",
+   "follows_choice": [
+    "06:1d28"
+   ]
+  },
+  {
+   "id": "06:1d94",
+   "op": "text",
+   "en": "That's right. There's someone in this world who's got a grudge against you.\nThey're out there, no doubt about it.{p}"
+  },
+  {
+   "id": "06:1de0",
+   "op": "text",
+   "en": "...Though maybe you haven't noticed.\nAnd I've still got plenty more questions.{p}"
+  },
+  {
+   "id": "06:1e40",
+   "op": "text",
+   "en": "What's wrong?\nDon't look at me like that.{p}"
+  },
+  {
+   "id": "06:1e70",
+   "op": "text",
+   "en": "All you have to do is answer my questions.\nIf you don't like it, you can quit.\nJust run away, then.\nCome on, next question.\nThink back on your past.{p}Have you had a fun school life?\n"
+  },
+  {
+   "id": "06:1f2c",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:1f38",
+   "op": "choice",
+   "en": "It hasn't been fun"
+  },
+  {
+   "id": "06:1f50",
+   "op": "text",
+   "en": "I see.\nWell, good for you.\nIf you have a fun school life, it turns into good memories.\nThere are tons of people out there who had a hard, miserable time at school.\nWhen you think about that, you're a lucky one.\nAin't that right?\nOn to the next one.{p}",
+   "follows_choice": [
+    "06:1f2c"
+   ]
+  },
+  {
+   "id": "06:2030",
+   "op": "text",
+   "en": "Have you ever punched someone?\n"
+  },
+  {
+   "id": "06:2054",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:205c",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:2070",
+   "op": "text",
+   "en": "Huh, so you've hit someone before.\nYou're a pretty violent one, aren't you?\nWhat?\nGet into a fight or something?\nOr don't tell me you just got fed up and punched somebody out of nowhere.\nYou weren't bullying somebody, were you...?\nWell, whatever.\nIt makes no difference to me either way.\nNext.{p}",
+   "follows_choice": [
+    "06:2054"
+   ]
+  },
+  {
+   "id": "06:2178",
+   "op": "text",
+   "en": "Have you ever gone ahead and done something even though you knew it was wrong?\n"
+  },
+  {
+   "id": "06:21c0",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "06:21c8",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "06:21d0",
+   "op": "text",
+   "en": "I see.\nSo you went and did it, even knowing it was wrong.\nWhen was that?\nWhat kind of situation lets you do a thing like that?\nWhy, you're a wicked person.\nI mean, it's true, isn't it?\nYou know it's wrong and you do it anyway, right?\n...Then maybe there's no helping it if you get cursed.\nThe questions aren't over yet.{p}",
+   "follows_choice": [
+    "06:21c0"
+   ]
+  },
+  {
+   "id": "06:22f4",
+   "op": "text",
+   "en": "Let's keep going, then.{p}Have you ever regretted anything?\n"
+  },
+  {
+   "id": "06:2338",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "06:2340",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "06:235c",
+   "op": "text",
+   "en": "You have, huh.\nSo even you have regrets.\nThen again, when you think about it, I guess that figures.\nHaving regrets means you've done that many bad things.\nWell, it's only natural.{p}",
+   "follows_choice": [
+    "06:2338"
+   ]
+  },
+  {
+   "id": "06:2418",
+   "op": "text",
+   "en": "Next, then.{p}Have you ever killed a bug?\n"
+  },
+  {
+   "id": "06:2450",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "06:2458",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "06:2464",
+   "op": "text",
+   "en": "Figures.\nI can tell.\nSomeone like you has probably killed all kinds of bugs.\nFlies and mosquitoes go without saying.\nCrickets, spiders, centipedes... you've killed loads of bugs, haven't you?\nStomping them flat, ripping their heads off.\nYou'd never understand the pain of all those dead bugs, would you? Not you.{p}",
+   "follows_choice": [
+    "06:2450"
+   ]
+  },
+  {
+   "id": "06:2574",
+   "op": "text",
+   "en": "Next.\nSay your sweetheart was about to die.\nIf the only way to save them was for you to die, what would you do?{p}Could you sacrifice your own life for the one you love?\n"
+  },
+  {
+   "id": "06:2618",
+   "op": "choice",
+   "en": "I could"
+  },
+  {
+   "id": "06:2620",
+   "op": "choice",
+   "en": "I couldn't"
+  },
+  {
+   "id": "06:2634",
+   "op": "text",
+   "en": "...Really?\nYou really think you could die for somebody else?\n...You sure don't look the type.\nWell, let's not judge people by their looks.\nPeople aren't always what they seem.{p}",
+   "follows_choice": [
+    "06:2618"
+   ]
+  },
+  {
+   "id": "06:26e8",
+   "op": "text",
+   "en": "Next.{p}Have you ever stolen anything?\n"
+  },
+  {
+   "id": "06:2718",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "06:2720",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "06:2730",
+   "op": "text",
+   "en": "Thought so, thought so.\nFor someone like you, stealing must come easy.\n...Well?\nHave you realized by now that you've committed every sin there is?\nHave you ever felt like the weight of your sins was about to crush you?\nWell, have you?{p}Looking back on the life you've led so far, do you feel any remorse?\n",
+   "follows_choice": [
+    "06:2718"
+   ]
+  },
+  {
+   "id": "06:2858",
+   "op": "choice",
+   "en": "I feel remorse"
+  },
+  {
+   "id": "06:2868",
+   "op": "choice",
+   "en": "I feel no remorse"
+  },
+  {
+   "id": "06:2880",
+   "op": "text",
+   "en": "There's no telling whether that's true.\nIf you feel remorse, then you've got to atone for your sins.\nAre you willing to atone for the sins you've committed?\n...Before I ask that, let me ask one last question.{p}You... have you ever killed anyone?\n",
+   "follows_choice": [
+    "06:2858"
+   ]
+  },
+  {
+   "id": "06:2954",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "06:295c",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "06:2970",
+   "op": "text",
+   "en": "...I see.\nThen I'll ask you one more time.{p}",
+   "follows_choice": [
+    "06:295c"
+   ]
+  },
+  {
+   "id": "06:29a0",
+   "op": "text",
+   "en": "Are you willing to atone for the sins you've committed?\n"
+  },
+  {
+   "id": "06:29c8",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "06:29d0",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "06:29d8",
+   "op": "text",
+   "en": "I see.\n",
+   "follows_choice": [
+    "06:29c8"
+   ]
+  },
+  {
+   "id": "06:29e4",
+   "op": "text",
+   "en": "\"Brace yourself!\"{p}"
+  },
+  {
+   "id": "06:2a10",
+   "op": "text",
+   "en": "\"Agh!\"\nSuddenly, I was struck from behind.\nBy someone... with something very heavy.{p}"
+  },
+  {
+   "id": "06:2a70",
+   "op": "text",
+   "en": "\"Gyah!\"\nThe instant I tried to turn around, another blow slammed into my head.\nWhat?\nWhat just happened?\nWhy is someone hitting me?\nMy vision twisted and warped.{p}"
+  },
+  {
+   "id": "06:2b08",
+   "op": "text",
+   "en": "In my warped vision, Shindo was laughing.\n\"{a}.\nI'm gonna make you atone for your sins.\nRight after you hear the seventh and final story.\n...The seventh one was already here, see.\nAnd they've been waiting for this moment.\"\nSomeone stepped out from behind the bookshelf.\nWho?\n...Who are you?\n...Who is the seventh one?\n...I can't... take any more.\nI lost consciousness and collapsed on the spot...{p}"
+  },
+  {
+   "id": "06:2c74",
+   "op": "text",
+   "en": "So you're not one for piles of print, huh?\nSame here.\nStill, our library's got a reputation for being something else.{p}",
+   "follows_choice": [
+    "06:0bec"
+   ]
+  },
+  {
+   "id": "06:2cd0",
+   "op": "text",
+   "en": "I see.\nWell, like it or hate it, it's all the same to me.\nYou know what?\nOur library's got a reputation for being something else.{p}",
+   "follows_choice": [
+    "06:0bf4"
+   ]
+  },
+  {
+   "id": "06:2d40",
+   "op": "text",
+   "en": "\"I see... Got it.\nThen I'll go take a look by myself.\"{p}",
+   "follows_choice": [
+    "06:112c"
+   ]
+  },
+  {
+   "id": "06:2d8c",
+   "op": "text",
+   "en": "Shindo walked out of the club room.\n..............................\nWe waited for him for a while.\nBut Shindo showed no sign of coming back.\nDid a cursed book really exist?\nWasn't it dangerous to go see something like that alone?\nI started to get worried.\n...I think I'll go see how he's doing.{p}"
+  },
+  {
+   "id": "06:2ed4",
+   "op": "text",
+   "en": "When I got to the library, Shindo was standing there.\n\"I knew you'd come.\"\n...He stayed away on purpose!{p}"
+  },
+  {
+   "id": "06:2f4c",
+   "op": "text",
+   "en": "He was holding a grimy old book.\nCould this be the cursed book?\nOh no...\nI never wanted to see a cursed book.\nI shouldn't have come here...\n\"{a}. Listen, I've got a favor to ask you.\n...Will you do it for me?\"{p}"
+  },
+  {
+   "id": "06:302c",
+   "op": "text",
+   "en": "Good.\nThen hold the cursed book and sing a song.\n...Hm?\nWhat's with that face?\nI'm not messing around.{p}",
+   "follows_choice": [
+    "06:1384"
+   ]
+  },
+  {
+   "id": "06:30b4",
+   "op": "text",
+   "en": "This book carries the curse of a diva from long ago.\nYou hold it tight in your arms and sing whatever song pops into your head.\nThen everyone who hears it falls asleep, or so the story goes.\nExcept whoever's singing, that is.\nHere's the story behind this book.\nWay back, a man fell in love with a diva... but she wouldn't give him the time of day.\nSo after causing all kinds of trouble, the guy ended up killing her.\nThe diva bitterly regretted having had no way to protect herself.\nAnd that grudge latched onto this book.\nDon't you think it's amazing, the power songs have over people's feelings?\nA song can cheer you up, or bring back something sad...\nThat kind of thing happens, right?{p}"
+  },
+  {
+   "id": "06:3330",
+   "op": "text",
+   "en": "Apparently this book was in the room where the diva was killed.\nIt was a souvenir from some foreign country, a gift from one of her fans.\nBack then, it was supposed to be a kind of good-luck charm that granted wishes, but...\nNow it's a cursed book through and through.\nIt knocks people out cold, one after another.{p}",
+   "returns": []
+  },
+  {
+   "id": "06:3434",
+   "op": "text",
+   "en": "Hey, {a}.\nDo you really think it can put every single person to sleep?\nGo on, try it.\nIf it's for real, I'm keeping the book.\nA book that puts people to sleep...\nI bet it's got all sorts of uses, don't you think?\n\"Shindo...\"{p}"
+  },
+  {
+   "id": "06:3520",
+   "op": "text",
+   "en": "I glanced at the book.\nA diva was murdered, and a curse fell on the book.\nFor all that, the curse itself wasn't very scary.\nAll it did was put people to sleep.\nPutting an attacker to sleep to protect herself...\nWas that really as far as a frail woman's imagination went?\nWith a book that put people to sleep, I could do all sorts of things, like use it in some awful teacher's class or during a test.\nBut this... could be abused in endless ways.\nIf I could put everyone around me to sleep... couldn't I even rob a bank?{p}"
+  },
+  {
+   "id": "06:3700",
+   "op": "text",
+   "en": "\"{a}, hurry up and try it.\nLook... there are a few people over at that desk, right?\"\nWith mixed feelings, I picked up the book.\nThen...\n\"Oh, wait, I'm gonna step out of the library.\nI don't want to be in here and get knocked out too.\nOnce you know how it went, come find me outside the library...\"{p}"
+  },
+  {
+   "id": "06:3814",
+   "op": "text",
+   "en": "Shindo went outside.{p}Now... what should I do?\n"
+  },
+  {
+   "id": "06:3858",
+   "op": "choice",
+   "en": "Test the cursed book"
+  },
+  {
+   "id": "06:3870",
+   "op": "choice",
+   "en": "Go out and rob a bank"
+  },
+  {
+   "id": "06:3888",
+   "op": "choice",
+   "en": "Burn the book and dump it"
+  },
+  {
+   "id": "06:38b8",
+   "op": "text",
+   "en": "I tried hugging the book to my chest.\n...A sad melody rose up in my head.\nAnd I began to sing, the words flowing out effortlessly.{p}",
+   "follows_choice": [
+    "06:3858"
+   ]
+  },
+  {
+   "id": "06:3930",
+   "op": "text",
+   "en": "Even the high notes came out naturally, and it felt good.\nI was amazed.\nThis book really...{p}"
+  },
+  {
+   "id": "06:398c",
+   "op": "text",
+   "en": "The people at the desk all stood up at once.\n...They're not falling asleep?\nWhat on earth...{p}"
+  },
+  {
+   "id": "06:39ec",
+   "op": "text",
+   "en": "\"Waaaaaaaaaah☆\"\n"
+  },
+  {
+   "id": "06:3a10",
+   "op": "text",
+   "en": "The people started slamming their heads into the nearby wall!\n"
+  },
+  {
+   "id": "06:3a38",
+   "op": "text",
+   "en": "They were smashing their own heads against the wall, all by themselves.\n"
+  },
+  {
+   "id": "06:3a64",
+   "op": "text",
+   "en": "Over and over again.\n\"S-stop it, please☆\"\nWithout thinking, I rushed over to them.{p}"
+  },
+  {
+   "id": "06:3ac4",
+   "op": "text",
+   "en": "Ah...\nI dropped the book!\nBut this was no time to worry about that.\nSome of them were bleeding from where they'd hit their heads.\nSleeping curse, my foot.\nThis was a curse that put people into eternal sleep...{p}",
+   "returns": []
+  },
+  {
+   "id": "06:3b8c",
+   "op": "text",
+   "en": "\"A-are you all right?\"\nAs I ran over...\n\"Ugh... my head hurts...\"\n\"Huh...?\nWhat was I...★\"\nThe people under the book's curse began to come to their senses.\nIt must have been because I stopped singing.{p}"
+  },
+  {
+   "id": "06:3c58",
+   "op": "text",
+   "en": "\"{a}! What happened★\"\nShindo burst in.\n\"I just heard you yell... Ah, you dropped the cursed book!\nWhat are you doing☆\"\nHe hurriedly picked up the cursed book, hugged it tight...\n\"Shindo☆ No, don't!\nThat's...\"{p}"
+  },
+  {
+   "id": "06:3d50",
+   "op": "text",
+   "en": "My words came too late.\nShindo had started to sing.\nThat sad melody...\nAnd then I couldn't think anymore.\nAll I did was beat my head against the wall.\nThere was nothing else I could do.\nI felt no pain.\nIf anything, it felt really, really good...{p}"
+  },
+  {
+   "id": "06:3e70",
+   "op": "text",
+   "en": "I felt something hit me from behind, too.\nIs someone hitting me?\nWhy are they hitting me?\nI'm already hurting myself.\nWhy do I have to get hit on top of that?\n...Oh well, who cares.\nRight now I feel so good...\nThere's no blood on the wall in front of me yet.\nDo I have to hit harder to make my head bleed?\nMaybe I'll try slamming it a little harder.\nOr maybe I'll try it on something with a sharp corner.\nThinking things like that, I felt my consciousness slowly fade away...{p}"
+  },
+  {
+   "id": "06:405c",
+   "op": "text",
+   "en": "A dark desire took hold of me.\nI'd said I would do what Shindo told me, but I couldn't resist the sweet temptation.\nWith this book, I could pull off the perfect crime.\nThere was no way I wasn't going to try it.\nHeh heh heh...\nI grinned, hugged the book tight, and crept away...\nHm?\nWhat's this?\nA sad melody was rising up in my head...\nOh no!{p}",
+   "follows_choice": [
+    "06:3870"
+   ]
+  },
+  {
+   "id": "06:41b8",
+   "op": "text",
+   "en": "I forgot, this book kicks in when you hug it☆\nOh well, whatever.\nI'll test it out here first, then move on to the perfect crime...\nI began to sing, the words flowing out effortlessly.{p}"
+  },
+  {
+   "id": "06:426c",
+   "op": "text",
+   "en": "I decided to burn the book and get rid of it.\nShindo was waiting in the hallway outside the library, so I slipped out through a window and hurried to the incinerator.\nBurn the cursed book and get rid of it...\nWhy had I thought of that?\nRight after I'd declared I would do what Shindo said.\nThis was betrayal.\n...No, it went beyond betrayal.\nFrankly, I was doing something that made no sense.\nWhat am I doing?\nI don't know.\nI didn't know, but as if obeying a fate already decided, I made my way to the incinerator.{p}",
+   "follows_choice": [
+    "06:3888"
+   ]
+  },
+  {
+   "id": "06:4440",
+   "op": "text",
+   "en": "\"All right, let's burn it...\"\nI flung the cursed book into the incinerator in one go.\n"
+  }
+ ]
+}

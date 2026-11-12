@@ -1,0 +1,329 @@
+{
+ "slice": "S071",
+ "scene": "17",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S070",
+ "next": "S072",
+ "rows": [
+  {
+   "id": "17:6660",
+   "op": "text"
+  },
+  {
+   "id": "17:6718",
+   "op": "text"
+  },
+  {
+   "id": "17:6804",
+   "op": "text"
+  },
+  {
+   "id": "17:689c",
+   "op": "text"
+  },
+  {
+   "id": "17:68d0",
+   "op": "text"
+  },
+  {
+   "id": "17:6954",
+   "op": "text"
+  },
+  {
+   "id": "17:6988",
+   "op": "text"
+  },
+  {
+   "id": "17:6a9c",
+   "op": "text"
+  },
+  {
+   "id": "17:6acc",
+   "op": "text"
+  },
+  {
+   "id": "17:6bec",
+   "op": "text"
+  },
+  {
+   "id": "17:6cf8",
+   "op": "text"
+  },
+  {
+   "id": "17:6d28",
+   "op": "text"
+  },
+  {
+   "id": "17:6d60",
+   "op": "text"
+  },
+  {
+   "id": "17:6f30",
+   "op": "text"
+  },
+  {
+   "id": "17:7094",
+   "op": "text",
+   "follows_choice": [
+    "17:2330",
+    "17:2804",
+    "17:ab4c",
+    "17:ab80"
+   ]
+  },
+  {
+   "id": "17:70d8",
+   "op": "choice"
+  },
+  {
+   "id": "17:70e8",
+   "op": "choice"
+  },
+  {
+   "id": "17:70f8",
+   "op": "text",
+   "follows_choice": [
+    "17:70d8"
+   ]
+  },
+  {
+   "id": "17:7198",
+   "op": "choice"
+  },
+  {
+   "id": "17:71b4",
+   "op": "choice"
+  },
+  {
+   "id": "17:71c8",
+   "op": "text",
+   "follows_choice": [
+    "17:7198"
+   ]
+  },
+  {
+   "id": "17:72cc",
+   "op": "text"
+  },
+  {
+   "id": "17:7344",
+   "op": "text"
+  },
+  {
+   "id": "17:7370",
+   "op": "text",
+   "follows_choice": [
+    "17:71b4"
+   ]
+  },
+  {
+   "id": "17:73e8",
+   "op": "text"
+  },
+  {
+   "id": "17:74e4",
+   "op": "text"
+  },
+  {
+   "id": "17:7648",
+   "op": "text"
+  },
+  {
+   "id": "17:7738",
+   "op": "text"
+  },
+  {
+   "id": "17:77a0",
+   "op": "text",
+   "follows_choice": [
+    "17:70e8"
+   ]
+  },
+  {
+   "id": "17:7814",
+   "op": "choice"
+  },
+  {
+   "id": "17:7830",
+   "op": "choice"
+  },
+  {
+   "id": "17:7844",
+   "op": "text",
+   "follows_choice": [
+    "17:7814"
+   ]
+  },
+  {
+   "id": "17:7924",
+   "op": "text"
+  },
+  {
+   "id": "17:7a1c",
+   "op": "text"
+  },
+  {
+   "id": "17:7b48",
+   "op": "text"
+  },
+  {
+   "id": "17:7c38",
+   "op": "text"
+  },
+  {
+   "id": "17:7d58",
+   "op": "text",
+   "follows_choice": [
+    "17:7830"
+   ]
+  },
+  {
+   "id": "17:7ddc",
+   "op": "text"
+  },
+  {
+   "id": "17:7e84",
+   "op": "text"
+  },
+  {
+   "id": "17:7ec4",
+   "op": "text"
+  },
+  {
+   "id": "17:7ee4",
+   "op": "text",
+   "follows_choice": [
+    "17:233c",
+    "17:2810",
+    "17:ab58",
+    "17:ab8c"
+   ]
+  },
+  {
+   "id": "17:7f38",
+   "op": "choice"
+  },
+  {
+   "id": "17:7f44",
+   "op": "choice"
+  },
+  {
+   "id": "17:7f54",
+   "op": "text",
+   "follows_choice": [
+    "17:7f38"
+   ]
+  },
+  {
+   "id": "17:7fb8",
+   "op": "choice"
+  },
+  {
+   "id": "17:7fc4",
+   "op": "choice"
+  },
+  {
+   "id": "17:7fd4",
+   "op": "text",
+   "follows_choice": [
+    "17:7fb8"
+   ]
+  },
+  {
+   "id": "17:8110",
+   "op": "text"
+  },
+  {
+   "id": "17:8190",
+   "op": "text"
+  },
+  {
+   "id": "17:8254",
+   "op": "text"
+  },
+  {
+   "id": "17:82b4",
+   "op": "text"
+  },
+  {
+   "id": "17:82e8",
+   "op": "text"
+  },
+  {
+   "id": "17:8378",
+   "op": "text"
+  },
+  {
+   "id": "17:8418",
+   "op": "text",
+   "follows_choice": [
+    "17:7fc4"
+   ]
+  },
+  {
+   "id": "17:8570",
+   "op": "text"
+  },
+  {
+   "id": "17:862c",
+   "op": "text"
+  },
+  {
+   "id": "17:87e4",
+   "op": "text"
+  },
+  {
+   "id": "17:8824",
+   "op": "text"
+  },
+  {
+   "id": "17:8848",
+   "op": "text",
+   "follows_choice": [
+    "17:7f44"
+   ]
+  },
+  {
+   "id": "17:88c4",
+   "op": "choice"
+  },
+  {
+   "id": "17:88d0",
+   "op": "choice"
+  },
+  {
+   "id": "17:88e4",
+   "op": "text",
+   "follows_choice": [
+    "17:88c4"
+   ]
+  },
+  {
+   "id": "17:89fc",
+   "op": "text"
+  },
+  {
+   "id": "17:8a68",
+   "op": "text"
+  },
+  {
+   "id": "17:8b48",
+   "op": "text"
+  },
+  {
+   "id": "17:8b74",
+   "op": "text"
+  },
+  {
+   "id": "17:8b94",
+   "op": "text",
+   "follows_choice": [
+    "17:88d0"
+   ]
+  },
+  {
+   "id": "17:8cb4",
+   "op": "text"
+  }
+ ]
+}

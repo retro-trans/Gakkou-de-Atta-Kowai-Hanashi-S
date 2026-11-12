@@ -1,0 +1,415 @@
+{
+ "slice": "S106",
+ "scene": "27",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S105",
+ "next": "S107",
+ "todo": [],
+ "rows": [
+  {
+   "id": "27:5374",
+   "op": "choice",
+   "en": "The brave one who went to the restroom"
+  },
+  {
+   "id": "27:5390",
+   "op": "choice",
+   "en": "The trio who headed for the faculty room"
+  },
+  {
+   "id": "27:53c4",
+   "op": "text",
+   "follows_choice": [
+    "27:5374"
+   ],
+   "en": "That's what I thought.\nI was sure you'd want to hear that part of the story.\nHe went looking for a restroom, but there are three restrooms in all in the old school building.\nThis classroom we're in now is on the first floor, right?{p}Which floor's restroom do you think he went to?\n"
+  },
+  {
+   "id": "27:54a4",
+   "op": "choice",
+   "en": "The first-floor restroom"
+  },
+  {
+   "id": "27:54b4",
+   "op": "choice",
+   "en": "The second-floor restroom"
+  },
+  {
+   "id": "27:54c4",
+   "op": "choice",
+   "en": "The third-floor restroom"
+  },
+  {
+   "id": "27:54d4",
+   "op": "text",
+   "follows_choice": [
+    "27:54c4"
+   ],
+   "en": "First, he tried looking for the restroom on the first floor.\nNaturally, anyone would go to the restroom closest to this classroom.\nBut even from a distance, he could see the restroom lights weren't on.{p}"
+  },
+  {
+   "id": "27:5594",
+   "op": "text",
+   "en": "So he went closer, and what do you know, he heard voices talking somewhere up the stairs.\nThey were low mumbles, hard to make out, but they were definitely people's voices.\nAnd so he climbed the stairs.{p}"
+  },
+  {
+   "id": "27:5664",
+   "op": "text",
+   "en": "A world where only your own footsteps echo isn't a very pleasant place.\nHad the other three gone to fetch a teacher for them by now?{p}"
+  },
+  {
+   "id": "27:56e8",
+   "op": "text",
+   "en": "Worrying about other people like that, he tried to drive off the fear creeping in inside him.{p}"
+  },
+  {
+   "id": "27:5750",
+   "op": "text",
+   "en": "The voices seemed to be coming from the third floor.{p}"
+  },
+  {
+   "id": "27:5788",
+   "op": "text",
+   "en": "Just to be sure, he peeked into the second-floor restroom too, but the lights weren't on there either.\nThey had to be on the third floor.\nThose two were up on the third floor, talking about something.{p}"
+  },
+  {
+   "id": "27:582c",
+   "op": "text",
+   "en": "And if they were talking, it was obvious what about.\nThey were plotting how to scare the friend who'd come to rescue them.\nThe thought made him a little angry.{p}"
+  },
+  {
+   "id": "27:58b8",
+   "op": "text",
+   "en": "A twinge of regret brushed his heart: he should have gone to the faculty room with the other three.\nBut since he'd come all this way, he decided to turn the tables and scare them instead.{p}"
+  },
+  {
+   "id": "27:5968",
+   "op": "text",
+   "en": "Slowly, slowly, he climbed the stairs.\nThe voices were coming from the top of the stairs.\nNo matter how quietly you try to walk, you can't silence the sound of climbing stairs.{p}"
+  },
+  {
+   "id": "27:5a14",
+   "op": "text",
+   "en": "Every time the soles of his feet pressed down on a step, the wood bowed and sent a heavy creak echoing all around.\nSo instead, he focused all his attention on his ears.\nHe was trying to pin down where they were.{p}"
+  },
+  {
+   "id": "27:5acc",
+   "op": "text",
+   "en": "With everything so dark around him, it was easy to focus on his hearing.\nAnd from the voices he could hear mixed in with his own footsteps, he pinned down their position.\nThey were behind the wall at the top of the stairs leading to the third floor.\nHaving decided that, he braced himself as the third floor drew closer.\nThen he stopped one step short of the top and took a deep breath.{p}"
+  },
+  {
+   "id": "27:5c18",
+   "op": "text",
+   "en": "\"Boo!\"\nAnd he shouted at the top of his lungs.\n...But there was nobody there.\nThere wasn't even a shadow of the two who should have been there, and the voices he'd been hearing until then had stopped dead.\nThat was when the fear truly sank in all over again.\nAnd he remembered.\nThe story of Hanako-san, who's said to appear in the third-floor restroom of the old school building.{p}"
+  },
+  {
+   "id": "27:5d54",
+   "op": "text",
+   "en": "They say where Hanako-san is depends on her mood at the time.\nUsually, she's supposed to be in the second stall from the back.\nBut sometimes she's in a different stall, so you can never feel safe.\nSay you walk into the restroom.{p}"
+  },
+  {
+   "id": "27:5e24",
+   "op": "text",
+   "en": "Then, even though the restroom should be empty, you hear a girl crying inside one of the stalls.{p}"
+  },
+  {
+   "id": "27:5e88",
+   "op": "text",
+   "en": "So you knock three times, and three knocks come back from inside.{p}"
+  },
+  {
+   "id": "27:5ee4",
+   "op": "text",
+   "en": "Next, you knock just once.{p}"
+  },
+  {
+   "id": "27:5f14",
+   "op": "text",
+   "en": "Then, once again, a single knock comes back.{p}"
+  },
+  {
+   "id": "27:5f48",
+   "op": "text",
+   "en": "And then,\n"
+  },
+  {
+   "id": "27:5f60",
+   "op": "text",
+   "en": "\"Is anyone in there?\"\nyou ask, but there's no answer.{p}"
+  },
+  {
+   "id": "27:5fa4",
+   "op": "text",
+   "en": "There's no answer, so, puzzled, you try to open the door, and it isn't locked.{p}"
+  },
+  {
+   "id": "27:6000",
+   "op": "text",
+   "en": "You work up your nerve and open the door, and there's nobody inside.{p}"
+  },
+  {
+   "id": "27:6044",
+   "op": "text",
+   "en": "So, feeling uneasy, you close the door, right?\nThen, this time, someone knocks from the other side of the door.{p}"
+  },
+  {
+   "id": "27:60ac",
+   "op": "text",
+   "en": "Three times. Knock... knock... knock... like that.\nBut there was nobody in there, remember?\nAnd then you sense a strange presence, and when you happen to look up...{p}"
+  },
+  {
+   "id": "27:6144",
+   "op": "text",
+   "en": "Through the gap above the stall door, a girl with a pale face and a bobbed haircut is staring straight down at you.\nAnd the rumor goes that whoever she sees will die within three days.\nThat's the story of Hanako-san that haunts our school's old building.\nAnd he went and remembered all of that.\nBut it's okay.\nHanako-san appears in the girls' restroom, after all.\nShe can't hurt him.\nAnd he could hardly imagine the two who'd gone missing would be in the girls' restroom.{p}"
+  },
+  {
+   "id": "27:6300",
+   "op": "text",
+   "en": "When he came out on the third floor and glanced toward the restroom, the lights in the third-floor restroom weren't on.\nIn that case, which restroom on earth had they gone to...?{p}"
+  },
+  {
+   "id": "27:639c",
+   "op": "text",
+   "en": "And what had that scream been?\nSuddenly, he grew scared of being alone.{p}"
+  },
+  {
+   "id": "27:63fc",
+   "op": "text",
+   "en": "Telling himself there was nothing he could do alone anyway, he tried to run away.\nThat was when it happened.{p}"
+  },
+  {
+   "id": "27:6484",
+   "op": "text",
+   "en": "Suddenly, the lights in the third-floor restroom flashed on.\n...Someone's there.\nThat's what he thought.\nIt had to be those two.\nThose two had been trying to scare him after all.\nThey meant to frighten him again and again and push his terror to its peak.{p}"
+  },
+  {
+   "id": "27:6578",
+   "op": "text",
+   "en": "Once he thought that, he actually stopped being scared.{p}"
+  },
+  {
+   "id": "27:65b0",
+   "op": "text",
+   "en": "He swore firmly to himself that he'd give those two what for, then puffed out his chest and walked toward the restroom.{p}"
+  },
+  {
+   "id": "27:6614",
+   "op": "text",
+   "en": "Planning that whenever they tried to spook him, he'd just laugh right back at them.{p}"
+  },
+  {
+   "id": "27:6664",
+   "op": "text",
+   "en": "There was nobody in the restroom.\nBut all the stall doors were closed.\nSo they had to be in one of them.\nThere were four doors.\nWhich door do you think he opened first?{p}"
+  },
+  {
+   "id": "27:670c",
+   "op": "choice",
+   "en": "The door farthest in the back"
+  },
+  {
+   "id": "27:671c",
+   "op": "choice",
+   "en": "The second door from the back"
+  },
+  {
+   "id": "27:6730",
+   "op": "choice",
+   "en": "The third door from the back"
+  },
+  {
+   "id": "27:6744",
+   "op": "choice",
+   "en": "The door closest to the entrance"
+  },
+  {
+   "id": "27:6754",
+   "op": "text",
+   "follows_choice": [
+    "27:670c",
+    "27:671c",
+    "27:6730",
+    "27:6744"
+   ],
+   "en": "...This door, huh?\nHe put his hand on the knob and slowly opened the door.\nIt wasn't locked.{p}"
+  },
+  {
+   "id": "27:67d8",
+   "op": "text",
+   "en": "...There was nobody inside.\nSo, which one do you think he opened next?{p}"
+  },
+  {
+   "id": "27:682c",
+   "op": "text",
+   "en": "...Next, it's this door, huh?\nHe put his hand on the knob and slowly opened the door.\nIt wasn't locked.{p}"
+  },
+  {
+   "id": "27:68b4",
+   "op": "text",
+   "en": "...There was nobody inside.\nNow there were only two left.\nWhich one do you think he opened?{p}"
+  },
+  {
+   "id": "27:6914",
+   "op": "text",
+   "en": "...Right, this door.\nHe put his hand on the knob and slowly opened the door.\nIt wasn't locked.{p}"
+  },
+  {
+   "id": "27:699c",
+   "op": "text",
+   "en": "...There was nobody inside.\nAt last, it was the final door.{p}"
+  },
+  {
+   "id": "27:69f0",
+   "op": "text",
+   "en": "He took hold of the knob of the remaining door.\nWhat if they weren't in here...?\nIf this one was empty too, then who had turned on the restroom lights?\nAnd where were they?\nNothing would add up anymore.\nThinking about it made his heart pound wildly.\nTo open it, or not to open it.\nHe agonized over it.\nStill, he'd never get an answer unless he opened it.\nHe gripped the doorknob hard, if only to steady his trembling hand.{p}"
+  },
+  {
+   "id": "27:6ba4",
+   "op": "text",
+   "en": "And then he slowly turned the knob.\n...That was when it happened.{p}"
+  },
+  {
+   "id": "27:6bf0",
+   "op": "text",
+   "en": "Somewhere, he heard a scream.\nWithout thinking, he let go of the doorknob.\nAnd he ran toward the voice.{p}"
+  },
+  {
+   "id": "27:6c7c",
+   "op": "text",
+   "en": "The screaming went on and on.\nA male voice?\nOr a female one?\nAn eerie shriek, as if not one person but many were screaming.\n\"It's coming from downstairs!\"\nThe voices were coming from the floor below.\nHe practically flew down the stairs and looked down the long hallway.{p}"
+  },
+  {
+   "id": "27:6d70",
+   "op": "text",
+   "en": "\"Ah!\"\nHe saw them.{p}"
+  },
+  {
+   "id": "27:6d94",
+   "op": "text",
+   "en": "Far down the hallway, the three who were supposed to have gone to the faculty room, being dragged away.{p}"
+  },
+  {
+   "id": "27:6dec",
+   "op": "text",
+   "en": "The three were still alive, screaming at the tops of their lungs for help.{p}"
+  },
+  {
+   "id": "27:6e34",
+   "op": "text",
+   "en": "He couldn't understand why they were here, when they should have gone to the faculty room.\nHad something attacked them on the way...?{p}"
+  },
+  {
+   "id": "27:6eb8",
+   "op": "text",
+   "en": "Something was dragging them, that much was certain, but he couldn't get a good look at it.\nThere seemed to be a number of small black lumps of some kind, and they were the ones dragging the three away.{p}"
+  },
+  {
+   "id": "27:6f6c",
+   "op": "text",
+   "en": "\"Wait!\"\n"
+  },
+  {
+   "id": "27:6f88",
+   "op": "text",
+   "en": "He hurried after them.{p}"
+  },
+  {
+   "id": "27:6fb4",
+   "op": "text",
+   "en": "But in his rush, he slipped and fell.\nAnd he hit his head hard.{p}"
+  },
+  {
+   "id": "27:7010",
+   "op": "text",
+   "en": "\"Oww...\"\nHe rubbed the back of his head, and froze in shock.\nHis head was slimy.\nHis hair was soaked and sticky.\nBlood...?\nHe brought his slick fingers up to his nose.\nIt was definitely the smell of blood.\nHe rubbed his head again and realized there was no wound.{p}"
+  },
+  {
+   "id": "27:7128",
+   "op": "text",
+   "en": "So he looked down the dim hallway...\nAnd there was blood smeared thick across the floor.\nIt ran on in one thick line, as if someone had run a paint roller down the hallway.\nThis was blood left by the three as they were dragged.\nHe knew it by instinct.{p}"
+  },
+  {
+   "id": "27:7224",
+   "op": "text",
+   "en": "He stood up and looked into the distance, and the three being dragged away were barely moving.\nHe couldn't hear them calling for help anymore.\nWere they dead, or still just barely alive...?\nThe three were dragged all the way to the end of the hallway, and then around the corner.\nAnd then they were gone from sight.{p}"
+  },
+  {
+   "id": "27:7350",
+   "op": "text",
+   "en": "Past that corner was another staircase.{p}"
+  },
+  {
+   "id": "27:7390",
+   "op": "text",
+   "en": "He hurried after them.\nThis time, taking care not to slip in the blood.{p}"
+  },
+  {
+   "id": "27:73f0",
+   "op": "text",
+   "en": "Even around the corner, the trail where the three had been dragged was clearly visible.\nJust like the trail a slug leaves behind.{p}"
+  },
+  {
+   "id": "27:7480",
+   "op": "text",
+   "en": "The trail led up to the third floor.\nHe followed it frantically.\nBy the time he reached the third floor, they were already out of sight.{p}"
+  },
+  {
+   "id": "27:7500",
+   "op": "text",
+   "en": "But there was a trail of blood on the hallway floor, you see.\nHe followed that trail.\nWhere do you think the trail of blood led?{p}"
+  },
+  {
+   "id": "27:7584",
+   "op": "text",
+   "en": "It led to the girls' restroom on the third floor.\nWhat's more, the lights were on in the girls' restroom.\nHe caught his breath.\nIf he'd wanted to run, he could have.\nBut he didn't run.\nMaybe he thought he'd become some hero on TV or something.\nHe slowly followed the trail of blood and stood in front of the girls' restroom.{p}"
+  },
+  {
+   "id": "27:76a4",
+   "op": "text",
+   "en": "The restroom was hushed and still.\nHe had completely thrown out the idea that this was a prank set up by those two.\nThat they'd been hiding behind that last door he never opened after all, and now...\nBecause he knew full well himself how ridiculous an idea that was.{p}"
+  },
+  {
+   "id": "27:77b0",
+   "op": "text",
+   "en": "The trail of blood went right on into the restroom.\nInside, the fluorescent lights were blazing brightly, you see.\nIt was strangely dazzling.\nAnd on that floor, the blood was smeared thick.\nThree lines had merged into one thick line.\nThe thin gaps here and there in the thick line were proof that it was three lines joined together.\nThat line led on, clear as anything.\nTo the second stall from the back, where Hanako-san is said to be.\nThere wasn't a single sound.\nBesides, the stalls in the old building's restrooms are cramped.\nNo matter how you look at it, there's no way three people could fit in that space.\nBut judging by the trail of blood, they couldn't be anywhere else.{p}Hey, {a}{f:|}.\nWhat do you think he did?{p}Do you think he opened the door of the stall where Hanako-san is said to be?\n"
+  },
+  {
+   "id": "27:7a54",
+   "op": "choice",
+   "en": "He opened it"
+  },
+  {
+   "id": "27:7a5c",
+   "op": "choice",
+   "en": "He didn't open it"
+  },
+  {
+   "id": "27:7a6c",
+   "op": "text",
+   "follows_choice": [
+    "27:7a54"
+   ],
+   "en": "That's right.\nAs if lured in, he went and stood in front of that stall.{p}"
+  },
+  {
+   "id": "27:7aa8",
+   "op": "text",
+   "en": "And he put his hand on the knob.\nThe knob felt oddly heavy.{p}"
+  },
+  {
+   "id": "27:7aec",
+   "op": "text",
+   "en": "But when he put some strength into it, it was only heavy at first, and the door opened easily.\nAnd then...{p}"
+  },
+  {
+   "id": "27:7b68",
+   "op": "text",
+   "en": "The door opened, but there was nothing inside.\nThe trail of blood that had run all the way from the second floor broke off abruptly inside that stall.\nEven though it was empty inside.\nJust then, he felt something cold on his cheek.\nRain...?\nIt couldn't possibly be raining.\nThis was inside the old school building.\nSuspicious, he looked up...{p}"
+  },
+  {
+   "id": "27:7c94",
+   "op": "text",
+   "en": "There they were.\nThe five classmates who'd been in the make-up class with him were stuck to the ceiling, covered in blood.\nAnd clinging to one of them, a woman with a bobbed haircut, in a bloodstained sailor uniform, was glaring down at him.\nHe couldn't make out her face.{p}"
+  }
+ ]
+}

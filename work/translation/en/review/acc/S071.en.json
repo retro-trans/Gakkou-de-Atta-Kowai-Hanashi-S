@@ -1,0 +1,398 @@
+{
+ "slice": "S071",
+ "scene": "17",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S070",
+ "next": "S072",
+ "todo": [],
+ "rows": [
+  {
+   "id": "17:6660",
+   "op": "text",
+   "en": "{f:Way to go|Ooh}!\nThat's {f:my boy|impressive}.\n{f:Go make your move on her right away|I'm a little jealous, though}.\nNow then, I'll divine what kind of attitude you should take when you make your move.{p}"
+  },
+  {
+   "id": "17:6718",
+   "op": "text",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nWhat must {c}{f:|} do to win that person's heart?{p}"
+  },
+  {
+   "id": "17:6804",
+   "op": "text",
+   "en": "{f:The oracle says to|Whoa,} {f:express your love for her openly|it says you should confess with all your heart}.\n{f:Heh heh heh|Honestly}... my, aren't you the passionate one.{p}"
+  },
+  {
+   "id": "17:689c",
+   "op": "text",
+   "en": "So, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:68d0",
+   "op": "text",
+   "en": "If you act warmly toward {f:her|him}, the way will open up on its own, apparently.\n{f:Honestly|Gosh}, all this lovey-dovey stuff is too much for {f:me|me}.{p}"
+  },
+  {
+   "id": "17:6954",
+   "op": "text",
+   "en": "So, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:6988",
+   "op": "text",
+   "en": "So to catch {f:her|his} interest, you'll sometimes need to play it cold.\n{f:Apparently your sweetheart|All right,} {f:goes for the cool type of guy|give it a try right away}.\n{f:Love is all strategy,|And if it doesn't work out,} {f:hyahyahyahyahya|you can just throw yourself into my arms}.{p}"
+  },
+  {
+   "id": "17:6a9c",
+   "op": "text",
+   "en": "So, what next?{p}"
+  },
+  {
+   "id": "17:6acc",
+   "op": "text",
+   "en": "{f:Hmm|Huh}, {f:you poor thing...|that's odd.}\n{f:Guess you're just not popular|I'm sure that can't be right}.\n{f:But it can't be helped, so|At least I, for one,} {f:let's try divining something else|am head over heels for you}.\n{f:Come on|Well then}, {f:which one will it be|shall we move on}?{p}"
+  },
+  {
+   "id": "17:6bec",
+   "op": "text",
+   "en": "Did you have a fight with {f:her|him} recently or something?\n{f:It seems you're|This is fate too,} {f:destined to be dumped|but don't let it get you down}.\n{f:It's sad, but that's how it goes.|You've still got me, haven't you?}\n...I know, try divining something else.\nCome on, which one will it be?{p}"
+  },
+  {
+   "id": "17:6cf8",
+   "op": "text",
+   "en": "Wow.\nYou must be walking on air.{p}"
+  },
+  {
+   "id": "17:6d28",
+   "op": "text",
+   "en": "Well then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:6d60",
+   "op": "text",
+   "en": "Huh?\n{f:She doesn't like you?|What's going on?}\nEarlier it said things would go well.\n...I get it.\n{f:She|This} {f:thinks of you as her backup guy|is what Kokkuri-san really means}.\nIn other words, {f:you're the only one in love;|it gave a bad answer on purpose} {f:she doesn't love you at all|to put an end to your romance}.\n...{f:Maybe she's after your money;|And it's telling you to go out with} {f:that kind of thing happens|a wonderful man like me}.{p}"
+  },
+  {
+   "id": "17:6f30",
+   "op": "text",
+   "en": "{f:But you|See,} {f:can't break up with her, can you|it all adds up, doesn't it}?\n{f:After all,|Oh man,} {f:you said you liked her|this is great}.\n{f:...Couples like this|I bet we'll} {f:sure are common these days|make the best couple ever}.\n{f:Hey,|My} {f:don't be so down.|honey...}\nI know, why don't you try divining something else?\nCome on, which one will it be?{p}"
+  },
+  {
+   "id": "17:7094",
+   "op": "text",
+   "follows_choice": [
+    "17:2330",
+    "17:2804",
+    "17:ab4c",
+    "17:ab80"
+   ],
+   "en": "Money troubles, huh.{p}If that's what's on your mind, does that mean you're a big spender?\n"
+  },
+  {
+   "id": "17:70d8",
+   "op": "choice",
+   "en": "Say yes"
+  },
+  {
+   "id": "17:70e8",
+   "op": "choice",
+   "en": "Say no"
+  },
+  {
+   "id": "17:70f8",
+   "op": "text",
+   "follows_choice": [
+    "17:70d8"
+   ],
+   "en": "I see.\n...A big spender, huh.{p}Don't you want to save up your money and buy something, or go on a trip, or take classes somewhere, or do anything like that{f:, huh|, hm}?\n"
+  },
+  {
+   "id": "17:7198",
+   "op": "choice",
+   "en": "I do have something I want to do"
+  },
+  {
+   "id": "17:71b4",
+   "op": "choice",
+   "en": "I haven't really thought about it"
+  },
+  {
+   "id": "17:71c8",
+   "op": "text",
+   "follows_choice": [
+    "17:7198"
+   ],
+   "en": "Then you shouldn't be wasting it all.\n...But anyway, shall I divine whether you'll reach that goal?\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} achieve that goal?{p}"
+  },
+  {
+   "id": "17:72cc",
+   "op": "text",
+   "en": "Ah, it came out well.\nGood, good.\nFrom today on, spend your money with a proper plan{f:, okay|, you hear}?{p}"
+  },
+  {
+   "id": "17:7344",
+   "op": "text",
+   "en": "Well then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:7370",
+   "op": "text",
+   "follows_choice": [
+    "17:71b4"
+   ],
+   "en": "{f:You're hopeless|That's no good}, you know.\nYou spend your money, you've got no goal, and then you want me to divine your money troubles?{p}"
+  },
+  {
+   "id": "17:73e8",
+   "op": "text",
+   "en": "Well, {f:it can't be helped|let's give it a try}.\nI'll divine whether your luck with money is good right now.\nKokkuri-san, Kokkuri-san, please answer us.\nIs {c}{f:|}'s luck with money good at the moment?{p}"
+  },
+  {
+   "id": "17:74e4",
+   "op": "text",
+   "en": "Hmm, good for you.\nYou've got the luck, so {f:why not|how about you} spend your money with a bit more planning?\nAll right.\nNow I'll divine how you can cut down on your wasteful spending.\nKokkuri-san, Kokkuri-san, please answer us.\nHow can {c}{f:|} break the habit of wasting money?{p}"
+  },
+  {
+   "id": "17:7648",
+   "op": "text",
+   "en": "S, A, V, I, N, G, S...?\nI see, savings.\nYes, yes, that's the surest way.\nA piggy bank or a real bank, either one is fine.\nIf you like, I can even hold onto it for you.\nFirst, you have to learn the joy of saving money.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:7738",
+   "op": "text",
+   "en": "Oh, brother...\nWell, don't look so disappointed.\nI'll do a different reading for you.\nCome on, which one will it be?{p}"
+  },
+  {
+   "id": "17:77a0",
+   "op": "text",
+   "follows_choice": [
+    "17:70e8"
+   ],
+   "en": "So you're not a big spender.\nDoes that mean you like saving money?{p}Or are you just plain broke?\n"
+  },
+  {
+   "id": "17:7814",
+   "op": "choice",
+   "en": "Because I like saving money"
+  },
+  {
+   "id": "17:7830",
+   "op": "choice",
+   "en": "I'm just plain broke"
+  },
+  {
+   "id": "17:7844",
+   "op": "text",
+   "follows_choice": [
+    "17:7814"
+   ],
+   "en": "All right then, let me see whether you'll become rich.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} become rich in the future?{p}"
+  },
+  {
+   "id": "17:7924",
+   "op": "text",
+   "en": "Mmm, splendid.\nSo you'll be rich someday.\n{f:Our meeting here must be fate|I've felt fate between us since the moment we met}.\n{f:Let's make this the start|From now on,} {f:of a beautiful friendship|let's stay very, very close}.\nHeh heh heh...{p}"
+  },
+  {
+   "id": "17:7a1c",
+   "op": "text",
+   "en": "Let's see, just because you get rich doesn't mean you can relax.\nRich people make enemies easily, you see.\nLet's divine that next.\nKokkuri-san, Kokkuri-san, please answer us.\nOnce {c}{f:|} is rich, will anyone appear to stand in the way?{p}"
+  },
+  {
+   "id": "17:7b48",
+   "op": "text",
+   "en": "See, just as I thought, you have enemies.\nWhile we're at it, I'll divine what kind of person it is, too.\nKokkuri-san, Kokkuri-san, what kind of person will be {c}{f:|}'s enemy?{p}"
+  },
+  {
+   "id": "17:7c38",
+   "op": "text",
+   "en": "Hmm, I don't know quite how to put this.\nYour enemy will be your family: your parents, your children, or your spouse...\nAnyway, it says someone close to you.\nDo you care more about work than your home life?\nYou'd better treasure your family.\n...Well, if you keep that in mind from now on, fate might take your side a little.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:7d58",
+   "op": "text",
+   "follows_choice": [
+    "17:7830"
+   ],
+   "en": "Broke, huh...\nHow awful.\nWell, even if you're broke now, you might make it big someday, so let's divine that.{p}"
+  },
+  {
+   "id": "17:7ddc",
+   "op": "text",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} get a chance to become rich in the future?{p}"
+  },
+  {
+   "id": "17:7e84",
+   "op": "text",
+   "en": "It says you've got a chance.\nWell, well, congratulations, congratulations.{p}"
+  },
+  {
+   "id": "17:7ec4",
+   "op": "text",
+   "en": "So, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:7ee4",
+   "op": "text",
+   "follows_choice": [
+    "17:233c",
+    "17:2810",
+    "17:ab58",
+    "17:ab8c"
+   ],
+   "en": "So this is what you want me to divine.{p}Hmm, hmm, is there a job you want to have in the future?\n"
+  },
+  {
+   "id": "17:7f38",
+   "op": "choice",
+   "en": "Nod"
+  },
+  {
+   "id": "17:7f44",
+   "op": "choice",
+   "en": "Don't nod"
+  },
+  {
+   "id": "17:7f54",
+   "op": "text",
+   "follows_choice": [
+    "17:7f38"
+   ],
+   "en": "I see.\nSo you're already thinking hard about your future.{p}Then are you studying anything for it?\n"
+  },
+  {
+   "id": "17:7fb8",
+   "op": "choice",
+   "en": "I am"
+  },
+  {
+   "id": "17:7fc4",
+   "op": "choice",
+   "en": "Not yet"
+  },
+  {
+   "id": "17:7fd4",
+   "op": "text",
+   "follows_choice": [
+    "17:7fb8"
+   ],
+   "en": "I see.\nYou're putting in the effort.\nThen I'll see whether all that studying will pay off and you'll be able to do the job you hope for.\nKokkuri-san, Kokkuri-san, please answer us.\nThere's a job that {c}{f:|} wants to do.\nWill {f:his|her} efforts come into bloom?{p}"
+  },
+  {
+   "id": "17:8110",
+   "op": "text",
+   "en": "It says your efforts will be rewarded.\nYes, yes.\nKeep at it.\nNow then, allow me to divine whether you'll succeed in that job.{p}"
+  },
+  {
+   "id": "17:8190",
+   "op": "text",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nIf {c}{f:|} gets that job, will it be a success?\nPlease tell us how it will turn out.{p}"
+  },
+  {
+   "id": "17:8254",
+   "op": "text",
+   "en": "Just what I'd expect of you.\nI knew from the start you were a {f:guy|girl} with real promise.{p}"
+  },
+  {
+   "id": "17:82b4",
+   "op": "text",
+   "en": "So next, what shall I divine?{p}"
+  },
+  {
+   "id": "17:82e8",
+   "op": "text",
+   "en": "Mmm-mm.\nThe world is a tough place.\nBut still, you mustn't lose the will to keep trying.\nPull yourself together; shall we try divining something else?{p}"
+  },
+  {
+   "id": "17:8378",
+   "op": "text",
+   "en": "Maybe the way you study is wrong.\nOr how about choosing a different job?\n...Don't lose heart, okay?\nI know, is there anything else you want divined?\nCome on, which one will it be?{p}"
+  },
+  {
+   "id": "17:8418",
+   "op": "text",
+   "follows_choice": [
+    "17:7fc4"
+   ],
+   "en": "{f:Hurry up and study, then|You'd better hurry up and study}.\n{f:A guy who slacks off|If you'll have me,} {f:won't be popular with girls|I'll teach you anything you like}.\n{f:Well, I'll check anyway|Oh, I know,} {f:whether you'll get that job someday, but...|why don't I become your private tutor from now on?}\n{f:With an attitude like that,|Heh heh heh,} {f:you may not get a good result|this is going to be fun}.{p}"
+  },
+  {
+   "id": "17:8570",
+   "op": "text",
+   "en": "{f:Kokkuri-san, |All right, }{f:|then, }Kokkuri-san, please answer us.\nWill {c}{f:|} land that dream job?{p}"
+  },
+  {
+   "id": "17:862c",
+   "op": "text",
+   "en": "Oh, a good result!\n{f:Seriously,|All right,} {f:hurry up and study|I'll come tutor you one of these days}.\nIt says that if you put in the effort, it'll pay off someday{f:, mind you|, after all}.\nNext... let's see, I'll divine whether you'll succeed in that job.\nKokkuri-san, Kokkuri-san, please answer us.\nIf {c}{f:|} gets that job, will it be a success?\nPlease tell us how it will turn out.{p}"
+  },
+  {
+   "id": "17:87e4",
+   "op": "text",
+   "en": "Well, well, you're quite something.\nYou're going to make it big.{p}"
+  },
+  {
+   "id": "17:8824",
+   "op": "text",
+   "en": "Well then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:8848",
+   "op": "text",
+   "follows_choice": [
+    "17:7f44"
+   ],
+   "en": "If you don't have a job in mind yet, I'll just divine about your studies.{p}...Which do you want to hear about: your entrance exams, or the next school test?\n"
+  },
+  {
+   "id": "17:88c4",
+   "op": "choice",
+   "en": "The entrance exams"
+  },
+  {
+   "id": "17:88d0",
+   "op": "choice",
+   "en": "The school test"
+  },
+  {
+   "id": "17:88e4",
+   "op": "text",
+   "follows_choice": [
+    "17:88c4"
+   ],
+   "en": "I see.\nEntrance exams are on your mind after all, huh.\nAll right, I'll find out whether you'll get the result you want in your next entrance exams.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} get into the first-choice school in the next entrance exams?{p}"
+  },
+  {
+   "id": "17:89fc",
+   "op": "text",
+   "en": "Oh, perfect!\nThen I'll ask about what happens after you get into your first choice.{p}"
+  },
+  {
+   "id": "17:8a68",
+   "op": "text",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nWhat will {c}{f:|}'s school life be like at that first-choice school?{p}"
+  },
+  {
+   "id": "17:8b48",
+   "op": "text",
+   "en": "A success!\nThat's something to look forward to.{p}"
+  },
+  {
+   "id": "17:8b74",
+   "op": "text",
+   "en": "So, what shall I divine next?\n"
+  },
+  {
+   "id": "17:8b94",
+   "op": "text",
+   "follows_choice": [
+    "17:88d0"
+   ],
+   "en": "I see.\nThe school test right in front of you matters more to you than entrance exams.\nAll right then, I shall divine the results of your next midterm.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} get good grades on the next midterm?{p}"
+  },
+  {
+   "id": "17:8cb4",
+   "op": "text",
+   "en": "Wow!\nSo you're smart?\nOr are you the hard-working type?\nThen next, I'll divine the results of the final exam after that, too.\nYour end-of-term grade is decided by the combined score of the midterm and the final, after all.\nIf one goes well but the next one tanks, that's no good, right?\nAll right, here goes.{p}"
+  }
+ ]
+}

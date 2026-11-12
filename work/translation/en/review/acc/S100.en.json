@@ -1,0 +1,433 @@
+{
+ "slice": "S100",
+ "scene": "26",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S099",
+ "next": "S101",
+ "todo": [],
+ "rows": [
+  {
+   "id": "26:5adc",
+   "op": "choice",
+   "en": "Fight Tsuda"
+  },
+  {
+   "id": "26:5aec",
+   "op": "choice",
+   "en": "Stay still"
+  },
+  {
+   "id": "26:5af8",
+   "op": "choice",
+   "en": "Call the nurse for help"
+  },
+  {
+   "id": "26:5b14",
+   "op": "text",
+   "follows_choice": [
+    "26:5aec"
+   ],
+   "en": "I couldn't make a sound, so I just lay there, still.\nTsuda had that look in his eyes.\nHe was looking at me the way you look at food.{p}"
+  },
+  {
+   "id": "26:5b90",
+   "op": "text",
+   "en": "\"...What's wrong, Hosoda?\nI never thought you'd end up in the hospital too.\nBut it's nice that our beds are right next to each other, huh?\"\nHe said that and smiled.\nHe seemed somehow different from the Tsuda of a moment ago.\nSo I worked up my nerve and asked him.{p}"
+  },
+  {
+   "id": "26:5c84",
+   "op": "text",
+   "en": "\"...Hey, Tsuda.\nDo you ever feel like you want to eat me?\"\nTsuda just stared at me blankly.\nThen he burst out laughing.\n\"Ah ha ha ha...\nWhat are you saying, Hosoda?\nHave you gone crazy or something?\"\nThe Tsuda laughing in front of me was the usual Tsuda.\nHe didn't have that look.\nI was so relieved I let out a long sigh.\nAnd then Tsuda suddenly turned serious and said this.{p}"
+  },
+  {
+   "id": "26:5e00",
+   "op": "text",
+   "en": "\"...You know, I can't remember the last few days.\nI wonder what happened to me.\nI went to that restroom beside the gym, and a joro spider got on my shoulder there...\nAfter that, I don't remember a thing.\nAnd when I came to, I was lying in a hospital bed.\nWeird, right?\"\nAs if his words were prompting me, I found myself nodding.\nAnd I kept what I'd seen on the roof and what happened in the nurse's office to myself.\nI mean, I didn't think Tsuda would believe me if I told him all that.{p}"
+  },
+  {
+   "id": "26:5fc4",
+   "op": "text",
+   "en": "I think Tsuda was probably being controlled by the joro spider.\nOf course, I didn't tell him that either.\nWell, Tsuda was back to normal, after all.\nCase closed, as they say.\nTsuda still comes to school like normal, even now.\nHe's doing just fine.\nIt's just that sometimes, when he sees a fly, he gets that look in his eyes and licks his lips like it looks delicious.\nAnd sometimes when Tsuda opens his mouth wide to laugh, thread comes spewing out of it...\nBut I'm not scared anymore.\nThat sort of thing is just a minor aftereffect.\nIn exchange, Tsuda now wolfs down everything like it's delicious, and he isn't scared of bugs anymore either.{p}"
+  },
+  {
+   "id": "26:61ec",
+   "op": "text",
+   "en": "So, what do you think, {a}{f:|}?{p}Now will you believe the story about that restroom?\n"
+  },
+  {
+   "id": "26:6248",
+   "op": "choice",
+   "en": "I believe it"
+  },
+  {
+   "id": "26:6250",
+   "op": "choice",
+   "en": "I don't believe it"
+  },
+  {
+   "id": "26:625c",
+   "op": "choice",
+   "en": "I might believe it if I met Tsuda"
+  },
+  {
+   "id": "26:6288",
+   "op": "text",
+   "follows_choice": [
+    "26:625c"
+   ],
+   "en": "...You're a suspicious one, aren't you?\nAll right.\nThen I'll bring him along sometime.\nBut I think you'd better believe in the curse of the bugs, at least.\nIf you keep killing things just because they're bugs, you'll be cursed for sure.\nBugs are alive too, you know.\nAt least remember that much for me.{p}"
+  },
+  {
+   "id": "26:6394",
+   "op": "text",
+   "en": "...And that's the end of my story.\n...The seventh person still hasn't come, huh.\nThat means the next one is finally the last.\n{a}{f:|}, I hope nothing happens.\n...Because I think you're starting to notice it too.\nThe eerie aura that's enveloping this room.{p}"
+  },
+  {
+   "id": "26:6474",
+   "op": "text",
+   "follows_choice": [
+    "26:1fac"
+   ],
+   "en": "I see, that's nice.\nUsually, if you don't go near them, they shouldn't do anything to you either.\nThat's the most peaceful way, isn't it?\nI wish everyone were like that.\nThere are lots of people in this world who aren't satisfied unless they kill.\nThe guy I'm about to tell you about was exactly like that.\nHe was the type who, when he saw a bug, would chase it until he'd killed it.{p}"
+  },
+  {
+   "id": "26:65b8",
+   "op": "text",
+   "follows_choice": [
+    "26:3048"
+   ],
+   "en": "He tried to find the boss of the bugs, you see.\nHe'd decided all on his own that this mass outbreak of bugs was happening because some bug ringleader was giving the orders.{p}"
+  },
+  {
+   "id": "26:6650",
+   "op": "text",
+   "en": "One day after school, he went to that restroom to find the boss of the bugs.\nAnd he took a stick and stirred it all around the restroom, where bugs were swarming in huge numbers.{p}"
+  },
+  {
+   "id": "26:66ec",
+   "op": "text",
+   "en": "After he'd kept that up for a while, he felt, though maybe it was his imagination, that there were more and more bugs.\n\"Why★\"\nhe muttered.{p}"
+  },
+  {
+   "id": "26:6784",
+   "op": "text",
+   "en": "Bugs came welling up, as if overflowing, out of the toilets, the cleaning closet and the sinks.\nGradually the sun went down, and he turned on the restroom light and kept on searching.\nThe place felt less like a restroom than the inside of some unknown creature's stomach.\nThe floor, the walls and the ceiling were all rustling and squirming, as if they themselves were alive.\nFor the first time, he felt fear.\nThe bugs had been waiting, you see.\nWaiting for him to come.{p}"
+  },
+  {
+   "id": "26:6904",
+   "op": "text",
+   "en": "He stood frozen.\nHe felt he finally understood how truly frightening the enemy he'd been trying to fight was.\nBut having come this far, he couldn't back down a single step.\nBy then he was half doing it out of sheer stubbornness.\n\"Wh-where's the boss of these things☆\"\nUnable to take it anymore, he shouted.{p}"
+  },
+  {
+   "id": "26:6a14",
+   "op": "text",
+   "en": "Then he noticed that a single moth as big as a grown-up's face had come flying in, maybe drawn by the restroom light.\nThe moth fluttered around him, and it looked as if it were mocking him.\n\"Are you the boss☆\"{p}"
+  },
+  {
+   "id": "26:6ae8",
+   "op": "text",
+   "en": "Saying that, he swatted the moth out of the air with his stick as it flew at his face.{p}"
+  },
+  {
+   "id": "26:6b48",
+   "op": "text",
+   "en": "From the shock of the blow, the moth fell to the floor with a splat, scattering its scales.\nThe moth's plump, swollen belly was cruelly crushed, splattering yellow guts everywhere.\nFor a while, the moth's wings kept twitching and jerking.\nWatching it, he basked in a sense of triumph, thinking he'd defeated the boss of this place.\nIn the dim restroom light, the moth's scales glittered.\nThe scales drifted down like falling snow.\nJust then, he realized his body was slowly going numb.\n\"...Damn, it's those scales★\"\nBefore he could even finish saying it, he collapsed.\nHis vision slowly went dark, and his consciousness faded away...{p}"
+  },
+  {
+   "id": "26:6d7c",
+   "op": "text",
+   "en": "As his consciousness faded, all he could faintly make out in front of him was the crushed moth.{p}"
+  },
+  {
+   "id": "26:6df0",
+   "op": "text",
+   "en": "They say he was found about three days after he died.\nThe cause of death was supposedly that he'd slipped in the restroom, fallen and hit his head in a bad spot.\nBut they say his body was in an incredible state.\nApparently...\nFrom inside his half-rotted mouth, dozens of moths that had just hatched from their cocoons were flapping their wings open.\nCircling round and round over his face, as if they were dancing.{p}"
+  },
+  {
+   "id": "26:6f48",
+   "op": "text",
+   "follows_choice": [
+    "26:307c"
+   ],
+   "en": "You can't imagine, right?\nI mean, you can tell a guy like that isn't normal.\nNormal people like us could never figure him out.\nHe tried to smoke those bugs to death, you see.\nWith mosquito coils.\n{a}{f:|}, don't laugh.\nPeople die from getting caught in the smoke in fires too, right?\nIt's the same with bugs.\nHe wasn't going to kill them all in one go.\nHe chose a way that would make the bugs die slowly, in agony.{p}"
+  },
+  {
+   "id": "26:70f8",
+   "op": "text",
+   "en": "He took mosquito coils and snuck into the school in the middle of the night.\n\"...Making a fool of me.\n...I'll kill you!\n...Every last one of you, I'll wipe you all out!\"\nHe kept muttering things like that, over and over.\nThe school at night is very dark.\nAnd the fluorescent light in that restroom was broken, too.\nIt was dim even in the daytime.\nAt night, you couldn't see a thing.\nAs he got close to the restroom, he heard a rustling noise.\nA scratchy, scraping sound, like things rubbing their bodies together, was coming from the restroom.\nHe left only the one exit he'd use to get out at the end, and sealed all the other windows from the outside with duct tape.\nSo the smoke couldn't escape.{p}"
+  },
+  {
+   "id": "26:7338",
+   "op": "text",
+   "en": "Holding his breath, he stepped into the restroom.{p}"
+  },
+  {
+   "id": "26:7370",
+   "op": "text",
+   "en": "And then... it felt different from usual.\nThere was no hard floor; his footing felt unsteady somehow, squishy.\nWhen he pushed down and put his weight on his foot, it felt like stepping on a thick, fluffy carpet.{p}"
+  },
+  {
+   "id": "26:7430",
+   "op": "text",
+   "en": "Under the squishy stuff, he could feel the hard floor.\nWithout thinking, he shone the flashlight he was holding onto the floor.{p}"
+  },
+  {
+   "id": "26:74b0",
+   "op": "text",
+   "en": "And the inside of the restroom was packed with every kind of bug imaginable.\nAnd not just the floor, either, but the walls and the ceiling too.\nIt was less a restroom than the inside of the stomach of some unknown creature.\nThe floor, the walls, the ceiling, all of it was rustling and writhing as if it were alive itself.\nFor the first time, he felt afraid.\nThe bugs had been waiting, you see.\nWaiting for him to come.{p}"
+  },
+  {
+   "id": "26:7614",
+   "op": "text",
+   "en": "He stood frozen.\nHe felt he finally understood how truly frightening the enemy he'd been trying to fight was.\nBut having come this far, he couldn't back down a single step.\nBy then he was half doing it out of sheer stubbornness.{p}"
+  },
+  {
+   "id": "26:76dc",
+   "op": "text",
+   "en": "He bundled twenty mosquito coils together and lit them all at once with a lighter.\nIn the darkness, the lighter's flame lit him up red.\nThe coils caught, and smoke filled the air around him.\nHe scattered them all over the restroom and tried to get outside himself.\nBut the floor was slick with the body fluids of the bugs he'd trampled, and he couldn't walk properly.\nHe heard the bugs, reacting to the smoke from the coils, rustling as if they were writhing in agony.\nIt was a rustling like they were putting a curse on him.{p}"
+  },
+  {
+   "id": "26:78c0",
+   "op": "text",
+   "en": "\"Waaaaaah!\"\nTerrified, he screamed.\nHe struggled desperately to escape.\nAnd then he realized.\nThe reason he couldn't move was that the bugs had caught hold of his legs...{p}"
+  },
+  {
+   "id": "26:798c",
+   "op": "text",
+   "en": "His legs were already buried in bugs up to about the thighs.\nUnable to even move anymore, he was swallowed up by the bugs.\nThe next day, the person who found him was left speechless.\nDuct tape was stuck all over the restroom, and it smelled kind of like incense, so they thought something was strange.{p}"
+  },
+  {
+   "id": "26:7a88",
+   "op": "text",
+   "follows_choice": [
+    "26:3bd4"
+   ],
+   "en": "\"{f:Stop it|Please stop}!\"\n{f:I|I} was half shouting it.\nI felt so sick I couldn't stand it{f:|}.\n\"Fine, I'm happy to stop here, you know.\n{a}{f:|}, you must never use that restroom, no matter what...\nI can't promise you'll be safe.\"\nHosoda said that and looked at {f:me|me}.\nFor an instant, {f:I|I} couldn't move.\nBecause on Hosoda's shoulder was a yellow-and-black striped... yes, that was a joro spider{f:|}.\nThere was a joro spider right there on Hosoda's shoulder{f:!|!}{p}"
+  },
+  {
+   "id": "26:7c80",
+   "op": "text",
+   "en": "\"Oh, this guy?\"\nWith that, Hosoda let the joro spider out the window.\n\"Haven't you ever heard?\nSpiders hold grudges.\nMy grandma always used to tell me that bad things happen if you kill one.\"\nHosoda went back to his seat.\n\"Well then, who's next?\"{p}"
+  },
+  {
+   "id": "26:7d94",
+   "op": "text",
+   "follows_choice": [
+    "26:40a0"
+   ],
+   "en": "Really?\nYou believe me, then.\nThat makes me happy.\nI believe it myself, too.{p}"
+  },
+  {
+   "id": "26:7e04",
+   "op": "text",
+   "follows_choice": [
+    "26:40b4"
+   ],
+   "en": "Well, maybe a story like that could exist.\nThe world's a big place, after all...\nAnd you know, that \"maybe\" actually came true.{p}"
+  },
+  {
+   "id": "26:7e98",
+   "op": "text",
+   "follows_choice": [
+    "26:5084"
+   ],
+   "en": "I really didn't want to.\nBut the teacher had called me by name, so I couldn't exactly say \"I can't go with this person.\"\nNot with him standing right there, either...\nThe two of us walked down the hallway awkwardly...\nI prayed to God.\nPlease don't let him start saying anything weird...{p}"
+  },
+  {
+   "id": "26:7fa4",
+   "op": "text",
+   "en": "\"...Hosoda, haven't you been avoiding me lately?\nDo you hate me?\"\nTsuda muttered it to me quietly.\nHonestly, I never should have made that prayer to God.\n\"Huh? No, of course not.\nWhat's this silly stuff you're saying?\nLet's hurry up and get to the prep room.\"\nI said it in a fluster.{p}"
+  },
+  {
+   "id": "26:80d8",
+   "op": "text",
+   "en": "The prep room is full of all sorts of equipment.\nThe room is really cramped.\nWe'd been asked to bring back tripods, alcohol lamps and asbestos pads.\nI quickly loaded the equipment onto a tray and tried to leave the prep room.\nI felt I had to get out of that closed-in room even a second sooner.{p}"
+  },
+  {
+   "id": "26:81ec",
+   "op": "text",
+   "en": "Then I saw Tsuda standing in the doorway, staring at me.\nIt seemed he'd been following my every move with his eyes the whole time.\nWith that look of his, like he was looking at food.\nI backed away without thinking.\n\"I knew it.\nWhat you said earlier was a lie, wasn't it?\nYou really are avoiding me.\"\nTsuda said that without taking his eyes off me.{p}"
+  },
+  {
+   "id": "26:832c",
+   "op": "text",
+   "en": "And then he reached behind him and shut the prep room door.\n\"...I'm so lonely.\nAnd here I am, so fond of you.\nI mean, you look so delicious.\nLet's see... those pink cheeks of yours, for one.\"{p}"
+  },
+  {
+   "id": "26:83f8",
+   "op": "text",
+   "en": "Tsuda was smiling.\nOn reflex, I tried to light an alcohol lamp.\n...But it seemed we'd forgotten to bring matches, and I couldn't light it.\nIt's over... Am I going to become his food too, like those bugs...?\nThe moment I thought that, I heard a voice from outside.\n\"Hey, they said they want the other equipment brought over too.\"\nIt was a classmate.\nI was saved!\nI hurried to answer.\n\"I-I'm opening the door right now!\"\nI heard Tsuda click his tongue.\nSomehow, I'd escaped.{p}"
+  },
+  {
+   "id": "26:85fc",
+   "op": "text",
+   "en": "...After that, Tsuda stopped acting strangely.\nHe never attacked me again, and he never ate bugs again either.\nBut it seems he's still after me even now.\nSometimes he stares at me with a slimy, clinging look.\nI'm sure he's trying to get me to let my guard down so he can make his move the moment he sees an opening.{p}"
+  },
+  {
+   "id": "26:8724",
+   "op": "text",
+   "en": "...{a}{f:|}.\nIf one day I suddenly stop coming to school...\nyou can be sure Tsuda had a hand in it.\nWhen that happens, please, look into him.\nAnd I want you to save me.\nI'm begging you...\nThat's the end of my story.\nWell then, shall we hear the next person's story...{p}"
+  },
+  {
+   "id": "26:8850",
+   "op": "text",
+   "follows_choice": [
+    "26:5adc"
+   ],
+   "en": "On reflex, I lunged at Tsuda.\nI sat on top of him and choked him.\nAnd what do you know, joro spiders came swarming out of his mouth.\nI let go of his neck, shoved my hand into his mouth and made him throw up everything in his stomach.\n\"Urgh. Urghhhh!\"\nMixed in with the contents of his stomach, a whole bunch of joro spiders came out, squirming.\nAnd before those spiders could get away, I beat them to death with a slipper.\nI still can't forget how that felt.\nAll the strength drained out of my body.\nI'd killed the joro spiders, but I was worried about him, so I called out to him.\n\"Tsuda... Tsuda?\"\nHe was coughing and hacking.\nMaybe I'd gone a little too far just now.\nBut if I hadn't gone that far, who knows what would've happened to him... That's what I told myself.{p}"
+  },
+  {
+   "id": "26:8b28",
+   "op": "text",
+   "en": "Tsuda turned to look at me.\nHe'd been choking, so there were tears running down his face.\nSeeing him like that, I worked up my nerve and asked him.\n\"...Hey, Tsuda.\nDo you ever feel like you want to eat me?\"\nTsuda just stared at me blankly.\nThen he burst out laughing.\n\"Ah ha ha ha...\nWhat are you saying, Hosoda?\nHave you gone crazy or something?\"\nThe Tsuda laughing in front of me was the usual Tsuda.\nHe didn't have that look.\nI was so relieved I let out a long sigh.{p}"
+  },
+  {
+   "id": "26:8cd8",
+   "op": "text",
+   "en": "And then Tsuda suddenly turned serious and said this.\n\"...You know, I can't remember the last few days.\nI wonder what happened to me.{p}"
+  },
+  {
+   "id": "26:8d68",
+   "op": "text",
+   "en": "I went to that restroom beside the gym, and a joro spider got on my shoulder there...\nAfter that, I don't remember a thing.\nAnd when I came to, I was lying in a hospital bed.\nWeird, right?\"{p}"
+  },
+  {
+   "id": "26:8e28",
+   "op": "text",
+   "en": "As if his words were prompting me, I found myself nodding.\n\"But hey, this mess around the bed... did I throw up or something?\nThat's so embarrassing, geez...\"\nHe laughed cheerfully.\nHe really didn't seem to remember anything at all.{p}"
+  },
+  {
+   "id": "26:8f0c",
+   "op": "text",
+   "follows_choice": [
+    "26:5af8"
+   ],
+   "en": "I called the nurse for help.{p}"
+  },
+  {
+   "id": "26:8f40",
+   "op": "text",
+   "en": "At the top of my lungs.\nThe nurse came running right away.\nThinking about it now, I should've just used the nurse call button.\nBut at the time, I couldn't think of anything like that.\n\"What's wrong★\"\nI told the nurse everything that had happened.\nOf course there was no way I'd be believed... not with a ridiculous story like that...\nI got a shot of tranquilizer.{p}"
+  },
+  {
+   "id": "26:909c",
+   "op": "text",
+   "en": "I don't know how long I slept, but when I woke up, Tsuda was no longer in the bed next to mine.\nIt seemed to be night, but it wasn't lights-out yet.\nWhich meant it was still before nine...\nI was thinking things like that when I happened to look up at the ceiling.{p}"
+  },
+  {
+   "id": "26:9190",
+   "op": "text",
+   "en": "\"★\"\nI strained my eyes and looked again.\nI was sure that just now, a joro spider had been up there...\nI spent the whole night without sleeping a wink.{p}"
+  },
+  {
+   "id": "26:9228",
+   "op": "text",
+   "en": "The next day, Tsuda came to visit me.\n\"Hosoda, are you all right?\"\nHe said it looking worried about me.\nI couldn't even look him straight in the eye.\n...An awkward silence hung between us.\nI worked up my nerve and asked him.{p}"
+  },
+  {
+   "id": "26:9308",
+   "op": "text",
+   "follows_choice": [
+    "26:6248"
+   ],
+   "en": "...I see.\nThank you.\nYou believe me.\nIf it were a story I'd heard secondhand, you might not be able to believe it, but I experienced it myself, after all.{p}"
+  },
+  {
+   "id": "26:93a4",
+   "op": "text",
+   "en": "Oh yeah, ever since then, Tsuda has had this weird mark on him.\nHe says it won't go away.\n...It's shaped like a tiny spider, about the size of the tip of your pinkie.\nNext time I'll bring him along and show you that mark.\nApparently, every month that mark moves to a different spot on his body.\nI wonder if that's an aftereffect too.\nOr else...\nNo, it's fine. I got rid of that spider back then, after all...\n...And that's the end of my story.\nStill, the seventh person sure is late.\nWell, there's no point waiting forever.\nIf they still haven't come after the next story, let's just go home.{p}"
+  },
+  {
+   "id": "26:95b0",
+   "op": "text",
+   "follows_choice": [
+    "26:6250"
+   ],
+   "en": "Is that so? That's fine.\nYou don't have to believe me...\nThen would you try going to that restroom alone for me?{p}"
+  },
+  {
+   "id": "26:9624",
+   "op": "text",
+   "en": "I mean, you don't believe it, right?\nI'll wait for you outside the restroom.\nIf anything happens, I'll come save you.\nAfter all, experiencing it yourself is the best way to believe something.\nOkay, {a}{f:|}?\nIt's a promise.\nWell then, shall we hear the next story...{p}"
+  },
+  {
+   "id": "26:9728",
+   "op": "text",
+   "follows_choice": [
+    "26:1d08"
+   ],
+   "en": "Too bad.\nThe answer was a fox.\nWell, to people like us, tanuki and foxes are pretty much the same thing, right?\nAnyway, about why that restroom stopped being used.{p}"
+  },
+  {
+   "id": "26:97d0",
+   "op": "text",
+   "en": "Once, there was a boy at this school.\nUnfortunately, I don't know his name.\nHe had a strong sixth sense too.\nIn his own self-taught way, he'd look at everyone with what he called \"spirit vision.\"\nHe loved fortune-telling, too.\nThere were always students crowded around him, wanting their fortunes told.{p}{a}{f:|}, would you want him to tell your fortune too?\n"
+  },
+  {
+   "id": "26:9900",
+   "op": "choice",
+   "en": "I'd want my fortune told"
+  },
+  {
+   "id": "26:9914",
+   "op": "choice",
+   "en": "I don't need my fortune told"
+  },
+  {
+   "id": "26:9930",
+   "op": "text",
+   "follows_choice": [
+    "26:9900"
+   ],
+   "en": "Huh, you like fortune-telling? You're {g}{f:just like a girl|a girl, all right}.\nI believe in spirits, but I don't believe in fortune-telling.\nThough it's different if the fortunes are told with spirits.{p}"
+  },
+  {
+   "id": "26:99e0",
+   "op": "text",
+   "en": "{a}{f:|}, you know about Kokkuri-san, right?\nYeah, that thing where you draw a torii gate and letters and tell fortunes with a coin.\nHe was especially good at Kokkuri-san, you see.\nAnd apparently his Kokkuri-san fortunes were often right.\nBut it's a dangerous thing, calling up spirits to tell fortunes.\nTo put it bluntly, it's low-level spirits that come down.\nThere's no way a high-level spirit would come down.\nIn the end, the only things that answer impure human wishes like that are low-level spirits trying to slip into the cracks in people's hearts...\nAnd everyone does it half for fun. They've sure got some nerve, don't they?\nEven my cousin did Kokkuri-san half for fun, and the spirit wouldn't leave.{p}"
+  },
+  {
+   "id": "26:9c5c",
+   "op": "text",
+   "en": "My cousin's family owned a small factory, but a little while after that it was driven into bankruptcy, and an employee in despair hanged themselves in the factory.\nMy cousin's grandpa went on the first shrine visit of the New Year and died when the crowd toppled like dominoes on the shrine steps.\nAnd my cousin came down with some rare disease and died, just like that.\nAll of this happened within three years of my cousin doing Kokkuri-san.\nNo, sure, it might just be a coincidence.\nBut it's way too scary a story to write off as coincidence, isn't it?{p}"
+  },
+  {
+   "id": "26:9e08",
+   "op": "text",
+   "en": "Back to the earlier story.\nAbout that guy who was good at fortune-telling.\nHe went crazy too, you see.\nThe story goes that in his case, too, Kokkuri-san wouldn't leave.\nThey say he was like someone possessed.\nHe still came to school, but apparently he hardly ever went to class.{p}"
+  },
+  {
+   "id": "26:9f30",
+   "op": "text",
+   "en": "And they say he often went to that restroom.\nMaybe nobody was especially interested in him, but no one knew what he was doing in there.\nA teacher apparently saw it: he'd drawn Kokkuri-san letter boards all over the restroom walls.\nAnd he was laughing, holding a ten-yen coin.\nWell, the way it ends is that he hanged himself in there.\nThe story goes that even now, a ten-yen coin sometimes appears out of nowhere and glides across the letter board on that wall.{p}"
+  },
+  {
+   "id": "26:a0e0",
+   "op": "text",
+   "en": "Still, that alone isn't very convincing, is it?\nAfter all, I'm just repeating a story I heard from an upperclassman, word for word.\nBut you know, there's more to this story.{p}{a}{f:|}, are you interested in the rest of it?\n"
+  },
+  {
+   "id": "26:a1a4",
+   "op": "choice",
+   "en": "I'm interested"
+  },
+  {
+   "id": "26:a1b0",
+   "op": "choice",
+   "en": "Not really"
+  },
+  {
+   "id": "26:a1b8",
+   "op": "text",
+   "follows_choice": [
+    "26:a1a4"
+   ],
+   "en": "All right, I'll tell you.{p}"
+  },
+  {
+   "id": "26:a1ec",
+   "op": "text",
+   "en": "What with the Kokkuri-san letter boards written all over it and a suicide having happened there, hardly anyone used that restroom.\nWell, you see, a friend of mine fell victim to it.\nHe was a guy who used that restroom.{p}"
+  }
+ ]
+}

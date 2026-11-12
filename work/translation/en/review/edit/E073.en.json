@@ -1,0 +1,1053 @@
+{
+ "chunk": "E073",
+ "scene": "37",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "slices": [
+  "S143",
+  "S144",
+  "S145"
+ ],
+ "prev": "E072",
+ "next": "E074",
+ "todo": [],
+ "rows": [
+  {
+   "id": "37:09b4",
+   "op": "text",
+   "en": "So I'm telling the second story, huh.\nIt's my very best one, so I'd have liked to go a bit later...\nOh well, it can't be helped.\nFirst, let me introduce myself.\nI'm Reiko Fukuzawa, from Class 1-G.\nNice to meet you!\nOkay then, here I go.{p}"
+  },
+  {
+   "id": "37:0a84",
+   "op": "text",
+   "en": "Everyone, do you feel safe drinking tap water?{p}What about you, {b}?\n"
+  },
+  {
+   "id": "37:0ac4",
+   "op": "choice",
+   "en": "I can drink it"
+  },
+  {
+   "id": "37:0acc",
+   "op": "choice",
+   "en": "I can't drink it"
+  },
+  {
+   "id": "37:0ad8",
+   "op": "text",
+   "en": "I see.\nWow, that's amazing.\nYou can drink tap water? You're not very delicate, are you?\nNot like you look.\nKidding, kidding, I'm only joking.\nMe, I can't drink it.\nWell, it's not that I can't... I pour tap water into a glass, right?\nAnd then I end up staring and staring at the glass.\nDon't you ever do that?\nIt's a habit of mine.\nBut you'd hate it if something weird was in there, wouldn't you?\nYou know how rusty, reddish water comes out after the water's been shut off or something?\nTo me, it looks like blood.\nI start thinking, maybe there's blood mixed into this water.\nOf course, that could never really happen.\nStill, I just don't trust tap water.{p}",
+   "follows_choice": [
+    "37:0ac4"
+   ]
+  },
+  {
+   "id": "37:0d10",
+   "op": "text",
+   "en": "What if a cockroach crawled into the faucet and was living in there?\nAnd you never noticed, and went on drinking the water without a care.\nSometimes there'd be oil floating on top of the water, too.\nAnd you'd just drink it without minding.\nThen one day you turn the faucet all the way, and a cockroach comes gushing out with the water and goes splish-splashing around in your glass. What would you do?\nGross, right?\nI'd hate it.\nI'd really, really hate it.{p}"
+  },
+  {
+   "id": "37:0e7c",
+   "op": "text",
+   "en": "My family goes camping a lot, you know.\nMy dad loves camping.\nAnd places like that are scary, aren't they?\nThere's hardly any light.\nThe toilets are filthy.\nAnd there are owls hooting and bugs chirping.\nWhen the wind blows, the trees rustle and make this creepy sound.\nAnyway, it's scary.\nAnd then my dad tells scary stories.{p}"
+  },
+  {
+   "id": "37:0fcc",
+   "op": "text",
+   "en": "You can pretty much always find a campground beside a lake.\nIf it's a big lake, there's definitely one.\nSo, where do you think campgrounds like that get their water?\nThese days they pipe in proper tap water from a reservoir, but back in the old days, they used the lake water just as it was, apparently.\nOf course, they piped it in properly and filtered and purified it.\nBut still, gross, right? It's lake water.{p}"
+  },
+  {
+   "id": "37:1128",
+   "op": "text",
+   "en": "That murky green water, you know?\nThe water with boats floating on it and everybody swimming in it.\nYou never know who's peeing in it.\nAnd people were drinking that water.\nBut even at a campground, the washing area has faucets, right?\nSo it looks no different from ordinary tap water.\nAnd yet what comes out is lake water.\nThat's gross, isn't it?{p}"
+  },
+  {
+   "id": "37:127c",
+   "op": "text",
+   "en": "And they say hair often comes out of the faucets.\nHair, I'm telling you. Human hair.\nSay you're washing your hands.\nYou feel something winding around them, and when you glance down, your hands are all tangled up in hair.\nIt gives you the shivers.\nYou wash and wash, but it clings to you and just won't come off.\nDisgusting, right?\nIt's true, apparently.\nThey say some lakes are famous suicide spots.\nLots of people died there, I heard.\nIn a lake, the weeds wrap around you, right?\nSo the bodies don't float up easily.{p}"
+  },
+  {
+   "id": "37:1448",
+   "op": "text",
+   "en": "Then, as time passes, they slowly rot and end up as fish food.\nThe bodies dissolve, but the hair stays behind.\nAnd then just the hair flows down through the pipes.\nEven with filtering, hair is thin, right?\nSo sometimes it slips through.\nApparently it was like that until just ten-some years ago.\nI bet you'd still find it at some lake somewhere.\nA place that pipes in lake water.{p}"
+  },
+  {
+   "id": "37:15b0",
+   "op": "text",
+   "en": "Gross, right?\nWhen I heard that story, I burst into tears.\nI couldn't drink the water at the campground anymore, and I made a huge fuss.\nMy dad laughed and said it was just a joke, but that was no joke.\nIt's a true story.\nTap water's gross, isn't it?{p}"
+  },
+  {
+   "id": "37:1694",
+   "op": "text",
+   "en": "So, {b}?{p}After hearing that story, can you still drink tap water?\n"
+  },
+  {
+   "id": "37:16d8",
+   "op": "choice",
+   "en": "I can drink it"
+  },
+  {
+   "id": "37:16e0",
+   "op": "choice",
+   "en": "I can't drink it"
+  },
+  {
+   "id": "37:16ec",
+   "op": "text",
+   "en": "...Hmm, that's amazing.\nI'm impressed.\nThere really aren't many people who can drink tap water after hearing this story.\nYou're, like, really solid and calm... or maybe just dense...{p}",
+   "follows_choice": [
+    "37:16d8"
+   ]
+  },
+  {
+   "id": "37:17a4",
+   "op": "text",
+   "en": "Kidding, kidding, I'm only joking.\nAnyway, the thing is, weird stuff comes out of the taps at this school too.\nStuff that normally never comes out of a tap.{p}"
+  },
+  {
+   "id": "37:183c",
+   "op": "text",
+   "en": "Did you know?\nOf course, it's not like that tap draws its water from some weird place.\nIt's piped in properly from the reservoir, the same ordinary tap water everyone drinks at home.\nSo there's no hair from drowned bodies in it or anything.\nBut still, weird stuff comes out.\nYou know the drinking fountain next to the gym, right?{p}"
+  },
+  {
+   "id": "37:1968",
+   "op": "text",
+   "en": "The drinking fountain where the guys from the sports clubs gulp down water after practice and stuff.\nHaven't you ever noticed that just the second faucet from the right can't be used?{p}"
+  },
+  {
+   "id": "37:1a14",
+   "op": "text",
+   "en": "It's got wire wound tight around it, cinched so the faucet won't turn.\nIt's all rusted over now, so the wire and the faucet kind of look like they've fused into one, right?\nApparently it's been like that for years and years.\nIt's not that it's broken.\nWater comes out just fine, and you can even drink it.\nBut one day, something happened, they say.\nAnd ever since then, nobody's used it.{p}"
+  },
+  {
+   "id": "37:1ba0",
+   "op": "text",
+   "en": "...So, a long time ago, there was a girl at this school named Naoko Shida.\nShe was really pretty, and she was always the most popular girl in school.\nPeople say pretty girls often have nasty personalities, right?\nBut Shida was kind to everyone, and she loved animals and stuff.\nShe was good at her studies too, and on top of that, she was a great singer.\nIt sounds almost too good to be true, but I guess people like that do exist.\nEveryone said Shida was sure to get scouted by the entertainment industry.\nIn fact, a few offers like that had actually come up.\nI'm so jealous.{p}",
+   "returns": []
+  },
+  {
+   "id": "37:1d88",
+   "op": "text",
+   "en": "And there was one girl who was especially close to Shida, named Yoshiko Tamai.\nThe two of them were as close as real sisters.\nBut they looked totally different.\nI hate to say this, but that Tamai girl wore glasses as thick as the bottoms of milk bottles, she was bloated and fat, her face was covered in pimples, and on top of that, her breath really stank.\nComplete opposites, right?\nSo you'd think there'd be rumors that Shida was just dragging Tamai around as a foil to make herself look good, wouldn't you?{p}"
+  },
+  {
+   "id": "37:1f44",
+   "op": "text",
+   "en": "But no, there were never any rumors like that.\nIt's not that it had anything to do with Tamai.\nShida was just that much of an angel.\nSo nobody ever thought anything like that.\nStill, everyone did think it was strange.\nThey came to school together.\nThey went home together.\nThey ate lunch together.\nThey were always together.\nLots of cliques tried to invite Shida to join them.\nBut no clique ever tried to invite Tamai.{p}"
+  },
+  {
+   "id": "37:20ec",
+   "op": "text",
+   "en": "Like, say somebody invited Shida along.\nThen Tamai would quietly slip away without a word.\nAnd she'd stay off by herself, all alone.\nKind of sweet and selfless, isn't it?{p}"
+  },
+  {
+   "id": "37:21ac",
+   "op": "text",
+   "en": "And then Shida would invite Tamai.\nAll smiles, saying, let's all be friends together.\nShe said it so breezily that even the people who'd invited Shida would end up inviting Tamai too, without a second thought.\nI guess when Shida asked you, you just couldn't say no.\nIt was like everyone was under a hypnotic spell, doing whatever she said.{p}"
+  },
+  {
+   "id": "37:2300",
+   "op": "text",
+   "en": "So they'd let Tamai into the group, but even if it was fine at first, little by little Tamai would start to get on their nerves.\nDon't you know people like that, who somehow just irritate you even though they haven't done anything wrong?\nPeople you just can't bring yourself to like, no matter what.\nThat's what Tamai was like.\nBut they had to think about Shida, right?\nIt was hard for anyone to say anything, and when they started holding back and putting up with Tamai, Shida would pick up on it right away.{p}"
+  },
+  {
+   "id": "37:24a4",
+   "op": "text",
+   "en": "Without blaming anyone at all, she'd naturally drift away from the group and go back to being close with just Tamai.\nEveryone envied that so much, they say.\nWhen Shida was that much of an angel, nobody could blame her or talk about her behind her back.\nSo Tamai never got bullied either.\nEveryone figured those two were best off like that, and watched over them warmly.{p}"
+  },
+  {
+   "id": "37:262c",
+   "op": "text",
+   "en": "When you picture it, it's kind of an amazing world, huh?\nLike something out of a manga.\nBut you know, someone like Shida is really rare.\nI've never met anyone like that.{p}"
+  },
+  {
+   "id": "37:26c4",
+   "op": "text",
+   "en": "By the way, {b}.\nDo you think Shida was a weirdo?{p}Or do you think she was an angel?\n"
+  },
+  {
+   "id": "37:2720",
+   "op": "choice",
+   "en": "A weirdo"
+  },
+  {
+   "id": "37:2728",
+   "op": "choice",
+   "en": "An angel"
+  },
+  {
+   "id": "37:2730",
+   "op": "choice",
+   "en": "Just a normal person"
+  },
+  {
+   "id": "37:273c",
+   "op": "text",
+   "en": "...You're honest, aren't you?\nStraightforward, or maybe you just see the world with a cynical eye...{p}",
+   "follows_choice": [
+    "37:2720"
+   ]
+  },
+  {
+   "id": "37:2794",
+   "op": "text",
+   "en": "Kidding, I'm just kidding.\nI think so too.\nThere's something not normal about it.\nAnd sure enough, that's exactly how it turned out.\nOne day, all of a sudden, the two of them fell out.{p}"
+  },
+  {
+   "id": "37:2848",
+   "op": "text",
+   "en": "Well, it was less that they fell out and more that Shida pulled away.\nOut of nowhere, she started ignoring Tamai, like she didn't even acknowledge she existed.\nShe did a complete about-face and turned cold on her, just like that.\nBut I guess everyone around them thought that was only natural.{p}"
+  },
+  {
+   "id": "37:2968",
+   "op": "text",
+   "en": "After all, it was the way things were before that was strange.\nShida was as kind to everyone as ever, and as easy to hang out with.\nThe only thing that changed was how she treated Tamai.\nAll anyone wanted was to be friends with Shida, anyway.\nShida stayed as popular as ever.\nTamai, on the other hand, became more isolated than ever.{p}"
+  },
+  {
+   "id": "37:2a94",
+   "op": "text",
+   "en": "Even though Shida had turned cold on Tamai, there still wasn't any bullying, maybe because people were thinking of Shida.\nTamai was just always by herself, looking lonely.\nBut while she pretended not to look, she was watching Shida out of the corner of her eye, they say. Tamai, I mean.\nUntil then, they'd been so close that people envied them, right?\nAnd then all of a sudden she was getting the cold shoulder.\nShe must have still been hung up on her.{p}"
+  },
+  {
+   "id": "37:2c10",
+   "op": "text",
+   "en": "But don't you want to know why Shida suddenly turned cold?\n"
+  },
+  {
+   "id": "37:2c58",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "37:2c64",
+   "op": "choice",
+   "en": "Not really interested"
+  },
+  {
+   "id": "37:2c74",
+   "op": "text",
+   "en": "Right?\nIt's pretty wild.{p}",
+   "follows_choice": [
+    "37:2c58"
+   ]
+  },
+  {
+   "id": "37:2cb4",
+   "op": "text",
+   "en": "One day, it was written up in huge letters on the school bulletin board.\n\"Exclusive scoop!\nThe truth about the school's angel, Naoko Shida!\nNaoko Shida has been paid an allowance of 500,000 yen a month by Yoshiko Tamai to be her friend!\"\nThat's what it said.\nAnd it came with photos as proof.\nBelieve me, it caused a huge uproar.{p}"
+  },
+  {
+   "id": "37:2dc0",
+   "op": "text",
+   "en": "Nobody had been interested in Tamai, or even tried to find out about her, right?\nTurns out she was the daughter of an incredibly rich family.\nShe was spoiled, and she got whatever she wanted, no matter what it took.\nTamai wanted Shida for herself.\nSo she paid Shida 500,000 yen every month to be friends with her.\nWhat a story, right? Buying a friend with money.\nNormal people couldn't even imagine it.{p}"
+  },
+  {
+   "id": "37:2f58",
+   "op": "text",
+   "en": "So Shida stayed friends with her, but then apparently her show-business debut got officially settled.\nSo she didn't need Tamai or the money anymore.\nAnd that's when she turned cold.{p}"
+  },
+  {
+   "id": "37:3018",
+   "op": "text",
+   "en": "But once something like that got posted on the bulletin board, the school couldn't just keep quiet, right?\nIt seems it wasn't something they could laugh off as a prank.\nSo the two of them were investigated.\nAnd they admitted it was true.\nShida was expelled.\nAnd of course, her path into show business was closed off too.\nThe people at the talent agency were glad it happened before they'd launched her, they say.{p}"
+  },
+  {
+   "id": "37:315c",
+   "op": "text",
+   "en": "But Tamai didn't get punished at all.\nIt seems her parents pulled some strings.\nThey probably handed over some enormous donation.\nSo she got off scot-free.\nThere's even a rumor that they pushed for Shida to be forced out of school.\nAnd rumor has it Tamai was the one who wrote that thing on the bulletin board, too.\nWith all that, you don't even know who to feel sorry for anymore, right?\nWhat about you? Which one do you think is more pitiful?\n"
+  },
+  {
+   "id": "37:32e4",
+   "op": "choice",
+   "en": "Shida"
+  },
+  {
+   "id": "37:32f0",
+   "op": "choice",
+   "en": "Tamai"
+  },
+  {
+   "id": "37:32fc",
+   "op": "choice",
+   "en": "I don't think either of them is pitiful"
+  },
+  {
+   "id": "37:331c",
+   "op": "text",
+   "en": "Right?\nMe neither.\nOnce you hear the whole thing, it's kind of a stupid ending, huh?\nEven so, Tamai stayed on at school, right?\nPeople said a lot behind her back, like how could she even show her face at school.\nApparently she got openly harassed, too.\nBut she was thick-skinned.\nNo matter what people said about her, no matter who told her off, it didn't faze her one bit.\nIf anything, she got even more arrogant than before.\nIt was like she was saying, what did I do wrong? None of it got to her.\nEveryone was just fed up with her.\nEven gossiping about her started to feel stupid, so they stopped paying any attention to her at all.{p}",
+   "follows_choice": [
+    "37:32fc"
+   ]
+  },
+  {
+   "id": "37:353c",
+   "op": "text",
+   "en": "And then, all of a sudden, nobody saw Tamai anymore, sitting alone at her desk during breaks like she always did.\nEveryone was happy, saying good riddance to someone awful.\nWhere do you think she was?\nShe was drinking water. The whole break, nonstop.\nAt the drinking fountain next to the gym.{p}"
+  },
+  {
+   "id": "37:3670",
+   "op": "text",
+   "en": "Every time break came, she'd run to that drinking fountain, clamp her mouth onto a faucet, and drink water like she was in a frenzy.\nAnd it was always the second faucet from the right.\nShe kept drinking the entire break, without taking her mouth off it even once.\nAmazing, right?\nEveryone watched and laughed, saying she'd finally lost it, but then she started skipping class just to drink, they say.\nLittle by little, everyone started to feel creeped out.\nI mean, it got so bad that she wouldn't stop drinking unless somebody stopped her.{p}"
+  },
+  {
+   "id": "37:3848",
+   "op": "text",
+   "en": "\"Stop it!\nLet me drink more!\nIt's delicious juice!\nOrange juice comes out of that faucet!\"\nWhen a teacher tried to pull her away from the faucet, Tamai screamed that, they say.{p}"
+  },
+  {
+   "id": "37:3920",
+   "op": "text",
+   "en": "Other students who heard that tried turning that faucet, but only ordinary water came out.\nNo orange juice came out at all.{p}"
+  },
+  {
+   "id": "37:39ac",
+   "op": "text",
+   "en": "Everyone was sure Tamai had gone completely crazy.\nIt was less like she came to school and more like she came to drink from that drinking fountain.\nShe totally ignored her classes, and class time or not, she wouldn't leave that drinking fountain.\nFinally, a teacher got angry.\nThe teacher dragged Tamai away by force while she was drinking.\nAnd then guess what?\nEveryone who was there at that moment saw it.{p}"
+  },
+  {
+   "id": "37:3b28",
+   "op": "text",
+   "en": "Along with some thick, gloopy liquid, something like reddish threads came plopping out of the faucet.\nIt was worms.\nEarthworms came oozing out of the faucet along with a sticky liquid.\nEveryone was speechless and couldn't move from the spot.\n\"Orange juice!\nDelicious orange juice!\nI'm not letting anybody else drink it!\"\nTamai's mouth was stuffed full of worms, they say.\nAnd she was still slurping up the worms dribbling out of the faucet.{p}"
+  },
+  {
+   "id": "37:3cd4",
+   "op": "text",
+   "en": "\"Gyaah!\"\nSuddenly Tamai screamed, collapsed on the spot, and passed out.\nShe was coughing and hacking up worms, they say.\nShe must have choked on them.\nThen she was rushed to the hospital and operated on.{p}"
+  },
+  {
+   "id": "37:3dac",
+   "op": "text",
+   "en": "Tamai's stomach was full of worms, they say.\nShe survived, but nobody knows what she's doing now.\n...That's why nobody uses that faucet anymore.\nAnd this is just a rumor I heard, but apparently Shida killed herself.\nThere was a tiny article in the newspaper about it.\nApparently she drowned herself in a reservoir.\nAnd that reservoir is the very place this school gets its water from.\nAnd they say the time Shida died matches up exactly with when Tamai stopped leaving the drinking fountain.\nEveryone whispered about it.\nThey said it was Shida's curse.\nAnd that's the end of my story.{p}"
+  },
+  {
+   "id": "37:3fe0",
+   "op": "text",
+   "en": "...By the way, earlier you said you can drink tap water, didn't you?\nDoes it taste good?\nIf you think it tastes good, maybe you'd better be careful.\nMaybe you're the only one who thinks it's water, and maybe it's really...\nOkay, whose turn is next?{p}"
+  },
+  {
+   "id": "37:40d4",
+   "op": "text",
+   "en": "Aww, so you can't drink it.\nIs it because of that rumor, maybe?{p}",
+   "follows_choice": [
+    "37:0acc"
+   ]
+  },
+  {
+   "id": "37:412c",
+   "op": "text",
+   "en": "You know, the drinking fountain next to the gym.\nThe one where the guys from the sports clubs gulp down water after practice and stuff.\nJust the second faucet from the right can't be used, right?{p}"
+  },
+  {
+   "id": "37:41f0",
+   "op": "text",
+   "en": "It's got wire wound tight around it, cinched so the faucet won't turn.\nIt's all rusted over now, so the wire and the faucet kind of look like they've fused into one, right?\nIt's been like that for years and years, hasn't it?\nThere are all sorts of rumors about it.\nFor example... let's see, the story I know is...{p}"
+  },
+  {
+   "id": "37:4304",
+   "op": "text",
+   "en": "Apparently there used to be a student at this school named Ayako Sugiura.\nShe didn't really stand out, but she was a serious girl, they say.\nPlus she was really kind, the type who couldn't just leave people in trouble alone.\nIt seems she was often late because she'd been showing some elderly person the way.\nThere was even a rumor that one of those old people later gave a big donation to her and to this school, to say thank you.\nAnd it seems that rumor was true.{p}"
+  },
+  {
+   "id": "37:449c",
+   "op": "text",
+   "en": "She was honored at school as a good, model student.\nA student nobody had ever paid much attention to was honored in front of the whole school.{p}Can you understand how she felt then?\n"
+  },
+  {
+   "id": "37:4540",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "37:4548",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "37:4550",
+   "op": "text",
+   "en": "She's only human too, so I think she'd be happy to be thanked or praised.\nEven I can understand that.\nBut you know, once you start wanting something back, there's no end to it, right?\nAt that point you can't call it kindness anymore.\nHer helping people gradually escalated.\nForcing your kindness on people, I guess you'd call it. Come on, haven't you heard of that?\nPeople who rush around helping others just because they want a certificate of thanks.\nShe turned into one of those people.{p}",
+   "follows_choice": [
+    "37:4540"
+   ]
+  },
+  {
+   "id": "37:46dc",
+   "op": "text",
+   "en": "She'd show up without being asked, butt in on this and that, and when things worked out she'd expect something in return.\nAnd when they failed, she'd be the only one to wriggle out of the blame, so everyone drifted away from her, apparently.\nAt first, even the teachers let it slide, since she was helping people.\nBut eventually people started complaining about her, and the teachers couldn't very well let it go without warning her.{p}"
+  },
+  {
+   "id": "37:4844",
+   "op": "text",
+   "en": "But no matter how many times the teachers warned her, her way of thinking didn't change.\nEven the most earnest people fall fast, don't they?\nPeople like her are called hypocrites.\nThough I don't think she ever realized it herself...\nThen one day.\nIt was after school.{p}"
+  },
+  {
+   "id": "37:495c",
+   "op": "text",
+   "en": "A girl was sitting slumped on the ground in front of the school gate.\nI think her name was Miyagi.\nShe was a transfer student who couldn't fit in with her class, and she was being bullied, apparently."
+  },
+  {
+   "id": "37:49fc",
+   "op": "text",
+   "en": "She was into the occult, and there were rumors that she always carried weird things around, or that you'd be cursed if you touched her, so nobody went near her.\nThat day too, I bet she'd been bullied and was crying by the gate.\nMiyagi looked a little pale.\nAnd the one who happened to pass by was Sugiura.{p}"
+  },
+  {
+   "id": "37:4b28",
+   "op": "text",
+   "en": "\"Um, is something wrong?\"\n\"Please, my throat is so dry.\nI need some water.\"\nSaying that, Miyagi lifted her face a little.\nIt was deathly pale.\nBut to Sugiura, the bigger problem was that the one sitting there was Miyagi.{p}"
+  },
+  {
+   "id": "37:4c20",
+   "op": "text",
+   "en": "They weren't in the same class, but she knew the rumors about Miyagi.\nWhat do I do? Everyone hates her. What if I get dragged into it and end up bullied too?\nAnd getting thanked by her for helping isn't worth much...\nThat's what she was thinking, I'm sure.\nIf there'd still been people around, it might've been different.\n\"Sugiura, so kind and gentle, even to a student who gets bullied.\"\nShe'd have helped just to put on that show, you see.\nBut the students and teachers all seemed to have gone home, and there was nobody around.{p}"
+  },
+  {
+   "id": "37:4dc0",
+   "op": "text",
+   "en": "\"Please, take me to the drinking fountains.\"\nMiyagi's voice was more desperate than before.\nEven Sugiura seemed a little surprised.\nHee hee hee, {b}?{p}What would you have answered?\n"
+  },
+  {
+   "id": "37:4e7c",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "37:4e84",
+   "op": "choice",
+   "en": "No way"
+  },
+  {
+   "id": "37:4e8c",
+   "op": "text",
+   "en": "Yeah, I thought you'd say that.\n{b}, you look like the kind type.\nSugiura answered like this too, that time.\n\"Y-yes.\"\nMiyagi really did look sick.\nEven Sugiura couldn't just leave her there.\nShe held Miyagi up by the shoulders and slowly walked her in through the school gate.{p}",
+   "follows_choice": [
+    "37:4e7c"
+   ]
+  },
+  {
+   "id": "37:4fa8",
+   "op": "text",
+   "en": "The closest and easiest place to find was those drinking fountains beside the gym, the ones I mentioned.\nSo that's where Sugiura took Miyagi.",
+   "returns": []
+  },
+  {
+   "id": "37:5038",
+   "op": "text",
+   "en": "When they reached the fountains, Miyagi gulped the water down like it was delicious.\n\"Thank you.\nI'm fine now.\"{p}"
+  },
+  {
+   "id": "37:50a4",
+   "op": "text",
+   "en": "After catching her breath, Miyagi thanked her.\nTo Sugiura it felt a little lacking, but she seemed a bit happy all the same.\nSo that day, she went home in a slightly happy mood.\nWalking partway with Miyagi, too.{p}"
+  },
+  {
+   "id": "37:518c",
+   "op": "text",
+   "en": "And then, the next day.\nSugiura got to school and was stunned."
+  },
+  {
+   "id": "37:51d0",
+   "op": "text",
+   "en": "Her classmates were giving her cold looks.\nIf you ask me, it was more like,\n\"You're only noticing now?\"\nbut anyway.{p}"
+  },
+  {
+   "id": "37:524c",
+   "op": "text",
+   "en": "They acted weirdly distant, and wouldn't even answer when she talked to them.\nSugiura thought it over.\nThis has to be because of what happened yesterday.\nSomeone must have seen me with Miyagi yesterday.\nThat's why I'm getting dragged into being bullied too.\n...How selfish can you get?\nWhat an imagination, or rather, it's amazing how far she could go blaming other people.\nUntil then, she hadn't noticed at all that she was the one everybody hated.\nThe little happiness she'd felt yesterday had already been pushed to the far edge of her memory.{p}"
+  },
+  {
+   "id": "37:545c",
+   "op": "text",
+   "en": "So Sugiura stormed over to Miyagi's class to complain.\nShe couldn't rest until she'd said her piece.\nBut when she got to the front of that classroom, she saw something unbelievable.\nInside, the girls were chatting happily..."
+  },
+  {
+   "id": "37:555c",
+   "op": "text",
+   "en": "And right in the middle of them was Miyagi.\nShe seemed so well liked and popular you'd never believe she'd been bullied.\nIt's no big deal, really, it happens all the time.\nThe bullying only started in the first place because Miyagi was a transfer student who hadn't fit in with the class.\nAnd the occult stuff, every girl that age gets hooked on it at least once.\nThe curse was just a rumor that grew in the telling.{p}"
+  },
+  {
+   "id": "37:56cc",
+   "op": "text",
+   "en": "Most of the time, that kind of thing gets solved by time, don't you think?\nBesides, Miyagi was apparently a pretty funny girl, and good at talking.\nI think she could've become the class favorite in no time.\nBut to Sugiura, it was an unbelievable turn of events.\nShe had the illusion that her place and Miyagi's had suddenly been swapped.\nOut of nowhere, the rumors she'd heard about Miyagi before came floating up in her mind.{p}"
+  },
+  {
+   "id": "37:5864",
+   "op": "text",
+   "en": "Is this the curse they talked about? Her curse?\nThat if you touch her, you get cursed...\nThat's what I heard, I'm pretty sure.\nJust then, Miyagi, inside the classroom, noticed Sugiura and gave her a big smile.\nJust a normal face, the kind you'd smile at a friend with.\nSugiura had been kind to her yesterday, after all, so she wasn't going to get angry or ignore her, right?\nBut to Sugiura, even that smile looked like a nasty, mocking sneer.\nSuspicion breeds demons, just like they say.\nFrom that day on, Sugiura shut herself up in her room and never set foot outside.{p}"
+  },
+  {
+   "id": "37:5a3c",
+   "op": "text",
+   "en": "\"I'm cursed.\nThe witch put a curse on me.\"\nShe kept muttering that over and over like she was delirious, and she barely ate anything, apparently.\nEveryone besides herself, even her parents, she suspected of being on the witch's side... I mean, Miyagi's.\nAnd finally, she came to a conclusion.\nThe only way to break the curse was to defeat the one who had cast it.\nShe'd really lost it by then, it seems.\nShe got out of bed and walked off, staggering like a sleepwalker.{p}"
+  },
+  {
+   "id": "37:5bec",
+   "op": "text",
+   "en": "Somehow she knew the way, because she made it to the school.\nShe stood waiting by the school gate for Miyagi, perfectly still, apparently.{p}"
+  },
+  {
+   "id": "37:5c74",
+   "op": "text",
+   "en": "\"I need a favor.\nCome with me.\"\nMiyagi must have been surprised.\nOut of nowhere, a hand shot out from the shadow of the gate and clamped onto her arm.\nAnd it was Sugiura, all skin and bones, her eyes bulging and rolling grotesquely.\nWhat's going on, all of a sudden...?\nI bet that's what Miyagi thought.\nAfter all, when she'd gone to visit Sugiura, she'd been sent away.\nWithout even waiting for Miyagi's answer, Sugiura started walking, yanking her along by the arm.{p}"
+  },
+  {
+   "id": "37:5e0c",
+   "op": "text",
+   "en": "She wasn't staggering anymore.\nShe was marching along with firm, steady steps.{p}"
+  },
+  {
+   "id": "37:5e74",
+   "op": "text",
+   "en": "Where Sugiura took Miyagi was a reservoir a little way from the school.\nAnd when the two of them stood side by side on top of its embankment...☆{p}"
+  },
+  {
+   "id": "37:5f0c",
+   "op": "text",
+   "en": "\"Eeeeeeeeeeeeeeek☆\"\nSugiura shoved Miyagi off it with all her might.\nWhere in that wasted body did she find that kind of strength...?\nMiyagi seemed to struggle for a while, but eventually she sank under the water.{p}"
+  },
+  {
+   "id": "37:5ff4",
+   "op": "text",
+   "en": "\"I did it!\nI defeated the wicked witch!\"\nOnly Sugiura's shrill laughter echoed.\nSomeone who heard it came running and pinned Sugiura down, apparently.{p}"
+  },
+  {
+   "id": "37:6094",
+   "op": "text",
+   "en": "In the end, Miyagi's body was never recovered.\nIt sank where the algae and water weeds grow thick, and supposedly not even divers can get close...\nAs for Sugiura, I heard they put her in a hospital.\nThey say there's no chance she'll ever be released.{p}"
+  },
+  {
+   "id": "37:6170",
+   "op": "text",
+   "en": "And so, ever since around the time of that incident, they say strange water comes out of the second faucet from the right at those drinking fountains beside the gym.\nSmelly water, mixed with mud and sand.\nThere's nothing wrong with the pipes at all, and the other faucets give normal water...\nThey tried replacing the faucet, but nothing changed.\nOnly the second faucet from the right runs muddy water, they say.{p}"
+  },
+  {
+   "id": "37:62c4",
+   "op": "text",
+   "en": "The only thing anyone could think of was that the water for those faucets was piped in from the reservoir where Miyagi sank.\nSo people were whispering that it had to be Miyagi's grudge, her curse.{p}"
+  },
+  {
+   "id": "37:6384",
+   "op": "text",
+   "en": "If you ask me, she should've just taken it out on Sugiura directly.\nBut it was creepy enough that the teachers sealed the faucet.\nMiyagi's body...?\nI bet it's still down in the water, don't you think?{p}"
+  },
+  {
+   "id": "37:6438",
+   "op": "text",
+   "en": "Hee hee hee, what's wrong?\nAre you scared?\nHa ha ha, relax.\nThey don't take water from that reservoir anymore.\nA big dam got built a while back, remember?\nThough there's no guarantee nobody's died there.\nYeah, the water source changed, so maybe no more muddy water.\nMaybe I'll go unseal that faucet later.\nDon't tell anyone else, okay?\nHee hee hee.\nThat's the end of my story.\n...Who's next?{p}"
+  },
+  {
+   "id": "37:65e0",
+   "op": "text",
+   "en": "Hmm, {b}, you're surprisingly firm.\nI thought you were the type who can't say no when someone's counting on you.\nSorry, don't be mad.\nI didn't mean anything by it, I just said what I was thinking.\nSame as you, {b}, Sugiura gave that answer back then.\n\"No way. If I get mixed up with someone like you, they'll bully me too!\"\nWith that, she shook off Miyagi's hand.\n\"Wait, please.\"\nMiyagi clung desperately to the hem of Sugiura's skirt.\n\"Let go of me!\"\nSugiura tore the hand away and ran off.{p}",
+   "follows_choice": [
+    "37:4e84"
+   ]
+  },
+  {
+   "id": "37:67f0",
+   "op": "text",
+   "en": "When she got home, she happened to look and saw the creases left in her skirt hem where Miyagi had grabbed it.\nEven Sugiura had trouble sleeping that night, it seems.{p}"
+  },
+  {
+   "id": "37:6894",
+   "op": "text",
+   "en": "And then, the next day.\nMaybe it was bugging her, because she headed to school earlier than usual.\nOut on the field, morning practice was just wrapping up.\nWhat was going on?\nThere was a commotion over by the gym.\nEveryone was running over...\nSugiura found herself walking faster too.\nShe had a bad feeling, you see.{p}"
+  },
+  {
+   "id": "37:69a8",
+   "op": "text",
+   "en": "Where the students had gathered was... the drinking fountains beside the gym.\nShe could hear girls screaming and sobbing, too.\nSugiura pushed through the crowd to the front."
+  },
+  {
+   "id": "37:6a3c",
+   "op": "text",
+   "en": "There lay Miyagi's body, dead with her eyes still open!\nThe faucet had been left running, and the whole area was soaking wet.\nThe cause of death was shock from an attack of a chronic illness.\nThat's why she'd looked so pale when she met Sugiura.\nApparently, after Sugiura went home, Miyagi made it here on her own, but had an attack before she could even get a sip down.\nSugiura seemed to feel a little responsible, and for a while after that she kept a low profile, apparently.{p}"
+  },
+  {
+   "id": "37:6be8",
+   "op": "text",
+   "en": "But eventually, strange rumors started going around about those fountains.\nThat at two in the morning the second faucet from the right would be left running, that a girl's ghost appeared in the evening, all kinds of things.\nAfter an incident like that, everyone was whispering that it was Miyagi's ghost coming out.{p}"
+  },
+  {
+   "id": "37:6cf0",
+   "op": "text",
+   "en": "Once things got like that, of course, the one who got more and more uneasy was Sugiura.\nShe was scared every single day... what if Miyagi was coming out because she held a grudge against her?\nAfter classes she went home as fast as she could, and she wouldn't go anywhere near those fountains.\nEven so, hearing the rumors still got to her, and she transferred schools like she was running away, apparently.{p}"
+  },
+  {
+   "id": "37:6e30",
+   "op": "text",
+   "en": "After Sugiura left this school, a new rumor spread about those fountains.\nIt was about a girl's ghost again, but this time an awful lot of people actually saw it.{p}"
+  },
+  {
+   "id": "37:6ef4",
+   "op": "text",
+   "en": "There's a girl wearing this school's uniform, see,\n\"Please forgive me, it was my fault.\"\nand she keeps apologizing like that, desperately, they say.\nWrapped in a blazing red light, she suddenly lets out a weird shriek and vanishes.{p}"
+  },
+  {
+   "id": "37:6fd0",
+   "op": "text",
+   "en": "You know, I have an idea who that girl is.\nWho? Sugiura, the one who transferred, of course.\nHee hee hee, officially it was a transfer, but actually, she'd killed herself, apparently.\nMaybe her guilty conscience was tormenting her...\nShe was more of a coward than she looked, huh?{p}",
+   "returns": []
+  },
+  {
+   "id": "37:70b4",
+   "op": "text",
+   "en": "And the way she did it was flashy, or bold, or something...\nShe burned herself to death.\nShe snuck out of the house at night, and on the embankment of that reservoir near this school, she doused herself in kerosene and set herself on fire.{p}"
+  },
+  {
+   "id": "37:718c",
+   "op": "text",
+   "en": "Someone thought there was a fire and called it in, and the police and firefighters rushed over right away, but it was already too late.\nRight in front of their eyes, the flames burned up Sugiura and nothing else, then just faded away.{p}"
+  },
+  {
+   "id": "37:7248",
+   "op": "text",
+   "en": "The strange thing is, after the fire went out, there was nothing left at all.\nNot her body, not even her bones.\nEveryone who was there saw her, so I think she really did burn up completely.{p}"
+  },
+  {
+   "id": "37:7324",
+   "op": "text",
+   "en": "But because it was so shocking, and because it came right after Miyagi's incident, the school made it out to be a transfer.\nOh yeah, there was one more rumor.{p}"
+  },
+  {
+   "id": "37:73d0",
+   "op": "text",
+   "en": "About that second faucet from the right at the drinking fountains beside the gym: up until then, it was just that the water got left running... that kind of thing, right?{p}"
+  },
+  {
+   "id": "37:7460",
+   "op": "text",
+   "en": "Well, from that day on, it changed to a black, slimy liquid like oil coming out.\nThis rumor was true: no matter how much they checked the pipes, the faucet and the water tank, they couldn't find anything wrong.\nThe other faucets were perfectly fine, but only that one gave out a weird liquid.{p}"
+  },
+  {
+   "id": "37:7580",
+   "op": "text",
+   "en": "Weird, right?\nThat got blamed on Miyagi's ghost too, though.\nThe students made such a fuss that the school sealed the faucet, to do it before the truth about Sugiura got out.\nAfter that, the girl's ghost stopped appearing too, and only the rumor stayed behind, like a legend.\nHuh? How come I know so much about it?{p}"
+  },
+  {
+   "id": "37:76b4",
+   "op": "text",
+   "en": "Heh heh, my mom graduated from here.\nShe was Sugiura's classmate.\nAnd while I'm at it, my big sister graduated from here too.\nAnd the one who saw Sugiura burning and called it in was my dad.\nThey got together because of what happened with Miyagi and Sugiura...\nYou can't call it romantic, but they're a pretty unusual couple, huh?\nThese days the rumor's almost forgotten, but that faucet's still sealed.\nPhew, that's as far as my story goes.\nWho are you picking next?{p}"
+  },
+  {
+   "id": "37:7874",
+   "op": "text",
+   "en": "Right, {b}, you're pretty famous, after all.\nYou probably can't understand people who get all happy or upset over little things like this.\nHa ha, I'm not blaming you or anything.{p}",
+   "follows_choice": [
+    "37:4548"
+   ]
+  },
+  {
+   "id": "37:791c",
+   "op": "text",
+   "en": "Sugiura was really happy about the elderly person's gratitude, but she didn't quite get why everyone was praising her so much.\nBecause to her, being kind to people was only natural.\nShe'd convinced herself that everyone else thought the same way she did.\nEven though they say most people can't do what's only natural.\nAfter that, Sugiura went on being a kind, caring person, they say.\nSeeing that, more and more people sang her praises.\nBut it wasn't only humans who came clinging to that kindness of hers.{p}"
+  },
+  {
+   "id": "37:7b3c",
+   "op": "text",
+   "en": "One day, after P.E., as Sugiura was heading back to the classroom, she heard a voice from somewhere.\nA faint, thin voice that sounded like it was calling for help.\nShe immediately went looking for whoever it was.{p}"
+  },
+  {
+   "id": "37:7c04",
+   "op": "text",
+   "en": "The voice seemed to come from the back of the gym, from the gym storeroom.\n\"I didn't hear anything when I put the balls away just now...\"\nMuttering that, she went toward the voice.{p}"
+  },
+  {
+   "id": "37:7ccc",
+   "op": "text",
+   "en": "Inside the gym storeroom, two children...\nA big brother and his little sister, maybe?\n...were crouched down, as if hiding behind the mats.\n\"W... water... we want water...\"\nThe children, in ragged clothes, stretched out their skinny hands, pleading desperately.\nHow on earth had they gotten in, and why were they dressed like that?\nLots of things were strange, but she didn't really mind.\nFeeling sorry for them came first, I guess.\n\"All right.\nWait just a moment.\"\nSugiura wanted to give these poor siblings a drink of water.{p}What do you think she did?\n"
+  },
+  {
+   "id": "37:7ecc",
+   "op": "choice",
+   "en": "She went and got them some water"
+  },
+  {
+   "id": "37:7ee4",
+   "op": "choice",
+   "en": "She took them to the fountains"
+  },
+  {
+   "id": "37:7efc",
+   "op": "text",
+   "en": "That's right.\nShe tried to go get them some water.\nThe closest place from there was the drinking fountains beside the gym.{p}",
+   "follows_choice": [
+    "37:7ecc"
+   ]
+  },
+  {
+   "id": "37:7f70",
+   "op": "text",
+   "en": "After hurrying over to the fountains, she realized she had nothing to carry the water in.\n\"What do I do?\"\nFor now, she decided to go back to the storeroom.\nBesides, bringing the two of them along would be faster, right?{p}"
+  },
+  {
+   "id": "37:803c",
+   "op": "text",
+   "en": "Inside the gym storeroom, the little siblings were waiting for Sugiura.\n\"Sorry.\nI couldn't bring any water.\nBut I'll take you to where the water is right now, okay?\"\nWith that, she picked up the little sister in her arms, took the big brother by the hand, and headed for the fountains.{p}"
+  },
+  {
+   "id": "37:8144",
+   "op": "text",
+   "en": "Maybe because they were so thin, both children were very light.\nSo she reached the fountains in no time.\nAnd then...☆{p}"
+  },
+  {
+   "id": "37:81d0",
+   "op": "text",
+   "en": "A searing pain shot through the side of her neck!\nThe little sister had sunk her teeth into Sugiura's neck!\nThen an agonizing pain in her right hand too...!{p}"
+  },
+  {
+   "id": "37:8240",
+   "op": "text",
+   "en": "The siblings were slurping her blood, their throats gulping.\nThe children's bodies, so light just moments ago, gradually grew heavier...\nSugiura couldn't stay on her feet and collapsed right there.\nEven then, the two siblings wouldn't let go of her.\nNot until they'd sucked out every last drop of her blood.{p}"
+  },
+  {
+   "id": "37:8368",
+   "op": "text",
+   "en": "When she was found, her body was dry and shriveled up like a mummy.\nThe one who found her was a classmate of Sugiura's, but by the time that student got there, the siblings were gone.\nThe student only heard the voices of little children.\n\"That was yummy, wasn't it, big brother?\"\n\"Yeah, it was yummy.\"\nLike that.{p}"
+  },
+  {
+   "id": "37:84b4",
+   "op": "text",
+   "en": "...These siblings, see, seem to be the ghosts that are rumored to appear in this school.\nSupposedly they're earthbound spirits who died around here during the war.\nSugiura was kind even to ghosts, huh.\nBut dying because of it... it feels like something's wrong with the world.\nFrom that day on, a thick, reddish-brown liquid started coming out of the second faucet from the right at the drinking fountains beside the gym.\nThe other faucets are perfectly fine.\nThey checked the pipes too, but found nothing wrong.\nSome students made a fuss that it might be blood, so the school apparently had no choice but to seal the faucet.{p}"
+  },
+  {
+   "id": "37:86e0",
+   "op": "text",
+   "en": "But why the second one from the right, I wonder?\nApparently that's about where Sugiura was lying when she collapsed, so maybe that's why.\nAnd you know, there was a kid who heard this story before and tried to turn on that faucet, but in the end they got scared and gave up.\nThat kid says they saw the faint figure of a girl in a sailor uniform, overlapping that second faucet.\nApparently the faucet was right where the girl's wrist was.\nEveryone was whispering about it.\nThat's Sugiura.\nSugiura can't understand that she's dead, so she keeps showing up.\nSorry.\nThat story's going to make tap water even harder to drink, huh.\nThat's the end of my story.\nOkay, whose turn is next?{p}"
+  },
+  {
+   "id": "37:8918",
+   "op": "text",
+   "en": "Sugiura thought it over.\nInstead of going to get water and coming back again, she could get these kids a drink faster if she took them to the drinking fountain.\nThere was a chance a teacher or some other student would find them, but she decided this was the best way.\n\"I'll take you somewhere with water right now, okay?\"\nWith that, she picked up the little sister in her arms, took the big brother by the hand, and headed for the drinking fountain.{p}",
+   "follows_choice": [
+    "37:7ee4"
+   ]
+  },
+  {
+   "id": "37:8ab0",
+   "op": "text",
+   "en": "The closest one from there is the drinking fountain beside the gym, right?\nMaybe because they were so thin, both kids were really light.\nSo she got to the fountain in no time.\n"
+  },
+  {
+   "id": "37:8b44",
+   "op": "text",
+   "en": "\"There you go, drink as much as you want.\""
+  },
+  {
+   "id": "37:8b78",
+   "op": "text",
+   "en": "Sugiura put down the child she'd been carrying and turned the faucet.{p}"
+  },
+  {
+   "id": "37:8bc4",
+   "op": "text",
+   "en": "Clear water came gushing out.\nThe kids happily touched the water and gulped it down.\nAs she watched them, a thought that hadn't bothered her before came into Sugiura's head.\nWhose kids are these, anyway...?\nAnd what's with these old-fashioned clothes...?\n\"Hey, where are you two from?\"\nThe kids, who'd been drinking until then, turned around to her and smiled.{p}"
+  },
+  {
+   "id": "37:8d40",
+   "op": "text",
+   "en": "And then they vanished, as if they'd been sucked into the faucet.\nThe water that had been gushing out got sucked back into the faucet too, like a film running backward.\nShe just stood there stunned for a while, it seems.{p}"
+  },
+  {
+   "id": "37:8e28",
+   "op": "text",
+   "en": "After that, Sugiura never saw that brother and sister again.\n...You know, it seems this brother and sister are the ghosts people say haunt this school.\nSupposedly, they're earthbound spirits who died around here during the war.\nSugiura was kind even to ghosts, huh.\nAnd from that day on, they say not a single drop of water comes out of that second faucet from the right.\nThe other faucets are perfectly fine.\nThere was nothing wrong with the water main or the pipes, either.{p}"
+  },
+  {
+   "id": "37:8fb4",
+   "op": "text",
+   "en": "Instead of water, dry air comes flowing out, and you can hear people's voices.\nIt apparently changes from time to time, but it's mostly screams and moans.\nOne teacher heard those voices, and it was decided they must be the voices of people from the war.\nThat teacher's retired now, but they'd lived through the war.\nIt wasn't really doing any harm, but they couldn't just leave it like that, so in the end the teachers sealed the faucet.{p}"
+  },
+  {
+   "id": "37:913c",
+   "op": "text",
+   "en": "I mean, it's creepy, after all.\nA faucet that makes ghost voices... right?\nHee hee hee...\nThat's the end of my story.\nNow, whose turn is it next?{p}"
+  },
+  {
+   "id": "37:91cc",
+   "op": "text",
+   "en": "You can't drink it after all, can you?\nI get it.\nSpeaking of which, it was a big topic a little while ago, remember?\nAbout how sanitary the water tanks in apartment buildings and office buildings are...\nHonestly, I figure tap water is, well, reasonably safe, I guess.\nWhether you can bring yourself to drink it is another matter.{p}",
+   "follows_choice": [
+    "37:16e0"
+   ]
+  },
+  {
+   "id": "37:92e0",
+   "op": "text",
+   "en": "So, you know about the storage tanks that hold tap water, right?\nRegular houses don't usually have them, but almost every office building or apartment building does.\nFrom what I heard, there are places where nobody's been looking after them properly.\nNobody had cleaned inside the tanks, and something like water scale was caked on thick.\nIn the worst places, the lids hadn't been closed properly, and they found the bodies of rats and crows that had gotten inside.\nAnd supposedly those crows had had their color bleached out by the chlorine...{p}"
+  },
+  {
+   "id": "37:94c0",
+   "op": "text",
+   "en": "Well, it's only something I heard, so I don't know how much of it is true.\nAnyway, apparently there's a rule that storage tanks have to be cleaned a few times a month.\nBut there really are places where the cleaning isn't done properly.\nThe people using that water did think it smelled funny, or that something seemed to be mixed in it.\nBut they sure never imagined it was anything like that.\nTalk about a blind spot, huh.{p}"
+  },
+  {
+   "id": "37:965c",
+   "op": "text",
+   "en": "If the problem isn't the tap water itself but everything around it, there's nothing you can do, right?\nAnd it got me thinking, people are surprisingly tough creatures.\nI thought we were delicate, but a little something like that doesn't hurt us at all.\nI mean, we're talking rat and crow extract, you know?{p}"
+  },
+  {
+   "id": "37:9778",
+   "op": "text",
+   "en": "Hmm.\nBut even if I tell myself people sure are tough, if someone asked whether I could drink that water...\nAnd actually, weird things come out of this school's taps, too.\nThings that don't normally come out of a tap.{p}"
+  },
+  {
+   "id": "37:9854",
+   "op": "text",
+   "en": "Did you know?\nOf course, that tap isn't drawing water from anywhere weird.\nIt's piped in properly from the reservoir, the same ordinary tap water everyone drinks at home.\nSo there's no hair from drowned bodies in it or anything.\nBut still, they come out. Weird things.{p}"
+  },
+  {
+   "id": "37:996c",
+   "op": "text",
+   "en": "You know the drinking fountain beside the gym, right?\nThe one where the guys from the sports clubs gulp down water after practice and stuff.\nHaven't you ever noticed that only the second faucet from the right there can't be used?{p}"
+  },
+  {
+   "id": "37:9a3c",
+   "op": "text",
+   "en": "It's got wire wound tight around it so the faucet can't be turned.\nIt's all rusted over now, so the wire and the faucet kind of look like they've fused into one.\nApparently it's been like that for years now.\nAnd the reason why is...{p}"
+  },
+  {
+   "id": "37:9b28",
+   "op": "text",
+   "en": "A long time ago, there was a girl named Shigeko Ohara, a second-year at the time.\nShe was really high-strung.\nFor drinking water, she only drank store-bought mineral water, of course.\nIf her hand touched anything, she'd scrub it with soap, and she'd cover doorknobs with a tissue or a handkerchief before grabbing them. That's how she was.\nI guess you'd call it a severe cleanliness obsession.\nWhat an exhausting girl, seriously.\nIt was the summer of her second year...{p}"
+  },
+  {
+   "id": "37:9ca0",
+   "op": "text",
+   "en": "That year, the record for the most days without a single drop of rain just kept getting broken, again and again.\nIt was hot no matter what you did or where you were...\nBack then, air conditioners probably weren't very common yet, so it must have been rough in all kinds of ways.\nAnd of course, they even had timed water cutoffs, the kind they don't do even in a heat wave unless things get really bad.{p}"
+  },
+  {
+   "id": "37:9de8",
+   "op": "text",
+   "en": "Even sunflowers and morning glories, which are supposed to handle heat, looked ready to shrivel up any minute.\nThere was barely enough water for people to drink, so there was no way they had water to give plants.\nI also heard there were swarms of mosquitoes and mosquito coils sold like crazy.\nThat's how terrible that summer was.\nSo, you know how every July the whole school weeds the school grounds?\nYeah, it's the yearly event right before summer vacation.{p}"
+  },
+  {
+   "id": "37:9f60",
+   "op": "text",
+   "en": "Her class was in charge of the athletic field.\nAt first, everyone was weeding and chatting happily, but she gradually started feeling sick.\nFrom her symptoms, it looked like sunstroke.\nWhen a classmate couldn't stand to watch anymore and tried to take her to the nurse's office, she said,\n\"I'm fine. I can go by myself...\"\nand walked off, staggering a little.\nIn front of her eyes, everything swirled and rippled, and her body seemed to float up with the heat haze rising from the ground, ready to turn into vapor at any moment.\n\"I want some water...\"\nHer throat was so parched that the membranes stuck together and she couldn't even swallow her spit.\nBy then, she was already dehydrated.{p}"
+  },
+  {
+   "id": "37:a1c8",
+   "op": "text",
+   "en": "Then she noticed a row of taps beside the gym.\n\"Water like that...\nI-I can't drink that...\"\nBut she couldn't stop thinking about it.\nHow good it would feel to gulp down the water gushing from the faucet, as if she were bathing in it...\nAll her fussing about water up till now suddenly seemed kind of pathetic.{p}"
+  },
+  {
+   "id": "37:a304",
+   "op": "text",
+   "en": "\"I don't have a choice anymore...\"\nShe finally made it to the tap, turned the faucet, and slurped as hard as she could.\n\"Gulp, gulp.\"\nBut all of a sudden, she felt a cold sweat break out.{p}"
+  },
+  {
+   "id": "37:a3c0",
+   "op": "text",
+   "en": "\"Something's wrong...\"\nShe could tell something squirming had gotten into her mouth.\n\"Th-this isn't water☆\"\nShe jerked her mouth away from the faucet.\nBut she'd been slurping from it so hard that she'd apparently swallowed a lot of it.{p}"
+  },
+  {
+   "id": "37:a4b4",
+   "op": "text",
+   "en": "\"Ugh.\"\nShe looked, and countless ants were pouring out of the faucet!\nThe water was cut off right at that moment, you see.\nThe cutoff had gone on a really long time, and the storage tank that draws from the reservoir was empty, so no water could come out.\nWhat she'd swallowed instead were countless ants that had gotten into that empty tank!{p}"
+  },
+  {
+   "id": "37:a5f4",
+   "op": "text",
+   "en": "\"Hurk! Hurrrk!\"\nShe shoved her hand into her mouth, trying to get out the ants she'd swallowed.\nBut ants are tiny, so there's no way that would get them out.\nThe ants that got into her throat bit into the membranes without mercy.\nShe clawed at her throat and writhed around in agony.\nNo, maybe even more than the bites, she'd already panicked the moment she swallowed them.\nThe ants that couldn't get into her mouth crawled into her hair and under her clothes...{p}"
+  },
+  {
+   "id": "37:a7c4",
+   "op": "text",
+   "en": "Luckily, a teacher found her, and she was taken to the hospital.\nThe ant bites weren't that bad, apparently, but the mental shock was huge, so her hospital stay dragged on.\nShe could hardly drink any water, and she depended on an IV drip every day.\nBecause whenever she saw water, she saw phantom ants...\nThen one day, she disappeared from the hospital.\nAnd as for where she'd gone...{p}"
+  },
+  {
+   "id": "37:a940",
+   "op": "text",
+   "en": "She was found in the storage tank that fed the tap where it happened.\nThe way they found out was that a student who used that tap made a fuss, saying the water smelled bad.\nFrom what I heard, she lost her footing and fell into the tank.\nHuh?\nHow she died?\nDid she drown?\nYeah, I guess that's right, but...\nHer body had soaked up a lot of water and swelled up.\nUp to that point, it's just an ordinary drowned body, but...{p}"
+  },
+  {
+   "id": "37:aae4",
+   "op": "text",
+   "en": "The thing is, she was found pure white.\nThat's right, she'd been bleached.\nHer hair, her clothes, her eyeballs, everything...\nSupposedly she'd been pouring in mountains of bleach to disinfect that tank and get it even a little bit cleaner.\nThe story is she slipped while she was doing it.\nThey say lots of bleach containers were scattered around the tank.\nShe must have gone a little crazy.\nPutting that stuff in wasn't going to make the tank or the water clean...{p}"
+  },
+  {
+   "id": "37:acb8",
+   "op": "text",
+   "en": "Inside the tank, the color slowly leached out of her body, and in its place, water seeped in through her pores.\nPitiful, isn't it...\nAfter that, whenever anyone tried to use the faucet where it happened, pure white ants came out with the water, and it was a real mess.\nSo, since the students found it creepy, the teachers sealed the faucet.\nEveryone whispered about it.\nThat it was her curse.{p}"
+  },
+  {
+   "id": "37:ae08",
+   "op": "text",
+   "en": "Oh, sorry.\nThat story's going to make tap water even harder to drink, huh.\nHee hee hee...\nThat's the end of my story.\nNow, whose turn is it next?{p}"
+  },
+  {
+   "id": "37:aeb8",
+   "op": "text",
+   "en": "Huh, so you're kind of a fairy-tale romantic, {b}.\nAhaha...{p}",
+   "follows_choice": [
+    "37:2728"
+   ]
+  },
+  {
+   "id": "37:af08",
+   "op": "text",
+   "en": "But you know, in real life, it's exactly the women with pretty faces you can't trust. There's no telling what they get up to.{p}"
+  },
+  {
+   "id": "37:af68",
+   "op": "text",
+   "en": "We're human, you know. We're omnivorous beasts.\nHumans who come fully loaded with all hundred and eight worldly desires!\nThe human body is nothing but a vessel for the soul.\nJust because that vessel is a little better than most doesn't mean it's an angel.{p}"
+  },
+  {
+   "id": "37:b034",
+   "op": "text",
+   "en": "Well, whatever.\nSo, about those two: sometimes they were so close it was almost creepy, and some people said they might be lesbians.\nThey never talked about themselves at all...\nWhen there's a lot of mystery, everyone starts imagining all sorts of things and rumors start flying.{p}"
+  },
+  {
+   "id": "37:b148",
+   "op": "text",
+   "en": "Like that the two of them were hugging alone in the classroom after school, or that Shida was crying and giving Tamai a hard time... there were too many to count...\nI don't know if those rumors were true or not.\nAfter all, rumors are just rumors...{p}"
+  },
+  {
+   "id": "37:b20c",
+   "op": "text",
+   "en": "Maybe everyone was jealous of the two of them being so close.\nAnd, sorry to you since you answered \"angel,\" but she was human after all.\nOne day, out of nowhere, the two of them fell out.{p}"
+  },
+  {
+   "id": "37:b2e4",
+   "op": "text",
+   "en": "Well, it was less that they fell out and more that Shida pulled away.\nOut of nowhere, she started ignoring Tamai, like she didn't even acknowledge she existed.\nShe did a complete about-face and turned cold on her, just like that.\nBut I guess everyone around them thought that was only natural.{p}"
+  },
+  {
+   "id": "37:b3f4",
+   "op": "text",
+   "en": "It was how things had been until then that was strange.\nShida was as nice to everyone as ever, and as easy to hang out with.\nThe only thing that changed was how she treated Tamai.\nAll anyone wanted was to be friends with Shida, after all.\nShida was as popular with everyone as ever.\nTamai, on the other hand, became more isolated than ever.\nEven though Shida had turned cold toward Tamai, there wasn't any bullying, maybe because people still worried about what Shida would think.\nTamai just always looked lonely, all by herself.{p}"
+  },
+  {
+   "id": "37:b5cc",
+   "op": "text",
+   "en": "But you know, Tamai pretended not to look, but she was watching Shida out of the corner of her eye.\nThey'd been so close that people envied them, right?\nAnd then out of the blue, she got the cold shoulder.\nShe must still have been hung up on her.{p}"
+  },
+  {
+   "id": "37:b69c",
+   "op": "text",
+   "en": "But hey, don't you want to know why Shida suddenly turned cold?\nHere's what happened.{p}"
+  },
+  {
+   "id": "37:b738",
+   "op": "text",
+   "en": "One day, a huge sheet of paper was posted on the school bulletin board.\n\"EXCLUSIVE SCOOP!\nThe truth about the school's angel, Naoko Shida!\nBelieve it or not, Naoko Shida has been taking an allowance of 500,000 yen a month from Yoshiko Tamai to be with her!\"\nit said.\nAnd it came with photos as proof.\nIt caused a huge uproar, believe me.\nUm, this is kind of hard for me to explain, but basically, Tamai wasn't interested in boys.{p}"
+  },
+  {
+   "id": "37:b8a0",
+   "op": "text",
+   "en": "That part's shocking enough, but paying her an allowance is a shock too.\nWhere would a high school student like Tamai get that kind of money...\nThat's what you're thinking, right?\nNobody had any interest in Tamai, and nobody ever tried to find out about her.\nSupposedly, she was a young lady from an incredibly rich family.\nShe was spoiled, and she got whatever she wanted, no matter what it took.\nTamai wanted Shida for herself.\nIt seems that from the first moment she saw her, she thought Shida was the only one for her.\nSo she handed Shida 500,000 yen every month to be her friend.\nPretty incredible story, huh.{p}"
+  },
+  {
+   "id": "37:baec",
+   "op": "text",
+   "en": "And as for Shida, it seems her show business debut had been officially decided.\nSo she didn't need Tamai's money anymore.\nThat's why she turned cold.\n\"When the money's gone, so is the friendship,\" or however it goes. They sure got that right.{p}"
+  },
+  {
+   "id": "37:bbb8",
+   "op": "text",
+   "en": "Hmm.\nSo you think so too?\nNo matter how good a person is, in the end they're only human.{p}",
+   "follows_choice": [
+    "37:2730"
+   ],
+   "returns": []
+  },
+  {
+   "id": "37:bc10",
+   "op": "text",
+   "en": "We're omnivorous beasts.\nHumans who come fully loaded with all hundred and eight worldly desires.\nAnd Shida was a human who had those desires, all right.\nHuh, you're asking why?\nOne day, out of nowhere, the two of them fell out.{p}"
+  },
+  {
+   "id": "37:bcfc",
+   "op": "text",
+   "en": "Well, more than falling out, Shida drifted away from her.\nAll at once she started ignoring Tamai, like she didn't even acknowledge she existed.\nOut of nowhere she turned cold, a complete about-face.\nBut it seems everyone around them thought that was only natural.\nLike, that's just how it should be...\nPeople said all kinds of things, like maybe they'd had a fight, or \"Shida finally got sick of Tamai, huh?\"\nEven so, not one person said anything bad about Shida.{p}"
+  },
+  {
+   "id": "37:bee4",
+   "op": "text",
+   "en": "Oh, is that so...\nI was sure you'd be interested...\nHow boring.\nWell, okay, if you're not interested, you don't have to hear it.\nAnd even if you come to me later saying you want to hear it, I'm never telling you, got it?\nJust so you know...\nI mean, you gathered us here to hear our stories for an article, didn't you?\nWhat are you thinking?\nIf you end up all frustrated, that's not my problem, okay?\n...Oh, whatever.\nThat's the end of my story.\nHurry up and let the next person talk, why don't you?{p}",
+   "follows_choice": [
+    "37:2c64"
+   ]
+  },
+  {
+   "id": "37:c06c",
+   "op": "text",
+   "en": "When you think about it, maybe she's the most pitiful one of all.\nThe only way she could get what she wanted was by handing over money...\nIf she'd worked at becoming someone with real charm as a person, she could've had all the friends she wanted.\nIn that sense, I do feel sorry for her.{p}",
+   "follows_choice": [
+    "37:32f0"
+   ]
+  },
+  {
+   "id": "37:c170",
+   "op": "text",
+   "en": "What she had with Shida was a fake relationship she'd bought with money.\nI think Tamai saw it that way too, at first.\nBut as she spent time with Shida, she convinced herself it was true, that it was real.\nAnd then, when she faced the reality that Shida was going off into show business, out of her reach, she didn't know what to do, and I bet that's why she did what she did.{p}"
+  },
+  {
+   "id": "37:c2ec",
+   "op": "text",
+   "en": "Even so, Tamai stayed at school, right?\nPeople talked about her behind her back a lot, like, \"How does she even have the nerve to show up at school?\"{p}"
+  },
+  {
+   "id": "37:c36c",
+   "op": "text",
+   "en": "There was open harassment too, they say.\nPeople said whatever they liked, apparently, like \"What is Tamai's deal, anyway?\"\nBut she was only human too, and it seems she gradually couldn't stand everyone treating her that way.\nApart from class, she was always off somewhere, apparently.{p}"
+  },
+  {
+   "id": "37:c468",
+   "op": "text",
+   "en": "And eventually she started skipping class too.\nEveryone was glad, saying it was good riddance to someone they couldn't stand.{p}"
+  },
+  {
+   "id": "37:c500",
+   "op": "text",
+   "en": "Then one day, the students who used the taps beside the gym started making a fuss, saying weird-smelling water was coming out.\nAnd sure enough, that tap water was giving off a fishy kind of stench you couldn't even describe.\nOn top of that, the color of the water was strange too.\nEvery tap there was like that.\nThe ones in the new school building were totally fine, though.\nI told you earlier that this school's taps draw water from the reservoir, right?{p}"
+  },
+  {
+   "id": "37:c67c",
+   "op": "text",
+   "en": "Only the taps beside the gym used water that was first stored in a separate storage tank before it came out as tap water.\nA teacher who got suspicious went up to the roof to check the storage tank connected to those faucets, and right then...\nThere was Tamai, with the tank's lid open and her face stuck inside it.\n\"Hey, you, that's dangerous!\nWhat are you doing up there★\"\nTamai turned around and glared hard at the teacher, and then she stuck her face back into the tank.\n\"What's she muttering about...?\"{p}"
+  },
+  {
+   "id": "37:c854",
+   "op": "text",
+   "en": "The teacher could see that Tamai was anything but normal, called other teachers, and they dragged her down from there.\nShe thrashed around so hard they could barely handle her.\nAnd she was screaming,\n\"You're all trying to take away what's precious to me☆\nWhy☆\"\nthey say.\nYou've figured it out by now, right?{p}"
+  },
+  {
+   "id": "37:c984",
+   "op": "text",
+   "en": "That's right, Tamai had always been coming up here to see Shida.\nShida had been shut inside that storage tank.\nShe'd been dead for quite a while, apparently.\nSince it was a drowned body, it had soaked up a lot of water, and there was no trace left of how beautiful Shida had been when she was alive.\nHer nails had come off too, and she was in a horrible state, they say.\nJudging by all the scratch marks inside the tank, she must have struggled desperately to get out.{p}"
+  },
+  {
+   "id": "37:cb10",
+   "op": "text",
+   "en": "In that dim tank with barely any air, she sank into the cold water and died, hoping someone would come save her.\nTamai had kept her locked up so Shida would stay by her side forever.\nEven if it meant she died.\nThat's how far Tamai went to keep Shida as her own.\nMaybe to Tamai, Shida wasn't even human anymore.\nShe'd already become a thing.{p}"
+  },
+  {
+   "id": "37:ccd0",
+   "op": "text",
+   "en": "From what I heard, the tank's cleaning day fell right around the time she was first locked up.\nBut the cleaning never got done...\nUp till then, the cleaning had only been on paper; apparently it had never actually been done properly.\nThey say if the cleaning had been done properly back then, she might have been found and saved.\nAfter that, they cleaned out the tank and got the taps working normally again, but...\nFor some reason, out of that second faucet from the right comes a thick, fishy-smelling liquid, glugging and gurgling.\nThe other faucets give normal water.\nAnd no matter how many times they checked the pipes and the tank, they never found anything wrong.{p}"
+  },
+  {
+   "id": "37:cf04",
+   "op": "text",
+   "en": "And if you touch that liquid by accident, your skin looks like the color's been drained out of it, and it doesn't go back to normal for a while.\nSo, since the students found it creepy, the teachers sealed the faucet.\nDoes the fishy liquid still come out now, you ask?{p}"
+  },
+  {
+   "id": "37:cfe8",
+   "op": "text",
+   "en": "Who knows? How would I know that?\nWhy don't you sneak over later and take the seal off the faucet?\nDo you have the guts to try?\nHee hee hee.\nThat's the end of my story.\nNow, whose turn is it next?{p}"
+  },
+  {
+   "id": "37:d0a4",
+   "op": "text",
+   "en": "You think so?\nWell, if someone handed you 500,000 yen a month, I guess you couldn't keep saying no.\nWhen you think about it, maybe she is pitiful.\nWhat happened after that is awful too.{p}",
+   "follows_choice": [
+    "37:32e4"
+   ]
+  },
+  {
+   "id": "37:d12c",
+   "op": "text",
+   "en": "See, say what you want, but Tamai got to stay at school.\nThough people talked about her behind her back a lot.{p}"
+  }
+ ]
+}

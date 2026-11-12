@@ -1,0 +1,823 @@
+{
+ "chunk": "E051",
+ "scene": "26",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "slices": [
+  "S101",
+  "S102"
+ ],
+ "prev": "E050",
+ "next": "E052",
+ "todo": [],
+ "rows": [
+  {
+   "id": "26:a2c8",
+   "op": "text",
+   "en": "That friend's name was Keiichi Tsuda.\nTsuda didn't use that restroom on purpose or anything.\nHe did know the stories about that restroom, after all.{p}"
+  },
+  {
+   "id": "26:a370",
+   "op": "text",
+   "en": "One day, after P.E. class ended, he suddenly needed to go.\nIt beat wetting himself, so he went there, since he had no choice.{p}"
+  },
+  {
+   "id": "26:a400",
+   "op": "text",
+   "en": "The restroom was chilly, and the whole wall was covered with that letter board.\nHe'd heard the rumors, but this was the first time he'd ever really looked at it.{p}"
+  },
+  {
+   "id": "26:a480",
+   "op": "text",
+   "en": "The letters on the board stood out more clearly than he'd expected.\nHe tried his best not to look at it, but it bothered him all the same.\nFor the time being, he did his business quickly and went outside.{p}"
+  },
+  {
+   "id": "26:a538",
+   "op": "text",
+   "en": "When he turned around and looked back at the restroom, he thought he saw something like a mist swirling inside.\nFor an instant, a shiver ran down his spine.\nNothing in particular had happened this time, but he thought maybe he'd better never go near that place again.{p}"
+  },
+  {
+   "id": "26:a630",
+   "op": "text",
+   "en": "Then one day, a few days later.\nIt was during lunch break.{p}"
+  },
+  {
+   "id": "26:a67c",
+   "op": "text",
+   "en": "I'd eaten my lunch and gone up to the roof, and there in a corner was Tsuda, eating his lunch all alone.\nTsuda was a light eater, you see.\nHe always ate like the food tasted awful.\nFor me, mealtime is the happiest time of all.\nTsuda was the complete opposite.\nIt looked like he forced himself to eat because he had to.\nBut guess what?\nThat time, he was wolfing it down like a different person.\nHe was shoveling the food from his lunch box into his mouth at a tremendous pace.\nI waved and walked over to him.{p}"
+  },
+  {
+   "id": "26:a830",
+   "op": "text",
+   "en": "\"Hey, Tsuda!\"\nTsuda only glanced at me for a second; the hand holding his chopsticks never stopped for a moment.\nWas he eating something that delicious?\nIf so, maybe I'd ask him for one too, I thought as I got closer...\nI almost threw up what I'd just eaten.\nWhat he was eating were baby mice.\nHis lunch box was heaped with baby mice.\nThe raw pink kind that hadn't grown any fur yet.\nHe knew I was right next to him, but he kept eating, completely absorbed.{p}"
+  },
+  {
+   "id": "26:a9fc",
+   "op": "text",
+   "en": "Then, when he'd polished off the whole lunch box full of baby mice, he wiped his mouth with a very satisfied look and sighed.\nAnd then he looked at me.\n\"What's wrong, Hosoda?\"\nHe said it as if he found it strange that I was standing there frozen.\nThen he closed the lid of his lunch box, walked past me, and went back downstairs.{p}"
+  },
+  {
+   "id": "26:ab30",
+   "op": "text",
+   "en": "I couldn't move for a while.\nEven now, I can't forget the way he looked at me.\nHis pupils seemed to be slit vertically, like a cat's eyes.\nAfter that, I decided to stay away from Tsuda.{p}"
+  },
+  {
+   "id": "26:abfc",
+   "op": "text",
+   "en": "One day after school, I saw him tottering off toward the back of the gym.{p}If it were you, {a}{f:|}, would you try following him?\n"
+  },
+  {
+   "id": "26:ac88",
+   "op": "choice",
+   "en": "Follow him"
+  },
+  {
+   "id": "26:ac94",
+   "op": "choice",
+   "en": "Don't follow him"
+  },
+  {
+   "id": "26:aca4",
+   "op": "text",
+   "en": "Curious, I followed him, though I should have known better.\nMaybe I could find out what had made him change.\nRight now he was just a creep, but he'd been my friend, after a fashion...\nThat's what I thought.{p}",
+   "follows_choice": [
+    "26:ac88"
+   ]
+  },
+  {
+   "id": "26:ad94",
+   "op": "text",
+   "en": "I followed him, and the place he went was that restroom.\nI quietly watched him from the shade of a tree.{p}"
+  },
+  {
+   "id": "26:ae10",
+   "op": "text",
+   "en": "Tsuda crouched down and seemed to be staring intently at the restroom's letter board.\nThen he started licking the letter board, lick, lick.\nAfter licking it for a while, he suddenly stood up and went hopping up and down.{p}"
+  },
+  {
+   "id": "26:aee0",
+   "op": "text",
+   "en": "At that point, it was still more of a strange sight than a scary one.\nIt was dusk, and a few big moths had gathered around the fluorescent light in the dim restroom.\nHe deftly caught those moths in his mouth and started eating them.\nThere must have been several moths, and it looked like he ate every last one.\nWatching that sight the whole time made me feel sick.\nWhich, I suppose, is only natural.\n\"Bleeeeegh!\"\nI threw up right there, hard.\nThinking he might have heard me, I quietly looked over at the restroom.{p}"
+  },
+  {
+   "id": "26:b0a8",
+   "op": "text",
+   "en": "And he wasn't in the restroom anymore.{p}"
+  },
+  {
+   "id": "26:b0fc",
+   "op": "text",
+   "en": "I had a bad feeling and turned around, and there he was, staring at me with glowing cat-like eyes.\n\"...You saw.\"\nThat voice wasn't his.\nThen, while I was frozen by the suddenness of it all, he lunged at me.\nHe knocked me down and straddled my chest.\nThen, with his mouth still coated in powder from the wings of the moths he'd just eaten, he licked my face, all the way up.\nOn reflex, I pressed the charm I always carry against his forehead.{p}"
+  },
+  {
+   "id": "26:b28c",
+   "op": "text",
+   "en": "\"Gyaaaagh!\"\nHe let out a tremendous scream and collapsed with a thud.{p}"
+  },
+  {
+   "id": "26:b2e4",
+   "op": "text",
+   "en": "When he collapsed, I saw something like a white mist leave him and drift toward the restroom wall.{p}"
+  },
+  {
+   "id": "26:b348",
+   "op": "text",
+   "en": "And then it vanished, as if it had been sucked into the letter board.\nI saw it.\nIt was definitely shaped like a white fox.\n\"Tsuda☆\"\nI shook Tsuda, lying there, until he woke up.{p}"
+  },
+  {
+   "id": "26:b408",
+   "op": "text",
+   "en": "\"Hosoda?\nWhat's going on?\nWhy am I here?\"\nTsuda seemed to be thinking for a while.\nThen he said this to me.\n\"...You know, I don't remember anything from the past few days.\nWhat happened to me?\nI went to that restroom beside the gym, and I don't remember anything after that.\nAnd when I came to, I was here.\nWeird, huh?\"\nPrompted by his words, I found myself nodding.\nAnd I kept quiet about all the strange things he'd been doing.\nI mean, I didn't think Tsuda would believe me even if I told him.\nI think Tsuda was probably possessed by that fox.\nOf course, I didn't tell him that either.\nWell, Tsuda was back to normal, after all.\nCase closed, as they say.\nTsuda still comes to school like normal, even now.\nAlive and well.{p}"
+  },
+  {
+   "id": "26:b6e4",
+   "op": "text",
+   "en": "Hey, {a}{f:|}.{p}You're not going to tell me you want to see that restroom's letter board, are you?\n"
+  },
+  {
+   "id": "26:b73c",
+   "op": "choice",
+   "en": "I want to see it"
+  },
+  {
+   "id": "26:b748",
+   "op": "choice",
+   "en": "I don't want to see it"
+  },
+  {
+   "id": "26:b754",
+   "op": "text",
+   "en": "If you want to see it, {a}{f:|}, I'll show you the way.{p}",
+   "follows_choice": [
+    "26:b73c"
+   ]
+  },
+  {
+   "id": "26:b7c0",
+   "op": "text",
+   "en": "Okay, here we are.\nThis is the restroom.\n{f:Hosoda and I|Hosoda and I} stepped into the dim restroom.\nThe cold, clammy air clung to my cheeks.{p}"
+  },
+  {
+   "id": "26:b860",
+   "op": "text",
+   "en": "\"This is the letter board...\"\nHosoda pointed at the board.\nSure enough, the letters on the board were grimy, {f:but|but} I could still read them clearly{f:.|.}\nOver the letters were dark stains, like blackened blood.\n\"{a}{f:|}☆\nLook☆\"\nHosoda pointed at the board again.{p}"
+  },
+  {
+   "id": "26:b984",
+   "op": "text",
+   "en": "There, stuck fast to the wall with the letter board, was a ten-yen coin crusted with blue-green rust.\n\"What's going on{f:|}★\"\n{f:We|We} couldn't move from that spot, as if we were held by an invisible force.\nThen, unbelievably, the ten-yen coin began to glide across the board on its own.{p}"
+  },
+  {
+   "id": "26:bab8",
+   "op": "text",
+   "en": "\"WHAT HAVE YOU COME HERE FOR\"\nThe coin spelled it out.\n\"We were just passing by.\"\n{f:I|I} said.\n\"What do we do?\nKokkuri-san came down on its own!\nWe have to get it to go back, fast!\"\nHosoda said in a panic.{p}"
+  },
+  {
+   "id": "26:bbc4",
+   "op": "text",
+   "en": "\"DO NOT LIE\"\nThe coin spelled it out again.\nCold sweat trickled down my back.\n{f:We|We} were truly terrified now.{p}"
+  },
+  {
+   "id": "26:bc38",
+   "op": "choice",
+   "en": "Ask Kokkuri-san to go back"
+  },
+  {
+   "id": "26:bc54",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "26:bc5c",
+   "op": "text",
+   "en": "\"Please, Kokkuri-san.\nPlease, go back where you came from.\nI'm begging you!\"\nHosoda pleaded, his voice on the verge of tears.{p}",
+   "follows_choice": [
+    "26:bc38"
+   ]
+  },
+  {
+   "id": "26:bd64",
+   "op": "text",
+   "en": "\"Let's {f:run|run}!\"\n{f:I|I} shouted.{p}",
+   "follows_choice": [
+    "26:bc54"
+   ]
+  },
+  {
+   "id": "26:bdac",
+   "op": "text",
+   "en": "Just then, the restroom's entrance door slammed shut.\n"
+  },
+  {
+   "id": "26:bde8",
+   "op": "text",
+   "en": "\"Oh no!\"\n"
+  },
+  {
+   "id": "26:be0c",
+   "op": "text",
+   "en": "Push or pull, the door wouldn't open.{p}"
+  },
+  {
+   "id": "26:be54",
+   "op": "text",
+   "en": "{f:We|We} turned around.\nThe ten-yen coin had started moving again.{p}"
+  },
+  {
+   "id": "26:bedc",
+   "op": "text",
+   "en": "\"YOU WILL NOT ESCAPE. I WILL KILL YOU\"\nThe ten-yen coin moved quietly.\nIf only {f:I|I} hadn't gotten curious back then...\n...But it's too late now.{p}"
+  },
+  {
+   "id": "26:bf5c",
+   "op": "text",
+   "en": "So you wouldn't follow him.\nActually, I didn't follow him either.\nI had a bad feeling about it, you see.{p}",
+   "follows_choice": [
+    "26:ac94"
+   ]
+  },
+  {
+   "id": "26:bfec",
+   "op": "text",
+   "en": "But... I regret it.\nTsuda hanged himself in there, just like that boy who loved fortune-telling.\nHis fingertips were bleeding.\nApparently he'd cut his own fingertips and traced over that letter board with the blood.\nThey say that to the people who saw it, for a moment it looked as if blood was flowing out of the letter board itself.\nI never, ever go to that restroom.\nYou must never go there either, {a}{f:|}.\nI don't know what happened to him in there...\nIf I'd followed him back then... maybe, just maybe, I could have saved him.\nThen again, with bad luck, I might have died too.\n...And that's the end of my story.\nI wonder when the seventh person will get here.\nIf they don't come, the next one will be the last.\nI wonder what kind of story it'll be this time.{p}"
+  },
+  {
+   "id": "26:c298",
+   "op": "text",
+   "en": "That's good.\nI was worried about what I'd do if you said you wanted to see it, {a}{f:|}.\nI was only asking as a joke, though.\n...That's the end of my story.\nWell then, let's move on to the next one.\nIf the seventh person doesn't come, this will be the last one.{p}",
+   "follows_choice": [
+    "26:b748"
+   ]
+  },
+  {
+   "id": "26:c36c",
+   "op": "text",
+   "en": "That's for the best.\nNo way is anyone's own life that easy to figure out, I tell you.\nIt's just a comfort.\nI believe in spirits, but I don't believe in fortune-telling.\nThough if you use spirits to tell fortunes, that's another story.{p}",
+   "follows_choice": [
+    "26:9914"
+   ]
+  },
+  {
+   "id": "26:c424",
+   "op": "text",
+   "en": "You're saying you're not interested?\nWell, if you're not interested, it can't be helped.\nI guess hearing the story wouldn't be any fun for you at all.\nFine, fine.\nThen I'll just stop telling the story right here.\nThat'll make you happy, right?\nEven though the spirits might have been listening to this story too.\nIf I stop partway through, I bet the spirits will be left frustrated, don't you think...?{p}",
+   "follows_choice": [
+    "26:a1b0"
+   ]
+  },
+  {
+   "id": "26:c564",
+   "op": "text",
+   "en": "Don't blame me, okay?\nIt's because you said you weren't interested, {a}{f:|}.\n...And that's the end of my story.\n...The seventh person still isn't here.\nThat means the next one will finally be the last.\nI hope nothing happens, {a}{f:|}.{p}"
+  },
+  {
+   "id": "26:c644",
+   "op": "text",
+   "en": "\"We did it! Now, let's get out of here!\"\nHosoda grabbed {f:my|my} hand and started running.{p}"
+  },
+  {
+   "id": "26:c6c0",
+   "op": "text",
+   "en": "\"Let's never, ever go there again.\"\n{f:I|I} nodded at Hosoda's words.\nAnd secretly, I thought I might be able to write a good article out of this.\nNow, just one person left{f:.|.}\nI had to hurry back to the club room and hear the next story{f:...|...}{p}"
+  },
+  {
+   "id": "26:c7b0",
+   "op": "text",
+   "en": "You got it.\nThat's amazing. So you're sensitive to spirits haunting restrooms too, {a}{f:|}.\nI had a feeling you were the same type of person as me, {a}{f:|}.\nThat's right, that place is haunted by the spirits of fish.\nStrange, isn't it?\nFish spirits, in a restroom.\nAnyway, about the reason that restroom stopped being used.{p}",
+   "follows_choice": [
+    "26:1d0c"
+   ]
+  },
+  {
+   "id": "26:c8e8",
+   "op": "text",
+   "en": "Once upon a time, there was a boy at this school.\nUnfortunately, I don't know his name.{p}"
+  },
+  {
+   "id": "26:c94c",
+   "op": "text",
+   "en": "Now, this school has a pond in the courtyard, right?\nThere are all kinds of creatures in it, turtles and koi and goldfish and so on.{p}{a}{f:|}, do you dislike fish, or things like that?\n"
+  },
+  {
+   "id": "26:c9e8",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "26:c9f0",
+   "op": "choice",
+   "en": "I dislike them"
+  },
+  {
+   "id": "26:ca00",
+   "op": "text",
+   "en": "I see.\nLiking living creatures is a good thing.\nThey're cute, aren't they? Goldfish and turtles and all.\nI keep tropical fish and a green turtle at home too.\nI just can't understand people who say they hate fish.{p}",
+   "follows_choice": [
+    "26:c9e8"
+   ]
+  },
+  {
+   "id": "26:cac8",
+   "op": "text",
+   "en": "Getting back to the story, he hated living creatures.\nThrowing stray cats in the river, hurling stones at dogs... he did the kind of things little brats do, without a second thought, even though he was in high school.\nThat's right, and so the fish in that pond fell victim to him too.\nHe'd take the fish out of the pond one at a time and do horrible things, like poking them with a stick until their guts came out, or roasting them over a fire and feeding them to cats.\nIt seems he enjoyed it more than anything.\nThe courtyard pond is wide and deep, so apparently there were quite a lot of creatures in it, and even with him taking them, nobody noticed.{p}"
+  },
+  {
+   "id": "26:ccc4",
+   "op": "text",
+   "en": "Yes, and the place where he tormented those fish was that restroom beside the gym.\nIf the fish he killed weren't too big, he could just flush them down the toilet as they were, so it was pretty convenient for him.\nSomehow, that restroom became like a torture chamber for fish.\nEventually a friend who couldn't stand to watch it told him to stop, but he wouldn't listen to a word of it.{p}"
+  },
+  {
+   "id": "26:cdf8",
+   "op": "text",
+   "en": "And then he started researching crueler ways to kill them.\nHe'd try jabbing insect pins into both of a fish's eyes, or stick pins all over its body and go,\n\"Now you're a porcupinefish.\"\nThat's the kind of thing he'd say.\nOr he'd try soaking goldfish in bleach.\nOne time, he caught a turtle, shoved its legs into its shell, wrapped it round and round with wire, and roasted it from underneath with fire.\nThe turtle tried to struggle, but because of the wire, it couldn't get its legs out.\nLittle by little, the fire scorched its shell.\nAfter a sound like a scream, a long squeeeee, the turtle didn't struggle anymore.\n\"Suffer more!\nStruggle harder!\"\nHe shouted.\nAs if he had a grudge against the fish.\nThe helpless fish put up their tiny resistance and soon died.{p}"
+  },
+  {
+   "id": "26:d074",
+   "op": "text",
+   "en": "And then, at some point, a strange smell started hanging around that restroom.\nNot the ammonia smell you get in restrooms, but something more rotten, more burnt.\nYou'd think it was the smell of fish corpses left lying around, right?\nBut he disposed of the fish corpses properly, so that wasn't the cause.\nAnd the girls' restroom and the boys' restroom both had the same smell.\nSo bad that an ordinary person couldn't even step inside anymore.\nBecause of all that, fewer and fewer people used that restroom.\nThe teachers heard the rumors and checked it several times, but they found nothing that could be causing the smell.{p}"
+  },
+  {
+   "id": "26:d288",
+   "op": "text",
+   "en": "He loved that foul smell.\nBecause he felt like it made his heart even crueler...\nAnd his torture of the fish went on as always.\nAt first he was satisfied with just small fish, but gradually he started to want to torment bigger ones.\nAnd then he made up his mind.\nYes, he decided to catch the brocade koi they called the lord of that pond.{p}",
+   "returns": []
+  },
+  {
+   "id": "26:d3ec",
+   "op": "text",
+   "en": "He decided to carry out his plan on the evening of the coming Sunday.\nThe koi was used to people, so catching it was easy.\nBut it was so big that after scooping it into a net and hauling it out, he tied it up with string and carried it over his shoulder.\nAnd he took it to that restroom.{p}"
+  },
+  {
+   "id": "26:d4f4",
+   "op": "text",
+   "en": "Flopping around inside the restroom, the koi looked to him as if it were begging, \"Please torment me.\"{p}How do you think he tormented the koi?\n"
+  },
+  {
+   "id": "26:d570",
+   "op": "choice",
+   "en": "Punishment: strip its scales and salt it"
+  },
+  {
+   "id": "26:d58c",
+   "op": "choice",
+   "en": "Punishment: slice it up alive as sashimi"
+  },
+  {
+   "id": "26:d5a8",
+   "op": "text",
+   "en": "\"Ooh, there, there.\nYou want me to torment you that badly?\"\nHe said it with a smirk.\nThen he pinned the koi down with his foot and peeled off its scales one by one.\nEach time, the koi gave a short twist of its body.\nEach time, he felt the height of bliss.\n\"Does it hurt?\nI bet it hurts.\nWell then, how about this?\"{p}",
+   "follows_choice": [
+    "26:d570"
+   ]
+  },
+  {
+   "id": "26:d6ec",
+   "op": "text",
+   "en": "In the dim evening, his whispering voice drifted softly out of the restroom.\nHe had lit a candle in there.\nThen, once he'd finished peeling off every last scale, he dripped candle wax onto the barely breathing koi.{p}"
+  },
+  {
+   "id": "26:d7c0",
+   "op": "text",
+   "en": "Writhing from the heat of the wax, the koi flopped so hard it fell into the toilet bowl.\n\"Well, isn't that just perfect?\nHere you go, here you go...\"\nHe took a handful of salt from a bag and sprinkled it over the koi.{p}"
+  },
+  {
+   "id": "26:d870",
+   "op": "text",
+   "en": "Stripped of its scales and doused with salt on top of that, the koi thrashed wildly.\nIt splashed toilet water all over him.\n\"What the hell☆\nThat's filthy.\nTime for your punishment☆\"\nHe turned the bag of salt in his hand upside down and dumped all of it on the koi.{p}"
+  },
+  {
+   "id": "26:d954",
+   "op": "text",
+   "en": "\"Squeeeee...\"\nwent the koi, as if screaming, and then it stopped moving.{p}"
+  },
+  {
+   "id": "26:d9a0",
+   "op": "text",
+   "en": "\"You don't wanna make me mad, see.\nAhahahaha.\"\nHe laughed.{p}"
+  },
+  {
+   "id": "26:d9e8",
+   "op": "text",
+   "en": "Then he chopped the koi into small pieces with a knife and flushed them down the toilet along with the scales.{p}"
+  },
+  {
+   "id": "26:da3c",
+   "op": "text",
+   "en": "With a gurgling sound, the scraps of koi flesh washed away...\nHe left the restroom, very satisfied.{p}"
+  },
+  {
+   "id": "26:dab8",
+   "op": "text",
+   "en": "The next morning, he went to school as usual.\nAnd, maybe because it bothered him a little, he went to check on that restroom.\nIt would be trouble if any of the koi's remains were left behind, after all.{p}"
+  },
+  {
+   "id": "26:db5c",
+   "op": "text",
+   "en": "Inside the restroom, there was only that strange smell; nothing in particular had changed.\nThen he suddenly noticed a single scale stuck to his hand.{p}"
+  },
+  {
+   "id": "26:dbe4",
+   "op": "text",
+   "en": "Wondering if there might still be scales lying around the restroom, he washed his hands at the sink.{p}"
+  },
+  {
+   "id": "26:dc3c",
+   "op": "text",
+   "en": "And guess what? Those scales came gushing out of the faucet, mixed in with the water.\nHe yanked his hands back, but it was too late.\nHis hands were caked with scales.\nHe tried brushing them off, he tried shaking his hands, but the scales wouldn't come off.\nThen, without thinking, he glanced at the mirror over the sink.{p}"
+  },
+  {
+   "id": "26:dd60",
+   "op": "text",
+   "en": "\"Aaaaaaagh!\"\nHe screamed.\nBecause his whole face was covered in scales, packed tight.\nThe very same scales he'd torn off that koi the day before...\nAnd on the side of his neck, a fish's gills were flapping open and shut.\nBy then, he couldn't make a sound anymore.\nAll you could hear was the wheezing whistle of gills breathing.\nAnd webbing had grown between his fingers...{p}",
+   "returns": []
+  },
+  {
+   "id": "26:dec8",
+   "op": "text",
+   "en": "Later, they say he was found hanged in that restroom.\nAnd when they found him, he looked just like he used to, no scales, no gills...\nWas he just seeing things...?\nEver since then, they say scales still turn up on the floor of that restroom every now and then.\nFeeling sick?{p}Don't want to hear any more?\n"
+  },
+  {
+   "id": "26:dfe0",
+   "op": "choice",
+   "en": "I don't want to hear it"
+  },
+  {
+   "id": "26:dff0",
+   "op": "choice",
+   "en": "Tell me the rest"
+  },
+  {
+   "id": "26:e010",
+   "op": "text",
+   "en": "You don't want to hear it?\nI see. It's pretty gross, after all.\nIf you don't want to hear it, that's fine by me.\nI'll just tell you this much: you'd better not go near that restroom.\nWhatever happens, I'm not taking any responsibility, okay?\nThat's the end of my story.{p}",
+   "follows_choice": [
+    "26:dfe0"
+   ]
+  },
+  {
+   "id": "26:e108",
+   "op": "text",
+   "en": "I really wanted to tell you more, though...\nOh well. If the seventh one doesn't show up, the next story is the last.{p}"
+  },
+  {
+   "id": "26:e164",
+   "op": "text",
+   "en": "Huh, so you don't like them.{p}",
+   "follows_choice": [
+    "26:c9f0"
+   ]
+  },
+  {
+   "id": "26:e184",
+   "op": "text",
+   "en": "What? But you like eating fish?\nOh, okay, I get it.\nYou don't like them as pets, but you like them as food.\nYou're a practical one, aren't you, {a}{f:|}?{p}"
+  },
+  {
+   "id": "26:e230",
+   "op": "text",
+   "en": "\"Aww, there, there.\nYou want me to torment you that badly?\"\nHe said it with a grin.\nThen he pinned the koi down with his foot and peeled off its scales one by one.{p}",
+   "follows_choice": [
+    "26:d58c"
+   ]
+  },
+  {
+   "id": "26:e2dc",
+   "op": "text",
+   "en": "Before long he got sick of that, so he scraped all the scales off at once with a knife.\nThe scales came away clean, with a crackling sound.\nThen he plunged the knife into the koi's belly, now scraped clean of scales.{p}"
+  },
+  {
+   "id": "26:e3b4",
+   "op": "text",
+   "en": "\"Squeeeeeee!\"\nThe koi let out a sound like a scream.\nOf course he couldn't carve up a koi as neatly as a real chef.\nBy the time he'd pulled out its guts and cut into its back, the koi had stopped moving.\nThat was when he learned something for the first time.\nWhen a koi gets that big, it bleeds red blood, just like a human...{p}"
+  },
+  {
+   "id": "26:e4e0",
+   "op": "text",
+   "en": "And he was disappointed.\nThe koi had died so quickly...\n\"And here I was just getting started☆\"{p}"
+  },
+  {
+   "id": "26:e560",
+   "op": "text",
+   "en": "In a rage, he hacked the koi in front of him to shreds.{p}"
+  },
+  {
+   "id": "26:e5b0",
+   "op": "text",
+   "en": "Then he flushed the chunks of koi flesh down the toilet.\nHe'd thought it would give him more fun than that... A little let down, he left the restroom.{p}"
+  },
+  {
+   "id": "26:e63c",
+   "op": "text",
+   "en": "You want to know what happens next, huh?\nAll right, I'll tell you.\nAfter what happened, nobody used that restroom anymore.\nThere was no point leaving a restroom nobody used just sitting there, so they decided to tear it down.\nBut when they called in contractors to demolish it... bad things happened.\nEveryone involved in the work, they say, was tormented by nightmares.\nIn the dream, scales and gills and webbing grew all over their bodies.\nOne night would've been bad enough, but it went on for days.\nAnd it happened to every single person involved.\nThey all got scared to sleep, and on top of that, none of them could eat fish anymore.\nSo the work was called off.{p}",
+   "follows_choice": [
+    "26:dff0"
+   ]
+  },
+  {
+   "id": "26:e89c",
+   "op": "text",
+   "en": "I said scales still turn up in that restroom now and then, right?\nIf you ever see one, don't touch it, whatever you do.\nApparently your skin swells up like scales wherever it touches.\n...And so, that's the end of my story.\nStill, the seventh one sure is late.\nI wonder what happened.\nI hope nothing bad's happened.\nWell then, shall we hear the next story?{p}"
+  },
+  {
+   "id": "26:e9d4",
+   "op": "text",
+   "en": "Oops, too bad.\nActually, it was a tanuki.\nWell, to people like us, a tanuki and a fox are pretty much the same thing, right?\nAnyway, about why that restroom stopped being used.{p}",
+   "follows_choice": [
+    "26:1d04"
+   ]
+  },
+  {
+   "id": "26:ea8c",
+   "op": "text",
+   "en": "A long time ago, there was a tanuki at this school.\nNot that anybody kept it in the animal hutch or anything.\nThis school's right in the middle of the city, but somehow a tanuki wandered in.\nSo everyone thought it was a rare sight, and they made a fuss over it.\nEvery day, around lunch break, it would come out into the back courtyard to get fed.\nI mean, animals are cute, right?\nEveryone was happy to share their lunches with it.\nBut after a while, they got bored of it.\nNobody paid it any attention anymore.{p}"
+  },
+  {
+   "id": "26:ec30",
+   "op": "text",
+   "en": "But there was one.\nOne student who kept taking care of it.\nUnfortunately I don't know his name, but he was a boy.\nHe fed it every single day.\nHe even gave it a name.\nI don't know what the name was, so let's just call it Ponkichi.\nPonkichi got really attached to him, too.\nBut if a teacher found out, he'd be in trouble, right?\nOur school's especially strict about animals like that.\nThey say they bring fleas and lice and stuff.\nSo he thought it over.\nIf it kept coming out every day somewhere this visible, a teacher was bound to find it sooner or later.{p}"
+  },
+  {
+   "id": "26:ee50",
+   "op": "text",
+   "en": "So he decided to hide it in the restroom next to the gym.\nThe teachers hardly ever used that one.\nThere was almost no chance of it being found.{p}"
+  },
+  {
+   "id": "26:eeec",
+   "op": "text",
+   "en": "He built a nest box inside one of the stalls in the boys' restroom and had Ponkichi live there.\n\"Sorry, it smells a little, but please put up with it.\nAnd I'm going to put a lid on so you don't wander off. You can put up with that, right?\"\nWith that, he stretched netting over a cardboard box, rigging it so Ponkichi couldn't sneak out and roam around during class.{p}"
+  },
+  {
+   "id": "26:f020",
+   "op": "text",
+   "en": "That day, too, he wolfed down his lunch early, took the leftovers, and hurried off to Ponkichi.{p}"
+  },
+  {
+   "id": "26:f090",
+   "op": "text",
+   "en": "\"Sorry I'm late. You must be hungry, huh?\"\nHe said it as he walked into the restroom, and then the shock was so great that he dropped his lunch box.{p}"
+  },
+  {
+   "id": "26:f10c",
+   "op": "text",
+   "en": "What do you think happened?{p}"
+  },
+  {
+   "id": "26:f14c",
+   "op": "text",
+   "en": "Believe it or not, Ponkichi was dead.\nTo be precise, Ponkichi had been killed.\nHere's how it started.\nIt was during classes that morning.\nA certain student was skipping class and loafing around near that restroom.\nHe heard an animal crying from somewhere, and, curious, he searched inside the restroom.{p}"
+  },
+  {
+   "id": "26:f280",
+   "op": "text",
+   "en": "He found Ponkichi right away.\n\"What the hell is this thing...\"\nHe wasn't especially interested in tanuki, but he took it out of the box anyway, just because.\nPonkichi thrashed and tried to get away.\nNot about to let go of his new toy, he held on to Ponkichi tight.\nThen Ponkichi bit down on his finger with a 'chomp!'{p}"
+  },
+  {
+   "id": "26:f3b8",
+   "op": "text",
+   "en": "\"Ow! You little bastard!\"{p}"
+  },
+  {
+   "id": "26:f3e4",
+   "op": "text",
+   "en": "He slammed Ponkichi onto the floor.\nSlipping out of his hands, Ponkichi tried to run.\n\"Get back here, you little bastard!\"\nHe hurried and grabbed Ponkichi.\n\"Don't think you're getting away.\"\nHe gripped Ponkichi firmly and hugged it to his chest, careful not to get bitten again.{p}"
+  },
+  {
+   "id": "26:f500",
+   "op": "text",
+   "en": "\"All right, you're gonna be my toy.\nI'm gonna kill some time with you, nice and slow.\nBrace yourself.\"\nWith that, the guy started tormenting Ponkichi.{p}What do you think he did to Ponkichi?\n"
+  },
+  {
+   "id": "26:f5b8",
+   "op": "choice",
+   "en": "Water torture"
+  },
+  {
+   "id": "26:f5c4",
+   "op": "choice",
+   "en": "Burning at the stake"
+  },
+  {
+   "id": "26:f5d4",
+   "op": "choice",
+   "en": "Torn limb from limb"
+  },
+  {
+   "id": "26:f5e4",
+   "op": "choice",
+   "en": "Paraded through town, crucified, then the head put on display"
+  },
+  {
+   "id": "26:f610",
+   "op": "text",
+   "en": "\"All right, I sentence you to be torn limb from limb.\"\nWith that, he tied Ponkichi to a pillar so it couldn't escape and started tormenting it.\n\"First, we split your legs.\"\nThe guy grabbed Ponkichi's hind legs and yanked them apart as hard as he could.\nThe hip joints shattered, and the legs dangled limply.\n\"Heh heh heh heh heh. What a sweet sound...\nNow the front legs.\"\nWith that, he grabbed Ponkichi's front legs this time and yanked them apart the same way.\n\"Hee hee hee hee hee.\nThe way it shakes right through my hands, I love it...\"\nWhat a horrible guy, huh?\nI bet his face looked just like a demon's right then.{p}",
+   "follows_choice": [
+    "26:f5d4"
+   ]
+  },
+  {
+   "id": "26:f81c",
+   "op": "text",
+   "en": "With its leg joints shattered, Ponkichi couldn't run away. It couldn't even writhe.\n\"Now, what should I do with you next?\nI want to feel more bones crunch...\nIf I wring your neck, though, you'd die for sure...\"{p}"
+  },
+  {
+   "id": "26:f90c",
+   "op": "text",
+   "en": "The way he saw it, the fun was in tormenting a tanuki while it was still alive.\nHe had no intention of killing it quickly.\nHe went and got one of the concrete blocks stacked outside and brought it down as hard as he could on the hind legs hanging slack and limp.\n\"Hmm, that's not much fun.\nNowhere near as good as how it felt before...\"\nIts hind legs crushed, Ponkichi wept tears from the unbearable pain, twitching in spasms.{p}"
+  },
+  {
+   "id": "26:fa94",
+   "op": "text",
+   "en": "\"Huh, so tanuki cry too...\nThat's funny.\nI'm gonna make you cry some more.\"\nHe tried this and that, and finally found a method that worked.\nTearing out Ponkichi's fur.\nWhen he grabbed a tuft and ripped it out as hard as he could, tears streamed from Ponkichi's eyes.\nHe kept at it until there was no fur left on Ponkichi's back.\n\"Man, I'm starting to get bored.\nIf I leave it like this, it'll probably die anyway...\"\nSaying that, he grabbed Ponkichi by the neck and wrung it as hard as he could.\n\"Heh heh heh... That feels good...\"\nAt last, Ponkichi stopped moving altogether.\nThen he tossed Ponkichi into the cardboard box and walked out, just like that.{p}"
+  },
+  {
+   "id": "26:fcf4",
+   "op": "text",
+   "en": "Afterward, the boy who'd been taking care of Ponkichi found it.\nHe was heartbroken.\n\"Who would do something so cruel...\"\nWanting at least to give it a grave, he made one beside that restroom and buried it there.{p}"
+  },
+  {
+   "id": "26:fdb8",
+   "op": "text",
+   "en": "Then a few days went by.\nAll that time, he never once missed visiting the grave.{p}"
+  },
+  {
+   "id": "26:fe24",
+   "op": "text",
+   "en": "That day after school, too, he went over to the restroom to visit the grave.\nAnd there was someone wrecking the grave.\nFurious, he ran right up to the guy.\n\"What are you doing?!\"\nHe confronted him, his face bright red.\nBut the guy got angry instead and punched him.\nAnd then he said,\n\"I'm the one who killed the tanuki.\"\nJust like that.\nWhen he heard that, he went at the guy with his fists.\nBut he was no match for him at all.{p}"
+  },
+  {
+   "id": "26:ffd8",
+   "op": "text",
+   "en": "Instead, he got beaten to a pulp and dragged into the restroom.\nThe guy must have figured he'd beat him all he liked, where no one could see.\nAnd he kept on beating him.\nSo much that the whole restroom ended up covered in blood.{p}"
+  },
+  {
+   "id": "26:100d8",
+   "op": "text",
+   "en": "\"Tch. So I killed a tanuki or two. So what?\nYou got no business lecturing me about it.\"\nWith that, the guy walked out.{p}"
+  },
+  {
+   "id": "26:10180",
+   "op": "text",
+   "en": "After that, he stayed home from school for several days until the swelling went down.\nWhen he went back, everyone was talking about one particular boy.\nApparently that student had fallen off a station platform on his way home from school and been run over by a train.\nThey say his body was torn into pieces, and it was really gruesome.{p}"
+  },
+  {
+   "id": "26:102a4",
+   "op": "text",
+   "en": "And, as it turned out later, that student was apparently the one who'd killed Ponkichi.\nScary, huh?\nBy coincidence, he ended up dying the same way Ponkichi did.\nBut to me, it doesn't seem like a coincidence at all.\nI think there's something more to it.\nWhat do you think, {a}{f:|}?{p}"
+  },
+  {
+   "id": "26:103b4",
+   "op": "text",
+   "en": "So, about the restroom next to the gym.\nApparently, it's haunted.\nBy the ghost of that guy who got torn to pieces.\nThat ghost goes,\n\"It's your fault I ended up like this,\"\nmuttering it over and over, they say.\nEveryone wondered why it would haunt a place like that.\nBut either way, it was haunted all the same, so everyone got creeped out and stopped using that restroom.{p}"
+  },
+  {
+   "id": "26:10528",
+   "op": "text",
+   "en": "Actually, there's more to this story. Do you want to hear it?\n"
+  },
+  {
+   "id": "26:10568",
+   "op": "choice",
+   "en": "No, that's enough"
+  },
+  {
+   "id": "26:10578",
+   "op": "choice",
+   "en": "Please tell me more"
+  },
+  {
+   "id": "26:1058c",
+   "op": "text",
+   "en": "All right.\nThen I'll tell you the rest.{p}",
+   "follows_choice": [
+    "26:10578"
+   ]
+  },
+  {
+   "id": "26:105c8",
+   "op": "text",
+   "en": "The boy who'd been taking care of Ponkichi, see, he figured something out.\nThat it must have been Ponkichi getting revenge.\nIt made him feel a whole lot better.\nAfter that, the days went by without anything happening.{p}"
+  },
+  {
+   "id": "26:10680",
+   "op": "text",
+   "en": "Then one day, he went to visit Ponkichi's grave for the first time in a while.\nAnd he heard a voice calling him from inside the restroom.\nWondering what it was, he went into the restroom.{p}"
+  },
+  {
+   "id": "26:10738",
+   "op": "text",
+   "en": "\"Is someone there?\"\nBut there was no one in the restroom.\n(That's weird.)\nThe moment he thought that...{p}"
+  },
+  {
+   "id": "26:107bc",
+   "op": "text",
+   "en": "It showed up.\nHe couldn't believe it.\nThe guy who'd killed Ponkichi was standing beside a stall door.\n\"It's your fault I'm dead.\nYour fault... your fault...\"\nSaying that, the ghost lunged at him.{p}"
+  },
+  {
+   "id": "26:108ac",
+   "op": "text",
+   "en": "\"Waaaaah!\"\nHe ran all over the restroom trying to get away.\nHe wanted to get out of the restroom, but the ghost cut him off at the doorway, so he couldn't escape.{p}"
+  },
+  {
+   "id": "26:10960",
+   "op": "text",
+   "en": "And at last, he was cornered inside a stall.\n\"Help! Somebody, heeeelp!\"\nNo matter how much he screamed, there was no sign of anyone coming.\n(It's over...)\nIt was right as he thought that{p}"
+  },
+  {
+   "id": "26:10a2c",
+   "op": "text",
+   "en": "that he saw Ponkichi appear behind him...\n\"P-Ponkichi...\"\n(You came to save me!)\nThinking that, he felt relieved.\nBut that was a huge mistake.{p}"
+  },
+  {
+   "id": "26:10acc",
+   "op": "text",
+   "en": "Sure, thanks to Ponkichi, the ghost went away.\nI bet that ghost took one look at Ponkichi and ran off.{p}"
+  },
+  {
+   "id": "26:10b48",
+   "op": "text",
+   "en": "But Ponkichi didn't leave it at that.\nOnce the ghost was gone, Ponkichi went for him next.\nOr maybe 'possessed him' is the right way to put it?{p}"
+  },
+  {
+   "id": "26:10bf8",
+   "op": "text",
+   "en": "After that, he started acting strangely.\nNot so you'd notice if you just glanced at him, though.\nIn fact, even his friends in class didn't notice at first.\nWhat was he doing, you ask?\nWell, every lunch break, he'd disappear.\nWithout even eating his lunch.\nEvery break, he'd take his lunch box and go off somewhere.{p}"
+  },
+  {
+   "id": "26:10d64",
+   "op": "text",
+   "en": "And when he came back, his lunch box was completely empty.\nHis classmates just assumed he was eating his lunch somewhere.\nBut during the next class, his stomach was always growling.\nAs if he hadn't eaten a thing.{p}"
+  },
+  {
+   "id": "26:10e60",
+   "op": "text",
+   "en": "At first, everyone made fun of him.\nStill hungry after eating your lunch? they said.\nBut as the days went by, he got thinner and thinner, wasting away.\nA friend who was worried about him followed him to see where he went at lunch break.{p}"
+  },
+  {
+   "id": "26:10f48",
+   "op": "text",
+   "en": "And it turned out he was going to the hill behind the old school building.\nHe went to a certain spot, and instead of eating his lunch, he was throwing it away.\nThe friend went up to talk to him, meaning to ask why he was doing that.\nAnd the friend was shocked.\nHis face had changed.\nThat's right, it looked like a tanuki's face.\nThe friend warned him.\nDon't throw your lunch away. Eat it, or you'll die.\nBut he wouldn't listen.\nHe said these guys needed to eat more than he did.\nThe friend didn't get what he meant.\nWho were 'these guys'?\nBut on a closer look, near where he'd been throwing his lunch, there were what looked like the corpses of baby tanuki.\nHe'd been bringing food to the baby tanuki.{p}"
+  },
+  {
+   "id": "26:111d8",
+   "op": "text",
+   "en": "And finally, he died.\nOf malnutrition.\nApparently he hadn't been eating anything at home, either.\nAfter that, they say the friend died the same way too.{p}"
+  },
+  {
+   "id": "26:11280",
+   "op": "text",
+   "en": "After that, anyone who went into that restroom died the same way.\nSo a rumor started.\nThat if you go into that restroom, something will possess you.\nThere had already been rumors that the restroom was haunted, so nobody used it anymore.{p}"
+  },
+  {
+   "id": "26:11374",
+   "op": "text",
+   "en": "Ponkichi must have been coming to the school looking for food.\nAnd yet it got shut in by the boy.\nSo Ponkichi's babies couldn't get food, and they starved to death.\nEven so, Ponkichi must have possessed him, desperate to bring them food.\nI bet it still hasn't realized its babies are dead.\nKind of sad, isn't it?{p}"
+  },
+  {
+   "id": "26:114d0",
+   "op": "text",
+   "en": "That's what happened in that restroom.\nHow do I know all this, you ask?\nThat's easy.\nMost students at this school probably know about it.\nAs a rumor, anyway.\nYou're still a first-year, {a}{f:|}, so it's no wonder you didn't know.\nI can't say whether the story's true or not.\nActually, I think some parts have been exaggerated...\nWhether you believe it or not is up to you.\nWell, that's the end of my story.\nFinally, there's only one left.\nI wonder if the other person's ever going to show up.\nDoesn't look like it, huh?\nLet's hurry up and finish, and go home.\nI'm starving...{p}"
+  },
+  {
+   "id": "26:11710",
+   "op": "text",
+   "en": "\"All right, I sentence you to water torture.\"{p}",
+   "follows_choice": [
+    "26:f5b8"
+   ]
+  },
+  {
+   "id": "26:11744",
+   "op": "text",
+   "en": "With that, the guy tied up all four of Ponkichi's legs so it couldn't move.{p}"
+  },
+  {
+   "id": "26:11798",
+   "op": "text",
+   "en": "Then he grabbed Ponkichi by the tail and headed for the sinks.{p}"
+  },
+  {
+   "id": "26:117ec",
+   "op": "text",
+   "en": "He filled one with water and shoved Ponkichi's face into it.\nIn agony, Ponkichi lifted its head to breathe, just like doing a sit-up.\nBut it couldn't hold its head up for long, and its head would drop back into the water.\nWatching that, the guy was delighted.\n\"Come on, come on, if it hurts, keep that head up.\nHee hee hee hee hee...\"\nEvery time its head went under, it swallowed water and its body got heavier.\nOn top of that, it was coughing as it struggled, so Ponkichi soon wore out and couldn't lift its head anymore.{p}"
+  },
+  {
+   "id": "26:119fc",
+   "op": "text",
+   "en": "\"What, hey, done already?\nOh well, my arms are getting tired anyway...\"\nWhen he lifted Ponkichi up, it threw up all the water it had gulped down.{p}"
+  },
+  {
+   "id": "26:11a98",
+   "op": "text",
+   "en": "\"Whoa! Gross!\nIf you're gonna puke, puke in the toilet.\"\nWith that, he took Ponkichi over to a toilet.{p}"
+  },
+  {
+   "id": "26:11b28",
+   "op": "text",
+   "en": "\"Here, puke.\"\nHe shook Ponkichi up and down.\n\"Ghk... ghk...\"\nPonkichi threw up every bit of the water it had swallowed.\nNo matter how much he shook it, all that came out now was drool.\n\"Okay, you puked, so now I gotta flush.\"{p}"
+  },
+  {
+   "id": "26:11bfc",
+   "op": "text",
+   "en": "The guy put Ponkichi in the toilet bowl and flushed.{p}"
+  }
+ ]
+}

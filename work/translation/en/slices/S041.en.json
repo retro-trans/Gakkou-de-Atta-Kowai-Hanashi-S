@@ -1,0 +1,244 @@
+{
+ "slice": "S041",
+ "scene": "09",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S040",
+ "next": "S042",
+ "rows": [
+  {
+   "id": "09:08ac",
+   "op": "text"
+  },
+  {
+   "id": "09:0978",
+   "op": "choice"
+  },
+  {
+   "id": "09:0980",
+   "op": "choice"
+  },
+  {
+   "id": "09:098c",
+   "op": "choice"
+  },
+  {
+   "id": "09:09b0",
+   "op": "text",
+   "follows_choice": [
+    "09:0978"
+   ]
+  },
+  {
+   "id": "09:0a4c",
+   "op": "text"
+  },
+  {
+   "id": "09:0b20",
+   "op": "text"
+  },
+  {
+   "id": "09:0c48",
+   "op": "text"
+  },
+  {
+   "id": "09:0d24",
+   "op": "text"
+  },
+  {
+   "id": "09:0fb8",
+   "op": "text"
+  },
+  {
+   "id": "09:11bc",
+   "op": "text"
+  },
+  {
+   "id": "09:14bc",
+   "op": "text"
+  },
+  {
+   "id": "09:15bc",
+   "op": "choice"
+  },
+  {
+   "id": "09:15cc",
+   "op": "choice"
+  },
+  {
+   "id": "09:15dc",
+   "op": "choice"
+  },
+  {
+   "id": "09:1600",
+   "op": "text",
+   "follows_choice": [
+    "09:15bc"
+   ]
+  },
+  {
+   "id": "09:1658",
+   "op": "text"
+  },
+  {
+   "id": "09:1718",
+   "op": "text"
+  },
+  {
+   "id": "09:18fc",
+   "op": "text"
+  },
+  {
+   "id": "09:1b38",
+   "op": "text"
+  },
+  {
+   "id": "09:1b70",
+   "op": "text"
+  },
+  {
+   "id": "09:1d28",
+   "op": "text"
+  },
+  {
+   "id": "09:1d90",
+   "op": "text"
+  },
+  {
+   "id": "09:1e9c",
+   "op": "choice"
+  },
+  {
+   "id": "09:1eac",
+   "op": "choice"
+  },
+  {
+   "id": "09:1ec8",
+   "op": "choice"
+  },
+  {
+   "id": "09:1ef4",
+   "op": "text",
+   "follows_choice": [
+    "09:1ec8"
+   ]
+  },
+  {
+   "id": "09:20c0",
+   "op": "choice"
+  },
+  {
+   "id": "09:20d0",
+   "op": "choice"
+  },
+  {
+   "id": "09:20ec",
+   "op": "text",
+   "follows_choice": [
+    "09:20c0"
+   ]
+  },
+  {
+   "id": "09:2188",
+   "op": "text"
+  },
+  {
+   "id": "09:229c",
+   "op": "text"
+  },
+  {
+   "id": "09:233c",
+   "op": "text"
+  },
+  {
+   "id": "09:23e4",
+   "op": "text"
+  },
+  {
+   "id": "09:2474",
+   "op": "text"
+  },
+  {
+   "id": "09:2598",
+   "op": "text"
+  },
+  {
+   "id": "09:26d0",
+   "op": "text"
+  },
+  {
+   "id": "09:2754",
+   "op": "text"
+  },
+  {
+   "id": "09:2824",
+   "op": "text"
+  },
+  {
+   "id": "09:2a38",
+   "op": "text"
+  },
+  {
+   "id": "09:2aa0",
+   "op": "text"
+  },
+  {
+   "id": "09:2bf8",
+   "op": "text"
+  },
+  {
+   "id": "09:2cac",
+   "op": "choice"
+  },
+  {
+   "id": "09:2cc0",
+   "op": "choice"
+  },
+  {
+   "id": "09:2cd4",
+   "op": "choice"
+  },
+  {
+   "id": "09:2d04",
+   "op": "text",
+   "follows_choice": [
+    "09:2cc0"
+   ]
+  },
+  {
+   "id": "09:3008",
+   "op": "text"
+  },
+  {
+   "id": "09:3060",
+   "op": "text"
+  },
+  {
+   "id": "09:30d8",
+   "op": "text"
+  },
+  {
+   "id": "09:30f8",
+   "op": "text"
+  },
+  {
+   "id": "09:3210",
+   "op": "text"
+  },
+  {
+   "id": "09:33a4",
+   "op": "text"
+  },
+  {
+   "id": "09:33b8",
+   "op": "text"
+  },
+  {
+   "id": "09:33cc",
+   "op": "text"
+  },
+  {
+   "id": "09:341c",
+   "op": "text"
+  }
+ ]
+}

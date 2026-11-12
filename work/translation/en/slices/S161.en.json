@@ -1,0 +1,322 @@
+{
+ "slice": "S161",
+ "scene": "41",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S160",
+ "next": "S162",
+ "rows": [
+  {
+   "id": "41:138a8",
+   "op": "text"
+  },
+  {
+   "id": "41:13974",
+   "op": "text"
+  },
+  {
+   "id": "41:13a44",
+   "op": "text"
+  },
+  {
+   "id": "41:13c38",
+   "op": "text"
+  },
+  {
+   "id": "41:13fb8",
+   "op": "text"
+  },
+  {
+   "id": "41:14114",
+   "op": "text"
+  },
+  {
+   "id": "41:14324",
+   "op": "text"
+  },
+  {
+   "id": "41:143cc",
+   "op": "text",
+   "follows_choice": [
+    "41:12298"
+   ]
+  },
+  {
+   "id": "41:144d8",
+   "op": "text"
+  },
+  {
+   "id": "41:145b0",
+   "op": "text",
+   "follows_choice": [
+    "41:1824"
+   ]
+  },
+  {
+   "id": "41:14658",
+   "op": "choice"
+  },
+  {
+   "id": "41:14664",
+   "op": "choice"
+  },
+  {
+   "id": "41:1466c",
+   "op": "text",
+   "follows_choice": [
+    "41:14658"
+   ]
+  },
+  {
+   "id": "41:14744",
+   "op": "text",
+   "follows_choice": [
+    "41:14664"
+   ]
+  },
+  {
+   "id": "41:14788",
+   "op": "text"
+  },
+  {
+   "id": "41:147f8",
+   "op": "text"
+  },
+  {
+   "id": "41:14894",
+   "op": "text",
+   "follows_choice": [
+    "41:2848"
+   ]
+  },
+  {
+   "id": "41:148dc",
+   "op": "text",
+   "follows_choice": [
+    "41:2850"
+   ]
+  },
+  {
+   "id": "41:1492c",
+   "op": "text",
+   "follows_choice": [
+    "41:42a0"
+   ]
+  },
+  {
+   "id": "41:14b2c",
+   "op": "text"
+  },
+  {
+   "id": "41:14be4",
+   "op": "text"
+  },
+  {
+   "id": "41:14d04",
+   "op": "text"
+  },
+  {
+   "id": "41:14eac",
+   "op": "text"
+  },
+  {
+   "id": "41:14f90",
+   "op": "text"
+  },
+  {
+   "id": "41:15114",
+   "op": "text"
+  },
+  {
+   "id": "41:1520c",
+   "op": "text"
+  },
+  {
+   "id": "41:15250",
+   "op": "text"
+  },
+  {
+   "id": "41:1554c",
+   "op": "text"
+  },
+  {
+   "id": "41:156c4",
+   "op": "text",
+   "follows_choice": [
+    "41:42bc"
+   ]
+  },
+  {
+   "id": "41:15740",
+   "op": "text"
+  },
+  {
+   "id": "41:15788",
+   "op": "text"
+  },
+  {
+   "id": "41:157f4",
+   "op": "text"
+  },
+  {
+   "id": "41:15964",
+   "op": "text",
+   "follows_choice": [
+    "41:4f58"
+   ]
+  },
+  {
+   "id": "41:159d8",
+   "op": "text"
+  },
+  {
+   "id": "41:15bec",
+   "op": "text"
+  },
+  {
+   "id": "41:15d5c",
+   "op": "text"
+  },
+  {
+   "id": "41:15ecc",
+   "op": "text"
+  },
+  {
+   "id": "41:15fbc",
+   "op": "text"
+  },
+  {
+   "id": "41:16158",
+   "op": "text",
+   "follows_choice": [
+    "41:4f70"
+   ]
+  },
+  {
+   "id": "41:16298",
+   "op": "text"
+  },
+  {
+   "id": "41:162d8",
+   "op": "text",
+   "follows_choice": [
+    "41:5490"
+   ]
+  },
+  {
+   "id": "41:16334",
+   "op": "text"
+  },
+  {
+   "id": "41:16398",
+   "op": "text"
+  },
+  {
+   "id": "41:16400",
+   "op": "text"
+  },
+  {
+   "id": "41:16568",
+   "op": "text"
+  },
+  {
+   "id": "41:166a0",
+   "op": "text"
+  },
+  {
+   "id": "41:167a4",
+   "op": "text"
+  },
+  {
+   "id": "41:1692c",
+   "op": "text"
+  },
+  {
+   "id": "41:16994",
+   "op": "text",
+   "follows_choice": [
+    "41:5498"
+   ]
+  },
+  {
+   "id": "41:169bc",
+   "op": "text"
+  },
+  {
+   "id": "41:169dc",
+   "op": "text"
+  },
+  {
+   "id": "41:16a10",
+   "op": "text"
+  },
+  {
+   "id": "41:16b6c",
+   "op": "choice"
+  },
+  {
+   "id": "41:16b7c",
+   "op": "choice"
+  },
+  {
+   "id": "41:16b9c",
+   "op": "text",
+   "follows_choice": [
+    "41:16b6c"
+   ]
+  },
+  {
+   "id": "41:16bec",
+   "op": "text"
+  },
+  {
+   "id": "41:16c78",
+   "op": "text"
+  },
+  {
+   "id": "41:16dc0",
+   "op": "text"
+  },
+  {
+   "id": "41:16e38",
+   "op": "text"
+  },
+  {
+   "id": "41:16eb8",
+   "op": "text"
+  },
+  {
+   "id": "41:16f24",
+   "op": "text"
+  },
+  {
+   "id": "41:16fd0",
+   "op": "text"
+  },
+  {
+   "id": "41:17028",
+   "op": "text"
+  },
+  {
+   "id": "41:17374",
+   "op": "text",
+   "follows_choice": [
+    "41:16b7c"
+   ]
+  },
+  {
+   "id": "41:1740c",
+   "op": "text"
+  },
+  {
+   "id": "41:175b0",
+   "op": "text"
+  },
+  {
+   "id": "41:176e0",
+   "op": "text",
+   "follows_choice": [
+    "41:54a4"
+   ]
+  }
+ ]
+}

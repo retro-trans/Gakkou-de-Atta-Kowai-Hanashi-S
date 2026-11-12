@@ -1,0 +1,351 @@
+{
+ "slice": "S226",
+ "scene": "63",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S225",
+ "next": "S227",
+ "todo": [],
+ "rows": [
+  {
+   "id": "63:5484",
+   "op": "text",
+   "en": "As she said this, Iwashita stared at me, her eyes glittering with an ugly light.{p}"
+  },
+  {
+   "id": "63:54d8",
+   "op": "text",
+   "en": "\"Heh heh heh...\nDon't be shy.\nI'll let you meet him.\"{p}"
+  },
+  {
+   "id": "63:5528",
+   "op": "text",
+   "en": "Before I knew it, her hand was gripping a box cutter.\n"
+  },
+  {
+   "id": "63:5568",
+   "op": "text",
+   "en": "Click-click-click...\nWith a grating sound, the silver blade slid out.\n...I have to run!\nI knew it, but I only grew more frantic, and my body wouldn't obey me.\nMy hands and my feet were frozen in place, stuck in the pose of sitting in my chair.\n...Why?\nAll I did was want a sweetheart. Why is this happening to me?\nIwashita gently laid a hand on my shoulder...\nand whispered in a kind voice.{p}"
+  },
+  {
+   "id": "63:56e0",
+   "op": "text",
+   "en": "\"It's all right.\nIt'll be over in a moment...\nYou'll be with Mr. Kawaguchi very soon.\nIt only hurts for an instant.\"\nAs her lukewarm breath brushed over me, a sweet scent drifted up...\n...the scent of a flower the color of blood.\n\"This is how I got to meet him, too.\nI'm so glad I've made a friend...\"{p}"
+  },
+  {
+   "id": "63:57e4",
+   "op": "text",
+   "en": "With that, Iwashita raised the box cutter high.{p}"
+  },
+  {
+   "id": "63:5824",
+   "op": "text",
+   "en": "Her throat split wide open, and bright red blood came gushing out of it.\n...Ah, a bright red flower.\nA flower of bright red blood is blooming...\n"
+  },
+  {
+   "id": "63:58a8",
+   "op": "text",
+   "en": "I felt heat along the side of my neck.\nBut that, too, lasted only an instant.{p}"
+  },
+  {
+   "id": "63:58ec",
+   "op": "text",
+   "en": "Because the next moment, a spray of bright red blood was bursting from my neck too...\n<Red...\nThe bright red color of blood...!\nThe color of the flowers I always wanted...☆>\nAs my consciousness slipped away...{p}"
+  },
+  {
+   "id": "63:59a4",
+   "op": "text",
+   "en": "The last thing I heard was the shrill, convulsive laughter of a man whose voice I didn't recognize...........{p}"
+  },
+  {
+   "id": "63:5a08",
+   "op": "text",
+   "follows_choice": [
+    "63:4110"
+   ],
+   "en": "All right.\nYou want to go out with Sumiyoshi.\nHe's such a pure-hearted, innocent boy.\nI think you and he would make a perfect couple, {a}.\nLet's see...\nIf there's any obstacle, it's just one thing...\nThe fact that he's a ghost, I suppose.\nYou see, he died in an accident right after the entrance ceremony.\nThe first time I met him...\nSumiyoshi was standing at the school gate, peering inside the whole time.\nI'd like to go in...\nBut would I get in trouble...?\n...That was the feeling he gave off.\nSo I called out to him.\n\"Why not just walk right in?\"\n...like that.{p}"
+  },
+  {
+   "id": "63:5bec",
+   "op": "text",
+   "en": "Oh, the happy look on his face at that moment...!\nWithout even wiping away the blood running down him, he dashed straight into the school building and vanished.\nDying without ever once setting foot in a classroom must have left him with terrible regret.{p}"
+  },
+  {
+   "id": "63:5cb0",
+   "op": "text",
+   "follows_choice": [
+    "63:0fd8"
+   ],
+   "en": "You seem unsure.\nMaybe you don't need a sweetheart just yet, {a}.\nHeh heh heh...\nThere's no need to worry.\nYou'll find someone wonderful soon enough.\nSomeone who will love you more than anyone else in this world.{p}"
+  },
+  {
+   "id": "63:5d88",
+   "op": "text",
+   "follows_choice": [
+    "63:1050"
+   ],
+   "en": "Heh heh, so that's how it is.\nRight now you're in love with someone who doesn't know it yet.\nTell me, {a}...\nThe person you like must be someone wonderful.{p}If you don't mind... won't you tell me that person's name?\n"
+  },
+  {
+   "id": "63:5e40",
+   "op": "choice",
+   "en": "Actually..."
+  },
+  {
+   "id": "63:5e50",
+   "op": "choice",
+   "en": "...It's a secret"
+  },
+  {
+   "id": "63:5e78",
+   "op": "text",
+   "follows_choice": [
+    "63:5e40"
+   ],
+   "en": "\"Actually...\"\n...Should I just say it?{p}"
+  },
+  {
+   "id": "63:5ebc",
+   "op": "text",
+   "en": "\"Actually...?\"\nIwashita was gazing at me with a smile.\n\"Actually, the one I like is...\n"
+  },
+  {
+   "id": "63:5f28",
+   "op": "text",
+   "en": "you, Iwashita!\"{p}"
+  },
+  {
+   "id": "63:5f58",
+   "op": "text",
+   "en": "...Oh. Everyone was staring at me, their mouths hanging open.\n'What a weird girl...'\nThat's what they seemed to be saying.\nHow mean. That was a sincere confession of love...\n.................................... Nobody said a single word.\nIwashita just stared at me, without any expression.\n...Is she appalled after all?\nThe moment that thought crossed my mind...{p}"
+  },
+  {
+   "id": "63:60d8",
+   "op": "text",
+   "en": "Iwashita broke into a bright smile.\n\"Tell me, {a}...\nDo you really mean that?{p}Can I... believe what you just said?\"\n"
+  },
+  {
+   "id": "63:6158",
+   "op": "choice",
+   "en": "I'm serious"
+  },
+  {
+   "id": "63:6164",
+   "op": "choice",
+   "en": "Actually... I was joking"
+  },
+  {
+   "id": "63:6178",
+   "op": "text",
+   "follows_choice": [
+    "63:6158"
+   ],
+   "en": "\"Yes, of course I'm serious.\nPlease believe me.\"\nI said it firmly.\nBecause I really do love her.\nTo think someone so attractive and wonderful had been at this school all along...\nToday was the first time... I'd only just met her a little while ago, and yet my heart wouldn't stop pounding.\nI'd meant to pour that feverish feeling into those few words, but...{p}"
+  },
+  {
+   "id": "63:62b0",
+   "op": "text",
+   "en": "\"...I see.\"\nIwashita lowered her eyes.\nAnd then...\n\"...I'm sorry.\nI can't return your feelings.\"\nShe murmured it briefly, in a small voice.\n...It looked like my feelings hadn't reached her after all.{p}"
+  },
+  {
+   "id": "63:6380",
+   "op": "text",
+   "en": "\"But don't get the wrong idea.\nIt isn't because I dislike you, {a}.\nThere's a deep reason behind this...\nI'll tell you about it.\"\nIwashita took one deep breath, then began to speak, haltingly.{p}"
+  },
+  {
+   "id": "63:644c",
+   "op": "text",
+   "follows_choice": [
+    "63:6164"
+   ],
+   "en": "\"I'm sorry.\nActually... I was joking.\"\nI apologized in a small voice.{p}"
+  },
+  {
+   "id": "63:64a4",
+   "op": "text",
+   "en": "Iwashita sat perfectly still, barely breathing.\n...Is she angry?\nI did say something weird...\nI like Iwashita, but that feeling is on a completely different level from romance.\n\"I see...\"\nIwashita murmured briefly, then let out a sigh.\nAnd then...{p}"
+  },
+  {
+   "id": "63:6598",
+   "op": "text",
+   "en": "\"And here I got my hopes up for nothing.\nI'd taken a liking to you too, {a}...\"\n...Oh no, she really is angry.\nShe's kind of scary...\n\"...But I think it's better for you this way.\nBecause people who get close to me end up unhappy.{p}"
+  },
+  {
+   "id": "63:6684",
+   "op": "text",
+   "en": "Heh heh heh...\nYou probably can't believe it, hearing something like this so suddenly...\nYes, let me tell you the story.\"\nWith a meaningful smile, Iwashita began to speak, haltingly.{p}"
+  },
+  {
+   "id": "63:6748",
+   "op": "text",
+   "follows_choice": [
+    "63:5e50"
+   ],
+   "en": "\"...It's a secret.\"\nTurning bright red, that was the best answer I could manage.\nThe name of the person I like is top secret.\nIf I let it slip in a place like this, they'd tease me to no end.\n\"Oh my, {b}, you've gone all red!\"\n\"Isn't that cute?\nSuch a natural reaction...\"\nHearing them talk like that only made my face burn hotter.{p}"
+  },
+  {
+   "id": "63:68a8",
+   "op": "text",
+   "en": "Seeing me like that, Iwashita giggled.\n\"My, {a}...\nThere's no need to be shy.\nHeh heh heh heh...\nI hope your feelings come true.\nI hope that person becomes the best sweetheart you could ever have...\"{p}"
+  },
+  {
+   "id": "63:699c",
+   "op": "text",
+   "en": "That was when strange things began to happen around me.\nBecause Yuya had come back to me...{p}"
+  },
+  {
+   "id": "63:6a00",
+   "op": "text",
+   "en": "A boy who bumped into me in the hallway was sent flying five meters and slammed into the wall.\nAnd our shoulders had barely even brushed.\nThe art club member who painted my portrait broke an arm...\nThe boy who lent me a book fell down the stairs and broke a bone.\nOne eerie accident after another kept happening around me.\nBefore long, nobody would come near me.\nI was worn out, too, somehow...\nLittle by little, I came to live in fear of the voices and visions I saw and heard.\nI'd grown terribly afraid of meeting people...{p}"
+  },
+  {
+   "id": "63:6bd4",
+   "op": "text",
+   "en": "...But even so, someone appeared who was kind to me.\nA boy in my year...\nWhat was his name again...?\nHe said he liked me...\nThat he was serious, so I should believe him...\nHe said it with an earnest face, too.\nIt was the first time anyone had said something like that to me since Yuya died.\nI was happy...\nYuya would understand about this one.\nSurely he would forgive me...\nThat's what I thought.\n...But that was just my own selfish assumption.{p}"
+  },
+  {
+   "id": "63:6d90",
+   "op": "text",
+   "en": "That boy who said he liked me... he died, all of a sudden.\nOn the train tracks, in the middle of the night...\n...They wrote it off as suicide, but I just can't accept that.{p}"
+  },
+  {
+   "id": "63:6e50",
+   "op": "text",
+   "en": "I mean, think about it.\nThere's no way he would die and leave me behind, when he loved me more than anyone.\nHe died because of me.\nYuya kept his promise and came back even after death, and then I had a change of heart, so Yuya got angry.\nThe accidents that had kept happening until then were all Yuya's doing, too.{p}"
+  },
+  {
+   "id": "63:6f60",
+   "op": "text",
+   "en": "Yuya is always at my side, watching me intently.\n...Yes.\nEven now, at this very moment...☆{p}"
+  },
+  {
+   "id": "63:6fc4",
+   "op": "text",
+   "en": "With that, Iwashita suddenly stood up.{p}"
+  },
+  {
+   "id": "63:7014",
+   "op": "text",
+   "en": "\"{a}...\nYou said just now that you love me, didn't you?\nYuya is furious with you.\nHe says he won't forgive you, even if you are a girl...\"\nWith a sorrowful smile, Iwashita walked toward me.\nThen she suddenly thrust out both arms and seized me by the neck.\n\"Stop!\"\n\"What are you doing★\"\nThe startled members rushed in to stop her.\nBut even with three boys trying to hold her down, they were no match for her strength.\n\"I... Iwashi...ta...?\"\nSuch incredible strength...\n...This is no woman's strength!\n\"I'm sorry.\n...There's nothing I can do.\"\nWith tears welling in her eyes, Iwashita tightened her arms around my throat.\n\"But let me say just one thing.\nFor telling someone like me that you love me.................................... thank you.\"\nA single tear fell from Iwashita's eyes and wet my face.{p}"
+  },
+  {
+   "id": "63:7318",
+   "op": "text",
+   "en": "As my vision blurred, I saw a huge black shadow writhing behind Iwashita.{p}"
+  },
+  {
+   "id": "63:7378",
+   "op": "text",
+   "en": "<Ha ha ha...\nThis is what happens to anyone who lays a hand on my precious fiancée>\nThe shadow was laughing, its bright red mouth gaping open...{p}"
+  },
+  {
+   "id": "63:73f0",
+   "op": "text",
+   "follows_choice": [
+    "63:1888"
+   ],
+   "en": "...I see. So you're a weak person.\nThat's no good.\nYou have to become stronger...\nOtherwise, you'll end up like me.\nI used to be a weak person too...{p}"
+  },
+  {
+   "id": "63:748c",
+   "op": "text",
+   "follows_choice": [
+    "63:2218"
+   ],
+   "en": "You can't believe it, you say?\nNo, you have to believe me!{p}"
+  },
+  {
+   "id": "63:74cc",
+   "op": "text",
+   "en": "Listen.\nIf you don't want something horrible to happen to you, you'd better heed people's warnings.\nYou believe my story.\n...Understand?\nNow, nod for me.......... That's good.{p}"
+  },
+  {
+   "id": "63:7574",
+   "op": "text",
+   "en": "Spirits, you see, hate having their existence denied.\nMore than anyone, they want people to notice that they exist.\nYuya is the same.\nNormally he wouldn't do anything to harm people, but...\nIf you deny his existence in a single word, calling him a 'dream' or an 'illusion,' he gets terribly angry.{p}"
+  },
+  {
+   "id": "63:767c",
+   "op": "text",
+   "en": "Heh heh heh...\nOh, {a}, you still look like you can't believe it.\nBut it's all right, isn't it?\nAfter all, you nodded just now to say you believe me.{p}"
+  },
+  {
+   "id": "63:770c",
+   "op": "text",
+   "follows_choice": [
+    "63:2918"
+   ],
+   "en": "\"Um...\nWould someone please take a look for me...?\"\n\"All right, I'll go.\"\nWith that, a boy sitting by the window stood up.\nThe boy opened the window and peered down, and...{p}"
+  },
+  {
+   "id": "63:77b8",
+   "op": "text",
+   "en": "\"Someone's down there!\"\nHe let out an especially loud shout.\n\"What★\"\nEveryone jumped up at once and rushed to the window.{p}"
+  },
+  {
+   "id": "63:7834",
+   "op": "text",
+   "en": "\"It's true...☆\"\nRight below the window, a boy lay face down.\nHis unnaturally twisted arms and legs stood out pale white in the darkness.\n\"Oh no!\nSomebody jumped!\"\nPeople quickly gathered around the boy.\nWe'd probably hear an ambulance siren any minute now...\nAs I was thinking that...\n\"It's my fault...\"\nThe one who murmured that, staring down from the window, was Iwashita.\nIn her eyes, deep sorrow was mixed with a cold light.\n\"Now, everyone, take your seats.\nI'll go on with my story...\"{p}"
+  },
+  {
+   "id": "63:7a2c",
+   "op": "text",
+   "en": "Urged on by Iwashita's words, we left the window and went back to our seats.{p}"
+  },
+  {
+   "id": "63:7a90",
+   "op": "text",
+   "en": "\"Everyone who gets close to me meets with misfortune.\"\nIwashita began to speak, haltingly.{p}"
+  },
+  {
+   "id": "63:7ae8",
+   "op": "text",
+   "en": "...The one lying down there was Yoshino, without a doubt.\nHe once gave me a love letter.\nYes, of course I turned him down.\n'I already have a sweetheart'... I told him.\nThat was during lunch break today.\nBut Yoshino just wouldn't give up.\n\"Liar!\nThere's no way you have a sweetheart☆\"\n...he insisted...\nAnd then...\nI felt as though something swayed behind me.\nAh, Yuya is angry...\nThat's what I thought.\nSo I pushed Yoshino away, coldly.\n\"I hate your guts!\"\n...like that.\nI thought that way I could keep him from coming to harm.\nAfter all, everyone who gets close to me, everyone who does me harm, meets with some ill-omened accident.\nI thought that if I treated him coldly, Yuya's anger would subside.\n...But it seems I was naive.\nYoshino is dead.\nWas it because of Yuya's anger...?\nOr was it suicide, from the shock of being rejected...?\nSo now there's one more unfortunate person around me.{p}"
+  },
+  {
+   "id": "63:7e60",
+   "op": "text",
+   "en": "Heh heh heh...\n{a}...\nYou may be in danger too, you know.\nBecause anyone who gets involved with me ends up in danger.{p}"
+  },
+  {
+   "id": "63:7ee0",
+   "op": "text",
+   "en": "And now someone has finally died...\nSo please, I'm begging you, don't make Yuya angry.\nThe beloved one who stands behind me...{p}"
+  },
+  {
+   "id": "63:7f5c",
+   "op": "text",
+   "en": "Be careful.\nTry not to make me angry, or cause me trouble...\nI do hope you all stay alive until the seventh story is over.\nWell then, that's the end of my story...\n...Whose turn is next?{p}"
+  },
+  {
+   "id": "63:8018",
+   "op": "text",
+   "follows_choice": [
+    "63:31f0"
+   ],
+   "en": "Heh heh heh...\n...Thank you.\nYou should have a love like this too, {a}.\nHe binds me only because he loves me that much...{p}"
+  },
+  {
+   "id": "63:80ac",
+   "op": "text",
+   "follows_choice": [
+    "63:3214"
+   ],
+   "en": "My, how can you say such a thing!\n{a}...\nAre you making fun of true love?\n"
+  },
+  {
+   "id": "63:8114",
+   "op": "text",
+   "en": "Listen, spirit rapping.\nYuya is angry.\nHe's watching everything from behind me, you know...{p}"
+  },
+  {
+   "id": "63:8194",
+   "op": "text",
+   "en": "Heh heh, he's very angry indeed.\nYou'd better be careful, {a}...\nYou're... in danger.\nDon't blame me if something horrible happens to you.\nAnyway, my story ends here.\nHeh heh heh...\nI hope you make it safely to the very last story.\nNow, let's hurry on to the next one.........{p}"
+  },
+  {
+   "id": "63:829c",
+   "op": "text",
+   "en": "That was exactly three years ago today...{p}"
+  }
+ ]
+}

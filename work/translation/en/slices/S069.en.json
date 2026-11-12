@@ -1,0 +1,327 @@
+{
+ "slice": "S069",
+ "scene": "17",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S068",
+ "next": "S070",
+ "rows": [
+  {
+   "id": "17:1564",
+   "op": "text"
+  },
+  {
+   "id": "17:1620",
+   "op": "text"
+  },
+  {
+   "id": "17:17fc",
+   "op": "text"
+  },
+  {
+   "id": "17:18dc",
+   "op": "text"
+  },
+  {
+   "id": "17:19cc",
+   "op": "text"
+  },
+  {
+   "id": "17:1ad8",
+   "op": "text"
+  },
+  {
+   "id": "17:1bb8",
+   "op": "text"
+  },
+  {
+   "id": "17:1c00",
+   "op": "choice"
+  },
+  {
+   "id": "17:1c08",
+   "op": "choice"
+  },
+  {
+   "id": "17:1c14",
+   "op": "choice"
+  },
+  {
+   "id": "17:1c30",
+   "op": "text",
+   "follows_choice": [
+    "17:1c00"
+   ]
+  },
+  {
+   "id": "17:1cd8",
+   "op": "choice"
+  },
+  {
+   "id": "17:1ce4",
+   "op": "choice"
+  },
+  {
+   "id": "17:1cf4",
+   "op": "choice"
+  },
+  {
+   "id": "17:1d04",
+   "op": "text",
+   "follows_choice": [
+    "17:1cd8"
+   ]
+  },
+  {
+   "id": "17:1dcc",
+   "op": "text"
+  },
+  {
+   "id": "17:1e74",
+   "op": "choice"
+  },
+  {
+   "id": "17:1e80",
+   "op": "choice"
+  },
+  {
+   "id": "17:1e94",
+   "op": "text",
+   "follows_choice": [
+    "17:1e74"
+   ]
+  },
+  {
+   "id": "17:1ec8",
+   "op": "text"
+  },
+  {
+   "id": "17:2064",
+   "op": "text"
+  },
+  {
+   "id": "17:209c",
+   "op": "choice"
+  },
+  {
+   "id": "17:20ac",
+   "op": "choice"
+  },
+  {
+   "id": "17:20c0",
+   "op": "choice"
+  },
+  {
+   "id": "17:20ec",
+   "op": "text",
+   "follows_choice": [
+    "17:209c"
+   ]
+  },
+  {
+   "id": "17:2160",
+   "op": "text"
+  },
+  {
+   "id": "17:21b0",
+   "op": "text"
+  },
+  {
+   "id": "17:220c",
+   "op": "text"
+  },
+  {
+   "id": "17:225c",
+   "op": "text"
+  },
+  {
+   "id": "17:22e0",
+   "op": "text"
+  },
+  {
+   "id": "17:2324",
+   "op": "choice"
+  },
+  {
+   "id": "17:2330",
+   "op": "choice"
+  },
+  {
+   "id": "17:233c",
+   "op": "choice"
+  },
+  {
+   "id": "17:2348",
+   "op": "choice"
+  },
+  {
+   "id": "17:2360",
+   "op": "text",
+   "follows_choice": [
+    "17:2324",
+    "17:27f8",
+    "17:ab40",
+    "17:ab74"
+   ]
+  },
+  {
+   "id": "17:242c",
+   "op": "choice"
+  },
+  {
+   "id": "17:2434",
+   "op": "choice"
+  },
+  {
+   "id": "17:243c",
+   "op": "text",
+   "follows_choice": [
+    "17:242c"
+   ]
+  },
+  {
+   "id": "17:2490",
+   "op": "choice"
+  },
+  {
+   "id": "17:24a0",
+   "op": "choice"
+  },
+  {
+   "id": "17:24b4",
+   "op": "text",
+   "follows_choice": [
+    "17:2490"
+   ]
+  },
+  {
+   "id": "17:2570",
+   "op": "text"
+  },
+  {
+   "id": "17:2650",
+   "op": "text"
+  },
+  {
+   "id": "17:2784",
+   "op": "text"
+  },
+  {
+   "id": "17:27d4",
+   "op": "text"
+  },
+  {
+   "id": "17:27f8",
+   "op": "choice"
+  },
+  {
+   "id": "17:2804",
+   "op": "choice"
+  },
+  {
+   "id": "17:2810",
+   "op": "choice"
+  },
+  {
+   "id": "17:281c",
+   "op": "choice"
+  },
+  {
+   "id": "17:282c",
+   "op": "choice"
+  },
+  {
+   "id": "17:284c",
+   "op": "text",
+   "follows_choice": [
+    "17:282c",
+    "17:aba8"
+   ]
+  },
+  {
+   "id": "17:28c0",
+   "op": "text"
+  },
+  {
+   "id": "17:296c",
+   "op": "text"
+  },
+  {
+   "id": "17:29d8",
+   "op": "text"
+  },
+  {
+   "id": "17:2bec",
+   "op": "text",
+   "follows_choice": [
+    "17:1c08"
+   ]
+  },
+  {
+   "id": "17:2ca0",
+   "op": "text"
+  },
+  {
+   "id": "17:2d3c",
+   "op": "text",
+   "follows_choice": [
+    "17:1c14"
+   ]
+  },
+  {
+   "id": "17:2e80",
+   "op": "text",
+   "follows_choice": [
+    "17:1ce4"
+   ]
+  },
+  {
+   "id": "17:2fb4",
+   "op": "choice"
+  },
+  {
+   "id": "17:2fbc",
+   "op": "choice"
+  },
+  {
+   "id": "17:2fd0",
+   "op": "text",
+   "follows_choice": [
+    "17:2fb4"
+   ]
+  },
+  {
+   "id": "17:3118",
+   "op": "text"
+  },
+  {
+   "id": "17:3398",
+   "op": "text",
+   "follows_choice": [
+    "17:1cf4"
+   ]
+  },
+  {
+   "id": "17:3434",
+   "op": "text",
+   "follows_choice": [
+    "17:2fbc"
+   ]
+  },
+  {
+   "id": "17:34b0",
+   "op": "text"
+  },
+  {
+   "id": "17:3578",
+   "op": "text"
+  },
+  {
+   "id": "17:365c",
+   "op": "text"
+  },
+  {
+   "id": "17:3868",
+   "op": "text"
+  }
+ ]
+}

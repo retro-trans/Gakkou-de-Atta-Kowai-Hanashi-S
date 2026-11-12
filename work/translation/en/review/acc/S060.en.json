@@ -1,0 +1,433 @@
+{
+ "slice": "S060",
+ "scene": "14",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S059",
+ "next": "S061",
+ "todo": [
+  "- S167/S168/S169 (and S060/S118): {a}{b} rewritten as \"{b} {a}\" (Western order). Check name rendering and width reservation in the emulator."
+ ],
+ "rows": [
+  {
+   "id": "14:5218",
+   "op": "text",
+   "follows_choice": [
+    "14:51b0"
+   ],
+   "en": "I decided to go see Iwashita.\nBut after that whole business yesterday, she had gone home partway through, and somehow I felt awkward about going to her.\nStill, I had to confirm that Arai existed.\nI tracked down Iwashita's classroom and peeked inside.{p}"
+  },
+  {
+   "id": "14:5328",
+   "op": "text",
+   "en": "There was no sign of Iwashita.\nI asked a girl who was standing near the doorway.\n\"...Um, is Iwashita here?\"\n\"Oh.\nAkemi? She's absent today.\nDo you need something?\"\n\"Ah, no.\nSorry to bother you.\"{p}"
+  },
+  {
+   "id": "14:5404",
+   "op": "text",
+   "en": "...Just as I thought.\nNot surprisingly, Iwashita had stayed home from school.\nI'd better try someone else.{p}"
+  },
+  {
+   "id": "14:5464",
+   "op": "text",
+   "en": "{f:I|I} decided to go see Iwashita.{p}"
+  },
+  {
+   "id": "14:54c4",
+   "op": "text",
+   "en": "I found her classroom and peeked in. Iwashita was leaning on a desk with her hands, lost in some vague thought.\n\"Iwashita!\"\nWhen {f:I|I} called out, Iwashita slowly turned around.\nThen, wearing that chilling, eerie smile of hers, she beckoned {f:me|me} over.{p}"
+  },
+  {
+   "id": "14:55c4",
+   "op": "text",
+   "en": "{f:I|I} stood beside her and spoke in a low whisper.\n\"...Um, it's about Arai.\"\n\"The doll story?\"\nIf Iwashita was bringing up the doll story, then {f:it really|it really} hadn't been my dream.\n{f:Iwashita|Iwashita, too,} had heard Arai's story{f:.|!}\n\"No, more than that... I just asked Hino about it a moment ago.\nApparently he never invited anyone called Arai.\nWorse, he says he doesn't even know anyone like that.\"\n{f:I|I} was hoping for some reaction from Iwashita, {f:but|but} she was perfectly calm and not the least bit surprised.{p}"
+  },
+  {
+   "id": "14:57d4",
+   "op": "text",
+   "en": "\"Oh, is that so? Well, what does it matter?\n"
+  },
+  {
+   "id": "14:580c",
+   "op": "text",
+   "en": "After all, I've been seeing dolls this whole time.\"{p}"
+  },
+  {
+   "id": "14:5834",
+   "op": "text",
+   "en": "\"Huh★\"\n\"This world is full of dolls.\nEveryone but me is a doll.\nYou're a doll too.\n...Look, there's a doll behind you as well.\"{p}"
+  },
+  {
+   "id": "14:58d0",
+   "op": "text",
+   "en": "{f:I|I} whirled around, startled.\nThe memory of my walk home yesterday had come flooding back{f:.|.}\nThere was no one behind {f:me|me}.{p}"
+  },
+  {
+   "id": "14:5968",
+   "op": "text",
+   "en": "Relieved, I turned back to Iwashita. She was smiling like a little devil.{p}"
+  },
+  {
+   "id": "14:59c0",
+   "op": "text",
+   "en": "I couldn't tell how much of what she said was serious.{p}"
+  },
+  {
+   "id": "14:59f0",
+   "op": "text",
+   "follows_choice": [
+    "14:51d8"
+   ],
+   "en": "{f:I|I} decided to look for Kazama.{p}"
+  },
+  {
+   "id": "14:5a20",
+   "op": "text",
+   "en": "Kazama had vanished partway through, after finishing his story.\nSuddenly, like smoke.\nI couldn't believe he had really disappeared for good, so I headed for Kazama's classroom.{p}"
+  },
+  {
+   "id": "14:5adc",
+   "op": "text",
+   "en": "I looked, but he wasn't there.\nI was sure this was the place, but...{p}"
+  },
+  {
+   "id": "14:5b28",
+   "op": "text",
+   "en": "\"Boo!\"\nSuddenly, two hands covered my eyes from behind.\n\"I am the devil's messenger.\"\nThe words were whispered right in my ear.\n\"Kazama!\nQuit fooling around.\"\nI shook off the hands and turned around.{p}"
+  },
+  {
+   "id": "14:5bfc",
+   "op": "text",
+   "en": "\"Aaah!\"\nThere stood a giant cockroach...\nYeah, right. There's no way something like that exists.\nI pulled off the tasteless mask shaped like a giant cockroach.{p}"
+  },
+  {
+   "id": "14:5cac",
+   "op": "text",
+   "en": "Kazama's smirking face emerged from inside the cockroach.\n\"Ahaha... You're as boring as ever, you know.\nAt this rate, you'll never be a hit with the girls like I am.\nAnd here I was, going to teach you how to get girls.\"\nTalking with this guy always throws me off.\n\"Don't tell me you're mad that I left partway through?\nCome on, nobody likes a guy who can't take a joke.\"\nSo he really had just gone home early.\nPeople don't just suddenly vanish.\n\"I know.\nAs a special favor, I'll teach you a gag that'll make the girls love you.\nRight now it's a special bargain, just five thousand yen.\nSo, how about one?\"{p}"
+  },
+  {
+   "id": "14:5edc",
+   "op": "text",
+   "en": "\"That's enough, thanks.\"{p}"
+  },
+  {
+   "id": "14:5f00",
+   "op": "text",
+   "en": "I ran out of the classroom without listening to Kazama.{p}"
+  },
+  {
+   "id": "14:5f38",
+   "op": "text",
+   "en": "{f:I|I} headed for Kazama's classroom.{p}"
+  },
+  {
+   "id": "14:5f84",
+   "op": "text",
+   "en": "I looked, but he wasn't there.\nI was sure this was the place, but...{p}"
+  },
+  {
+   "id": "14:5fd0",
+   "op": "text",
+   "en": "\"Boo!\"\nSuddenly, two hands covered my eyes from behind.\n\"I am the devil's messenger.\"\nThe words were whispered right in my ear.\n\"Kazama!\nQuit fooling around.\"\n{f:I|I} shook off the hands and turned around.{p}"
+  },
+  {
+   "id": "14:60ac",
+   "op": "text",
+   "en": "\"Aaah!\"\nThere stood a giant cockroach...\nYeah, right. There's no way something like that exists{f:.|.}\n{f:I|I} pulled off the tasteless mask shaped like a giant cockroach.{p}"
+  },
+  {
+   "id": "14:6170",
+   "op": "text",
+   "en": "Kazama's smirking face emerged from inside the cockroach.\n\"Ahaha... You're as {f:boring|cute} as ever, you know.\n{f:At this rate,|Sorry} {f:you'll never be a hit with the girls like I am.|for scaring you.}\n{f:And here I was,|I know!} {f:going to teach you how to get girls.|To make it up to you, I'll take you somewhere nice next time.}\"\nTalking with this guy always throws me off.{p}"
+  },
+  {
+   "id": "14:62f4",
+   "op": "text",
+   "en": "\"{f:I know.|Okay?}\n{f:As a special favor,|Let's go on a date.} {f:I'll teach you a gag that'll make the girls love you.|I'm sure it'll be fun.}\n{f:Right now|Let's see...} {f:it's a special bargain, just five thousand yen.|How about this Sunday?}\n{f:So,|Of course,} {f:how about one?|you'll say okay, right?}\"{p}"
+  },
+  {
+   "id": "14:6404",
+   "op": "text",
+   "en": "\"That's enough, thanks.\"{p}"
+  },
+  {
+   "id": "14:6428",
+   "op": "text",
+   "en": "{f:I|I} ran out of the classroom without listening to Kazama.{p}"
+  },
+  {
+   "id": "14:6468",
+   "op": "text",
+   "follows_choice": [
+    "14:5198"
+   ],
+   "en": "{f:I|I} decided to look for Fukuzawa.{p}"
+  },
+  {
+   "id": "14:64c0",
+   "op": "text",
+   "en": "When I went to Fukuzawa's classroom, she was happily chatting with a few other girls.\nWhen {f:I|I} waved, she noticed and waved back.\nThen she came trotting over.{p}"
+  },
+  {
+   "id": "14:6588",
+   "op": "text",
+   "en": "\"What's up, {c}{f:|}?\nOh, did you just miss me that much?\"\n\"Never mind that, this is serious{f:.|.}\nYesterday {f:we|we} definitely heard Arai's story{f:, right?|, didn't we?}\"{p}"
+  },
+  {
+   "id": "14:664c",
+   "op": "text",
+   "en": "Fukuzawa looked worried again.\nShe seemed to be connecting this with the way {f:I|I} had acted last night.\n\"...What's wrong? Is your head okay?\"\n\"Just answer {f:me, okay|me}.\n{f:We|We} definitely heard the doll story from Arai{f:, right|, didn't we}?\"{p}"
+  },
+  {
+   "id": "14:6754",
+   "op": "text",
+   "en": "Fukuzawa, perhaps overwhelmed by how intense {f:I|I} was, gave a small nod.{p}"
+  },
+  {
+   "id": "14:67a4",
+   "op": "text",
+   "en": "{f:Just as I thought|So I was right}, Fukuzawa had seen him too{f:.|.}{p}"
+  },
+  {
+   "id": "14:67e4",
+   "op": "text",
+   "follows_choice": [
+    "14:51c8"
+   ],
+   "en": "{f:I|I} decided to go see Shindo.{p}"
+  },
+  {
+   "id": "14:6834",
+   "op": "text",
+   "en": "When I went to Shindo's classroom, no one was there.\nIt {f:seemed|looked like} everyone had already gone home.{p}"
+  },
+  {
+   "id": "14:68ac",
+   "op": "text",
+   "en": "{f:It can't be helped|Oh well, it can't be helped}.\n{f:Guess I'll give up on Shindo|I'll just have to give up on Shindo}.{p}"
+  },
+  {
+   "id": "14:68ec",
+   "op": "text",
+   "follows_choice": [
+    "14:51e8"
+   ],
+   "en": "{f:I|I} decided to look for Hosoda.{p}"
+  },
+  {
+   "id": "14:6944",
+   "op": "text",
+   "en": "When I went to Hosoda's classroom, a few students were still there.\n\"Um, excuse me, is Hosoda here?\"\nWhen {f:I|I} asked no one in particular, they all burst out laughing loudly.{p}"
+  },
+  {
+   "id": "14:69f8",
+   "op": "text",
+   "en": "\"Bwahahahaha... Hosoda?\nHosoda's probably in the john, ain't he?\nThat guy's always hangin' out in the john.\nGo look in the toilets!\n"
+  },
+  {
+   "id": "14:6a84",
+   "op": "text",
+   "en": "Bwahahahaha...\"{p}"
+  },
+  {
+   "id": "14:6a9c",
+   "op": "text",
+   "en": "{f:Huh|Whaaat}?\nDoes Hosoda really like toilets that much{f:?|?}\n{f:Oh well|Oh well}.\n{f:Guess I'll check the toilets|I'll try looking in the toilets}.{p}"
+  },
+  {
+   "id": "14:6b30",
+   "op": "text",
+   "en": "\"Whoa!\"\nJust as I turned to leave the classroom, {f:I|I} slammed into Hosoda's huge body.\nHosoda was wiping his hands on a handkerchief, beaming.\nApparently he had just finished his business in the toilet.{p}"
+  },
+  {
+   "id": "14:6c0c",
+   "op": "text",
+   "en": "...Hold on, wait a {f:sec|second}.\nThat's right{f:.|.} When I got home yesterday, for some reason I got a phone call from Hosoda{f:.|.}\nI was wondering what it was about when he suddenly started talking about Takeuchi.\nYes, the story of Takeuchi, who never goes to the toilet.\nSaying he wanted me to be the only one to hear this, he started telling me something strange{f:.|.}\nThat the story he told everyone was actually a lie.\nThat there's no such person as Takeuchi.{p}"
+  },
+  {
+   "id": "14:6d98",
+   "op": "text",
+   "en": "{f:Apparently Hosoda had gotten|Hosoda told me he'd gotten} hold of a drink called Sanbura tea abroad, and he drinks it all the time.\nSanbura tea... a tea that, if you drink it, means you never have to go to the toilet again.\nHe said he'd just told everyone a story he dreamed up while drinking that tea{f:.|.}\nHe also said some nonsense about letting me have a taste of it as a special treat...\nThen why on earth is Hosoda going to the toilet{f:?|?}\nWasn't he supposed to have stopped needing the toilet{f:?|?}\n{f:No|No}... maybe he didn't go there to relieve himself.{p}"
+  },
+  {
+   "id": "14:6fa4",
+   "op": "text",
+   "en": "I hear some people make a daily habit of reading the newspaper on the toilet.\nHosoda must just like the toilet as a place{f:.|.}\nAnd that phone call might have been a joke.\n{f:Whoa|Oh}, I don't have time to think about pointless stuff{f:!|.}\nI have to find out about Arai...{p}"
+  },
+  {
+   "id": "14:70c0",
+   "op": "text",
+   "en": "Hosoda was grinning from ear to ear.{p}"
+  },
+  {
+   "id": "14:70fc",
+   "op": "text",
+   "en": "\"Hey, if it isn't {a}{f:|}!\nI'm so happy! Did you come to see me?\nWe really are best friends!\"\nWith that, he threw his arms around {f:my|my} shoulders.{p}"
+  },
+  {
+   "id": "14:71a4",
+   "op": "text",
+   "en": "\"Uh, um... Hosoda.\nNever mind that, there's something important I need to talk to you about.\nDo you remember Arai's doll story?\"{p}"
+  },
+  {
+   "id": "14:7218",
+   "op": "text",
+   "en": "At that, Hosoda let go of {f:me|me}, and suddenly he looked creeped out.\n\"Please don't bring up that story.\nI'm trying hard to forget it myself.\nStill, that Arai has a nasty streak, doesn't he...\nTelling a story like that and scaring everyone.\"\n\"So you did hear Arai's story!\"\nWhen {f:I|I} pressed him, Hosoda backed away as if startled.{p}"
+  },
+  {
+   "id": "14:737c",
+   "op": "text",
+   "en": "\"What's gotten into you, {a}{f:|}...?\"\n\"Hosoda, did you know Arai from before?\"\n\"...No, I only met him for the first time yesterday.\nWe're in the same year, but I'd never seen Arai before.\nThen again, there are so many students at this school, so I guess it can't be helped.\"{p}"
+  },
+  {
+   "id": "14:7484",
+   "op": "text",
+   "en": "Hosoda tilted his head, puzzled.\n\"Thank you very much.\"{p}"
+  },
+  {
+   "id": "14:74d8",
+   "op": "text",
+   "en": "Saying only that, {f:I|I} left Hosoda's classroom.{p}"
+  },
+  {
+   "id": "14:751c",
+   "op": "text",
+   "follows_choice": [
+    "14:5200"
+   ],
+   "en": "I'd try looking for Kiyose.\nThen I should be able to tell whether what Hino said was just a joke or the truth{f:.|.}\n{f:I|I} headed for Class 3-F, the one Hino had mentioned.{p}"
+  },
+  {
+   "id": "14:7600",
+   "op": "text",
+   "en": "\"Um, is there someone named Kiyose in this class?\"\n\"That's me. Why?\"\nA voice came from the corner of the classroom, and someone walked over.\nSo he was Kiyose{f:?|?}\n\"Who are you?\"\n\"Um, {f:I'm|I'm} {b} {a}, from the newspaper club, and...\"\n\"Sorry!\"\nBefore {f:I|I} could finish introducing myself, he suddenly pressed his palms together and bowed his head deeply.{p}"
+  },
+  {
+   "id": "14:7730",
+   "op": "text",
+   "en": "\"Man, you're Hino's junior, right?\nI'm sorry.\nYesterday I suddenly came down with a fever.\nIt got so bad that I went home early.\nI feel bad about it.\nNext time I'll tell you my very best scary story... What's wrong, spacing out like that?\"\n\"Oh, {f:no|no}, {f:sorry|I'm sorry}.\"\nThis time it was {f:me|me} bowing my head to Kiyose.{p}"
+  },
+  {
+   "id": "14:786c",
+   "op": "text",
+   "en": "...So Kiyose did exist.\nAnd he hadn't come to yesterday's gathering.\n{f:I|I} bowed to Kiyose once more and left Class 3-F.{p}"
+  },
+  {
+   "id": "14:78f4",
+   "op": "text",
+   "en": "From what everyone said, {f:sure enough|just as I thought}, Arai had been there at that time, in that place, and told that doll story{f:.|. That's what it all pointed to.}\nBut Hino hadn't invited Arai.\nThe one Hino invited was Kiyose, who came down with a fever and couldn't make it.\n...What on earth {f:is going on|does this mean}?\nWho is Arai, {f:anyway|I wonder}?\nShould I find out{f:?|?}{p}Or should I just forget about all this{f:?|?}\n"
+  },
+  {
+   "id": "14:7a7c",
+   "op": "choice",
+   "en": "Find out"
+  },
+  {
+   "id": "14:7a88",
+   "op": "choice",
+   "en": "Let's forget it"
+  },
+  {
+   "id": "14:7aac",
+   "op": "text",
+   "follows_choice": [
+    "14:7a7c"
+   ],
+   "en": "Fighting down the chill creeping up my spine, {f:I|I} went around the second-year classrooms one by one.\n{f:After all|Because}, after hearing that story, {f:I|I} had seen something eerie that I couldn't explain{f:.|.}\nIf Arai's story {f:was|was} true, this year's sacrifice might be {f:me|me}.\nWhy had Arai, who wasn't supposed to exist, come to the newspaper club uninvited and told that story{f:?|?}{p}"
+  },
+  {
+   "id": "14:7c50",
+   "op": "text",
+   "en": "{f:I|I} made the rounds of every second-year classroom.\nAnd I learned one fact.\nThere was no one named Shoji Arai among the second-years.\n{f:In that case|Then}, who {f:was he|was he}?\nI'd search again.\nMaybe one of the classrooms had been empty when I checked.\n{f:I|I} must have {f:overlooked him|missed him}.\nWhatever it took, I {f:had to|had to} find out.{p}"
+  },
+  {
+   "id": "14:7db4",
+   "op": "text",
+   "en": "\"{a}!\"\nJust as {f:I|I} was about to go around the second-year classrooms again, a voice behind me called out to stop me.{p}"
+  },
+  {
+   "id": "14:7e38",
+   "op": "text",
+   "en": "\"Shindo!\"\nI turned around, and there stood Shindo.\n\"{f:You came lookin' for Arai to beat the crap outta him, right|You seen Arai around anywhere}?\n{f:Me too.|I'm lookin' for him so I can beat the crap outta him.}\"\n{f:I hadn't exactly planned to beat him up, but|Shindo} {f:I had come looking for him, just like Shindo.|was scary.}\n{f:Somehow,|Besides,} {f:Shindo seemed a little pale.|he seemed a little pale somehow.}{p}"
+  },
+  {
+   "id": "14:7ff8",
+   "op": "text",
+   "en": "Shindo came up to {f:me|me} and muttered with a sigh.\n\"...So, how'd it go?\nDid you find Arai?\"\nShindo too...?\nShindo couldn't find him either{f:?|?}\n{f:I|I} honestly shook my head.\n\"...I see.\nCome over here a sec.\"{p}"
+  },
+  {
+   "id": "14:8110",
+   "op": "text",
+   "en": "Shindo drew {f:me|me} into the shadow of a pillar.\nThen he began to speak in a low voice.\nIt seemed to be something nobody else should overhear.{p}"
+  },
+  {
+   "id": "14:8198",
+   "op": "text",
+   "en": "\"Looks like there's no guy named Shoji Arai in the second year at our school.\"\nShindo's words completely shattered {f:my|my} faint hope.{p}"
+  },
+  {
+   "id": "14:8220",
+   "op": "text",
+   "en": "\"...Yesterday, after all that, it kept bugging me, so I did some digging.\nAnd guess what.\nLooks like that doll story he told is actually true.\nApparently every year, one person always gets sacrificed and dies.\nSo I went looking for Arai to beat the crap outta him for saying that stuff, but he's nowhere to be found.\nThere's no such guy among our students.{p}"
+  },
+  {
+   "id": "14:8364",
+   "op": "text",
+   "en": "...I can't stop thinking about the last thing he said.\nOne of us is gonna be this year's sacrifice.\nAnd the guy who said that doesn't even exist in this world. Doesn't that creep you out?{p}"
+  },
+  {
+   "id": "14:841c",
+   "op": "text",
+   "en": "...Hey, {a}.\nAre you listening to me?\"{p}"
+  },
+  {
+   "id": "14:8458",
+   "op": "text",
+   "en": "...{f:I|I} had bigger things to worry about.\nSomething was visible behind Shindo.\nIt was a doll, no doubt about it.\nA life-sized doll with a brown face was staring at {f:me|me} through the classroom window.\n\"What're you lookin' at, {a}?\"\nBothered by where {f:I|I} was looking, Shindo turned around.\nBut Shindo apparently couldn't see {f:it|it}; he just kept glancing all around.{p}"
+  },
+  {
+   "id": "14:85f0",
+   "op": "text",
+   "en": "\"What's wrong with you, {a}!\"\nBy the time Shindo shook me, the doll was already gone.\n\"...It's nothing.\nHearing your story just made me feel a little sick, that's all.\"\nShindo seemed to believe {f:me|me}{f:.|.}{p}"
+  },
+  {
+   "id": "14:86e8",
+   "op": "text",
+   "en": "\"I see.\nBe careful.\nAnyway, don't believe a word that guy said.\nThere's a ton of students at this school.\nNo way one of us is gonna end up the sacrifice.\"\nIt sounded less like he was saying it to {f:me|me} and more like Shindo was telling it to himself.\nWith that, Shindo clapped {f:me|me} on the shoulder and walked off.{p}"
+  },
+  {
+   "id": "14:8860",
+   "op": "text",
+   "en": "...It started after that.\nThat {f:I|I} began seeing the doll often.\nA life-sized doll with a brown face and big eyes.\nIt was quite different from the one in Arai's story, but he'd said its appearance depends on who sees it, so the doll in front of {f:me|me} right now must be the one{f:.|.}\nFor a while now, the doll has been standing silently in a corner of {f:my|my} room.\nAt first I only saw the doll at school, but now it comes all the way to {f:my|my} house.\nAnd the number of times {f:I|I} saw the doll grew by the day.{p}"
+  },
+  {
+   "id": "14:8a48",
+   "op": "text",
+   "en": "If this goes on, the doll will surely never leave {f:my|my} side for even a moment, and it will haunt {f:me|me} to death{f:.|.}\nWith each new sighting of the doll, I {f:could feel|can feel} {f:myself|myself} losing all will.\nI can't shake the feeling that the doll is draining my life force little by little.\nI miss the days when I tried to fight the doll, even knowing it was futile resistance{f:.|.}\nBut doing that {f:is|is} pointless.\nThe doll can't be touched{f:.|.}\nWhenever {f:I|I} try to touch the doll, it vanishes instantly and reappears somewhere else.{p}"
+  },
+  {
+   "id": "14:8c68",
+   "op": "text",
+   "en": "Expressionless as it was, it seemed to be sneering at {f:me|me}.\nSchool had long since ended, and summer vacation had begun.\nHow much longer can {f:I|I} stay alive{f:?|, I wonder?}\nCursing Hino, wishing I'd never taken on that project, is ancient history now{f:.|.}\nI don't feel like resenting anyone anymore.\n{f:I|I}'d even stopped caring what that being called Arai really was.\nAm {f:I|I} just going to die like this{f:?|?}\nShould I try relying, just a little, on what scraps of willpower I still have left{f:?|?}{p}"
+  },
+  {
+   "id": "14:8e74",
+   "op": "choice",
+   "en": "Quietly wait for death to come"
+  },
+  {
+   "id": "14:8e98",
+   "op": "choice",
+   "en": "Try my best to connect with the doll"
+  },
+  {
+   "id": "14:8ec0",
+   "op": "choice",
+   "en": "Talk to someone about it"
+  },
+  {
+   "id": "14:8ed8",
+   "op": "choice",
+   "en": "Try going to school once more"
+  }
+ ]
+}

@@ -1,0 +1,1023 @@
+{
+ "unit": "R004",
+ "scenes": [
+  "14",
+  "15",
+  "16",
+  "17",
+  "18",
+  "19",
+  "20"
+ ],
+ "todo": [
+  "- [acc review] Scene 14: whose skin has the nerve-like tissue. S064 changed 14:13208 to the doll head's skin; S063 changed 14:12b44 to \"my skin\" to match the old 13208. Pick one reading for both rows (check the source)."
+ ],
+ "rows": [
+  {
+   "id": "14:b79c",
+   "op": "text",
+   "before": "Then, in an instant, he was nothing but skin and bones, and he crumbled.\nHe hit the floor and shattered, and not even a corpse was left, only a heap of sand.\n...The contract is over?\nThe contract with a devil{f:?|?}{p}",
+   "en": "Then, in an instant, he was nothing but skin and bones, and he crumbled.\nHe hit the floor and shattered, and not even a corpse was left, only a heap of sand.\n...The contract is over?\nThe contract with the devil{f:?|?}{p}",
+   "edit_notes": [
+    "14:b79c: EDIT - 'a devil' -> 'the devil', matching the diary and the rest of the scene"
+   ]
+  },
+  {
+   "id": "14:b9cc",
+   "op": "text",
+   "before": "I forcibly twisted my neck around and looked back over my shoulder. The doll with the split head was strangling {f:me|me}.{p}",
+   "en": "I wrenched my neck around and looked back over my shoulder. The doll with the split head was strangling {f:me|me}.{p}",
+   "edit_notes": [
+    "14:b9cc: EDIT - clumsy 'forcibly twisted my neck around' -> 'wrenched my neck around'"
+   ]
+  },
+  {
+   "id": "14:ba3c",
+   "op": "text",
+   "before": "The doll's face looked not unlike Shoji Arai's.\n...{f:My God|Oh my God}.\nIf the contract is over, that means {f:this thing|this} comes back to life{f:!|, doesn't it!}\nBloody froth gurgled from {f:the thing's|the doll's} mouth of crooked teeth, and it cackled, its eyes unfocused.{p}",
+   "en": "The doll's face looked not unlike Shoji Arai's.\n...{f:My God|Oh my God}.\nIf the contract is over, that means {f:this thing|this} comes back to life{f:!|, doesn't it!}\nBloody froth gurgled from {f:the thing's|the doll's} crooked-toothed mouth, and it cackled, its eyes unfocused.{p}",
+   "edit_notes": [
+    "14:ba3c: EDIT - awkward 'mouth of crooked teeth' -> 'crooked-toothed mouth'"
+   ]
+  },
+  {
+   "id": "14:c4a4",
+   "op": "text",
+   "before": "No one would believe {f:my|my} story anyway{f:.|.}\nI'd like to run this as the seventh story in the school paper's special feature{f:, but|, but}... that project stalled after that day, didn't it.{p}",
+   "en": "No one would believe {f:my|my} story anyway{f:.|.}\nI'd like to run this as the seventh story in the school paper's special feature{f:, but|, but}... come to think of it, that project has been stalled ever since that day.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "14:cc6c",
+   "op": "text",
+   "before": "The last of them left, and {f:I|I} checked that everything was locked up.\n{f:I|I} kept replaying Arai's words in my head.\nThat's {f:right|right}, a story like that is a lie{f:.|, isn't it.}\nSomeone here is going to die?\nThere's no way something that stupid could {f:happen...|happen!}{p}",
+   "en": "The last of them left, and {f:I|I} checked that everything was locked up.\n{f:I|I} kept replaying Arai's words in my head.\nThat's {f:right|right}, a story like that is just a lie{f:.|, isn't it.}\nSomeone here is going to die?\nThere's no way something that stupid could {f:happen...|happen!}{p}",
+   "edit_notes": [
+    "14:cc6c: EDIT - flat 'a story like that is a lie' -> 'is just a lie' for the self-reassuring tone"
+   ]
+  },
+  {
+   "id": "14:edfc",
+   "op": "text",
+   "before": "The doll was standing there, looking down at {f:me|me} as I lay on the bed.\nIt was looking at {f:me|me} and laughing.\nThen, glancing back at {f:me|me}, it walked out of the room.\nI see... so now that school will be freed from the doll's curse{f:.|.}\nAfter it offers {f:me|me} up as its last sacrifice...\nFor some reason, the feelings I had already lost came back to me for an instant.{p}",
+   "en": "The doll was standing there, looking down at {f:me|me} as I lay on the bed.\nIt was looking at {f:me|me} and laughing.\nThen, glancing back at {f:me|me}, it walked out of the room.\nI see... so that school will finally be free of the doll's curse{f:.|.}\nAfter it offers {f:me|me} up as its last sacrifice...\nFor some reason, the feelings I had already lost came back to me for an instant.{p}",
+   "edit_notes": [
+    "14:edfc: EDIT - 'so now that school will be freed' read as the conjunction 'now that'; -> 'so that school will finally be free of the doll's curse'"
+   ]
+  },
+  {
+   "id": "14:fc58",
+   "op": "text",
+   "before": "Whatever I do, it's wasted effort{f:.|.}\nHow many people before me had struggled in vain{f:?|?}\nNo, the ones who were chosen probably never even felt the will to try{f:.|.}\nI don't care anymore. Everything can just stay the way it is.{p}",
+   "en": "Whatever I do, it's wasted effort{f:.|.}\nHow many people before me have struggled in vain{f:?|?}\nNo, the ones who were chosen probably never even felt the will to try{f:.|.}\nI don't care anymore. Everything can just stay the way it is.{p}",
+   "edit_notes": [
+    "14:fc58: EDIT - tense of present-tense monologue: 'had struggled' -> 'have struggled'"
+   ]
+  },
+  {
+   "id": "14:103fc",
+   "op": "text",
+   "before": "The principal picked up a framed certificate and was frantically trying to put back the paper stuck to its back.\n({f:What|Why}...?)\nA darkness like black mist came pouring out of the trophies and certificates in the cabinet.\nThe darkness spread until it filled the room.\nWhat on earth was happening{f:?|?}{p}",
+   "en": "The principal picked up a framed certificate and was frantically trying to reattach the paper pasted to its back.\n({f:What|Why}...?)\nA darkness like black mist came pouring out of the trophies and certificates in the cabinet.\nThe darkness spread until it filled the room.\nWhat on earth was happening{f:?|?}{p}",
+   "edit_notes": [
+    "14:103fc: EDIT - contradictory 'put back the paper stuck to its back' -> 'reattach the paper pasted to its back'"
+   ]
+  },
+  {
+   "id": "14:10510",
+   "op": "text",
+   "before": "When the darkness had covered the room, Arai suddenly appeared from its center.\n\"Principal, that's a breach of contract.\nYou understand that, don't you?\"\n\"Th-th-this was an accident!\"\n\"That excuse won't work.\nYou wanted this school's sports teams to do well in tournaments, so you made a contract with {f:me|me}, didn't you?\"\n\"I kept the contract. Every year I offered up one sacrifice.\nThe contract tearing was an accident!\"{p}",
+   "en": "When the darkness had covered the room, Arai suddenly appeared from its center.\n\"Principal, that's a breach of contract.\nYou understand that, don't you?\"\n\"Th-th-this was an accident!\"\n\"That excuse won't work.\nYou wanted this school's sports teams to do well in tournaments, so you made a contract with {f:me|me}, didn't you?\"\n\"I kept the contract. Every year I offered up one sacrifice.\nThis contract getting torn was an accident!\"{p}",
+   "edit_notes": [
+    "14:10510: EDIT - clumsy 'The contract tearing' -> 'This contract getting torn'"
+   ]
+  },
+  {
+   "id": "14:10f38",
+   "op": "text",
+   "before": "{f:I|I} decided to check the desk drawers.\nI'd open them in order from the bottom.\nIt was a single-pedestal desk with three drawers.\nThe bottom one... held documents that {f:I|I} couldn't make heads or tails of.\n{f:Now|Next}, the second one{f:.|.}\nThere were lots of business card holders...\nMixed in with the cards of big shots I'd never heard of were cards from girls at some clubs and hostess bars.\nSo even the principal goes to places like that{f:.|.}\n{f:Teachers are human too, I guess|...Somehow}, {f:so maybe he goes to places like that now and then to blow off steam|I just can't picture it}.{p}",
+   "en": "{f:I|I} decided to check the desk drawers.\nI'd open them in order from the bottom.\nIt was a single-pedestal desk with three drawers.\nThe bottom one... held documents that {f:I|I} couldn't make heads or tails of.\n{f:Now|Next}, the second one{f:.|.}\nThere were lots of business card holders...\nMixed in with the cards of big shots I'd never heard of were cards from girls at some clubs and hostess bars.\nSo even the principal goes to places like that{f:.|.}\n{f:Teachers are human too, I guess|...Somehow}, {f:so maybe he goes there now and then to blow off steam|I just can't picture it}.{p}",
+   "edit_notes": [
+    "14:10f38: EDIT - male branch repeated 'places like that' twice in two lines"
+   ]
+  },
+  {
+   "id": "14:12620",
+   "op": "text",
+   "before": "And the thing's head had been smashed open by a timber of the wardrobe.\nIts brown skin was wrapped in a yellow-green mucous membrane, and it was twitching feebly in small jerks.\n\"Ah, auh, auh...\"\nIt {f:seemed to be gasping|looked like it was gasping}.{p}",
+   "en": "And the thing's head had been smashed open by a beam from the wardrobe.\nIts brown skin was wrapped in a yellow-green mucous membrane, and it was twitching feebly in small jerks.\n\"Ah, auh, auh...\"\nIt {f:seemed to be gasping|looked like it was gasping}.{p}",
+   "edit_notes": [
+    "14:12620: EDIT - unidiomatic 'a timber of the wardrobe' -> 'a beam from the wardrobe'"
+   ]
+  },
+  {
+   "id": "14:12b44",
+   "op": "text",
+   "before": "\"Kiiiiiiieee☆\"\nThe doll let out an agonized shriek, then stopped moving.\nThe yellow-green mucus that had covered the doll's surface melted and ran down {f:my|my} shoulder.\nSomething like what in a human you'd call nerves was stuck to my skin.{p}",
+   "en": "\"Kiiiiiiieee☆\"\nThe doll let out an agonized shriek, then stopped moving.\nThe yellow-green slime that had coated the doll's surface melted and ran down {f:my|my} shoulders.\nSomething like what you'd call nerves in a human was stuck to my skin.{p}",
+   "flag": "ACC",
+   "edit_notes": [
+    "14:12b44: EDIT - same JP line as 14:13208/14:133e0: unified 'mucus/covered' -> 'slime/coated'",
+    "14:12b44: EDIT - 'shoulder' -> 'shoulders' to match identical line in 14:13208",
+    "14:12b44: EDIT - word order clarity; 14:13208 (identical JP) now uses the same sentence",
+    "14:13208: EDIT/ACC - identical JP to 14:12b44 but said 'its skin' vs 'my skin'; JP just says 'the skin' - unified on 'my skin' (slime runs down the player's shoulders); accuracy may confirm",
+    "14:133e0: EDIT - aligned with the parallel slime line in 14:12b44/14:13208"
+   ]
+  },
+  {
+   "id": "14:12cd8",
+   "op": "text",
+   "before": "\"{f:Whoa|Eek}!\"\n{f:I|I} jumped back in a panic.\nOut of the doll's broken head, spiders as big as my palm {f:came|were} swarming out.\nEvery one of those spiders had a human face.\nOne, two... eleven, twelve.\nThere were twelve human-faced spiders in all.\nWere these the souls of the students who had been sacrificed until now{f:?|?}\nThe spiders crawled out of the head and vanished, as if dissolving into the air.{p}",
+   "en": "\"{f:Whoa|Eek}!\"\n{f:I|I} jumped back in a panic.\nOut of the doll's broken head, spiders as big as my palm {f:came|were} swarming out.\nEvery one of those spiders had a human face.\nOne, two... eleven, twelve.\nThere were twelve human-faced spiders in all.\nWere these the souls of the students who had been sacrificed over the years{f:?|?}\nThe spiders crawled out of the head and vanished, as if dissolving into the air.{p}",
+   "edit_notes": [
+    "14:12cd8: EDIT - stiff 'until now' -> 'over the years'"
+   ]
+  },
+  {
+   "id": "14:131c4",
+   "op": "text",
+   "before": "With a wet, sucking pop, the doll's head tore free.{p}",
+   "en": "With a sucking pop, the doll's head tore free.{p}",
+   "edit_notes": [
+    "14:131c4: EDIT - returns note: trimmed added 'wet'"
+   ]
+  },
+  {
+   "id": "14:13208",
+   "op": "text",
+   "before": "\"Kiiiiiiieee!\"\nThe doll let out an anguished shriek, and then it stopped moving.\nA spinal cord, just like a human's, had come slithering out with the head I'd yanked off.\nAnd it was still twitching.\nThe yellow-green slime that had coated the doll's surface melted and ran down {f:my|my} shoulders.\nSomething like human nerves clung to its skin.{p}",
+   "en": "\"Kiiiiiiieee!\"\nThe doll let out an anguished shriek, and then it stopped moving.\nA spinal cord, just like a human's, had come slithering out with the head I'd yanked off.\nAnd it was still twitching.\nThe yellow-green slime that had coated the doll's surface melted and ran down {f:my|my} shoulders.\nSomething like what you'd call nerves in a human was stuck to my skin.{p}",
+   "flag": "ACC",
+   "edit_notes": [
+    "14:12b44: EDIT - same JP line as 14:13208/14:133e0: unified 'mucus/covered' -> 'slime/coated'",
+    "14:12b44: EDIT - 'shoulder' -> 'shoulders' to match identical line in 14:13208",
+    "14:12b44: EDIT - word order clarity; 14:13208 (identical JP) now uses the same sentence",
+    "14:13208: EDIT/ACC - identical JP to 14:12b44 but said 'its skin' vs 'my skin'; JP just says 'the skin' - unified on 'my skin' (slime runs down the player's shoulders); accuracy may confirm",
+    "14:133e0: EDIT - aligned with the parallel slime line in 14:12b44/14:13208"
+   ]
+  },
+  {
+   "id": "14:133e0",
+   "op": "text",
+   "before": "\"Kiiiiiiieee!\"\nThe doll let out an anguished shriek, and then it stopped moving.\nThe yellow-green slime that coated its surface melted and was running down {f:my|my} shoulders.\nSo this sand was the doll's weak point{f:.|.}\n{f:Apparently|It seemed} a half-finished doll like this didn't stand a chance against the sand.\nHalf its head had already melted away.{p}",
+   "en": "\"Kiiiiiiieee!\"\nThe doll let out an anguished shriek, and then it stopped moving.\nThe yellow-green slime that had coated the doll's surface melted and was running down {f:my|my} shoulders.\nSo this sand was the doll's weak point{f:.|.}\n{f:Apparently|It seemed} a half-finished doll like this didn't stand a chance against the sand.\nHalf its head had already melted away.{p}",
+   "edit_notes": [
+    "14:12b44: EDIT - same JP line as 14:13208/14:133e0: unified 'mucus/covered' -> 'slime/coated'",
+    "14:133e0: EDIT - aligned with the parallel slime line in 14:12b44/14:13208"
+   ]
+  },
+  {
+   "id": "14:13dec",
+   "op": "text",
+   "before": "He came over to me and muttered with a sigh.\n\"...So, how'd it go? You find Arai?\"\nHe asked it with a serious face.\n(Shindo too...?\nShindo couldn't find him either?)\nI honestly shook my head.\n\"...I see. C'mere a sec.\"\nHe grabbed my sleeve and dragged me off.{p}",
+   "en": "He came over to me and muttered with a sigh.\n\"...So, how'd it go? You find Arai?\"\nHe asked it with a serious face.\n(Shindo too...?\nShindo couldn't find him either?)\nI answered honestly with a shake of my head.\n\"...I see. C'mere a sec.\"\nHe grabbed my sleeve and dragged me off.{p}",
+   "edit_notes": [
+    "14:13dec: EDIT - 'I honestly shook my head' read as an intensifier; clarified"
+   ]
+  },
+  {
+   "id": "14:13f4c",
+   "op": "text",
+   "before": "Shindo led me into the shadow of a pillar.\nThen he started talking in a low voice.\nIt seemed to be something it would be bad for anyone to overhear.\n\"Looks like there's no such guy as Shoji Arai in the second year at our school.\"\nShindo's words completely crushed my faint hope.\n\"...Yesterday, after all that, it was bugging me, so I looked into a bunch of stuff.\nAnd guess what.\nThat doll story he told looks like it might actually be true.\nApparently, every single year, one person always ends up as the victim and dies.{p}",
+   "en": "Shindo led me into the shadow of a pillar.\nThen he started talking in a low voice.\nIt seemed to be something nobody else should overhear.\n\"Looks like there's no such guy as Shoji Arai in the second year at our school.\"\nShindo's words completely crushed my faint hope.\n\"...Yesterday, after all that, it was bugging me, so I looked into a bunch of stuff.\nAnd guess what.\nThat doll story he told looks like it might actually be true.\nApparently, every single year, one person always ends up as the victim and dies.{p}",
+   "edit_notes": [
+    "14:13f4c: EDIT - clumsy phrasing"
+   ]
+  },
+  {
+   "id": "14:14dac",
+   "op": "text",
+   "before": "After school, the three of us got together.\nBut none of us could bring ourselves to speak.\nNext, one of us here would...\nI thought it, but I couldn't say it out loud.\nBut the others had to be thinking the same thing.\n\"The only lead we've got is the principal.\"\nShindo said.\nThat's right.\nIf we looked into the principal, we might find something out.\n\"Let's go.\"\nI looked from one of them to the other.{p}",
+   "en": "After school, the three of us got together.\nBut none of us could bring ourselves to speak.\nNext, one of us here would...\nI thought it, but I couldn't say it out loud.\nBut the others had to be thinking the same thing.\n\"The only lead we've got is the principal.\"\nIt was Shindo who said it.\nThat's right.\nIf we looked into the principal, we might find something out.\n\"Let's go.\"\nI looked from one of them to the other.{p}",
+   "edit_notes": [
+    "14:14dac: EDIT - dangling 'Shindo said.' as its own line"
+   ]
+  },
+  {
+   "id": "14:15054",
+   "op": "text",
+   "before": "\"Nothing! There's nothing here!\"\nShindo suddenly spat out.\nHe was right. There was nothing that seemed to have anything to do with all this.\nWhat were we supposed to do?\nFor a while, we just stood there, stunned.{p}",
+   "en": "\"Nothing! There's nothing here!\"\nShindo suddenly spat.\nHe was right. There was nothing that seemed to have anything to do with all this.\nWhat were we supposed to do?\nFor a while, we just stood there, stunned.{p}",
+   "edit_notes": [
+    "14:15054: EDIT - 'spat out' with no object"
+   ]
+  },
+  {
+   "id": "14:154d0",
+   "op": "text",
+   "before": "I'm not going near him again.\nBest friends? You've got to be kidding me.{p}",
+   "en": "I'm never going near him again.\nBest friends? You've got to be kidding me.{p}",
+   "edit_notes": [
+    "14:154d0: EDIT - same JP as the echo in 14:16d30; wording unified"
+   ]
+  },
+  {
+   "id": "14:16f1c",
+   "op": "text",
+   "before": "Then he shoved me into a stall, came in after me, and locked the door.\n(Ugh, gross!)\n\"We don't need a stall, do we? There's nobody in the restroom anyway.\"\nI wanted to get out of this situation.\n\"It'll only take a sec~\"\nHe sidled up close to me.\n\"After that, I asked Arai about it.\nThe next victim... it turns out it was me.\"\nHe said it without his smile ever slipping.\n(He knows he's the sacrifice, so how can he keep smiling?)\nIt was eerie.\n\"But Arai told me there's one way, just one, to be saved.\nSince you're my best friend, I'd been thinking I wouldn't do it.\"{p}",
+   "en": "Then he shoved me into a stall, came in after me, and locked the door.\n(Ugh, gross!)\n\"We don't need a stall, do we? There's nobody in the restroom anyway.\"\nI wanted to get out of this situation.\n\"It'll only take a sec~\"\nHe sidled up close to me.\n\"After that, I asked Arai about it.\nThe next victim... turns out it's me.\"\nHe said it without his smile ever slipping.\n(He knows he's the sacrifice, so how can he keep smiling?)\nIt was eerie.\n\"But Arai told me there's one way, just one, to be saved.\nSince you're my best friend, I'd been thinking I wouldn't do it.\"{p}",
+   "edit_notes": [
+    "14:16f1c: EDIT - 'it turns out it was me' -> 'turns out it's me': he is still the victim; casual Hosoda voice"
+   ]
+  },
+  {
+   "id": "14:17134",
+   "op": "text",
+   "before": "Hosoda looked a little angry as he said it.\n\"But, y'know, {a}, you don't seem to feel that way.\"\nWith that, he dropped his eyes toward the floor.\nI followed Hosoda's gaze.\n(Hm...?)\nSomething moved behind Hosoda's legs.\nAs I stared, a doll popped its face out.{p}",
+   "en": "Hosoda looked a little angry as he said it.\n\"But, y'know, {a}, you don't seem to feel that way.\"\nWith that, he dropped his eyes toward the floor.\nI followed Hosoda's gaze.\n(Hm...?)\nSomething moved behind Hosoda's legs.\nAs I stared, a doll's face peeked out.{p}",
+   "edit_notes": [
+    "14:17134: EDIT - clumsy 'popped its face out' -> 'a doll's face peeked out'"
+   ]
+  },
+  {
+   "id": "14:17724",
+   "op": "text",
+   "before": "\"Where are you looking, {a}?\"\nShindo turned around, as if bothered by where {f:my|my} eyes were.\nBut Arai had already vanished, so all he could do was look this way and that.\n\"What's the matter, {a}!\"\n\"Just now, Arai walked right behind you and went around that corner.\"{p}",
+   "en": "\"Where are you looking, {a}?\"\nShindo turned around, as if wondering what {f:I|I} was looking at.\nBut Arai had already vanished, so all he could do was look this way and that.\n\"What's the matter, {a}!\"\n\"Just now, Arai walked right behind you and went around that corner.\"{p}",
+   "edit_notes": [
+    "14:17724: EDIT - stiff 'bothered by where my eyes were' -> 'wondering what I was looking at'"
+   ]
+  },
+  {
+   "id": "14:182b0",
+   "op": "text",
+   "before": "...Shindo and {f:I|I} looked at each other.\nConsidering everything that had happened, we couldn't flatly write off Arai's story yesterday as just a joke.\n{f:But|But} yesterday, {f:I|I} was supposed to be the only one who could see it{f:|, though}...\n\"Shindo, what do we do...\"\n\"Don't ask me...\"\nShindo was at a loss too.\n\"I'm going to die...\"\nFukuzawa murmured.{p}",
+   "en": "...Shindo and {f:I|I} looked at each other.\nConsidering everything that had happened, we couldn't flatly write off Arai's story from yesterday as just a joke.\n{f:But|But} yesterday, {f:I|I} was supposed to be the only one who could see it{f:|, though}...\n\"Shindo, what do we do...\"\n\"Don't ask me...\"\nShindo was at a loss too.\n\"I'm going to die...\"\nFukuzawa murmured.{p}",
+   "edit_notes": [
+    "14:182b0: EDIT - 'story yesterday' -> 'story from yesterday' (clarity)"
+   ]
+  },
+  {
+   "id": "14:18510",
+   "op": "text",
+   "before": "When I happened to look up, I saw Arai at one of the old school building's windows.\n\"Arai...\"\n\"Huh, Arai?\"\nShindo said it as he followed {f:my|my} gaze.\n\"Let's go!\"\nHe shouted that and went into the old school building.\nI helped Fukuzawa to her feet, and {f:we|we} went after him.{p}",
+   "en": "When I happened to look up, I saw Arai at one of the old school building's windows.\n\"Arai...\"\n\"Huh, Arai?\"\nShindo said it as he followed {f:my|my} gaze.\n\"Let's go!\"\nWith that shout, he went into the old school building.\nI helped Fukuzawa to her feet, and {f:we|we} went after him.{p}",
+   "edit_notes": [
+    "14:18510: EDIT - clumsy 'He shouted that and went' -> 'With that shout, he went'"
+   ]
+  },
+  {
+   "id": "14:18c8c",
+   "op": "text",
+   "before": "{f:I|I} hesitated.\nThis probably has what {f:I|I} want to know written in it.\nBut I also have a nasty feeling that if I look at it, something terrible will happen.\n...{f:My|My} bad feelings usually come true.\nLately I've felt that more than ever.\n{f:I|I} picked up the diary.\nThe sepia-tinged diary gave off a faintly musty smell.{p}",
+   "en": "{f:I|I} hesitated.\nWhat {f:I|I} want to know is probably written in here.\nBut I also have a nasty feeling that if I look at it, something terrible will happen.\n...{f:My|My} bad feelings usually come true.\nLately I've felt that more than ever.\n{f:I|I} picked up the diary.\nThe sepia-tinged diary gave off a faintly musty smell.{p}",
+   "edit_notes": [
+    "14:18c8c: EDIT - clumsy 'This probably has what I want to know written in it' reworded"
+   ]
+  },
+  {
+   "id": "14:18ef0",
+   "op": "text",
+   "before": "{f:I|I} snapped the diary shut.\n...It's no use{f:.|.}\n{f:My|My} heart, so weak against curiosity and temptation, makes me open to that page.{p}",
+   "en": "{f:I|I} snapped the diary shut.\n...It's no use{f:.|.}\n{f:My|My} heart, so weak against curiosity and temptation, makes me turn to that page.{p}",
+   "edit_notes": [
+    "14:18ef0: EDIT - ambiguous 'open to that page' -> 'turn to that page'"
+   ]
+  },
+  {
+   "id": "14:1982c",
+   "op": "text",
+   "before": "A dream{f:,|...} that was all just a dream{f:.|.}\nTelling myself that, {f:I|I} headed for my classroom.\nI pushed my way on through the crowd breaking up.{p}",
+   "en": "A dream{f:,|...} that was all just a dream{f:.|.}\nTelling myself that, {f:I|I} headed for my classroom.\nI pushed my way through the crowd as it broke up.{p}",
+   "edit_notes": [
+    "14:1982c: EDIT - clumsy 'on through the crowd breaking up' smoothed"
+   ]
+  },
+  {
+   "id": "14:1a0dc",
+   "op": "text",
+   "before": "I-It's the doll{f:|}......\nThe doll's eyes glowed eerily.\n{f:I|I} backed away.\nI {f:slammed|bumped} into something, and looked forward again.{p}",
+   "en": "I-It's the doll{f:|}......\nThe doll's eyes glowed eerily.\n{f:I|I} backed away.\nI {f:slammed|bumped} into something and turned back around.{p}",
+   "edit_notes": [
+    "14:1a0dc: EDIT - ambiguous 'looked forward again' -> 'turned back around' (he had turned to face the doll)"
+   ]
+  },
+  {
+   "id": "15:03cc",
+   "op": "text",
+   "before": "I'm Nozomu Kazama.\nThird-year.\nI hear the school paper's doing a feature on the school's seven wonders, but I'm not too impressed with the idea.\nIf you're going to go through with this, it means you'd better be ready for what comes.\nI mean, wouldn't you agree?\nSpirits are sacred things.\nMess with them half for fun, and you'll get burned.\nDon't you feel it?\nThe unnatural air swirling around this room?\n",
+   "en": "I'm Nozomu Kazama.\nThird-year.\nI hear the school paper's doing a feature on the school's seven wonders, but I'm not too impressed with the idea.\nIf you're going to go through with this, you'd better be ready for what comes.\nI mean, wouldn't you agree?\nSpirits are sacred things.\nMess with them just for fun, and you'll get burned.\nDon't you feel it?\nThe unnatural air swirling around this room?\n",
+   "edit_notes": [
+    "15:03cc: EDIT - returns note: stiff 'half for fun' -> 'just for fun'; also dropped clunky 'it means' in the readiness line"
+   ]
+  },
+  {
+   "id": "15:0534",
+   "op": "text",
+   "before": "I can feel it.\nI've had chills all over my body for a while now.\nPlaces where evil energy like this gathers draw wandering spirits from out of nowhere.\nAnd they keep a fixed, steady watch on us.\nThey're waiting for us to let our guard down, even for an instant.\nWhy are they waiting, you ask?{p}",
+   "en": "I can feel it.\nI've had chills all over my body for a while now.\nPlaces where evil energy like this gathers draw wandering spirits from out of nowhere.\nAnd they keep a steady watch on us.\nThey're waiting for us to let our guard down, even for an instant.\nWhy are they waiting, you ask?{p}",
+   "edit_notes": [
+    "15:0534: EDIT - 'keep a fixed, steady watch' redundant -> 'keep a steady watch'"
+   ]
+  },
+  {
+   "id": "15:09f8",
+   "op": "text",
+   "before": "Now then, would you take a look at this photo?\nI took it at last year's school festival.\nIt came out nicely, right?\nBelieve it or not, I'm pretty confident in my photography.\nIt's a completely ordinary photo, isn't it?\nJust two high school girls in it.\nDo you feel anything when you look at it?\nActually, this is a spirit photo.\nNo, it's no wonder if you don't feel anything.\nI didn't notice a thing myself until someone actually told me.\nI have an uncle with an extremely strong sixth sense.\nApparently he's something of a big name in that line.\nIt seems he gets called in pretty often whenever there's that kind of incident.\nOf course, he appraises spirit photos too.\nThat uncle of mine was idly looking through my album.\nOf course, it's not like I'd asked him to appraise anything.\nHe was just looking, idly, the way a relative does.\n",
+   "en": "Now then, would you take a look at this photo?\nI took it at last year's school festival.\nIt came out nicely, right?\nBelieve it or not, I'm pretty confident in my photography.\nIt's a completely ordinary photo, isn't it?\nJust two high school girls in it.\nDo you feel anything when you look at it?\nActually, this is a spirit photo.\nNo, it's no wonder you don't feel anything.\nI didn't notice a thing myself until someone actually told me.\nI have an uncle with an extremely strong sixth sense.\nApparently he's something of a big name in that line.\nIt seems he gets called in pretty often whenever there's that kind of incident.\nOf course, he appraises spirit photos too.\nThat uncle of mine was idly looking through my album.\nOf course, it's not like I'd asked him to appraise anything.\nHe was just looking, idly, the way a relative does.\n",
+   "edit_notes": [
+    "15:09f8: EDIT - 'it's no wonder if you don't' -> 'it's no wonder you don't'"
+   ]
+  },
+  {
+   "id": "15:0cd4",
+   "op": "text",
+   "before": "Flip, flip went the pages of the album.\nMy uncle was looking through it with a grin, having fun.\nThen, suddenly, his finger stopped.\nThe smile vanished from his face, and his eyes were glued to one photo.\n",
+   "en": "Flip, flip went the pages of the album.\nMy uncle was grinning as he looked, enjoying himself.\nThen, suddenly, his finger stopped.\nThe smile vanished from his face, and his eyes were glued to one photo.\n",
+   "edit_notes": [
+    "15:0cd4: EDIT - 'looking through it with a grin, having fun' clumsy -> 'grinning as he looked, enjoying himself'"
+   ]
+  },
+  {
+   "id": "15:0da0",
+   "op": "text",
+   "before": "\"Nozomu! Where did you take this photo?\"\nIt wasn't my uncle's usual gentle face.\nIt was a stern face, and yet it looked frightened of something too.\nI'd never seen my uncle look that scary.\n\"...Where? I took it at school. During the school festival, I think.\"\nWhen I said that, my uncle stared hard at the photo again.\n\"Is this girl your friend? The girl on the left here.\"\n\"Yes. She's in my class, but...\"\nI'll tell you what I thought.\nI thought my uncle had pretty good taste for his age.\n\"How is this girl doing now? Is she all right?\"\nOut of nowhere, he asked something strange.\nI figured my uncle, at his age, had his eye on her, but that didn't seem to be it.\n\"A child has latched on to this girl. That child shows up clearly in this photo.\"\nThat's what he started saying.\nI hurriedly snatched the photo away from him.\n",
+   "en": "\"Nozomu! Where did you take this photo?\"\nIt wasn't my uncle's usual gentle face.\nIt was a stern face, and yet it looked frightened of something too.\nI'd never seen my uncle look that scary.\n\"...Where? I took it at school. During the school festival, I think.\"\nWhen I said that, my uncle stared hard at the photo again.\n\"Is this girl your friend? The girl on the left here.\"\n\"Yes. She's in my class, but...\"\nYou know what I thought?\nThat my uncle had pretty good taste for his age.\n\"How is this girl doing now? Is she all right?\"\nOut of nowhere, he asked something strange.\nI figured my uncle, at his age, had his eye on her, but that didn't seem to be it.\n\"A child has latched on to this girl. That child shows up clearly in this photo.\"\nThat's what he started saying.\nI hurriedly snatched the photo away from him.\n",
+   "edit_notes": [
+    "15:0da0: EDIT - 'I'll tell you what I thought. I thought...' stiff -> spoken 'You know what I thought? That...'"
+   ]
+  },
+  {
+   "id": "15:1d5c",
+   "op": "text",
+   "before": "What?\nDon't glare at me.\nThe story I'm about to tell is seriously dangerous.\nThat's how bad it is: I'm saying stuff like this to buy even a little more time.\nWell, fine.{p}If you want to hear it that badly, I'll tell you.\n",
+   "en": "What?\nDon't glare at me.\nThe story I'm about to tell is seriously dangerous.\nIt's so bad I'm saying stuff like this just to buy even a little more time.\nWell, fine.{p}If you want to hear it that badly, I'll tell you.\n",
+   "edit_notes": [
+    "15:1d5c: EDIT - colon construction hard to follow -> 'It's so bad I'm saying stuff like this just to buy...'"
+   ]
+  },
+  {
+   "id": "15:2408",
+   "op": "text",
+   "before": "...Huh?\nWhy?\nYou're not going to jump at me?\nThe important part was coming next.\nIf you went wild, I was going to shove my fingers up your nostrils and say,\n\"The nostrils are a human weak spot!\"\nand show off how much I know.{p}.........Don't tell me, you think it's lame?\n",
+   "en": "...Huh?\nWhy?\nYou're not going to jump at me?\nBut this is where it gets good.\nIf you'd gone wild, I was going to shove my fingers up your nostrils and say,\n\"The nostrils are a human weak spot!\"\nand show off how much I know.{p}.........Don't tell me, you think it's lame?\n",
+   "edit_notes": [
+    "15:2408: EDIT - 'The important part was coming next' / 'If you went wild' -> spoken 'But this is where it gets good' / 'If you'd gone wild' (describes the foiled plan)"
+   ]
+  },
+  {
+   "id": "15:25d4",
+   "op": "text",
+   "before": "...Huh?\nWhat's up?\nIt's funny, right?\nWhy are you all so quiet?\"\n.........\nEveryone was dead silent.\nWhat an incredible person, though.\nWhy did Hino invite someone like this?\nAll the commotion had made me thirsty, and I glanced at the glass of water.{p}",
+   "en": "...Huh?\nWhat's up?\nIt's funny, right?\nWhy are you all so quiet?\"\n.........\nEveryone was dead silent.\nThis guy really is something else, though.\nWhy did Hino invite someone like this?\nAll the commotion had made me thirsty, and I glanced at the glass of water.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "15:29e0",
+   "op": "text",
+   "before": "...Cut it out.\nYou're scary, you know that?\nYour attitude is scarier than my story.\"\nTalk about getting trashed.\n",
+   "en": "...Cut it out.\nYou're scary, you know that?\nYour attitude is scarier than my story.\"\nTalk about getting torn to shreds.\n",
+   "edit_notes": [
+    "15:29e0: EDIT - 'getting trashed' ambiguous (drunk), esp. after 'drunk on the pleasure' -> 'getting torn to shreds'"
+   ]
+  },
+  {
+   "id": "15:3004",
+   "op": "text",
+   "before": "\"That's spirit rapping.\"\nKazama said it.\nSpirit rapping?{p}",
+   "en": "\"That's spirit rapping.\"\nKazama said.\nSpirit rapping?{p}",
+   "edit_notes": [
+    "15:3004: EDIT - returns note: 'Kazama said it.' -> 'Kazama said.' (matches 15:2960)"
+   ]
+  },
+  {
+   "id": "15:32cc",
+   "op": "text",
+   "before": "Kazama arrogantly put his feet up on the desk.\nWhat is with this guy?\nI don't want to interview someone like this either.\n\"Ew, stop putting your feet on the desk.\"\nSomeone said it.\nYes, exactly.\nI wanted to tell him he was the one who'd be way less popular with girls.\n\"What? Fine, fine.\nHang on, my leg's itchy.\"\nKazama suddenly rolled up his pant leg and started scratching his leg, scritch-scratch.\nHey, I wish he wouldn't do something so crude, out of nowhere, right here.{p}",
+   "en": "Kazama arrogantly put his feet up on the desk.\nWhat is with this guy?\nI don't want to interview someone like this either.\n\"Ew, stop putting your feet on the desk.\"\nSomeone said.\nYes, exactly.\nI wanted to tell him he was the one who'd be way less popular with girls.\n\"What? Fine, fine.\nHang on, my leg's itchy.\"\nKazama suddenly rolled up his pant leg and started scratching his leg, scritch-scratch.\nHey, I wish he wouldn't do something so crude, out of nowhere, right here.{p}",
+   "edit_notes": [
+    "15:32cc: EDIT - same pattern 'Someone said it.' -> 'Someone said.'"
+   ]
+  },
+  {
+   "id": "16:080c",
+   "op": "choice",
+   "before": "Stay quiet and see what happens",
+   "en": "Stay quiet for a while and see what happens",
+   "edit_notes": [
+    "16:080c/16:3120: EDIT - returns note: near-identical source choices aligned to one wording, restoring 'for a while' (shibaraku) on both"
+   ]
+  },
+  {
+   "id": "16:0a0c",
+   "op": "text",
+   "before": "\"...Um, it just feels kind of way too anticlimactic.\"{p}",
+   "en": "\"...Um, somehow it just feels way too anticlimactic.\"{p}",
+   "edit_notes": [
+    "16:0a0c: EDIT - clumsy 'kind of way too anticlimactic' -> 'somehow it just feels way too anticlimactic'"
+   ]
+  },
+  {
+   "id": "16:1140",
+   "op": "text",
+   "before": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"\n\"Yeah, that's right.\nI've gone and told three whole stories.\nWasn't the deal one story per person?\n{f:You must be|...Don't tell me you} {f:satisfied by now, right?|want to hear more?}\"\n\"...Well, {f:but|um,} {f:um,|you know,} how do I put it... {f:I'd like you to tell me something a bit more concrete.|I want to hear something a bit more concrete.}\"{p}",
+   "en": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"\n\"Yeah, that's right.\nI've gone and told three whole stories.\nWasn't the deal one story per person?\n{f:You must be|...Don't tell me you} {f:satisfied by now, right?|want to hear more?}\"\n\"...Well, {f:still,|um,} {f:um,|you know,} how do I put it... {f:I'd like you to tell me something a bit more concrete.|I want to hear something a bit more concrete.}\"{p}",
+   "edit_notes": [
+    "16:1140: EDIT - male 'Well, but um,' -> 'Well, still, um,' (stumbling but readable)"
+   ]
+  },
+  {
+   "id": "16:2b98",
+   "op": "text",
+   "before": "There was no sign of anyone leaving the room.\nI hadn't heard the door open, either.\nBesides, it all happened in an instant.\nA person just vanishing like that... it was unthinkable.\nA chill ran down my spine.\nMaybe this is what true terror really means.\nI was too stunned to move.{p}",
+   "en": "There was no sign of anyone leaving the room.\nI hadn't heard the door open, either.\nBesides, it all happened in an instant.\nA person just vanishing like that... it was unthinkable.\nA chill ran down my spine.\nMaybe this is what true terror means.\nI was too stunned to move.{p}",
+   "edit_notes": [
+    "16:2b98: EDIT - redundant 'true terror really means' -> 'true terror means'"
+   ]
+  },
+  {
+   "id": "16:3120",
+   "op": "choice",
+   "before": "Stay quiet and watch him for a while",
+   "en": "Stay quiet for a while and see what happens",
+   "edit_notes": [
+    "16:080c/16:3120: EDIT - returns note: near-identical source choices aligned to one wording, restoring 'for a while' (shibaraku) on both"
+   ]
+  },
+  {
+   "id": "16:3cc0",
+   "op": "text",
+   "before": "\"Hey, {f:don't glare at me with that scary face.|you're in Class 1-E, right?}\n{f:I've|There, there}{f: carved precious time out of my last summer of high school| Next time}{f: to be here, you know.|, I'll come over to visit you.}\n{f:A ladies' man like me|Or}{f: blew off a date with some babe to come here.| would you rather hang out somewhere outside school?}\n...{f:The least you could do is serve some tea|How about it}?\"{p}",
+   "en": "\"Hey, {f:don't glare at me with that scary face.|you're in Class 1-E, right?}\n{f:I've|There, there}{f: carved precious time out of my last summer of high school| Next time}{f: to be here, you know.|, I'll come over to visit you.}\n{f:A ladies' man like me|Or}{f: blew off a date with some babe to come here.| would you rather hang out somewhere outside school?}\n...{f:Why don't you at least serve some tea|How about it}?\"{p}",
+   "edit_notes": [
+    "16:3cc0: EDIT - male 'The least you could do is serve some tea?' (statement with ?) -> 'Why don't you at least serve some tea?'"
+   ]
+  },
+  {
+   "id": "16:4324",
+   "op": "text",
+   "before": "The club room was engulfed in foul air.\nAgony.\nTo think that treatment this cruel could exist in this world.\nNow that I've known this agony, I can overcome any hardship the rest of my life may bring. So {f:I|I} believe.\n{f:It's no good|It's no good}, I'm about to {f:pass out|pass out}...\nAh.\nAhh.\nAhhh......{p}",
+   "en": "The club room was engulfed in foul air.\nAgony.\nTo think that treatment this cruel could exist in this world.\nNow that I've known this agony, I can overcome any hardship the rest of my life may bring. {f:I|I} really believe that.\n{f:It's no good|It's no good}, I'm about to {f:pass out|pass out}...\nAh.\nAhh.\nAhhh......{p}",
+   "edit_notes": [
+    "16:4324: EDIT - stiff trailing 'So I believe.' -> 'I really believe that.'"
+   ]
+  },
+  {
+   "id": "16:5aa8",
+   "op": "text",
+   "before": "The food at that cafeteria... is awful.\nThe awful story. The end.\n....................................................................................\nI-I wish I hadn't listened.\n\"That cafeteria really is awful, isn't it?{p}",
+   "en": "The food at that cafeteria... tastes awful.\nThe distasteful story. The end.\n....................................................................................\nI-I wish I hadn't listened.\n\"That cafeteria's food really is awful, isn't it?{p}",
+   "edit_notes": [
+    "16:19a4: KEEP - returns note: 'distasteful' carries the mazui pun; echoed in the punchline 16:5aa8 instead of rewriting 16:1c14 (whose 'tastes awful' already links to taste)",
+    "16:5aa8: EDIT - punchline 'The awful story' -> 'The distasteful story' to land the pun set up in 16:19a4; 'tastes awful'; 'That cafeteria's food really is awful' for consistency with 16:1c14"
+   ]
+  },
+  {
+   "id": "16:5d44",
+   "op": "text",
+   "before": "Lo and behold, Kazama... popped out from under a desk.\n\"Hahaha, I only hid for a second.\nWhat a bunch of scaredy-cats.\"\nWith that, Kazama looked at me with a big grin.\n\"And you, {a}. Honestly, {a}.\nYou're in the newspaper club, so what are you doing getting spooked by a little thing like this?\"\n...K-Kazama...!\nIf I'd looked carefully, I should have seen he was under the desk...\nThe others and I had let fear get the better of us, and we weren't paying attention.\nAh, I fell for Kazama's prank and ruined our seven wonders interview☆{p}",
+   "en": "Lo and behold, Kazama... popped out from under a desk.\n\"Hahaha, I only hid for a second.\nWhat a bunch of scaredy-cats.\"\nWith that, Kazama looked at me with a big grin.\n\"And you, {a}. Honestly, {a}.\nYou're in the newspaper club, so what are you doing getting spooked by a little thing like this?\"\n...K-Kazama...!\nIf I'd looked carefully, I'd have seen he was under the desk...\nThe others and I had let fear get the better of us, and we weren't paying attention.\nAh, I fell for Kazama's prank and ruined our seven wonders interview☆{p}",
+   "edit_notes": [
+    "16:5d44: EDIT - 'If I'd looked carefully, I should have seen' -> 'I'd have seen' (conditional)"
+   ]
+  },
+  {
+   "id": "16:64d8",
+   "op": "text",
+   "before": "\"{c}{f:|}... you see, it pains me, {f:how utterly hopeless your attitude is|the way you go about} when you listen to a story.\nA moment ago, you tried to wrap up my story so curtly.\nYou're a member of the newspaper club, aren't you?\n{f:If you can't express|You could have shown} at least the feeling of 'Thank you for that wonderful story...'{f:, what good are you|, couldn't you}?\n{f:Unless you're more sensitive|I think that way}{f:, you'll never make it big.| we'd both feel good.}\"\n...{f:Oh|Oh}, so in the end he's just saying I didn't thank him enough{f:.|.}\nNormally, I don't think that's the sort of thing you go demanding...\nIt can't be helped{f:.|.}\n\"Why, thank you so very much for that truly wonderful story.\nAnd not only that, I'm truly delighted that you even gave me such wonderful advice.\"\n...Ugh, he really is an exhausting person{f:.|.}{p}",
+   "en": "\"{c}{f:|}... you see, it pains me to see {f:how utterly hopeless your attitude is|the attitude you take} when you listen to a story.\nA moment ago, you tried to wrap up my story so curtly.\nYou're a member of the newspaper club, aren't you?\n{f:If you can't express|You could have shown} at least the feeling of 'Thank you for that wonderful story...'{f:, what good are you|, couldn't you}?\n{f:Unless you're more sensitive|I think that way}{f:, you'll never make it big.| we'd both feel good.}\"\n...{f:Oh|Oh}, so in the end he's just saying I didn't thank him enough{f:.|.}\nNormally, I don't think that's the sort of thing you go demanding...\nIt can't be helped{f:.|.}\n\"Why, thank you so very much for that truly wonderful story.\nAnd not only that, I'm truly delighted that you even gave me such wonderful advice.\"\n...Ugh, he really is an exhausting person{f:.|.}{p}",
+   "edit_notes": [
+    "16:64d8: EDIT - female 'it pains me, the way you go about when you listen' was ungrammatical -> 'it pains me to see the attitude you take when you listen'; male parallel"
+   ]
+  },
+  {
+   "id": "16:6804",
+   "op": "text",
+   "before": "\"No, as long as you understand.\nIt's all for your sake.\nYou should cultivate your sensitivity by looking at things that are beautiful and noble.\n...I know, I'll give you something nice.\"{p}",
+   "en": "\"Well, as long as you understand.\nIt's all for your sake.\nYou should cultivate your sensitivity by looking at things that are beautiful and noble.\n...I know, I'll give you something nice.\"{p}",
+   "edit_notes": [
+    "16:6804: EDIT - 'No, as long as you understand.' -> 'Well, as long as you understand.' (natural reply to thanks)"
+   ]
+  },
+  {
+   "id": "16:7194",
+   "op": "text",
+   "before": "\"Um, could you wait a moment?\"\n\"...Hm?\nWhat's wrong?\nLet's see, do you want to hear this story with just the two of us?\"\n\"That's not it...\nUm, Kazama, your story isn't something like 'the cafeteria food is awful'... is it?\"\n\"...Oh, so you knew too.\nThat's right.\nThat cafeteria's awful, isn't it?{p}",
+   "en": "\"Um, could you wait a moment?\"\n\"...Hm?\nWhat's wrong?\nLet's see, do you want to hear this story with just the two of us?\"\n\"That's not it...\nUm, Kazama, your story isn't something like 'the cafeteria food is awful'... is it?\"\n\"...Oh, so you knew too.\nThat's right.\nThat cafeteria's food is awful, isn't it?{p}",
+   "edit_notes": [
+    "16:7194: EDIT - 'That cafeteria's awful' -> 'That cafeteria's food is awful', matching 16:1c14 (same line on the other path)"
+   ]
+  },
+  {
+   "id": "17:1ad8",
+   "op": "text",
+   "before": "...How naive.\nThe Kokkuri-san I summon is the real thing.\nI can summon the real Kokkuri-san.\nYou guys have never seen it, have you?\nHeh heh heh... You can even get to see it, you know.\nYou doubt me, huh?\nWell, you'll just have to wait and see.{p}",
+   "en": "...How naive.\nThe Kokkuri-san I summon is the real thing.\nI can summon the real Kokkuri-san.\nYou guys have never seen it, have you?\nHeh heh heh... You can even see it, you know.\nYou doubt me, huh?\nWell, you'll just have to wait and see.{p}",
+   "edit_notes": [
+    "17:1ad8: EDIT - clunky 'You can even get to see it' -> 'You can even see it'"
+   ]
+  },
+  {
+   "id": "17:2064",
+   "op": "text",
+   "before": "Now, {c}{f:|}.{p}Take out a 500-yen coin, if you please.\n",
+   "en": "Now, {c}{f:|}.{p}Go on, take out a 500-yen coin.\n",
+   "edit_notes": []
+  },
+  {
+   "id": "17:24b4",
+   "op": "text",
+   "before": "{f:I see|Hmm}, I see.\n{f:For a face like that, you|So you've already}{f: sure make your move when it counts, huh?| got someone...}\n{f:Uh-heh-heh-heh...|When you get bored of him, look me up.}{p}",
+   "en": "{f:I see|Hmm}, I see.\n{f:You don't look it, but you|So you've already}{f: sure make your move when it counts, huh?| got someone...}\n{f:Uh-heh-heh-heh...|When you get bored of him, look me up.}{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "17:3bdc",
+   "op": "text",
+   "before": "\"Hm, what is it?\nYou'll buy it?\"\nKazama's expression had changed completely from a moment ago; now he was grinning.\n...Something's fishy {f:here|here}.\n\"Um...\n...Isn't that just an ordinary eraser?\"\nWhen {f:I|I} asked, Kazama threw out his arms theatrically and rattled this off in one breath.{p}",
+   "en": "\"Hm, what is it?\nGoing to buy it, are you?\"\nKazama's expression had changed completely from a moment ago; now he was grinning.\n...Something's fishy {f:here|here}.\n\"Um...\n...Isn't that just an ordinary eraser?\"\nWhen {f:I|I} asked, Kazama threw out his arms theatrically and rattled this off in one breath.{p}",
+   "edit_notes": [
+    "17:3bdc: EDIT - returns note: stiff 'You'll buy it?' -> 'Going to buy it, are you?'"
+   ]
+  },
+  {
+   "id": "17:4620",
+   "op": "text",
+   "before": "\"Are you sure?\nAre you really sure?\nYou'll get cursed, you know?\nOh, I'll even take five hundred yen, so come on, buy this charm.\"\n...This was getting fishier and fishier.\nAs {f:I|I} glared at him, Kazama hurriedly started saying this.{p}",
+   "en": "\"Are you sure?\nAre you really sure?\nYou'll get cursed, you know?\nOh, I'll even take five hundred yen, so come on, buy this charm.\"\n...This was getting fishier and fishier.\nAs {f:I|I} glared at him, Kazama hastily came out with this.{p}",
+   "edit_notes": [
+    "17:4620: EDIT - clumsy 'started saying this' -> 'hastily came out with this' (leads into his next speech)"
+   ]
+  },
+  {
+   "id": "17:5a68",
+   "op": "text",
+   "before": "\"Still, it's a shame, {c}{f:|}.\nIf only you'd had a 500-yen coin, I could have shown you the real Kokkuri-san and divined your fortune.\nAnd I'd prepared such good material, too.\nOops, I shouldn't call a high-level spirit Kokkuri-san 'material.'\nNaughty, naughty, mutter mutter mutter...\"\nKazama kept muttering to himself.\nHe sure is a weird {f:guy|guy}.\n{f:I|I} decided to just go ahead and hear the next story,\npraying that the Kokkuri-san we'd just done wasn't just one of Kazama's hoaxes.\n\"Well then, let's move on.\nThe next story is...\"{p}",
+   "en": "\"Still, it's a shame, {c}{f:|}.\nIf only you'd had a 500-yen coin, I could have shown you the real Kokkuri-san and divined your fortune.\nAnd I'd prepared such good material, too.\nOops, I shouldn't call a high-level spirit Kokkuri-san 'material.'\nNaughty, naughty, mutter mutter mutter...\"\nKazama kept muttering to himself.\nHe sure is a weird {f:guy|guy}.\n{f:I|I} decided to go ahead and hear the next story anyway,\npraying that the Kokkuri-san we'd just done wasn't one of Kazama's hoaxes.\n\"Well then, let's move on.\nThe next story is...\"{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "17:621c",
+   "op": "text",
+   "before": "Kokkuri-san, Kokkuri-san, please answer us.\nWhat feelings will this sweetheart come to have for {c}{f:|}?{p}",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nHow will this future sweetheart come to feel about {c}{f:|}?{p}",
+   "edit_notes": [
+    "17:621c: EDIT - stiff 'What feelings will this sweetheart come to have' -> 'How will this future sweetheart come to feel about'"
+   ]
+  },
+  {
+   "id": "17:6308",
+   "op": "text",
+   "before": "{f:That's impossible|Ohh}!\n{f:...Oh, pardon me.|It read my heart in one shot!}\n{f:Well, there's no accounting for taste.|Heh heh heh...}\n{f:Anyway|From now on}, {f:try your best to make it work|let's get along nicely, shall we}.\nUm, let's see.{p}",
+   "en": "{f:That's impossible|Ohh}!\n{f:...Oh, pardon me.|It read my heart in one shot!}\n{f:Well, there's no accounting for taste.|Heh heh heh...}\n{f:Anyway|From now on}, {f:try your best to make it work|let's get along nicely, you and I}.\nUm, let's see.{p}",
+   "edit_notes": [
+    "17:6308: EDIT - female branch 'shall we.' (question tag ending in period, shared outside {f}) -> 'you and I'"
+   ]
+  },
+  {
+   "id": "17:7094",
+   "op": "text",
+   "before": "Money troubles, huh.{p}If that's what's on your mind, does that mean you're a big spender?\n",
+   "en": "Money trouble, huh.{p}If that's what's on your mind, does that mean you're a big spender?\n",
+   "edit_notes": [
+    "17:7094: EDIT - 'Money troubles' -> 'Money trouble' to echo the choice just picked"
+   ]
+  },
+  {
+   "id": "17:70f8",
+   "op": "text",
+   "before": "I see.\n...A big spender, huh.{p}Don't you want to save up your money and buy something, or go on a trip, or take classes somewhere, or do anything like that{f:, huh|, hm}?\n",
+   "en": "I see.\n...A big spender, huh.{p}Don't you feel like saving up to buy something, or going on a trip, or taking classes somewhere, or anything like that{f:?|, hm?}\n",
+   "edit_notes": [
+    "17:70f8: EDIT - clumsy 'or do anything like that, huh?' -> 'Don't you feel like saving up to buy something... or anything like that?' (female tag kept as ', hm?')"
+   ]
+  },
+  {
+   "id": "17:82e8",
+   "op": "text",
+   "before": "Mmm-mm.\nThe world is a tough place.\nBut still, you mustn't lose the will to keep trying.\nPull yourself together; shall we try divining something else?{p}",
+   "en": "Mmm-mm.\nThe world is a tough place.\nBut still, you mustn't lose the will to keep trying.\nPull yourself together, and let's try divining something else, shall we?{p}",
+   "edit_notes": [
+    "17:82e8: EDIT - semicolon in speech -> 'Pull yourself together, and let's try divining something else, shall we?'"
+   ]
+  },
+  {
+   "id": "17:88e4",
+   "op": "text",
+   "before": "I see.\nEntrance exams are on your mind after all, huh.\nAll right, I'll find out whether you'll get the result you want in your next entrance exams.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} get into the first-choice school in the next entrance exams?{p}",
+   "en": "I see.\nEntrance exams are on your mind after all, huh.\nAll right, I'll find out whether you'll get the result you want in your next entrance exams.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} get into the school of first choice in the next entrance exams?{p}",
+   "edit_notes": [
+    "17:88e4: EDIT - returns note: stiff 'the first-choice school' -> 'the school of first choice' (no player pronoun added)"
+   ]
+  },
+  {
+   "id": "17:8db8",
+   "op": "text",
+   "before": "Kokkuri-san, Kokkuri-san, please answer.\nTell us how {c}{f:|} will do on the upcoming finals.{p}",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nTell us how {c}{f:|} will do on the upcoming finals.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "17:8ebc",
+   "op": "text",
+   "before": "All right, what shall we read next?{p}",
+   "en": "All right, what shall I divine next?{p}",
+   "edit_notes": [
+    "17:8ebc 9464 953c 968c 9708 9aa0 9b6c 9c94 9fbc a0f4 a220 a47c a660 a6bc a8e8: EDIT - stock closer 'what shall we read next?' -> 'what shall I divine next?' to match the same line elsewhere in the scene (a6bc/a8e8 are money-path results, 8ebc a study-path result)"
+   ]
+  },
+  {
+   "id": "17:8ed8",
+   "op": "text",
+   "before": "Let me warn you first.\nYou can take the answer to this question as lying further in the future than the others.\nLife has its ups and downs.\nYou might break up with the person you're dating, gain money or lose it...\nEveryday life is always changing.\nEven if the other readings came out bad, if this one comes out good, all's well that ends well.\nOn the other hand, even if the other readings came out good, if this one's bad, it means your future will be full of hardship.{p}...Still want me to read this one?\n",
+   "en": "Let me warn you first.\nYou can take the answer to this question as lying further in the future than the others.\nLife has its ups and downs.\nYou might break up with the person you're dating, gain money or lose it...\nEveryday life is always changing.\nEven if the other readings came out bad, if this one comes out good, all's well that ends well.\nOn the other hand, even if the other readings came out good, if this one's bad, it means your future will be full of hardship.{p}...Still want me to divine this one?\n",
+   "edit_notes": []
+  },
+  {
+   "id": "17:905c",
+   "op": "choice",
+   "before": "Have it read",
+   "en": "Have it divined"
+  },
+  {
+   "id": "17:907c",
+   "op": "text",
+   "before": "All right, then I'll read it for you.{p}...Tell me, do you have a dream for the future?\n",
+   "en": "All right, then I'll divine it for you.{p}...Tell me, do you have a dream for the future?\n"
+  },
+  {
+   "id": "17:915c",
+   "op": "text",
+   "before": "So your dream is one where your own effort decides everything.\nAll right, I'll read it for you.\nListen. Concentrate in your mind on what I'm about to say.\nPicture your dream.\n......\nKokkuri-san, Kokkuri-san, please answer.\nWill the dream {c}{f:|} is picturing right now come true someday?{p}",
+   "en": "So your dream is one where your own effort decides everything.\nAll right, I'll divine it for you.\nListen. Concentrate in your mind on what I'm about to say.\nPicture your dream.\n......\nKokkuri-san, Kokkuri-san, please answer us.\nWill the dream {c}{f:|} is picturing right now come true someday?{p}"
+  },
+  {
+   "id": "17:9318",
+   "op": "text",
+   "before": "Next... let's see, let's read about the walls you'll have to get over to make your dream come true.\nKokkuri-san, Kokkuri-san, please answer.\nWould you tell us what will hold {c}{f:|} back from making that dream real?{p}",
+   "en": "Next... let's see, let's divine what walls you'll have to get over to make your dream come true.\nKokkuri-san, Kokkuri-san, please answer us.\nWould you tell us what will hold {c}{f:|} back from making that dream real?{p}"
+  },
+  {
+   "id": "17:9464",
+   "op": "text",
+   "before": "It says what's holding you back is 'yourself.'\nTo make a dream come true, you need a strong will.\nIn other words, this is a battle against yourself.\nWell, do your best.\nSo, what shall we read next?{p}",
+   "en": "It says what's holding you back is 'yourself.'\nTo make a dream come true, you need a strong will.\nIn other words, this is a battle against yourself.\nWell, do your best.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:953c",
+   "op": "text",
+   "before": "Ah, it says you'll be torn between love and your dream.\nDo you put your lover first, or your dream...?\nThat's a tough one.\nBut it says you'll make your dream come true, so what becomes of your lover then...\n{f:Well, I hope you can have it all|If I were the one, though, you'd have it all}: your dream and your love{f:, both of them.|. I'd never make you give up either.}\nNow, what shall we read next?{p}",
+   "en": "Ah, it says you'll be torn between love and your dream.\nDo you put your lover first, or your dream...?\nThat's a tough one.\nBut it says you'll make your dream come true, so what becomes of your lover then...\n{f:Well, I hope you can have it all|If I were the one, though, you'd have it all}: your dream and your love{f:, both of them.|. I'd never make you give up either.}\nNow, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:968c",
+   "op": "text",
+   "before": "Hmm, looks like the walls the world puts up are thick.\nNo matter what people say to you, keep at it.\nSo, what shall we read next?{p}",
+   "en": "Hmm, looks like the walls the world puts up are thick.\nNo matter what people say to you, keep at it.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:9708",
+   "op": "text",
+   "before": "Life is full of all sorts of mountains and valleys and rivers and forests and woods and birds and flowers and butterflies.\n...You don't get what I'm saying?\nOh well. So, what shall we read next?{p}",
+   "en": "Life is full of all sorts of mountains and valleys and rivers and forests and woods and birds and flowers and butterflies.\n...You don't get what I'm saying?\nOh well. So, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:9790",
+   "op": "text",
+   "before": "Starting a business with friends, marrying the person you love... there are all kinds of dreams, aren't there?\nAll right, I'll read it for you.\nListen. Concentrate in your mind on what I'm about to say.\nPicture your dream.\n......\nKokkuri-san, Kokkuri-san, please answer.\nWill the dream {c}{f:|} is picturing right now come true someday?{p}",
+   "en": "Starting a business with friends, marrying the person you love... there are all kinds of dreams, aren't there?\nAll right, I'll divine it for you.\nListen. Concentrate in your mind on what I'm about to say.\nPicture your dream.\n......\nKokkuri-san, Kokkuri-san, please answer us.\nWill the dream {c}{f:|} is picturing right now come true someday?{p}"
+  },
+  {
+   "id": "17:996c",
+   "op": "text",
+   "before": "Next... let's see, let's read about the people who'll help you make that dream real.\nKokkuri-san, Kokkuri-san, please answer.\nWho on earth will help {c}{f:|} with that dream?{p}",
+   "en": "Next... let's see, let's divine who'll help you make that dream real.\nKokkuri-san, Kokkuri-san, please answer us.\nWho on earth will help {c}{f:|} with that dream?{p}"
+  },
+  {
+   "id": "17:9aa0",
+   "op": "text",
+   "before": "'Yourself,' huh?\nSo making a dream come true takes your own effort first of all.\nIf you work hard first, helpers will turn up on their own.\nI'm rooting for you.\nAll right then, what shall we read next?{p}",
+   "en": "'Yourself,' huh?\nSo making a dream come true takes your own effort first of all.\nIf you work hard first, helpers will turn up on their own.\nI'm rooting for you.\nAll right then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:9b6c",
+   "op": "text",
+   "before": "It says your lover will be a big support to you.\nI wonder what they're like.\nIs there anyone you'd think of that way right now?\nIf not, I guess they'll show up later on.\n{f:Honestly|Or wait}, {f:you're one|maybe it's the one right in front of you}{f: lucky devil.|: me.}\nSo, what shall we read next?{p}",
+   "en": "It says your lover will be a big support to you.\nI wonder what they're like.\nIs there anyone you'd think of that way right now?\nIf not, I guess they'll show up later on.\n{f:Honestly|Or wait}, {f:you're one|maybe it's the one right in front of you}{f: lucky devil.|: me.}\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:9c94",
+   "op": "text",
+   "before": "Looks like you've got helpers all over the place.\nFriends, lovers, neighbors...\nIt says all kinds of people will support you because of the kind of person you are.\nKeep at it.\nSo, what shall we read next?{p}",
+   "en": "Looks like you've got helpers all over the place.\nFriends, lovers, neighbors...\nIt says all kinds of people will support you because of the kind of person you are.\nKeep at it.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:9d34",
+   "op": "text",
+   "before": "{f:So you don't have a dream, but you still want to know your future|So you don't have any dream in particular}.\n...Hmm.\n{f:If you ask something too sloppy|If we don't ask something specific}, Kokkuri-san will get {f:angry|confused}.\n{f:Could you tell me|Let me ask you} a little more clearly what you want.{p}How do you want to live your life in the future{f:, anyway|, hmm}?\n",
+   "en": "{f:So you don't have a dream, but you still want to know your future|So you don't have any dream in particular}.\n...Hmm.\n{f:If you ask something too sloppy|If we don't ask something specific}, Kokkuri-san will get {f:angry|confused}.\n{f:Tell me a little more clearly|Let me ask a bit more about} what you want.{p}How do you want to live your life in the future{f:, anyway|, hmm}?\n",
+   "edit_notes": [
+    "17:9d34: EDIT - male line was a question ending in a period, female 'Let me ask you a little more clearly' was clumsy -> 'Tell me a little more clearly / Let me ask a bit more about what you want.'"
+   ]
+  },
+  {
+   "id": "17:9ec8",
+   "op": "text",
+   "before": "Very well, then I shall divine it for you.\nKokkuri-san, Kokkuri-san, please answer.\nWill {c}{f:|} live a fun, carefree life in the future?{p}",
+   "en": "Very well, then I shall divine it for you.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} live a fun, carefree life in the future?{p}"
+  },
+  {
+   "id": "17:9fbc",
+   "op": "text",
+   "before": "All right then, what shall we read next?{p}",
+   "en": "All right then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:9fe0",
+   "op": "text",
+   "before": "Mm, very well, I shall divine it for you.\nKokkuri-san, Kokkuri-san, please answer.\nWill {c}{f:|} get to lead a turbulent life in the future?{p}",
+   "en": "Mm, very well, I shall divine it for you.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} get to lead a turbulent life in the future?{p}"
+  },
+  {
+   "id": "17:a0f4",
+   "op": "text",
+   "before": "All right then, what shall we read next?{p}",
+   "en": "All right then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:a118",
+   "op": "text",
+   "before": "I see. Then I shall divine it for you.\nKokkuri-san, Kokkuri-san, please answer.\nWill {c}{f:|} be able to live a stable, steady life in the future?{p}",
+   "en": "I see. Then I shall divine it for you.\nKokkuri-san, Kokkuri-san, please answer us.\nWill {c}{f:|} be able to live a stable, steady life in the future?{p}"
+  },
+  {
+   "id": "17:a220",
+   "op": "text",
+   "before": "All right then, what shall we read next?{p}",
+   "en": "All right then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:a2c8",
+   "op": "text",
+   "before": "Kokkuri-san, Kokkuri-san, please answer.\nWill the wish {c}{f:|} is about to make come true?\nNow, {c}{f:|}, go ahead and say your wish.\nJust mumble it under your breath so nobody else can hear.\n......................................{p}",
+   "en": "Kokkuri-san, Kokkuri-san, please answer us.\nWill the wish {c}{f:|} is about to voice come true?\nNow, {c}{f:|}, go ahead and say your wish.\nJust mumble it under your breath so nobody else can hear.\n......................................{p}",
+   "edit_notes": [
+    "17:a2c8: EDIT - garden-path 'the wish {c} is about to make come true?' -> 'is about to voice come true?'"
+   ]
+  },
+  {
+   "id": "17:a47c",
+   "op": "text",
+   "before": "...Huh?\nI shouldn't have been able to hear it, you say?\nI heard it, all right.\nYou said you want to live a fun, carefree, turbulent, ordinary life, didn't you?\nHuh? You didn't say that?\nMaybe I misheard...\nWell, at least it says it'll come true, so good for you.\nNow, what shall we read next?{p}",
+   "en": "...Huh?\nI shouldn't have been able to hear it, you say?\nI heard it, all right.\nYou said you want to live a fun, carefree, turbulent, ordinary life, didn't you?\nHuh? You didn't say that?\nMaybe I misheard...\nWell, at least it says it'll come true, so good for you.\nNow, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:a660",
+   "op": "text",
+   "before": "So, what'll we read next?{p}",
+   "en": "So, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:a67c",
+   "op": "text",
+   "before": "...I see.\nThen what do you want me to read?{p}",
+   "en": "...I see.\nThen what do you want me to divine?{p}"
+  },
+  {
+   "id": "17:a6bc",
+   "op": "text",
+   "before": "Unfortunately, it looks like you can't save money.\nWhatever comes in goes right back out.\nWell, don't look so disappointed.\nYour luck with money is good, so you just have to make the best use of it you can.\nAfter all, money isn't something you can take with you to the grave.\nSo, what shall we read next?{p}",
+   "en": "Unfortunately, it looks like you can't save money.\nWhatever comes in goes right back out.\nWell, don't look so disappointed.\nYour luck with money is good, so you just have to make the best use of it you can.\nAfter all, money isn't something you can take with you to the grave.\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:a8e8",
+   "op": "text",
+   "before": "Looks like you're going to be betrayed by your subordinates.\nI don't know what you'll be doing in the future, but if you don't learn to judge people, this is what happens{f:, you see|, that's all}.\nGot it?\nSo, what shall we read next?{p}",
+   "en": "Looks like you're going to be betrayed by your subordinates.\nI don't know what you'll be doing in the future, but if you don't learn to judge people, this is what happens{f:, you see|, that's all}.\nGot it?\nSo, what shall I divine next?{p}"
+  },
+  {
+   "id": "18:11c4",
+   "op": "text",
+   "before": "\"You guys think this looks like dry ice?\nThis is spirits, chilled until they froze solid.\"\nWhat is {f:this guy|this guy} even talking about?\nThen the girl pressed him further.{p}",
+   "en": "\"You guys think this looks like dry ice?\nThese are spirits, chilled until they froze solid.\"\nWhat is {f:this guy|this guy} even talking about?\nThen the girl pressed him further.{p}",
+   "edit_notes": [
+    "18:11c4: EDIT - ungrammatical 'This is spirits' -> 'These are spirits'"
+   ]
+  },
+  {
+   "id": "18:1270",
+   "op": "text",
+   "before": "\"Ah! There's a tape recorder sitting right here!\"\nShe said it and pointed under the desk.\nDon't tell me all those creepy sounds had been coming from this tape recorder?{p}",
+   "en": "\"Ah! There's a tape recorder sitting right here!\"\nShe pointed under the desk as she said it.\nDon't tell me all those creepy sounds were coming from this tape recorder?{p}",
+   "edit_notes": [
+    "18:1270: EDIT - returns note settled: stiff 'She said it and pointed' -> 'She pointed under the desk as she said it'; 'had been coming' -> 'were coming' to match the echo line 18:4870"
+   ]
+  },
+  {
+   "id": "18:18d0",
+   "op": "text",
+   "before": "Whoa, there.\nWhy are you making that face?\n{f:Cut it out.|Is something the matter?}\n{f:Keep giving me funny looks like that|You're cute, so}{f: and you'll wear this beautiful face away| a smile would suit you better}.\n{f:Honestly.|Hmm.}\n{f:You're|All right,} {f:hopeless, you know that|I'll be frank}.\n{f:You don't appreciate|I mean,} {f:the value of my secrets one bit.|I'm the school's super idol, aren't I?}\n{f:Listen, okay|You're in the newspaper club, so you must know that much}?\n{f:There|So there} are tons of {f:gals|people} who idolize me and try to pry out my blood type and birthday.{p}",
+   "en": "Whoa, there.\nWhy are you making that face?\n{f:Cut it out.|Is something the matter?}\n{f:Keep giving me funny looks like that|You're cute, so}{f: and you'll wear away this beautiful face of mine| a smile would suit you better}.\n{f:Honestly.|Hmm.}\n{f:You're|All right,} {f:hopeless, you know that|I'll be frank}.\n{f:You don't appreciate|I mean,} {f:the value of my secrets one bit.|I'm the school's super idol, aren't I?}\n{f:Listen, okay|You're in the newspaper club, so you must know that much}?\n{f:There|So there} are tons of {f:gals|people} who idolize me and try to pry out my blood type and birthday.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "18:2334",
+   "op": "text",
+   "before": "...{f:You're a rude one|That's so mean of you}, you know.\nHere I {f:went out of my way to throw|am, going out of my way to throw} the topic your way.\nAt a time like this,\n\"Yes, please, do tell me!\"\n...{f:is the least|or something like that,}{f: you're supposed to say| is what I'd hoped you'd say}.{p}",
+   "en": "...{f:You're a rude guy|That's so mean of you}, you know.\nHere I {f:went out of my way to throw|am, going out of my way to throw} the topic your way.\nAt a time like this,\n\"Yes, please, do tell me!\"\n...{f:is the least|or something like that,}{f: you could say| is what I'd hoped you'd say}.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "18:2674",
+   "op": "text",
+   "before": "...You do think so, you say?\nSo you think I'm lying★{p}You mean to say there's no way I could hear the voice of God★\n",
+   "en": "...You do think so, huh?\nSo you think I'm lying★{p}You mean to say there's no way I could hear the voice of God★\n",
+   "edit_notes": [
+    "18:2674: EDIT - stiff '...You do think so, you say?' -> '...You do think so, huh?'"
+   ]
+  },
+  {
+   "id": "18:2b0c",
+   "op": "text",
+   "before": "...Yes, that's the right answer.\nIf you don't believe what I say, misfortune will come to you, after all.\nGod speaks directly into my head, you see.\n\"This school is cursed.\"\n...like that.\nIt seems something evil has a hold on this school.\nAnd not just one or two of them, either. A huge number of them, apparently.\nAnd now, God has entrusted me with a new prophecy.\nListen closely. I'll only say this once.\nWhat God said was..........\n\"Stop telling the stories of the seven wonders.\"\nThat's what.\nIf we keep telling stories like these, the evil things lurking in this school will catch on and come closer, God says.\nI think I can feel it, too.{p}",
+   "en": "...Yes, that's the right answer.\nIf you don't believe what I say, misfortune will come to you, after all.\nGod speaks directly into my head, you see.\n\"This school is cursed.\"\n...like that.\nIt seems something evil has a hold on this school.\nAnd not just one or two of them, either. A huge number of them, apparently.\nAnd now, God has entrusted me with a new prophecy.\nListen closely. I'll only say this once.\nWhat God said was..........\n\"Stop telling the stories of the seven wonders.\"\nThat's the message.\nIf we keep telling stories like these, the evil things lurking in this school will catch on and come closer, God says.\nI think I can feel it, too.{p}",
+   "edit_notes": [
+    "18:2b0c: EDIT - non-idiomatic standalone 'That's what.' -> 'That's the message.'"
+   ]
+  },
+  {
+   "id": "18:2fd0",
+   "op": "text",
+   "before": "There really was something in that darkness.\nOf course, {f:I had no desire at all to find out what it was|I have no desire at all to find out what it is}.\n{f:I|I} value my life too.\nThe presence was {f:that dangerous|just that dangerous}.\n...Maybe, oddly enough, Kazama only said 'God' because he really just wanted to get out of here himself{f:|}.{p}",
+   "en": "There really was something in that darkness.\nOf course, {f:I had no desire at all to find out what it was|I have no desire at all to find out what it is}.\n{f:I|I} value my life too.\nThe presence was {f:that dangerous|just that dangerous}.\n...Who knows, maybe Kazama only brought up 'God' because he actually just wanted to get out of here himself{f:|}.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "18:4924",
+   "op": "text",
+   "before": "\"How could you, Kazama!\"\n\"How could I what?\nYou came to a project like this on purpose because you wanted to get scared, right?\nSo I went to the trouble of preparing something like this to live up to your expectations, didn't I?\"\n...He wasn't the least bit sorry.\nThis was too much{f:|}.\nWhy did someone like him have to show up{f:|}?\nJust then, the girl spoke.{p}",
+   "en": "\"How could you, Kazama!\"\n\"Why? What's the problem?\nYou came to a project like this on purpose because you wanted to get scared, right?\nSo I went to the trouble of preparing something like this to live up to your expectations, didn't I?\"\n...He wasn't the least bit sorry.\nThis was too much{f:|}.\nWhy did someone like him have to show up{f:|}?\nJust then, the girl spoke.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "19:0fc0",
+   "op": "text",
+   "before": "Listen, okay?\nI'll give you just one more chance.\nIf you give me another answer that makes no sense, I won't let you off lightly, got it?\nYou {f:understand|get it}, what 'won't let you off lightly' means?\n{f:If you do, then|Anyway,} think about it seriously.{p}Now, look at me and tell me honestly what you think I really am.\n",
+   "en": "Listen, okay?\nI'll give you just one more chance.\nIf you give me another answer that makes no sense, I won't let you off lightly, got it?\nDo you {f:understand|get} what 'won't let you off lightly' means?\n{f:If you do, then|Anyway,} think about it seriously.{p}Now, look at me and tell me honestly what you think I really am.\n",
+   "edit_notes": [
+    "19:0fc0: EDIT - clumsy comma splice -> natural question"
+   ]
+  },
+  {
+   "id": "19:1908",
+   "op": "choice",
+   "before": "This looks amazing. I'll watch quietly",
+   "en": "This looks kind of amazing. I'll watch quietly",
+   "edit_notes": [
+    "19:9100: EDIT - drop trailing period to match echo 19:1908"
+   ]
+  },
+  {
+   "id": "19:24a8",
+   "op": "text",
+   "before": "Yes, that's right.\nI'm a subterranean.\nMy people are called the Bupekippo.\nRemember that, okay?\nBy the way, {c}{f:|}, what did they teach you at school is down at the bottom of the earth?\n\"Isn't it hot, seething magma?\"\n{f:I|I} said.{p}",
+   "en": "Yes, that's right.\nI'm a subterranean.\nMy people are called the Bupekippo.\nRemember that, okay?\nBy the way, {c}{f:|}, what did they teach you at school about what's at the bottom of the earth?\n\"Isn't it hot, seething magma?\"\n{f:I|I} said.{p}",
+   "edit_notes": [
+    "19:24a8: EDIT - garbled question structure -> clear"
+   ]
+  },
+  {
+   "id": "19:25a4",
+   "op": "text",
+   "before": "\"Tsk, tsk, it's not magma, dummy.\nThat's nothing but our camou-{g}flage.\nAnd we borrow human form to blend in among you people.\nYou mustn't think you're the only living things on Earth.\nWell? That was scary, wasn't it?\nWith this, your seven-wonders newspaper is all set.\nLucky you, {c}{f:|}.\nNow, let's move on to the next person's story.\"{p}",
+   "en": "\"Tsk, tsk, it's not magma, dummy.\nThat's nothing but our camou-{g}flage.\nAnd we borrow human form to blend in among you people.\nYou mustn't think you're the only living things on Earth.\nWell? That was scary, wasn't it?\nWith this, your seven wonders paper is all set.\nLucky you, {c}{f:|}.\nNow, shall we move on to the next person's story?\"{p}",
+   "edit_notes": [
+    "19:25a4: EDIT - same source as 19:3668/19:4348; aligned term and wording",
+    "19:25a4: EDIT - (same row) aligned with echoes 19:3668/19:4348"
+   ]
+  },
+  {
+   "id": "19:2914",
+   "op": "text",
+   "before": "\"If you're that suspicious, {f:girls are going to hate you|boys are going to be put off by you}.\nSo you don't trust me, do you? You...\"\n",
+   "en": "\"If you're that suspicious, {f:girls are going to hate you|boys are going to be put off by you}.\nSo you don't trust me, is that it? You...\"\n",
+   "edit_notes": [
+    "19:2914: EDIT - aligned with identical echo 19:45e8",
+    "19:45e8: EDIT - aligned with identical echo 19:2914"
+   ]
+  },
+  {
+   "id": "19:33a0",
+   "op": "text",
+   "before": "\"Ahh, that was delicious☆\nThat's the end of my story, so next person, hurry up and start talking.\"\nWith that, Kazama smiled contentedly.\nThis {f:is|is} a bad dream.\n...Anyway, none of that {f:matters|matters} right now.\nThere were six people here, so unless a seventh showed up, the next story would be the last.\nI {f:had to|had to} hear the last person's story...{p}",
+   "en": "\"Ahh, that was delicious☆\nThat's the end of my story, so next person, hurry up and start talking.\"\nWith that, Kazama smiled contentedly.\nThis {f:is|is} a bad dream.\n...Anyway, none of that {f:matters|matters} right now.\nThere are six people here, so unless a seventh shows up, the next story will be the last.\nI {f:have to|have to} hear the last person's story...{p}",
+   "edit_notes": [
+    "19:33a0: EDIT - tense mismatch with the present-tense line before it; aligned with echoes 19:21d4/19:6a2c"
+   ]
+  },
+  {
+   "id": "19:34f4",
+   "op": "text",
+   "before": "...Heh heh heh, looks like you've figured it out.\nYou've got sharp instincts, huh.\nThis puts me in a tough spot.\nI try my hardest to hide it, and if it gets found out this fast, where's the fun in that?\nYes, that's right.\nI'm a being from another dimension, one who makes his home there.\nYes, we're called the Yapare.{p}",
+   "en": "...Heh heh heh, looks like you've figured it out.\nYou've got sharp instincts, haven't you?\nYou've put me in a bind.\nI work so hard to hide it, and it's no fun when it gets out this quickly.\nYes, that's right.\nI'm a being from another dimension, one who makes his home there.\nYes, we're called the Yapare.{p}",
+   "edit_notes": [
+    "19:34f4: EDIT - first four lines identical in source to 19:2408; aligned wording"
+   ]
+  },
+  {
+   "id": "19:36f4",
+   "op": "text",
+   "before": "...............Hold on.\nNo way... that's the end?\n{f:Ending|Ending} it like this is {f:just too much|just too much}.\n{f:I|I} was an idiot to go along with a story like that from {f:Kazama|Kazama}.\nThere's no way I can write an article {f:from|from} this.{p}At this point, I had to get him to do something about it.\n",
+   "en": "...............Hey, wait.\nWhat... that's the end?\nEnding it {f:like this|like this} is {f:too much|just too much}.\n{f:I|I} was an idiot to go along with a story like Kazama's{f:.|, wasn't I?}\nThere's no way this will make an article{f:.|.}{p}At this point, I need him to do something about it.\n",
+   "edit_notes": [
+    "19:36f4: EDIT - identical source to 19:26fc/19:43d4; replaced with their wording (fixes 'had to' tense slip and 'a story like that from Kazama')"
+   ]
+  },
+  {
+   "id": "19:45e8",
+   "op": "text",
+   "before": "\"If you're that suspicious, {f:girls will hate you|boys will find you a drag}.{p}So you don't trust me, is that it? You...\"\n",
+   "en": "\"If you're that suspicious, {f:girls are going to hate you|boys are going to be put off by you}.{p}So you don't trust me, is that it? You...\"\n",
+   "edit_notes": [
+    "19:2914: EDIT - aligned with identical echo 19:45e8",
+    "19:45e8: EDIT - aligned with identical echo 19:2914"
+   ]
+  },
+  {
+   "id": "19:4694",
+   "op": "text",
+   "before": "\"No, no, it's not that I don't trust you, Kazama.\n{f:I|I} trust you completely, Kazama.\nYes, I absolutely trust you☆\"\n{f:I|I} was straining with the effort.\nSomething like that, I could {f:never|never} say unless I blurted it out on momentum.{p}",
+   "en": "\"No, no, it's not that I don't trust you, Kazama.\n{f:I|I} trust you completely, Kazama.\nYes, I absolutely trust you☆\"\n{f:I|I} was getting all worked up.\nI could {f:never|never} say something like that unless I just blurted it out.{p}",
+   "edit_notes": [
+    "19:4694: EDIT - returns note: 'straining with the effort' -> 'getting all worked up'; clumsy 'on momentum' line smoothed"
+   ]
+  },
+  {
+   "id": "19:4f18",
+   "op": "text",
+   "before": "The truth is, I really am not human.{p}So what do you think I really am?\n",
+   "en": "The truth is, I'm really not human.{p}So what do you think I really am?\n",
+   "edit_notes": [
+    "19:4f18: EDIT - stiff 'I really am not' -> natural"
+   ]
+  },
+  {
+   "id": "19:5008",
+   "op": "text",
+   "before": "\"Seriously?\n{f:How rude|That's mean}. Are you calling me a liar?\nI'm perfectly serious.\nI pride myself on being the most honest person there is.\nI can't accept you calling someone like me a liar{f:.|!}\n{f:Huh|Well}?\"\nHe {f:said, a little offended|got a little offended}.\n\"...In short, you don't trust me, is that it?\nIs what I told you just now really so hard to believe?\"{p}",
+   "en": "\"Serious?\n{f:How rude|That's mean}. Are you calling me a liar?\nI'm perfectly serious.\nI'll have you know, I pride myself on being the most honest person there is.\nI can't accept being branded a liar like that{f:.|!}\n{f:Huh|Well}?\"\nHe {f:said, a little offended|got a little offended}.\n\"...So basically, you don't trust me.\nIs what I told you really that hard to believe?\"{p}",
+   "edit_notes": [
+    "19:5008: EDIT - aligned with identical echoes 19:6c5c/19:87d4",
+    "19:5008: EDIT - (same row) aligned lines with echoes",
+    "19:5008: EDIT - (same row) aligned with identical echo 19:87d4"
+   ]
+  },
+  {
+   "id": "19:55d4",
+   "op": "text",
+   "before": "\"...I never said I didn't trust you, Kazama.\nIf you say so, Kazama, then {f:we|we} believe you.\nYes☆\nEven if everyone else refuses to believe you, {f:I|I} alone will believe you☆\nKazama☆\nHuff, huff, huff...\"\n{f:I|I} got carried away straining.\nIf I didn't say something like that for now, who knew what he'd say to me {f:later|later}.\nHe calmly soothed {f:me|me} and went on with his story.{p}",
+   "en": "\"...I never said I didn't trust you, Kazama.\nIf you say so, Kazama, then {f:we|we} believe you.\nYes☆\nEven if everyone else refuses to believe you, {f:I|I} alone will believe you☆\nKazama☆\nHuff, huff, huff...\"\n{f:I|I} found myself getting all worked up.\nIf I didn't say something like that for now, who knew what he'd say to me {f:later|later}.\nHe calmly soothed {f:me|me} and went on with his story.{p}",
+   "edit_notes": [
+    "19:55d4: EDIT - returns note: awkward 'got carried away straining' -> 'found myself getting all worked up'",
+    "19:6e10: EDIT - same source as 19:55d4; aligned",
+    "19:6e10: EDIT - (same row) aligned with 19:55d4"
+   ]
+  },
+  {
+   "id": "19:6e10",
+   "op": "text",
+   "before": "\"I trust you, Kazama!\nIf you say so, then {f:we|we}'ll believe it.\nYes☆\nEven if nobody else believes you, {f:I|I} will☆ Kazama☆\nHuff, huff, huff...\"\n{f:I|I} found myself straining way too hard.\nIf I didn't say something like that, who knows what he'd say to me later{f:.|.}\n\"It's all right, you don't have to force yourself.\nI'll show you the proof, nice and thoroughly...\"\nKazama said with a broad smile.{p}",
+   "en": "\"I trust you, Kazama!\nIf you say so, Kazama, then {f:we|we} believe you.\nYes☆\nEven if everyone else refuses to believe you, {f:I|I} alone will believe you☆ Kazama☆\nHuff, huff, huff...\"\n{f:I|I} found myself getting all worked up.\nIf I didn't say something like that for now, who knew what he'd say to me later{f:.|.}\n\"It's all right, you don't have to force yourself.\nI'll show you the proof, nice and thoroughly...\"\nKazama said with a broad smile.{p}",
+   "edit_notes": [
+    "19:6e10: EDIT - same source as 19:55d4; aligned",
+    "19:6e10: EDIT - (same row) aligned with 19:55d4"
+   ]
+  },
+  {
+   "id": "19:90dc",
+   "op": "choice",
+   "before": "Wait. I can do that too.",
+   "en": "Wait a second. I can do that too",
+   "edit_notes": [
+    "19:90dc: EDIT - align repeated choice with echo 19:18e4"
+   ]
+  },
+  {
+   "id": "19:9120",
+   "op": "text",
+   "before": "\"Ah, wait a minute!\nI can actually do that too...\"{p}",
+   "en": "\"Ah, wait a second!\nI can actually do that too...\"{p}",
+   "edit_notes": [
+    "19:9120: EDIT - match echo 19:192c"
+   ]
+  },
+  {
+   "id": "19:917c",
+   "op": "text",
+   "before": "\"Huh?\"\nKazama looked surprised; he hadn't expected that.\nBut he soon said with a big smile:{p}",
+   "en": "\"Huh?\"\nKazama looked genuinely surprised.\nBut he soon said with a big smile:{p}",
+   "edit_notes": [
+    "19:917c: EDIT - same source line as 19:1988; aligned wording"
+   ]
+  },
+  {
+   "id": "20:1010",
+   "op": "text",
+   "before": "But if the guardian spirit you've got is no good...\nyour life turns out the worst it possibly could.\nFrom a quick look, it seems like someone really amazing is watching over you as your guardian spirit, but...\nWell, before I look at your guardian spirit, I'll read your past life for you.{p}So, do you want me to read your past life?\n",
+   "en": "But if the guardian spirit you've got is no good...\nyour life turns out the worst it possibly could.\nAt a glance, it looks like you've got someone really amazing watching over you as your guardian spirit, but...\nWell, before I look at your guardian spirit, I'll read your past life for you.{p}So, do you want me to read your past life?\n",
+   "edit_notes": [
+    "20:1010: EDIT - clumsy 'From a quick look, it seems like' -> 'At a glance, it looks like you've got'"
+   ]
+  }
+ ]
+}

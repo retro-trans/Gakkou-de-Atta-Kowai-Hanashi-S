@@ -1,0 +1,424 @@
+{
+ "chunk": "E063",
+ "scene": "31",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "slices": [
+  "S123"
+ ],
+ "prev": "E062",
+ "next": "E064",
+ "todo": [],
+ "rows": [
+  {
+   "id": "31:698c",
+   "op": "text",
+   "en": "This time, the teacher struck the match carefully.\nOnce it had properly caught, the teacher shielded it with one hand so the wind couldn't blow it out.\nThen the teacher ever so gently brought it close to the painting.{p}"
+  },
+  {
+   "id": "31:6a2c",
+   "op": "text",
+   "en": "But... even so, the flame went out.\nJust before it touched the painting.\nHowever you looked at it, the only explanation was that the painting itself was somehow putting it out.\nEveryone got so creeped out that they decided not to try any more.\nBut they couldn't just leave it be, either, could they?{p}"
+  },
+  {
+   "id": "31:6b38",
+   "op": "text",
+   "en": "Tore it up... you say?\nHow can you say something so brutal?\nDo you really like paintings?\nOr were you just playing along with me?\nDid you lie to me?\nI hate liars!{p}",
+   "follows_choice": [
+    "31:2bfc"
+   ]
+  },
+  {
+   "id": "31:6bf4",
+   "op": "text",
+   "en": "......No, that's not it, is it?\n{a}{f:|}, you're not that careless a person.\nI can tell.\nYou were only making a little joke, weren't you?\nI understand.\nBut you see, I hate tasteless jokes just as much as I hate being lied to.\n"
+  },
+  {
+   "id": "31:6cd8",
+   "op": "text",
+   "en": "I'll forgive you because it's you, {a}{f:|}, but don't do it again.\n...Oh yes, we were talking about what they did with the painting.{p}"
+  },
+  {
+   "id": "31:6d60",
+   "op": "text",
+   "en": "The painting had gone back to her house.\nWhat's more, it was lying on the bed in her room.\nAnd of course, nobody had carried it there.\nHer family must have been shocked.\nBut there was something even more startling to come.{p}",
+   "follows_choice": [
+    "31:2f34"
+   ]
+  },
+  {
+   "id": "31:6e40",
+   "op": "text",
+   "en": "The next day, the painting vanished from her house as well.\nOne of the art club members heard the news, had a hunch, and went to the art room.\nAnd there... it was.{p}"
+  },
+  {
+   "id": "31:6ef8",
+   "op": "text",
+   "en": "That portrait, hanging in the very same spot as before.\nIt caused an uproar.\n"
+  },
+  {
+   "id": "31:6f30",
+   "op": "text",
+   "en": "But once school let out, the painting disappeared again.{p}"
+  },
+  {
+   "id": "31:6f6c",
+   "op": "text",
+   "en": "And it turned up at her house.\nThat's when everyone finally realized.\nThat painting was coming to school in place of Shimizu, who was dead.{p}"
+  },
+  {
+   "id": "31:7004",
+   "op": "text",
+   "en": "From then on, the painting came to school every day.\nBut it wasn't doing any harm, so they decided to let it do as it pleased.\nThat was what Shimizu's family wanted, too.\nThen, one day, after several months had gone by...\n"
+  },
+  {
+   "id": "31:70cc",
+   "op": "text",
+   "en": "Something terrible happened.{p}What do you think it was?\n"
+  },
+  {
+   "id": "31:7100",
+   "op": "choice",
+   "en": "Her house caught fire"
+  },
+  {
+   "id": "31:7118",
+   "op": "choice",
+   "en": "Her family was in a car accident"
+  },
+  {
+   "id": "31:7150",
+   "op": "text",
+   "en": "In the middle of the night one day, her house caught fire.\nHer family escaped unharmed, but the house burned to the ground.\nNaturally, the painting that had been on her bed burned with it.\nThe Shimizus, burned out of their home, moved away, saying they would go to stay with relatives.{p}",
+   "follows_choice": [
+    "31:7100"
+   ]
+  },
+  {
+   "id": "31:726c",
+   "op": "text",
+   "en": "But some time after that, the portrait appeared in the art room once again.\nEven though the fire had been so fierce that nothing should have been left.\nI suppose that just shows how strong the feelings Shimizu left in that painting were.\nBut, you see, there was one problem.\nHer house had burned down.\nAnd her family had moved far away, hadn't they?\n...That's right. The painting no longer had a home to go back to.{p}"
+  },
+  {
+   "id": "31:73ec",
+   "op": "text",
+   "en": "After that, the painting stopped disappearing at night."
+  },
+  {
+   "id": "31:7430",
+   "op": "text",
+   "en": "Instead, a rumor started that it would begin sobbing late at night.\nShe must have been lonely, I'm sure.\nBut everyone was so frightened of it that in the end they took the painting down."
+  },
+  {
+   "id": "31:74e0",
+   "op": "text",
+   "en": "And it was settled that the art club would keep it in storage.\nAfter that, nothing else ever happened.{p}"
+  },
+  {
+   "id": "31:7568",
+   "op": "text",
+   "en": "...But you know what I think?\nI wonder if she wants to go and look for her family.\nBut shut away in a place like that, she can't do that, can she?{p}"
+  },
+  {
+   "id": "31:7610",
+   "op": "text",
+   "en": "...Heh heh, do you see now?\nThe reason I wanted to bring that painting out was to give her a chance to look for her family. If I'm right, that painting will go off in search of them.\nSay, let's go and take a look.\nYou'll come with me, won't you?{p}"
+  },
+  {
+   "id": "31:7714",
+   "op": "text",
+   "en": "...But it's exciting, isn't it?\nWe might even catch the painting in the act of moving.\nDoesn't it make your heart pound?\nAll right, I'm opening the door.{p}"
+  },
+  {
+   "id": "31:77c4",
+   "op": "text",
+   "en": "...Look, {a}{f:|}!\nThe painting's still hanging there, but......the person in it is gone★\nIt isn't a different painting.\nI remember seeing that faint stain in the corner earlier.\nOnly the figure has slipped out of the portrait!\nI never imagined this would happen...{p}"
+  },
+  {
+   "id": "31:78e4",
+   "op": "text",
+   "en": "But I wonder what she looks like, now that she's left the painting.\nIs she as flat and thin as paper?\nOr is she only the upper half that was painted?\nIs she even still in Shimizu's shape at all?\nHeh heh, what do you think, {a}{f:|}?\nIt didn't turn out the way I expected, but that's the end of my story.\nLet's go back to the club room and hear the next one.{p}"
+  },
+  {
+   "id": "31:7a1c",
+   "op": "text",
+   "en": "The car her family was riding in went off a cliff, from brake failure or something.\nThey say every one of them died instantly.{p}",
+   "follows_choice": [
+    "31:7118"
+   ]
+  },
+  {
+   "id": "31:7a8c",
+   "op": "text",
+   "en": "After the funeral, one of their relatives, an uncle, moved into the Shimizu house.\nAnd he couldn't stand her painting, so he announced he was going to donate it to the school.{p}"
+  },
+  {
+   "id": "31:7b24",
+   "op": "text",
+   "en": "The school accepted it, but...\nmaybe that was where things went wrong.{p}"
+  },
+  {
+   "id": "31:7b7c",
+   "op": "text",
+   "en": "One day, her painting, which should have been in the art room, suddenly vanished.\nEveryone searched, but they couldn't find it, so they decided to ask the relative, just in case.{p}"
+  },
+  {
+   "id": "31:7c10",
+   "op": "text",
+   "en": "...But when they called, no one answered.\nNo matter how many times they called back, they couldn't get through.\nSo, with no other choice, the art club's advisor and the club president went to the house, they say.{p}"
+  },
+  {
+   "id": "31:7cb8",
+   "op": "text",
+   "en": "But again, there was no answer.\nAnd yet, they could hear what sounded like a TV inside.\nThinking he was pretending not to be home, they turned the doorknob, and sure enough, it wasn't locked.\nSo they opened the door, they say.{p}"
+  },
+  {
+   "id": "31:7d8c",
+   "op": "text",
+   "en": "And there......the uncle lay dead, blood pouring from his throat.\nAfter that it was utter chaos, with the police being called and everything.\nThey say the uncle's wound had been made by the bite of some large animal.{p}"
+  },
+  {
+   "id": "31:7e74",
+   "op": "text",
+   "en": "A large animal... can you picture anything?\nI can.\nBecause that portrait was lying right there at the scene.\nIf I told you there was something like blood around her mouth in that painting... would you believe me?\nTo Shimizu, it was as good as having her own home stolen from her.\nNo, maybe even her family's accident wasn't just an accident.{p}"
+  },
+  {
+   "id": "31:7fe0",
+   "op": "text",
+   "en": "...Heh heh, what a frightened face, {a}{f:|}.\nDid you take my wild guesswork seriously?\nThe blood on the painting might just have spattered onto it, you know.\nThe truth lies in darkness, after all... heh heh.\nAnd with that, I'll end my story.\nWho's next?{p}"
+  },
+  {
+   "id": "31:80dc",
+   "op": "text",
+   "en": "That's right, the painting was in the club room.\nA boy from the art club had taken it there.\nWhy would he do that, you ask?\nBecause he was in love with Shimizu.\nSo he wanted the portrait that Shimizu had clung to even after her death.\nThat's when the real trouble started.",
+   "follows_choice": [
+    "31:2f40"
+   ]
+  },
+  {
+   "id": "31:81d4",
+   "op": "text",
+   "en": "The boy wouldn't leave Shimizu's painting.\nNot when the teachers scolded him, not even when night fell.\nIn the end, his family came and tried to talk him round.\nBut he wouldn't listen.\nHe stayed rooted to the spot, they say, just staring and staring at the painting.\nSo there was nothing for it but to move the painting instead.\nIf they took it home, at least the boy would follow it.\nAnd that's exactly what happened.{p}"
+  },
+  {
+   "id": "31:8358",
+   "op": "text",
+   "en": "Led by his family, who carried the painting in their arms, the boy staggered home.\nAnd after that, he never came to school again.{p}"
+  },
+  {
+   "id": "31:83d8",
+   "op": "text",
+   "en": "Apparently he sat in his room staring at the painting, never moving at all.\nNot eating, not sleeping, just staring, on and on.\nThat went on for nearly a month.\nHis family was so worried they even tried to take him to the hospital.\nBut whenever they tried to pull him away from the painting, he went berserk, they say.\nWith a strength you'd never think a human could have.{p}"
+  },
+  {
+   "id": "31:84e8",
+   "op": "text",
+   "en": "As a last resort, the family called in a counselor.\nBut it was a little too late.\nWhen the counselor went into his room, he had already stopped breathing.\n"
+  },
+  {
+   "id": "31:8588",
+   "op": "text",
+   "en": "He had wasted away and died.{p}"
+  },
+  {
+   "id": "31:85d0",
+   "op": "text",
+   "en": "But strangely, even then he was still sitting there, gazing up at the painting hung on the wall.\nWhen they tried to move him, it was as if he had turned to stone; they couldn't even change his pose.\nAfter his funeral, the portrait was returned to the school.\nBut nobody would go near it anymore.\nAfter all, it holds the feelings of two people now.\nIf you got close to it, you might be bewitched just like he was.\nThat's the kind of history that painting has.{p}"
+  },
+  {
+   "id": "31:876c",
+   "op": "text",
+   "en": "...Oh my, you look rather angry.\nIs it because I invited you to the art room, where that painting is, without telling you any of this?\nHeh heh... Aren't you getting scared now, a little too late?\nWell then, I'll end my story here.\nWho's next?{p}"
+  },
+  {
+   "id": "31:8858",
+   "op": "text",
+   "en": "The painting was in front of her grave.\nAnd a man was lying collapsed there.\nA stranger nobody recognized, wearing a filthy windbreaker.\nBy the time he was found, he was already dead.\nThe cause of death was heart failure, they say.{p}",
+   "follows_choice": [
+    "31:2f48"
+   ]
+  },
+  {
+   "id": "31:8924",
+   "op": "text",
+   "en": "Why a man like that died at her grave, no one knows.\nBut maybe... he was the one who killed Shimizu, don't you think?\nThe portrait took its revenge... that's a little hard to believe, isn't it?\nBut that's how it seems to me.\nAfter that, Shimizu's ghost never appeared again, and the painting never disappeared again.\nWhich makes me feel that way all the more.{p}"
+  },
+  {
+   "id": "31:8a80",
+   "op": "text",
+   "en": "But it's amazing, isn't it?\nTo be able to take revenge that way.\n"
+  },
+  {
+   "id": "31:8acc",
+   "op": "text",
+   "en": "Maybe I should work out a way of my own, just in case, so I can take revenge whenever I need to... heh heh.\nWell, that's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "31:8b58",
+   "op": "text",
+   "en": "Oh, no you don't.\nAfter listening this far, you can't back out now, can you?\nCome on, stand up.\nYou're coming.\nIf you don't come, I won't forgive you.\nCome on!{p}",
+   "follows_choice": [
+    "31:344c"
+   ]
+  },
+  {
+   "id": "31:8be4",
+   "op": "text",
+   "en": "......Yes, that's it.\nI'm so glad you'll come after all.\nIt makes me happy.{p}"
+  },
+  {
+   "id": "31:8c38",
+   "op": "text",
+   "en": "Oh, are you really sure?\nHaven't you noticed the eerie presence drifting through this room?\nAnd you'd stay behind alone in a place like this?\n...Well, if that's what you want, I don't mind.\nBut you're a strange one.\nI'd never do it, not for anything.\nWell then, we're going, but if you change your mind, come after us.{p}",
+   "follows_choice": [
+    "31:345c"
+   ]
+  },
+  {
+   "id": "31:8d50",
+   "op": "text",
+   "en": "Everyone except {f:me|me} stood up and began filing out of the room.\nIwashita, the last to go, looked back at {f:me|me}.{p}"
+  },
+  {
+   "id": "31:8dec",
+   "op": "text",
+   "en": "\"Be careful...\""
+  },
+  {
+   "id": "31:8e10",
+   "op": "text",
+   "en": "She giggled softly.\nA chill ran down my spine.\n{f:Did she know something?|Did she know something?}\nSuddenly, the thought of being left alone in this room scared me."
+  },
+  {
+   "id": "31:8ea0",
+   "op": "text",
+   "en": "But {f:I|I} held firm.\nShe was putting on that knowing act on purpose{f:.|.}\nShe thought it would make {f:me|me} scared.\n{f:I wasn't going to fall for a trick like that.|I wasn't going to fall for a trick like that.}\nIwashita, who had been closing the door, gave me a sweet smile.\n\"You're more of a fool than I thought.\"{p}"
+  },
+  {
+   "id": "31:8fc0",
+   "op": "text",
+   "en": "The door closed.\nAlone now, the club room, which should have been cramped, felt strangely vast.\nIt seemed as if something might be lurking in the dim corners of the room, and {f:I|I} couldn't help glancing all around."
+  },
+  {
+   "id": "31:9068",
+   "op": "text",
+   "en": "Just then, there was a small clack.{p}"
+  },
+  {
+   "id": "31:909c",
+   "op": "text",
+   "en": "I whirled around.\n...No one was there.{p}"
+  },
+  {
+   "id": "31:90dc",
+   "op": "text",
+   "en": "Thinking I must have imagined it, I looked toward the desk, and there was the portrait.\nIt hadn't been there a second ago★\nThe blood all through my body froze solid.{p}"
+  },
+  {
+   "id": "31:915c",
+   "op": "text",
+   "en": "My eyes met those of the girl in the painting.\nThe girl's mouth moved.\nD... i... e......\n"
+  },
+  {
+   "id": "31:91c4",
+   "op": "text",
+   "en": "Die★\nStunned, {f:I|I} watched my hands rise on their own, against my will.\n{f:My|My} hands were trying to strangle {f:me|me}?\nI couldn't believe it."
+  },
+  {
+   "id": "31:926c",
+   "op": "text",
+   "en": "But the force crushing my throat was real, and the pain made me start to black out.\nMy knees gave way, and {f:I|I} collapsed to the floor.\nBut my hands wouldn't let me go.\nThey squeezed tighter and tighter.\nI couldn't breathe anymore.{p}"
+  },
+  {
+   "id": "31:9340",
+   "op": "text",
+   "en": "As my vision grew darker and darker, I saw the girl in the portrait smirk......{p}"
+  },
+  {
+   "id": "31:9398",
+   "op": "text",
+   "en": "{a}{f:|}, you really do have sick taste.\nAre you that eager to see that face?{p}",
+   "follows_choice": [
+    "31:3ba4",
+    "31:9964"
+   ]
+  },
+  {
+   "id": "31:93e8",
+   "op": "text",
+   "en": "All right, then let's open it.{p}"
+  },
+  {
+   "id": "31:9428",
+   "op": "text",
+   "en": "...Well, {a}{f:|}?"
+  },
+  {
+   "id": "31:9458",
+   "op": "text",
+   "en": "Can you see the face you were hoping for?{p}"
+  },
+  {
+   "id": "31:9488",
+   "op": "text",
+   "en": "To me it's just an ordinary painting, but I wonder what it looks like to you.\nMaybe you're seeing the face she had when she was killed.\nIf so, {a}{f:|}, you might just be the fifth one, don't you think?\n...I'm a little curious about the face you saw, but I think I'll not ask after all.\nYou may not believe it, but I scare easily.{p}"
+  },
+  {
+   "id": "31:95b4",
+   "op": "text",
+   "en": "How do you come up with such things?\nWhat goes on inside that head of yours?\nI'm opening it.{p}",
+   "follows_choice": [
+    "31:3bc4",
+    "31:9984"
+   ]
+  },
+  {
+   "id": "31:9640",
+   "op": "text",
+   "en": "...It's gone. The painting★{p}"
+  },
+  {
+   "id": "31:9664",
+   "op": "text",
+   "en": "Did someone take it back to the art club's room?{p}"
+  },
+  {
+   "id": "31:9698",
+   "op": "text",
+   "en": "...No, it doesn't seem to be here either.\nI'm amazed. What you said, {a}{f:|}, actually came true.{p}"
+  },
+  {
+   "id": "31:9714",
+   "op": "text",
+   "en": "Are you some kind of psychic?\nHeh heh... I'm starting to find you rather interesting.\nWell then, shall we go back?\nWe have to hear the fourth story.\nWhat, where the painting went?\nI don't know.\nBut what does that matter?\nThis project is about telling the seven wonders, isn't it?\nIf everything were explained, they wouldn't be wonders at all, would they?\nAm I wrong?\n...Come on, let's go on... heh heh.{p}"
+  },
+  {
+   "id": "31:9890",
+   "op": "text",
+   "en": "What's with that careless attitude?\nI'm asking you something, so would you answer me properly?{p}",
+   "follows_choice": [
+    "31:3be4"
+   ],
+   "returns": []
+  },
+  {
+   "id": "31:98f0",
+   "op": "text",
+   "en": "I'll ask you once more.{p}{a}{f:|}, what do you want to have happened to the portrait?\n"
+  },
+  {
+   "id": "31:9948",
+   "op": "choice",
+   "en": "The painting is unchanged, just as it was"
+  },
+  {
+   "id": "31:9964",
+   "op": "choice",
+   "en": "It has the face she had when she was killed"
+  },
+  {
+   "id": "31:9984",
+   "op": "choice",
+   "en": "The painting is gone from the art room"
+  }
+ ]
+}

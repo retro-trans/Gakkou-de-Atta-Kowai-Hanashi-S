@@ -1,0 +1,320 @@
+{
+ "slice": "S010",
+ "scene": "04",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S009",
+ "next": "S011",
+ "todo": [],
+ "rows": [
+  {
+   "id": "04:095c",
+   "op": "text",
+   "en": "...Still, I can't believe you're going on with this.\n{a}, was it?\nYou've got some real guts, you know that?\nWell?{p}Don't you actually want to quit already?\n"
+  },
+  {
+   "id": "04:09f8",
+   "op": "choice",
+   "en": "I want to quit"
+  },
+  {
+   "id": "04:0a04",
+   "op": "choice",
+   "en": "I don't want to quit"
+  },
+  {
+   "id": "04:0a14",
+   "op": "text",
+   "follows_choice": [
+    "04:0a04"
+   ],
+   "en": "I like that.{p}"
+  },
+  {
+   "id": "04:0a30",
+   "op": "text",
+   "en": "Still, it's gotten pretty lonely in here.\nThere were six of us at the start, and now we're down to three.\nAnd the last one who's supposed to tell a story still hasn't shown up.\nWell, I guess that doesn't matter.\nNo point making a fuss about it now.{p}"
+  },
+  {
+   "id": "04:0b34",
+   "op": "text",
+   "en": "Well then, let me introduce myself.\nMy name's Makoto Shindo.\nI'm a third-year.\nGood to meet you.{p}"
+  },
+  {
+   "id": "04:0b94",
+   "op": "text",
+   "en": "You know our school's got a whole pile of sports clubs that are regulars at the national tournament, right?\nBaseball and soccer.\nJudo and kendo.\nTennis and table tennis.\nWell, we've got plenty of talent here.\nWhich means the teams run deep.\nAnyway, among all those sports clubs, there was one that set just as many brilliant records as the ones I just named.\nThough it's gone completely to seed these days.\nCan you guess which one?{p}"
+  },
+  {
+   "id": "04:0d2c",
+   "op": "text",
+   "en": "...It's the boxing club.\nBoxing's great.\nIt's a man's sport.\nIt's the kind of sport a woman can't really understand, right?\nPeople who don't get boxing say it's just a slugfest, just a brawl, but that's dead wrong.\nYou'd be hard pressed to find a more gentlemanly sport anywhere, don't you think?\nOur school's boxing club was really something back in the day, too.\nIt showed up at the nationals pretty much every single year.\nAnd it placed near the top in a whole bunch of weight classes.\nImpressive, huh?{p}"
+  },
+  {
+   "id": "04:0f10",
+   "op": "text",
+   "en": "But now it's no good.\nNo good at all.\nThe membership's dropped way off, too.\nThere's not a trace left of what it used to be.\nIt's turned into a ghost club, clinging to its past glory and only still around out of pity.\nBut there's a little reason behind that.\nThe scary story I'm going to tell you is about that boxing club.{p}"
+  },
+  {
+   "id": "04:1044",
+   "op": "text",
+   "en": "The boxing club didn't just get strong on its own.\nAnd it's not like only guys with talent sign up, either.\nIn sports, guts count for more than talent.\nThe boxing club got strong by beating those guts into shape.\nThat's what they call hard training.\nIt's not bullying, mind you.\nIt's training.{p}"
+  },
+  {
+   "id": "04:1160",
+   "op": "text",
+   "en": "Our boxing club had a traditional kind of training that got handed down from one generation to the next.{p}You know what kind of training it was?\n"
+  },
+  {
+   "id": "04:11d0",
+   "op": "choice",
+   "en": "A thousand bunny hops"
+  },
+  {
+   "id": "04:11e0",
+   "op": "choice",
+   "en": "Running to the shrine"
+  },
+  {
+   "id": "04:11f8",
+   "op": "choice",
+   "en": "Brutal alumni training"
+  },
+  {
+   "id": "04:1208",
+   "op": "choice",
+   "en": "The Hell Camp"
+  },
+  {
+   "id": "04:121c",
+   "op": "text",
+   "follows_choice": [
+    "04:1208"
+   ],
+   "en": "That's right, the one they also call the Hell Camp.\nWhen summer vacation comes, they hole up in the mountains for three whole weeks.\nOf course, there's brutal training before that, too.\nHard training from the alumni, three round trips running to the shrine.{p}"
+  },
+  {
+   "id": "04:12cc",
+   "op": "text",
+   "en": "That alone is hell.\nPlenty of guys can't take it and quit.\nBut compared to that camp, it's heaven.{p}"
+  },
+  {
+   "id": "04:1350",
+   "op": "text",
+   "en": "At the start, there are about forty new members.\nThe tough training cuts that down to about half.\nAnd then comes the summer Hell Camp.\nThe twenty or so who somehow made it that far get whittled down to five at this camp.\nSurprised, huh?\nBut those five are strong, let me tell you.\nAfter all, they're the five who survived the Hell Camp.\nTheir guts are on a whole other level.\nThey're the ones who carry the boxing club's tradition and pass it on.{p}...So, do you want to know what goes on at that camp?\n"
+  },
+  {
+   "id": "04:14d4",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "04:14e0",
+   "op": "choice",
+   "en": "I don't want to know"
+  },
+  {
+   "id": "04:14f8",
+   "op": "text",
+   "follows_choice": [
+    "04:14d4"
+   ],
+   "en": "Heh heh... So you want to know, huh?\nYou're really into this stuff, aren't you?\nYou just love cruel stories, is that it?\nOr are you the type who loves other people's misery?\nWell, whatever.\nThen I'll tell you.{p}"
+  },
+  {
+   "id": "04:15bc",
+   "op": "text",
+   "en": "In the morning, they get up at four, chop firewood and do morning practice.\nThen they make breakfast.\nAfter they eat, it's weight training and running the mountain trails.\nThat's rough, let me tell you.{p}"
+  },
+  {
+   "id": "04:1654",
+   "op": "text",
+   "en": "Then they make lunch.\nThe first-years do all the cooking, see.\nAnd if it tastes bad, they get punched out.\nOn top of that, three hundred push-ups.\nJust because the food tasted bad.\nThat's torture, isn't it?\nBut that's just the beginning.\nIf that was all, it wouldn't be bad enough to be called the Hell Camp.{p}"
+  },
+  {
+   "id": "04:1770",
+   "op": "text",
+   "en": "The real trouble is the afternoon.\nIn the afternoon, the first-years, one at a time, spar against every single senior.\nThree rounds with each one.\nThere are only about ten seniors, but they're guys who place near the top at the nationals.\nYou get made to fight those guys for thirty rounds total.\nIt's nothing but torture.\nIt's 'training' in name only. Frankly, it's bullying.{p}"
+  },
+  {
+   "id": "04:189c",
+   "op": "text",
+   "en": "Well, hardly anybody lasts to the end.\nThey usually end up passing out partway through.\nEven when they pass out, they get water dumped on them and get hauled back to their feet.\nAnd then they're made to keep fighting.\nA living punching bag.\nA leather sack stuffed with flesh and blood instead of sand.\nIn a single day, the first-years' faces swell up like balloons. It's a parade of monsters.{p}"
+  },
+  {
+   "id": "04:19f4",
+   "op": "text",
+   "en": "And guys like that are crawling all over, deep in the mountains.\nIf some hiker happened to stumble across them...\nMaybe that's what ghosts really are, huh?\nAh ha ha ha...\n...Well, let's keep going.{p}"
+  },
+  {
+   "id": "04:1ad8",
+   "op": "text",
+   "en": "So anyway, they keep up that training, or torture, or bullying, whatever you want to call it, right?\nWithin three days, most of the guys have run off, just like that.\nThey sneak away in the middle of the night.\nAnd in the end, they're down to about five.\nLet's see, how many years ago was it?\nI think it was about fifteen years ago.\nThat year, the Hell Camp was held just like every other year.\nTwenty-three first-years took part in the camp.\nThey'd all heard the rumors about the camp, see.\nMost of them were nervous wrecks, but a few of them were calm.\nThey were sure of themselves, saying they'd be fine.\nThough it's always guys like that who end up being the first to run off.{p}"
+  },
+  {
+   "id": "04:1d3c",
+   "op": "text",
+   "en": "Now, among the first-years that year was a guy named Yosuke Akasaka.\n"
+  },
+  {
+   "id": "04:1d6c",
+   "op": "text",
+   "en": "You couldn't really call him the sturdy type.\nBut he loved boxing.\nHe idolized strong boxers.\nHe looked like the type who gets picked on, Akasaka did.\nHonestly, the seniors figured he'd be the very first to quit.\nBut it turned out he had guts.\nSay what you will, he lasted all the way to the camp.\nStill, everyone was sure he'd have quit by the time the camp was over.\nAnd with that in mind, they zeroed in on Akasaka as their target.\nThe target of their training.{p}"
+  },
+  {
+   "id": "04:1f40",
+   "op": "text",
+   "en": "Frankly, call it training or drills or whatever, I think for the seniors it was also a way to blow off steam and work off stress.\nOn the surface, they said all the right things, about honoring tradition and building mental toughness that way.\nBut in reality, it was nothing of the sort.\nIt really was just bullying.{p}"
+  },
+  {
+   "id": "04:2050",
+   "op": "text",
+   "en": "The training they gave Akasaka was brutal, even in the other first-years' eyes.\nEven when his face swelled up bright red, even when he coughed up blood, they didn't stop.\nAnd then when he went down, they'd yell at him that he had no guts, that he hadn't trained enough.{p}"
+  },
+  {
+   "id": "04:2124",
+   "op": "text",
+   "en": "Of course, the other first-years got way more than their share of training, too.\nSo some of them ran off.\nOne day, a few of the first-years got together and talked about running away.{p}"
+  },
+  {
+   "id": "04:21cc",
+   "op": "text",
+   "en": "And they decided to ask Akasaka to come along.{p}What do you think Akasaka said?\n"
+  },
+  {
+   "id": "04:2210",
+   "op": "choice",
+   "en": "Let's run away together"
+  },
+  {
+   "id": "04:2220",
+   "op": "choice",
+   "en": "I'll stick it out to the end"
+  },
+  {
+   "id": "04:2234",
+   "op": "choice",
+   "en": "I'll tell the seniors on you!"
+  },
+  {
+   "id": "04:225c",
+   "op": "text",
+   "follows_choice": [
+    "04:2220"
+   ],
+   "en": "Akasaka had guts.\nNo matter how hard they tried to talk him into it, he wouldn't run.\nHe insisted he'd see the camp through to the end.\nBut here's the thing.\nOnce he said that, the first-years who'd suggested the escape suddenly got worried.\nThey'd been sure Akasaka would go along with it, see.\nThat's why they'd asked him.\nBut he flatly refused.\nAnd that made them nervous.{p}"
+  },
+  {
+   "id": "04:23d4",
+   "op": "text",
+   "en": "Akasaka was sure to report this to the seniors.\nThen they'd be the ones on the receiving end of the training.\nIt was hard enough already. If they got any more, they'd really die.\nThey all started shaking like leaves.\nThen they crowded in on Akasaka.\n\"Hey.\nYou keep this a secret, got it?\"\n\"...Yeah, I won't tell.\"\nBut none of them believed what Akasaka said.\nEven if they wanted to believe him, they were worried sick.{p}"
+  },
+  {
+   "id": "04:2574",
+   "op": "text",
+   "en": "So they called him out.\nWhile they were making dinner, they ganged up on Akasaka and beat him.\nPretty awful, huh?\nThey all had a lot of pent-up frustration, see.\nAt first, they only meant to rough him up a little.\nBut it didn't stop there.\nIt kept escalating.\nMaybe Akasaka was just the kind of guy who gets picked on by nature.\nAll of them, like they were possessed by something, punched Akasaka and kicked him.{p}"
+  },
+  {
+   "id": "04:26f4",
+   "op": "text",
+   "en": "\"I'm borrowing your gloves.\"\nThe ringleader was a guy named Toru Hatanaka.\nHe took Akasaka's gloves and pounded on Akasaka like he was a real punching bag.\n\"S-stop it... What did I ever do to you?\"\n\"Heh.\nYou haven't done anything yet, so we're taking care of it now, while we can.\nIf we leave you alone, you'll rat on us for sure.\nListen, don't you dare rat to the seniors that we tried to run away.\"\nAnd with that, he punched Akasaka over and over and over again.{p}"
+  },
+  {
+   "id": "04:28a0",
+   "op": "text",
+   "en": "\"Got it?!\nDon't you dare rat on us!\"\n\"......\"\nAkasaka didn't answer any more after that.\n\"Hey, Toru.\nThat's enough.\nHe's out cold.\"\nIf one of them hadn't stopped him, Hatanaka would have kept on beating Akasaka.{p}"
+  },
+  {
+   "id": "04:2978",
+   "op": "text",
+   "en": "The gloves were smeared with blood.\nBoxing gloves are red to begin with, right?\nWhen they get blood on them, see, those worn-out old gloves shine and gleam like they're brand new.\n\"Here, you can have them back.\"{p}"
+  },
+  {
+   "id": "04:2a38",
+   "op": "text",
+   "en": "He flung the gloves down, smashing them into Akasaka's face as he lay there limp.{p}"
+  },
+  {
+   "id": "04:2aa4",
+   "op": "text",
+   "en": "Then they all went back to making dinner.\nThey left Akasaka there, all alone.\n\"Hey! Where's Akasaka?\"\nEven at mealtime, Akasaka didn't show up.\nThen again, it was normal for some of the first-years to feel too sick to eat.\nSo they could easily fool the seniors when they asked.\n\"Akasaka said he wasn't feeling well, so he's lying down, sir!\"\nThe seniors didn't press any further.\nAfter they'd cleared away the meal, Hatanaka and the others hurried to the spot where they'd beaten Akasaka.{p}"
+  },
+  {
+   "id": "04:2c5c",
+   "op": "text",
+   "en": "Akasaka was still there.\nLying limp, just the way they'd left him.\n\"Hey, Akasaka!\nQuit fooling around and get up.\"\nHatanaka gave Akasaka a light kick in the stomach.\nBut something was off.\nIt was like kicking a lump of soft rubber. He didn't react at all.\nNot the way a living person would.{p}"
+  },
+  {
+   "id": "04:2d64",
+   "op": "text",
+   "en": "\"...Hey, Toru!\nHe's dead!\"\nThe guy who'd tried to help Akasaka up couldn't help shouting.\n\"...You're kidding, right?\"\nHatanaka didn't believe it.\nHe never imagined a guy who'd held up under all that training would die from a little roughing up.\nBut he was dead.\nNo matter how they called his name, no matter how they shook him, he didn't so much as twitch.\nHe wasn't breathing.\n\"...What do we do, Toru?\nWe're screwed.\"\nThe guys who'd beaten Akasaka along with him sounded like they were about to die themselves.\nWell, of course they did.\nThey'd killed someone.\nAnd they'd all ganged up on him to do it...{p}So, what do you think they did?\n"
+  },
+  {
+   "id": "04:2f7c",
+   "op": "choice",
+   "en": "Decided to bury the body"
+  },
+  {
+   "id": "04:2f9c",
+   "op": "choice",
+   "en": "Reported it to the seniors"
+  },
+  {
+   "id": "04:2fac",
+   "op": "choice",
+   "en": "Carried him to his futon"
+  },
+  {
+   "id": "04:2fcc",
+   "op": "text",
+   "follows_choice": [
+    "04:2f7c"
+   ],
+   "en": "\"L-let's bury him.\"\nHatanaka muttered it under his breath, with a ghastly look on his face.\nEveryone looked at Hatanaka's face, worried.\nBut maybe there really was no other way.{p}"
+  },
+  {
+   "id": "04:307c",
+   "op": "text",
+   "en": "That night, after everyone was asleep, they buried Akasaka's body.\nIn secret.\nRunning away was the last thing on their minds now.\n\"Where'd Akasaka go?!\"\nEven when the seniors yelled, they all just put on innocent faces and cocked their heads.\n\"...He looked like he was having a hard time.\nMaybe he ran off?\"\nAnd that satisfied everybody.\nHe'd been on the list of likely dropouts from the start, after all.\nSome of the seniors even nodded like they were glad.\nPretty smug of them, huh?{p}"
+  },
+  {
+   "id": "04:323c",
+   "op": "text",
+   "en": "As for Hatanaka and the others, they spent the rest of the camp jumpy and scared that they'd be found out.\nMaybe that was a blessing, because Hatanaka and his bunch made it through the Hell Camp.\nTurn misfortune into a blessing... is that how the saying goes?\nIt was just like that saying.{p}"
+  },
+  {
+   "id": "04:3328",
+   "op": "text",
+   "en": "Once you make it through the camp, you're a full-fledged member.\nFirst-years who'd been treated like bugs until then finally get recognized as human beings.\nAnd they gain confidence, too.\nSo they get stronger fast.\nSay what you want, that camp really does work.\nBut the Akasaka business did turn into a problem.\nEven if he'd run away from camp, he never made it back home.{p}"
+  },
+  {
+   "id": "04:346c",
+   "op": "text",
+   "en": "A search party went out.\nBut they didn't find him.\nHatanaka and the others were scared out of their minds about what would happen if the body turned up.\nEven so, nothing was found, and the search was called off.\nAfter that, Hatanaka and the rest were back to their smug selves.\nThey forgot all about Akasaka in no time.\n...And then a year went by.{p}"
+  },
+  {
+   "id": "04:3590",
+   "op": "text",
+   "en": "Hatanaka and the others were second-years now.\nThis time, it was their turn to put the first-years through the training.\nThey went at it brutally, like they were paying back everything they'd been through.\nNow that it was their turn, it really hit them how much fun dishing out the training could be.\nThe club that had been so painful until then turned rosy overnight.\nThen the annual summer camp drew near.\nBut along with it, the memory of Akasaka came back to them.{p}"
+  },
+  {
+   "id": "04:3708",
+   "op": "text",
+   "en": "Going to camp meant going to that place.\nThey'd have to go to the place where Akasaka was buried.\n\"What do we do, Toru?\nAre you going to the camp?\"\nThe guys who'd been in on it back then all looked uneasy.{p}"
+  },
+  {
+   "id": "04:37c4",
+   "op": "text",
+   "en": "Well?{p}Do you think Hatanaka went to the camp?\n"
+  },
+  {
+   "id": "04:37f0",
+   "op": "choice",
+   "en": "He went"
+  },
+  {
+   "id": "04:37f8",
+   "op": "choice",
+   "en": "He didn't go"
+  }
+ ]
+}

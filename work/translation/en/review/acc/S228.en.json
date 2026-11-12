@@ -1,0 +1,306 @@
+{
+ "slice": "S228",
+ "scene": "64",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S227",
+ "next": "S229",
+ "todo": [],
+ "rows": [
+  {
+   "id": "64:0530",
+   "op": "text",
+   "en": "Me, second?\nNow that I've actually been picked, I'm getting nervous.\nUmm, let's see...\nOkay, I'll start by introducing myself.\nI'm... Reiko Fukuzawa.\nI'm in Class 1-G.\nNice to meet you all!\nUm, it's {a}... right?\nYou're a first-year too, aren't you?\nHave you gotten used to your class yet?\nI mean, the first term of first year is tough, with everything being new.{p}"
+  },
+  {
+   "id": "64:0688",
+   "op": "text",
+   "en": "High school isn't compulsory, you know, so the classes and everything are totally different from before...\nAnd there's tons of stuff to decide, like committees and clubs...\nIt takes everyone a while to settle in.\nHuh, me...?{p}"
+  },
+  {
+   "id": "64:0750",
+   "op": "text",
+   "en": "Ahahaha...\nI've gotten totally used to it already.\nI'm not really the shy type, so I make friends fast.\nMaybe I've got a talent for it...?\n...Not that that matters at all.\nHey, hey, {a}, has anything weird been happening in your class?\nUntil a little while ago, things were really rough in my class.\nThere was this little incident...\nAnd that incident was..........{p}Well?\nTry and guess, {a}.\n"
+  },
+  {
+   "id": "64:08dc",
+   "op": "choice",
+   "en": "A transfer student showed up."
+  },
+  {
+   "id": "64:08ec",
+   "op": "choice",
+   "en": "There was a test."
+  },
+  {
+   "id": "64:08fc",
+   "op": "choice",
+   "en": "Things kept going missing."
+  },
+  {
+   "id": "64:0910",
+   "op": "choice",
+   "en": "I have no idea."
+  },
+  {
+   "id": "64:0924",
+   "op": "text",
+   "follows_choice": [
+    "64:08fc"
+   ],
+   "en": "Whoa, amazing! You got it!\nThat's right.\nThings in our classroom kept disappearing all the time.{p}"
+  },
+  {
+   "id": "64:0980",
+   "op": "text",
+   "en": "A string of thefts, basically.\nWhen did it start, I wonder...{p}"
+  },
+  {
+   "id": "64:09e8",
+   "op": "text",
+   "en": "I think the first one to notice was Yashiro, from the cleanliness committee.\nDuring end-of-day homeroom, she suddenly said this:\n\"Um...\nThe dustpan's missing. Does anyone know where it is?\"{p}"
+  },
+  {
+   "id": "64:0ab4",
+   "op": "text",
+   "en": "...That's right!\nThe first thing to vanish was the dustpan.\n"
+  },
+  {
+   "id": "64:0af8",
+   "op": "text",
+   "en": "At our school, everybody cleans at the same time, right?\nAnd afterward, the cleanliness committee always goes around checking the cleaning supplies.\nBecause, you know...\nThey have to swap out worn-out brooms and buckets with holes in them for new ones.\nEspecially in my class: the boys are so rough with everything, it all gets wrecked in no time.{p}You've done stuff like that too, haven't you, {a}? Snapped a broom, or mangled the end of a mop...?\n"
+  },
+  {
+   "id": "64:0c7c",
+   "op": "choice",
+   "en": "I have."
+  },
+  {
+   "id": "64:0c84",
+   "op": "choice",
+   "en": "I haven't."
+  },
+  {
+   "id": "64:0c8c",
+   "op": "text",
+   "follows_choice": [
+    "64:0c7c"
+   ],
+   "en": "Ahaha... I knew it.\nI figured you had.\nPoor cleanliness committee kids...\nDon't make so much trouble for them, okay?{p}"
+  },
+  {
+   "id": "64:0d20",
+   "op": "text",
+   "en": "That day...\nAfter cleaning, Yashiro was checking the supplies like always, and apparently one of the dustpans was missing.\n...The boys broke another one.\nThat's what most of the class thought.{p}"
+  },
+  {
+   "id": "64:0de4",
+   "op": "text",
+   "en": "\"This is your doing, isn't it!\nHow many do you have to break before you're satisfied?★\nIf you break any more, you're paying for them!\"\nWith that, Yashiro glared around at the boys who were always making a racket.{p}"
+  },
+  {
+   "id": "64:0eac",
+   "op": "text",
+   "en": "\"We don't know anything about that!\nQuit blaming everything on us!\"\nThe first to speak up was Shimada.\nHe's a member of the cheer squad.\nHot-blooded, I guess you'd say: the type who can't sit still when there's a commotion.\n\"I don't know anything about some dustpan!\"\nHe denied it, red in the face, but nobody believed him.\nI mean...\nShimada had just snapped a broom not long before.{p}"
+  },
+  {
+   "id": "64:1040",
+   "op": "text",
+   "en": "Goes to show how you act every day really matters, huh?\nYou'd better watch yourself too, {a}.\n...Anyway.\nThat time, it got settled as the work of Shimada and his crowd of boys.\nBut the real problem came after that.\nFrom that day on, things started going missing all over the class.\nI heard all sorts of stories.\n...Um, hold on a sec.\nLet me remember...\nThere was Endo's pencil case.\nImai's key chain, and Matsumoto's commuter pass case.\nMorioka was shrieking that her watch was gone, and Takigawa was upset because a book she'd borrowed from the library had vanished.\nThe girls in the class were in an uproar, saying there was a thief.\nOh yeah, I was a victim too, you know.\nSomebody stole my precious wallet!\nClasses were over for the day, and I opened my bag to get ready to go home, right?\nAnd then...\nThere was money spilled all over the inside of my bag, jingling around.\nI didn't want it scattering everywhere, so I hurried to gather it up.\nI figured my wallet must have a hole in it, so I looked for it... but it wasn't there.\nNo matter where I searched in my bag, I couldn't find the wallet.\nThe charm and the hair salon card I'd kept inside it were still there, but the wallet itself was gone.{p}Isn't that awful?\n"
+  },
+  {
+   "id": "64:145c",
+   "op": "choice",
+   "en": "That's really awful!"
+  },
+  {
+   "id": "64:146c",
+   "op": "choice",
+   "en": "If the stuff inside was safe, isn't that fine?"
+  },
+  {
+   "id": "64:149c",
+   "op": "text",
+   "follows_choice": [
+    "64:146c"
+   ],
+   "en": "You sure don't mind saying cold things, do you, {a}?\n...Sure, I'm glad what was inside was safe too.\nBut that wallet was precious to me. My big sister gave it to me as a present for getting into high school.\nI loved it so much...\nYou don't even know that, and you go, 'If what was inside was safe...'? That's kind of insensitive.\nUgh, this is why I can't stand boys.\nYou're just like the boys in my class.\nEven when the girls are in trouble, they act like it's none of their business.\nSeriously, they're totally useless...{p}"
+  },
+  {
+   "id": "64:1688",
+   "op": "text",
+   "en": "At first, we were careful on our own, you know, like not bringing valuables or never taking them off.\nBut...\nSadly, it didn't do any good at all.\nEven things locked away in lockers would disappear before anyone noticed.\nWith the thefts still going on, everyone started getting on edge...\nIt felt like you couldn't trust anyone anymore.{p}"
+  },
+  {
+   "id": "64:17e0",
+   "op": "text",
+   "en": "The one people suspected most was Shimada.\n...The cheer squad guy I mentioned.\nBecause the thefts started right when the dustpan disappeared.{p}"
+  },
+  {
+   "id": "64:1874",
+   "op": "text",
+   "en": "\"Back when the dustpan thing happened...\nShimada got awfully worked up, didn't he?\"\n\"Maybe he snapped after getting blamed for breaking the dustpan...\"\n\"Who knows, maybe he didn't break the dustpan either. Maybe he stole it.\"\nThat's the kind of thing the girls were whispering to each other.\nI bet the rumors started with Yashiro.{p}"
+  },
+  {
+   "id": "64:1990",
+   "op": "text",
+   "en": "Meanwhile, on the other side...{p}"
+  },
+  {
+   "id": "64:19b4",
+   "op": "text",
+   "en": "\"If you're gonna accuse people, show us some proof first!\"\n...That's what the boys said. They all took Shimada's side.\nThe class split right down the middle.\nBoys on one side, girls on the other, going head to head.{p}"
+  },
+  {
+   "id": "64:1a78",
+   "op": "text",
+   "en": "Hasn't anything like this happened in 1-E?\nIf it were you, {a}, whose side would you take?\n"
+  },
+  {
+   "id": "64:1ac8",
+   "op": "choice",
+   "en": "The boys' side"
+  },
+  {
+   "id": "64:1ad4",
+   "op": "choice",
+   "en": "The girls' side"
+  },
+  {
+   "id": "64:1ae0",
+   "op": "choice",
+   "en": "Neither side"
+  },
+  {
+   "id": "64:1b08",
+   "op": "text",
+   "follows_choice": [
+    "64:1ac8"
+   ],
+   "en": "Figures you'd answer that way.\nIs that the whole guy-friendship thing?\nHuh, me...?\nI wasn't on either side.{p}"
+  },
+  {
+   "id": "64:1b80",
+   "op": "text",
+   "en": "It bugged me that the victims were all girls, but even so, I just couldn't see Shimada or the other boys in class being the thief...\nAnd besides...\nSomething weird a friend of mine said was bugging me.{p}"
+  },
+  {
+   "id": "64:1c58",
+   "op": "text",
+   "en": "That friend... her name's Sanae Motoki, and she's a really unusual girl.\nSometimes she says things that make no sense, but later it turns out they were important prophecies, which is scary.\nBut she's not a bad person at all.\nThere's just something about her you can't dislike...\n...Oops, Sanae's got nothing to do with this right now.\nMaybe I'll tell you about her some other time.\nOnly...\nSanae went,\n\"Ew. That one isn't keeping to their territory.\"\nmuttering it under her breath.\nRight in the classroom, while everyone was making a fuss about the stolen watch.\nShe clammed up after that, but it makes you wonder, right?{p}"
+  },
+  {
+   "id": "64:1e78",
+   "op": "text",
+   "en": "Anyway...\nBecause of all this, our class became the one where the boys and girls got along worst in the whole school.\nEveryone was giving dirty looks, every conversation was tense, and the whole class felt prickly.\nAnd I'd been so excited about the new school year...\nSchool life felt kind of... puce.{p}Hey, {a}...\nDo you know what color puce is?\n"
+  },
+  {
+   "id": "64:1fc0",
+   "op": "choice",
+   "en": "I know."
+  },
+  {
+   "id": "64:1fcc",
+   "op": "choice",
+   "en": "I don't know."
+  },
+  {
+   "id": "64:1fd8",
+   "op": "text",
+   "follows_choice": [
+    "64:1fcc"
+   ],
+   "en": "Oh, really...\nYou don't know.\nHmm...\nActually, I don't know either.{p}"
+  },
+  {
+   "id": "64:202c",
+   "op": "text",
+   "en": "Ahahaha...\n...But you can sort of picture it, right?{p}"
+  },
+  {
+   "id": "64:2070",
+   "op": "text",
+   "en": "Back then, my mood was totally puce.\nSo I decided I was going to find the thief and catch them, no matter what.\nWith all this fuss, not one person had seen anybody suspicious...\nWhich means the thief was showing up whenever the classroom was empty, right?\nJust what was going on in that empty classroom...\nI was going to see it with my own eyes.\n"
+  },
+  {
+   "id": "64:21e0",
+   "op": "text",
+   "en": "My chance came soon enough.\nThat day...\nWe had P.E., and I happened to have a bit of a cold.\nI used that to skip P.E. and sneak off to hide in the classroom.\nAfter watching everyone leave, I hid inside the cleaning closet.{p}"
+  },
+  {
+   "id": "64:22e4",
+   "op": "text",
+   "en": "All by myself, too.\nPretty brave of me, huh?\nHuh...?\nYou're saying I'm just reckless?\nYou're so mean, {a}!\nAnd here I am, going out of my way to help with your interview...\nMaybe I'll just stop talking...\n..........Oh, look, you're flustered.{p}"
+  },
+  {
+   "id": "64:23c4",
+   "op": "text",
+   "en": "Ahaha, you don't know what to do, do you, {a}?\nSo cuuute!\nLooks like you're sorry for saying something mean.\nOkay.\nI forgive you.\n...See, I'm just that nice.\nAll right, I'll go on with the story.{p}"
+  },
+  {
+   "id": "64:2498",
+   "op": "text",
+   "en": "So I was holding my breath inside the cleaning closet...\nCleaning closets really stink inside, you know.\nMusty, I guess you'd say...\nWhy did I ever think of hiding in a place like that?\nBut I was pretty desperate at the time.\nI didn't really mind the smell.\nBesides...\n"
+  },
+  {
+   "id": "64:25b4",
+   "op": "text",
+   "en": "...Clack.\nBefore even a few minutes had passed, I sensed the door opening with a faint sound.\nMy heart pounding, I focused on where the sound had come from.\n"
+  },
+  {
+   "id": "64:264c",
+   "op": "text",
+   "en": "The thief...?\n...It had to be.\nI couldn't hear any footsteps, but I could sense someone walking around the classroom.\nDid they think nobody was there...?\nHow shocked would they be if I jumped out right now?\nThat's what I was thinking.{p}Well?\nIf it were you, {a}, would you go out?\nOr would you wait and see a little longer?\n"
+  },
+  {
+   "id": "64:2774",
+   "op": "choice",
+   "en": "Go out"
+  },
+  {
+   "id": "64:2780",
+   "op": "choice",
+   "en": "Wait and see"
+  },
+  {
+   "id": "64:278c",
+   "op": "text",
+   "follows_choice": [
+    "64:2780"
+   ],
+   "en": "...I see.\nSame as me.\nI mean, you don't know what kind of person the thief is.\nIf they had a knife or something, you'd be the one in danger.\nAnd unless you catch them red-handed, you're stuck if they play dumb.\nI fought down the urge to burst out and stayed still in that cramped cleaning closet.\nAnd then...\nRight about when I figured the person who had to be the thief had reached the middle of the classroom, their presence suddenly just vanished.{p}"
+  },
+  {
+   "id": "64:2914",
+   "op": "text",
+   "en": "...Why?\nHow could their presence just vanish?★\nI kind of panicked.\nMaybe what I'd sensed before was just my imagination...\nI even started to feel that way.{p}"
+  },
+  {
+   "id": "64:29d0",
+   "op": "text",
+   "en": "But I wasn't going to figure it out by just thinking about it forever.\nSo I worked up my nerve and decided to come out of the cleaning closet.{p}You'd do the same, right, {a}?\n"
+  },
+  {
+   "id": "64:2a5c",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "64:2a64",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "64:2a6c",
+   "op": "text",
+   "follows_choice": [
+    "64:2a5c"
+   ],
+   "en": "Yeah, I thought so.\nYou just seem like that kind of person, {a}.\n...Not that I mean anything deep by it.{p}"
+  },
+  {
+   "id": "64:2ae0",
+   "op": "text",
+   "en": "I nervously opened the door and stepped out of the cleaning closet, looking all around.{p}"
+  }
+ ]
+}

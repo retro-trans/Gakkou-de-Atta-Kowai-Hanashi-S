@@ -1,0 +1,393 @@
+{
+ "slice": "S003",
+ "scene": "01",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S002",
+ "next": "S004",
+ "todo": [
+  "- Pilot slices S000-S005 replaced ☆/★ (e.g. 01:7050, 01:aed0, 01:2afc, 02:55cc, 02:58f0, 02:6a08): the font now has both glyphs (tools/vwf.py EXTRA 0x10/0x11); restore them where the source has them. ☆/★ are plain characters in the script, no engine effect.",
+  "- 01:bd04 choice and 01:e250 {f} were shortened only because of a wrapper limit that is now fixed (long {f} options wrap per gender): restore the full wording.",
+  "- Choices trimmed to the old one-line limit (choices may now wrap to 3 lines): restore the full meaning in 03:1acc, 03:1ae8, 03:3038, 03:21b0, 03:300c, 03:37a8 (S007); 01:bd04 (S003); 05:4f6c, 05:4f80 (S014); 05:b704, 05:b738 (S015)."
+ ],
+ "rows": [
+  {
+   "id": "01:aea4",
+   "op": "choice",
+   "en": "Nothing showed up in it"
+  },
+  {
+   "id": "01:aed0",
+   "op": "text",
+   "follows_choice": [
+    "01:ae90"
+   ],
+   "en": "\"Wh-what the hell is this?!\"\nYoshioka suddenly shouted.\nI looked in the mirror too, and it gave me a real shock.\nThere was a horrible face in the mirror.\nA sinister face, like a demon's, you could say...\nBut, see, if you looked real close, it looked like Yoshioka.\nWhat's more, when Yoshioka looked up, it looked up,\nand when he talked, it opened its mouth.\nLike that, it did everything Yoshioka did.\nIn other words, it was Yoshioka's own reflection in the mirror.\nThough whether he ever realized that...\n\"That's weird. The book didn't say anything about this.\"\nThe way he was going on, I guess he hadn't realized.\n\"That's enough, isn't it? We saw something weird.\"\nI said that for Yoshioka's sake, more or less.\nBefore he figured out that the thing in the mirror was himself, you know.\nWell, I didn't want to see my own reflection either, so I wanted to get out of there fast.\n...That's right, I got away without seeing myself in the mirror.\nBetween the bad angle and Yoshioka being in the way, well, I got lucky.\nBut in the end, Yoshioka didn't want to leave.\nFine, whatever.\nIf that's how he wanted it, he could suit himself.{p}"
+  },
+  {
+   "id": "01:b284",
+   "op": "text",
+   "en": "So I went home ahead of him.\nThinking about that mirror the whole way...\nI remembered a rumor about a certain mirror.\nIt was the rumor of a mirror they call the Mirror of the Heart, a mirror that shows a person's true nature.\nI don't know much about it, but it's supposed to be pretty big, and old.\nIf that was the mirror...\nthen Yoshioka's true nature is like a demon's, right?{p}"
+  },
+  {
+   "id": "01:b3c4",
+   "op": "text",
+   "en": "The next day, I went up to Yoshioka first thing in the morning.\n\"So what happened last night in the end?\"\nI asked him.\n\"I went home right after you did. The demon disappeared, see.\"\nYoshioka answered, just like that.\n\"The book said an angel would appear in that mirror, but I guess it was a load of nonsense after all.\"\nAn angel, huh. So that's why Yoshioka wouldn't leave back then.\nIf I'd heard that, I'd probably have waited a while longer myself.\nIt's because he keeps secrets like that, that his heart gets twisted and he ends up looking like a demon.\nGet mixed up with a guy like that and you could end up in serious trouble, so after that I cut off all contact with Yoshioka.\nYoshioka stopped coming near me, too.\nHe looked at me with eyes that were clearly scared.{p}"
+  },
+  {
+   "id": "01:b664",
+   "op": "text",
+   "en": "Well, he must have seen my reflection in the mirror, so maybe he noticed my true nature?\nHe must have seen something pretty damn terrifying.\nNot that I didn't see it coming.\n...He said it, didn't he?\nThat the demon had disappeared.\nWhen I left, the demon disappeared.\nAs for what that means...\nWell, {a}?{p}Are you scared of me?\n"
+  },
+  {
+   "id": "01:b794",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "01:b79c",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "01:b7b8",
+   "op": "text",
+   "follows_choice": [
+    "01:b794"
+   ],
+   "en": "I see.\nYou're honest.\nI wonder what your true nature looks like.\nWell, if it bugs you, go check out the old school building.\nTell me when you do.\nI'll come along with you.\nHey, it's fine, don't be shy.\nBut watch out if you see an angel.\nBecause an angel means death.\n...There, that's the end of my story.\nWho's up next?{p}"
+  },
+  {
+   "id": "01:b8f4",
+   "op": "text",
+   "follows_choice": [
+    "01:20b4"
+   ],
+   "en": "Yeah, I didn't go.\nI mean, come on.\nA door to the spirit world? Who'd believe that?\nI got into bed and decided to just go to sleep.\nBut... I just couldn't sleep.\nWhenever I closed my eyes, that leering grin of his kept popping into my head, over and over.\nA human grin is a creepy thing, I tell you.\nThe corners of the eyes crinkle up, and the mouth goes all slack, right?\nBehind my eyelids I kept seeing flashes of his teeth, and his tongue, the color of raw meat showing through a wound, and I just couldn't get to sleep.\nI lay in my pitch-dark room, just listening to the clock.\nThat's when it happened.\n"
+  },
+  {
+   "id": "01:bad4",
+   "op": "text",
+   "en": "Suddenly, I couldn't hear the clock anymore.\nIt felt like I'd wandered into some other world.\nThere was no sound.\nI couldn't hear a thing.\nI tried to open my eyes.\nAnd then... my eyes wouldn't open either.\nMy eyes wouldn't open anymore.\nBut I could see.\nImages were floating up on my eyelids.{p}"
+  },
+  {
+   "id": "01:bbf8",
+   "op": "text",
+   "en": "His face... Yoshioka's face.\nThis time he wasn't grinning.\nHis face was stiff, like he was tense.\nAnd he looked me straight in the eye and said,\n\"Shindo...\"\nYoshioka was holding a hand mirror, and he had it pointed at me.{p}...What would you do in a spot like that?\n"
+  },
+  {
+   "id": "01:bce8",
+   "op": "choice",
+   "en": "Try not to look in the mirror"
+  },
+  {
+   "id": "01:bd04",
+   "op": "choice",
+   "en": "Slap Yoshioka's hand away"
+  },
+  {
+   "id": "01:bd1c",
+   "op": "choice",
+   "en": "Beg for my life"
+  },
+  {
+   "id": "01:bd2c",
+   "op": "choice",
+   "en": "All I can do is dance"
+  },
+  {
+   "id": "01:bd3c",
+   "op": "text",
+   "follows_choice": [
+    "01:bce8"
+   ],
+   "en": "I decided to try not to look at the hand mirror.\nBut Yoshioka held it right up in front of my eyes, and... I saw it.\nI saw myself reflected in Yoshioka's hand mirror.\nMy face... was twisted with fear.\nI was ashamed to think I was making such a pathetic face, and I tried to turn away.\nBut I couldn't move.\nMy neck wouldn't move.\nMy body wouldn't move.\nI was locked in sleep paralysis.\nThe image of Yoshioka on my eyelids just wouldn't go away.{p}"
+  },
+  {
+   "id": "01:bed4",
+   "op": "text",
+   "en": "It felt a little different from dreaming.\nIt wasn't three-dimensional, like a dream.\nIt was like Yoshioka's image had been pasted flat onto my eyelids.\nI wanted to peel that image of Yoshioka off, like picking off a half-dried scab.\n...And then Yoshioka said something, like he could read my mind.\n\"Does it feel gross?\nBut it's your own fault.\nWhy didn't you come to the school?\"\nI apologized desperately.\nMy body wouldn't move and I couldn't make a sound, so in my head I begged Yoshioka to forgive me, over and over.\nSeeing me like that seemed to put him in a good mood.\nAll smug, he started saying stuff like this.\n"
+  },
+  {
+   "id": "01:c100",
+   "op": "text",
+   "en": "\"I'm at the mirror in the old school building right now.\nI can see you in the facing mirrors.\nThis mirror wasn't a door to the spirit world.\nIt seems to be a mirror that can show people's hearts.\nApparently, you set up facing mirrors at 3:33 and 33 seconds in the middle of the night and picture the person whose heart you want to read.\nI set up the mirrors thinking about you the whole time, since you never came, so I think that's how I got inside your mind just now.\"\nWell, that was a relief, for the time being.\nA minute ago Yoshioka had looked ready to curse me to death.\nI'd half thought something had happened to him in the old school building and he'd come back to haunt me.{p}"
+  },
+  {
+   "id": "01:c31c",
+   "op": "text",
+   "en": "After a while, Yoshioka's image slowly faded away.\n\"See you, Shindo.\nThis is just our little secret.\nA mirror that can read people's hearts...\nDon't you think that's really interesting?\"\nThat's what he said.{p}"
+  },
+  {
+   "id": "01:c3f8",
+   "op": "text",
+   "en": "When I got to school the next day, Yoshioka was pale as a sheet.\nI went to talk to him, to check whether the night before had been a dream or not.{p}"
+  },
+  {
+   "id": "01:c494",
+   "op": "text",
+   "en": "And then he... coughed up blood and collapsed.\nYoshioka was taken to the hospital.\nSo I decided to go check out that mirror in the old school building.\nWas it really a mirror that could show people's hearts?{p}"
+  },
+  {
+   "id": "01:c55c",
+   "op": "text",
+   "en": "When I went to the stairs leading to the third floor of the old school building, the mirror on the landing was there, same as before.\nHad Yoshioka really come here last night?\nHadn't it all been a dream of mine?\nWith all sorts of questions running through my head, I went over every inch of the mirror on the landing.\nAnd there, carved into the edge of the wooden frame, were these words:\n'Cursed Mirror'\n...It might have been somebody's prank.\nBut when I think about how Yoshioka coughed up blood and collapsed that day...\nMaybe the reflection you see in facing mirrors isn't there for reading hearts, but for putting a curse on someone.\nMaybe because Yoshioka didn't curse my reflection in the facing mirrors, the curse came down on him instead, and he collapsed.\nThat's the feeling I got.\nThat mirror really was a door to the spirit world.\nA door to the spirit world of 'curses.'\n...Don't you think so?{p}"
+  },
+  {
+   "id": "01:c84c",
+   "op": "text",
+   "en": "Yoshioka hasn't been back to school since.\nI haven't contacted his family.\nI'm too scared to find out whether he's still alive...\n...Well, that's the end of my story.\nWho's going next?{p}"
+  },
+  {
+   "id": "01:c910",
+   "op": "text",
+   "follows_choice": [
+    "01:bd04"
+   ],
+   "en": "I got kind of scared and tried to knock his hand away.\nBut it was no good.\nMy body wouldn't move.\nI was locked in sleep paralysis.\nMy face was reflected clear as day in Yoshioka's hand mirror...{p}"
+  },
+  {
+   "id": "01:c9c0",
+   "op": "text",
+   "follows_choice": [
+    "01:bd1c"
+   ],
+   "en": "I begged for my life... or I wanted to, but I couldn't.\nI was locked in sleep paralysis.\nMy face was reflected clear as day in Yoshioka's hand mirror...{p}"
+  },
+  {
+   "id": "01:ca44",
+   "op": "text",
+   "follows_choice": [
+    "01:bd2c"
+   ],
+   "en": "All I could do was dance!\nThat's what I thought.\nWhy did I think that?\n.........I guess I was confused.\nFor starters, I decided to try the dance we did at last year's sports festival...\n...Yeah, right. Like I'd ever do that.\nJeez, don't make me say weird stuff.\nAre you even going to listen seriously?\nForget it, forget it.\nI'm not telling you any more about this part.\nAnyway, in the end, I did go to the school.\nYoshioka holding up that mirror was just a dream.\nEven while I was thinking I can't sleep, I can't sleep, I must have drifted off at some point.\nThat dream got me kind of worried about Yoshioka, so I decided to head for the school.{p}"
+  },
+  {
+   "id": "01:cc7c",
+   "op": "text",
+   "follows_choice": [
+    "01:2aa8"
+   ],
+   "en": "That's right, it came out.\nA demon...\nHold on, what's with that look?\nYou don't believe me?\nI'm not lying, so hear me out a little longer.\nOut of one of all those mirrors in the facing mirrors, a demon appeared.\nThe demon had long hair hanging limp, and it looked like the corpse of a beautiful woman.\nIt stared hard at us, and the first thing out of its mouth was this:\n\"Hand... want to drink...\"\nDrink a hand?\nYou wouldn't get what that meant either, right?\nWhile I was puzzling over it, Yoshioka suddenly came out with this:\n\"You want to drink... the blood from a hand?\"\nAt that, the demon smiled sweetly.\nI couldn't tell if I was scared or my heart was racing for some other reason; it was a weird feeling.\nThen Yoshioka staggered toward the demon and held out his arm.{p}So what do you think I did?\n"
+  },
+  {
+   "id": "01:cf44",
+   "op": "choice",
+   "en": "Shouted at him to stop"
+  },
+  {
+   "id": "01:cf54",
+   "op": "choice",
+   "en": "Pulled Yoshioka by the arm"
+  },
+  {
+   "id": "01:cf6c",
+   "op": "text",
+   "follows_choice": [
+    "01:cf44"
+   ],
+   "en": "\"Stop!\"\nI shouted as loud as I could.\nBut Yoshioka ignored me and held his arm out to the demon.\nThe demon happily took Yoshioka's hand, bowed its head, and gently kissed it... or so it looked.\nThat wasn't it.\nIt wasn't a kiss.\nWhen the demon raised its face again, there was a thin trickle of blood at its mouth...\nYoshioka's hand had a wound on it, like it'd been bitten clean through.\nThe demon whispered,\n\"What do you desire in exchange for this blood?\"\nThe demon was asking me.\nYoshioka was the one who let it drink his blood.\nAnd yet the demon was asking me what I wanted.{p}And I...\n"
+  },
+  {
+   "id": "01:d154",
+   "op": "choice",
+   "en": "First checked on Yoshioka"
+  },
+  {
+   "id": "01:d170",
+   "op": "choice",
+   "en": "First said 'I want money'"
+  },
+  {
+   "id": "01:d190",
+   "op": "choice",
+   "en": "First said 'I want a woman'"
+  },
+  {
+   "id": "01:d1b0",
+   "op": "text",
+   "follows_choice": [
+    "01:d154"
+   ],
+   "en": "First, I checked whether Yoshioka was all right.{p}"
+  },
+  {
+   "id": "01:d1d8",
+   "op": "text",
+   "en": "\"Yoshioka, you okay?\"\nNo answer.\n\"Yoshioka...?\"\nMaybe he'd held out his arm under the demon's spell, and then fainted from the shock of having his blood sucked.\nWith that in mind, I reached for Yoshioka's arm.\nAnd then...\n"
+  },
+  {
+   "id": "01:d2b0",
+   "op": "text",
+   "en": "He opened his eyes, said just one thing, and quietly closed them again.\nAnd he never opened them again.\nGet it? ...He was dead.\nWhen the demon heard what Yoshioka said, it looked satisfied and vanished.\nWhat Yoshioka said must have been his wish to the demon.\nYoshioka's arm lay flung out and limp, the color of something drained of blood.\nIt had sucked out... a huge amount of his blood.\nThe reason the demon asked me what I wanted was that Yoshioka was already dying.\nGranting someone's wish in exchange for blood...\nA demon like that was lurking in that mirror.{p}"
+  },
+  {
+   "id": "01:d4d4",
+   "op": "text",
+   "en": "I took off running.\nI wanted to get out of the old school building as fast as I could...\nThe last wish Yoshioka spoke kept echoing in my head.\nIt was something I say a lot myself.\nThe wording might be different, but everybody thinks it at least once. I'm sure of that.\nI don't know what Yoshioka meant by it.\nBut his wish was granted, all right.\nIt got me thinking.\nIf you go around thinking stuff like that without a second thought, can it call death down on you?{p}"
+  },
+  {
+   "id": "01:d69c",
+   "op": "text",
+   "en": "What did he say as he was dying?\nI'll tell you. You'd better be careful too.\nGo around saying stuff like this, and the same thing might happen to you.\nYoshioka's last wish was this:\n\"I just want to rest...\"\n...That's the end of my story.\nWhose turn is next?{p}"
+  },
+  {
+   "id": "01:d7a8",
+   "op": "text",
+   "follows_choice": [
+    "01:cf54"
+   ],
+   "en": "I pulled Yoshioka by the arm, trying to hold him back.\nBut I pulled too hard, and he stumbled and dropped the hand mirror he was holding...\n"
+  },
+  {
+   "id": "01:d830",
+   "op": "text",
+   "en": "This is a school in the middle of the night, right? The sound of that mirror shattering echoed all over the place, Yoshioka was shrieking, and my heart was pounding like crazy...{p}"
+  },
+  {
+   "id": "01:d8a4",
+   "op": "text",
+   "en": "Right then, the demon vanished, just like that.\nLooked like it went off somewhere because the mirror broke.\nWe ran for it as fast as we could.{p}"
+  },
+  {
+   "id": "01:d92c",
+   "op": "text",
+   "en": "We got out of the old school building and ran across the schoolyard.\nThe gravel getting into my shoes hurt, like my nerves were being needled over and over, and it felt really sickening.\nBefore long, we were outside the school gate.\nAnd the moment we stepped out onto the road...!\n"
+  },
+  {
+   "id": "01:d9f8",
+   "op": "text",
+   "en": "Yoshioka got hit by a car.\nNo, to be exact, Yoshioka's hand got crushed under a wheel...\nFor a while the blood didn't spread across the ground; as fast as it flowed out, it vanished, whoosh, whoosh.{p}"
+  },
+  {
+   "id": "01:dab8",
+   "op": "text",
+   "en": "...Before long, even more blood came gushing out of the wound on his hand, and he screamed over and over.\n\"Stop it! ...Stop it!\"\nThe sight of it...\nWhile Yoshioka was moaning, the car vanished, whoosh, just like the demon in the mirror.\nIt really did vanish.\nWasn't that car an illusion the demon showed us?\n...The facing mirrors in the old school building seem to have been a ritual for summoning a demon.\nIn exchange for being summoned, the demon wanted Yoshioka's blood.\nIt showed us an illusion of a car and sucked the blood from Yoshioka's hand.\nThat's the only explanation I can think of.{p}"
+  },
+  {
+   "id": "01:dcd0",
+   "op": "text",
+   "en": "...Why did it want blood from his hand, you ask?\nYou don't know?\nYou've got a ring finger, right?\nThey say that's the finger closest to the heart.\nThat's why people wear wedding rings on the ring finger.\nThey make their vow on the finger closest to the heart.\nIn other words, the demon was drinking the blood running through the vein in his ring finger.\nIn place of blood from his heart...\nHuh? What happened to Yoshioka after that?\nWell...\nHe still comes to school every day, even now.\nThere's still a scar at the base of his ring finger, but it looks like his life was never in danger.\nBut he doesn't try to talk to me anymore.\nMaybe he doesn't want to remember that day.\nBut I know something.{p}"
+  },
+  {
+   "id": "01:df0c",
+   "op": "text",
+   "en": "Apparently, even now, he sometimes sets up facing mirrors at that mirror in the old school building.\nAnd not just in the old school building, either; seems he's trying it in the restrooms and all kinds of other places.\nI saw it once myself, and other guys in my class have caught him at it a few times too.\nHere's what I think: didn't that demon leave Yoshioka completely bewitched?\nMaybe he's thinking he wants to see it again or something.\nAnd maybe this time he's thinking of getting some wish granted in exchange for his blood.\nI just hope it doesn't suck his soul out.{p}"
+  },
+  {
+   "id": "01:e0c8",
+   "op": "text",
+   "en": "{a}, a seven wonders feature is all well and good...\nBut holding a gathering like this, you'd better watch out you don't get cursed by the fiends lurking in this school.\nTake a look at your ring finger.\nIf you ever get hurt there from now on, it might mean a demon has its eye on you...\nThat's as far as my story goes.\nWho's talking next?{p}"
+  },
+  {
+   "id": "01:e1f4",
+   "op": "text",
+   "follows_choice": [
+    "01:d170"
+   ],
+   "en": "Like hell I did.\nFirst, I checked whether Yoshioka was all right.{p}"
+  },
+  {
+   "id": "01:e250",
+   "op": "text",
+   "follows_choice": [
+    "01:d190"
+   ],
+   "en": "{f:Is that what you'd say|Do you think I'd say that}?\nSeriously, {f:are you that kind of guy|do you really mean that}?\nFirst, I checked whether Yoshioka was all right.\nObviously, right?{p}"
+  },
+  {
+   "id": "01:e2f4",
+   "op": "text",
+   "follows_choice": [
+    "01:2ad4"
+   ],
+   "en": "That's right.\nThe moment we set up the facing mirrors, I heard a nasty groan.\nThat groan... sounded like Yoshioka's voice.\nNo, it definitely was Yoshioka's voice.\nAfter letting out that eerie groan, Yoshioka said this:\n"
+  },
+  {
+   "id": "01:e3bc",
+   "op": "text",
+   "en": "\"Oh... ohh... wo-o-ow!\nWo-ow, th-this is amazing!\nSo when you face two mirrors, you get this many mirrors inside the mirror?\"\n"
+  },
+  {
+   "id": "01:e448",
+   "op": "text",
+   "en": ".........\nWithout even thinking, I grabbed him by the scruff of the neck.\nAnd then he goes,\n\"Aaaagh! A g-ghost! A ghost has me by the neck...!\"\nFor the first time in my life, I wanted to strangle somebody.\nMurderous intent...\nYou never know when or where it'll strike.\nA feeling that visited an ordinary high school student for the very first time...!\nThat feeling was murderous intent.\n.........Scary Stories from School.........The End.\n.........\nNo, wait.\nI'm not planning to end the story here.\nWhat happened after this is the important part.\n...What happened, you ask?{p}"
+  },
+  {
+   "id": "01:e610",
+   "op": "text",
+   "follows_choice": [
+    "01:2ae8"
+   ],
+   "en": "Yeah, that's what I thought at the time.\n\"That's weird. This isn't supposed to happen...\"\nYoshioka didn't seem convinced, but as far as I was concerned, it was like, well, that's rumors for you.\n"
+  },
+  {
+   "id": "01:e6d0",
+   "op": "text",
+   "en": "So I forgot all about that mirror right away.\nBut Yoshioka just couldn't let it go.\nAfter that, it seems he kept sneaking into the old school building at night every so often to go look at that mirror.\nBut, sure enough, nothing happened.\nIf anything had, he'd have bragged to me about it for sure.{p}"
+  },
+  {
+   "id": "01:e800",
+   "op": "text",
+   "en": "Then one day, out of the blue, Yoshioka died.\nIt wasn't made public, but the cause of death was strange.\nOld age.\nDoes a guy my age die of old age?\nBut at the funeral, when I saw his face, I had no choice but to accept it.\nHis whole face was covered in wrinkles, and his hair had gone completely white.\nOn top of that, they said even his internal organs couldn't have been anything but an old man's.\nThat's what the doctor said, so it must be true, right?\nAfter the funeral, Yoshioka's mom handed me a letter.\nSeems he wrote it right before he died.\nIt was short, written in shaky handwriting.\nDon't look at that mirror.\nIt'll take your life.\n...That's what it said.\nThat was all I needed.\nI understood everything.{p}"
+  },
+  {
+   "id": "01:ea48",
+   "op": "text",
+   "en": "Yoshioka died because that mirror sucked the life out of him.\nI bet that's where the bit about a mirror leading to the spirit world comes from.\nIt took his whole lifespan, so he turned into an old man and died.\nThat 3:33 and 33 seconds in the middle of the night thing is involved, so it's probably not something that happens very often.\nStill, I looked into that mirror once myself.\nI figure it's taken a few years off my life.\nSo I'll just have as much fun as I can to make up for it.{p}"
+  },
+  {
+   "id": "01:ebd0",
+   "op": "text",
+   "en": "...{a}, right?\nPoint is, you can't brush off rumors.\nThis place is crawling with stories like this.\nJust because a story's silly doesn't mean it's made up.\nBe careful.\nThat's as far as my story goes.\nLet's hurry on to the next one.{p}"
+  },
+  {
+   "id": "01:ecb0",
+   "op": "text",
+   "follows_choice": [
+    "01:3784"
+   ],
+   "en": "You don't want to hear it?\n...Are you really sure?\nWhy do you think I brought this up?\nI'm telling you for your own good.\nYou'd better hear it.\nYour face, see...{p}"
+  },
+  {
+   "id": "01:ed78",
+   "op": "text",
+   "en": "What's with that face?\nFine, I won't tell you.\nBut be careful.\nYou never know when or where something might happen to you.\nNo matter how healthy you are now, there's no telling what kind of accident you might have...\nWell, that's the end of my story.\nWho's going next?{p}"
+  },
+  {
+   "id": "01:ee98",
+   "op": "text",
+   "follows_choice": [
+    "01:b79c"
+   ],
+   "en": "Oh yeah?\nYou're tougher than you look.\nThat suits me fine; it just gives me more to look forward to.\nFrom now on, I'm going to shove you all the way down into the depths of terror.\nAfter all, my true nature is like a terrifying demon's.\nIf you're not scared of me, I think I've caught a glimpse of your true nature too.\nWell, if it really bugs you, I'd recommend a trip to the old school building.\nEven if your true nature turns out to be just what I think it is, there's nothing to cry about.\nPeople are all pretty much the same.\nThat's the end of my story.\nLet's move on.{p}"
+  },
+  {
+   "id": "01:f098",
+   "op": "text",
+   "follows_choice": [
+    "01:aea4"
+   ],
+   "en": "That's right.\nNothing showed up in it.\nNot me, and not Yoshioka.\nIn the mirror, there was nothing but an endless row of facing mirrors, lined up one after another.\nYoshioka and I checked that we were each still there.\n\"Hey, can you see me?\"\nLike that.\nOnce we knew we were still there, the next problem was that we didn't know how long to keep the mirrors facing.\nI had a feeling that if we broke them apart carelessly, we'd get cursed.\nSeems Yoshioka felt the same way.\nThe two of us just stood there, locked in a staring contest with the mirror.\nHow much time went by, I don't know...{p}"
+  },
+  {
+   "id": "01:f260",
+   "op": "text",
+   "en": "For an instant, I thought the mirror wavered.{p}"
+  },
+  {
+   "id": "01:f288",
+   "op": "text",
+   "en": "And the next moment, our reflections were there, just like normal.\nWe were saved...\nThe witching hour had passed.\nThat's what I thought.\nAll we had to do now was take the mirrors apart and get out of there.\nJust then...{p}"
+  },
+  {
+   "id": "01:f348",
+   "op": "text",
+   "en": "Maybe because he let his guard down, Yoshioka dropped the hand mirror.\nThe mirrors weren't facing anymore.\nAnd at that same moment, our reflections faded right out of the mirror.\nWe'd been cursed, in other words.{p}"
+  },
+  {
+   "id": "01:f414",
+   "op": "text",
+   "en": "Ever since then, my reflection doesn't show up in mirrors.\nNot just mirrors.\nGlass, puddles, anything. It just doesn't show up.\nI bet it's the same for Yoshioka.\nHe's been kind of a nervous wreck lately, and he hasn't been coming to school.\nIt doesn't bother me that much, but it's a real pain when I wash my face and stuff.\n...You don't believe me?\nLook at the window.\nIt's a little hard to make out, but you can see people's reflections in it, right?\nSee, there are only six.\nLooks like you get it now.\nThey say people without a shadow don't live long.\nMaybe I don't have that long either.\n...Well, whatever.\nI'll enjoy myself while I can.\nThat's the end of my story.\nWho are you picking next?{p}"
+  }
+ ]
+}

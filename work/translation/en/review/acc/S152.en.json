@@ -1,0 +1,337 @@
+{
+ "slice": "S152",
+ "scene": "39",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S151",
+ "next": "S153",
+ "todo": [],
+ "rows": [
+  {
+   "id": "39:b3b4",
+   "op": "text",
+   "en": "One... two... three...\nWe started counting over from the beginning.{p}"
+  },
+  {
+   "id": "39:b400",
+   "op": "text",
+   "en": "I was tense as I counted, carefully, one step at a time, so I wouldn't make a mistake.\n\"Ten... eleven... twelve... thirteen..................fourteen.\"\nFourteen steps, again.{p}"
+  },
+  {
+   "id": "39:b4a0",
+   "op": "text",
+   "en": "\"It's fourteen after all.\nMaybe just hanging up a tear-off calendar like that wasn't enough.\"\n\"That's not true.\nThat'll do the trick.\"\nSanae flatly shot down what I'd said.{p}"
+  },
+  {
+   "id": "39:b55c",
+   "op": "text",
+   "en": "\"But there's still the way down, isn't there?\"\nYoko looked happy.\nAfter what had happened earlier, she wanted to keep that scared feeling going, even just a little longer.\nYou know how you want to look at scary things even though they scare you?\nThat's actually pretty fun, right?\nWhen you're thinking 'I'm scared, I'm so scared,' you're secretly having kind of a good time.\nIt was that kind of feeling, I guess.\nThat's why I think Yoko was smiling.\nI nodded.\nThat's right, there was still the way down.\nWe had no idea how many steps there'd be going down.{p}"
+  },
+  {
+   "id": "39:b6f8",
+   "op": "text",
+   "en": "So we started counting.\nFull of anticipation.{p}"
+  },
+  {
+   "id": "39:b73c",
+   "op": "text",
+   "en": "\"Ten... eleven... twelve..................thirteen...☆\"{p}"
+  },
+  {
+   "id": "39:b7a0",
+   "op": "text",
+   "en": "Oh my gosh, maybe the three of us had wished hard enough, because the staircase had become thirteen steps!\nAll three of us fell silent, afraid of whatever was supposed to happen next.\nWe held our breath, bracing for it.\nBut you know what? Nothing happened at all.\nTime just went by.\nThe first one to break the tension was Yoko.\nStaring at the wall of the landing, Yoko sank to the floor right where she was.\nShe was shaking all over; it looked like her legs had no strength left in them.\n\"What's wrong?\nYoko, are you okay?\"\n\"Look at that...\"\nAs she said it, Yoko pointed at the wall with a trembling finger.\nSanae and I nervously turned our eyes that way.\nAnd there...{p}"
+  },
+  {
+   "id": "39:b9d8",
+   "op": "text",
+   "en": "There was just a wall.\nThere was nothing in particular worth noticing.\n...Huh★\nWait a second!\nThere was nothing on the wall.\nThen what about the mirror Yoko had been looking into earlier★\nThat was what Yoko was trying to tell us.\nBecause I had seen a figure reflected on that wall too.{p}"
+  },
+  {
+   "id": "39:bae0",
+   "op": "text",
+   "en": "Only Sanae looked blank.\n\"There was a mirror here before, wasn't there★\"\n\"Geez, Reiko, what are you talking about?\nThe staircase in the old school building with the mirror isn't this one.\"\nShe was right!\nI'd heard that the mirror had a story behind it too, but it was on a different staircase, the one on the opposite side.{p}"
+  },
+  {
+   "id": "39:bbf8",
+   "op": "text",
+   "en": "\"Eeeeeeeeeeek☆\"\nYoko and I screamed at the same time and took off running.\nSanae was startled by us and ran too, swept along.\nThe three of us fled the old school building as fast as our legs could carry us.{p}"
+  },
+  {
+   "id": "39:bcbc",
+   "op": "text",
+   "en": "It was still light outside, and we could see a few students here and there.\nOnce the relief set in, exhaustion hit me all at once, and Yoko and I were both heaving for breath.\n\"Let's call it a day.\"\nIt seemed Sanae had somehow picked up on how Yoko and I were feeling.\nThat's right, at times like that you want to get home before dark.\nThe three of us split up at the school gate.{p}"
+  },
+  {
+   "id": "39:be14",
+   "op": "text",
+   "en": "Nothing in particular has happened to us since then, but it still bugs me a little.\nWhat was that figure Yoko and I saw back then?\nYoko even thought it was a mirror, so I think it was a girl about our age.\nHey, {c}{f:|}, what do you think it was?\nA ghost?{p}Or maybe...?\n"
+  },
+  {
+   "id": "39:bf20",
+   "op": "choice",
+   "en": "I think it was a ghost"
+  },
+  {
+   "id": "39:bf30",
+   "op": "choice",
+   "en": "I think it was something else"
+  },
+  {
+   "id": "39:bf44",
+   "op": "text",
+   "follows_choice": [
+    "39:bf30"
+   ],
+   "en": "Something else...?\nYeah, it's wrong to decide that everything suspicious is a ghost.\nIt could be an alien, or it could be a yokai.{p}"
+  },
+  {
+   "id": "39:bfd4",
+   "op": "text",
+   "en": "Ahahaha, did that make you mad?\nI know perfectly well you didn't mean it like that.{p}"
+  },
+  {
+   "id": "39:c034",
+   "op": "text",
+   "en": "Well, I don't really know what that thing was, but there was an interesting article in the paper a little while ago.\nIt was about a girl our age who died suddenly.\nAnd the day she died was the very same day we snuck into the old school building.\nThe girl herself had nothing at all to do with this school, but, well, I think she was someone connected to Yoko.{p}"
+  },
+  {
+   "id": "39:c198",
+   "op": "text",
+   "en": "The paper ran a photo of the girl's face.\nAnd her face looked exactly like Yoko's.{p}You get what that means, right?\n"
+  },
+  {
+   "id": "39:c214",
+   "op": "choice",
+   "en": "Twin sisters"
+  },
+  {
+   "id": "39:c220",
+   "op": "choice",
+   "en": "Just a chance resemblance"
+  },
+  {
+   "id": "39:c234",
+   "op": "text",
+   "follows_choice": [
+    "39:c214"
+   ],
+   "en": "It's obvious, isn't it?\nYoko had a twin little sister who was adopted out to a relative's family when they were small.\nApparently Yoko wasn't very healthy when she was little.\nSo it seems that's why she and her sister ended up living apart.\nThe two of them knew about each other, and it seems they kept in touch a lot.\nThough it seems they hardly ever got to meet...{p}"
+  },
+  {
+   "id": "39:c384",
+   "op": "text",
+   "en": "I think the figure we saw on the wall of the old school building that day was her sister's spirit body.\nMaybe the spiritual energy of the thirteen steps made her sister's spirit body appear.\nI told you her sister died suddenly, right?\nNobody really knows the cause of death.\nApparently she was in the middle of club activities when she suddenly lost consciousness and collapsed.\nAnd she never opened her eyes again.{p}"
+  },
+  {
+   "id": "39:c4cc",
+   "op": "text",
+   "en": "Haven't you ever heard of out-of-body experiences?\nMost of the stories are about people who are asleep.\nYou feel like you're floating in the air, and when you happen to look down, you see your own body sleeping.\nI bet it was something like that.\nWhether it's a spirit body or an astral body, if it can't get back into its own body... I mean its flesh, you die.\nI think Yoko's sister couldn't get back into her own body, and she died.\nWhich means the three of us who went to the old school building killed her, right?\nI do feel responsible, but nobody anywhere would ever believe something like this.\nAnd Yoko, who I thought would be the saddest of all, doesn't seem to care much.{p}"
+  },
+  {
+   "id": "39:c6e0",
+   "op": "text",
+   "en": "Though sometimes she talks to mirrors and glass windows.\nI wonder what that means.\nIs Yoko seeing hallucinations from the shock?\nOr is her sister staying by her side now?\nOh well, whatever.\nIt doesn't look like anything's going to happen from here on.{p}"
+  },
+  {
+   "id": "39:c7e4",
+   "op": "text",
+   "en": "But you know, {c}{f:|}.\nFrom now on, be careful when you go on dates in the old school building.\nThat tear-off calendar is still hanging on that staircase.\nWhatever happens, don't blame me.\nHee hee hee, that's the end of my story.\nCome on, let's hurry on to the next one.{p}"
+  },
+  {
+   "id": "39:c8cc",
+   "op": "text",
+   "follows_choice": [
+    "39:20a8"
+   ],
+   "en": "How come?\nI think the air's a little different in there.\n...Oh well.\nSo anyway, we snuck over to that staircase so the teachers wouldn't catch us.{p}"
+  },
+  {
+   "id": "39:c96c",
+   "op": "text",
+   "follows_choice": [
+    "39:2bf8"
+   ],
+   "en": "Thanks.\nYou can't know for sure unless you check both ways, after all.\nWe checked the number of steps going down, too.{p}"
+  },
+  {
+   "id": "39:c9e0",
+   "op": "text",
+   "follows_choice": [
+    "39:2c0c"
+   ],
+   "en": "Why are you so quiet?\n{f:That ticks me off|Ugh, come on}!\nYou thought we were weird, didn't you?\nI won't forgive that!\nWhatever you think, {c}{f:|}, we checked the way down, too.\nYou can't know for sure unless you check both ways, right?\nHmph!\nWe checked the number of steps going down, too.{p}"
+  },
+  {
+   "id": "39:cb04",
+   "op": "text",
+   "en": "...Huh?\nThat's weird.\nDon't you hear a voice or something?\n...What? No, no.\nIt's not me.\nThe babies never caught me.{p}"
+  },
+  {
+   "id": "39:cb84",
+   "op": "text",
+   "en": "Ah...!\n{c}{f:|}☆\nAt your feet, {c}{f:|}... there's a baby...{p}"
+  },
+  {
+   "id": "39:cbf0",
+   "op": "text",
+   "en": "{c}{f:|}, you said earlier that you'd been to the old school building, right?\nDidn't you go by that staircase?\nThat staircase should still have a tear-off calendar on its wall even now.{p}"
+  },
+  {
+   "id": "39:cc98",
+   "op": "text",
+   "en": "What?\nYou went by that staircase, but you didn't count the steps?\n...Maybe you counted them without realizing it.\nThe human brain, you know, collects all kinds of information without you even being aware of it.\nLike that you got into a fight with a friend yesterday, or that your homeroom teacher was wearing red...\nThere are things you remember even when you weren't trying to memorize them, right?\nThat's the power of the unconscious.\nI bet you were counting the steps without realizing it, {c}{f:|}.\nAnd maybe that's why this baby latched onto you, {c}{f:|}...{p}"
+  },
+  {
+   "id": "39:ce64",
+   "op": "text",
+   "en": "Ah... it vanished.\nBut you saw it, didn't you?\nYou saw it, right?{p}"
+  },
+  {
+   "id": "39:ceb8",
+   "op": "text",
+   "en": "Eww, {c}{f:|}, {f:stay away from me|don't come over here}.\nI can't see the baby anymore, but isn't it riding on your shoulder or something, {c}{f:|}?\nI kind of get that feeling.\n{f:Go away|Sorry, but please don't come near me}.\n{c}{f:|}, maybe you're the type who gets possessed by spirits easily?\nYou'd better be a little careful.\nCome on, I said {f:go away|don't come near me}!{p}"
+  },
+  {
+   "id": "39:d034",
+   "op": "text",
+   "en": "...Not that there's any point in saying that, huh.\nThis club room is pretty cramped, after all.\n.........\nWell then, I guess we'll hear the next story.\nWho's going to tell us the next one...?{p}"
+  },
+  {
+   "id": "39:d0e0",
+   "op": "text",
+   "en": "...That's the end of my story, but earlier, {c}{f:|}, you thought we were weird, didn't you?{p}"
+  },
+  {
+   "id": "39:d158",
+   "op": "text",
+   "follows_choice": [
+    "39:bf20"
+   ],
+   "en": "\"I see...\nSo you can tell after all.\"\nFukuzawa murmured, and a slightly lonely look came into her eyes.\n\"Then I'll tell you a little about that ghost.\"\nDid Fukuzawa know something about that ghost, {f:I wondered|I wondered}?\n\"This was a long, long time ago, back when the old school building was still in use.\nThere was a girl who killed herself because she was being bullied.\nNobody would have anything to do with her, and it hurt so much to have her very existence ignored that she hanged herself at that staircase...\nShe thought that if she did, everyone would surely look at her.\nBut not a single person cried for her.\nEveryone forgot about her right away.\"\nFukuzawa was speaking slowly, as if choosing her words.\nHer voice wasn't loud, but in the hushed room it had a strange weight to it.\n\"And so, the girl who died couldn't leave that staircase.\nBut nobody would look at her, just like when she was alive...\nSo she was lonely...\"{p}"
+  },
+  {
+   "id": "39:d488",
+   "op": "text",
+   "en": "Huh★\nWhat {f:was that|was that}?\nIt felt like something just passed through my head...\nThe old school building, a staircase, a crying girl...{p}"
+  },
+  {
+   "id": "39:d518",
+   "op": "text",
+   "en": "\"Hey, {c}{f:|}.\nYou said you'd been to the old school building, right?\nDid you meet anyone while you were there?\nTry really hard to remember.\"\n...Um, when was that{f:, now|, again}?\n{f:I|I} went to the old school building with someone{f:|, didn't I}.\n...{f:No|No}, {f:wait|that's not right}.\nMaybe I went alone.\n{f:That's weird|How strange}, I can't remember clearly.\n\"You walked down the first-floor hallway, didn't you?\nWasn't the floor creaking?\"{p}"
+  },
+  {
+   "id": "39:d6d0",
+   "op": "text",
+   "en": "{f:That's right|That's right}.\nThe wooden floorboards had definitely been creaking.\nAnd then the end of the hallway drew closer..........{p}"
+  },
+  {
+   "id": "39:d748",
+   "op": "text",
+   "en": "Oh, it was a {f:girl|girl}☆\nI met a girl at the bottom of the stairs!{p}"
+  },
+  {
+   "id": "39:d794",
+   "op": "text",
+   "en": "\"A girl...\"\n\"Yes, just as I thought.\nDo you know who she was?\"\n\"No, I don't know that much...\nBut she was wearing this school's uniform, so I figured she was one of our students and {f:said|said} hello.\"\n\"So you spoke to her first.\"{p}"
+  },
+  {
+   "id": "39:d878",
+   "op": "text",
+   "en": "As she said it, Fukuzawa looked at {f:me|me} with a smile that sent a chill through me.\nShe was clearly different from the way she'd been until a moment ago.{p}"
+  },
+  {
+   "id": "39:d900",
+   "op": "text",
+   "en": "\"Hee hee hee, sorry.\nI was lying to you.\nThe story about the thirteen steps in the old school building was a lie.\nI don't have any friends who'd go around with me.\"\n\"But why★\nWas the whole story a lie{f:, then|, then}?\"\n\"Not all of it.\nThe story about the girl who killed herself is true.\nBecause that girl is me!\"{p}"
+  },
+  {
+   "id": "39:da1c",
+   "op": "text",
+   "en": "Fukuzawa's face was turning into the face of a hideous mummy.\nA tattered rope was coiled around her neck.{p}"
+  },
+  {
+   "id": "39:daa4",
+   "op": "text",
+   "en": "\"I've been so lonely, all this time.\nI was all alone until someone spoke to me that day.\nI was even starting to forget my own name. But it's all right now.\nI'm not lonely anymore.\nBecause now I have so many friends.\"\n{f:What on earth|What on earth}...\nA rope was wound tightly around {f:my|my} neck.\nNot just {f:mine|mine}: every member in this room had a rope around their neck, and the other ends were gripped in Fukuzawa's hand.\nEveryone was struggling desperately, but the ropes only dug in deeper...\nMy consciousness was slowly slipping away.\nI couldn't feel my arms and legs anymore.\n\"I'm not lonely anymore.\"\nOnly Fukuzawa's voice was bright and bouncing.\nThe students who vanished from the club room...\n{f:We|We} were going to become one of this school's seven wonders too............{p}"
+  },
+  {
+   "id": "39:dd48",
+   "op": "text",
+   "follows_choice": [
+    "39:c220"
+   ],
+   "en": "Well, they do say there are three people in the world who look just like you.\nHmm, I guess you could say that, but I see it a little differently.\nI've heard of doppelgangers too, and usually it's your own double that you see.\nThey say if you see your own doppelganger you die soon after, but that isn't always the case.\nThe most famous one is probably the story about a European poet.\nYou see, back when he had no position or fame yet, he left his village, promising his sweetheart that he'd come back for her without fail.\nAt that moment, on the road in front of her house, he saw a fine young man on horseback coming from the opposite direction.\nThey say the rider was dressed in blue.\nThen, a few years later.\nThe poet made it big in the city and went to fetch his sweetheart, just as he'd promised.\nThe road he'd once walked along, he was now riding back on horseback.\nThinking that, his heart skipped a beat.\nRight now, he was wearing blue and riding a horse.\nJust like the young man he'd passed long ago...\nThe one he'd seen back then had been his other self.\nThis poet went on to live for decades after that.\nSo seeing a doppelganger doesn't mean you'll die right away.\nThough in this poet's case, you could also say time had crossed over.\nSo then, why do people say you'll die soon if you see your doppelganger...?\nIt's because a lot of people really do die, right?\nAnd as for why they die...\nHmm, what I'm about to tell you is pretty far-fetched. Is that okay?\nThen again, if I don't tell you this, the story won't end.\nOh well, if you can't believe it, just let it go in one ear and out the other.{p}"
+  },
+  {
+   "id": "39:e2bc",
+   "op": "text",
+   "en": "Do you believe in reincarnation and that sort of thing?\nI do. Being reborn, I mean.\nMost of the time, one life is reborn as one life, but they say once in a while a soul splits apart when it's reborn.\nFor example, let's say you and I, {c}{f:|}, were one single person in a past life.\nNow the two of us have met here, so this state is what they call a doppelganger.\nThey say people who share the same soul look alike and give off a similar air.\nThat's why you end up thinking, 'There's another me.'\nThe reason it's tied to death is that the split soul tries to become one again.\nAnd when that happens, the one who survives is usually the person holding the biggest fragment of the split soul.\nApparently sometimes they all die, though.\nAnd even if they never meet, they say they can't live very long.\nThey're incomplete somehow, I guess.\nOh, and another example people give of a doppelganger is the astral body.\nIt means leaving your body, and I think it happens a lot to people who work themselves too hard.\nWhen their body's already at its limit but they just can't take a rest... at times like that, the astral body alone slips out of the flesh and lies sleeping in their room, and so on.\nOther people can see it too, so there are cases where you get a phone call from the person sleeping right in front of you, both of them really are that person, and everyone panics...\nIn that case too, they say most people die once they see their other self.{p}"
+  },
+  {
+   "id": "39:e7ac",
+   "op": "text",
+   "en": "...See? Pretty far-fetched, right?\nI'm sure what Yoko saw was a doppelganger.\nThe spiritual energy of the thirteen steps must have drawn in a fragment of Yoko's split soul.\nThe girl who died and Yoko must have had different-sized pieces of soul.\nYoko hasn't noticed a thing, but ever since then she's been much healthier than before.{p}"
+  },
+  {
+   "id": "39:e924",
+   "op": "text",
+   "en": "They say neither one can live long as long as the soul stays split, so maybe it turned out for the best.\nHee hee hee, so how was my story?\nLooks like your head's all jumbled up.\nBut I don't want to talk about it anymore.\nI'm about to get confused myself.\nCome on, let's hurry on to the next one.{p}"
+  },
+  {
+   "id": "39:ea14",
+   "op": "text",
+   "follows_choice": [
+    "39:9990"
+   ],
+   "en": "Hee hee, I knew it.\nMr. Miyama suddenly felt ashamed of how he'd been acting, too.\nOnce he calmed down and thought it over rationally, he regretted that ever since he'd confiscated the ring, he'd behaved in a way no adult ever should.\nAnd what came back to him was the man he'd been when he'd had nothing but pure feelings for Ishikawa.\nWhy hadn't he treated her with the feelings he'd had back then?\nHe had taken the wrong attitude toward a girl in the middle of adolescence.\n...He wasn't a bad teacher at heart, I guess.\nThe teacher decided this confession should be made to Ishikawa herself, so he took that ruby ring and headed for her house.{p}"
+  },
+  {
+   "id": "39:ec2c",
+   "op": "text",
+   "en": "Ishikawa was lying in bed.\nHer haggard, pale face looked like Ogura's used to.\nAt first her expression hardened when she saw Mr. Miyama's face, but when he told her he'd come to give back the ring, she smiled happily.\nThe teacher confessed everything he'd done, apologized from the bottom of his heart, and finally added this:\n\"I'll wait for you as long as it takes, until your heart has settled.\"\nAnd then he took the ruby ring out of his jacket pocket.{p}"
+  },
+  {
+   "id": "39:edc4",
+   "op": "text",
+   "en": "(Huh, that's odd...)\nSomehow the ruby in the ring looked darker.\n(Was it this color before...?)\nThe teacher examined the ring, but it was definitely Ishikawa's ring.\nIt had Ishikawa's and Ogura's initials engraved on it.\n(Must be my imagination...)\nThinking that, the teacher handed the ring to Ishikawa.{p}"
+  },
+  {
+   "id": "39:eee8",
+   "op": "text",
+   "en": "Ishikawa slipped the ring onto the ring finger of her left hand right away.\nOn Ishikawa's left hand, the ring gave off an even more sinister glow.\nAnd then...{p}"
+  },
+  {
+   "id": "39:ef78",
+   "op": "text",
+   "en": "Black smoke gushed out of the ring and wrapped around Ishikawa's body in an instant!\nIshikawa was coughing in agony, as if she couldn't breathe.\nMr. Miyama couldn't do a thing; all he could do was stand there dumbfounded and watch.\nBut the sound of her coughing went quiet in no time.\nThe black smoke slowly faded away, and there lay Ishikawa, her face twisted in anguish.{p}"
+  },
+  {
+   "id": "39:f0d4",
+   "op": "text",
+   "en": "She wasn't breathing anymore.\nThey say only the ring on her left hand was shining a beautiful red, just like it used to.\nIshikawa's cause of death was a heart attack, but there was nothing wrong with her heart.\nSure, she was sick, so maybe she'd gotten a little weak, but there was no way she should have had a heart attack.\nAll kinds of suspicion fell on Mr. Miyama too, but there was no proof of any of it, so he was never arrested.\nBut I bet the teacher knew what really killed Ishikawa.\nWhat that black smoke gushing out of the ring really was.{p}"
+  },
+  {
+   "id": "39:f2b0",
+   "op": "text",
+   "en": "Wasn't it the curse the teacher had put on it?\nHe grumbled at the ring practically every night, remember?\nThat got packed into the ring as a curse.\nAnd the curse was fulfilled, perfectly...\nI think the teacher realized that, too.\nAfter what happened, he quit the school and went off to shut himself away in the mountains somewhere.\nApparently nobody's heard from him since.\nThey say Ishikawa was buried with the ruby ring still on her finger.\nMaybe she's up in the sky with Ogura now.{p}"
+  },
+  {
+   "id": "39:f474",
+   "op": "text",
+   "en": "Hee hee hee, you be careful too, {c}{f:|}.\nEven if you don't mean to, there's no telling when or where you might be pouring a curse into something.\nDid you trip over an empty can this morning?\nDid you bang your head on the corner of a desk?\nWhat did you think when that happened?\nIf you think anything too terrible...\n...Well then, that's the end of my story.\nWho are you picking next...?{p}"
+  },
+  {
+   "id": "39:f5c4",
+   "op": "text",
+   "follows_choice": [
+    "39:a63c"
+   ],
+   "en": "You'd set them free?\nThat's pretty cool-headed of you.\nYeah, living your whole life thinking only of someone who's dead is kind of sad, isn't it?\nPrecisely because they're precious to you, you want them to enjoy life for both of you, right?\nTying them to yourself when you don't belong in this world anymore is just selfishness, I think.\nWell, I'm sure some people think that's love, and that's their call.\nIshikawa's a good example of that, isn't she?\n'I've had the one love of my lifetime.\nOgura is my one and only eternal love...'\nOnly a truly pure person or a narcissist could think like that.\nShe's the self-infatuated type, isn't she?\nMaybe all those incidents were really Ishikawa's own doing, since she'd convinced herself it was Ogura's ghost...{p}"
+  },
+  {
+   "id": "39:f848",
+   "op": "text",
+   "en": "Hee hee hee, nobody can ever know the real truth, right?\nThat's where my story ends.\nI'll tell you the thirteen-steps story some other time, so go and take a look for yourself once.\nThen I'll tell you all about it.\nWho's next...?{p}"
+  }
+ ]
+}

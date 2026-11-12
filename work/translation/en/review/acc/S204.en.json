@@ -1,0 +1,363 @@
+{
+ "slice": "S204",
+ "scene": "54",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S203",
+ "next": "S205",
+ "todo": [
+  "- S204 SCE54: no gender words used for the player."
+ ],
+ "rows": [
+  {
+   "id": "54:06e4",
+   "op": "text",
+   "en": "So, it's finally my turn...\nNice to meet you all.\nMy name is Shoji Arai.\nI'm a second-year.{p}This is rather sudden, but...\nDo you all believe in past lives?{p}Do you think reincarnation exists?\n"
+  },
+  {
+   "id": "54:0794",
+   "op": "choice",
+   "en": "I think it exists"
+  },
+  {
+   "id": "54:07a0",
+   "op": "choice",
+   "en": "I don't think it exists"
+  },
+  {
+   "id": "54:07ac",
+   "op": "choice",
+   "en": "There's no way to know that"
+  },
+  {
+   "id": "54:07c4",
+   "op": "text",
+   "follows_choice": [
+    "54:0794"
+   ],
+   "en": "...So you think it exists, {a}.\nThat's good.\nNo matter how hard I try when I tell my story, I can't get the subtle nuances across to someone who doesn't believe in past lives.{p}"
+  },
+  {
+   "id": "54:0870",
+   "op": "text",
+   "en": "Rebirth... It's also called the transmigration of souls.\nRemembering who and where you were in a former life, or knowing in detail the past of a stranger you couldn't possibly know about...\nStrange phenomena like that happen all over the world.\nThey aren't things that only happen in movies and TV dramas.\n...The reason I say so is that I myself carry memories of my own past life.{p}You find that hard to believe?\n{a}...\n"
+  },
+  {
+   "id": "54:09d0",
+   "op": "choice",
+   "en": "I can believe it"
+  },
+  {
+   "id": "54:09dc",
+   "op": "choice",
+   "en": "I can't believe it"
+  },
+  {
+   "id": "54:09f4",
+   "op": "text",
+   "follows_choice": [
+    "54:09d0"
+   ],
+   "en": "I see.\nSo you're telling me you can believe it.\nWell now, that makes me happy.\nYou're the first person who's ever said that to me, {a}.\nWhen I bring this up out of the blue, most people get a suspicious look in their eyes and drift away from me...\nUm... {a}.\nWould you shake my hand?\nI'm deeply moved right now.{p}Moved by you, {a}, for believing my story when we've only just met...\n"
+  },
+  {
+   "id": "54:0b60",
+   "op": "choice",
+   "en": "I don't mind shaking hands"
+  },
+  {
+   "id": "54:0b70",
+   "op": "choice",
+   "en": "I don't want to shake hands"
+  },
+  {
+   "id": "54:0b84",
+   "op": "text",
+   "follows_choice": [
+    "54:0b60"
+   ],
+   "en": "...Ah, I will never forget the warmth of this hand.\nAnyway, please listen to my story.\nI still have memories of my past life.\n...Yes, I remember them clearly.\nEverything, from the time I first became aware of the world in my past life, through my death, until I was born anew...\nDid you know?{p}"
+  },
+  {
+   "id": "54:0ca4",
+   "op": "text",
+   "en": "While we're inside our mother's body, we're gently wrapped in a fluid like lukewarm water.\nAnd we sense the world outside through our mother.\nWhat I could always hear was the warm heartbeat, thump... thump... and my gentle mother's voice talking to me...{p}"
+  },
+  {
+   "id": "54:0dac",
+   "op": "text",
+   "en": "In that cradle-like space, I thought about one thing the whole time.\nAbout the life I'd led until then...\nIn other words... about my life in my past life.\nIn my past life I didn't live in medieval Europe, or ancient Egypt, or some South Pacific paradise.\nIt was just a few decades ago...{p}"
+  },
+  {
+   "id": "54:0eb0",
+   "op": "text",
+   "en": "In my past life, I was an ordinary boy who lived in this town.\nMy family back then was my father, my mother, and one brother two years older than me...\nMy parents were busy and often away from home, so I was practically raised by that brother.\nUnlike me, clumsy and painfully shy, my brother was bright and cheerful, the kind of person who'd end up at the center of every circle before you knew it.{p}"
+  },
+  {
+   "id": "54:0fe0",
+   "op": "text",
+   "en": "My brother's name was Soichiro.{p}"
+  },
+  {
+   "id": "54:1018",
+   "op": "text",
+   "en": "............Oh?\n{a}...\nJust now, the moment you heard my brother's name, you were a little startled, weren't you?\n"
+  },
+  {
+   "id": "54:1068",
+   "op": "choice",
+   "en": "I was startled"
+  },
+  {
+   "id": "54:1070",
+   "op": "choice",
+   "en": "No, I wasn't"
+  },
+  {
+   "id": "54:108c",
+   "op": "text",
+   "follows_choice": [
+    "54:1068"
+   ],
+   "en": "...Ah, I thought so.\nIs there something about my brother's name?{p}"
+  },
+  {
+   "id": "54:10c8",
+   "op": "choice",
+   "en": "I just thought it was a wonderful name..."
+  },
+  {
+   "id": "54:10e4",
+   "op": "choice",
+   "en": "I just thought it sounded nostalgic..."
+  },
+  {
+   "id": "54:1100",
+   "op": "choice",
+   "en": "I just thought it was a frightening name..."
+  },
+  {
+   "id": "54:1124",
+   "op": "text",
+   "follows_choice": [
+    "54:10e4"
+   ],
+   "en": "Oh, so it feels nostalgic to you.\nIsn't that surely because you had a deep connection with that name in your past life, {a}?\nPerhaps you knew someone by that name...\nOr perhaps you were called that yourself...\nOf course, it's not an unusual name, so it wouldn't be the least bit strange if you knew someone with the same name in this life, either...{p}"
+  },
+  {
+   "id": "54:1258",
+   "op": "text",
+   "en": "...Let's get back to the story.{p}"
+  },
+  {
+   "id": "54:1280",
+   "op": "text",
+   "en": "My brother doted on me so much.\nI always used to tag along after him.\nSomeone once told me I looked like a chick fresh out of the egg, trailing after the mother bird.\nLooking back now, maybe it was said half in jest, but to me back then, it was nothing but the highest praise.\nJust being by my brother's side made me happy.{p}"
+  },
+  {
+   "id": "54:1408",
+   "op": "text",
+   "en": "Of course...\nI knew well enough that such happiness wouldn't last forever.\nWhen you grow up, each of you has your own world, and it keeps growing wider.\nOnce that happens, you can't be together around the clock forever, the way you were as children...\nEven so, those happy times should have lasted a while longer.\nIf only that incident had never happened...{p}"
+  },
+  {
+   "id": "54:154c",
+   "op": "text",
+   "en": "My brother was a second-year in high school.\nI was a third-year in middle school.\nGoing home with my brother after school was my daily routine.\nWhen my brother spotted me from his classroom window, he would wave to me with big sweeps of his arm.\nThat was the signal for 'I'll be right there.'\nOnce I saw it, I'd wave back just as big...\nThat was the signal for 'Got it.'{p}"
+  },
+  {
+   "id": "54:1668",
+   "op": "text",
+   "en": "That day, too, I was standing near the gate of the high school my brother went to.\nI was watching the school building, waiting impatiently for my brother to show his face.\nAfter a while, he appeared at the usual window.\nYes...\nEven now, the image of my brother at that moment is burned vividly into the backs of my eyelids.{p}"
+  },
+  {
+   "id": "54:1784",
+   "op": "text",
+   "en": "A classroom on the top floor of the wooden school building...\nAt the third window from the right, my brother is waving with big sweeps of his arm.{p}"
+  },
+  {
+   "id": "54:17e4",
+   "op": "text",
+   "en": "What a bright, refreshing smile it is...\nThe finest smile, meant for me alone.{p}"
+  },
+  {
+   "id": "54:1854",
+   "op": "text",
+   "en": "...The terrible tragedy happened right after that.\nThe very instant I tried to signal back...☆{p}"
+  },
+  {
+   "id": "54:18c4",
+   "op": "text",
+   "en": "My brother's body pitched forward and was dashed straight into the ground!{p}"
+  },
+  {
+   "id": "54:1924",
+   "op": "text",
+   "en": "I felt as though a horrible, squelching crunch echoed deep in my ears.\nYes, I really shouldn't have been close enough to actually hear it.\nAfter all, the athletic field lay between the school gate where I stood and the school building...{p}"
+  },
+  {
+   "id": "54:1a00",
+   "op": "text",
+   "en": "You see, to me as a middle schooler, the high school was a sacred place I could never set foot in.\nI'd always believed I would only be allowed inside once I became a high school student myself.\nEven after a wall of people surrounded my brother's body and I couldn't see it anymore, I couldn't take a single step from the school gate.\nI was picturing the bright red blood gushing out of my brother's body...\nThe ground that soaked up my brother's blood still bears the mark today.{p}"
+  },
+  {
+   "id": "54:1b88",
+   "op": "text",
+   "en": "Below the old school building... From here, it's hidden right behind the shrubbery.\nI'm told it was a flowerbed, of sorts...\nAfter my brother died, it became a bare patch of ground where neither flowers nor grass would grow.\nOnly the part that soaked up the blood has darkened like a stain, so you can easily make it out even from far away.\nFrom my classroom, it's in plain view, though...{p}"
+  },
+  {
+   "id": "54:1cd4",
+   "op": "text",
+   "en": "...Ah, I forgot to mention.\nMy brother was a student at this school.\nOf course, my past self intended to go on to this school too.\n...But after my brother died, my health declined sharply...\nI died before I could even graduate from middle school.\n\"They were such close brothers... his big brother must have called for him...\"\nPeople whispered that, though no one could say who started it.\nIn this life, the reason I came to this school was that I was curious about the school my brother once went to.\nIt's the place of memories that stays most deeply in my heart...\n...Maybe I was searching for some trace of my brother.\nYou see, there was a place I'd made up my mind to visit as soon as I entered this school.\nAnd that place was...{p}Where do you think it is?\n"
+  },
+  {
+   "id": "54:1f48",
+   "op": "choice",
+   "en": "The classroom where your brother was"
+  },
+  {
+   "id": "54:1f5c",
+   "op": "choice",
+   "en": "The flowerbed that soaked up your brother's blood"
+  },
+  {
+   "id": "54:1f78",
+   "op": "choice",
+   "en": "The gate where you waited for your brother"
+  },
+  {
+   "id": "54:1f94",
+   "op": "text",
+   "follows_choice": [
+    "54:1f5c"
+   ],
+   "en": "...Yes.\nAs it happens, you're right.\nIt's the place where my brother met his final moment, the one I couldn't see that day...\nI had wanted to visit the classroom where he'd been, too, but the old school building was off-limits.\nI didn't think my brother would be pleased if I went so far as to break the rules...\nSo I headed to the flowerbed, thinking I could at least offer some flowers.{p}"
+  },
+  {
+   "id": "54:20e8",
+   "op": "text",
+   "en": "Just as the rumors said, not a single blade of grass was growing in the flowerbed.\nI wondered whether the spot where the soil was slightly darkened was the trace of my brother's blood.\nI quietly knelt before it and closed my eyes.{p}"
+  },
+  {
+   "id": "54:2188",
+   "op": "text",
+   "en": "Remembering my brother as he was...\nThen, all of a sudden, I sensed something above my head!\nIf you asked me what it was, I couldn't really tell you...{p}"
+  },
+  {
+   "id": "54:2210",
+   "op": "text",
+   "en": "Something is falling!\n...That's what I felt.{p}"
+  },
+  {
+   "id": "54:225c",
+   "op": "text",
+   "en": "What met my eyes as I snapped them open was my brother, flung out into the air...\nWithout thinking, I spread my arms wide.\nI was trying to catch my brother's body.\nBut his body vanished without ever touching my hands.\nAs if it had melted into the air.{p}"
+  },
+  {
+   "id": "54:238c",
+   "op": "text",
+   "en": "When I happened to check the time, it was the time my brother and I always used to meet.\nIn other words... the time my brother died.\nIt bothered me, so the next day I went to the flowerbed at the same time.{p}"
+  },
+  {
+   "id": "54:244c",
+   "op": "text",
+   "en": "And sure enough, my brother appeared.\nWith a look of surprise on his face, my brother fell headfirst...\nEven now, decades after he died, my brother was reliving the moment of his death almost every day.{p}"
+  },
+  {
+   "id": "54:251c",
+   "op": "text",
+   "en": "They say spirits that don't know they've died repeat the same thing over and over.\nI think my brother probably didn't know he was dead.\nBut to die again and again like that... it's just too sad.{p}"
+  },
+  {
+   "id": "54:25e8",
+   "op": "text",
+   "en": "Wanting to let my brother rest in peace, I offered flowers and water almost every day and prayed with all my heart.\nBut it didn't seem to do any good at all.\nMy brother's ghost kept appearing almost every day.\nMaybe there was some other cause behind this.\nWas my brother trying to tell me something...?\nThat thought welled up in my mind.\nAnd then, one day...!\nI uncovered a crucial fact.{p}"
+  },
+  {
+   "id": "54:2794",
+   "op": "text",
+   "en": "At the instant my brother was flung into the air, two arms were reaching out of the classroom window...\nThe verdict on my brother's death, written off back then as an unfortunate accident, was in fact wrong.\nSomeone pushed my brother...\nThey were slender, white arms, so the one who pushed him was most likely a woman.{p}"
+  },
+  {
+   "id": "54:28a0",
+   "op": "text",
+   "en": "...By the way, {a}?\nYou have a strange mark on your left hand, don't you?{p}"
+  },
+  {
+   "id": "54:28f8",
+   "op": "text",
+   "en": "Three in a row... are those moles?\nYes, I noticed them when we shook hands earlier...\nDid you know?\nNormally, people shake hands with the right hand.\nThey say a left-handed handshake is the handshake for a farewell...\nWell, that doesn't really have much to do with anything, but...\nNo... the truth is...{p}"
+  },
+  {
+   "id": "54:2a24",
+   "op": "text",
+   "en": "The figure I saw also had three moles in a row on the left hand, just like you.\nI could only see the hands, but I remember them clearly.{p}"
+  },
+  {
+   "id": "54:2ad4",
+   "op": "text",
+   "en": "{a}...\nThis is by no means a coincidence.\nIt's all a kind of karmic bond carried over from a past life.\nI can see clearly who you were in your past life.\nShall I tell you?\nThen I'm sure you'll remember too...\nPlease listen as well, everyone.{p}"
+  },
+  {
+   "id": "54:2bd8",
+   "op": "text",
+   "en": "In your past life, {a}, you were a girl named Kyoko Ichinose.\nShe was a childhood friend of us brothers, and ever since she was little, she'd adored my brother.\n\"I'm going to be Big Brother Soichiro's bride.\"\n...That was what she always used to say.\nShe grew more beautiful day by day.\nAll just to become my brother's bride...{p}"
+  },
+  {
+   "id": "54:2cf8",
+   "op": "text",
+   "en": "...I suppose it was around the time she started middle school that her attitude became blatant...\nUntil then, the three of us did everything together, but she began openly ignoring me, and only me.\nWas she trying to keep my brother all to herself?\nBut...\nAs I think I mentioned earlier, my brother loved me and doted on me more than anyone...\nThere was no way he'd fall for a girl who treated me so coldly.\nIn the end, her love went unrequited.\nI think she pushed my brother to get back at him for that...\nYes, she was the one who killed my brother.{p}"
+  },
+  {
+   "id": "54:2f04",
+   "op": "text",
+   "en": "Three moles in a row on the left hand were her trademark, you see.\nWell, well... so even after reincarnation, distinguishing features like moles that serve as a mark still remain.\nIt's just like the mark of Cain, isn't it?{p}"
+  },
+  {
+   "id": "54:2fe8",
+   "op": "text",
+   "en": "...Oh?\nWhat's the matter, {a}?\nYou're trembling so much...\nAnd you look rather pale...{p}Was my story really that frightening?\n"
+  },
+  {
+   "id": "54:306c",
+   "op": "choice",
+   "en": "It was scary"
+  },
+  {
+   "id": "54:3078",
+   "op": "choice",
+   "en": "I'm not scared at all"
+  },
+  {
+   "id": "54:3088",
+   "op": "choice",
+   "en": "I'm scared of you, Arai"
+  },
+  {
+   "id": "54:30a4",
+   "op": "text",
+   "follows_choice": [
+    "54:3088"
+   ],
+   "en": "You're scared of me?\nOf course, you're the reincarnation of the one who killed my most precious brother.\nYou're afraid I'll take my revenge on you, aren't you?{p}"
+  },
+  {
+   "id": "54:3130",
+   "op": "text",
+   "en": "...That's right.\nNo matter how much I hate you, I could never hate you enough.\nYes, if I had my way, I'd kill you in the most brutal way imaginable...{p}"
+  },
+  {
+   "id": "54:31cc",
+   "op": "text",
+   "en": "But if I stay trapped in hatred forever, my brother will grieve.\nHe was a truly kind person...\nIf I were to kill you, it would only make him even sadder.\nI could never do anything that cruel, you see.{p}"
+  },
+  {
+   "id": "54:32ac",
+   "op": "text",
+   "en": "...That said, you mustn't let your guard down.\nListen to me.\nYou've been reborn in order to atone in this life for the sin you committed in your past one.\nLet me see...\nFrom now on, {a}, I'd like you to take my brother's place.\nIn place of my brother, the one you killed...{p}"
+  },
+  {
+   "id": "54:33b0",
+   "op": "text",
+   "en": "...Still, it's a hot room, isn't it?\nI'm getting rather thirsty.{p}At times like this, my brother would always go and buy me a cold juice...\n"
+  }
+ ]
+}

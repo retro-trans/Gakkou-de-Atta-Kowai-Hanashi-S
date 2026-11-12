@@ -1,0 +1,15 @@
+{
+ "rows": {
+  "22:3db8": "He flinched for a second, and I shook off his hand and ran.\nI figured if I could get back to the exam room, I'd be okay.\nOne more turn and I'd be right at the exam room... and that's when I noticed a strange noise behind me.\n",
+  "22:46cc": "...Heh heh, you look puzzled.\nYou want to ask why I came to this school after such a frightening experience... right?\nI told you, didn't I? It must be fate.\nFor some reason, I must have been chosen by those hands.\nI don't know yet what they want me to do.\nBut I mean to figure that out someday.\nAnd... this is a little hard to say, though.\nI can't forget how it felt to be caught by those hands.\nSo warm, so soft... a sense of security, like I'd become a baby again.\nSomeday, I want to be wrapped in those hands again...\nThat's my dream.\nThat's the end of my story.\nWho's next?{p}"
+ },
+ "notes": [
+  "22:3db8: FIX pause - source has a dot run (turn there and it's the exam room... at that point) that the English dropped; restored.",
+  "22:46cc: FIX added trailing-off - source ends the line with a plain 'it's a bit hard to say, though'; English had added 'but...'.",
+  "22:3974: UNSURE - speaker of 'Let's not, after all' unstated in source; kept as the player ('I said that'), since the next row has Nakano grab him as he turns back.",
+  "22:1fb0: UNSURE - teacher's gender unknown; kept 'Excuse me, teacher' (no sir/ma'am).",
+  "22:3974 22:42d0 22:44ac: KEPT - 12-dot runs for 4-character source runs left as is (brief: don't shorten a longer run).",
+  "22:2c14: KEPT - 'The instant I did...' adds dots to the source's full stop; it is a sentence cut at the page break, so left for editorial.",
+  "22:0b78: UNSURE - scene 22 serves both genders via {f} codes (0b78, 363c); no gendered word for the player used anywhere else in the slice, none added."
+ ]
+}

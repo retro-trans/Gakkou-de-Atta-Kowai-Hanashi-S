@@ -1,0 +1,938 @@
+{
+ "chunk": "E097",
+ "scene": "49",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S192",
+  "S193",
+  "S194"
+ ],
+ "prev": "E096",
+ "next": "E098",
+ "todo": [],
+ "rows": [
+  {
+   "id": "49:08a8",
+   "op": "text",
+   "en": "Wait a moment.\nIf I'm telling the fourth story, there's no need to go all the way back to the newspaper club.\nThe story I meant to tell is about this cherry tree, too.\n...My name is Akemi Iwashita.\nI'm a third-year.\nI must say, my heart skipped a beat when Fukuzawa started on a story about the cherry tree for the third one.\nI couldn't believe that a first-year like you would know a story about this cherry tree.\nAfter all, this story was a legend known only to a very select few.\n...But I'm glad.\nGlad that Fukuzawa's story was a lie.\nWherever did you hear that story about this cherry tree?\nSome of it may well be accurate, but how on earth did you hear it, to come up with a fabrication like that?\nPerhaps you have a gift for writing fiction, Fukuzawa.\nOr are you simply a swindler?\n...Please don't be angry with me.\nI'm only telling the truth.\nThis place was a dumping ground for corpses during the war, you say?\nThis cherry tree was forced to watch horrifying sights, over and over, you say?\nDuring the war, they threw living people away along with the dead?\nThat is ridiculous beyond words.\nBesides, even if it were true, there are mountains of sights far more horrifying than that.{p}"
+  },
+  {
+   "id": "49:0cb0",
+   "op": "text",
+   "en": "After all, they say this cherry tree is more than a thousand years old.\nThat much, I'll grant.\nThis area, you see, is famous for a great battle fought here in the Warring States period.\nHave you studied your history?\nDo you know what people with hardly any food ate to stay alive in the Warring States period?\n...I'd rather not say it myself.\nAnd do you know what kind of life they were forced to lead?\nStripping the armor and helmets off dead warlords and trading them for a pittance, peeling the scalps off heads and selling the hair, hunting down defeated samurai who had survived and ganging up to beat them...\nWas all of that just a dream, I wonder?\nThose heaps upon heaps of corpses back then must have given this cherry tree all the nourishment it needed to grow, don't you think?{p}"
+  },
+  {
+   "id": "49:0f28",
+   "op": "text",
+   "en": "Heh heh...\nIf that were how it worked, every tree in Japan would have to be cursed.\nNo one could ever go cherry-blossom viewing.\nSomeone would have to die every time anyone set foot in a forest.{p}"
+  },
+  {
+   "id": "49:0fd8",
+   "op": "text",
+   "en": "It's true that this cherry tree is steeped in a grudge.\nMany grudges, in fact.\nBut they don't belong to the soldiers who died in the war, nor to the warlords who died in the Warring States period.\nIt's something else...\nThey're grudges born of the fierce, wicked attachment to this world of people who lived perfectly ordinary lives.\n{a}{f:|}?\nWhat you saw a little while ago was that grudge.\nNot the soldiers who died in the war.\nNow I'll tell you the truth.\nThe story of the real grudge that has taken hold of this cherry tree.\nIn return, will you make me a promise?\nNo matter what happens, you won't move from this spot until my story is over.\nAnd you will never, ever scream.\nUnderstood?{p}Can you promise me that?\n"
+  },
+  {
+   "id": "49:1250",
+   "op": "choice",
+   "en": "I can promise"
+  },
+  {
+   "id": "49:125c",
+   "op": "choice",
+   "en": "I can't promise"
+  },
+  {
+   "id": "49:1274",
+   "op": "text",
+   "en": "I'm so glad you promised me.\nWell then, I'll begin.{p}",
+   "follows_choice": [
+    "49:1250"
+   ]
+  },
+  {
+   "id": "49:12c0",
+   "op": "text",
+   "en": "Everyone, would you look at that branch up high?\nYou can see one thick branch stretching out there, can't you?\nThat one, you see, is just right for hanging yourself.\nDo you know what else this cherry tree is called?\nIt's called the 'Hanging Cherry.'{p}Do you know why?\n"
+  },
+  {
+   "id": "49:13b0",
+   "op": "choice",
+   "en": "Someone hanged themselves from that branch"
+  },
+  {
+   "id": "49:13cc",
+   "op": "choice",
+   "en": "There's a rumor that if you hang yourself from that branch, you go to heaven"
+  },
+  {
+   "id": "49:13fc",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "49:1408",
+   "op": "text",
+   "en": "I see.\nI thought as much.\nThe legend of this cherry tree isn't as simple as you all think.{p}",
+   "follows_choice": [
+    "49:13fc"
+   ]
+  },
+  {
+   "id": "49:1470",
+   "op": "text",
+   "en": "It's true that, in the past, quite a few people have hanged themselves from this cherry tree.\nBut not one of them died of their own free will.\nThey are chosen by the cherry tree.\nYou think I'm lying, don't you?\nI'm not.\nThis cherry tree, you see, chooses one sacrifice every year.\nOf its own will.\nOf course, I doubt anyone has ever heard that someone hangs themselves from this tree every year.\n{a}{f:|}, you and Fukuzawa are only first-years, so it's natural that you wouldn't know, but...\nBesides, even if the school tried to hide a rumor like that, it couldn't.\nIt would be bound to spread.\nA school where, every single year without fail, someone hangs themselves from the cherry tree... imagine that.\nCreepy, isn't it?{p}"
+  },
+  {
+   "id": "49:1698",
+   "op": "text",
+   "en": "If you'd known about a rumor like that, you wouldn't have come to this school, would you?\n"
+  },
+  {
+   "id": "49:16e0",
+   "op": "choice",
+   "en": "That has nothing to do with it"
+  },
+  {
+   "id": "49:16f4",
+   "op": "choice",
+   "en": "No, I wouldn't have come"
+  },
+  {
+   "id": "49:1708",
+   "op": "text",
+   "en": "Exactly.\nThat's why nobody knows.{p}",
+   "follows_choice": [
+    "49:16f4"
+   ]
+  },
+  {
+   "id": "49:1730",
+   "op": "text",
+   "en": "Strange, isn't it?\nDo you know why?\nIt's because the cherry tree buries the people who became its sacrifices beneath itself, all on its own.\nThat's why the bodies are never found.\nEven so, the fact that someone has gone missing would remain, wouldn't it?\nAnd yet no one ever finds out.\nNo one is surprised.\nNot the teachers, not their friends, not their families: not a single person worries.\nWhy do you think that is?\nThe very existence of the sacrifice vanishes from everyone's minds.\nIn other words, for some reason, the person's whole past, every fact of the life they lived, is completely erased.{p}"
+  },
+  {
+   "id": "49:18f8",
+   "op": "text",
+   "en": "Heh heh...\nIt becomes as though they never existed in the first place.\nThat's why no one notices.\nThat's why no one worries.{p}"
+  },
+  {
+   "id": "49:1974",
+   "op": "text",
+   "en": "After all, no one knows anything about such a person.\nNow, don't you want to know why the cherry tree needs sacrifices?{p}Aren't you interested, {a}{f:|}?\n"
+  },
+  {
+   "id": "49:1a08",
+   "op": "choice",
+   "en": "I'm interested"
+  },
+  {
+   "id": "49:1a14",
+   "op": "choice",
+   "en": "I'm not interested"
+  },
+  {
+   "id": "49:1a28",
+   "op": "text",
+   "en": "Of course you are.\nI think anyone would be interested.\nAnyone who answers that they aren't interested is a liar.{p}",
+   "follows_choice": [
+    "49:1a08"
+   ]
+  },
+  {
+   "id": "49:1a84",
+   "op": "text",
+   "en": "I despise liars.\nI like honest people.\nThis cherry tree, you see, used to be a meeting place for couples.\nThis was decades ago now.{p}"
+  },
+  {
+   "id": "49:1b20",
+   "op": "text",
+   "en": "Back then, high school students were all still innocent.\nThey were the kind who were embarrassed even to hold hands.\nA kiss took tremendous resolve.{p}"
+  },
+  {
+   "id": "49:1bb0",
+   "op": "text",
+   "en": "And it was said that a couple who kissed beneath this cherry tree and swore their love to each other would be bound together forever.\nBack then, it didn't yet have such a hateful nickname as the Hanging Cherry.\nIt was a symbol of happiness that bound two lovers together.\nAt that time, there was a couple named Kunio Hirooka and Hatsuko Orihara.\nThey, too, believed in the legend of the cherry tree, and dreamed that someday they would kiss beneath it and be bound by eternal love.\nBut you know, legends like that aren't made only of happy stories.\nThere was a dark side, too.{p}"
+  },
+  {
+   "id": "49:1d6c",
+   "op": "text",
+   "en": "It was said that if anyone else saw two lovers at the moment of their kiss, the pair would meet a tragic end.\nThat's why hardly any couples managed to carry out the legend.\nTell someone, and they'd come to watch for fun; tell no one, and there was still the chance of being seen by accident.{p}"
+  },
+  {
+   "id": "49:1e94",
+   "op": "text",
+   "en": "It's cleverly made, isn't it?\nIf eternal love came that easily, the legend would lose all its value.\nThat's why you hardly ever heard of a couple who had put the legend to the test, not even as a rumor.\nPerhaps there were actually many of them.\nEveryone was so pure that they were too shy to talk about it, and if they did talk and then broke up, they'd be a real laughingstock, wouldn't they?\nSecrets like that, you see, were kept between the two of them alone.\nSo Hirooka and Orihara told no one either, and waited for the time to come.{p}"
+  },
+  {
+   "id": "49:2070",
+   "op": "text",
+   "en": "Back then, making that kind of confession was the man's job.\nThese days so many men are spineless that the women seem to be the strong ones.\nAround the time the cherry blossoms bloomed, Hirooka finally made up his mind.\nHe would perform the legendary ritual beneath the cherry tree in full bloom.\n\"...Orihara. If you don't mind, would you come with me, just the two of us, under those cherry blossoms?\"\nYou understand what it meant when he said the two of them would go there, don't you?\nOrihara blushed and gave a small nod.\nHow happy Hirooka was at that moment...\nI can picture it as plainly as if it were right in front of me.\nAnd so he asked her.\n\"When would be good for you?\"{p}What do you think Orihara answered?\n"
+  },
+  {
+   "id": "49:22ac",
+   "op": "choice",
+   "en": "On the night of the next full moon"
+  },
+  {
+   "id": "49:22bc",
+   "op": "choice",
+   "en": "Early tomorrow morning"
+  },
+  {
+   "id": "49:22cc",
+   "op": "choice",
+   "en": "I'll leave it up to you"
+  },
+  {
+   "id": "49:22dc",
+   "op": "text",
+   "en": "\"On the night of the next full moon. I think that's just when the cherry blossoms will be in full bloom. Then...\"\nThe two held hands and gazed into each other's eyes.\nNo more words were needed.\nThough anyone who has never been in love wouldn't understand.\nDo you understand, I wonder?\n...And so, at last, the night of the full moon arrived.\nAs the day drew closer and closer, their hearts pounded and fluttered.\nOn the day itself, knowing that tonight was the night, they were so shy that whenever their eyes met during the day, they couldn't help looking away.{p}",
+   "follows_choice": [
+    "49:22ac"
+   ]
+  },
+  {
+   "id": "49:2490",
+   "op": "text",
+   "en": "At ten o'clock on the night of the full moon, the two met at the school's back gate.\nIt was a quiet night, without a soul around.\nOf course, both of them had sneaked out of their homes.\nIf they'd told their families the truth, they would never have been allowed to go.\n\"Have you been waiting long?\"\n\"No, I just got here.\"\nThough each was sure the other would come, they had both been uneasy until they reached the back gate.\nWhen they spotted each other, they ran to each other, neither one first, and took each other's hands.\nAnd they nodded together.\nIt was a signal to confirm their resolve.{p}"
+  },
+  {
+   "id": "49:267c",
+   "op": "text",
+   "en": "Then they passed alongside the old school building in the night and headed for that cherry tree.\nThe two of them could clearly feel their clasped hands growing damp with sweat.\nHowever hard they tried not to notice, they could plainly hear their own hearts beating.\nAnd even each other's.{p}"
+  },
+  {
+   "id": "49:275c",
+   "op": "text",
+   "en": "When the cherry tree appeared as a silhouette in the moonlight, the two of them held their breath at its sheer beauty.\nIt was a truly dreamlike scene.\nBut at that moment, they also saw something they should never have seen.{p}"
+  },
+  {
+   "id": "49:2840",
+   "op": "text",
+   "en": "Can you believe it? Someone had come to the cherry tree before them.\nAnd at the very moment they were kissing, no less.\nIf the legend was true, misfortune would now fall upon that couple.\n\"Ah!\"\nAnd before they could stop themselves, Hirooka and Orihara cried out.{p}"
+  },
+  {
+   "id": "49:2908",
+   "op": "text",
+   "en": "The pair nestled together, hidden in the cherry tree's silhouette, broke off their kiss in surprise.\nAnd they looked around.\nHirooka and Orihara squeezed each other's hands tight.\nAt this rate, they would be found.{p}What do you think the two of them did?\n"
+  },
+  {
+   "id": "49:29e0",
+   "op": "choice",
+   "en": "They ran away"
+  },
+  {
+   "id": "49:29e8",
+   "op": "choice",
+   "en": "They stepped out to explain what had happened"
+  },
+  {
+   "id": "49:2a14",
+   "op": "text",
+   "en": "\"Let's run!\"\nHirooka grabbed her hand and broke into a run on the spot.\n\"Wait! Please, wait!\"\nA man's voice called out behind them.\nBut they didn't turn around.\nIt was a mournful voice, one that seemed to drape itself over their backs.\nBut the two of them were too frightened to look back.{p}",
+   "follows_choice": [
+    "49:29e0"
+   ]
+  },
+  {
+   "id": "49:2b1c",
+   "op": "text",
+   "en": "And before they knew it, they had reached a nearby park.\n\"...What do we do?\"\nOrihara looked as if she might burst into tears at any moment.\nThose people might hate them for this.\nIt had only been moonlight, but perhaps they had even seen their faces.\nThinking about it, she was so frightened that her tears overflowed and wouldn't stop.{p}What do you think Hirooka said to her then?\n"
+  },
+  {
+   "id": "49:2c70",
+   "op": "choice",
+   "en": "Let's find them tomorrow and apologize"
+  },
+  {
+   "id": "49:2c8c",
+   "op": "choice",
+   "en": "It's not our fault, so don't let it bother you"
+  },
+  {
+   "id": "49:2cb4",
+   "op": "choice",
+   "en": "Let's keep this a secret between the two of us and say nothing"
+  },
+  {
+   "id": "49:2cdc",
+   "op": "text",
+   "en": "\"I couldn't see their faces. Could you, Orihara?\"\nHirooka asked anxiously.\nShe only shook her head quietly.\nAt that, he made his decision.\nHe would keep quiet.\n\"Let's keep this a secret between just the two of us. That way, they're sure to accept that they were mistaken about seeing us.\nAnd then they won't have to suffer any misfortune, will they?\"\nBy saying so, Hirooka convinced himself as well.\nIn fact, perhaps that really was the best thing.\nOrihara, too, decided to go along with Hirooka.\nAnd so the two of them came to share a secret.\nHaving a secret of your own, just between two people, is important, you know.\nWhen a man and a woman share a secret, their relationship moves forward quickly.\nPerhaps the legend of the cherry tree was born from that very idea in the first place.\nAnd then they parted, promising that tomorrow night, without fail, they would confirm their love once more.{p}",
+   "follows_choice": [
+    "49:2cb4"
+   ]
+  },
+  {
+   "id": "49:3014",
+   "op": "text",
+   "en": "By now, their eyes showed that they trusted each other completely.\nPerhaps seeing another couple's kiss had, if anything, deepened the bond between them.\nAnd it seemed that things would go well for the two of them.\nBut...{p}"
+  },
+  {
+   "id": "49:30f0",
+   "op": "text",
+   "en": "The next day, a young man and woman were found hanged from the cherry tree, dead.\nThere was no suicide note.\nThey had died tied to each other with rope, so that their bodies wouldn't come apart.\nStill in each other's arms.\nHirooka thought to himself.\nThe ones who had died must surely be the couple the two of them had seen.\nThey must have despaired that misfortune would come because their kiss had been seen, and turned to thoughts of suicide.\nIf they couldn't be together in this world, they would find happiness in heaven: that was what they had vowed.\nIs that hard for you to believe?\nDo you think it's ridiculous to die over something like that?\nBut you know, people in the old days took love very seriously.\nHeh heh heh... though you may not understand that.\nOrihara felt just the same way Hirooka did.{p}"
+  },
+  {
+   "id": "49:33a4",
+   "op": "text",
+   "en": "That night, the two of them met at the same time and in the same place as the night before.{p}"
+  },
+  {
+   "id": "49:33ec",
+   "op": "text",
+   "en": "Even so, they found it hard to go to the cherry tree.\nAs for carrying out that legend, they were in no mood for anything of the kind.\nStill, when they thought of the two who had died believing they'd been seen, they couldn't bear to be alone.\n\"...It's my fault. Because I ran away that time, they died. ...If I'd explained what happened then, those two might not have had to die.\"\nHead bowed, Hirooka spoke weakly.\nOrihara just cried in silence.\nTo be honest, the two of them had no idea what they should do from then on.\nIt was then.{p}"
+  },
+  {
+   "id": "49:3604",
+   "op": "text",
+   "en": "Suddenly, a voice called out to the two of them.\nNot a voice they could clearly hear with their ears, but one that called directly inside their heads.\nAt first they were startled, thinking someone somewhere was watching them.\nBut they couldn't sense anyone there.\nAnd then, this time, they heard it clearly.{p}"
+  },
+  {
+   "id": "49:3708",
+   "op": "text",
+   "en": "\"You two killed them.\"\nThat was what the voice said, full of resentment.\nBoth of them were trembling so hard in the legs that they couldn't move.\nThe voice pressed on, as if to drive the point home.\n\"Because you saw them, two young lives were lost. If you had not had such wicked thoughts, time would have flowed on in peace. If you truly feel responsible, then let us see you take that so-called responsibility.\"\nThe voice was overbearing.\nA heavy, oppressive voice without a shred of kindness in it.\nThe two hung their heads and fell silent.\nThe voice was demanding that they take responsibility.{p}What would you say?\n"
+  },
+  {
+   "id": "49:3918",
+   "op": "choice",
+   "en": "I'll take responsibility"
+  },
+  {
+   "id": "49:3928",
+   "op": "choice",
+   "en": "There's no need to take responsibility"
+  },
+  {
+   "id": "49:3940",
+   "op": "choice",
+   "en": "I don't want to talk to the likes of you"
+  },
+  {
+   "id": "49:395c",
+   "op": "text",
+   "en": "I see.\nYou're surprisingly innocent, aren't you?\nThe two of them gave that answer, too.\nTheir consciences must have been tormenting them terribly.\n\"...It's true, I'm the one to blame. If I can, I want to take responsibility. ...What should I do?\"\nThat was the answer Hirooka gave.\nThe voice that replied sounded pleased.{p}",
+   "follows_choice": [
+    "49:3918"
+   ],
+   "returns": []
+  },
+  {
+   "id": "49:3a7c",
+   "op": "text",
+   "en": "\"An admirable attitude. Then I shall let you take responsibility. Come to me.\"\n\"To you...?\"\n\"I am the spirit of the cherry tree. Now, come to me.\"{p}"
+  },
+  {
+   "id": "49:3afc",
+   "op": "text",
+   "en": "That voice belonged to the spirit that lives in that cherry tree.{p}"
+  },
+  {
+   "id": "49:3b34",
+   "op": "text",
+   "en": "Urged on by the voice, the two of them walked unsteadily to the foot of the cherry tree.\nThe voice went on.\n\"...You, too, came here because you believed in my legend, did you not? Then, before you take responsibility, I shall grant the two of you eternal love. Now, exchange a kiss.\"\nOut of nowhere, the cherry tree spirit said that.\nWhat would you do?{p}Would you do as the voice says?\n"
+  },
+  {
+   "id": "49:3c78",
+   "op": "choice",
+   "en": "Do as it says"
+  },
+  {
+   "id": "49:3c80",
+   "op": "choice",
+   "en": "Don't do as it says"
+  },
+  {
+   "id": "49:3c8c",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "49:3ca4",
+   "op": "text",
+   "en": "The two of them did as the cherry tree spirit asked.\nAnd they kissed.\nAt that moment...{p}",
+   "follows_choice": [
+    "49:3c78"
+   ]
+  },
+  {
+   "id": "49:3cf8",
+   "op": "text",
+   "en": "\"Aaagh!\"\n"
+  },
+  {
+   "id": "49:3d14",
+   "op": "text",
+   "en": "\"Eeeek!\"{p}"
+  },
+  {
+   "id": "49:3d4c",
+   "op": "text",
+   "en": "Suddenly, four hands shot up out of the earth.\nThe hands seized the two of them firmly by the ankles.\nWhen the two looked down at their feet in shock, the soil squirmed and heaved up, and two faces emerged from it.\nThey were, without a doubt, the faces of the two who had been found hanged.\n\"This is what it means to take responsibility.\"\nThe cherry tree spirit said it coldly.\nAnd then the two of them were dragged down into the earth, just like that.\n\"You have sworn eternal love. But eternity is fragile and fleeting. If you wish to keep it for all eternity, bring me one sacrifice every year...\"\nThose were the last words the two of them ever heard.{p}"
+  },
+  {
+   "id": "49:3f90",
+   "op": "text",
+   "en": "{a}{f:|}, the hands came out of the ground right about where you're standing now.\nThey came out from around there.\nHeh heh heh heh...\nThis is the true story behind this tree.\nEven now, Hirooka and Orihara offer up one sacrifice every year so they can keep their eternal love.{p}"
+  },
+  {
+   "id": "49:409c",
+   "op": "text",
+   "en": "Now, I wonder who it will be this year?{p}{a}{f:|}, it might be you, don't you think?\n"
+  },
+  {
+   "id": "49:40f0",
+   "op": "choice",
+   "en": "Say the story is a lie"
+  },
+  {
+   "id": "49:4108",
+   "op": "choice",
+   "en": "Say we should go back to the club room now"
+  },
+  {
+   "id": "49:4128",
+   "op": "text",
+   "en": "A lie?\nYou're saying my story is a lie?\nWhy?\nIt isn't a lie.\nIf you say things like that, you'll get yourself killed.\nYou'll be cursed.\nNo, you're already cursed.{p}",
+   "follows_choice": [
+    "49:40f0"
+   ]
+  },
+  {
+   "id": "49:41cc",
+   "op": "text",
+   "en": "You're a cursed child.{p}Ah ha ha ha ha...\n"
+  },
+  {
+   "id": "49:4204",
+   "op": "choice",
+   "en": "Tell her to stop and grab her"
+  },
+  {
+   "id": "49:4220",
+   "op": "choice",
+   "en": "Ignore her"
+  },
+  {
+   "id": "49:4234",
+   "op": "text",
+   "en": "What are you doing?\n...Stop that, would you?{p}",
+   "follows_choice": [
+    "49:4204"
+   ]
+  },
+  {
+   "id": "49:426c",
+   "op": "text",
+   "en": "Heh heh heh heh...\nYou moved, didn't you?\nDo you remember your promise to me?\nI told you not to move until my story was over, didn't I?\nMy story isn't over yet.\nAnd yet you broke your promise.\nYou see, I absolutely hate it when people break their promises to me.\nAnd so does the cherry tree spirit.\nBecause you broke your promise, I've been set free.\nSo I'll tell you.{p}"
+  },
+  {
+   "id": "49:43c8",
+   "op": "text",
+   "en": "...The truth is, every year, the student who's to become the sacrifice always has a dream.\nA dream of Hirooka and Orihara.\nAnd that's how they learn the legend of the cherry tree.\nAnd that they're going to be the sacrifice, too.\nWithin a week of the dream, the dreamer is called away, they say.\nLured by the two of them, the dreamer hangs themselves while asleep, apparently.\nYes, this year, the one who had the dream was me.\nThat's why I know.\nThe legend of the cherry tree.\nAnd in that dream, they taught me all sorts of things.\nThat there was just one single way for me to save myself.{p}"
+  },
+  {
+   "id": "49:4598",
+   "op": "text",
+   "en": "It's to make someone else take your place.\nAnyone will do: you tell them the story of the cherry tree you saw in your dream.\nWhen you do, you make them promise not to scream and not to move from where they are.\nThen, if they break that promise, they become your substitute.{p}"
+  },
+  {
+   "id": "49:469c",
+   "op": "text",
+   "en": "...I'm sorry, {a}{f:|}.\nIt seems I've tricked you.\nBut it can't be helped.{p}",
+   "returns": []
+  },
+  {
+   "id": "49:4700",
+   "op": "text",
+   "en": "Because I still want to live, for a long, long time.\nI want to enjoy my life.\nFor that, I'll do anything.\n{a}{f:|}, you'll have the dream soon, too.\nThe dream of the cherry tree.\nWhen that happens, make sure you remember that you had it.\nAnd then, within a week, tell someone.\nIf you do, this time that person will take your place.\nIf you die, I'll grieve for you.\n...But that's impossible, isn't it?\nIf you die, no one will know you ever existed.\nYour very existence will vanish from this world, after all.\nEven if I wanted to grieve for you, I couldn't.\n...Good luck, {a}{f:|}.\nDon't hold it against me.\nJust think of it as fate...{p}"
+  },
+  {
+   "id": "49:49a8",
+   "op": "text",
+   "en": "...Well, that's the end of my story.\nNow then, let's go back to the newspaper club room.\nThe seven wonders aren't over yet, after all...{p}"
+  },
+  {
+   "id": "49:4a30",
+   "op": "text",
+   "en": "I'm sorry, but this is a story I can only tell to people who've made me that promise.\nAs for why, you'd only understand by hearing the story, and that's something I can't tell you.\nThat's how frightening a story it is.\nSo, I'm afraid I can't tell it to you.\nBut if you ever want to hear it, let me know.\nWhen you do, don't be shy. Just say, \"I promise, so please tell me.\"\nI'll tell it to you anytime.\nSo that's as far as my story goes...\nNow, shall we go back to the club room?{p}",
+   "follows_choice": [
+    "49:125c"
+   ]
+  },
+  {
+   "id": "49:4bd8",
+   "op": "text",
+   "en": "That's right, it's just as the name says.\nExactly that.\nSimple, isn't it?\nBut you know, the story of this cherry tree isn't as simple as you all think.{p}",
+   "follows_choice": [
+    "49:13b0"
+   ]
+  },
+  {
+   "id": "49:4c68",
+   "op": "text",
+   "en": "I've heard that rumor before, too.\nIf I remember right, someone tried to hang themselves from that cherry tree, but survived.\nAnd I heard that while they were unconscious, they had a near-death experience.\nApparently they got within one step of heaven, but, well, a rumor is just a rumor.\nAnyway, it's just as the name says.\nYes, the Hanging Cherry...\nBut you know, the story of this cherry tree isn't as simple as you all think.{p}",
+   "follows_choice": [
+    "49:13cc"
+   ]
+  },
+  {
+   "id": "49:4de8",
+   "op": "text",
+   "en": "You're awfully down-to-earth, aren't you?\nBut no such rumor is actually going around, so of course you wouldn't really know, even if I ask you like this.\nThat's how completely nobody knows about it.{p}",
+   "follows_choice": [
+    "49:16e0"
+   ]
+  },
+  {
+   "id": "49:4ea0",
+   "op": "text",
+   "en": "So you're saying you don't need to hear my story anymore?\nI see...\nBut you know, at the start you promised me you wouldn't move until my story was over.\nIf I stop my story here, you'll never be able to move from this spot.\nYou're laughing like that, but...{p}",
+   "follows_choice": [
+    "49:1a14"
+   ]
+  },
+  {
+   "id": "49:4fb8",
+   "op": "text",
+   "en": "Heh heh heh.\nI'll tell you something good.{p}"
+  },
+  {
+   "id": "49:4fe4",
+   "op": "text",
+   "en": "\"Let's make it early tomorrow morning. Tomorrow's Sunday, after all.\"\nHaving said only that, Orihara hung her head.\nSeeing her like that, Hirooka felt his chest fill with warmth.{p}",
+   "follows_choice": [
+    "49:22bc"
+   ]
+  },
+  {
+   "id": "49:5090",
+   "op": "text",
+   "en": "And so, early the next morning, the two of them met at the school gate.\nNot a word passed between them.\nTheir hearts were as one, so they had no need for words.{p}"
+  },
+  {
+   "id": "49:5124",
+   "op": "text",
+   "en": "Then they came beneath the cherry tree and faced each other.\nHirooka placed his hands on Orihara's shoulders.\nTrembling slightly, Orihara closed her eyes.{p}"
+  },
+  {
+   "id": "49:51ac",
+   "op": "text",
+   "en": "And just as their lips touched...\n\"Ah!\"\nThey heard a small cry.{p}"
+  },
+  {
+   "id": "49:521c",
+   "op": "text",
+   "en": "The two of them gasped and turned toward the voice.\nAnd there stood a girl, a student.\nShe had happened to pass by and had seen Hirooka and Orihara's ritual.{p}"
+  },
+  {
+   "id": "49:52ac",
+   "op": "text",
+   "en": "Hirooka flew into a rage.\nAnd who could blame him?\nIf anyone saw the ritual, the couple would meet a miserable end.\nOn impulse, Hirooka ran straight at the girl.\nNot that he had any purpose in mind.\nHis head was simply in turmoil.\nAnd Hirooka caught the girl.{p}"
+  },
+  {
+   "id": "49:53bc",
+   "op": "text",
+   "en": "\"Why did you have to look?!\nIf it weren't for you, it would've worked!\"\nBefore he knew it, Hirooka was choking the girl by the neck.\n\"S-stop it!\"\nAt Orihara's voice, Hirooka came to his senses and noticed the girl hanging limp in his arms.\nShe wasn't breathing.\nWhat a terrible thing he had done.{p}"
+  },
+  {
+   "id": "49:54f8",
+   "op": "text",
+   "en": "\"Wh-what do we do?\"\nOrihara asked in a trembling voice.\nSeeing her so frightened, Hirooka hit on an idea.\nTo secretly bury the girl beneath the cherry tree.\nHe couldn't bear for Orihara to become an accomplice to murder, and he couldn't bear being caught and separated from her, either.\nOrihara was shocked by Hirooka's proposal.\nBut in the end, she decided to help.\nThat's what a woman in love is like, isn't it?{p}"
+  },
+  {
+   "id": "49:5664",
+   "op": "text",
+   "en": "Working together, the two of them somehow managed to bury the girl.\nIt's a strange thing, but it felt as though cooperating like that had made the bond between them stronger.{p}"
+  },
+  {
+   "id": "49:5708",
+   "op": "text",
+   "en": "But some time after that, Hirooka started acting strange.\nHe grew distant somehow, and avoided Orihara.\nThey'd always gone home together, but now he'd vanish on his own.\nPuzzled, Orihara tried to ask him about it.\nBut he just evaded her questions.\nThe girl had been declared missing, so there should have been nothing to worry about.{p}"
+  },
+  {
+   "id": "49:5850",
+   "op": "text",
+   "en": "Then one day after school, Orihara followed Hirooka.\nAnd what do you know, he went to that cherry tree.\nWhat could he be up to?\nOrihara drew closer, and the next moment she felt as if she'd been doused with ice water.{p}"
+  },
+  {
+   "id": "49:592c",
+   "op": "text",
+   "en": "Why? Because the one waiting for him beneath the cherry tree was the girl who should have been dead.{p}"
+  },
+  {
+   "id": "49:5988",
+   "op": "text",
+   "en": "Hirooka happily took the girl in his arms.\nAnd then he kissed her.\nOrihara was shaken.\nNot so much because the dead girl was there, but because Hirooka had kissed someone else.\nSo before she knew it, she rushed out.\nLunging at him, she shoved Hirooka hard in the back.{p}"
+  },
+  {
+   "id": "49:5aa4",
+   "op": "text",
+   "en": "Caught off guard, Hirooka staggered and slammed his head hard against the cherry tree.\nThere was a dull, sickening sound.{p}"
+  },
+  {
+   "id": "49:5b18",
+   "op": "text",
+   "en": "When Hirooka fell, the trunk of the cherry tree was smeared thick with blood.\n...He must have hit it in just the wrong spot.\nHirooka was dead.\nAs Orihara stood there dumbstruck, the girl jeered and laughed at her.\n\"Serves you right! That's your punishment for killing me. As if I'd let you two be the only ones who get to be happy!\"\nWith a shrill laugh, the girl melted away and vanished.\nBut by then, Orihara could no longer hear a thing.\nKilling her beloved Hirooka must have been an unbearable shock.{p}"
+  },
+  {
+   "id": "49:5cd4",
+   "op": "text",
+   "en": "...The next day, Orihara was found dead, hanging from a branch of the cherry tree.\nAt her feet, they say, Hirooka's body had been laid out.{p}"
+  },
+  {
+   "id": "49:5d74",
+   "op": "text",
+   "en": "This is the true story behind this tree.\nBut actually, there's more to it.\nThe two of them, who in the end were brought to misery just as the legend said, became evil spirits, they say.\nAnd it seems they convinced themselves that if they offered sacrifices to this tree, their love would surely be fulfilled.\nEver since then, every year, one person dies beneath this cherry tree.\nAs a sacrifice for the love of Orihara and Hirooka.{p}"
+  },
+  {
+   "id": "49:5ed0",
+   "op": "text",
+   "en": "\"...I'll leave it up to you.\"\nThat was all Orihara could manage to say.\nSo Hirooka said...{p}",
+   "follows_choice": [
+    "49:22cc"
+   ]
+  },
+  {
+   "id": "49:5f44",
+   "op": "text",
+   "en": "\"Maybe we should explain what happened...\"\n\"Yes, maybe we should...\"\nThe two of them started walking toward the other couple.\nThe other pair seemed shaken, too, and even by moonlight alone, the two could sense it.\nEach time that wave of agitation reached them from the other side, their steps grew heavier.\nIt was Hirooka who finally couldn't stand the situation any longer.{p}",
+   "follows_choice": [
+    "49:29e8"
+   ]
+  },
+  {
+   "id": "49:6088",
+   "op": "text",
+   "en": "\"I wish we hadn't run away back then. If I was going to regret it this much, I should have apologized right then...\"\nThen Hirooka told Orihara that tomorrow they should find the other couple and apologize.\nShe agreed with him, saying that would be best.\nThe two of them would find the couple tomorrow and apologize.\nAnd they parted, promising that the following night, at last, they would once again confirm their love for each other.{p}",
+   "follows_choice": [
+    "49:2c70"
+   ]
+  },
+  {
+   "id": "49:61d4",
+   "op": "text",
+   "en": "\"It was an unfortunate thing, sure, but it's not our fault. Besides, if we'd been a little earlier, we might have been the ones who got seen.\"\nAt Hirooka's words, Orihara's face stiffened.\n\"B-but... then I feel so sorry for those two...\"\n\"Orihara! You matter more to me than some people I don't even know. Let's just forget about it.\"\nThe more fervently Hirooka spoke, the more Orihara's face stiffened.\n\"The Hirooka I love isn't that kind of person. Let's go back and apologize.\"\nWhen Orihara pressed him, Hirooka reluctantly nodded.\nAnd so they went back to the cherry tree.{p}",
+   "follows_choice": [
+    "49:2c8c"
+   ]
+  },
+  {
+   "id": "49:643c",
+   "op": "text",
+   "en": "............But it was already too late.\nBeneath the cherry tree, a boy and a girl lay dead.\nThey must have been afraid of the misfortune to come.\nTwo bodies lit by the moonlight, lovingly holding hands.\nOrihara's heart filled with regret.\nIf it was going to come to this, they should never have run.\nBut Hirooka, it seems, was thinking about something else.\n\"If anyone finds us here, we're done for. Let's hurry home.\"\nOrihara couldn't believe her ears.\nBut Hirooka just turned and briskly started for home.{p}"
+  },
+  {
+   "id": "49:65e0",
+   "op": "text",
+   "en": "\"W-wait!\"\nJust as Orihara started to go after him...\n"
+  },
+  {
+   "id": "49:662c",
+   "op": "text",
+   "en": "There was a strange swishing, slithering sound.{p}"
+  },
+  {
+   "id": "49:6670",
+   "op": "text",
+   "en": "When she turned around, the branches of the cherry tree were writhing like whips!\nThe branches came at Orihara like living things with wills of their own.\n\"Help me!\"\nOrihara clung to Hirooka.\nAnd Hirooka shoved her away.\n\"You'll get me caught, too!\"\nIn that instant, Orihara felt she understood who Hirooka really was.\nThat he cared only about himself, that as long as he was saved, nothing else mattered.\nAnd then, somehow, all her strength drained away.\nShe felt like a fool for having loved such a man.\nOrihara stopped where she stood, and the cherry tree wrapped around her neck and squeezed.\nAnd whip-like branches shot out at the fleeing Hirooka's neck, too.\nA branch went straight through Hirooka's throat.{p}"
+  },
+  {
+   "id": "49:68f8",
+   "op": "text",
+   "en": "......The next day, I hear there was a huge uproar.\nWell, of course there was.\nFour people dead in a single night.{p}"
+  },
+  {
+   "id": "49:6984",
+   "op": "text",
+   "en": "That is the story behind this tree.\n{a}{f:|}, you of all people should understand, shouldn't you?\nThe grudge that surrounds this tree, and the lingering attachment to this world.\nYou understand, don't you?\nGo on, come closer and take a good look at the trunk.{p}"
+  },
+  {
+   "id": "49:6a60",
+   "op": "text",
+   "en": "\"{f:Waaaaugh|Eeeeek}!\"\n{f:I|I} leapt back without thinking.\nI landed on my backside.{p}"
+  },
+  {
+   "id": "49:6ad4",
+   "op": "text",
+   "en": "I heard laughter right beside me.\nIt was Iwashita.\nIwashita was looking down at {f:me|me} triumphantly.\nYou moved, didn't you.\nThat means you've broken your vow.\nYou see, I had been chosen as this tree's sacrifice.\nPerhaps because it bathed in so much human blood, this cherry tree came to crave sacrifices.{p}"
+  },
+  {
+   "id": "49:6c04",
+   "op": "text",
+   "en": "When this tree appeared in my dream and said it would make me its sacrifice, I wondered what would become of me.\nSo I cast a charm.\nOne that would pass the cherry tree's curse on to anyone who made a promise with me and then broke it.\nIt could have been anyone, but I thought this was the perfect opportunity.\nThere. Now I'm free.\nThank you, {a}{f:|}.\nI don't know when it will be, but when you become this tree's sacrifice, I'll at least light some incense for you.\nAfter all, you saved my life.\nHeh heh...\nNow, shall we go back to the newspaper club room?{p}"
+  },
+  {
+   "id": "49:6df0",
+   "op": "text",
+   "en": "\"That couldn't be helped! So there's no reason for us to take responsibility!\"\nHirooka blurted it out in a forceful tone.\nThat overbearing voice must have made his blood boil before he knew it.\nHe hardly seemed like the meek Hirooka of a moment ago...\nHe was always calm and never spoke so forcefully, so she seemed a little startled.\nThen, unexpectedly, the voice said,\n\"...I see. The young are quick to get heated.\nI will give you time.\nI will not say how long. Reflect on what you did.\nAnd when you are ready to take responsibility, come here again.\nYou must come. I warn you, running is useless.\nI am always watching you.\"\nThat's what it said.{p}",
+   "follows_choice": [
+    "49:3928"
+   ]
+  },
+  {
+   "id": "49:7080",
+   "op": "text",
+   "en": "\"Anyway, we have to get out of here!\"\nHe took her hand and ran.{p}"
+  },
+  {
+   "id": "49:70d4",
+   "op": "text",
+   "en": "Before they knew it, the two of them had run quite a long way from the school.\n\"We should be all right now.\"\nThen they walked on, neither of them saying a word...\nIt was he who broke the silence first, unable to bear it any longer.\n\"Orihara. Let's forget what happened under that cherry tree tonight. From tomorrow on, we must never talk about it, not even when we're alone together. It was a dream. We have to forget it, and quickly.\"\nShe nodded.\nThen he walked her home.\nAt her front door, she let go of his hand reluctantly and closed the door.\nAfter a sleepless night, morning began again as if nothing had happened.\nThe harder they tried not to think about that night, the more it gnawed at them.\nEven when they were together, things were awkward between them, and it was no fun at all...\nAnd so the days went by.{p}"
+  },
+  {
+   "id": "49:73c0",
+   "op": "text",
+   "en": "Then, after school exactly one week after that night, he worked up the nerve to talk to her.\n\"I'm sorry to bring this up again myself after what I said, but...\"\n\"It's all right. It's been bothering me too, so much that I can't sleep at night. I was almost about to bring it up myself.\"\nIt seems both of them had been dying to talk about that night.\n\"I'm thinking of going back to that cherry tree once more. I have something in mind, too...\nAnd the cherry tree did say we must come... What will you do, Orihara?\"\n\"...I'll go too. I don't think there's anything to worry about as long as you're with me, Hirooka... I really don't think that voice was a dream. I wonder if maybe it was the voice of that cherry tree...\"\nAnd so they decided to meet at the back gate at ten o'clock that night.{p}"
+  },
+  {
+   "id": "49:7698",
+   "op": "text",
+   "en": "For some reason, this time both of them reached the school gate before the agreed time.\nThen they walked around behind the old school building.\nA waning moon lit the surroundings with its feeble light.\nFukuzawa mentioned it earlier, didn't she?\nThe cherry tree was just a little past full bloom, at its most beautiful moment, as the petals fell.{p}"
+  },
+  {
+   "id": "49:77b0",
+   "op": "text",
+   "en": "There was no wind, but the fluttering petals had piled up all around, as if dusted with powdered sugar...\nThe moonlight was feeble, but the area around that cherry tree alone was bright, as if it were reflecting the light.\nAnd a fragrant, almost sweet scent hung in the air.\n\"Looking at it like this, it's just a beautiful cherry tree...\"\nHe murmured it to himself.\n\"Orihara, would you mind staying here?\"\nWith that, he walked over to the cherry tree.\nThen he seemed to be walking around the tree, bent low...\nAfter circling the tree several times, he walked back this way.\n\"Sorry to keep you waiting.\"\nIn his hand he was holding something like a bottle.\nAnd a strange smell was drifting toward her...\n\"You can't mean...★\"{p}"
+  },
+  {
+   "id": "49:7a34",
+   "op": "text",
+   "en": "He gave no answer, and threw a lit oil lighter at the cherry tree.\nYes, when he was circling the tree earlier, he had been pouring gasoline.{p}"
+  },
+  {
+   "id": "49:7afc",
+   "op": "text",
+   "en": "The fire raced like a serpent of flame along the places soaked with gasoline, and in no time it swallowed the cherry tree.\nThe cherry blossoms seemed to make perfect kindling, and the tree burned with tremendous force.\nIt was beautiful, like a tree that had burst into blossoms of flame.\nThe flowers of fire were in full bloom, you might say.\nThe flames lit up the surroundings with an eerie brightness.\n\"Now, once the cherry tree has burned down, nothing more should happen...\"\nHe was rejoicing all by himself.\nBehind him, she thought she saw the shadows of a man and a woman deep within the blazing cherry tree's flames.\nHe didn't seem to notice, though.\nThose two were definitely there, unshaken even amid the flames, staring fixedly this way.\nOn instinct, she cried out.{p}"
+  },
+  {
+   "id": "49:7d60",
+   "op": "text",
+   "en": "\"What have you done?! There was no need to go and burn it!\"\nShe was stunned that he, normally so gentle, had gone this far.\n\"Ahahahaha! Once this cherry tree burns! As long as this cherry tree burns☆ Ahahahaha☆\"\nMaybe he had gone a little mad ever since that incident...\nJust then, the fire, creeping along the fallen petals, closed in around the two of them.{p}"
+  },
+  {
+   "id": "49:7ef4",
+   "op": "text",
+   "en": "\"Aaaaaaaah!\"{p}"
+  },
+  {
+   "id": "49:7f1c",
+   "op": "text",
+   "en": "The flames burned more fiercely than they had expected, and the two of them couldn't move...\nBeyond the shimmering heat haze, she felt as if those two from before smiled for an instant.\nThe fire caught their clothes and charred their skin with a sizzle, giving off a foul smell...\nThe two of them writhed in agony until they breathed their last.\nAnd then, from somewhere, that voice could be heard.\n\"You have taken responsibility properly, haven't you? That is what taking responsibility must mean...\"{p}"
+  },
+  {
+   "id": "49:80a8",
+   "op": "text",
+   "en": "Their bodies have never been found.\nOf course, there's no way they ever could be, is there?\nBecause even the fact that those two ever existed in this world had vanished...\nThe school apparently said someone must have set the cherry tree on fire as a prank, though.{p}"
+  },
+  {
+   "id": "49:8190",
+   "op": "text",
+   "en": "And you know, the cherry tree everyone thought had burned put out buds the following spring and bloomed again.\nThanks to those two sacrifices, I wonder?\nStrange, isn't it?\nAnd that's how it came to be what it is now.\nIts trunk is a strange color, unlike an ordinary cherry tree's, isn't it?\nThat's the reason why.{p}"
+  },
+  {
+   "id": "49:82a8",
+   "op": "text",
+   "en": "How do I know this story, you ask?\nThe truth is, I had a dream about that cherry tree.{p}"
+  },
+  {
+   "id": "49:82f4",
+   "op": "text",
+   "en": "Those two, burned black, were standing at the foot of the cherry tree in full bloom.\nAnd the two of them said this to me:\n\"You have been chosen as this cherry tree's sacrifice. You should rejoice.\nBut if you absolutely refuse, we will teach you just one way to escape.\nFirst, bring someone, anyone, beneath the cherry tree.\nThen make two promises.\nOne, not to move from that spot.\nThe other, never to scream.\nOnce you have exchanged those two promises, tell that person the story we are about to tell you.\nIf that person breaks either promise, they will take your place right then and there.\nUnderstood...?\"\nThose two told me something else, too.\nThey said that cherry tree changed after the hanging incident...\nIt came to live off fear, sorrow, and the bitter regrets people left behind in this world.\nThat's why it wants sacrifices...\nAnd I have to find a substitute within one week of having that dream.{p}"
+  },
+  {
+   "id": "49:863c",
+   "op": "text",
+   "en": "It's already been five days since then...\nHeh heh.\nIt's a pity, but you kept your promise properly, didn't you?\nSo I'll have to find another substitute...{p}"
+  },
+  {
+   "id": "49:86dc",
+   "op": "text",
+   "en": "This is a true story.\nAnd that's the end of my story.\nNow, shall we go back to the club room?{p}"
+  },
+  {
+   "id": "49:8730",
+   "op": "text",
+   "en": "\"I don't want to talk to the likes of you!\"\nHirooka shouted.\nBut that was far too reckless.\nThe voice seemed angry.\n\"Insolent wretch. Then I shall see to it that you never speak again!\"\nAt that same moment, an invisible force seized Hirooka.\nAnd it tore his mouth apart.{p}",
+   "follows_choice": [
+    "49:3940"
+   ]
+  },
+  {
+   "id": "49:8838",
+   "op": "text",
+   "en": "\"Aaaaaaaah!☆\"\nAt the sight of it, Orihara fainted.{p}"
+  },
+  {
+   "id": "49:8890",
+   "op": "text",
+   "en": "...The next day, the two of them were found.\nEveryone who saw Hirooka's body, its face torn into upper and lower halves, was baffled.\nIt wasn't something a human being could have done.\nBut Orihara, the witness, couldn't say a thing.\nShe had lost her mind.\nMaybe she's still in a hospital somewhere, even now.{p}"
+  },
+  {
+   "id": "49:89ac",
+   "op": "text",
+   "en": "We mustn't listen to it.\nOrihara sensed that by instinct.{p}",
+   "follows_choice": [
+    "49:3c80"
+   ]
+  },
+  {
+   "id": "49:8a00",
+   "op": "text",
+   "en": "Hirooka, on the other hand, was listening to what the cherry tree was saying as if he were hypnotized.\nOrihara was able to watch the scene calmly.\nWhen she looked into his eyes, he seemed to be pretty far gone.\nUneasy at this scene, which by any measure looked anything but good, Orihara grabbed his shoulder.\n\"Hirooka, please come to your senses!\nThere's no telling what will happen if you do what the cherry tree says, here and now!\nPlease! Come back, come back to yourself!\"\nHis eyes, which seemed to be staring into the distance, showed no sign of coming back.\nEven so, she kept shaking his shoulders and hitting him.\nAll she could think about was getting out of there with him, even one second sooner.\nJust then, he turned toward her, as if something had suddenly occurred to him.\n\"Let's get away from here, quick!\"\nShe took his hand and started to run.\nAt that moment, he squeezed her hand as hard as he could.\nAnd he didn't run at all; he just stayed right where he was.{p}"
+  },
+  {
+   "id": "49:8d4c",
+   "op": "text",
+   "en": "\"What's wrong?!☆ Ah!☆\"\n"
+  },
+  {
+   "id": "49:8d7c",
+   "op": "text",
+   "en": "As she turned around, he pulled her forcefully into his arms.\nHer heart skipped a beat in spite of herself.\nIn her fear she had forgotten all about embarrassment, but now she could feel her own heart pounding.\nIf only it weren't a situation like this, how happy she would have been.\nBut he just held her close and wouldn't move.\nShe looked up at his face.\nHe was still staring into the distance.\n\"Pull yourself together! Hirooka!\"\nShe called out to him.\nThen his eyes, which had been gazing far away until now, glared down and locked onto her.\nHe was like a completely different person from the Hirooka who was always so kind and gentle.\n\"We're going to take responsibility... Come on...\"{p}"
+  },
+  {
+   "id": "49:8fec",
+   "op": "text",
+   "en": "And then he forced a kiss on her.\n\"Mmmph...\"{p}"
+  },
+  {
+   "id": "49:9030",
+   "op": "text",
+   "en": "Unable to bear how terrifying his face looked right in front of her, she squeezed her eyes shut.\nJust then.\n\"Aaaah!\"{p}"
+  },
+  {
+   "id": "49:90cc",
+   "op": "text",
+   "en": "You can't just do what some unidentified voice tells you, can you?\nHirooka grabbed Orihara's hand and started to run.\nBut the voice followed them.\n\"Running is useless. If you will not do as I say, I will make you pay the price.\"\nThe voice came from right beside him.\nHirooka turned to the side.\nAnd the voice was coming out of Orihara's mouth!\nOrihara grinned and cupped Hirooka's face in both hands.\nThen she forced a kiss on him.{p}",
+   "follows_choice": [
+    "49:3c8c"
+   ]
+  },
+  {
+   "id": "49:9264",
+   "op": "text",
+   "en": "He tried to shake her off, but he couldn't.\nIt didn't seem like a girl's strength.\nThen a pain shot through the back of his throat.\nAnd then an unbelievable pain.\nSomething hot and hard was being forced down his throat.{p}"
+  },
+  {
+   "id": "49:9334",
+   "op": "text",
+   "en": "The next instant, a tree branch burst out of the nape of Hirooka's neck.\nHirooka slumped to the ground, limp.\nOrihara drew her tongue out of Hirooka's mouth.\nHer tongue had become long and hard, just like a cherry branch.{p}"
+  },
+  {
+   "id": "49:9404",
+   "op": "text",
+   "en": "Then she slowly walked to the foot of the cherry tree and tied the ribbon from her hair to a thick branch.\nAnd then she hanged herself with that ribbon.{p}"
+  },
+  {
+   "id": "49:94a0",
+   "op": "text",
+   "en": "That is the true story behind this cherry tree.\nEver since then, they say, this cherry tree has craved living blood.\nEvery year, one sacrifice is offered up to it.{p}"
+  },
+  {
+   "id": "49:9544",
+   "op": "text",
+   "en": "Are you scared?\nNo, you don't!\nDon't go back until my story is finished!\nYou mustn't go back!\nIt's only going to get scarier from here.\nIf my story got cut off halfway like this, I'd regret it for the rest of my life.{p}",
+   "follows_choice": [
+    "49:4108"
+   ]
+  },
+  {
+   "id": "49:9600",
+   "op": "text",
+   "en": "And I'd hate you for the rest of my life, too...\nWhat's that? 'There's no need to go that far'?\nHow nice for you. So you plan to go through life carefree like that forever.\nHmph. You won't be able to stay so easygoing for long.{p}"
+  },
+  {
+   "id": "49:96d8",
+   "op": "text",
+   "en": "I'll keep on talking, just for you...{p}"
+  },
+  {
+   "id": "49:9704",
+   "op": "text",
+   "en": "Hey, what do you think you're doing, ignoring me?\nYou're the one who said you wanted to hear the stories, aren't you?\nWe were asked to come, and we're doing you the favor of telling them.\nDon't you think you're being rude?\nI'm not exactly free myself, you know.\nSo you're going to keep up that attitude to the end...?{p}",
+   "follows_choice": [
+    "49:4220"
+   ]
+  },
+  {
+   "id": "49:97e4",
+   "op": "text",
+   "en": "Heh heh, don't come crying to me if you regret it later.\nWell, for now, let me compose myself and go on with my story.\nI'll tell you how I know this story...{p}"
+  },
+  {
+   "id": "49:987c",
+   "op": "text",
+   "en": "It's simple.\nBecause I am the servant of this cherry tree... no, of those two...\nThose two appear in my dreams almost every night.\nI started having those dreams when I was a first-year.\nAnd those two tell me stories.\nI've sat on a branch of the cherry tree and listened to all kinds of stories.\nAlmost every single night, those two's stories unfold in my dreams in vivid images.\nEvery night, their agony-filled faces appear right before my eyes, filling my sight...\nNo matter how tightly I shut my eyes, those faces of terror float up through my eyelids, always staring at me.{p}"
+  },
+  {
+   "id": "49:9a64",
+   "op": "text",
+   "en": "Because it's just a dream...?\nNo. Even when I'm just going about my normal life, if I close my eyes like this...\nOf course, I was frightened at first.\nI was afraid of night coming...\nBut now I'm fine with it.\nEven things like that are no big deal once you get used to them.\nHeh heh.\nAnd at the end of every dream, the two of them always say,\n\"You are the one we have chosen. For these three years, you shall be our servant. And each year, you shall offer one student of this school to this cherry tree as a sacrifice. If you do not, you yourself will become the sacrifice in their place. Understood...?\"{p}"
+  },
+  {
+   "id": "49:9c50",
+   "op": "text",
+   "en": "That's right. If I offer up one sacrifice every year for these three years, I'll be released from the hold of those two and the cherry tree.\nOtherwise...{p}"
+  },
+  {
+   "id": "49:9ccc",
+   "op": "text",
+   "en": "Don't be scared!\nI'm not thinking of making you a sacrifice or anything...\nAfter all, I've already offered up my third sacrifice.{p}"
+  },
+  {
+   "id": "49:9d5c",
+   "op": "text",
+   "en": "Heh heh.\n...You still don't get it, do you?\nAll I need is someone to take over after me.\nBefore I graduate, that is.{p}"
+  },
+  {
+   "id": "49:9de0",
+   "op": "text",
+   "en": "Ah, I can feel something!\nThe cherry tree... those two are speaking to me!\nWhat is it you want to say?\nWhat are you trying to tell me?\n...Oh, is that so? Really?\nI understand...\nIt seems those two have chosen you to take over after me.\nI can tell...\nThose two seem pleased about it, too.\nAbout the birth of a new servant...\nIf you don't believe it, that's fine. You'll just end up the sacrifice yourself, that's all.\nAnd you'll see that dream every night, too.\nAnd those two's faces of terror, as well.\nDon't worry, you'll get used to it soon.\nOh, and there was a promise you made me earlier, remember?\nThank you for keeping it.\nKeeping that promise was one of the conditions for being chosen, you see.{p}"
+  },
+  {
+   "id": "49:a064",
+   "op": "text",
+   "en": "...I'm so happy.\nHeh heh, it's no use telling anyone.\nIt's obvious they'll just think you're crazy and won't take you seriously.\nYou'd do well to remember that.\nLastly, that attitude of yours earlier made me terribly angry, but I'll forgive you.\nAfter all, this is how I got my freedom.\nI'm so happy, my anger has just flown off somewhere!\nHeh heh!\nI really should say thank you to you...{p}"
+  },
+  {
+   "id": "49:a218",
+   "op": "text",
+   "en": "Ah! I feel something again!\nM-my head... it h...u...r...t...s...\nUgh, my head's splitting!\n...Yes, it'll go away soon, so please don't worry.\nI'm sure that by the time this terrible headache is gone, all those cursed memories will have vanished completely.\nI'm sure of it...\nI'm fine, I can walk on my own...\nI still have to listen to everyone's stories, after all.\nNow, let's go back to the club room...{p}"
+  },
+  {
+   "id": "49:a398",
+   "op": "text",
+   "en": "Heh heh.\nWhat's the matter with you?\nAre you scared already?{p}"
+  },
+  {
+   "id": "49:a3d8",
+   "op": "text",
+   "en": "You really are a coward...\nYou made me two promises at the start, didn't you?\nThat no matter what happened, you wouldn't move from here until my story was over.\nAnd that you'd never scream.\nHave you forgotten already?\nYou tried to cut my story short...\nWhat were you planning to do?\nWhere were you trying to go?\nWell, never mind. In any case, breaking your promise means you've agreed to become this cherry tree's... sacrifice.\nYou say that's a lie?\nNo, it's no lie at all.{p}"
+  },
+  {
+   "id": "49:a580",
+   "op": "text",
+   "en": "One day, I had a dream.{p}"
+  },
+  {
+   "id": "49:a5ac",
+   "op": "text",
+   "en": "Cherry blossoms were blooming in the darkness, and all I could hear was a voice.\n\"You have been chosen as this cherry tree's sacrifice.\nYou should rejoice.\nBut if you absolutely refuse, I will teach you just one way to escape.\nFirst, make two promises with someone.\nOne, not to move from that spot.\nThe other, never to scream.\nOnce you have exchanged those two promises, tell that person the story I am about to tell you, beneath that cherry tree.\nIf that person breaks the promises, or says partway through that they don't want to hear any more, they will take your place right then and there.\nUnderstood...?\"\nThat's what it said...\nAnd also, of course, that if you kept your promises, I wouldn't be saved...{p}"
+  },
+  {
+   "id": "49:a810",
+   "op": "text",
+   "en": "Heh heh, it's no use trying to run.\nYour body won't obey you anymore.\nLook... the cherry tree's roots have already got a firm grip on your feet, and they won't let go, will they?\nStop your useless struggling.\nWhat bad luck you had.\nTo be frank, anyone would have done as my substitute.\nI'll take pity on you, you poor thing.\nAnd I'll say thank you.\nIt's all right, don't worry.\nOnce you're dead, no one will know you ever existed.\nBecause your very existence will vanish...{p}"
+  },
+  {
+   "id": "49:a9f0",
+   "op": "text",
+   "en": "...You're getting sleepier and sleepier, aren't you?\nAnd you can feel yourself slipping away, can't you?\nThis is goodbye, then.\nI won't forget you.{p}"
+  },
+  {
+   "id": "49:aa84",
+   "op": "text",
+   "en": "Oh, pardon me. That's not really possible, is it...\nHeh heh.{p}"
+  }
+ ]
+}

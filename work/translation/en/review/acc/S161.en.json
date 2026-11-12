@@ -1,0 +1,390 @@
+{
+ "slice": "S161",
+ "scene": "41",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S160",
+ "next": "S162",
+ "todo": [],
+ "rows": [
+  {
+   "id": "41:138a8",
+   "op": "text",
+   "en": "Normally that would've been enough for her to give up, but Suzuki had asked her out once, right?\nEven if it vanished in an instant.\nThat made her even sadder.{p}"
+  },
+  {
+   "id": "41:13974",
+   "op": "text",
+   "en": "And she got even more absorbed in fortune-telling.\nWhat was she telling fortunes about?\nSuzuki.\nYou can't forget someone that easily, right?\nWhat he was doing right now, what his luck would be tomorrow... she did all kinds of readings about him.{p}"
+  },
+  {
+   "id": "41:13a44",
+   "op": "text",
+   "en": "Then one day, one of those readings came true.\nIt said Suzuki would get hurt, and that very day he fell on the stairs and sprained his ankle.\nHirai made a huge fuss, but nobody took her seriously.\n\"Well, I guess they do come true once in a while.\"\nThat's how it got brushed off.\nAfter that, Hirai kept on reading Suzuki's fortune.\nAnd some of the readings started coming true.\nOnly the ominous ones, too.\nLosing a match, getting hurt... only the bad results came true.{p}"
+  },
+  {
+   "id": "41:13c38",
+   "op": "text",
+   "en": "Naturally, everyone got creeped out, and there was even a rumor going around that Hirai was putting a curse on him.\nEven though Hirai was only doing her readings like always.\nCome on, a big baby like her couldn't curse anybody.\nHer readings started coming true...\nThat's what I said just now, but strictly speaking, there was someone who made reality play out the way her readings said.\nSomeone who loved Hirai and hated Suzuki for making her sad.\nThat's right! It was her big brother.\nHis precious little sister had come home crying, so as her big brother, he couldn't forgive Suzuki for causing it.\nSo he took revenge on Suzuki, exactly the way Hirai's readings said.\nPushing him down the stairs, making prank calls the night before a match... I bet he did some pretty dangerous stuff.\nIn the end, Suzuki transferred to another school, even though graduation was right around the corner.\nHe figured his life would be in danger if he stayed at this school.\nBecause nobody ever suspected that Hirai's brother was the culprit.\nI bet even Suzuki himself didn't know, right?{p}"
+  },
+  {
+   "id": "41:13fb8",
+   "op": "text",
+   "en": "Hee hee hee, you've got a 'how come?' look on your face.\nYou think it's weird that I know who did it?\nMy big sister had a crush on Hirai's brother, you see.\nAnd while she was always watching him, she happened to see him push Suzuki down.\nHe was the guy she admired, so she didn't tell anyone and kept it a secret.\nThat's why nobody noticed what he was doing, not Suzuki, and not even his own sister, Hirai.{p}"
+  },
+  {
+   "id": "41:14114",
+   "op": "text",
+   "en": "But not knowing things is scary, isn't it?\nAs Suzuki was leaving for his new school, Hirai went and told him,\n\"All the bad luck you've had, Suzuki, it was all punishment for going against fate.\nI was your goddess of good luck, but you called me weird, so you had to be punished.\"\nThat's what she said, apparently.\nI don't know what happened to Suzuki after that, but it seems the Hirai siblings are still living happily together.\nWhat is fortune-telling, anyway?\nYou might think it's advice for living a better life, but more people end up getting jerked around by it, don't they?\nSuzuki got dragged right into it...\nThat's why it's scary.{p}"
+  },
+  {
+   "id": "41:14324",
+   "op": "text",
+   "en": "You'd better be careful too, {a}.\nMost girls love fortune-telling, after all.\nHee hee hee.\nI guess I'll end my story about here...\nSo what will you do? The seventh one still isn't here.\nRight, {a}?{p}"
+  },
+  {
+   "id": "41:143cc",
+   "op": "text",
+   "follows_choice": [
+    "41:12298"
+   ],
+   "en": "Suzuki told her he wanted to break up.\nHe felt he just couldn't put up with a girl like her.\nHirai didn't want that.\nShe said she'd fix anything that was wrong with her.\nBut when Suzuki told her to quit fortune-telling, she said she couldn't do that.\nThey just went around in circles.{p}"
+  },
+  {
+   "id": "41:144d8",
+   "op": "text",
+   "en": "So in the end, the two of them broke up.\nHirai was heartbroken.\nIt had ended with Suzuki way too soon.\nAnd she went right back to being her big brother's little girl.\nFrom the very next day, she started talking about nothing but her brother.{p}"
+  },
+  {
+   "id": "41:145b0",
+   "op": "text",
+   "follows_choice": [
+    "41:1824"
+   ],
+   "en": "Ugh, I don't like that kind of thing.\nCooking, cleaning, laundry...\nTying a woman down with that stuff, I don't know about that.\nSo, {a}.{p}What's your second priority, then?\n"
+  },
+  {
+   "id": "41:14658",
+   "op": "choice",
+   "en": "Looks"
+  },
+  {
+   "id": "41:14664",
+   "op": "choice",
+   "en": "Personality"
+  },
+  {
+   "id": "41:1466c",
+   "op": "text",
+   "follows_choice": [
+    "41:14658"
+   ],
+   "en": "Hmm.\nLooks, huh.\nSo personality comes third.\nIf I'd asked about a girlfriend instead, I bet you'd put them in a different order.\nLike, looks might end up coming first.\nOh, right, about Hirai's story...{p}"
+  },
+  {
+   "id": "41:14744",
+   "op": "text",
+   "follows_choice": [
+    "41:14664"
+   ],
+   "en": "Hmm.\nPersonality next, huh.\nSo faces don't matter to you at all?{p}"
+  },
+  {
+   "id": "41:14788",
+   "op": "text",
+   "en": "...Just kidding.\nYou can say that, but faces matter too, right?\nThat's what you think, isn't it?\n...Oh, whatever.{p}"
+  },
+  {
+   "id": "41:147f8",
+   "op": "text",
+   "en": "Everyone has all kinds of different tastes, right?\nBut Hirai's ideal was really unusual.\nWant me to tell you?\nHirai's ideal was...{p}"
+  },
+  {
+   "id": "41:14894",
+   "op": "text",
+   "follows_choice": [
+    "41:2848"
+   ],
+   "en": "Bzzzt, wrong!\nIt was a teacher who'd just come to our school.{p}"
+  },
+  {
+   "id": "41:148dc",
+   "op": "text",
+   "follows_choice": [
+    "41:2850"
+   ],
+   "en": "Nope, that's not it.\nNot an incoming first-year.\nIt was a new teacher.{p}"
+  },
+  {
+   "id": "41:1492c",
+   "op": "text",
+   "follows_choice": [
+    "41:42a0"
+   ],
+   "en": "\"Mr. Kondo, Hirai was watching just now.\"\n\"N-no, you've got it wrong.\nThere's really nothing between Hirai and me.\"\nMr. Kondo was in a total panic.\nBut he properly explained it to the other teachers.\nHow the whole thing had come about.\nEvery teacher in the faculty room was shocked to hear it.\nCould something like that really happen? they wondered.\nBut the principal listened to Mr. Kondo's story seriously and said this:\n\"In that case, you can't leave things as they are.\nYou mustn't make a promise like that when you have no intention of marrying her.\nNow, hurry after Hirai and talk it over with her properly.\"\nThat's what the principal said.{p}"
+  },
+  {
+   "id": "41:14b2c",
+   "op": "text",
+   "en": "So Mr. Kondo went looking for Hirai, who'd run off.\nHe raced all over the school.\nBut she was hard to find.\nShe wasn't in the classrooms or out on the school grounds.{p}"
+  },
+  {
+   "id": "41:14be4",
+   "op": "text",
+   "en": "Mr. Kondo went back to the faculty room.\n\"H-Hirai isn't anywhere...\"\nhe said.\n\"Maybe Hirai has already gone home.\nWe can talk again tomorrow...\"\nThen the principal glared at Mr. Kondo.\n\"Have you looked in the old school building?\"\nthe principal asked.{p}"
+  },
+  {
+   "id": "41:14d04",
+   "op": "text",
+   "en": "Mr. Kondo headed for the old school building.\nBecause the principal had urged him to.\nThe inside of the old building was falling apart, thick with the smell of mold and wood.\nThe wooden floors and walls were pretty rotten.\nJagged splinters poked out of holes here and there.\nAnd the hallway creaked and groaned.\nMr. Kondo moved forward one step at a time.\nWas Hirai really in here?\nHadn't she gone home after all?\nThat's what he was thinking.\nAnd then...{p}"
+  },
+  {
+   "id": "41:14eac",
+   "op": "text",
+   "en": "Someone slid their arms around him from behind.\nAround Mr. Kondo's neck.\n\"H-Hirai...?\"\nMr. Kondo blurted out.\nThose hands were rough and hard.\nThey didn't seem like a schoolgirl's hands at all...{p}"
+  },
+  {
+   "id": "41:14f90",
+   "op": "text",
+   "en": "\"Mr. Kondo...?\"\nA voice came from inside a nearby classroom.\nIt was Hirai's voice.\nShe was crying.\nHe could hear her sniffling through the door.\nBut...\nMr. Kondo couldn't move from where he stood in the hallway.\nBecause someone was holding his neck from behind...\n\"That won't do, Mr. Kondo, making a schoolgirl cry.\nHonestly, you are a hopeless man...\"{p}"
+  },
+  {
+   "id": "41:15114",
+   "op": "text",
+   "en": "Mr. Kondo's neck was squeezed tighter and tighter.\n\"Honestly.\nYou really are hopeless.\nA lovely student like Hirai...\"\n\"P-please st... urk!\"\n\"Why on earth would a dreary man like you be Hirai's destined partner, I wonder...\"{p}"
+  },
+  {
+   "id": "41:1520c",
+   "op": "text",
+   "en": "\"P-Principal...\"\n...{p}"
+  },
+  {
+   "id": "41:15250",
+   "op": "text",
+   "en": "Mr. Kondo was found lying in the old school building the next day.\nHe'd been strangled to death.\nAnd Hirai was dead too.\nShe was found dead, slumped over on top of Mr. Kondo.\nThe school apparently stuck to the story that Hirai and the teacher had an accident in the old school building.\nWhat do you think it means?\n...{a}.\nDid you know the principal at our school changes a lot?\nLike, our school has crazy paranormal stuff going on, right?\nSo I hear our principals and board chairmen are always having accidents or going out of their minds.\nThe principal from when Hirai was here is gone now too.\nThat principal really liked Hirai and used to dote on her...\nBut apparently, ever since the Hirai incident, the principal has vanished without a trace.\nWhat do you think that means?{p}"
+  },
+  {
+   "id": "41:1554c",
+   "op": "text",
+   "en": "Hey, {a}.\nMr. Kondo really was Hirai's destined partner, wasn't he?\nThe two of them were together until death, after all.\nBut maybe she'd have been better off never knowing about that fortune.\nThen...\nshe wouldn't have gone chasing after Mr. Kondo and ended up like that...\n...\nThat's the end of my story.\nWhat should we do?\nThe seventh one still isn't here.\nHey, {a}...?{p}"
+  },
+  {
+   "id": "41:156c4",
+   "op": "text",
+   "follows_choice": [
+    "41:42bc"
+   ],
+   "en": "Mr. Kondo tried to act as if nothing had happened.\nSo he just made excuses to the teachers around him and slipped out of the faculty room in a hurry.{p}"
+  },
+  {
+   "id": "41:15740",
+   "op": "text",
+   "en": "And then...\nsomeone suddenly tapped him on the shoulder from behind.{p}"
+  },
+  {
+   "id": "41:15788",
+   "op": "text",
+   "en": "When he turned around, there was Hirai.\nShe had only pretended to run off, and was waiting for Mr. Kondo in the hallway.{p}"
+  },
+  {
+   "id": "41:157f4",
+   "op": "text",
+   "en": "\"H-Hirai.\nDidn't you go home?\"\nHirai tugged at the flustered teacher's arm.\n\"Mr. Kondo, I need to talk to you...\"\nHirai started walking, her head hanging.\n\"H-Hirai.\nWhere are we going?\"\n\"Somewhere we can talk, just the two of us...\"\nWho knows what she was thinking, but Hirai took him to the gym.\nThen she turned her back to him and fell silent.{p}"
+  },
+  {
+   "id": "41:15964",
+   "op": "text",
+   "follows_choice": [
+    "41:4f58"
+   ],
+   "en": "\"A-aaaaagh☆\"\nMr. Kondo grabbed the knife Hirai had dropped and stabbed her again and again in a frenzy.{p}"
+  },
+  {
+   "id": "41:159d8",
+   "op": "text",
+   "en": "\"Aaaaaaaaah☆\"\nShe shrieked in agony.\n\"Aaagh, aaaagh☆\"\nEven so, Mr. Kondo kept driving the knife into her, violently.\nOver and over and over.\nShe desperately tried to stop Mr. Kondo's hand, but...\nMr. Kondo brought the knife down on her in a frenzy.\n\"Uaaaaaagh☆\"\nEven after she stopped moving, Mr. Kondo kept swinging the knife.\nAnd all she could do was bathe in a shower of her own blood.\n\"What's going on★\"\nA teacher outside heard Hirai's scream and came running.\nAnd then...{p}"
+  },
+  {
+   "id": "41:15bec",
+   "op": "text",
+   "en": "What was there was Mr. Kondo holding a bloody knife, and a schoolgirl lying on the floor, stabbed all over her body.\n\"M-Mr. Kondo...☆\"\n\"Ah, n-no, this is...\"\n\"Mu-murdeeerer☆\"\n\"N-no, it's not what you think!\nThis is...☆\"\nAn ambulance was called right away, but Hirai couldn't be saved.\nMr. Kondo was taken away by the police.\nApparently he confessed to all kinds of things...{p}"
+  },
+  {
+   "id": "41:15d5c",
+   "op": "text",
+   "en": "What he told them was a story about a beauty named Hirai falling in love with the short, dumpy Mr. Kondo.\nA story about her calling him her destined partner and pressuring him to marry her.\nAnd a story about her luring him to the gym and threatening him by pulling a nerve out of her pinky...\nThe case was ruled the result of Mr. Kondo's delusions.\nThat he'd let his fantasies about a beautiful schoolgirl swell until he finally even committed murder...{p}"
+  },
+  {
+   "id": "41:15ecc",
+   "op": "text",
+   "en": "Hey, {a}.\nMr. Kondo wasn't lying at all.\nHirai's behavior really had him terrified.\nMy big sister said so too.\nShe said back then, Mr. Kondo always seemed jittery and scared around Hirai.{p}"
+  },
+  {
+   "id": "41:15fbc",
+   "op": "text",
+   "en": "But you know...\nWhatever the reason, Mr. Kondo had to pay for the crime of killing her.\nSo they say he quietly went along with whatever the police said.\n...\nHuh, {a}.\nWhy are you making that face?\nDon't tell me you have doubts?\nDo you think this whole story was just Mr. Kondo's delusion...?\nAnyway, that's the end of my story.\nNo matter what you think.\n...But they're late, aren't they?\nThe seventh one.\nWhat should we do?\nHey, {a}...?{p}"
+  },
+  {
+   "id": "41:16158",
+   "op": "text",
+   "follows_choice": [
+    "41:4f70"
+   ],
+   "en": "Without thinking, Mr. Kondo hugged Hirai tight.\n\"Hirai! I'm sorry☆\nIt's my fault things came to this...\"\nThen Hirai said something like this:\n\"It's all right, Mr. Kondo.\nWe're bound together by the red thread, aren't we?\nInstead of apologizing, show me your love.\nCome on, show me.\nYour red thread, Mr. Kondo...\"\nAnd then Hirai picked up the knife she'd dropped.{p}"
+  },
+  {
+   "id": "41:16298",
+   "op": "text",
+   "en": "\"Wh... whoaaaa☆\"\nStartled, Mr. Kondo ran for it.{p}"
+  },
+  {
+   "id": "41:162d8",
+   "op": "text",
+   "follows_choice": [
+    "41:5490"
+   ],
+   "en": "\"I-I forgot☆\nI've forgotten all about that☆\"\nMr. Kondo screamed at the top of his lungs.{p}"
+  },
+  {
+   "id": "41:16334",
+   "op": "text",
+   "en": "Then she pounded on the door even harder.\nShouting in rage, again and again.{p}"
+  },
+  {
+   "id": "41:16398",
+   "op": "text",
+   "en": "\"I'll kill you☆\nI won't forgive you☆\nI'll kill you☆\"\nshe screamed.\nMr. Kondo was in a complete panic.{p}"
+  },
+  {
+   "id": "41:16400",
+   "op": "text",
+   "en": "Not understanding any of it, he just held the door shut and trembled.\nAfter a while, her screams got even louder.\nThen came the sound of voices outside, like a fierce argument.\nOne of the neighbors had called the police.\nAmid a lot of thudding and stomping, her voice slowly faded away.\nIt seemed the police had restrained her and taken her off somewhere.\nAnd the next day...{p}"
+  },
+  {
+   "id": "41:16568",
+   "op": "text",
+   "en": "Mr. Kondo was called in by the principal.\nIt had to be about Hirai.\nMr. Kondo swallowed hard, tense.\nThe principal just stared at him in silence for a while.\nWhen Mr. Kondo couldn't stand the silence any longer and was about to speak...\nthe principal said only this:\n\"Hirai is... dead...\"{p}"
+  },
+  {
+   "id": "41:166a0",
+   "op": "text",
+   "en": "Hirai killed herself.\nShe couldn't stand the way Mr. Kondo treated her.\nShe did some pretty extreme things, didn't she?\nCutting her finger with a knife, chasing after Mr. Kondo...\nBut he treated her coldly while she was in such a fragile state.\nThat's why it ended up like this.{p}"
+  },
+  {
+   "id": "41:167a4",
+   "op": "text",
+   "en": "And after this incident, they say the ghost of a schoolgirl holding a knife started appearing in our school gym.\nThey say the ghost says this:\n\"Shall I show you my red thread...?\nThen show me yours...\"\nThat's what she says.\nIt seems Hirai is still searching for her destined partner.\nSo she shows up not just here, but in school gyms all over the place.\nHolding a glittering knife...\n...{p}"
+  },
+  {
+   "id": "41:1692c",
+   "op": "text",
+   "en": "That's the end of my story.\nBut...\nThey're not coming, are they, the seventh one.\nWhat should we do?\nHey, {a}...?{p}"
+  },
+  {
+   "id": "41:16994",
+   "op": "text",
+   "follows_choice": [
+    "41:5498"
+   ],
+   "en": "\"G... go away!\n"
+  },
+  {
+   "id": "41:169bc",
+   "op": "text",
+   "en": "Please! Just go away☆\"{p}"
+  },
+  {
+   "id": "41:169dc",
+   "op": "text",
+   "en": "Mr. Kondo screamed desperately.\nAnd then...\n"
+  },
+  {
+   "id": "41:16a10",
+   "op": "text",
+   "en": "The pounding on the door stopped.\nAnd so did Hirai's voice.\nInstead, he heard footsteps.\nFootsteps moving away from the door.\nAs the footsteps faded, the terror that had reached its peak slowly began to ease.\nThe footsteps were gone completely.\n...What should I do?\nShould I open the door and check?\nThat's what Mr. Kondo thought.{p}So what do you think he did?\n"
+  },
+  {
+   "id": "41:16b6c",
+   "op": "choice",
+   "en": "He opened the door"
+  },
+  {
+   "id": "41:16b7c",
+   "op": "choice",
+   "en": "He didn't open the door"
+  },
+  {
+   "id": "41:16b9c",
+   "op": "text",
+   "follows_choice": [
+    "41:16b6c"
+   ],
+   "en": "With trembling hands, Mr. Kondo opened the door.\nAnd then...{p}"
+  },
+  {
+   "id": "41:16bec",
+   "op": "text",
+   "en": "There was no one outside the door.\nHe let out a sigh of relief.\nBut just as he went to close the door...{p}"
+  },
+  {
+   "id": "41:16c78",
+   "op": "text",
+   "en": "\"Mr. Kondooo☆\"\nA single hand slipped in through the gap in the door.\nIt was Hirai's hand.\nFrom its bloody pinky stretched a red thread of nerve.\nShe had been hiding behind the door.\n\"Waaaagh☆\"\nMr. Kondo rushed to slam the door shut.\nAnd her arm got caught in the door...{p}"
+  },
+  {
+   "id": "41:16dc0",
+   "op": "text",
+   "en": "\"Nooooo☆\"\nShe wailed at the top of her voice.\n\"Mr. Kondo, you're cruel!\nMr. Kondo, you're so cruel...☆\"{p}"
+  },
+  {
+   "id": "41:16e38",
+   "op": "text",
+   "en": "Then Hirai yanked hard on Mr. Kondo's arm.\nShe was trying to drag him outside.\nMr. Kondo fought back desperately.{p}"
+  },
+  {
+   "id": "41:16eb8",
+   "op": "text",
+   "en": "With his own arm still sticking outside, he tried to slam the door again and again.\n\"Uwaaagh☆\nUwaaagh☆\"{p}"
+  },
+  {
+   "id": "41:16f24",
+   "op": "text",
+   "en": "Mr. Kondo's arm was caught in the door, and a dull crunch echoed all around.\nMaybe he didn't even know what he was doing.\nHe was just so terrified of her...{p}"
+  },
+  {
+   "id": "41:16fd0",
+   "op": "text",
+   "en": "Over and over and over, he tried to slam the door shut...{p}"
+  },
+  {
+   "id": "41:17028",
+   "op": "text",
+   "en": "They say the bones in Mr. Kondo's arm were completely smashed.\nAnd after the incident, he apparently quit the school like he was running away.\nI wonder what Mr. Kondo's doing now.\n...Right now, Hirai is living in a hospital, they say.\nShe seems perfectly normal.\nMy big sister went to visit her a few times, you see.\nHirai told her this story when she went to visit.\nMy sister is seven years older than me.\nShe's twenty-three now.\nShe works in an office.\nBut Hirai, who was her classmate, is still nineteen.\nShe stays nineteen forever and never gets any older, apparently.\nBecause once she turns twenty, she'll die.\nHirai herself believes that, so what can you do?\nSo her family keeps telling her she's still nineteen, forever and ever.\nAnd apparently they're searching really hard.\nFor who, you ask?\nObviously.\nSomeone named Shinji Kondo.\nBecause she can't see Mr. Kondo anymore, right?{p}"
+  },
+  {
+   "id": "41:17374",
+   "op": "text",
+   "follows_choice": [
+    "41:16b7c"
+   ],
+   "en": "He shook his head and pushed the thought away.\nShe might still be on the other side of the door.\nSo he mustn't open it.\nAnd so he waited until night came.{p}"
+  },
+  {
+   "id": "41:1740c",
+   "op": "text",
+   "en": "He held his body rigid, held his breath, strained his ears so he wouldn't miss even the tiniest sound, and waited for dawn.\nIt was a long night.\nEvery second ticked off by the clock hands crawled by, like slow motion.\nAnd at some point, Mr. Kondo fell asleep.\nAs time went by, the tension wore off and he let his guard down, you know.\nBut in the middle of the night, a suspicious noise woke him up.\nSomething was rustling around in the room.{p}"
+  },
+  {
+   "id": "41:175b0",
+   "op": "text",
+   "en": "He rubbed his sleepy eyes and looked closely, and there was Hirai, standing right in front of him!\nMr. Kondo was instantly wide awake, but no voice came out.\n\"...Mr. Kondo.\nI have a spare key, so I let myself in.\nHey, Mr. Kondo.\nYou said you'd marry me, so why were you so cold to me?\nI can't forgive you. Now you have to swallow a thousand needles...\"{p}"
+  },
+  {
+   "id": "41:176e0",
+   "op": "text",
+   "follows_choice": [
+    "41:54a4"
+   ],
+   "en": "\"F-forgive me!\nIt was my fault!\nHirai, please forgive me☆\"\nMr. Kondo apologized to Hirai over and over.\nAnd then...{p}"
+  }
+ ]
+}

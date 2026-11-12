@@ -1,0 +1,131 @@
+{
+ "chunk": "E108",
+ "scene": "57",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S211"
+ ],
+ "prev": "E107",
+ "next": "E109",
+ "todo": [],
+ "rows": [
+  {
+   "id": "57:0138",
+   "op": "text",
+   "en": "Well, well, this is a real letdown.\nNobody's come up with a decent story so far, have they?\nIf you think you can put together a seven wonders feature with this, aren't you being a little naive?\nOh, pardon me.\nI didn't mean you, {b}.\nWhat I mean is, somebody has to give you some really amazing material.\nI'm Nozomu Kazama.\nA third-year.\nFrankly, the story I've brought is the scariest there is.{p}"
+  },
+  {
+   "id": "57:027c",
+   "op": "text",
+   "en": "Because... what I'm about to tell you might very well happen to you.\nThe ones who need to be careful are the girls, though.\nIwashita and Reiko... and you too, {b}.\nThere are three of you right now.\nBut by tomorrow, there might only be two.\nWell, we'll have to make absolutely sure that never happens.\n...All right then, {b}.\nAre you ready?{p}If you get scared, come sit by me.\n"
+  },
+  {
+   "id": "57:03f0",
+   "op": "choice",
+   "en": "Go sit by him"
+  },
+  {
+   "id": "57:03fc",
+   "op": "choice",
+   "en": "Don't go"
+  },
+  {
+   "id": "57:0410",
+   "op": "text",
+   "en": "Heh heh, aren't you cute.\nDon't worry, just leave everything to me.\nAs long as you do what I say, there's nothing at all to be scared of.\nHere, I'll hold your hand for you.\nNow then, shall we begin?{p}",
+   "follows_choice": [
+    "57:03f0"
+   ]
+  },
+  {
+   "id": "57:04d0",
+   "op": "text",
+   "en": "Let's see.\nThis is out of the blue, but have any of you ever run into a pervert?\nYes, the kind you often find on trains.\nPerverts turn up in all sorts of places.\nDark streets at night, parks, swimming pools... I hear all kinds of stories from the girls.\nAs a man, that's something I just can't forgive.\nThe thing is, there's a dangerous pervert lurking near our school.\nEvery woman he attacks gets killed.\nHaven't you heard? Just recently, in another area, there was a string of murders of women.\nApparently they still haven't caught the culprit.\nThe way I read it, that culprit has been prowling around this neighborhood lately.\nI saw a guy who fit the description of the culprit they gave on the news.\nNear... this school.\nHe had a weirdly nasty look in his eyes, and his face was deathly pale.\nHis figure floated dimly in the dark of night.\nHe was staring and staring at our school.\nHe looked kind of like a ghost.{p}"
+  },
+  {
+   "id": "57:07f8",
+   "op": "text",
+   "en": "I got really worried, you know.\nSo I looked up the area where the first incidents happened in the newspapers.\nThe ones who were killed were all high school girls.\nDo you get it, {b}?\nHigh school girls, just like you.\n...So, I was reading through newspaper after newspaper.\nAnd I found an article that caught my eye.\nIt was a pervert case too, of course.\nThe culprit in that case ran into a woman who fought back, and while they were grappling, his head got slammed against the ground... well, you get the idea.{p}"
+  },
+  {
+   "id": "57:0990",
+   "op": "text",
+   "en": "That's right, the culprit hit his head in just the wrong spot, and he died.\nAnd the photo of that culprit looked kind of like the guy I saw near this school.\nIt clicked for me right away.\nI figured the dead culprit had become a ghost and was still attacking girls even now.\nThe police wouldn't think that way, after all.\nEven if similar cases happened in the same area, if the culprit in one of them is dead, they'd assume it has nothing to do with the other case...{p}"
+  },
+  {
+   "id": "57:0b38",
+   "op": "text",
+   "en": "And so, that's the end of my story.\nTruth is, I don't want you all staying here too late.\nThe culprit might be near the school today, too.\nIt doesn't look like the seventh one is coming, so let's head home.\n{b}, make sure you write all this up properly in the paper, okay?\nSo there won't be another victim.\nI want everyone to be careful.\nSome people won't believe it, but we can't just not warn them, can we?\nCome on, let's go home.{p}"
+  },
+  {
+   "id": "57:0cc4",
+   "op": "text",
+   "en": "Oh, I'll walk {b} home.\nIwashita, Fukuzawa, you two should get someone to walk you home as well.\nGood thing we've got plenty of guys here today.{p}All right then, {b}, let's go home together.\n"
+  },
+  {
+   "id": "57:0d6c",
+   "op": "choice",
+   "en": "Yes, thank you very much"
+  },
+  {
+   "id": "57:0d88",
+   "op": "choice",
+   "en": "Please wait a moment"
+  },
+  {
+   "id": "57:0da0",
+   "op": "text",
+   "en": "Mmm-heh heh heh...\nOh, er, pardon me.\nI couldn't help laughing.\nNo, it doesn't mean anything in particular.\nI'm so happy I get to walk home with a cute girl like you.\nOh, of course, the whole point is to protect you.\nBy the way, which way is your house?\nDon't worry, I'll go with you all the way to your front door.\nHeh heh heh heh heh...{p}",
+   "follows_choice": [
+    "57:0d6c"
+   ]
+  },
+  {
+   "id": "57:0ecc",
+   "op": "text",
+   "en": "Oh, I see.\n...You didn't have to be shy about it.\nGrumble, grumble... well then, shall we begin?{p}",
+   "follows_choice": [
+    "57:03fc"
+   ]
+  },
+  {
+   "id": "57:0f2c",
+   "op": "text",
+   "en": "Hm?{p}What's the matter?\n",
+   "follows_choice": [
+    "57:0d88"
+   ]
+  },
+  {
+   "id": "57:0f48",
+   "op": "choice",
+   "en": "I'd like to wait a little longer for the seventh one"
+  },
+  {
+   "id": "57:0f6c",
+   "op": "choice",
+   "en": "I'd like to go home with someone else"
+  },
+  {
+   "id": "57:0f90",
+   "op": "text",
+   "en": "Hmm.\nBut you know, it's already pitch-dark outside.\nWhoever it is might've gone home already today, right?\nWell, I'm sure something came up.\nLike I said earlier, it's dangerous around here.\nYou'd better do the seventh interview some other time.\nCome on, let's go, let's go.{p}",
+   "follows_choice": [
+    "57:0f48"
+   ]
+  },
+  {
+   "id": "57:1098",
+   "op": "text",
+   "en": "I'll take full responsibility for getting you home.\nMmm-heh heh heh...{p}"
+  },
+  {
+   "id": "57:10cc",
+   "op": "text",
+   "en": "Huh, did you say something just now?\nI couldn't quite hear you.\nCome on, {b}, we're going home.\nDon't worry, I'll walk you right up to your front door.\nHeh heh heh heh heh...{p}",
+   "follows_choice": [
+    "57:0f6c"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1013 @@
+{
+ "chunk": "E075",
+ "scene": "39",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "slices": [
+  "S149",
+  "S150",
+  "S151"
+ ],
+ "prev": "E074",
+ "next": "E076",
+ "todo": [],
+ "rows": [
+  {
+   "id": "39:0cb0",
+   "op": "text",
+   "en": "Hello.\nMy name is Reiko Fukuzawa.\nI'm just a first-year, same as {c}{f:|}.\nNice to meet you, everyone.\nUmm, the scary story I'm going to tell is about the old school building.\nIt's a pretty famous story, so you might all know it already.\nIt's about the stairs in the old school building.\n{c}{f:|}, have you heard the story of the thirteen steps?\nEven with stairs, you know, some numbers of steps are creepy.\nPeople always say thirteen is an unlucky number in the West, right?\nEven you know Friday the thirteenth is bad luck, right, {c}{f:|}?\nWell, stairs with thirteen steps are bad news too.{p}"
+  },
+  {
+   "id": "39:0ecc",
+   "op": "text",
+   "en": "Do you know why?\nThirteen steps are the stairs up to the gallows.\nOne kind of death penalty is hanging, right?\nHanging. Hanging by the neck.\nThe stairs you climb to get up on the gallows have exactly thirteen steps.\nSo when people say thirteen steps, they mean the stairs up to the gallows.\nAnd that's why people normally don't build stairs with thirteen steps, apparently.\n{c}{f:|}, is your house two stories?\nHave you ever counted the steps on the stairs at home?\nMaybe yours have thirteen steps.\nThey say thirteen steps will put a curse on you, so you'd better be carefuuul.{p}"
+  },
+  {
+   "id": "39:10a8",
+   "op": "text",
+   "en": "Ahahahaha...\nAnyway, about the old school building.{p}"
+  },
+  {
+   "id": "39:10d8",
+   "op": "text",
+   "en": "Of course, the old school building doesn't have any stairs with thirteen steps either.\nThey all have fourteen steps.\n...But, you know, on Friday the thirteenth, at the far right end of the old school building... the south side, was it?\nIf you count the stairs there, the ones that should have fourteen steps only have thirteen, apparently.\nAnd if you try to check whether it's true, something bad happens to you, they say.{p}Had you heard that rumor?\n"
+  },
+  {
+   "id": "39:1210",
+   "op": "choice",
+   "en": "I'd heard it"
+  },
+  {
+   "id": "39:121c",
+   "op": "choice",
+   "en": "I hadn't heard it"
+  },
+  {
+   "id": "39:1228",
+   "op": "text",
+   "en": "Oh, so you'd heard it.\nWell, it is a famous story.\nThere are all kinds of versions of the story about those stairs.\nLike, you count fourteen steps going up, but when you count them going down, there are thirteen.\nBut, you know, don't you sometimes mess up when you count stairs?\nDo you count the very top step, or are you not supposed to count it?\nHaven't you ever been unsure?\nWell, that one's not actually a step, see.\nIt's the floor.\nSo you don't include it in the count.\nSo when you count steps, you only count the part sandwiched between one floor and the next.{p}",
+   "follows_choice": [
+    "39:1210"
+   ]
+  },
+  {
+   "id": "39:13fc",
+   "op": "text",
+   "en": "Did you learn something?\nAhahahaha...\nOr did you know that much already?\n...Sorry, sorry.\nSo, the story of the old school building's thirteen steps.\n{c}{f:|}, if you knew the rumor, didn't you want to try it out?{p}You did, didn't you?\n"
+  },
+  {
+   "id": "39:14e4",
+   "op": "choice",
+   "en": "I wanted to"
+  },
+  {
+   "id": "39:14ec",
+   "op": "choice",
+   "en": "I didn't want to"
+  },
+  {
+   "id": "39:14fc",
+   "op": "text",
+   "en": "Oh, so you did want to.{p}So, did you actually try it?\n",
+   "follows_choice": [
+    "39:14e4"
+   ]
+  },
+  {
+   "id": "39:1530",
+   "op": "choice",
+   "en": "I tried it"
+  },
+  {
+   "id": "39:1538",
+   "op": "choice",
+   "en": "I didn't try it"
+  },
+  {
+   "id": "39:1548",
+   "op": "choice",
+   "en": "There hasn't been a Friday the 13th since I started at this school"
+  },
+  {
+   "id": "39:1574",
+   "op": "text",
+   "en": "Oh, that's right.\nYou're right about that.\nThere hasn't been a single Friday the thirteenth since we started at this school.\n...Eheheheh.\nBut you know, there's a way to check even when it isn't Friday the thirteenth.{p}",
+   "follows_choice": [
+    "39:1548"
+   ]
+  },
+  {
+   "id": "39:1650",
+   "op": "text",
+   "en": "I know how.\nYou know those tear-off calendars?\nYou set one to Friday the thirteenth.\nThen you hang it on the wall by the thirteen steps from the rumor.\nIf you do that, the same thing happens, they say.\nBet you didn't know that.\nBut I guess it's still weaker that way.\nThey say that unless you've got a really strong sixth sense, the stairs won't turn into thirteen steps.\nBut if they do turn into thirteen, that's awful too, right?\n\"Yaaay!\nIt's thirteen steps!\"\nEven if you say that, in the end nothing but bad things happen, right?\nBut still, you're curious, aren't you?\nDon't rumors like that just make you really want to try them?\nAnd you said you wanted to try it too, {c}{f:|}.\nSo, well, I went and tried it.{p}"
+  },
+  {
+   "id": "39:18d8",
+   "op": "text",
+   "en": "Not by myself, of course.\nThere were three of us.\nNo way I'd go alone.\nIt'd be way too scary.\nGirls from my class.{p}"
+  },
+  {
+   "id": "39:194c",
+   "op": "text",
+   "en": "A girl named Sanae Motoki, and Yoko Someya.\nThey're both weird girls.\nThey're not exactly normal, you know?\nWell, Yoko isn't as weird as Sanae.\nHonestly, Sanae is a seriously weird girl.\n...Oh, that has nothing to do with this, does it?\nI'll tell you just how weird Sanae is some other time.\nActually, it was Sanae who told me about the tear-off calendar thing, too.\nShe's got a special informant, you see.{p}"
+  },
+  {
+   "id": "39:1afc",
+   "op": "text",
+   "en": "So the three of us went.\nTo the old school building, to check it out.\nWhen was that, again?\nI think it was the thirteenth of last month... yes, the thirteenth.\nIt wasn't a Friday, so we brought the tear-off calendar.\nWe figured that if at least the date was the same, it'd be easier to check.\nAnd if nothing happened, we were planning to go again on a real Friday the thirteenth.\nSo after school, we snuck into the old school building, which is off-limits.{p}"
+  },
+  {
+   "id": "39:1c84",
+   "op": "text",
+   "en": "As a girl bursting with curiosity, I wanted a little taste of adventure, you know?\nMy heart was really pounding.\nIt was my first time ever going into the old school building.\nThe old school building is scary, isn't it?\nIt's really scary even in broad daylight.\nWe went there to have a scary experience, right?\nSo our frame of mind was different.\nFrom the very start we'd convinced ourselves, something scary's going to happen, something scary's going to happen.\nSo even a perfectly ordinary old school building starts giving you the chills.{p}"
+  },
+  {
+   "id": "39:1e18",
+   "op": "text",
+   "en": "The smell of old wood seemed like some kind of nasty, rotten stink.\nEven the graffiti carved into the pillars seemed weirdly scary.\nIt was dead silent, and that alone made it feel like something was there.\nYour state of mind at the time really matters, doesn't it?\nIf we'd gone there to do something really fun, it wouldn't have been scary at all, and the smell of old wood would have felt nostalgic, and the graffiti would have been funny, and we'd have been thinking about other things, I bet.{p}"
+  },
+  {
+   "id": "39:1fb4",
+   "op": "text",
+   "en": "By the way, {c}{f:|}.{p}Have you ever been to the old school building?\n"
+  },
+  {
+   "id": "39:2004",
+   "op": "choice",
+   "en": "I have"
+  },
+  {
+   "id": "39:200c",
+   "op": "choice",
+   "en": "I haven't"
+  },
+  {
+   "id": "39:2014",
+   "op": "text",
+   "en": "Oh, really.\nSo you have.\nHow were you feeling when you went there, {c}{f:|}?\nWas it fun?{p}Or was it scary?\n",
+   "follows_choice": [
+    "39:2004"
+   ]
+  },
+  {
+   "id": "39:2090",
+   "op": "choice",
+   "en": "It was fun"
+  },
+  {
+   "id": "39:209c",
+   "op": "choice",
+   "en": "It was scary"
+  },
+  {
+   "id": "39:20a8",
+   "op": "choice",
+   "en": "I didn't feel anything in particular"
+  },
+  {
+   "id": "39:20c0",
+   "op": "text",
+   "en": "Oh, really.\nSo it was scary.\nNot that there was any point in asking.\nI just wanted to hear how you felt, {c}{f:|}.\nNo matter how you answer that question, it's not like the story I'm telling is going to change.{p}",
+   "follows_choice": [
+    "39:209c"
+   ]
+  },
+  {
+   "id": "39:217c",
+   "op": "text",
+   "en": "What are you agonizing over?\nAhahahaha... you're so weird.\nSo anyway, we snuck over to those stairs, careful not to get caught by any teachers.{p}"
+  },
+  {
+   "id": "39:2214",
+   "op": "text",
+   "en": "We hung the tear-off calendar firmly on the wall.\n\"Ow!\"\nRight then, Yoko caught her hand on a nail.\nShe cut her finger.\nWhen she squeezed her finger, blood swelled up in a fat little bead on the pad of her index finger.{p}"
+  },
+  {
+   "id": "39:22e0",
+   "op": "text",
+   "en": "And Sanae, she went and licked it right off, and said,\n\"Yummy,\"\nor something like that.\nFunny, right?\nNormally she's the kind of girl who bursts into tears at the sight of blood.\nThe scary mood got blown away, and we all laughed a little.\n\"Okay, I'll start counting.\"{p}"
+  },
+  {
+   "id": "39:23c8",
+   "op": "text",
+   "en": "Saying that, Yoko started climbing the stairs.\nWe started climbing with her.{p}"
+  },
+  {
+   "id": "39:2430",
+   "op": "text",
+   "en": "One... two... three...\nIt makes you pretty nervous, you know.{p}"
+  },
+  {
+   "id": "39:2478",
+   "op": "text",
+   "en": "Normally, you go up stairs without thinking about anything, right?\nBut there we were, testing our footing with every step, slowly treading our way up the stairs.{p}"
+  },
+  {
+   "id": "39:2510",
+   "op": "text",
+   "en": "And when you go like that, the creak of the wood comes slowly too.\nIt goes creeeeeeeak, long and dull, and it echoes.{p}"
+  },
+  {
+   "id": "39:257c",
+   "op": "text",
+   "en": "And that was really, really scary.\nIf it had been at night, I'd definitely have burst into tears.\nSo we wouldn't miscount, we counted out loud together, all at once.{p}"
+  },
+  {
+   "id": "39:2610",
+   "op": "text",
+   "en": "\"Ten... eleven... twelve... thirteen.................. fourteen!\nIt's fourteen!\"{p}"
+  },
+  {
+   "id": "39:2668",
+   "op": "text",
+   "en": "The stairs had fourteen steps.\nBecause our fifteenth step landed on the landing.\n\"Aww, it's just fourteen.\"\nWe looked at each other and laughed.\nIt was kind of a letdown.\nWe'd been so scared our hearts were pounding, so it was even more of a disappointment.\n\"But, you know, we're not at the second floor yet.\nThis is the halfway point between the first and second floors, so there's still half left.\"\nSaying that, Yoko started up the stairs again.\nShe was right.\nSanae and I climbed with her.{p}"
+  },
+  {
+   "id": "39:2824",
+   "op": "text",
+   "en": "One... two... three...\nWe started counting over from the beginning.{p}"
+  },
+  {
+   "id": "39:2870",
+   "op": "text",
+   "en": "Nervously, we counted each step carefully, one by one, so we wouldn't make a mistake.{p}"
+  },
+  {
+   "id": "39:28c0",
+   "op": "text",
+   "en": "\"Ten... eleven... twelve... thirteen.................. fourteen.\"\nFourteen steps again.{p}"
+  },
+  {
+   "id": "39:2920",
+   "op": "text",
+   "en": "\"It's fourteen after all.\nMaybe just hanging up a tear-off calendar like that isn't enough.\"\n\"That's not true.\nThat'll work just fine.\"\nSanae flatly shot down what I said.{p}"
+  },
+  {
+   "id": "39:29e0",
+   "op": "text",
+   "en": "\"But we've still got the way down, right?\"\nYoko looked happy.\nMaybe she wanted to keep that scared feeling going a little longer.\nYou know how sometimes you just want to see something scary?\nThat's actually kind of fun, right?\nWhen you're going, so scary, so scary, it's actually pretty fun sometimes.\nIt was probably that feeling.\nThat's why Yoko was smiling, I think.\nWe nodded.{p}"
+  },
+  {
+   "id": "39:2b28",
+   "op": "text",
+   "en": "That's right, we still had the way down.\nWe didn't know how many steps there'd be going down.\nSo we started counting.\nFull of anticipation.{p}"
+  },
+  {
+   "id": "39:2bac",
+   "op": "text",
+   "en": "Hey, {c}{f:|}.{p}Do you think we're weird, acting like that?\n"
+  },
+  {
+   "id": "39:2bec",
+   "op": "choice",
+   "en": "I think you're weird"
+  },
+  {
+   "id": "39:2bf8",
+   "op": "choice",
+   "en": "You're not weird at all"
+  },
+  {
+   "id": "39:2c0c",
+   "op": "choice",
+   "en": "I was at a loss for words"
+  },
+  {
+   "id": "39:2c2c",
+   "op": "text",
+   "en": "Hey, that's meaaan!\nSo that's the kind of person you are, {c}{f:|}.\n...You'll pay for this later, just you wait.\nWell, for now I'll keep going with the story.\nSo, we started counting again.{p}",
+   "follows_choice": [
+    "39:2bec"
+   ]
+  },
+  {
+   "id": "39:2cf0",
+   "op": "text",
+   "en": "One... two... three...\nKind of like Okiku, huh?\nFrom Bancho Sarayashiki, you know.{p}"
+  },
+  {
+   "id": "39:2d4c",
+   "op": "text",
+   "en": "Do you know Bancho Sarayashiki?\nWell, whatever, it doesn't matter either way.{p}"
+  },
+  {
+   "id": "39:2d9c",
+   "op": "text",
+   "en": "\"Ah!\"\nRight as we were counting the steps.\nYoko missed her footing and fell down the stairs.\nWe were totally shocked.{p}"
+  },
+  {
+   "id": "39:2e38",
+   "op": "text",
+   "en": "We forgot all about counting the stairs and rushed over to her.\nI mean, Yoko had stopped moving.\nWe ran over and lifted her up.\nShe wasn't bleeding, though.\nShe seemed to have passed out.\n\"Yoko!\nYoko!\"\n\"..........Mm...nn.\"\nYoko was alive.\nWell, of course, if she'd been dead, that wouldn't have been funny at all.{p}"
+  },
+  {
+   "id": "39:2f80",
+   "op": "text",
+   "en": "When Yoko opened her eyes, she started looking all around.\nFor a moment, it seemed like she didn't know what had happened, or where she was.\nI got worried she had amnesia.\nBut she was okay.\n\"...I fell down the stairs, didn't I?\"\nshe said, and laughed.\n\"Come on, let's stop.\nThe stairs don't have thirteen steps.\"\nThat's what I said.\n\"Yeah.\nLet's go.\"\nYoko agreed with me.{p}"
+  },
+  {
+   "id": "39:313c",
+   "op": "text",
+   "en": "\"...What a waste of a tear-off calendar.\"\nOnly Sanae looked a little disappointed.{p}"
+  },
+  {
+   "id": "39:31a8",
+   "op": "text",
+   "en": "So we decided to leave the old school building.\nI was kind of worried about Yoko.\nShe seemed to be dragging her foot, too, maybe because she twisted it when she fell down the stairs.{p}"
+  },
+  {
+   "id": "39:3254",
+   "op": "text",
+   "en": "So we went down the stairs.\nNot thinking about anything in particular.\nAnd then...{p}"
+  },
+  {
+   "id": "39:32bc",
+   "op": "text",
+   "en": "\"...Thirteen steps.\"\nYoko muttered it under her breath.\nI froze and couldn't help staring at her.{p}",
+   "returns": []
+  },
+  {
+   "id": "39:333c",
+   "op": "text",
+   "en": "Yoko stopped at the bottom of the stairs, turned around, and looked up.\nAnd she was following the stairs with her eyes.\nAnd then she tilted her head, puzzled, all by herself.{p}"
+  },
+  {
+   "id": "39:33e8",
+   "op": "text",
+   "en": "\"...That's weird.\nThere were only thirteen steps.\"\nAnd then, all of a sudden, she ran back up the stairs.{p}"
+  },
+  {
+   "id": "39:345c",
+   "op": "text",
+   "en": "It was like we didn't even exist to her.\n\"Yoko!\"\nI called her, but she completely ignored me.\nSanae and I stood at the bottom of the stairs, watching Yoko closely.\nSomething was wrong with her.{p}"
+  },
+  {
+   "id": "39:3540",
+   "op": "text",
+   "en": "\"...It really is thirteen steps.\nThere are only thirteen steps!\nWhat do I do, Reiko?!\"\nSaying that, she clung to me, crying.{p}"
+  },
+  {
+   "id": "39:35c4",
+   "op": "text",
+   "en": "\"It's okay, there's nothing to worry about.\nI was counting.\nIt was fourteen steps, I'm sure of it.\nYou just miscounted, Yoko!\"\nI laughed and patted Yoko on the shoulder.\nYoko was trembling.\nShe was trembling like crazy.{p}"
+  },
+  {
+   "id": "39:36b0",
+   "op": "text",
+   "en": "\"...Let's get out of here.\nIt's dangerous to stay here.\"\nSanae suddenly murmured.\nShe was in a daze, her eyes kind of unfocused.\nSomehow, Sanae scared me even more.\nBut I was scared too, so I just nodded, uh-huh, uh-huh.\nEven then, I was still scared.\nSo the three of us walked holding hands.{p}"
+  },
+  {
+   "id": "39:37cc",
+   "op": "text",
+   "en": "I was in the middle, with Yoko on my left.\nAnd with my right hand, I was holding Sanae's.\nJust from holding her hand, I could feel Yoko trembling.\nIt was so bad I felt like I'd start shaking too.\nWe were walking side by side when suddenly my left hand got yanked back with a jerk.{p}"
+  },
+  {
+   "id": "39:38e8",
+   "op": "text",
+   "en": "\"What's wrong?\"\nI said, and when I looked at Yoko, she was crying.\nShe'd stopped walking, and her eyes were brimming with tears.\nHer whole face was all scrunched up.\n\"...Reiko.\nI can't walk.\"\nThat's what Yoko said, crying.{p}"
+  },
+  {
+   "id": "39:39c4",
+   "op": "text",
+   "en": "\"What are you talking about?\nIt's okay.\nAre you still worried about the stairs?\nThat stuff's a lie. Come on, let's go.\"\nI said, and pulled on Yoko's hand.\nBut there was this incredible strength to her, and Yoko wouldn't budge an inch.\nAnd then she said in a shaking voice:{p}"
+  },
+  {
+   "id": "39:3abc",
+   "op": "text",
+   "en": "\"...No.\nI can't move.\"\n\"It's okay, really.\"\nI pulled one more time.\nBut it was no use at all.\nYoko wouldn't move even a little.\n\"...Reiko.\nWill you help me?\"\nYoko asked such a weird question.\nI told her I'd help her.\nBecause we're friends.{p}"
+  },
+  {
+   "id": "39:3bcc",
+   "op": "text",
+   "en": "\"...Reiko, there's something on my legs.\nThat's why I can't walk.\nWill you look for me?\"\nYoko suddenly said something like that.\n\"Huh?\"\nI tilted my head.\nI mean, you wouldn't really get what 'something on my legs' means, right?\nSo I looked at Yoko's legs.{p}"
+  },
+  {
+   "id": "39:3cec",
+   "op": "text",
+   "en": "...I couldn't move.\nI even forgot to scream. My eyes were glued to Yoko's legs.\nYoko's legs were covered in babies, all clinging to her.\nAnd they were tiny, too.\nThose weren't human babies.\nThey were shaped like humans, but they were only about twenty centimeters long.\nThey had no hair, and their eyes were weirdly huge.\nBut puffy eyelids sealed their eyes shut, so it looked like they couldn't see a thing.\nA whole bunch of those babies were clinging to Yoko's legs.\nHolding on tight, just like they were hugging their mother.\nAnd they were crying in hoarse little voices, waah, waah.\nSome of the babies were rubbing their tiny faces against her legs and licking them, lick, lick.\n\"Yoko, you have to run!\"{p}"
+  },
+  {
+   "id": "39:3fb4",
+   "op": "text",
+   "en": "Sanae grabbed Yoko's arm, said that, and started running.\nI ran too, without thinking.\nIt took both of us just to get her moving.\nI never knew I had that much strength in me, though.\nAt first she resisted when we pulled, but when we both pulled with all our might, she suddenly went light, like a latch had popped loose.\nAfter that, we were desperate to get Yoko out of there.\nAs we ran, the babies peeled off Yoko's legs and dropped away, one after another.\nThe babies that fell got flung onto the floor, wailing, waaah, waaah.\nCrying even louder than before.\nThey reached out their hands, trying to cling to Yoko, but we ran faster than they could crawl.\nI glanced back, and a chill ran through me.{p}"
+  },
+  {
+   "id": "39:423c",
+   "op": "text",
+   "en": "The hallway was full of tiny babies, crawling around.\nI'd never seen anything that scary in my life.\nThe hallway wasn't even that long, but it felt so, so long.{p}"
+  },
+  {
+   "id": "39:42e0",
+   "op": "text",
+   "en": "When we finally made it out of the old school building, we all just pitched forward and fell.\nWe put our hands on the ground, panting, huff, huff.\nIt was so hard to breathe.\nI'd never been that exhausted before, either.\nI was drenched in sweat all over, too.\n\"...I left the tear-off calendar behind.\"\nSanae suddenly murmured, sounding disappointed.\n\"Stop it!\nDon't you dare say we're going back.\"\nI was so startled that I raised my voice without meaning to.{p}"
+  },
+  {
+   "id": "39:4454",
+   "op": "text",
+   "en": "When I looked at Yoko's legs, there were no more babies on them.\nBut Yoko still hadn't stopped trembling.\nHer whole body was shaking and shaking.\nWell, anyway, that's how we got out of there alive.\nBut when I took another look at Yoko's legs...{p}"
+  },
+  {
+   "id": "39:454c",
+   "op": "text",
+   "en": "...They were covered in marks like tiny palms, countless ones.\nAll over her legs, tons of them.\nThey'd gone bright red, like the marks you get from being slapped.\nThe marks didn't go away for a while.\nShe wore long socks to hide them and stuff.\nIt seemed like she had a pretty hard time.\nBut ever since then, Yoko's gotten a little strange.{p}"
+  },
+  {
+   "id": "39:46a8",
+   "op": "text",
+   "en": "Out of nowhere, she'll cry \"waah!\" like a baby, or in the middle of class she'll pretend to cradle a baby, going \"there, there.\"\nWhen she does, her eyes are totally gone, and it's scary.\nEveryone laughs, thinking it's some weird joke, but Sanae and I are the only ones who know the secret.\nIt's really not funny, you know?{p}"
+  },
+  {
+   "id": "39:47d4",
+   "op": "text",
+   "en": "...That's the end of my story, but a little while ago, {c}{f:|}, you said we were weird, didn't you?{p}"
+  },
+  {
+   "id": "39:483c",
+   "op": "text",
+   "en": "I remember.\nNext time, I'll ask Yoko to let you have one of her babies.\nAnd then I'll sneak it into your room for you, {c}{f:|}.{p}"
+  },
+  {
+   "id": "39:48e0",
+   "op": "text",
+   "en": "Let's see, inside your bed would be good.\nAt night, when you get into bed to go to sleep...{p}"
+  },
+  {
+   "id": "39:493c",
+   "op": "text",
+   "en": "There'll be a tiny baby in there.\nAnd it'll cling to your legs.\nHee hee... Earning {f:a girl's|my} grudge is a scary thing, you know.\n{c}{f:|}, you must be looking forward to bedtime.\nIt's going to happen soon, I promise.\n...Well then, let's hear the next person's story.\nOkay?{p}"
+  },
+  {
+   "id": "39:4a40",
+   "op": "text",
+   "en": "Hmm, you don't know it?\nThere are all kinds of versions of the story about those stairs, and it's pretty famous, too.\nLike, when you count them going up there are fourteen steps, but when you count them going down there are thirteen.\nBut don't you ever mess up when you count stairs?\nDo you count the very top step, or are you not supposed to?\nHaven't you ever wondered?\nWell, that one isn't a step, see.\nIt's the floor.\nSo you don't count it as a step.\nSo the number of steps in a staircase only counts the part sandwiched between one floor and the next.{p}",
+   "follows_choice": [
+    "39:121c"
+   ]
+  },
+  {
+   "id": "39:4c10",
+   "op": "text",
+   "en": "Learned something?\nAhahahaha...\nOr did you already know that much?\n...Sorry, sorry.\nAnyway, the story of the thirteen steps in the old school building.\nThere's a way to check it even if it isn't Friday the 13th.{p}"
+  },
+  {
+   "id": "39:4ce4",
+   "op": "text",
+   "en": "I know how.\nYou know those tear-off calendars, right?\nYou set one to Friday the 13th.\nAnd then you hang it on the wall by the thirteen steps from the rumor.\nThen they say the same thing happens.\nBut I guess that way, the effect is weaker after all.\nThey say unless you've got a really strong sixth sense, the stairs won't turn into thirteen steps.\nBut if they did, that'd be awful too, right?\n\"Yay!\nIt's thirteen steps!\"\nEven if you said that, in the end nothing but bad things would happen.\nBut still, it's interesting, isn't it?\nDon't rumors like that make you really want to try them?\nHee hee...\nI went and tried it.{p}"
+  },
+  {
+   "id": "39:4f08",
+   "op": "text",
+   "en": "Hmm...\nWhen I first heard this story, I wanted to try it, though.\nBut since we started at this school, the 13th has never once fallen on a Friday, right?\nSo at first I couldn't try it.\nThen the other day, I heard something.{p}",
+   "follows_choice": [
+    "39:14ec"
+   ]
+  },
+  {
+   "id": "39:4ff8",
+   "op": "text",
+   "en": "You know those tear-off calendars, right?\nYou set one to Friday the 13th.\nAnd then you hang it on the wall by the thirteen steps from the rumor.\nThen they say the same thing happens.\nYou didn't know that, did you?\nBut I guess that way, the effect is weaker after all.\nThey say unless you've got a really strong sixth sense, the stairs won't turn into thirteen steps.\nWell, if they did, maybe that'd be awful.\n\"Yay!\nIt's thirteen steps!\"\nEven if you said that, in the end nothing but bad things would happen.\nBut still, it's interesting, isn't it?\nDon't rumors like that make you really want to try them?\nSo, you know, I went and tried it.{p}"
+  },
+  {
+   "id": "39:522c",
+   "op": "text",
+   "en": "No way!\nSince we started school here, there hasn't been a single Friday the 13th, right?\nOr wait, did you know about that method?\nThe way to check the mystery of the thirteen steps even when it isn't Friday the 13th...\nRight, right, you set a tear-off calendar to Friday the 13th.\nThe one where you just hang it on the wall by the thirteen steps and you're set.\nOh, so you knew about it, huh?\nSo how did it go?\nDid something happen?\n...Looks like nothing happened.\nThat's what your face is saying.\nBut you know, I hear the tear-off calendar method is weak.\nThey say unless you've got serious spiritual power, the stairs won't turn into thirteen steps.{p}",
+   "follows_choice": [
+    "39:1530"
+   ]
+  },
+  {
+   "id": "39:5448",
+   "op": "text",
+   "en": "Well, {c}{f:|}, you do have the kind of face spirits would love.\nBut that's not the same as having a strong sixth sense, right?\nAhaha...\n.........{p}"
+  },
+  {
+   "id": "39:54d4",
+   "op": "text",
+   "en": "Hmm.\nBut maybe you just missed it.\nMaybe something supernatural really did happen...\nWhen I tried it, it was hard to tell, too.\n...I'll tell you about it.\nActually, I tried it yesterday.{p}"
+  },
+  {
+   "id": "39:55a8",
+   "op": "text",
+   "en": "After school, I snuck into the old school building, even though it's off-limits.\nFirst, I hung the tear-off calendar on the wall by those stairs.\nThen I went up from the bottom of the stairs, one step at a time.\nAnd then...{p}"
+  },
+  {
+   "id": "39:5654",
+   "op": "text",
+   "en": "\"Eleven, twelve, thirteen... Oh, so there really are fourteen...\"\nI was so let down.\nStanding on the thirteenth step, my shoulders just slumped.\nIt was so frustrating.\nBut just in case, I tried putting my foot on the fourteenth step.\nAnd then...{p}"
+  },
+  {
+   "id": "39:573c",
+   "op": "text",
+   "en": "\"Eeeeeeeek☆\"\nThe fourteenth step wasn't there!\nI could see it with my own eyes, I swear.\nBut when I stepped onto that fourteenth step, my foot slipped right through the floor, and I fell down.{p}"
+  },
+  {
+   "id": "39:57e4",
+   "op": "text",
+   "en": "Under the floor of the stairs... I mean, under the step, it was pitch black.\nI kept falling and falling, down through the darkness...\nIt felt like, am I going to keep falling like this forever?\nThe pit of my stomach went all shivery.\nThen, after a while, the feeling of falling stopped, but...\nIt wasn't like I hit the ground and stopped.\nIt was more like I fell slower and slower, and then finally the falling just stopped.\nAfter that, it felt like I was standing all alone in the darkness, in a daze.{p}"
+  },
+  {
+   "id": "39:599c",
+   "op": "text",
+   "en": "And then... there were lots of people standing there.\nIn the darkness, people and more people were standing all around me, closing me in.\n...Do you know what a human pillar is?\nApparently it happened in some country...\nIt's a ritual where they bury living people inside a building under construction, or in the ground beneath it.\nIt's supposed to be a prayer to make the building strong.\nWell, maybe there were other reasons too.\nI don't really know about the rest.\nAnyway, the people surrounding me had sad, blank looks on their faces.\nI couldn't help thinking they looked like human pillars.{p}"
+  },
+  {
+   "id": "39:5b88",
+   "op": "text",
+   "en": "Right then, crying was echoing through the darkness.\nSad, sad voices...{p}"
+  },
+  {
+   "id": "39:5bd0",
+   "op": "text",
+   "en": "I got kind of scared, and I tried to run away.\nBut I didn't know where I should run to.\nI mean, in front, behind, right, left, above, below, it was all darkness.\nBut I tried to move forward anyway...\nI kicked off the ground and tried to break into a run.\nAnd then... I couldn't go anywhere.\nI could feel my feet kicking the ground, but I couldn't move forward at all.\nNot only that, I couldn't move my arms or legs either.\nAnd it wasn't like paralysis, where you can't move at all.\nI could put strength into my body, and it felt like it would move if I wanted it to, but...\nIt was no good.\nThat's when I realized.\nThis is just like being buried alive in the dirt.\nAnd then...{p}"
+  },
+  {
+   "id": "39:5e34",
+   "op": "text",
+   "en": "The people surrounding me vanished, and instead, hand after hand came reaching out of the darkness.\nYes, so many hands, so many.\nThey had to be the human pillars' hands.\nThat's what I thought right away.\nI thought they were trying to grab me so they could bury me alive.\nOf course, I struggled like crazy.\nBut the hands covered my eyes and nose and mouth.\nThe more I fought back, the stronger the hands got...\nI couldn't breathe.\nTears came out, too.\nAnd then I passed out...{p}"
+  },
+  {
+   "id": "39:5fd4",
+   "op": "text",
+   "en": "When I came to, I was lying at the bottom of the stairs.\nThe tear-off calendar had fallen on the floor.\nI guess the metal clip holding it up was flimsy.\nSince the calendar fell, the thirteen steps' power must have worn off.\nThat's how I got saved, I think.{p}"
+  },
+  {
+   "id": "39:60d0",
+   "op": "text",
+   "en": "Hey, {c}{f:|}.\nThe story of the thirteen steps was true.\nI heard about it later, but when they first built our school, thirteen people died.\nAnd the place where it happened is right around where those thirteen steps are.\nIt seems there was an accident while they were putting up the scaffolding around there.\nAnd there was a student who offered flowers and grains of rice every day to mourn them.\nApparently that student always left the offerings on the fourteenth step of the thirteen steps.\nSo there wouldn't be a fourteenth victim.\nAnd for a while, the spirits seemed to have settled down, but...\nThey say if you count the thirteen steps on Friday the 13th, those spirits wake up.\nBecause the day those thirteen people died was apparently a Friday.{p}"
+  },
+  {
+   "id": "39:633c",
+   "op": "text",
+   "en": "So in the end, what I saw weren't human pillars after all.\nThey were still dead people, though, that part doesn't change.\nSo I bet on each and every one of those steps, there's the spirit of one of the thirteen who died.\n...You hear rumors about thirteen steps all over, not just at our school.\nEven without thirteen dead people, just having a staircase with thirteen steps is supposed to be bad luck.{p}"
+  },
+  {
+   "id": "39:6480",
+   "op": "text",
+   "en": "But you know...{p}"
+  },
+  {
+   "id": "39:64a0",
+   "op": "text",
+   "en": "It doesn't seem like stairs are safe just because they don't have thirteen steps.\nEven with fourteen steps, or fifteen, there are all sorts of ways to make it thirteen.\nThe spirits just have to drag anyone who tries to go past the thirteenth step down into the depths of the earth.\nJust like they did to me...{p}"
+  },
+  {
+   "id": "39:65a0",
+   "op": "text",
+   "en": "{c}{f:|}.\nNext time, why don't you count the stairs in your own house as you go up?\nYou might discover something new, you know?\nHee hee...\nOkay, let's hear the next story.\nI wonder what kind of story it'll be this time...?{p}"
+  },
+  {
+   "id": "39:6658",
+   "op": "text",
+   "en": "I see.\nWait, was it because there hasn't been a single Friday the 13th since we started school, so you couldn't try it?\nThen I'll tell you.\nThere's a way to check it even if it isn't Friday the 13th.{p}",
+   "follows_choice": [
+    "39:1538"
+   ]
+  },
+  {
+   "id": "39:670c",
+   "op": "text",
+   "en": "Oh, really? You haven't?\nHmm...\nThen no matter how much I talk about the old school building, it won't feel real to you, will it?\nForget it, then!\nI'll tell a different story.{p}",
+   "follows_choice": [
+    "39:200c"
+   ]
+  },
+  {
+   "id": "39:6798",
+   "op": "text",
+   "en": "Let's see...\n{c}{f:|}, is there someone you like?\nDo you ever want to make someone yours and yours alone?\nIf you feel that way even a little...\nI want you to hear this story.\n{c}{f:|}.\nHave you ever {f:given|been given} a ring {f:to a girl|by a boy}?\nOne with a gem, I mean.\nHave you ever {f:given a ring with all your heart in it|been given a ring with someone's whole heart in it}?{p}"
+  },
+  {
+   "id": "39:68e0",
+   "op": "text",
+   "en": "The story I'm going to tell you now is about a ruby ring.\nThey say the ruby is the classic red gem, right?\nBut a ruby isn't crimson{f:, you see|, right}.\nIt's a color like red with a shadow cast over it{f:, you know|, isn't it}.\nWhen it comes to crimson gems, I think a garnet fits better.\nBut do you know why the ruby became the classic red gem?\nHere's what I think...\nThe truly valuable rubies are called pigeon's blood{f:, aren't they|, right}.\n{f:It means the color of a pigeon's blood, see.|It means the color of a pigeon's blood.}\nA ruby's red is a color just like blood.{p}"
+  },
+  {
+   "id": "39:6af4",
+   "op": "text",
+   "en": "{c}{f:|}, do you get what I'm saying?\nThat's right, the color of blood was chosen over crimson.\nI think the color of blood has a big effect on people's hearts.\nThat's why the ruby became the classic red gem, I think.\nPeople often say the ruby's the classic one because it's rare, but I don't think so.\nIt's because it's the color of blood...\nOkay, I'll get to the story about the ring now.{p}"
+  },
+  {
+   "id": "39:6c74",
+   "op": "text",
+   "en": "A few years ago, there was a girl at this school named Sayoko Ishikawa.\nShe was the type who made you want to protect her.\nA little quiet, cute, and when she was in trouble, she'd look like she was about to cry...\nBut the way she held back her tears was just so touching.\nShe was sweet-natured too, the type of girl who'd never make selfish demands of a guy.{p}"
+  },
+  {
+   "id": "39:6dac",
+   "op": "text",
+   "en": "Her boyfriend had given her a ruby ring.\nAnd she treasured it.\nHer boyfriend went to a different high school.\nHis name was Ogura.{p}"
+  },
+  {
+   "id": "39:6e50",
+   "op": "text",
+   "en": "They say he worked a part-time job to buy her the ring.\nAnd Ishikawa would secretly wear the ring whenever the teachers weren't looking.\nTheir relationship was well known in her class, apparently.\nBut...\nThe truth is, back then there was someone at school who was in love with Ishikawa.\nIt was the science teacher, actually...{p}"
+  },
+  {
+   "id": "39:6f6c",
+   "op": "text",
+   "en": "His name was Mr. Miyama.\nIshikawa wasn't interested in any other man, though.\nMr. Miyama was crazy about Ishikawa, always playing favorites with her and talking to her all the time.\nThat's kind of a problem, right?\nSo it seems Mr. Miyama often got warned about it at faculty meetings and stuff.\nBut he never changed the way he acted, not one bit.\nShe, for her part, thought he was a bit of a nuisance, but she didn't especially avoid Mr. Miyama or anything.{p}I guess being treated like she was precious didn't feel bad in itself.\nGirls can be like that, you know.{p}"
+  },
+  {
+   "id": "39:7168",
+   "op": "text",
+   "en": "Then one day, her boyfriend... Ogura... died of an illness.\nShe was terribly sad.\nShe stayed by Ogura's bedside the whole time, holding his hand right up until the moment they parted forever.\nThey say he looked at the ruby ring on Ishikawa's finger and said this.{p}"
+  },
+  {
+   "id": "39:7260",
+   "op": "text",
+   "en": "No matter what happens from here on, my feelings won't change.\n...There was no \"from here on.\"\nHis death was close at hand.\nHe must have known that very well himself, and yet.........\nA teardrop fell onto the ruby ring on her finger.\n\"Are you crying?\"\nHe murmured it faintly.\nI mustn't cry, she thought.\nShe didn't want to sink into gloom when they were saying goodbye.\nUntil the very end, she wanted to hold his hand, really listen to his words, tell him what she wanted to tell him, and look at him properly.\nIf she cried, she couldn't do that, right?\nHer eyes would blur with tears, her voice would go hoarse from sobbing, and her heart would fill up with sadness.\nShe tried desperately to hold it in.{p}"
+  },
+  {
+   "id": "39:749c",
+   "op": "text",
+   "en": "He tried to squeeze her hand.\nBut he couldn't.\nThere was no strength left in him.\nStill, he tried to squeeze it hard, so hard.\nShe could feel that so clearly.\nAnd that made it all the sadder...\n.........{p}"
+  },
+  {
+   "id": "39:7564",
+   "op": "text",
+   "en": "After that, she was down all the time.\nEven when her friends tried to comfort her, she just couldn't cheer up.\nThen one day, Mr. Miyama caught her wearing the ring.\nAnd he confiscated it.{p}"
+  },
+  {
+   "id": "39:7650",
+   "op": "text",
+   "en": "Officially, it was because you're not allowed to wear rings to school, but...\nThat wasn't the real reason.\nHe was jealous.\nOf the person who'd given her the ring.{p}"
+  },
+  {
+   "id": "39:76f0",
+   "op": "text",
+   "en": "She was terribly sad.\nThat ruby ring was a memento of the times she'd shared with him.\nIt was the keepsake he'd left her, too...\nSo she went to Mr. Miyama to get the ring back.\nBut he wouldn't give it back to her.{p}So what do you think she did?\n"
+  },
+  {
+   "id": "39:77e0",
+   "op": "choice",
+   "en": "She gave up on the ring"
+  },
+  {
+   "id": "39:77f0",
+   "op": "choice",
+   "en": "She didn't give up on the ring"
+  },
+  {
+   "id": "39:7804",
+   "op": "choice",
+   "en": "She killed the teacher"
+  },
+  {
+   "id": "39:7820",
+   "op": "text",
+   "en": "She decided to back down that day.\nShe figured she'd go talk to another teacher about it some other day.\nEven if it was against school rules, a ruby ring was expensive, so she thought there was no way they'd really confiscate it.\nBut it was no use.\nNone of the other teachers would help her.\nThey seemed to think that even if it went back to her in the end, keeping the ring from her for a while would teach her a lesson.{p}",
+   "follows_choice": [
+    "39:77e0"
+   ]
+  },
+  {
+   "id": "39:798c",
+   "op": "text",
+   "en": "I'll just have to get it back myself, she thought.\nSo every day she went to Mr. Miyama and kept on asking him, \"Please give me back the ring.\"\nBut then one day...\nThe two of them went missing.{p}"
+  },
+  {
+   "id": "39:7a5c",
+   "op": "text",
+   "en": "By the two of them, I mean Ishikawa and Mr. Miyama.\n...What do you think happened?\nDid she get revenge on Mr. Miyama?\nNope.\nBelieve it or not, the two of them had run off together.\nSurprised?{p}"
+  },
+  {
+   "id": "39:7b08",
+   "op": "text",
+   "en": "Every time she came to see him, Mr. Miyama kept telling her he wouldn't give the ring back, because he loved her.\nAnd he did his best to comfort her while she was so depressed.\nHe told her, \"I'm here for you.\"\nYou'd think, \"Like that's going to work,\" right?\nBut the two of them got together.{p}",
+   "returns": []
+  },
+  {
+   "id": "39:7c28",
+   "op": "text",
+   "en": "Ishikawa must have been lonely after her boyfriend died.\nWith Mr. Miyama telling her he loved her and being kind to her, her heart started leaning his way.\n{c}{f:|}.\nAre you thinking, \"What is she even doing?\"\nBut you can't really understand that kind of feeling until you've been through it yourself.\nHere's what I think.\nI think Ishikawa needed someone to lean on.\nThe truth is, she was a really weak person.\nBut {c}{f:|}, if you {f:were in the dead boyfriend's place|were in a situation like the dead boyfriend's}, how would you feel?\n.........\nYou see, Ogura, who'd died, didn't just stand by and watch.{p}"
+  },
+  {
+   "id": "39:7e50",
+   "op": "text",
+   "en": "Because on the day Ishikawa and Mr. Miyama eloped, blood came dripping from her ring.\nJust like tears.\nThe one holding the ruby ring at the time was Mr. Miyama.\nHe'd left the ring in his suit pocket, so the lining got soaked with blood.\nIt caused a huge uproar.\nAnd here's the awful part.\nThe teacher who'd been hitting on Ishikawa so hard suddenly shoved her away when she came close to look at the bloody suit.\nHe got scared, I guess.\nAnd he seemed to think it was creepy.\nSo that very same day, he left her.{p}"
+  },
+  {
+   "id": "39:8060",
+   "op": "text",
+   "en": "So the elopement was over in a single day.\nThe ring was given back to her.{p}"
+  },
+  {
+   "id": "39:80bc",
+   "op": "text",
+   "en": "And from the next day on, Ishikawa and Mr. Miyama started coming to school again.\nThey insisted it was pure coincidence they'd both vanished at the same time.\nOnce the two of them split up, the tears of blood flowing from the ring stopped.\nAnd after that whole incident, she smiled even less than before.{p}"
+  },
+  {
+   "id": "39:81cc",
+   "op": "text",
+   "en": "\"No matter what happens from now on, my feelings won't change...\"\nShe remembered the last words Ogura had said.\nNo matter what happens from now on...\nSweet words, right?\nWhat do you think of that kind of thing?\nMr. Miyama had a change of heart over nothing more than the ring.\nAnd she'd tried to go off with Mr. Miyama to forget the grief of losing the boy she loved.\nBut Ogura...\n\"No matter what happens from now on, my feelings won't change...\"\nThat's what he'd said.\nThat's the kind of person he was.\nAll he did was make the ring shed tears of blood.\nHe didn't do anything else.\nHe didn't do anything wrong at all.\nSo she thought maybe it was a good thing this had shown her what Mr. Miyama was really like.{p}"
+  },
+  {
+   "id": "39:8448",
+   "op": "text",
+   "en": "And she put the ruby ring back on.\nAnd then...\nHey, {c}{f:|}.\nDon't you want to be close to the person you love?\nNo matter how close you are, you always want more and more, right?\nSome people might not feel that way, I guess...\nBut her dead boyfriend seems to have been that type.\nDo you know why I'm telling you this?{p}"
+  },
+  {
+   "id": "39:85a0",
+   "op": "text",
+   "en": "...The ring wouldn't come off.\nOff Ishikawa's finger.\nAt first, she didn't even notice.\nI mean, it never occurred to her to take the ring off.{p}"
+  },
+  {
+   "id": "39:8644",
+   "op": "text",
+   "en": "Of course she wore it at home, and when she went to school, she wrapped a bandage around her ring finger to hide it.\nSome teachers suspected there was a ring under that bandage.{p}"
+  },
+  {
+   "id": "39:86e4",
+   "op": "text",
+   "en": "But whenever they pressed her about it, blood would come out of the ring.\nRed blood would seep through the bandage.\nAny teacher who saw that had no choice but to back off.\nEven if she really was wearing a ring...{p}"
+  },
+  {
+   "id": "39:87b4",
+   "op": "text",
+   "en": "It's a ring that bleeds, you know?\nNobody would want to get mixed up with that, right?\nAnd so time went by.{p}"
+  },
+  {
+   "id": "39:8814",
+   "op": "text",
+   "en": "After that, she spent her days without really feeling like finding a new boyfriend.\nBut one day, another guy came along and made a move on her.\nHe tried to persuade her that she shouldn't spend forever thinking only about someone who was gone.\nHe seems to have been a steady, decent guy.{p}"
+  },
+  {
+   "id": "39:891c",
+   "op": "text",
+   "en": "She'd been thinking she couldn't stay gloomy and depressed forever, too...\nSo Ishikawa decided to try taking the ring off.\nThat ruby ring held too many memories.{p}"
+  },
+  {
+   "id": "39:89e8",
+   "op": "text",
+   "en": "And then... it wouldn't come off.\nThe ring wouldn't budge from her finger.\nAnd from the ruby ring, tears of blood again...{p}"
+  },
+  {
+   "id": "39:8a60",
+   "op": "text",
+   "en": "Scary, right?\nBut she wasn't scared at all.\nThat's when she became sure of it.\nOf his strong feelings.\nOf how deeply she was loved.\nShe vividly remembered him as he lay dying.{p}"
+  },
+  {
+   "id": "39:8b28",
+   "op": "text",
+   "en": "His hand back then.\nThe hand that tried to grip hers with all its strength...\nSo she made up her mind.\nShe would live her whole life thinking of him.\nAnd at that very moment...{p}"
+  },
+  {
+   "id": "39:8be4",
+   "op": "text",
+   "en": "The red of the ruby ring changed to a clear white.\nIt turned transparent.\n...Do you know what a white sapphire is?\nIt's a stone that's clear like a diamond, and it's the same mineral as ruby.\nWith that mineral, the red ones are called rubies, and the blue, white or pink ones are called sapphires.\nThat's right, her ruby turned into a white sapphire.\nAnd the tears flowing from it changed from red to clear, too.\nThey turned into transparent tears, as if to show how pure his feelings were.\nAt the same time, the ring came loose...{p}"
+  },
+  {
+   "id": "39:8db4",
+   "op": "text",
+   "en": "It slipped right off her finger.\nIt fit her fine, but it slid off as if someone had pulled it off, and fell to the floor...\nSomeone who didn't know the story might think the curse had been lifted.\nBut it's not about curses or anything.\nShe'd decided to live with her feelings for him, so the ring didn't need to bind her anymore.\nHe was so happy about how she felt.\nThat's why he shed clear tears, pure tears.{p}"
+  },
+  {
+   "id": "39:8f64",
+   "op": "text",
+   "en": "...But I wonder how long that'll last.\nYou can probably tell from the story, but with her personality, I can't imagine her living the rest of her life without leaning on any man.\nIf someone's kind to her again...\nIf she changes her mind about living her whole life thinking of him...\nHe's so single-minded, after all.\nWho knows what might happen, don't you think?\nHe trusted her feelings and released the ring's hold on her.{p}"
+  },
+  {
+   "id": "39:90dc",
+   "op": "text",
+   "en": "If she betrays that trust...\nReally, anything could happen.\n\"No matter what happens from now on, my feelings won't change...\"\nThose are sweet words.\nBut at the same time, they're scary words too, right?\nHis feelings really didn't change.\nAnd from now on, forever...{p}"
+  },
+  {
+   "id": "39:91e4",
+   "op": "text",
+   "en": "{c}{f:|}.\nWhen you find someone you really love, why not {f:try giving them a ruby ring|try binding them with something}?\nIf your feelings are as strong as his, {f:you might manage a binding of bloody tears|you just might manage it}.\nHee hee...\nOkay, let's hear the next story.\nOh right, if you want to hear that thirteen steps story I mentioned earlier, go take a look at the old school building first.\nOkay?\nSo who's going to tell the next story?{p}"
+  },
+  {
+   "id": "39:9354",
+   "op": "text",
+   "en": "Of course she wasn't going to give up, right?\nAfter that, she went to Mr. Miyama every day and kept begging him to give the ring back.\nBut Mr. Miyama wouldn't listen at all.{p}",
+   "follows_choice": [
+    "39:77f0"
+   ]
+  },
+  {
+   "id": "39:93f8",
+   "op": "text",
+   "en": "On the contrary, he was busy trying to win her over.\nThe more she treasured the ring, the more the teacher's ugly jealousy swelled.\nEvery night, Mr. Miyama would glare hatefully at the ruby ring and grumble under his breath, as if he were putting a curse on it.\nMost of those words were aimed at Ishikawa's boyfriend, whom he'd never even seen.\nBut you know, a grudge against someone you've never met doesn't last that long.\nWithout Mr. Miyama himself even noticing, the target of that grudge shifted to Ishikawa.\nI love her this much, and that woman won't even try to understand.\nRejecting my love is absolutely unforgivable.\n...Would a normal person think like that?\nMr. Miyama must have been a seriously obsessive type.\nAnd Ishikawa, who kept going to see him every day without giving up, was pretty tenacious too, I guess...{p}"
+  },
+  {
+   "id": "39:96ec",
+   "op": "text",
+   "en": "And so the two of them went on, day after day, neither giving an inch.\nThe first one to break down was Ishikawa.{p}"
+  },
+  {
+   "id": "39:9760",
+   "op": "text",
+   "en": "She was a bit fragile emotionally, after all.\nUntil then, she'd had her boyfriend Ogura to support her, but now he was gone.\nOn top of that, she didn't even have the ring, which you could call his keepsake.\nShe kept all that worry bottled up, and she fell ill.{p}"
+  },
+  {
+   "id": "39:9844",
+   "op": "text",
+   "en": "Then it was Mr. Miyama's turn to get uneasy.\nIshikawa, who'd been coming to see him practically every day, suddenly stopped coming.\nShe wasn't coming to school, either...\nDid that mean she'd gotten sick or something?{p}"
+  },
+  {
+   "id": "39:991c",
+   "op": "text",
+   "en": "And at that moment, Mr. Miyama... was thinking something like this.{p}{c}{f:, which would it be for you|, what would you think if you were the teacher}?\n"
+  },
+  {
+   "id": "39:9990",
+   "op": "choice",
+   "en": "Poor thing. I'll give her the ring back."
+  },
+  {
+   "id": "39:99b4",
+   "op": "choice",
+   "en": "It's what she deserves for rejecting my love."
+  },
+  {
+   "id": "39:99d0",
+   "op": "text",
+   "en": "{f:What a nasty person|Hey}!\nDo you seriously think that?\n{f:You're just like Mr. Miyama|That's exactly what Mr. Miyama thought}.\n{f:So you're actually pretty nasty, huh|That's kind of gross}.\n{f:It was the same with Mr. Miyama, and apparently|Apparently Mr. Miyama}{f: he|} spat it out in disgust{f:| like this}.\n\"The fool.\nIt's what she deserves for rejecting my love again and again.\"\nWhen love turns to hate, it hates a hundred times harder. That's exactly what this was.\nTo him, Ishikawa and the ruby ring were nothing but objects of hatred.\nSo with Ishikawa falling ill, he felt a little better.{p}",
+   "follows_choice": [
+    "39:99b4"
+   ]
+  },
+  {
+   "id": "39:9bcc",
+   "op": "text",
+   "en": "So, as one last act of spite against Ishikawa, he decided to throw the ring away.\nIt was an expensive piece, so he thought about selling it too, but apparently even he couldn't go that far.\nIf you ask me, once you've gone this far, there's not much difference between the two.\nIt was after school, at dusk, the hour when demons come out.\nMr. Miyama headed to the nearby river with that ring.{p}"
+  },
+  {
+   "id": "39:9d04",
+   "op": "text",
+   "en": "There was no one around, but there seemed to be an awful lot of crows that day.\nThey say the black silhouettes of the crows against the red sunset were eerily beautiful.\nStanding on the bridge, the teacher took the ruby ring out of his suit pocket.\nThe red ring caught the setting sun and gave off a strange, ominous glow.{p}"
+  },
+  {
+   "id": "39:9e14",
+   "op": "text",
+   "en": "At that instant!\nA flock of crows swooped down at the ring's glint.{p}"
+  },
+  {
+   "id": "39:9e74",
+   "op": "text",
+   "en": "Damn it, crows love shiny things!\nOn reflex, the teacher threw the ring away.\nBut the crows didn't even glance at the ring. They attacked only the teacher.\nA crow's beak is a sharp weapon, you know.\nIf a huge flock attacks you, a human gets eaten alive in no time.{p}"
+  },
+  {
+   "id": "39:9f70",
+   "op": "text",
+   "en": "And sure enough, Mr. Miyama was found dead, his body horribly devoured.\nThere was almost nothing left but bones, so identifying him was really hard.\nApparently they figured it out from scraps of his clothes and stuff.\nAnd some time after that, the ruby ring came back to Ishikawa.{p}"
+  },
+  {
+   "id": "39:a094",
+   "op": "text",
+   "en": "In the red, red sunset, Ogura comes walking toward her from far away.\nAnd handing Ishikawa the ruby ring, he smiled and said,\n\"My feelings won't change.\"\nAnd then he fades away, just like that.{p}"
+  },
+  {
+   "id": "39:a16c",
+   "op": "text",
+   "en": "That was the dream she was having.\nWhen she woke up and realized it was only a dream, she felt sad all over again.{p}"
+  },
+  {
+   "id": "39:a1d8",
+   "op": "text",
+   "en": "But just then, she heard a tap-tap, like someone knocking on her bedroom window.\nWondering what it was, she opened the curtain a little and...{p}"
+  },
+  {
+   "id": "39:a268",
+   "op": "text",
+   "en": "The ruby ring was sitting on the balcony!\nThere was no doubt it was the one Ogura had given her.\nBecause both their initials were engraved on the inside of the band.{p}"
+  },
+  {
+   "id": "39:a314",
+   "op": "text",
+   "en": "After that, Ishikawa recovered completely, and they say she's living a happy, healthy life.\n...Only, you know, a lot of people around her die.\nMen who pester her, mean upperclassmen... they've died in all kinds of accidents.\nAnd every time someone dies, the ring glows redder and more eerily, they say.\nThese days the ring glows so much that Ishikawa supposedly wears a glove on her left hand only.\nA blood-stained ring.\nI don't know how many more years she'll live, but Ogura's heart stays by her side, along with the ring.\nShe'll live her whole life protected by the ring, without ever marrying.\nThinking only of the boy who died...{p}"
+  },
+  {
+   "id": "39:a560",
+   "op": "text",
+   "en": "Hey, {c}{f:|}.\nIf you died and left your sweetheart behind, what would you do?\nWould you want to stay by their side, like Ogura?{p}Or would you let them be free, since the rest is their own life?\n"
+  },
+  {
+   "id": "39:a62c",
+   "op": "choice",
+   "en": "I'd want to stay by their side."
+  },
+  {
+   "id": "39:a63c",
+   "op": "choice",
+   "en": "I'd let them be free."
+  },
+  {
+   "id": "39:a654",
+   "op": "text",
+   "en": "I see, so being forgotten would be lonely after all.\nThen you'll keep protecting them, just like Ogura, right?\nNo thanks, not for me.\nWell, everyone's free to think what they want.{p}",
+   "follows_choice": [
+    "39:a62c"
+   ]
+  },
+  {
+   "id": "39:a6fc",
+   "op": "text",
+   "en": "Hee hee hee, that's right.\nWhen you find someone you really love, you'd better give them something.\nIt doesn't have to be a ring.\nAnd then you say,\n\"{f:My|My} feelings won't change.\"\nJust like that.\nHee hee hee, good luck.\nOkay, let's go on to the next story.\nThe thirteen steps story will have to wait for another time.\n...So, who's next?{p}"
+  },
+  {
+   "id": "39:a824",
+   "op": "text",
+   "en": "Don't say such violent things.\nForget it. {c}{f:|}, just be quiet and listen.\nShe didn't give up on the ring.\nAfter that, she went to Mr. Miyama every day and kept begging him to give the ring back.\nBut... one day, the two of them went missing.{p}",
+   "follows_choice": [
+    "39:7804"
+   ]
+  },
+  {
+   "id": "39:a914",
+   "op": "text",
+   "en": "Really?\n{c}{f:|}, you look like kind of a scaredy-cat to me.\nWere you with someone, maybe?\nLike a sweetheart...{p}",
+   "follows_choice": [
+    "39:2090"
+   ]
+  },
+  {
+   "id": "39:a9a4",
+   "op": "text",
+   "en": "Ahahaha, judging by that face, I hit the nail on the head.\nYou don't have to hide it.\nSo that's why it was fun.\nYeah, nobody goes there, so it's probably a good place when you want to be alone together.\nBut you know, you really shouldn't go to the old school building too often.\n...Not that I'm one to talk.{p}"
+  },
+  {
+   "id": "39:aaac",
+   "op": "text",
+   "en": "Hey, {c}{f:|}.\nDidn't anything weird happen back then?\nIf you're saying it was fun, either nothing happened at all, or you just didn't notice a thing.\nWhen we went, something weird happened.{p}"
+  },
+  {
+   "id": "39:ab98",
+   "op": "text",
+   "en": "The old school building is officially off-limits, right?\nSo we snuck inside, making sure no teachers spotted us.{p}"
+  },
+  {
+   "id": "39:abfc",
+   "op": "text",
+   "en": "Then we went to that staircase and hung the tear-off calendar firmly on the stairwell wall.\nIt caught on the wall just right.{p}"
+  },
+  {
+   "id": "39:ac84",
+   "op": "text",
+   "en": "\"Now we're all set!\"\nOf the three of us, Yoko was having the most fun.{p}"
+  },
+  {
+   "id": "39:ace4",
+   "op": "text",
+   "en": "\"Yeah, now something's bound to happen.\"\nSanae was... pretty much the same as always, I think.\nSame as ever, going at her own pace, I guess you'd say.\nHer timing's kind of off.\nSo out of nowhere, she just started climbing the stairs.{p}"
+  },
+  {
+   "id": "39:add8",
+   "op": "text",
+   "en": "\"One, two, three...\"\nCounting out loud in a big voice, like that.{p}"
+  },
+  {
+   "id": "39:ae1c",
+   "op": "text",
+   "en": "Yoko and I were both dumbfounded.\nWith this kind of thing, the mood is everything, isn't it?\nWe'd worked so hard to build up our fear and curiosity, and she blew it all away in one go.{p}"
+  },
+  {
+   "id": "39:aed4",
+   "op": "text",
+   "en": "Sanae didn't care about any of that and kept on climbing.\n\"...Eleven, twelve, thirteen, fourteen. Huh? There are fourteen steps.\"\nThat's what she said...{p}"
+  },
+  {
+   "id": "39:af64",
+   "op": "text",
+   "en": "Yoko was a little bit miffed.\n\"No fair, Sanae, going on ahead all by yourself!\"\n\"Then I'll wait, so hurry up and come on up.\"{p}"
+  },
+  {
+   "id": "39:aff8",
+   "op": "text",
+   "en": "Yoko and I climbed the stairs, counting along just in case.{p}"
+  },
+  {
+   "id": "39:b03c",
+   "op": "text",
+   "en": "One step... two steps... three steps...\nIt's actually pretty nerve-racking, you know.\nBut then,{p}"
+  },
+  {
+   "id": "39:b090",
+   "op": "text",
+   "en": "\"Ten... eleven... twelve... thirteen..................fourteen.\"{p}"
+  },
+  {
+   "id": "39:b0dc",
+   "op": "text",
+   "en": "It was fourteen steps, same as when Sanae counted.\nI was a little disappointed, but we hadn't reached the second floor yet.\nThis was only the landing, so there was still half left.\nI pulled myself together, and just as I was about to keep climbing...{p}"
+  },
+  {
+   "id": "39:b1b4",
+   "op": "text",
+   "en": "\"Oh, wait a sec.\"{p}"
+  },
+  {
+   "id": "39:b1dc",
+   "op": "text",
+   "en": "Yoko was looking in the mirror on the landing, checking whether her hair was messed up.\nWhy now of all times, right?\nAnd then Yoko, with a prim little face, goes,\n\"A girl has to look her best.\"\nThat's what she said.\nShe was in such a good mood, you'd never believe she'd been mad about the scary mood getting ruined just a minute before.\nYoko's a bit moody, I guess?{p}"
+  },
+  {
+   "id": "39:b318",
+   "op": "text",
+   "en": "\"Okay, let's go up.\"{p}"
+  },
+  {
+   "id": "39:b33c",
+   "op": "text",
+   "en": "With that, Yoko started climbing the stairs.\nOf course, Sanae and I went up with her.{p}"
+  }
+ ]
+}

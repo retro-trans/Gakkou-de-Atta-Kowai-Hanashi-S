@@ -1,0 +1,396 @@
+{
+ "slice": "S069",
+ "scene": "17",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S068",
+ "next": "S070",
+ "todo": [],
+ "rows": [
+  {
+   "id": "17:1564",
+   "op": "text",
+   "en": "I'm Nozomu Kazama.\nI'm a third-year.\nDo you all know about 'Kokkuri-san'?\nThere are all sorts of names for it, like 'Cupid-san' or 'Angel-sama,' but basically they're all the same thing.{p}"
+  },
+  {
+   "id": "17:1620",
+   "op": "text",
+   "en": "You write out the kana syllabary, the words 'yes' and 'no,' and the numbers 0 through 9 on a sheet of paper, and draw a torii gate in the middle.\nYou put a ten-yen coin on top of that torii, and then two or more people put their index fingers on the coin.\nAfter that, you call Kokkuri-san and ask whatever you want to know.\nThen Kokkuri-san graciously answers all sorts of things through that ten-yen coin.\nAnd once you've asked everything you wanted to, you ask Kokkuri-san to kindly go back, and you have to part with the ten-yen coin and the paper right away, either by throwing them out or spending the coin.{p}"
+  },
+  {
+   "id": "17:17fc",
+   "op": "text",
+   "en": "That's the simple way to do Kokkuri-san.\nThing is, it's fine if a high-level spirit comes down as Kokkuri-san, but sometimes a nasty low-level spirit comes down instead.\nWhen that happens, you can even end up possessed, so you've got to be careful.{p}"
+  },
+  {
+   "id": "17:18dc",
+   "op": "text",
+   "en": "Of course, I'm a Kokkuri-san professional, so I've got nothing to worry about.\nThey have something similar in the West, too.\nIt's called a 'witch board.'\nThey even sell special tools made just for it, you know.\nWell, I guess things like that are the same all over the world.{p}"
+  },
+  {
+   "id": "17:19cc",
+   "op": "text",
+   "en": "...So, the truth is, the third story I'm going to tell is about this Kokkuri-san.\nWell, to be precise, it isn't really a story.\nNow, now, it'll be way more interesting than some lousy story, I promise.\nListen, and you won't regret it.\nTruth is, I can summon Kokkuri-san.\nHuh?\nYou say anybody can summon it?{p}"
+  },
+  {
+   "id": "17:1ad8",
+   "op": "text",
+   "en": "...How naive.\nThe Kokkuri-san I summon is the real thing.\nI can summon the real Kokkuri-san.\nYou guys have never seen it, have you?\nHeh heh heh... You can even get to see it, you know.\nYou doubt me, huh?\nWell, you'll just have to wait and see.{p}"
+  },
+  {
+   "id": "17:1bb8",
+   "op": "text",
+   "en": "By the way, {c}{f:|}.{p}Do you believe in Kokkuri-san?\n"
+  },
+  {
+   "id": "17:1c00",
+   "op": "choice",
+   "en": "I believe in it"
+  },
+  {
+   "id": "17:1c08",
+   "op": "choice",
+   "en": "I don't believe in it"
+  },
+  {
+   "id": "17:1c14",
+   "op": "choice",
+   "en": "I can't say either way"
+  },
+  {
+   "id": "17:1c30",
+   "op": "text",
+   "follows_choice": [
+    "17:1c00"
+   ],
+   "en": "I see, I see.\nYou're a {f:guy|girl} with real promise.\nBelieving is what matters.{p}And while we're at it, you also believe that I can summon Kokkuri-san, right?\n"
+  },
+  {
+   "id": "17:1cd8",
+   "op": "choice",
+   "en": "I believe it"
+  },
+  {
+   "id": "17:1ce4",
+   "op": "choice",
+   "en": "I don't believe it"
+  },
+  {
+   "id": "17:1cf4",
+   "op": "choice",
+   "en": "I can't really say"
+  },
+  {
+   "id": "17:1d04",
+   "op": "text",
+   "follows_choice": [
+    "17:1cd8"
+   ],
+   "en": "Wow, you're {f:going to be a big shot|just wonderful}.\nYou must have some incredible person watching over you as your guardian spirit, don't you?\nI can tell.\nI can feel a halo shining off you{f:, somehow|, and plenty of it}.{p}"
+  },
+  {
+   "id": "17:1dcc",
+   "op": "text",
+   "en": "So, I'm thinking of actually doing Kokkuri-san right here, right now. What do you say?\nWant to give it a try?{p}I thought I'd tell all sorts of fortunes for you, as a special favor.\n"
+  },
+  {
+   "id": "17:1e74",
+   "op": "choice",
+   "en": "I'll try it"
+  },
+  {
+   "id": "17:1e80",
+   "op": "choice",
+   "en": "I won't"
+  },
+  {
+   "id": "17:1e94",
+   "op": "text",
+   "follows_choice": [
+    "17:1e74"
+   ],
+   "en": "That's the spirit, yeah.{p}"
+  },
+  {
+   "id": "17:1ec8",
+   "op": "text",
+   "en": "Well, when ordinary people do Kokkuri-san, a lot of the time it's hit or miss, just random.\nThat's because they often end up calling low-level spirits.\nBut you see, once you're a Kokkuri-san researcher of my caliber, you've looked into all sorts of things.\nI went and discovered a method that's guaranteed to summon a high-level spirit as Kokkuri-san.\nFirst of all, don't be so cheap as to use a ten-yen coin.\nYou use a five-hundred-yen coin.\nThat way, you can summon a better Kokkuri-san.{p}"
+  },
+  {
+   "id": "17:2064",
+   "op": "text",
+   "en": "Now, {c}{f:|}.{p}Take out a five-hundred-yen coin, if you please.\n"
+  },
+  {
+   "id": "17:209c",
+   "op": "choice",
+   "en": "Give him a 500-yen coin"
+  },
+  {
+   "id": "17:20ac",
+   "op": "choice",
+   "en": "Don't give him a 500-yen coin"
+  },
+  {
+   "id": "17:20c0",
+   "op": "choice",
+   "en": "Say I don't have one on me"
+  },
+  {
+   "id": "17:20ec",
+   "op": "text",
+   "follows_choice": [
+    "17:209c"
+   ],
+   "en": "You're truly a person of fine character.\nI think we're going to get along.\nI'll be sure to remember you from now on.{p}"
+  },
+  {
+   "id": "17:2160",
+   "op": "text",
+   "en": "Well then, I'm going to use this five-hundred-yen coin to summon Kokkuri-san.\n"
+  },
+  {
+   "id": "17:21b0",
+   "op": "text",
+   "en": "Now, put your index finger on top of this.\n...All right, are you ready?{p}"
+  },
+  {
+   "id": "17:220c",
+   "op": "text",
+   "en": "Kokkuri-san, Kokkuri-san.\nPlease come to us, please come to us.{p}"
+  },
+  {
+   "id": "17:225c",
+   "op": "text",
+   "en": "...Honnyaramaka, honnyaramaka, honnyaniramaka.\n...It's here, it's here, it's heeeeeere!\nKaaaaaah!{p}"
+  },
+  {
+   "id": "17:22e0",
+   "op": "text",
+   "en": "...And so, Kokkuri-san has arrived.{p}Now, what do you want to ask?\n"
+  },
+  {
+   "id": "17:2324",
+   "op": "choice",
+   "en": "Woman trouble"
+  },
+  {
+   "id": "17:2330",
+   "op": "choice",
+   "en": "Money trouble"
+  },
+  {
+   "id": "17:233c",
+   "op": "choice",
+   "en": "Studies or work"
+  },
+  {
+   "id": "17:2348",
+   "op": "choice",
+   "en": "My future"
+  },
+  {
+   "id": "17:2360",
+   "op": "text",
+   "follows_choice": [
+    "17:2324",
+    "17:27f8",
+    "17:ab40",
+    "17:ab74"
+   ],
+   "en": "I see.\nSo it's about {f:woman|man} trouble, huh?\n{f:You|If you}{f:'re quite the perv|want a wonderful boyfriend}, {f:heh heh heh heh...|how about me?}{p}{f:So, right now|By the way}, is there someone you like?\n"
+  },
+  {
+   "id": "17:242c",
+   "op": "choice",
+   "en": "Yes, there is"
+  },
+  {
+   "id": "17:2434",
+   "op": "choice",
+   "en": "No, there isn't"
+  },
+  {
+   "id": "17:243c",
+   "op": "text",
+   "follows_choice": [
+    "17:242c"
+   ],
+   "en": "{f:I see|Aw, shoot}, so there is someone.{p}And are you going out with that person, maybe?\n"
+  },
+  {
+   "id": "17:2490",
+   "op": "choice",
+   "en": "We're going out"
+  },
+  {
+   "id": "17:24a0",
+   "op": "choice",
+   "en": "We're not going out"
+  },
+  {
+   "id": "17:24b4",
+   "op": "text",
+   "follows_choice": [
+    "17:2490"
+   ],
+   "en": "{f:I see|Hmm}, I see.\n{f:For a face like that, you|So you've already}{f: sure make your move when it counts, huh?|got someone...}\n{f:Uh-heh-heh-heh...|When you get bored of him, look me up.}{p}"
+  },
+  {
+   "id": "17:2570",
+   "op": "text",
+   "en": "Well then, {f:allow me to divine|let's see} whether things will work out with {f:her|him}.\nKokkuri-san, Kokkuri-san, please answer us.\nWill things go well with {f:his girlfriend|her boyfriend} from now on?{p}"
+  },
+  {
+   "id": "17:2650",
+   "op": "text",
+   "en": "{f:Oh|What}!\nWell, this is good, isn't it?\nThen let's try asking how {f:she|he} feels about you.{p}Kokkuri-san, Kokkuri-san, please tell us what's in {f:her|his} heart.{p}"
+  },
+  {
+   "id": "17:2784",
+   "op": "text",
+   "en": "{f:Wow, look at that|Well, I give up}.\nYou're {f:all hot and bothered|on cloud nine}, huh?{p}"
+  },
+  {
+   "id": "17:27d4",
+   "op": "text",
+   "en": "Well then, what shall I divine next?{p}"
+  },
+  {
+   "id": "17:27f8",
+   "op": "choice",
+   "en": "Woman trouble"
+  },
+  {
+   "id": "17:2804",
+   "op": "choice",
+   "en": "Money trouble"
+  },
+  {
+   "id": "17:2810",
+   "op": "choice",
+   "en": "Studies or work"
+  },
+  {
+   "id": "17:281c",
+   "op": "choice",
+   "en": "My future"
+  },
+  {
+   "id": "17:282c",
+   "op": "choice",
+   "en": "I'll stop here"
+  },
+  {
+   "id": "17:284c",
+   "op": "text",
+   "follows_choice": [
+    "17:282c",
+    "17:aba8"
+   ],
+   "en": "Huh?\nYou're quitting already?\nEven though Kokkuri-san went to the trouble of coming.\nWhat a shame.{p}"
+  },
+  {
+   "id": "17:28c0",
+   "op": "text",
+   "en": "But oh well, it can't be helped.\nDid you see Kokkuri-san?\nYou say you didn't?\n{f:What are you talking about?|...Heh heh heh.}\nIt's still here, isn't it?\nTake a good look.{p}"
+  },
+  {
+   "id": "17:296c",
+   "op": "text",
+   "en": "Look... the others must be bored, they've started dozing off.\nKokkuri... kokkuri... heads nodding away... there's your Kokkuri-san.{p}"
+  },
+  {
+   "id": "17:29d8",
+   "op": "text",
+   "en": "See?\nYou got to see Kokkuri-san, didn't you?\nAnd that's the end of my story.\nNext person, go ahead.\n..............\n{f:What the heck|What} was that just now?\n{f:What was this Kazama guy trying to say?|I wonder what this Kazama person was getting at.}\n...Ah!\nHe went and pocketed the five-hundred-yen coin {f:I|I} gave him!\n...What a {f:jerk|creep}!\nShaking down a junior for money like that.\nKazama is looking my way and smiling.\n{f:I'll|I'll} just ignore him.\nFrom now on, it'd be best to stay away from this {f:guy|guy}.\nI'd better hurry and hear the next person's story.\nNext up is...{p}"
+  },
+  {
+   "id": "17:2bec",
+   "op": "text",
+   "follows_choice": [
+    "17:1c08"
+   ],
+   "en": "You don't believe in it, huh?\nThat's probably because you've never seen anyone who can really summon Kokkuri-san.\nWell, just watch.\nI'm about to do something amazing for you.{p}"
+  },
+  {
+   "id": "17:2ca0",
+   "op": "text",
+   "en": "See, this paper.\nI use this to summon it.\nThe real... Kokkuri-san, that is.\nAnd then I'll tell all sorts of fortunes for you.\nHow about it, want to give it a try?{p}"
+  },
+  {
+   "id": "17:2d3c",
+   "op": "text",
+   "follows_choice": [
+    "17:1c14"
+   ],
+   "en": "You're thinking it might be a lie, or it might be true... right?\nThen watch closely what I'm about to do.\nRight here and now, I'm going to do Kokkuri-san and tell all sorts of fortunes for you.\nThe Kokkuri-san I do isn't some cheap knockoff like you'd find just anywhere.\nOnce you've experienced it, I guarantee you'll believe.\nHow about it, want to give it a try?{p}"
+  },
+  {
+   "id": "17:2e80",
+   "op": "text",
+   "follows_choice": [
+    "17:1ce4"
+   ],
+   "en": "What did you say?\nYou believe in Kokkuri-san, but you don't believe that I can summon it?\nI can't forgive that.\n{f:That's absolutely unforgivable|This is a serious problem}.\nListen, I can summon the real Kokkuri-san, you know?\nI'm the man with the most psychic power of anyone gathered here.{p}If you're going to take that attitude with me, I'll have Kokkuri-san put a curse on you.\n"
+  },
+  {
+   "id": "17:2fb4",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "17:2fbc",
+   "op": "choice",
+   "en": "Don't apologize"
+  },
+  {
+   "id": "17:2fd0",
+   "op": "text",
+   "follows_choice": [
+    "17:2fb4"
+   ],
+   "en": "Good, as long as you understand.\nI'll forgive you. You didn't mean any harm, right?\nI like {f:guys|girls} who can honestly apologize when they should.\n{f:Guys|Girls} like that have good character, you see.\nBesides, I do understand how you feel.\nKokkuri-san exists, but there aren't many people who can really summon it.{p}"
+  },
+  {
+   "id": "17:3118",
+   "op": "text",
+   "en": "...Actions speak louder than words. I'll show you.\nTo summon the real Kokkuri-san, first you have to carefully select the tool that serves as the medium.\nToo difficult? In other words, people use a ten-yen coin to summon Kokkuri-san, right? What I'm saying is, that's actually wrong.\nListen, you use a five-hundred-yen coin.\nTo summon the real Kokkuri-san, you've got to use a coin worthy of it.\nNow watch, I'm about to... Huh?\nThat's weird.\nI was sure I brought a five-hundred-yen coin...\nIt's not here.\nWhere did I put it?\n...It's gone!\nI thought I'd put it in my pocket.\nWhat a pain.\nWe can't go on like this.\nOh, I know. Hey, you don't happen to have a five-hundred-yen coin, do you?\nWithout one, I can't summon Kokkuri-san.{p}"
+  },
+  {
+   "id": "17:3398",
+   "op": "text",
+   "follows_choice": [
+    "17:1cf4"
+   ],
+   "en": "I see...\nWell then, I'll summon the real Kokkuri-san for you right now.\nYou can believe after that.\nAs a special favor, I'll tell all sorts of fortunes for you.{p}"
+  },
+  {
+   "id": "17:3434",
+   "op": "text",
+   "follows_choice": [
+    "17:2fbc"
+   ],
+   "en": "Kazama was looking at me, clearly displeased.\nThen, without a word, he took a sheet of paper out of his pocket and set it on the desk.{p}"
+  },
+  {
+   "id": "17:34b0",
+   "op": "text",
+   "en": "\"I'll use this paper to summon Kokkuri-san.\n{c}{f:|}, as a special favor, I'll tell your fortune.\nAnd when the fortune-telling is over, I'll make Kokkuri-san possess you.\"{p}"
+  },
+  {
+   "id": "17:3578",
+   "op": "text",
+   "en": "As he said that, Kazama took out a ten-yen coin, grimy from handling and gone dark brown, and grinned.\nThis person...\nWhat on earth kind of person was he?\nFirst he said he could summon the real Kokkuri-san, then he said he'd put a curse on me...{p}"
+  },
+  {
+   "id": "17:365c",
+   "op": "text",
+   "en": "\"Now, {c}{f:|}, place your finger on the ten-yen coin.\"\nKazama's words sounded like some kind of sentence being pronounced.\nIf I had to compare it to something, then...\nIt was just like a death sentence.\n\"{c}{f:|}, {f:place your finger on it|put your finger on it}.\"\nKazama repeated it like someone issuing an absolute command.\n{f:I|I} felt strangely like I wanted to cry, and looked around.\nHe was going to put a curse on {f:me|me}, of all things.\nThere was no way everyone would just sit there and watch something like this happen.\n\"{c}{f:|}, hurry and {f:place your finger on it|put your finger on it}.\"\nKazama grabbed {f:my|my} arm...!{p}"
+  },
+  {
+   "id": "17:3868",
+   "op": "text",
+   "en": "\"{f:Stop it!|No!}☆\"\n{f:I|I} shook his arm off with all my strength.\nAnd then...\nSomething fell with a faint rustle.{p}"
+  }
+ ]
+}

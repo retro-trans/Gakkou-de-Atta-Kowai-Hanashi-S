@@ -1,0 +1,14 @@
+{
+ "rows": {
+  "56:481c": "\"Oh? Now this is a nice find.\"\n\"Huh★\nW-wait a minute, Kazama?\"\nDon't tell me he's going to read what's inside without asking......\n",
+  "56:3480": "I can't go along with Kazama's selfishness anymore.\n\"You can at least open the door yourself.\"\n\"Wha-★\nYou're telling me to open the door myself?\nYou've got some nerve, saying something so outrageous to someone like me.\"\n...Honestly!\nJust because he's a senior, what does he take me for?\nHow rude can you get.\nI'm definitely not doing it!\n",
+  "56:3a70": "\"You're the host, aren't you?\nWould you hurry up and move on to the next story?\nI've had enough of being kept waiting.\"\n...How selfish can a person be?\nHe won't even open a door himself, yet he says whatever he likes.\nI can't believe a careless person like this has a sixth sense.\nWho knows how much of that story he just told was even true.\n...But still.\nI have to keep all of this to myself.\nWhen I was closing the door, I saw it.\nA huge crack running through the club room door...\nJust how strong is he?\nLet sleeping dogs lie.\nIt's best not to get involved with people like him.\nI'm sure everyone else thinks so too.\nOkay, let's move on to the next story before he gets angry.{p}",
+  "56:4918": "Ah, and on top of that, he's putting the letter he just read in his pocket.\nHonestly!\nWhat kind of person is he?\nI'm more scared of him...\n\"Well, shall we hurry back to the club room?\nOtherwise it'll throw off the rest of my schedule.\nI'm a very busy man, you see.\"{p}",
+  "56:49f8": "Honestly, he only ever says whatever suits him!\nKazama's the one who brought us here in the first place!\nEveryone else seems a little fed up too.\nIf today's interview ends in failure, it'll be all, all Kazama's fault.\nReally, why on earth did Hino invite someone like this?\nCursing my bad luck, I hurried to the club room.\nLet's see...\nWho should I pick next?\nYeah, I'll go with that person.{p}"
+ },
+ "notes": [
+  "56:481c: FIX dots - source run of 4 … characters (trailing off) shortened to '...'; restored to 6 dots.",
+  "56:3440: RETURN - choice 'Leave Kazama and go back first' vs S209 56:1f78 'Leave Kazama behind and go back first' for near-identical source; editorial may unify.",
+  "56:3f40: RETURN - narration switches between past and present tense mid-paragraph ('What do I do... I can't stop shaking... That's how it felt'); source is present-tense inner monologue, editorial to smooth."
+ ]
+}

@@ -1,0 +1,272 @@
+{
+ "slice": "S086",
+ "scene": "23",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S085",
+ "next": "S087",
+ "rows": [
+  {
+   "id": "23:0ce0",
+   "op": "text"
+  },
+  {
+   "id": "23:0dd8",
+   "op": "text"
+  },
+  {
+   "id": "23:0f68",
+   "op": "text"
+  },
+  {
+   "id": "23:1300",
+   "op": "text"
+  },
+  {
+   "id": "23:164c",
+   "op": "text"
+  },
+  {
+   "id": "23:1938",
+   "op": "text"
+  },
+  {
+   "id": "23:19b8",
+   "op": "text"
+  },
+  {
+   "id": "23:1a78",
+   "op": "text"
+  },
+  {
+   "id": "23:1c00",
+   "op": "text"
+  },
+  {
+   "id": "23:1d38",
+   "op": "text"
+  },
+  {
+   "id": "23:1db4",
+   "op": "text"
+  },
+  {
+   "id": "23:1f60",
+   "op": "text"
+  },
+  {
+   "id": "23:1fc8",
+   "op": "choice"
+  },
+  {
+   "id": "23:1fdc",
+   "op": "choice"
+  },
+  {
+   "id": "23:1fe8",
+   "op": "text",
+   "follows_choice": [
+    "23:1fc8"
+   ]
+  },
+  {
+   "id": "23:2094",
+   "op": "text"
+  },
+  {
+   "id": "23:2140",
+   "op": "text"
+  },
+  {
+   "id": "23:22f8",
+   "op": "text"
+  },
+  {
+   "id": "23:2370",
+   "op": "choice"
+  },
+  {
+   "id": "23:2384",
+   "op": "choice"
+  },
+  {
+   "id": "23:23b0",
+   "op": "choice"
+  },
+  {
+   "id": "23:23cc",
+   "op": "text",
+   "follows_choice": [
+    "23:23b0",
+    "23:4f80"
+   ]
+  },
+  {
+   "id": "23:255c",
+   "op": "text"
+  },
+  {
+   "id": "23:25d8",
+   "op": "choice"
+  },
+  {
+   "id": "23:25ec",
+   "op": "choice"
+  },
+  {
+   "id": "23:2600",
+   "op": "choice"
+  },
+  {
+   "id": "23:2610",
+   "op": "choice"
+  },
+  {
+   "id": "23:262c",
+   "op": "text",
+   "follows_choice": [
+    "23:25d8"
+   ]
+  },
+  {
+   "id": "23:283c",
+   "op": "text"
+  },
+  {
+   "id": "23:28a4",
+   "op": "text"
+  },
+  {
+   "id": "23:29f4",
+   "op": "text"
+  },
+  {
+   "id": "23:2c58",
+   "op": "text"
+  },
+  {
+   "id": "23:2ce4",
+   "op": "text"
+  },
+  {
+   "id": "23:2e54",
+   "op": "text"
+  },
+  {
+   "id": "23:3024",
+   "op": "text"
+  },
+  {
+   "id": "23:30a8",
+   "op": "choice"
+  },
+  {
+   "id": "23:30bc",
+   "op": "choice"
+  },
+  {
+   "id": "23:30e0",
+   "op": "text",
+   "follows_choice": [
+    "23:30a8"
+   ]
+  },
+  {
+   "id": "23:3190",
+   "op": "text"
+  },
+  {
+   "id": "23:32a4",
+   "op": "text"
+  },
+  {
+   "id": "23:33b4",
+   "op": "text"
+  },
+  {
+   "id": "23:34c8",
+   "op": "text"
+  },
+  {
+   "id": "23:361c",
+   "op": "text"
+  },
+  {
+   "id": "23:3760",
+   "op": "choice"
+  },
+  {
+   "id": "23:3770",
+   "op": "choice"
+  },
+  {
+   "id": "23:3780",
+   "op": "text",
+   "follows_choice": [
+    "23:3760"
+   ]
+  },
+  {
+   "id": "23:3818",
+   "op": "text"
+  },
+  {
+   "id": "23:38bc",
+   "op": "text"
+  },
+  {
+   "id": "23:3aa0",
+   "op": "text"
+  },
+  {
+   "id": "23:3c04",
+   "op": "text"
+  },
+  {
+   "id": "23:3c64",
+   "op": "text"
+  },
+  {
+   "id": "23:410c",
+   "op": "text",
+   "follows_choice": [
+    "23:1fdc"
+   ]
+  },
+  {
+   "id": "23:4208",
+   "op": "text"
+  },
+  {
+   "id": "23:4454",
+   "op": "text"
+  },
+  {
+   "id": "23:4538",
+   "op": "text"
+  },
+  {
+   "id": "23:4664",
+   "op": "text"
+  },
+  {
+   "id": "23:4780",
+   "op": "text"
+  },
+  {
+   "id": "23:4918",
+   "op": "text"
+  },
+  {
+   "id": "23:4a24",
+   "op": "text"
+  },
+  {
+   "id": "23:4afc",
+   "op": "text"
+  },
+  {
+   "id": "23:4bc8",
+   "op": "text"
+  }
+ ]
+}

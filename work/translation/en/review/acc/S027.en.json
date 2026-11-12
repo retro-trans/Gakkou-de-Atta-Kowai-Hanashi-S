@@ -1,0 +1,458 @@
+{
+ "slice": "S027",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S026",
+ "next": "S028",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:15a34",
+   "op": "text",
+   "en": "I decided to head for the chemistry lab.\nIt still seemed like the most suspicious place to me.{p}"
+  },
+  {
+   "id": "07:15a80",
+   "op": "text",
+   "en": "But why didn't I go inside earlier?\n...That's right, the key!\nI can't get in anywhere without finding the key first.\nWhat am I doing?\nI can't afford to waste even a minute.{p}So, where should I go?\n"
+  },
+  {
+   "id": "07:15b58",
+   "op": "text",
+   "en": "I decided to head for the chemistry lab.{p}"
+  },
+  {
+   "id": "07:15b80",
+   "op": "text",
+   "en": "I was here earlier, so the door is already unlocked.{p}"
+  },
+  {
+   "id": "07:15bb4",
+   "op": "text",
+   "en": "Now, where should I search?\n"
+  },
+  {
+   "id": "07:15bd0",
+   "op": "text",
+   "en": "I'll try searching the chemical cabinet one more time.{p}"
+  },
+  {
+   "id": "07:15bf8",
+   "op": "text",
+   "en": "...No, I still don't see anything that looks like it.{p}Maybe I should search somewhere else?\n"
+  },
+  {
+   "id": "07:15c44",
+   "op": "text",
+   "follows_choice": [
+    "07:82b8"
+   ],
+   "en": "I took one of the bottles and opened the cap.\nA strange, sharp smell stung my nose.\nAh... this one's no good.\nIf I drank this stuff, it would kill me.\nI opened the cap on another one.\nThis one didn't smell so strange.\nCould this be it?\nI timidly brought it up to my lips.\nJust then, some liquid spilled from the mouth of the tilted bottle.\nA few drops fell to the floor...\nHssssssss!\nWhite smoke rose with a violent hiss.\nWithout a word, I put the bottle back on the shelf.\n...That was close.\nIf I'd put that in my mouth, I'd have gotten a lot worse than burns.\nCome to think of it, a chemistry lab is a treasure trove of deadly chemicals.\nWhat am I doing, cutting my own life short?\nI decided to give up on the rest of the chemicals too.{p}What should I do?\n"
+  },
+  {
+   "id": "07:15ebc",
+   "op": "text",
+   "en": "Maybe I was a little too careless earlier.\nI'll search a bit more thoroughly.{p}"
+  },
+  {
+   "id": "07:15f10",
+   "op": "text",
+   "en": "Inside the desks, behind the legs, the shadowed spots too.\n...Still, there's nothing worth noting.\nLooks like that was a waste of effort.{p}Where should I search next?\n"
+  },
+  {
+   "id": "07:15f90",
+   "op": "text",
+   "en": "Come to think of it, I hadn't looked through all the papers in the cupboard.\nI went through the papers once more.{p}"
+  },
+  {
+   "id": "07:15fec",
+   "op": "text",
+   "en": "Some of them seemed to be pretty old.\nThe papers near the bottom had already gone yellow.\nBut nothing in particular seemed to catch my eye.{p}Well then, where should I search now?\n"
+  },
+  {
+   "id": "07:1608c",
+   "op": "text",
+   "follows_choice": [
+    "07:8550"
+   ],
+   "en": "No, I don't have time for that right now.\nStill, it might come in handy.\nI'll at least take it with me.{p}Okay, let's search somewhere else.\n"
+  },
+  {
+   "id": "07:16110",
+   "op": "text",
+   "follows_choice": [
+    "07:9210"
+   ],
+   "en": "I peeked into the cupboard.{p}"
+  },
+  {
+   "id": "07:16130",
+   "op": "text",
+   "en": "Test tubes, beakers and the like were lined up inside.\nNo matter how I looked at it, it didn't seem to be here.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:16190",
+   "op": "text",
+   "follows_choice": [
+    "07:921c"
+   ],
+   "en": "The teacher must use this desk for grading tests and such.\nWhen I pulled open the drawer, there were several notebooks inside.\nThey held long lists of students' names, with a few lines of comments beside them.\nCould this be the infamous teacher's black book I'd heard rumors about?\nOn any normal day, my heart would have been pounding.\nBut right now, I didn't have the luxury.\nAngry that I hadn't found the ampoule, I slammed the drawer shut.\nThere's nowhere else here worth looking.{p}"
+  },
+  {
+   "id": "07:16348",
+   "op": "text",
+   "en": "I examined the desk.{p}"
+  },
+  {
+   "id": "07:16364",
+   "op": "text",
+   "en": "Still, apart from a few notebooks in the drawer, there didn't seem to be anything unusual about it.\nAfter a quick look, I gave up.{p}Now, what should I do next?\n"
+  },
+  {
+   "id": "07:163ec",
+   "op": "text",
+   "follows_choice": [
+    "07:81ec"
+   ],
+   "en": "That's it, I'll make a phone call!{p}"
+  },
+  {
+   "id": "07:16424",
+   "op": "text",
+   "en": "I picked up the receiver.\nBut when I pressed the buttons, nothing happened.\nI see...\nThis is an extension handset that can only receive calls.\nI can't call out on this.{p}"
+  },
+  {
+   "id": "07:164dc",
+   "op": "text",
+   "en": "I have to find another phone.\n"
+  },
+  {
+   "id": "07:16510",
+   "op": "text",
+   "en": "I picked up the receiver.\nBut when I pressed the buttons, nothing happened.\nRight, this one can only receive calls.{p}"
+  },
+  {
+   "id": "07:16588",
+   "op": "text",
+   "en": "I have to find another phone.\n"
+  },
+  {
+   "id": "07:165bc",
+   "op": "text",
+   "en": "I picked up the receiver.\nBut right away I remembered that the phone line had been cut.\nThe phone is useless.{p}"
+  },
+  {
+   "id": "07:16638",
+   "op": "text",
+   "en": "I can't rely on anyone but myself.\n"
+  },
+  {
+   "id": "07:16658",
+   "op": "text",
+   "en": "I decided to go to the art room.\nBut I was uneasy.\nWould it really be in a place like that?{p}"
+  },
+  {
+   "id": "07:166c0",
+   "op": "text",
+   "en": "...The art room door was shut.\nDamn it.\nWithout the key, I can't get in anywhere.{p}"
+  },
+  {
+   "id": "07:16720",
+   "op": "text",
+   "en": "Where is the key?\n"
+  },
+  {
+   "id": "07:16738",
+   "op": "text",
+   "en": "I decided to head for the art room.\nSomehow, I had a kind of premonition about it.{p}"
+  },
+  {
+   "id": "07:16788",
+   "op": "text",
+   "en": "But why didn't I go inside earlier?\n...That's right, the key!\nI can't get in anywhere without finding the key first.\nWhat am I doing?\nI can't afford to waste even a minute.{p}So, where should I go?\n"
+  },
+  {
+   "id": "07:16860",
+   "op": "text",
+   "en": "I decided to go back to the art room once more.{p}"
+  },
+  {
+   "id": "07:16898",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:168a8",
+   "op": "text",
+   "en": "I'll try going back to the art room once more.{p}"
+  },
+  {
+   "id": "07:168dc",
+   "op": "text",
+   "en": "...Kazama's corpse was still there.\nI was careful not to look that way as much as I could.{p}What should I do?\n"
+  },
+  {
+   "id": "07:16940",
+   "op": "text",
+   "en": "I searched the shelves.{p}"
+  },
+  {
+   "id": "07:16958",
+   "op": "text",
+   "en": "No matter how much I searched, there was nothing but books.\nIt didn't seem to be here.{p}What should I do?\n"
+  },
+  {
+   "id": "07:169b8",
+   "op": "text",
+   "follows_choice": [
+    "07:94f4"
+   ],
+   "en": "I turned around.\n\"Whoa!\"\nThe person behind me cried out and reeled back.\nNow!{p}"
+  },
+  {
+   "id": "07:16a18",
+   "op": "text",
+   "en": "I slammed my shoulder into them.\n\"Ugh!\"\nA sharp pain shot through my shoulder.{p}"
+  },
+  {
+   "id": "07:16a74",
+   "op": "text",
+   "en": "Caught off guard, my attacker hit the floor with no fight at all.{p}"
+  },
+  {
+   "id": "07:16aa8",
+   "op": "text",
+   "follows_choice": [
+    "07:9724"
+   ],
+   "en": "Oh well.\nI loosened my grip a little.\nThen Kazama swung his hand up.{p}"
+  },
+  {
+   "id": "07:16b08",
+   "op": "text",
+   "en": "Something slammed hard into the arm I'd thrown up in a panic.\nYou bastard!\nI tightened my grip on his neck again.\n\"S-stop it...!\"\nA wood plane fell from Kazama's hand.\nSo he'd meant to hit me with this.\nHe'd nearly bashed my head in.{p}"
+  },
+  {
+   "id": "07:16bec",
+   "op": "text",
+   "follows_choice": [
+    "07:9888"
+   ],
+   "en": "\"Take that!\"{p}"
+  },
+  {
+   "id": "07:16c0c",
+   "op": "text",
+   "en": "I punched Kazama in the face.\n\"Bwuh!\"\nKazama glared at me with a ferocious look in his eyes.{p}What should I do?\n"
+  },
+  {
+   "id": "07:16c74",
+   "op": "text",
+   "follows_choice": [
+    "07:9890"
+   ],
+   "en": "\"How dare you try to kill me!\"\nI strangled Kazama with all my strength.\n\"Gueh... eh...\"\nKazama's eyes rolled back, and he was foaming at the mouth.\nAt this rate, he's going to die.\nA guy like this can die for all I care...\nBut there are still things I need to ask him.{p}I loosened my grip.\n"
+  },
+  {
+   "id": "07:16d74",
+   "op": "text",
+   "follows_choice": [
+    "07:98bc"
+   ],
+   "en": "I let go of Kazama...\nNo, forget it.\nI'm not getting attacked again.{p}I had no intention of letting go.\n"
+  },
+  {
+   "id": "07:16dec",
+   "op": "text",
+   "follows_choice": [
+    "07:9bb0"
+   ],
+   "en": "\"Take that!\"{p}"
+  },
+  {
+   "id": "07:16e0c",
+   "op": "text",
+   "en": "I punched Kazama in the face.\n\"Bwuh!\"\nKazama glared at me with a ferocious look in his eyes.{p}What should I do?\n"
+  },
+  {
+   "id": "07:16e74",
+   "op": "text",
+   "en": "\"Why are you trying to kill me? Answer me.\"\n\"I told you earlier, didn't I? It's for revenge.\"\nThat's right, he had.{p}What should I do?\n"
+  },
+  {
+   "id": "07:16ef0",
+   "op": "text",
+   "en": "\"Where's the ampoule?\"\n\"Hey, hey, you already asked me that. Are you okay?\"\nNot good, my head seems to be all muddled.{p}What should I do?\n"
+  },
+  {
+   "id": "07:16f78",
+   "op": "text",
+   "follows_choice": [
+    "07:a248"
+   ],
+   "en": "\"Take that!\"{p}"
+  },
+  {
+   "id": "07:16f98",
+   "op": "text",
+   "en": "I punched Kazama in the face.\n\"Bwuh!\"\nKazama glared at me with a ferocious look in his eyes.{p}What should I do?\n"
+  },
+  {
+   "id": "07:17000",
+   "op": "text",
+   "follows_choice": [
+    "07:a264"
+   ],
+   "en": "\"I'm sorry. I never meant to do something like this to you, senpai.\"\nWhen I apologized, Kazama seemed to take heart.\n\"As long as you understand. Anyway, how about letting go of me already?\"\nThat's a different matter.\nThis guy seems to be the type who gets cocky if you go easy on him.{p}Maybe I should change my approach.\n"
+  },
+  {
+   "id": "07:17128",
+   "op": "text",
+   "follows_choice": [
+    "07:9bf8"
+   ],
+   "en": "Okay, I'll let Kazama get away...\n...Wait, hold on a second!\nWhat am I saying?\nI'm so cornered I don't even know what I'm thinking anymore.\nI have to calm down.{p}Calm down and think about what the best move is.\n"
+  },
+  {
+   "id": "07:171f8",
+   "op": "text",
+   "en": "After thinking it over and over, this really was the only way.\nI let go of Kazama.\n\"Please, go. I have no intention of hurting you.\"{p}"
+  },
+  {
+   "id": "07:1727c",
+   "op": "text",
+   "en": "To show I was serious, I deliberately turned my back on him.\nNow he would understand my good faith.{p}"
+  },
+  {
+   "id": "07:172e0",
+   "op": "text",
+   "en": "...Just then, I sensed murderous intent behind me.{p}"
+  },
+  {
+   "id": "07:17310",
+   "op": "text",
+   "en": "A split second before I could turn around, the plane came swinging down on me.{p}"
+  },
+  {
+   "id": "07:17360",
+   "op": "text",
+   "en": "Then again, twice, three times...{p}"
+  },
+  {
+   "id": "07:17388",
+   "op": "text",
+   "en": "Damn it...!\nIt's too late for regrets now.{p}"
+  },
+  {
+   "id": "07:173cc",
+   "op": "text",
+   "en": "Kazama was still beating me.\nBut I couldn't even feel the pain anymore.\nI sank into true darkness.{p}"
+  },
+  {
+   "id": "07:17430",
+   "op": "text",
+   "follows_choice": [
+    "07:93a8"
+   ],
+   "en": "I decided to search the desks.{p}"
+  },
+  {
+   "id": "07:17450",
+   "op": "text",
+   "en": "I peered inside them one by one.\nIt's dark, so I can't really tell, but...\nHuh, what's this?\nWhen I pulled it out, it was a half-carved woodblock for a print.\nDid someone leave it behind?{p}"
+  },
+  {
+   "id": "07:174f4",
+   "op": "text",
+   "en": "...A woodblock print, huh.\nCome to think of it, there might be something in here I could use as a weapon.{p}"
+  },
+  {
+   "id": "07:17548",
+   "op": "text",
+   "en": "There doesn't seem to be anything else here.{p}Now, where should I look?\n"
+  },
+  {
+   "id": "07:17588",
+   "op": "text",
+   "en": "I searched the desks once more.{p}"
+  },
+  {
+   "id": "07:175ac",
+   "op": "text",
+   "en": "...There doesn't seem to be anything particularly suspicious.\n"
+  },
+  {
+   "id": "07:175d0",
+   "op": "text",
+   "en": "I searched the tool shelf.{p}"
+  },
+  {
+   "id": "07:175ec",
+   "op": "text",
+   "en": "There was no ampoule.\nBut there were plenty of saws, hammers and the like.\n\"...Looks like I'm going to have to fight those guys.\"\nI rummaged through the tool shelf.\nI wanted to take the whole toolbox, but it would be heavy and get in the way.\nFrom among the tools, I picked up a hammer and a saw.\nTwo-sword style.\nI felt like Miyamoto Musashi.\nThis was truly life or death.\nI jammed the hammer and the saw into my belt.\nJust then, I sensed someone behind me.\nI whirled around, and a figure leapt into view.\nOn reflex, I slammed my shoulder into it.{p}"
+  },
+  {
+   "id": "07:177c8",
+   "op": "text",
+   "en": "I searched the tool shelf.{p}"
+  },
+  {
+   "id": "07:177e4",
+   "op": "text",
+   "en": "There was no ampoule.\nBut there were plenty of saws, hammers and the like.\n\"...Looks like I'm going to have to fight those guys.\"\nI rummaged through the tool shelf.\nI wanted to take the whole toolbox, but it would be heavy and get in the way.\nFrom among the tools, I picked up a hammer and a saw.\nThe spot where I got hit earlier hurt a little.\nBut it wasn't bad enough to keep me from moving.{p}"
+  },
+  {
+   "id": "07:17924",
+   "op": "text",
+   "en": "I searched the tool shelf.{p}"
+  },
+  {
+   "id": "07:17940",
+   "op": "text",
+   "en": "There was no ampoule.\nBut there were plenty of saws, hammers and the like.\n\"...Looks like I'm going to have to fight those guys.\"\nI rummaged through the tool shelf.\nI wanted to take the whole toolbox, but it would be heavy and get in the way.\nFrom among the tools, I picked up a hammer and a saw.\nThe spot where I got hit earlier throbbed with pain.\nLooks like I pulled something.\nEven if I took both, I doubt I could use them.\nAfter thinking it over, I decided to take\nonly the saw.{p}"
+  },
+  {
+   "id": "07:17ad8",
+   "op": "text",
+   "en": "Just to be sure, I'll check one more time.\n...But there still doesn't seem to be anything.{p}Maybe I should look somewhere else.\n"
+  },
+  {
+   "id": "07:17b44",
+   "op": "text",
+   "en": "I decided to check the cupboard once more.{p}"
+  },
+  {
+   "id": "07:17b70",
+   "op": "text",
+   "en": "Other than Iwashita's painting from before, there's nothing really worth looking at.\nAnd of course, no ampoule either.{p}I gave up.\n"
+  },
+  {
+   "id": "07:17bdc",
+   "op": "text",
+   "follows_choice": [
+    "07:a92c"
+   ],
+   "en": "I looked at the desk.{p}"
+  },
+  {
+   "id": "07:17bf0",
+   "op": "text",
+   "en": "It was a big, battered old desk without even a drawer.\nDrawing boards were piled on it haphazardly.{p}There doesn't seem to be anything here.\n"
+  },
+  {
+   "id": "07:17c50",
+   "op": "text",
+   "en": "All right, I'll go to the nurse's office.\nSomehow I have a hunch it might be there.{p}"
+  },
+  {
+   "id": "07:17ca8",
+   "op": "text",
+   "en": "I put my hand on the nurse's office door.{p}"
+  },
+  {
+   "id": "07:17cd8",
+   "op": "text",
+   "en": "...It won't open?\nOh, right, it's locked.\nAnd not just here.\nWithout the key, I can't get in anywhere.{p}"
+  }
+ ]
+}

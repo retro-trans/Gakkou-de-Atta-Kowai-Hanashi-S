@@ -1,0 +1,840 @@
+{
+ "chunk": "E021",
+ "scene": "10",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "slices": [
+  "S044",
+  "S045"
+ ],
+ "prev": "E020",
+ "next": "E022",
+ "todo": [],
+ "rows": [
+  {
+   "id": "10:1088",
+   "op": "text",
+   "en": "...Something about this feels wrong, doesn't it?\nThe people who told their stories just disappearing like that.\nIwashita and Kazama are already gone.\n...And now it's my turn to talk, is it?{p}"
+  },
+  {
+   "id": "10:113c",
+   "op": "text",
+   "en": "Let me start by introducing myself.\nI'm Shoji Arai, from Class 2-B.\n...Pleased to meet you.\nHave any of you ever seen a suicide?\nI have, you know.\nSomeone jumping to their death.\nAnd twice, no less.{p}"
+  },
+  {
+   "id": "10:120c",
+   "op": "text",
+   "en": "The first time, the person had already jumped.\nIt seems they jumped from dozens of meters up, and there was nothing left of their original shape.\nYou know how sometimes a dog or cat that got run over by a car just gets left lying there, never cleared away?\nHaven't you ever seen one?\nThose are almost cute by comparison.\nYou couldn't tell whether it was a person or just a lump of meat.\nBlood and bits of flesh were splattered over a pretty wide area.\nThe people who saw it turned their faces away, going 'Ugh, how awful,' and yet every one of them kept looking out of the corner of their eye as they walked past.\nHumans are strange creatures, aren't they?{p}"
+  },
+  {
+   "id": "10:1404",
+   "op": "text",
+   "en": "The second time, I saw the very moment of the jump.\nIt was from the third floor of a small building.\nApparently it came out of a lovers' quarrel that got out of hand.\nIt was a woman who jumped.\nWith that type, you never know whether they really meant to die.\nI'm sure she only meant to scare the man.\nBut things had gone too far, and she couldn't back down...\nThat's how it looked.\nAt the moment she jumped, she had a face like a demon's.\nSo a human face can turn into something like that.\nThat was the first time I learned it.\n...She was alive.\nAfter she hit the ground she lay there without moving, but you could hear her groaning.\nI'll never forget that groaning.\nI've never heard a voice that stuck in my ears like that one.\nShe was in real agony.\nAnd there was bone sticking out of her leg.\nThe blood wasn't as red as I'd expected.\nThinking back now, I feel like it was cherry-blossom pink.\nThat's how it looked to my eyes.\nMaybe the blood soaked into the bone was what made it look that color.{p}"
+  },
+  {
+   "id": "10:17ac",
+   "op": "text",
+   "en": "And apparently, when you jump, it wrecks your internal organs.\nAt the moment you hit the ground, the organs can't withstand the shock and the pressure.\nSo even if you survive, in a lot of cases you end up with damage to your organs.\nI'm not a doctor, though, so I can't tell you whether that's true or not.\n...By the way, do you know what sound a jumper makes?\nThe sound at the instant a body slams into the ground.\nYou know those sheets of corrugated tin?\nThe thin sheets, the wavy kind.\nWell, you lay one of those on soft ground.\nThen you take a stone like a pickling stone, big enough that you have to hold it in both arms, and drop it from about chest height.\nThey say the sound it makes is exactly like a person slamming into the ground.\nA fairly heavy, dull sound, wouldn't you say?\nThe human body looks pretty soft, doesn't it?\nBut apparently, when it slams into the ground, it's as if the hard bones hit it directly.\nActually, when I saw it, there wasn't much of a dull sound.\nI think it was a drier sound.\nMaybe you have to fall from somewhere higher to get that kind of dull sound.{p}"
+  },
+  {
+   "id": "10:1b9c",
+   "op": "text",
+   "en": "For instance, I wonder what sound it would make if someone jumped off the roof of the new school building.\nIt's the roof of a four-story building.\nIf someone fell from that height, would they survive?\nOr would they die instantly?{p}Which do you think it would be?\n"
+  },
+  {
+   "id": "10:1c70",
+   "op": "choice",
+   "en": "I don't think they'd die instantly"
+  },
+  {
+   "id": "10:1c84",
+   "op": "choice",
+   "en": "I think they'd die instantly"
+  },
+  {
+   "id": "10:1c94",
+   "op": "choice",
+   "en": "There's no way I could know that"
+  },
+  {
+   "id": "10:1cac",
+   "op": "text",
+   "en": "...I see.\nSo that's what you think.{p}",
+   "follows_choice": [
+    "10:1c84"
+   ]
+  },
+  {
+   "id": "10:1cf8",
+   "op": "text",
+   "en": "Actually, there was a student who tested it, a long time ago.\nIt wasn't that he was unhappy with school or his private life, or that he had anything troubling him.\nHe got along fine with his friends, too.\nHe just couldn't stop wondering what would happen to someone who fell to their death from that height.\nWhenever he thought about it, it nagged at him and nagged at him, until he simply had to find out.\nDo you think that's strange?\nBut I understand how he felt.{p}"
+  },
+  {
+   "id": "10:1e8c",
+   "op": "text",
+   "en": "Haven't you ever been holding a needle or something and thought, 'It would really hurt if I jabbed this under my fingernail'?\nWhen you're deep-frying something, haven't you ever thought, 'What would happen if I plunged my hand into this oil'?\nDon't people have moments when they can't help turning on themselves?\nAnd then they imagine it actually happening and get a little shiver of excitement.\nI do that sort of thing, you know.{p}What about you? Don't you?\n"
+  },
+  {
+   "id": "10:2028",
+   "op": "choice",
+   "en": "Yes, I do"
+  },
+  {
+   "id": "10:2030",
+   "op": "choice",
+   "en": "No, I don't"
+  },
+  {
+   "id": "10:2038",
+   "op": "text",
+   "en": "...I see.\nSo you don't.\nThen maybe I'm the abnormal one after all.\nBut I believe that every human being has a moment when they think things like that.\nI think that's what human weakness is.{p}",
+   "follows_choice": [
+    "10:2030"
+   ]
+  },
+  {
+   "id": "10:2120",
+   "op": "text",
+   "en": "So the boy who got curious about the school roof... maybe he just happened to have those self-destructive moments one after another, don't you think?\nThe boy's name was Nobuhiko Aizawa.\nFrom what I hear, he was a perfectly, truly ordinary person.\nThat's exactly why I think so.\n\"Hey, if you jumped off the roof of this building, do you think you'd survive?\"\n\"Nobuhiko. Have you gone screwy in the head or something?\nWhere'd that come from all of a sudden?\"\nWhen he asked his friends about it, that's what they said, and they laughed at him.\nThe more seriously Aizawa said it, the funnier his friends thought the joke was, and they laughed even harder.\nAizawa was an ordinary person, after all.\nHe didn't press them any further; when his friends laughed, he laughed right along with them.{p}"
+  },
+  {
+   "id": "10:23d8",
+   "op": "text",
+   "en": "Even so, whenever he was alone, he agonized over it.\nHe didn't know why it bothered him so much, and he even wondered whether he himself had gone strange.\nStill, the only way to settle it was to actually find out.\nJump himself...\nOr push somebody else off.\nEvery time the thought came to him, he told himself he mustn't think such stupid things. But the harder you hold back, the less you can contain a desire.\nAnd the stronger the desire, the truer that is.\nAs the days went by, one after another, the desire grew too, and it was only a matter of time before it broke through the shell of reason trying to hold it down.{p}"
+  },
+  {
+   "id": "10:261c",
+   "op": "text",
+   "en": "He started keeping a notebook.\nIn the notebook he scrawled, in no particular order, the names of people connected to the school, starting with his classmates.\nUpperclassmen, underclassmen, even teachers.\nHe had begun choosing who should be pushed off the roof.\nAnd at the top of that list was his own name.\nPerhaps that was the last scrap of reason he had left.{p}"
+  },
+  {
+   "id": "10:278c",
+   "op": "text",
+   "en": "I can't stand it anymore.\nI have to see someone fall from the roof.\nAnd I want to know whether they survive!{p}"
+  },
+  {
+   "id": "10:27f8",
+   "op": "text",
+   "en": "The desire had grown to its full size.\nAnd he made up his mind to take the step that must never be taken.{p}The problem was: who would be the victim of the experiment?\nThe moment he thought that, perhaps the devil already had him under its spell.\n"
+  },
+  {
+   "id": "10:28cc",
+   "op": "choice",
+   "en": "Himself"
+  },
+  {
+   "id": "10:28d4",
+   "op": "choice",
+   "en": "A teacher he didn't like"
+  },
+  {
+   "id": "10:28e8",
+   "op": "choice",
+   "en": "A student he didn't like"
+  },
+  {
+   "id": "10:2908",
+   "op": "text",
+   "en": "There weren't really any students he didn't like.\nHe got along reasonably well with everyone, and by nature he just couldn't bring himself to dislike people.\nSo he thought it over.\nEvery school has its delinquents.\nAt his school, too, plenty of students had suffered at their hands.\nIf he pushed one of the delinquents off the roof, then even if he died, more people would be glad than not.\nThat's what Aizawa told himself.\nHe told himself that to justify, even a little, what he was about to do.\nThe target was decided.\nTatsuya Kuwahata, one of a gang of delinquents.{p}",
+   "follows_choice": [
+    "10:28e8"
+   ]
+  },
+  {
+   "id": "10:2b58",
+   "op": "text",
+   "en": "He hurriedly worked out a plan and put it into action right away.\nHe was dying to carry it out as soon as he possibly could.\nLuring a delinquent out was easy.\nHe said there was a guy he wanted roughed up, and he'd pay for it.\nKuwahata jumped at the offer right away.\n...Never dreaming that he would soon be pushed off the roof.\nThen, when Kuwahata came up to the roof, Aizawa watched for an opening and made him breathe in the chloroform he had prepared in advance.\nKuwahata went limp at once, before he could even struggle.{p}"
+  },
+  {
+   "id": "10:2d20",
+   "op": "text",
+   "en": "Trembling with excitement that his wish would soon come true, Aizawa dragged Kuwahata's body across the roof to the edge.\nThere was a fence around the roof, but it wasn't very high.{p}"
+  },
+  {
+   "id": "10:2de0",
+   "op": "text",
+   "en": "Then he hoisted Kuwahata onto his shoulder, leaned out over the fence, and peered down.\nIt was only a little over ten meters above the ground, but it still made his head spin.\nNow that he was actually facing it, Aizawa felt a moment of hesitation.{p}Was it really all right to go through with this?\n"
+  },
+  {
+   "id": "10:2ed8",
+   "op": "choice",
+   "en": "Drop Kuwahata"
+  },
+  {
+   "id": "10:2ee8",
+   "op": "choice",
+   "en": "Think better of it"
+  },
+  {
+   "id": "10:2ef4",
+   "op": "choice",
+   "en": "Jump himself after all"
+  },
+  {
+   "id": "10:2f0c",
+   "op": "text",
+   "en": "He had come this far.\nIf he didn't do it now and Kuwahata figured it out later, there was no telling what would happen to him.\nBesides, the guy was hated by everyone, wasn't he?\nTelling himself the world would be better off without him, Aizawa finally pushed Kuwahata off the roof.{p}",
+   "follows_choice": [
+    "10:2ed8"
+   ]
+  },
+  {
+   "id": "10:301c",
+   "op": "text",
+   "en": "Maybe because he was unconscious, he fell like a mannequin, hit the ground, and lay there without moving.\n\"......I can't really tell from up here.\"{p}"
+  },
+  {
+   "id": "10:30d0",
+   "op": "text",
+   "en": "Aizawa ran down the stairs as fast as he could to see whether Kuwahata was alive or dead.\nIt was after school and the place was deserted, so luckily no one came crowding around or raised an alarm.{p}"
+  },
+  {
+   "id": "10:3184",
+   "op": "text",
+   "en": "By the time Aizawa got there, a pool of blood had already spread far and wide around Kuwahata, who lay limp and motionless.\nHe watched him closely for a while, but there was no sign of movement.\nWhen he touched him, the body had already gone cold.{p}"
+  },
+  {
+   "id": "10:328c",
+   "op": "text",
+   "en": "\"...He's dead.\"\nAizawa smiled, satisfied.\nNow he knew the result, and the weight on his heart was gone.{p}"
+  },
+  {
+   "id": "10:3310",
+   "op": "text",
+   "en": "Relieved, Aizawa slept soundly that night for the first time in a very long while.{p}Do you think Kuwahata really died?\n"
+  },
+  {
+   "id": "10:337c",
+   "op": "choice",
+   "en": "I think he died"
+  },
+  {
+   "id": "10:338c",
+   "op": "choice",
+   "en": "He was actually alive"
+  },
+  {
+   "id": "10:33bc",
+   "op": "text",
+   "en": "The next day at school, everyone was talking about Kuwahata.\nHis death had been settled as a suicide.\nKuwahata had always been a problem student, so no one looked too deeply into the cause.\nFor a while after that, Aizawa got to enjoy a wonderfully refreshing school life.\n...But it lasted only a short time.\nAs time went on, a problem cropped up again.{p}",
+   "follows_choice": [
+    "10:337c"
+   ]
+  },
+  {
+   "id": "10:3528",
+   "op": "text",
+   "en": "Maybe Kuwahata had died back then because he'd been unconscious.\nIf he hadn't been made to breathe the chloroform, maybe he wouldn't have died...?\nWhen he thought that, he couldn't stop himself from checking again.\nHah, there are still plenty of delinquents.\nPush two or three more off and nobody'll be any worse off.\nAizawa thought such things with a smirk; by now there wasn't the slightest trace of guilt left in him.{p}"
+  },
+  {
+   "id": "10:36b8",
+   "op": "text",
+   "en": "The next day, the second experiment was carried out.\nThis time, he hit the delinquent he'd called out from behind with a bat, and pushed him off while he was weakened.\n\"...Just as I thought.\nDead again.\"\nThis time the head had split open and its contents had spilled out; one look was enough to tell he was dead.{p}"
+  },
+  {
+   "id": "10:37bc",
+   "op": "text",
+   "en": "And once again, the school wrote it off as a suicide.\nEven so, his satisfaction lasted only an instant.\nThis time, maybe he'd died because of the blow from the bat.\nWhen he thought that, he couldn't stop himself from testing another method.\nAnd so he did it again.{p}"
+  },
+  {
+   "id": "10:38c8",
+   "op": "text",
+   "en": "This time, after knocking his victim out with chloroform, he tied his hands and feet, waited for him to wake up, and then pushed him off.\n\"...Dead again.\nSo they do die after all.\"\nThis time, surely, he would be satisfied.\nAizawa was certain of it.\nBut satisfaction never came.\nThat might have been just a fluke.\nMaybe people don't really die.\nA human being couldn't die that easily.\nWhen he thought that, he wanted to run the experiment again so badly he couldn't sit still.{p}"
+  },
+  {
+   "id": "10:3a70",
+   "op": "text",
+   "en": "But when three delinquents had killed themselves one after another, even the school couldn't keep quiet any longer.\nWas a war breaking out between delinquents, or was some other problem at work? The police investigation grew tougher as well.\nAnd as a first step, the roof was put off-limits.{p}"
+  },
+  {
+   "id": "10:3b7c",
+   "op": "text",
+   "en": "That only sent Aizawa's desire soaring even higher.\nHe was dying to run the experiment one more time somehow, even if he had to sneak into the school in the middle of the night.\nBut the delinquents seemed to be frightened; no matter how smoothly Aizawa tried to talk them into it, none of them would take the bait.\nThe wolves had had their fangs pulled and had become as meek as puppies.\nThat fanned the flames of his desire even higher.\nAnd at last, Aizawa decided to sink his venomous fangs into one of his close friends.{p}"
+  },
+  {
+   "id": "10:3d48",
+   "op": "text",
+   "en": "\"...There's something I need to talk to you about.\nSorry, but would you hear me out?\"\nWith that, he lured one of his friends out to a park in the middle of the night.{p}The problem was what to do after that.\n"
+  },
+  {
+   "id": "10:3dd8",
+   "op": "choice",
+   "en": "Knock the friend out with chloroform"
+  },
+  {
+   "id": "10:3df0",
+   "op": "choice",
+   "en": "Beat the friend with a bat"
+  },
+  {
+   "id": "10:3e04",
+   "op": "choice",
+   "en": "Strangle the friend to death right there"
+  },
+  {
+   "id": "10:3e44",
+   "op": "text",
+   "en": "Once he'd called the friend out, he suddenly attacked from behind and made the friend breathe in chloroform.\nJust like the first experiment, it worked without a hitch.\nBut now he had to haul this limp guinea pig all the way to the school roof.{p}",
+   "follows_choice": [
+    "10:3dd8"
+   ]
+  },
+  {
+   "id": "10:3f28",
+   "op": "text",
+   "en": "Aizawa stuffed the guinea pig into a burlap sack he had prepared in advance and carried it on his back to the school.\nThen he snuck into the school at night and silently made his way up to the roof.\nOf course, the door was locked.\nHe broke the lock with pliers and a hammer, and the wind came gusting in; he took it full against his body.{p}"
+  },
+  {
+   "id": "10:4048",
+   "op": "text",
+   "en": "Who knew the school at night could feel this good?\nThinking that, he took a deep breath and dragged the sack out after him.\n\"...This is my first time at school at night.\"\nAizawa tossed the sack down in a corner of the roof and for a while enjoyed the night view from up there.{p}"
+  },
+  {
+   "id": "10:4154",
+   "op": "text",
+   "en": "He felt as if he had become the king of this world.\nAny of those wretched humans he could see from this spot, he could put an end to their lives any time he pleased.\nThe thought struck him as hilarious.{p}"
+  },
+  {
+   "id": "10:422c",
+   "op": "text",
+   "en": "After indulging in such thoughts for a while, he finally set about the experiment.{p}"
+  },
+  {
+   "id": "10:4274",
+   "op": "text",
+   "en": "But then...\nThe sack lay there flat, like it had lost all its air!\nWhile he'd been lost in the night view, the guinea pig had come to and escaped.\n\"Aaaaaaaaaagh!\"\nAizawa screamed in frustration and grief.{p}"
+  },
+  {
+   "id": "10:4358",
+   "op": "text",
+   "en": "When he looked, he could see something like an ant running across the schoolyard.\nIt was the guinea pig that had escaped from the sack.\nEven if he chased after it now, there was no way he would catch up.\nJust then, mixed in with the wind, Aizawa heard someone's voice calling.{p}"
+  },
+  {
+   "id": "10:4444",
+   "op": "text",
+   "en": "When he happened to look down, the earth was beckoning to him.\nHe even had the illusion that it was opening its huge mouth wide, waiting for its prey to fall.\nAfter all, the soil down there had sucked up the blood of three people.\nIt would be no wonder at all if it had acquired a taste for blood.\nAizawa put his hand on the fence.{p}Then he leaned out even further and stared at the waiting ground.\n"
+  },
+  {
+   "id": "10:4580",
+   "op": "choice",
+   "en": "Jump"
+  },
+  {
+   "id": "10:458c",
+   "op": "choice",
+   "en": "Think better of it"
+  },
+  {
+   "id": "10:4598",
+   "op": "text",
+   "en": "There was no escaping it anymore.\n\"I have to do the experiment, no matter what...\"{p}",
+   "follows_choice": [
+    "10:4580"
+   ]
+  },
+  {
+   "id": "10:4610",
+   "op": "text",
+   "en": "Muttering as if possessed, Aizawa threw himself off, his eyes wide open.{p}"
+  },
+  {
+   "id": "10:467c",
+   "op": "text",
+   "en": "The next day, the school was in an uproar.\nThe friend who had escaped from Aizawa had confessed everything.{p}"
+  },
+  {
+   "id": "10:46e4",
+   "op": "text",
+   "en": "Then, when they searched Aizawa's house, they found everything that had happened recorded in detail in his diary.\nAnd, astonishingly, even the events of his final moments the night before, which he couldn't possibly have written.\nIt was written down as if he had foreseen how things would turn out.{p}"
+  },
+  {
+   "id": "10:47d0",
+   "op": "text",
+   "en": "Naturally, neither the police nor the school believed that part.\nSomeone who threw himself off a roof couldn't possibly write down everything up to the very instant of his death.\nThe diary ended like this.{p}"
+  },
+  {
+   "id": "10:4888",
+   "op": "text",
+   "en": "'Dad, Mom, and everyone.\nI am going to be eaten by the monster that lives on the roof.\nIf I do not become its sacrifice, there will be more and more victims.\nI am setting off on a journey. Goodbye.'{p}"
+  },
+  {
+   "id": "10:495c",
+   "op": "text",
+   "en": "The police concluded that he had run away from home.\nAnd a search party was organized.\nBut he was never found.\nDo you understand why they did that?\nAizawa's body was never found.\nAizawa was supposed to have jumped from the roof, yet not only was there no body, there wasn't a single trace of him.\nIf it had been found, the police might have interpreted things differently.{p}"
+  },
+  {
+   "id": "10:4ac4",
+   "op": "text",
+   "en": "Was Aizawa really eaten by the monster that's said to live on the roof?\nOr did he never jump at all, and set off on a journey somewhere?{p}"
+  },
+  {
+   "id": "10:4b50",
+   "op": "text",
+   "en": "Now, everything is still shrouded in mystery.\nAnd that's the end of my story.\nWell then, I'll hand things over to the next person.{p}"
+  },
+  {
+   "id": "10:4bd4",
+   "op": "text",
+   "en": "...To tell you the truth, I know, you see.\nWhere Aizawa is.{p}Would you like to know?\n"
+  },
+  {
+   "id": "10:4c30",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "10:4c3c",
+   "op": "choice",
+   "en": "I don't want to know"
+  },
+  {
+   "id": "10:4c4c",
+   "op": "choice",
+   "en": "I'm not particularly interested"
+  },
+  {
+   "id": "10:4c5c",
+   "op": "text",
+   "en": "I see.\nThe truth is, Aizawa is still on the roof, even now.{p}",
+   "follows_choice": [
+    "10:4c30"
+   ]
+  },
+  {
+   "id": "10:4c98",
+   "op": "text",
+   "en": "What?\nYou've been up on the roof, but there was nobody like that?\nHeh heh heh... Well, of course not.\nYou can't see Aizawa under ordinary circumstances.\nIf you like, shall I let you meet him?\nWhat do you say?{p}Why don't we all go up to the roof together, right now?\n"
+  },
+  {
+   "id": "10:4da0",
+   "op": "choice",
+   "en": "Go up"
+  },
+  {
+   "id": "10:4da8",
+   "op": "choice",
+   "en": "Don't go up"
+  },
+  {
+   "id": "10:4dc0",
+   "op": "text",
+   "en": "Well then, let's go.\n...I do think the story that a monster lives in this school is true.\nI can't shake the feeling, myself, that someone is possessed by something.\nNo, I don't mean me.\nI mean all of you at this school.\nThough I suppose that includes me, too.{p}",
+   "follows_choice": [
+    "10:4da0"
+   ]
+  },
+  {
+   "id": "10:4ed4",
+   "op": "text",
+   "en": "Does this school hold some kind of secret, I wonder?\n...We're getting close to the roof now.\nLook, once we climb these stairs, the roof is right there.{p}"
+  },
+  {
+   "id": "10:4f80",
+   "op": "text",
+   "en": "Feels nice, doesn't it?\nThe summer wind is warm and muggy, and truly pleasant.\nCome, {a}{f:.|.}\nWhy don't you try it too?\nLook down from this roof.\nFrom barely a dozen meters up, people already look like ants, don't they?\nWouldn't you like to give yourself to this school as well?\nWhat do you say?\nWouldn't you like to be free of it all?\nWouldn't you like to set off on a journey?{p}Just like Aizawa did...\n"
+  },
+  {
+   "id": "10:50f4",
+   "op": "choice",
+   "en": "I'll set off on a journey"
+  },
+  {
+   "id": "10:5100",
+   "op": "choice",
+   "en": "I have no intention of setting off on any journey"
+  },
+  {
+   "id": "10:5114",
+   "op": "text",
+   "en": "...I see.\nPerhaps it's still too early for you.{p}",
+   "follows_choice": [
+    "10:5100"
+   ]
+  },
+  {
+   "id": "10:5154",
+   "op": "text",
+   "en": "Oh yes, I promised to let you meet Aizawa.\nMeeting Aizawa is easy, you know.\nYou just say this:\n\"Aizawa, let's begin the experiment.\"{p}Simple, isn't it?\n"
+  },
+  {
+   "id": "10:51ec",
+   "op": "choice",
+   "en": "Say those words"
+  },
+  {
+   "id": "10:5204",
+   "op": "choice",
+   "en": "Say nothing"
+  },
+  {
+   "id": "10:5214",
+   "op": "text",
+   "en": "\"So if I say it, I'll get to meet him?\"\n{f:I|I} asked him back.{p}",
+   "follows_choice": [
+    "10:51ec"
+   ]
+  },
+  {
+   "id": "10:526c",
+   "op": "text",
+   "en": "Arai's eyes looked as if they were gazing at something far away.\nThe three who hadn't told their stories yet silently watched the exchange between Arai and {f:me|me}.\n\"Arai.\nMay I ask you one thing?\nWhat is it that's in this school?\nWhat are you saying everyone is possessed by?\"{p}"
+  },
+  {
+   "id": "10:5380",
+   "op": "text",
+   "en": "Arai gave a broad smile.\n\"Say it, please. Say those words.\nThen you might understand.\"\nIt was true: something was in this school.\n{f:I|I} {f:had sensed it myself|could sense it too}.\n{f:I|I} nodded at Arai's words.\nAnd then... I said it.\n\"Aizawa.\nLet's begin the experiment!\"\nIt happened in that very instant.{p}"
+  },
+  {
+   "id": "10:54dc",
+   "op": "text",
+   "en": "\"It's Aizawa!\nLook, it's Aizawa!\"\nArai, who had been gripping the railing beside {f:me|me}, suddenly pointed into the empty air and climbed right over it.{p}",
+   "returns": []
+  },
+  {
+   "id": "10:5578",
+   "op": "text",
+   "en": "\"Look out!\"\nBefore {f:I|I} could even reach out, Arai's body was flying through the air.{p}"
+  },
+  {
+   "id": "10:55dc",
+   "op": "text",
+   "en": "And as he plunged toward the ground... he suddenly vanished{f:.|.}\nIt was as if his particles had come apart and melted straight into the air; he was gone without a trace{f:.|.}\n{f:I|I} slowly looked up at the sky, stunned.{p}"
+  },
+  {
+   "id": "10:56e4",
+   "op": "text",
+   "en": "\"Ah!\"\nA huge skull, so vast it covered the whole sky, was floating up there.\n{f:Was that|Could that be} what Arai had pointed at?\n\"...Is that Aizawa?\"{p}"
+  },
+  {
+   "id": "10:57a0",
+   "op": "text",
+   "en": "The skull vanished in an instant.\nBefore I knew it, the three who were left had gathered around {f:me|me}.\n\"What now? Three of 'em have vanished on us.\nYou still gonna keep this going?\"\nOne of them said it.\nWhat should I do?\nI never dreamed it would come to this.\nMaybe I could still turn back now.\nIf I kept on like this, I felt I'd only sink in deeper...\nI couldn't shake that feeling.\nWas what was happening around {f:me|me} right now real...\nOr was it an illusion...{p}Should I really keep going like this{f:?|?}\n"
+  },
+  {
+   "id": "10:59a0",
+   "op": "choice",
+   "en": "Continue"
+  },
+  {
+   "id": "10:59a8",
+   "op": "choice",
+   "en": "Stop"
+  },
+  {
+   "id": "10:59b0",
+   "op": "text",
+   "en": "\"Let's do it.\n...If it's all right with all of you.\nI feel like we can't let it end like this.\"\nThe three nodded in silence.{p}",
+   "follows_choice": [
+    "10:59a0"
+   ]
+  },
+  {
+   "id": "10:5a34",
+   "op": "text",
+   "en": "And so {f:we|we} left the roof and {f:went back|decided to go back} to the newspaper club room.\n{f:I|I} hoped nothing would happen during the fourth story...{p}"
+  },
+  {
+   "id": "10:5ad8",
+   "op": "text",
+   "en": "I see.\nIt's true that when you're healthy, you probably don't think people die all that easily.\nThen let's shift the topic a little, toward life and death.{p}{a}{f:,|,} you get scared when you climb up somewhere high, don't you?\n",
+   "follows_choice": [
+    "10:1c70"
+   ]
+  },
+  {
+   "id": "10:5bb8",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "10:5bc0",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "10:5bc8",
+   "op": "text",
+   "en": "Of course.\nThat's proof that you're normal, {a}{f:.|.}\nEveryone has what they call a defensive instinct, it seems...\nBut there was once someone who felt no fear at all, no matter how frightening the place.{p}",
+   "follows_choice": [
+    "10:5bb8"
+   ]
+  },
+  {
+   "id": "10:5cb4",
+   "op": "text",
+   "en": "His name was Uehara, and he often bragged about how brave he was.\nHe'd sit at the window in dangerous poses; even in little everyday things, he loved to do something risky.\nHe was on the rugby team.\nAnd on that team, something like this happened.\n\"If you jump off the roof and live, I'll make you a starter on the spot.\"\nThat's what an upperclassman on the rugby team said to the new members.\nOf course, he must have figured no one would ever do it.\nThe juniors were stung.\n\"Hey, Uehara, you do it.\"\n\"Come on, you'd die, no matter what.\"\n\"Jumping off the roof isn't a question of guts or stamina.\nYou'd die for sure.\"{p}"
+  },
+  {
+   "id": "10:5f00",
+   "op": "text",
+   "en": "\"But it's galling, isn't it? Him saying that 'cause he thinks we can't do it.\"\nUehara listened to their talk in silence.\nOf course, both the upperclassman and Uehara's friends had only said it as a joke.\nNo one would ever actually do such a thing.\nBut from then on, Uehara couldn't get the idea of jumping off the roof out of his head.\n(Would I really die for sure?)\nUehara couldn't stop wondering about it.\nWhenever he had a spare moment, he started going to the roof to look down at the ground.{p}"
+  },
+  {
+   "id": "10:60ac",
+   "op": "text",
+   "en": "One time, he climbed over the railing and went outside it.\nOutside the railing, there was a ledge only a dozen or so centimeters wide.\n\"Whoaaa, this feels amazing!\"\nUehara felt a thrill he had never known before.\nAfter that, he often went out past the railing on the roof.{p}"
+  },
+  {
+   "id": "10:61b8",
+   "op": "text",
+   "en": "\"Announcing the starters..........\"\nThe rugby team's starters were announced.\n\"Uehara, .......\"\nHe had made the starting lineup as a first-year.\n\"Uehara, you earned that spot on your own merit.\nSo quit going up to the roof now.\"\n\"Oh... okay.\"\nEveryone on the team laughed.\nBut Uehara didn't stop going up to the roof.{p}"
+  },
+  {
+   "id": "10:630c",
+   "op": "text",
+   "en": "Then one day, a corpse was found in the water tank on the roof, and the roof was off-limits for a while.\nUehara was dying to go up there.{p}"
+  },
+  {
+   "id": "10:63b4",
+   "op": "text",
+   "en": "One night, he finally snuck into the school and went up to the roof.\nAfter so long, the roof felt exhilarating.\nThen he climbed over the railing and stepped outside it.\n\"I want to stay here forever.\"\nUehara murmured that to himself.{p}"
+  },
+  {
+   "id": "10:647c",
+   "op": "text",
+   "en": "And then he quietly stood up and jumped.\nIt was an exhilaration unlike anything he had ever felt.\nAnd as he felt death, he realized it clearly:\nhe had wanted to die all along.{p}",
+   "returns": []
+  },
+  {
+   "id": "10:6540",
+   "op": "text",
+   "en": "He died.\nIf you jump off the roof of the new school building, you die.\nThat's why he liked being on the roof, you see.\nFeeling death was a joy to him.\nAfter that incident, the roof was off-limits for a while.\nBut why don't you try sneaking up there sometime?\nI hear Uehara is there.\nThey say he jumps off the roof every night.\nAnd when someone comes, they say Uehara tells them this:\n\"Let's jump together.\"{p}And that's the end of my story.\nNext, please.{p}"
+  },
+  {
+   "id": "10:6710",
+   "op": "text",
+   "en": "I see.\nThat's a serious matter, you know.\nWell, I'll talk about that some other time.{p}",
+   "follows_choice": [
+    "10:5bc0"
+   ]
+  },
+  {
+   "id": "10:6798",
+   "op": "text",
+   "en": "This time, rather than fear, I'd like to tell you about someone who had little sense of the worth of life.\nThough high schoolers these days seem to lean that way a bit, too.\nThey say it's because, with nuclear families and housing conditions and so on, many people have never seen a relative or a pet die up close.\nThat's why so many juvenile crimes lately are so cruel, or so the story goes.\nPeople actually die surprisingly easily, though.\nI used to be the same as you, {a}{f:,|,} and never gave death a thought.\nBut the incident I'm about to tell you made me start thinking about life.{p}"
+  },
+  {
+   "id": "10:6994",
+   "op": "text",
+   "en": "There was a student who could kill the animals in the school's animal hutch without batting an eye.\nEach time, a teacher scolded him, but the lectures appealed to his feelings, so he couldn't understand the scolding at all.\n\"Morikawa, don't you feel sorry for them?\"\n\"Sorry.\"\nTo him, it felt like no more than breaking some school equipment.\n\"You eat meat and fish yourself, don't you? Then quit eating it.\"\nHe looked like he wanted to say something like that.\nEven on his way home, if he found a handy little animal, he would torment it to death.{p}"
+  },
+  {
+   "id": "10:6b78",
+   "op": "text",
+   "en": "Then one day, Yoko Nakayama, a girl in his class, brought her pet hamster to school.\n\"Yoko, it's so cute!\"\n\"You'll be in big trouble if the teacher finds out.\"\n\"Let's all keep it safe.\"\nEveryone doted on the hamster.{p}"
+  },
+  {
+   "id": "10:6c5c",
+   "op": "text",
+   "en": "But when Morikawa saw that hamster, he wanted to torment it.{p}"
+  },
+  {
+   "id": "10:6ca4",
+   "op": "text",
+   "en": "At first, he held back.\n\"Come on, it's Nakayama's pet, after all.\"\nBut holding back only made the urge grow stronger.\nMorikawa waited for his chance.\nThird period ended.{p}"
+  },
+  {
+   "id": "10:6d9c",
+   "op": "text",
+   "en": "Several girls gathered around Nakayama.\n\"Next is P.E.\"\n\"Yoko, what are you going to do with the hamster?\"\n\"It'll be fine. It'll stay quiet in my bag for an hour or so.\"\nTalking like that, they headed off to the changing room.{p}"
+  },
+  {
+   "id": "10:6e8c",
+   "op": "text",
+   "en": "This is my chance, Morikawa thought.\nHe told the teacher he had a stomachache and sat out P.E.\nFor a while he lay in the nurse's office, but after about ten minutes he slipped out of bed and went back to the classroom.{p}"
+  },
+  {
+   "id": "10:6f50",
+   "op": "text",
+   "en": "The classroom was dead silent; faint voices drifted in from the class next door.\nAfter making sure there was no one in the hallway, Morikawa went over to Nakayama's desk.{p}"
+  },
+  {
+   "id": "10:6fe8",
+   "op": "text",
+   "en": "Then he opened her bag and took out the hamster.\nHe tormented it mercilessly until it was dead.{p}What do you think he did with the hamster after that?\n"
+  },
+  {
+   "id": "10:7088",
+   "op": "choice",
+   "en": "He threw it in the trash"
+  },
+  {
+   "id": "10:7098",
+   "op": "choice",
+   "en": "He put it back in the bag"
+  },
+  {
+   "id": "10:70b0",
+   "op": "text",
+   "en": "That's right, he threw it in the trash can.\nThen he quietly went back to the nurse's office.\nAfter fourth period ended, he waited a while, then went back to the classroom.{p}",
+   "follows_choice": [
+    "10:7088"
+   ]
+  },
+  {
+   "id": "10:7140",
+   "op": "text",
+   "en": "When he got back, Nakayama's class was in an uproar.\nOf course, Morikawa knew why, but he asked,\n\"What's going on?\"\njust the same.\n\"Nakayama's hamster's gone missing.\"\n\"Everyone, let's help look for it.\"\nSomeone suggested that, so they started searching.\n\"It's not here. Maybe it got out of the room.\"\n\"Guys, the teacher's coming!\"\nWhen someone said that, everyone stopped searching.{p}"
+  },
+  {
+   "id": "10:72bc",
+   "op": "text",
+   "en": "When the teacher came in, the kids sitting around Nakayama whispered to cheer her up.\n\"Yoko, I'll help you look later.\"\n\"You'll find it.\"{p}"
+  },
+  {
+   "id": "10:7364",
+   "op": "text",
+   "en": "But the hamster wasn't found, and school let out.\n\"Where could my hamster have gone?\"\nNakayama said, worried.\n\"Let's do the cleaning.\nIf we look while we clean, I'm sure we'll find it.\"\nThe girl on cleaning duty with her that day tried to cheer her up.{p}"
+  },
+  {
+   "id": "10:7470",
+   "op": "text",
+   "en": "As everyone else went home, a few stayed behind to start cleaning, and Morikawa was among them.\n(Crap. I've gotta hurry and get rid of the hamster in the trash can.)\nThinking that, he casually went to get the trash can.\n\"Yoko, I'll take the trash out to the incinerator.\"\nHe'd been beaten to it.\n\"Yoshioka, I'll go, so you help her look for the hamster.\"\n\"Oh, thanks.\"\nWith that, Morikawa took over taking out the trash.{p}"
+  },
+  {
+   "id": "10:7608",
+   "op": "text",
+   "en": "Morikawa picked up the trash can and headed for the incinerator.\nWhen he got there, he tossed in the trash and the hamster.\nThen he piled trash over the hamster.\n(That should do it.)\nJust as he thought that and turned to head back to the classroom...{p}"
+  },
+  {
+   "id": "10:76f0",
+   "op": "text",
+   "en": "\"So it was you after all.\"\nIt was Nakayama.\n\"I can't believe it was really killed...\"\n\"It's not like that.\nI thought you'd be sad if you found out it was dead...\"\n\"Liar!\"{p}What do you think Morikawa did then?\n"
+  },
+  {
+   "id": "10:77c0",
+   "op": "choice",
+   "en": "He kept up the lie"
+  },
+  {
+   "id": "10:77d0",
+   "op": "choice",
+   "en": "He told her the truth"
+  },
+  {
+   "id": "10:77e0",
+   "op": "choice",
+   "en": "He ran away"
+  },
+  {
+   "id": "10:77f4",
+   "op": "text",
+   "en": "That's right, he kept up the lie.\n\"I don't know anything about it.\nI just thought you'd be sad if I showed it to you.\"\nThat's what Morikawa said.\nNakayama ran to the hamster and held it in her arms.\nHe walked away from there.{p}",
+   "follows_choice": [
+    "10:77c0"
+   ]
+  },
+  {
+   "id": "10:78d0",
+   "op": "text",
+   "en": "From the next day on, Nakayama stopped coming to school.\nMorikawa was racked with guilt, but\n\"It's just a little animal that cost a few hundred yen,\"\nhe told himself as an excuse, or so I heard.{p}"
+  },
+  {
+   "id": "10:7990",
+   "op": "text",
+   "en": "Some time later, when he'd almost forgotten about it, Nakayama, who had been absent all that time, was waiting for him near Morikawa's house.\n\"Long time no see.\"\n\"Nakayama...\"\n\"Lately, I've started to understand how you feel.\nLook...\"{p}"
+  },
+  {
+   "id": "10:7a74",
+   "op": "text",
+   "en": "Nakayama opened her bag, and inside were the carcasses of dozens of small animals.\n\"Well?\"\nHamsters and other creatures, lots of them, lay dead with their eyes wide open.\nThe carcasses, which shouldn't have been seeing anything, seemed to be staring at Morikawa, accusing him.\nEven Morikawa felt sick.\n\"Ugh... urk.\"\nWhat was in his stomach slowly crept up his throat.{p}"
+  },
+  {
+   "id": "10:7bc4",
+   "op": "text",
+   "en": "\"Today, I'm going to kill something even more fun.\nI'll tell you about it next time.\"\nWith that, she walked away.{p}"
+  },
+  {
+   "id": "10:7c40",
+   "op": "text",
+   "en": "(Something more fun...?\nWhat the hell is she planning to do★)\nMorikawa stood frozen on the spot until she was out of sight.{p}"
+  },
+  {
+   "id": "10:7cd8",
+   "op": "text",
+   "en": "That night, he had no appetite at all.\nThe sight of the carcasses Nakayama had shown him wouldn't leave his mind.\nThey say he didn't touch a bite of the hamburger steak he usually loved.\nHe went back to his room early and went straight to bed.\nI wonder how long he had been asleep.\nA noise woke him up.{p}"
+  },
+  {
+   "id": "10:7e08",
+   "op": "text",
+   "en": "\"Geez, I'm trying to sleep. Keep it down.\"\nThinking it was the TV, Morikawa went to the living room to complain.\nThe living room lights were off; it was pitch dark.\nWhen he looked at the clock again, it was three in the morning.\n(Nobody'd be watching TV at this hour.\n...So what was that?){p}"
+  },
+  {
+   "id": "10:7f2c",
+   "op": "text",
+   "en": "There was another noise.\n(Maybe it's the neighbors' TV?)\nThat was how unreal it was: a violent noise, just like a sound effect.{p}"
+  },
+  {
+   "id": "10:7fa0",
+   "op": "text",
+   "en": "This time, he could tell for certain that the noise was coming from inside his own house.\nHe moved forward, straining his ears.{p}"
+  },
+  {
+   "id": "10:8024",
+   "op": "text",
+   "en": "(Something's coming from this room...)\nIt was his parents' room.\n(Are Mom and Dad still up?\nWhat are they doing?){p}"
+  },
+  {
+   "id": "10:80b0",
+   "op": "text",
+   "en": "Just then, a scream suddenly came from inside.\n\"Mom★\"\nHe flung the door open.{p}"
+  },
+  {
+   "id": "10:813c",
+   "op": "text",
+   "en": "...And there was Nakayama.{p}"
+  },
+  {
+   "id": "10:8174",
+   "op": "text",
+   "en": "In the darkness, something like a cord was moving.\n\"Nakayama... you...!\"\nShe was strangling his parents with a rope.\n\"Oh my, I said I'd tell you later, but you just couldn't wait...?\nYou know, it's the best, killing people.\nWith animals, you were my senior, but now I'm the one ahead.\nOh, that's right.\nTo thank you, I'll teach you how to kill a person.\nHeh heh, heh... heh...\"\nMorikawa tried to lunge at Nakayama.{p}"
+  },
+  {
+   "id": "10:8314",
+   "op": "text",
+   "en": "At that moment, his murdered mother's head lolled over to face him.\n\"Ugh...\"\nHis mother's face was twisted in agony, and her eyes looked terribly sad, they say.\n...Morikawa passed out.{p}"
+  },
+  {
+   "id": "10:83e0",
+   "op": "text",
+   "en": "The next day, when Morikawa didn't come to school, his teacher got worried and came to his house.\nBut no matter how many times the teacher rang the doorbell, no one answered.\nThere were traces of blood at the front door.\nThinking it strange, the teacher called the police, apparently.{p}"
+  },
+  {
+   "id": "10:84b8",
+   "op": "text",
+   "en": "...Morikawa was in his parents' room.\nThey say he had laid his parents' bodies out neatly side by side, and was sitting next to them, staring blankly.\nAt first, Morikawa was investigated as a suspect, but he was soon cleared.\nBut he had become so unstable that he had to be put in a hospital.\nDid they catch the killer, you ask?\nNo, not yet.\nMorikawa said that Nakayama was the one who did it, but...\nThe police didn't believe him; they said it was a crime no girl could possibly commit.{p}"
+  },
+  {
+   "id": "10:8690",
+   "op": "text",
+   "en": "Not long after that, Nakayama started coming to school again.\nI heard all this when I went to visit Morikawa in the hospital.\nTo me, he didn't look like he was lying.\nWhat do you think, {a}{f:?|?}\nDo you believe what Morikawa said?{p}"
+  },
+  {
+   "id": "10:8794",
+   "op": "text",
+   "en": "...They say the killer still breaks into people's homes and commits murder.\nYou should be very careful to lock up at night too, {a}{f:.|.}{p}That's the end of my story.\nNext, please.{p}"
+  },
+  {
+   "id": "10:8860",
+   "op": "text",
+   "en": "That's right, he told her the truth.\n\"But it's just a hamster.\nThey're not that expensive, right?\nI'll pay you back for it sometime.\"\nWith that, Morikawa walked away.{p}",
+   "follows_choice": [
+    "10:77d0"
+   ]
+  },
+  {
+   "id": "10:8904",
+   "op": "text",
+   "en": "The next day, she was absent from school.\n\"Morikawa, Nakayama's out today, huh.{p}Guess losing her hamster was a real shock to her.\"\n"
+  },
+  {
+   "id": "10:898c",
+   "op": "choice",
+   "en": "He didn't care"
+  },
+  {
+   "id": "10:8998",
+   "op": "choice",
+   "en": "He was worried"
+  }
+ ]
+}

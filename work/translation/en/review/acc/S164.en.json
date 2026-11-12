@@ -1,0 +1,379 @@
+{
+ "slice": "S164",
+ "scene": "43",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S163",
+ "next": "S165",
+ "todo": [],
+ "rows": [
+  {
+   "id": "43:3f50",
+   "op": "text",
+   "en": "\"Hey, {a}.\"\nMotoki took my hand as I sat there spacing out, and suddenly squeezed it tight.\nI turned bright red.\n\"...Hey, {a}.\nDo you think Kanda's death was a suicide?\nOr do you think someone killed him?\nIf someone did kill him, who do you think it was?\"\nWhy was Motoki asking me something like that?{p}What was the point of asking that?\n"
+  },
+  {
+   "id": "43:409c",
+   "op": "choice",
+   "en": "Suicide"
+  },
+  {
+   "id": "43:40a4",
+   "op": "choice",
+   "en": "His hysterical girlfriend killed him"
+  },
+  {
+   "id": "43:40c0",
+   "op": "choice",
+   "en": "The girl who secretly loved Kanda"
+  },
+  {
+   "id": "43:40e4",
+   "op": "choice",
+   "en": "The guy with a one-sided crush on that girl"
+  },
+  {
+   "id": "43:4100",
+   "op": "choice",
+   "en": "Someone else"
+  },
+  {
+   "id": "43:4110",
+   "op": "text",
+   "follows_choice": [
+    "43:40a4"
+   ],
+   "en": "\"...I'd say it was that hysterical girlfriend he was going out with.\nFrom what you told us, she sounds like she might do anything once she got desperate enough.\"\nWhen I answered, Motoki nodded to herself again and again.{p}"
+  },
+  {
+   "id": "43:41e4",
+   "op": "text",
+   "en": "\"I see.\nSo that's what you think, {a}.\n...It doesn't really mean anything.\nMy grandma won't tell me who killed him either.\nMaybe she really doesn't know.\nBut you know, the seventh one is coming soon.\nWho do you think the seventh one is?\n...That's right, it's Kanda. Kanda is coming here.\"{p}"
+  },
+  {
+   "id": "43:4300",
+   "op": "text",
+   "en": "\"Don't talk crap!\nWhy the hell would he come?!\"\nShindo suddenly raised his voice.{p}"
+  },
+  {
+   "id": "43:4370",
+   "op": "text",
+   "en": "\"...Oh?\nShindo, you know Kanda?\"\nMotoki put on a big show of surprise. Whether it was real or an act, I couldn't tell.{p}"
+  },
+  {
+   "id": "43:4414",
+   "op": "text",
+   "en": "Shindo looked a little uncomfortable.\n\"...Well, sure, it's not like I didn't know him.\nHe was in my class.\nBut I only knew him a little.\nIf it's Kanda you wanna know about, wouldn't Iwashita know more than me?\nThere was a rumor Iwashita was going out with Kanda.\"{p}"
+  },
+  {
+   "id": "43:4524",
+   "op": "text",
+   "en": "What?\nMy heart skipped, and I found myself turning to look at Iwashita.\nIwashita was smiling, her head bowed.\n...Had I just said something terrible?\nIf Shindo was right, I'd just said that Iwashita killed Kanda.\nAnd I'd even called her someone who might do anything...\nI wondered if I had offended Iwashita.\n\"...Well, who knows?\nShindo, I don't think you should be so quick to believe rumors about people either.{p}"
+  },
+  {
+   "id": "43:46d8",
+   "op": "text",
+   "en": "Did you see it?\nDid you see something going on between Kanda and me?\nYou didn't see a thing, so for your own good, you'd better not spread strange rumors.\nI can't stand liars, you know.\nIf I really had been going out with a man named Kanda, I'm sure I would have wanted to kill him.{p}"
+  },
+  {
+   "id": "43:47e4",
+   "op": "text",
+   "en": "...More to the point, it was Fukuzawa, wasn't it?\nI hear you secretly had feelings for Kanda.\nAnd I heard that Kanda had recently started going out with a new girl.\nThough, of course, that's nothing more than a rumor either.\nI believe her name was Reiko Fukuzawa...\"{p}"
+  },
+  {
+   "id": "43:48c8",
+   "op": "text",
+   "en": "\"What are you talking about?!\"\nCutting Iwashita off, Fukuzawa slammed her hand down on the desk.\n\"Senior or not, there are things you just don't say!\nAre you saying I killed Kanda?\nSure, I'll admit I liked him.\nBut why would I have to kill him?\nWhen he died, I was the one who grieved the most!\nI know the truth!\nIt was you!\nYou killed him!\"{p}"
+  },
+  {
+   "id": "43:4a3c",
+   "op": "text",
+   "en": "I could only stare, stunned.\nFukuzawa was glaring at Iwashita with a terrifying look on her face.{p}"
+  },
+  {
+   "id": "43:4aa0",
+   "op": "text",
+   "en": "But Iwashita, meeting that glare, wasn't backing down either.{p}"
+  },
+  {
+   "id": "43:4ae4",
+   "op": "text",
+   "en": "\"...Proof?\nIf you say I killed him, then go on, show me the proof.\nSay one careless word, and I wouldn't mind killing you.\"\nThe two of them kept glaring at each other.\nI had no idea what to do.{p}"
+  },
+  {
+   "id": "43:4bb0",
+   "op": "text",
+   "en": "It was Hosoda who stepped in between them.\n\"Now, now, please don't get so angry, you two.\nEveryone, let's stop imagining weird things.\nWhoever killed him, it has nothing to do with us here, does it?\nWhat good is arguing about it going to do?\nLet's all get along.\nOkay?\"\nThe two of them didn't pay the slightest attention to Hosoda.\nThey kept glaring at each other in silence.\nJust then, Arai cleared his throat.{p}"
+  },
+  {
+   "id": "43:4d44",
+   "op": "text",
+   "en": "\"Ahem.\nI don't know much about that story, but it sounds rather complicated.\n...Hosoda, you like Fukuzawa, don't you?\nThat's only a guess, of course.\nEver since you got here, you've been sneaking glances at Fukuzawa, haven't you?\nIs there something going on?\"\nArai looked at Hosoda with probing eyes.{p}"
+  },
+  {
+   "id": "43:4e84",
+   "op": "text",
+   "en": "\"Ah ha ha ha, so you caught me, huh?\nTruth is, I've been watching Fukuzawa this whole time, thinking a girl just my type had joined the first-years.\nIt's a one-sided crush, though...\nI never dreamed I'd get to sit and talk with her like this today.\nOh, this is so embarrassing.\"\nHosoda bent his big body double, shaking with stifled laughter.{p}"
+  },
+  {
+   "id": "43:4fc0",
+   "op": "text",
+   "en": "Kazama got up from his seat.\n\"...How ridiculous.\nEvery one of you is connected to Kanda, one way or another.\nThis is a trap Hino set up, isn't it?\nHe was close with Kanda, after all.\nI can't go along with this farce any longer.\nI'm going home.\nThe rest of you can play detective all you like.\"\nJust as Kazama's hand closed on the doorknob...{p}"
+  },
+  {
+   "id": "43:5114",
+   "op": "text",
+   "en": "\"Wait!\"\nMotoki cried out.\n\"I told you the seventh one is coming, didn't I?\nYou can't go home before then.\"{p}"
+  },
+  {
+   "id": "43:5184",
+   "op": "text",
+   "en": "Hearing Motoki, Kazama let out an exaggerated sigh.\n\"Haaaaaah.\nLook, what exactly am I to you?\nWe only met today, didn't we?\nYour grandma living inside your body, hearing your grandpa's voice... You're in pretty bad shape, you know.\nI'm a busy man.\nI'm not like you common folk.\nSorry, but I'm going to do as I please.\"{p}"
+  },
+  {
+   "id": "43:52c4",
+   "op": "text",
+   "en": "\"No!\nIf you open the door now, you'll be killed.\nKanda is already here.\nHe's standing right on the other side of that door.\"\nMotoki warned him sharply and pointed at the club room door.\nAt her words, Kazama turned to look at the door.\nHe furrowed his brow and strained his eyes, as if trying to see right through to the other side.{p}"
+  },
+  {
+   "id": "43:53f4",
+   "op": "text",
+   "en": "...But that was absurd.\nNo matter what, there was no way a dead person would just come strolling into a place like this.{p}"
+  },
+  {
+   "id": "43:5480",
+   "op": "text",
+   "en": "\"Hey, {a}.\nDo you believe what I'm telling you?\nOr do you think I'm a weird girl after all?\"{p}Motoki suddenly asked me that.\n"
+  },
+  {
+   "id": "43:5514",
+   "op": "choice",
+   "en": "I believe you"
+  },
+  {
+   "id": "43:5524",
+   "op": "choice",
+   "en": "No matter what, I can't believe that"
+  },
+  {
+   "id": "43:5544",
+   "op": "choice",
+   "en": "Let's rethink getting married after all. You're not normal"
+  },
+  {
+   "id": "43:556c",
+   "op": "text",
+   "follows_choice": [
+    "43:5514"
+   ],
+   "en": "\"...I believe you.\"\nNow all I could do was believe what Motoki said.\nThe ominous air I'd felt ever since I entered this room wasn't just my imagination.\nIt had to be a sign that something was coming.\nMotoki smiled at me, looking truly happy.{p}"
+  },
+  {
+   "id": "43:5670",
+   "op": "text",
+   "en": "At some point, Kazama had gone back to his seat too.\nIt seemed that even he didn't have the nerve to open the door.{p}"
+  },
+  {
+   "id": "43:56f0",
+   "op": "text",
+   "en": "\"He's there. I knew it.\nKanda is right outside the club room door.\nGrandma told me so.\nShe says Kanda can't pass on unless he kills someone, anyone at all.\nShe says he has to take someone's head, the same way his was taken.\"\nMotoki murmured quietly.\nEveryone fell silent.{p}"
+  },
+  {
+   "id": "43:57fc",
+   "op": "text",
+   "en": "Motoki went on.\n\"...The person who killed Kanda is one of us here.\nWhat reason they had, why they had to kill him, I won't press for that.\nBut I think that person should be the one sacrificed. I don't know who it is, though.\"{p}"
+  },
+  {
+   "id": "43:5900",
+   "op": "text",
+   "en": "\"You've gotta be kidding me!\nI'm going home!\"\nKazama stood up.\nThen he ran over to the window.{p}"
+  },
+  {
+   "id": "43:5968",
+   "op": "text",
+   "en": "\"...What the hell?!\nThe window won't open!\nFine, I'll smash this damn window!\"\nAs Kazama grabbed a chair to hurl it at the window, Motoki spoke to him, perfectly calm.{p}"
+  },
+  {
+   "id": "43:5a1c",
+   "op": "text",
+   "en": "\"...Nothing you do will work.\nThis room has been cursed by Kanda.\nIt's completely sealed.\nThere's no way out.\nUntil one of us dies, we can never leave this room.\"{p}"
+  },
+  {
+   "id": "43:5acc",
+   "op": "text",
+   "en": "\"You killed him, didn't you?!\nShouldn't you take responsibility and be the sacrifice, Iwashita?!\"\nShindo, both hands shoved in his pockets and his legs sprawled out lazily, glared at Iwashita.{p}"
+  },
+  {
+   "id": "43:5b88",
+   "op": "text",
+   "en": "...Iwashita just glared at one spot on the door and answered without so much as a glance at Shindo.\n\"...Proof?\nDo you have proof that I killed him?\nKeep saying whatever you like with no proof, and I'll kill you.\"{p}"
+  },
+  {
+   "id": "43:5c44",
+   "op": "text",
+   "en": "Fukuzawa didn't keep quiet either.\n\"You!\nYou're the one who killed my Kanda!\nYou said you liked me, so you were against Kanda and me going out.\nThat's why you hated him and killed him!\nTake responsibility!\"\nThe one Fukuzawa was hurling abuse at was Hosoda.{p}"
+  },
+  {
+   "id": "43:5d58",
+   "op": "text",
+   "en": "Hosoda looked lost, on the verge of tears.\n\"...Fukuzawa, please don't say that.\nYou were never supposed to fall for a guy like Kanda.\nYou're my goddess.\nI'm not saying I want to go out with you or anything like that, Fukuzawa.\nJust looking at you is enough for me.\nJust watching you from far away and imagining makes me happy, you know.\"\nAt last, Hosoda burst into tears.{p}"
+  },
+  {
+   "id": "43:5ed8",
+   "op": "text",
+   "en": "...What on earth was this? What was with these people?{p}"
+  },
+  {
+   "id": "43:5f28",
+   "op": "text",
+   "en": "\"...See? Kanda's angry.\nWhat are you going to do?\nIf this keeps up, Kanda's going to come into the club room.\n"
+  },
+  {
+   "id": "43:5f94",
+   "op": "text",
+   "en": "And then he'll kill every one of us.\"\nBy the time Motoki said that, it was already too late.{p}"
+  },
+  {
+   "id": "43:602c",
+   "op": "text",
+   "en": "The door was blown away by some supernatural force, and a man was standing there.\n...It was probably Kanda.\nI could only say 'probably' partly because I had never known Kanda, but more than that, because there was nothing above his neck.\nA headless man in a school uniform stood there.{p}"
+  },
+  {
+   "id": "43:6138",
+   "op": "text",
+   "en": "\"It wasn't me!\nI'm sorry I made a move on Iwashita!\nBut I'm not the one who killed you, right?\"\nKazama threw himself to the floor in an abject kowtow and begged for forgiveness.{p}"
+  },
+  {
+   "id": "43:61d8",
+   "op": "text",
+   "en": "\"I-I didn't do anything wrong.\nWhat I did to you was just a little prank.\nI never meant to bully you.\n...Th-that was just a bit of fun!\"\nShindo shrank back, ready to run, and apologized desperately in a trembling voice.{p}"
+  },
+  {
+   "id": "43:62ac",
+   "op": "text",
+   "en": "\"...K-Kanda.\nIt was just a little joke.\nIwashita kept flaunting what she had with you, so I just wanted to steal you away from her.\nI wasn't planning to dump you or anything.\nI'm sorry, I'm sorry... Please don't kill me!\"\nFukuzawa's face was crumpled, her palms pressed together in prayer.{p}"
+  },
+  {
+   "id": "43:63d4",
+   "op": "text",
+   "en": "\"...Y-you know it wasn't me, right?\nI-I have nothing to do with it.\nSure, I hated you for stealing Fukuzawa, so I pushed you down the stairs and put thumbtacks in your shoes, but nobody dies from stuff like that, right?\nIt wasn't me.\"\nHosoda was squeezing himself into a corner of the room, trying to get even a little farther away.{p}"
+  },
+  {
+   "id": "43:651c",
+   "op": "text",
+   "en": "...Arai said nothing, made no attempt to run, and just sat there without moving, his head bowed.{p}"
+  },
+  {
+   "id": "43:657c",
+   "op": "text",
+   "en": "\"...You deserved to be killed.\nAnyone at all could have done it.\nI imagine everyone wanted to kill you, don't you think?\nDo you hate me?\nDo you think I killed you?\n...Then why don't you kill me?\"\nIwashita didn't try to run either. She stayed in her chair and glared at Kanda.{p}"
+  },
+  {
+   "id": "43:66ac",
+   "op": "text",
+   "en": "...Even so, apart from Arai, the only one keeping silent, any one of them could have killed Kanda.\nEven if Kanda's death had been a suicide, something one of them did could easily have been what drove him to it.{p}"
+  },
+  {
+   "id": "43:6794",
+   "op": "text",
+   "en": "Just then, a strange voice echoed inside my head.\nI knew by instinct that it was Kanda's voice.\n(...Who should I kill?\nWho do I have to kill to be saved?\n...One of the people here.\nYou decide.)\nI looked around the club room.{p}"
+  },
+  {
+   "id": "43:686c",
+   "op": "text",
+   "en": "It seemed I was the only one who could hear that voice.\nThe voice pressed me to choose.\nI had to make one of these people the victim.{p}What should I do?!\n"
+  },
+  {
+   "id": "43:6900",
+   "op": "choice",
+   "en": "Akemi Iwashita"
+  },
+  {
+   "id": "43:690c",
+   "op": "choice",
+   "en": "Nozomu Kazama"
+  },
+  {
+   "id": "43:6914",
+   "op": "choice",
+   "en": "Makoto Shindo"
+  },
+  {
+   "id": "43:691c",
+   "op": "choice",
+   "en": "Tomoharu Hosoda"
+  },
+  {
+   "id": "43:6928",
+   "op": "choice",
+   "en": "Shoji Arai"
+  },
+  {
+   "id": "43:6934",
+   "op": "choice",
+   "en": "Reiko Fukuzawa"
+  },
+  {
+   "id": "43:6940",
+   "op": "choice",
+   "en": "Myself"
+  },
+  {
+   "id": "43:6948",
+   "op": "choice",
+   "en": "Sanae Motoki"
+  },
+  {
+   "id": "43:6954",
+   "op": "text",
+   "follows_choice": [
+    "43:6940"
+   ],
+   "en": "...Every one of them seemed like the killer.\n...But there was no solid proof.\nBesides, even if one of them was the killer, there was no way they'd admit to it.\nBut if this went on, we would all be killed.\n...I couldn't possibly choose just one person.\nIn that instant, the name that came into my head was my own.\nI steeled myself and took one step toward him.{p}"
+  },
+  {
+   "id": "43:6ac4",
+   "op": "text",
+   "en": "Just then,\nMotoki, who had been holding my hand, began to shake violently.{p}"
+  },
+  {
+   "id": "43:6b14",
+   "op": "text",
+   "en": "\"Motoki!\"\nI cried out without thinking, but she didn't respond.\nShe was unconscious, as if someone had taken her over.{p}"
+  },
+  {
+   "id": "43:6b94",
+   "op": "text",
+   "en": "Suddenly, something like white smoke came out of her mouth.\nIn the smoke, the face of a woman with a horrifying expression appeared.\nThe instant it appeared, it lunged at Kanda.\nThe vengeful spirit's bitter groan thundered through the club room.{p}"
+  },
+  {
+   "id": "43:6c74",
+   "op": "text",
+   "en": "...And then the thing was gone.\nThe headless man in the school uniform vanished like an illusion.{p}"
+  },
+  {
+   "id": "43:6ce0",
+   "op": "text",
+   "en": "Having seen that through, the demonic face floating in the smoke turned into a very calm, gentle face, and slid smoothly back into Motoki's mouth.{p}"
+  },
+  {
+   "id": "43:6d80",
+   "op": "text",
+   "en": "...I felt as if I were dreaming.{p}"
+  },
+  {
+   "id": "43:6dbc",
+   "op": "text",
+   "en": "\"Motoki!\n...Sanae!\"\nI caught her as she crumpled.\nThen I shook her by the shoulders.{p}"
+  },
+  {
+   "id": "43:6e34",
+   "op": "text",
+   "en": "She let out a sleepy murmur and slowly opened her eyes.\n\"...Grandma says everything's okay now.\nIsn't it great? Nobody died.\"\nShe was smiling.\nI nodded hard.\nIt was all over.{p}"
+  },
+  {
+   "id": "43:6f1c",
+   "op": "text",
+   "en": "...After that, a week went by.\nI never saw any of them again after that day.\nIn the end, I never found out who killed Kanda, or even whether it had been a suicide or a murder in the first place.\n...Every human being has evil in their heart.\nWhat holds it in check is self-control.{p}"
+  }
+ ]
+}

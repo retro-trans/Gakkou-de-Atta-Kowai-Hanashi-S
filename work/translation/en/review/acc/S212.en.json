@@ -1,0 +1,313 @@
+{
+ "slice": "S212",
+ "scene": "58",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S211",
+ "next": "S213",
+ "todo": [
+  "- S212/S213: Kazama puns ('Amazak', 'Fart-well', rhyme at 58:0fd0); check S213 matches."
+ ],
+ "rows": [
+  {
+   "id": "58:0640",
+   "op": "text",
+   "en": "...What a nasty story that was.\nA pervert, of all things.\nMaybe I really should head home early today.\nStill, it bothers me how Kazama keeps beaming like that.{p}"
+  },
+  {
+   "id": "58:06f0",
+   "op": "text",
+   "en": "\"...Well then, I'd like to wrap things up for today.\nThank you all very much.\"\nWhen I said my goodbyes, everyone nodded one after another.{p}"
+  },
+  {
+   "id": "58:07a4",
+   "op": "text",
+   "en": "\"Come on, {b}, let's go.\"{p}Kazama slipped his arm around my shoulders.\n"
+  },
+  {
+   "id": "58:07f0",
+   "op": "choice",
+   "en": "Dodge him"
+  },
+  {
+   "id": "58:07f8",
+   "op": "choice",
+   "en": "Let him hold me"
+  },
+  {
+   "id": "58:0804",
+   "op": "choice",
+   "en": "Ask him what he's up to"
+  },
+  {
+   "id": "58:081c",
+   "op": "choice",
+   "en": "Put our arms around each other's shoulders and sway as we sing"
+  },
+  {
+   "id": "58:083c",
+   "op": "text",
+   "follows_choice": [
+    "58:0804"
+   ],
+   "en": "\"Ah, um, what are you doing?\"{p}"
+  },
+  {
+   "id": "58:0864",
+   "op": "text",
+   "en": "\"Huh? What's the matter?\"\nKazama looked puzzled.\n\"Well... your hand.\nW-why are you putting your arm around my shoulders?\"\n\"Why?\nIsn't it obvious?{p}"
+  },
+  {
+   "id": "58:0918",
+   "op": "text",
+   "en": "To protect you, of course.\nIt's better if I stay as close to you as I can.\"{p}Kazama was leering.\n"
+  },
+  {
+   "id": "58:0980",
+   "op": "choice",
+   "en": "...This is fishy"
+  },
+  {
+   "id": "58:0990",
+   "op": "choice",
+   "en": "Fine, if he'll protect me"
+  },
+  {
+   "id": "58:09a8",
+   "op": "choice",
+   "en": "He's cute when he smiles"
+  },
+  {
+   "id": "58:09bc",
+   "op": "text",
+   "follows_choice": [
+    "58:0980"
+   ],
+   "en": "...This is fishy.\nSomething is off about this.\n"
+  },
+  {
+   "id": "58:09e0",
+   "op": "text",
+   "en": "If a ghost like the one Kazama described really existed, he'd be in no mood to grin like that.\nI quietly moved away from Kazama.{p}"
+  },
+  {
+   "id": "58:0a54",
+   "op": "text",
+   "en": "\"Well, goodbye, everyone.\nI'll walk Fukuzawa home.\"\nHosoda stood up.{p}"
+  },
+  {
+   "id": "58:0ab8",
+   "op": "text",
+   "en": "\"Oh, th-thanks.\nBut I'm not on my own today.\nA friend's waiting for me.\"\nFukuzawa started walking toward the door.{p}"
+  },
+  {
+   "id": "58:0b3c",
+   "op": "text",
+   "en": "\"What about you, Iwashita?\"{p}"
+  },
+  {
+   "id": "58:0b64",
+   "op": "text",
+   "en": "\"Me? I'll go home alone.\nAfter all, I can't believe a story like that.\"\nIwashita said it flatly.\nR-right, of course.\nWhat was I even worried about?{p}"
+  },
+  {
+   "id": "58:0c04",
+   "op": "text",
+   "en": "At that moment, Kazama's eyes glinted.\n\"Oh, come on, you don't believe my story?\nThat won't do.\nOnce something happens, it'll be too late.\nIf you absolutely insist on going home alone, then learn this charm before you go.\nIt goes 'Amazak, Amazak, Amazak...'\nYou shout it at the ghost over and over.\nGot it?{p}"
+  },
+  {
+   "id": "58:0d38",
+   "op": "text",
+   "en": "Well then, {b}, shall we go?\"\n"
+  },
+  {
+   "id": "58:0d5c",
+   "op": "choice",
+   "en": "This is getting even fishier"
+  },
+  {
+   "id": "58:0d70",
+   "op": "choice",
+   "en": "That has a ring of truth to it"
+  },
+  {
+   "id": "58:0d80",
+   "op": "text",
+   "follows_choice": [
+    "58:0d5c"
+   ],
+   "en": "...This is getting even fishier.\nWithout caring one bit how I felt, Kazama dragged me along by force and stepped out of the club room.{p}"
+  },
+  {
+   "id": "58:0e10",
+   "op": "text",
+   "en": "\"So long, then. Adieu.\"\nAdieu, my foot.\nHey, what do I do now?\nDo I really have to go home with this guy?\nEveryone came out of the club room one after another.\nThey each walked off down the dark hallway in different directions.\n\"Come on, let's go home.\nStill, that Hino... having a junior this cute. I'm jealous.\"\nKazama was beaming.\n\"If you like, I could walk you home every day, starting today.{p}Oh, that'd make us just like a couple, ha ha ha ha...\"\n"
+  },
+  {
+   "id": "58:0fc0",
+   "op": "choice",
+   "en": "H-help me..."
+  },
+  {
+   "id": "58:0fd0",
+   "op": "choice",
+   "en": "So it would, hee hee hee hee..."
+  },
+  {
+   "id": "58:0ff4",
+   "op": "text",
+   "follows_choice": [
+    "58:0fc0"
+   ],
+   "en": "\"Hm, what's wrong?\nWhy the worried look?{p}"
+  },
+  {
+   "id": "58:1030",
+   "op": "text",
+   "en": "It's fine, I told you.\nI'll protect you, no matter what.\nHeh heh heh.\"\nThis man has got it badly wrong.{p}"
+  },
+  {
+   "id": "58:10ac",
+   "op": "text",
+   "en": "We left the school building and walked toward the school gate.\nI tried as hard as I could not to look at Kazama.\n\"{b}, you're cute even in profile.\"\nHere he goes again.\n\"You know, the angle of my own face I like best is forty-five degrees from the left.\nYou... let's see, you're cute from every angle.\"\nUgh, that's so cheesy it sets my teeth on edge.\nWell, he actually is pretty good-looking.\nBut something about him is just weird.{p}"
+  },
+  {
+   "id": "58:120c",
+   "op": "text",
+   "en": "\"{b}, which way is your house?\"\nBefore I knew it, we had passed through the school gate.\nWhat should I do?\nTelling him where I live is a bit...{p}But I can't exactly say goodbye right here, either...\n"
+  },
+  {
+   "id": "58:12b0",
+   "op": "choice",
+   "en": "Try saying 'Fart-well'"
+  },
+  {
+   "id": "58:12cc",
+   "op": "choice",
+   "en": "Give up and let him walk me home"
+  },
+  {
+   "id": "58:12e4",
+   "op": "text",
+   "follows_choice": [
+    "58:12cc"
+   ],
+   "en": "...I gave up.\nI'll just go home.\nNothing that bad is going to happen, right?\nHe's someone Hino invited, after all.\n\"It's this way.\"\nI led Kazama along.{p}"
+  },
+  {
+   "id": "58:13a4",
+   "op": "text",
+   "en": "\"...The moon is lovely tonight, isn't it?\"\nAfter we had walked a while, Kazama suddenly came out with that.\n...Huh?\nHis eyes had gone completely glassy and fixed.\nSomething about the mood felt shady.{p}"
+  },
+  {
+   "id": "58:1444",
+   "op": "text",
+   "en": "\"Today was a good day.\nI got to meet a girl like you.\"\nWith that, Kazama swept back his hair.\n\"I'm going to see you safely home.\nBut I don't want my time with you to end there.\"\n\"Huh?\"\n\"I know, you're going to make a newspaper out of today's material, right?\nShall I help you with it?\nYeah, that's the way.\nLet's have some fun with it.{p}"
+  },
+  {
+   "id": "58:1584",
+   "op": "text",
+   "en": "...Still, that Hino.\nWhen I offered to come to his seven wonders meeting, he said any material I had couldn't be worth much.\nSo I wanted to knock his socks off, and I dug into the story of the pervert's ghost...\"\n"
+  },
+  {
+   "id": "58:1658",
+   "op": "text",
+   "en": "...Huh? Wait a minute.\nKazama's story wasn't a lie?{p}"
+  },
+  {
+   "id": "58:16c4",
+   "op": "text",
+   "en": "\"Um...\"\n\"Hm, what is it?\"\n\"Was your story true, Kazama?\"{p}"
+  },
+  {
+   "id": "58:171c",
+   "op": "text",
+   "en": "\"What are you talking about?\nOf course it's true.\nThat's why I'm walking you home like this.\"\n\"But... that charm... 'Amazak,' was it?\nEven that sounded like you were fooling around.\"\n\"I wasn't fooling around at all.\nThat's the name of a certain saint.\"\n\"Isn't it just your name spelled backwards?\"{p}"
+  },
+  {
+   "id": "58:1854",
+   "op": "text",
+   "en": "\"Well, yes, it is.\nI'm something of a saint myself, you see.\n...Hey, more importantly, aren't we at your house yet?\"\nKazama was all smiles.{p}This is way too suspicious.\n"
+  },
+  {
+   "id": "58:18e4",
+   "op": "choice",
+   "en": "Part ways here"
+  },
+  {
+   "id": "58:18f4",
+   "op": "choice",
+   "en": "His shadiness is his charm"
+  },
+  {
+   "id": "58:1918",
+   "op": "text",
+   "follows_choice": [
+    "58:18e4"
+   ],
+   "en": "\"Kazama, my house is just up ahead.\nThank you for walking me home.\nThis is far enough.\nWell, I'll be going now.\"\n\"Oh, I see... ugh!\"\nKazama suddenly clutched his stomach and crouched down.{p}"
+  },
+  {
+   "id": "58:1a00",
+   "op": "text",
+   "en": "\"My stomach, all of a sudden... ow!\"\n\"Wh-what? A-are you okay?\"\n\"Oh no☆\nMaybe the ghost I talked about today has cursed me☆\nBecause I was digging into its secrets☆\nOoh, the pain☆\nI-is there somewhere I could rest...?\"{p}As he said that, Kazama gazed steadily into my eyes.\n"
+  },
+  {
+   "id": "58:1afc",
+   "op": "choice",
+   "en": "W-would you like to rest at my house?"
+  },
+  {
+   "id": "58:1b18",
+   "op": "choice",
+   "en": "...Don't fall for it"
+  },
+  {
+   "id": "58:1b3c",
+   "op": "text",
+   "follows_choice": [
+    "58:1b18"
+   ],
+   "en": "\"Oh, give me a break!\"\nI ran for it.\n\"Ah, {b}, wait...!\"\nAs if I'd wait.\nIt's not much farther to my house...\nIf I make a dash for it, I can probably shake him off.\nMaybe his stomach really did hurt; Kazama was trailing somewhere far behind.{p}"
+  },
+  {
+   "id": "58:1c38",
+   "op": "text",
+   "en": "...................Okay, I made it home☆\nI pressed the doorbell, and then...\n\"I see☆\nSo this is your house, {b}?\"\nA delighted voice came from right behind me.{p}"
+  },
+  {
+   "id": "58:1cec",
+   "op": "text",
+   "en": "Kazama was running toward me at an incredible speed.\nWasn't his stomach supposed to hurt?\nWhat on earth is with this guy...★{p}"
+  },
+  {
+   "id": "58:1d70",
+   "op": "text",
+   "en": "\"Oh, I feel bad.\nYou even treated me to tea.\"\nA few minutes later, I was serving Kazama tea and snacks.\nAll because, to my family member who opened the door, he went and said,\n\"How do you do.\nClub activities kept {b} late, so I've come to see her home,\"\nor something like that.\nMy family didn't know what was going on, so it turned into 'Oh, thank you so much, please come in and have some tea...'\nKazama took a breath and said,{p}"
+  },
+  {
+   "id": "58:1efc",
+   "op": "text",
+   "en": "\"Now we're a couple with your parents' blessing.\"\n"
+  },
+  {
+   "id": "58:1f24",
+   "op": "text",
+   "en": "...Wait a minute.\nHow does that work?{p}"
+  },
+  {
+   "id": "58:1f5c",
+   "op": "text",
+   "en": "\"I think I'll head home for today.\nI'll come by to visit again sometime.\"\nA meaningful little smile.{p}"
+  },
+  {
+   "id": "58:1fc0",
+   "op": "text",
+   "en": "\"See you, {b}.\"\nHe walked off, looking happy...\nHonestly, Hino is awful.\nWhy would he invite someone like that to the seven wonders meeting?{p}"
+  },
+  {
+   "id": "58:2068",
+   "op": "text",
+   "en": "...Ah!\nBehind Kazama... a ghost?\nIt was glaring at him with terrifying eyes.\nCould it be the pervert's ghost?\nThe ghost stretched its arms toward Kazama's neck.\nLook out!{p}"
+  }
+ ]
+}

@@ -1,0 +1,351 @@
+{
+ "slice": "S210",
+ "scene": "56",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S209",
+ "next": "S211",
+ "todo": [],
+ "rows": [
+  {
+   "id": "56:2984",
+   "op": "text",
+   "en": "Are you scared?\nIt's all right, I'm here with you.\nIf you're nervous, I'll hold your hand for you.\nYou're fine...?\nThere's no need to be shy about it.\nThere, now you feel safe, don't you?\nWell then, I'll tell my story.{p}"
+  },
+  {
+   "id": "56:2a58",
+   "op": "text",
+   "follows_choice": [
+    "56:0b3c"
+   ],
+   "en": "Oh?\nHow very reassuring.\nThat's the newspaper club for you.{p}"
+  },
+  {
+   "id": "56:2a94",
+   "op": "text",
+   "en": "But take a look at the other members' faces.\nSee how they're all looking down and mumbling?\nThey're embarrassed that I pointed out the limits of their imagination.\nThe moment someone says 'haunted spot,' the picture in their heads gets stuck in a rut.{p}"
+  },
+  {
+   "id": "56:2b68",
+   "op": "text",
+   "follows_choice": [
+    "56:0da4"
+   ],
+   "en": "{b}, that just won't do.\nI made a big decision to take part in this meeting too, you know.\nNo matter how much you say you don't want to go, I'll drag you there by force if I have to.\nThat's right...\nI'll carry you there in my arms if I have to.\nWould you like that better?\n............No?\nI see...{p}"
+  },
+  {
+   "id": "56:2c74",
+   "op": "text",
+   "en": "Aren't you the shy one.\nOh well.\nSo you're saying you'll walk there on your own.{p}"
+  },
+  {
+   "id": "56:2cdc",
+   "op": "text",
+   "follows_choice": [
+    "56:0f78"
+   ],
+   "en": "It's all right.\nYou don't have to deny it in such a hurry.\n{b}...\nYou think there aren't any ghosts in a place like this.\nI can tell the moment I look at your face.{p}"
+  },
+  {
+   "id": "56:2d7c",
+   "op": "text",
+   "en": "How sad.\nSo you don't trust me even the tiniest bit?{p}"
+  },
+  {
+   "id": "56:2dd0",
+   "op": "text",
+   "follows_choice": [
+    "56:19a8"
+   ],
+   "en": "\"Oh! So you'll open it.\n{b}, you've finally made up your mind...\nThat's right.\nFor the sake of that poor girl who killed herself, open the shoe locker!\"{p}"
+  },
+  {
+   "id": "56:2e74",
+   "op": "text",
+   "en": "Just as Kazama told me, I reached out toward one of the shoe lockers.\nI don't know why, but I couldn't stop feeling strangely drawn to that one.\nWhat in the world could be inside...★\n"
+  },
+  {
+   "id": "56:2f28",
+   "op": "text",
+   "en": "Creeeak...\nThe shoe locker's door swung open with a squeal.\nInside it was...{p}"
+  },
+  {
+   "id": "56:2f90",
+   "op": "text",
+   "en": "What? There's nothing in it at all.\nAnd yet Kazama went,{p}"
+  },
+  {
+   "id": "56:2fe0",
+   "op": "text",
+   "en": "\"Oh? Now this is a nice find.\"\nThat's what he said...\nOh no, did I miss something?{p}"
+  },
+  {
+   "id": "56:3064",
+   "op": "text",
+   "en": "With that thought, I peered in one more time, but the locker was still empty.\nKazama was carefully taking 'something' out of that empty space as if it were precious.\nBut the shoe locker was empty, I tell you.\nThere were no shoes, not even indoor shoes.\nAt least, that's how it looked to me.{p}"
+  },
+  {
+   "id": "56:3178",
+   "op": "text",
+   "follows_choice": [
+    "56:1f54",
+    "56:341c"
+   ],
+   "en": "\"Kazama, let's go back now.\"\n\"..................\"\n\"Kazama...?\"\n\"..................\"\n\"Kazama☆\"{p}"
+  },
+  {
+   "id": "56:31ec",
+   "op": "text",
+   "en": "\"What is it already?! You're so annoying.\"\nHow mean!\nHe could at least answer me.{p}"
+  },
+  {
+   "id": "56:3250",
+   "op": "text",
+   "en": "Fine, I don't care anymore!{p}"
+  },
+  {
+   "id": "56:3274",
+   "op": "text",
+   "follows_choice": [
+    "56:1f90"
+   ],
+   "en": "\"Everyone, why don't we keep Kazama company just a little longer?\nI think this is his own way of helping with our interview.\nHis strange behavior is an act, so that we don't get too tense.\nI'm sure of it...\"\nIt wasn't that I wanted to win everyone over for Kazama's sake.\nI just wanted to convince myself that it was true.\nBut everyone's reaction was cold.\n\"Then why don't you stay here with him by yourself?\nWe'll go back to the club room ahead of you.\"\nWhat?{p}W-wait a minute.\n"
+  },
+  {
+   "id": "56:341c",
+   "op": "choice",
+   "en": "Urge Kazama: \"Let's head back now.\""
+  },
+  {
+   "id": "56:3440",
+   "op": "choice",
+   "en": "Leave Kazama and go back first"
+  },
+  {
+   "id": "56:3458",
+   "op": "text",
+   "follows_choice": [
+    "56:3440"
+   ],
+   "en": "Well, it can't be helped.{p}"
+  },
+  {
+   "id": "56:3480",
+   "op": "text",
+   "follows_choice": [
+    "56:23fc"
+   ],
+   "en": "I can't go along with Kazama's selfishness anymore.\n\"You can at least open the door yourself.\"\n\"Wha-★\nYou're telling me to open the door myself?\nYou've got some nerve, saying something so outrageous to someone like me.\"\n...Honestly!\nJust because he's a senior, who does he think people are?\nHow rude can you get.\nI'm definitely not doing it!\n"
+  },
+  {
+   "id": "56:35cc",
+   "op": "text",
+   "en": "\"Do you really think it's all right to keep someone like me waiting?{p}Hurry up and open the door.\"\n"
+  },
+  {
+   "id": "56:3614",
+   "op": "choice",
+   "en": "Open the door"
+  },
+  {
+   "id": "56:3624",
+   "op": "choice",
+   "en": "Don't open the door"
+  },
+  {
+   "id": "56:3634",
+   "op": "text",
+   "follows_choice": [
+    "56:3624"
+   ],
+   "en": "Ugh, he's so annoying...\nIf he doesn't like waiting, he can open it himself and come in.\nAnd then...{p}"
+  },
+  {
+   "id": "56:36ac",
+   "op": "text",
+   "en": "\"You'd better open it.\"\nOne of the members muttered it quietly.\n\"You got here last, so it's only natural you don't know, but...\nWhen he first came here too, he wouldn't come into the room until someone opened the door for him like that.\"\n"
+  },
+  {
+   "id": "56:3780",
+   "op": "text",
+   "en": "..................Huh.{p}"
+  },
+  {
+   "id": "56:37b4",
+   "op": "text",
+   "en": "\"{b}, can you hear me?\nHurry up and open the door for me☆\"\nKazama was calling again.\n"
+  },
+  {
+   "id": "56:3824",
+   "op": "text",
+   "en": "As if reacting to his voice and the knocking, the desks began to rattle.{p}"
+  },
+  {
+   "id": "56:3884",
+   "op": "text",
+   "en": "Next, the floor heaved and warped, and pounding on the door and walls rang out.\nAn earthquake★\nNo!\nIt's the sound of knocking.{p}"
+  },
+  {
+   "id": "56:38ec",
+   "op": "text",
+   "en": "\"Hurry!\nHurry and open the door☆\"\nI ran to the door, nearly tripping over myself.\nThen I flung the door wide open.\nAnd then...?{p}"
+  },
+  {
+   "id": "56:398c",
+   "op": "text",
+   "en": "The shaking that had been so violent stopped dead.\nOutside the door, Kazama stood there with a sulky look on his face.\n\"Honestly, you've got some nerve, keeping someone like me waiting.\"\nWith that, Kazama went straight to his seat and sat down.{p}"
+  },
+  {
+   "id": "56:3a70",
+   "op": "text",
+   "en": "\"You're the host, aren't you?\nWould you hurry up and move on to the next story?\nI've had enough of being kept waiting.\"\n...How selfish can a person be?\nHe can't even open a door himself, yet he says whatever he likes.\nI can't believe a careless person like this has a sixth sense.\nWho knows how much of that story he just told was even true.\n...But still.\nI have to keep all of this to myself.\nWhen I was closing the door, I saw it.\nA huge crack running through the club room door...\nJust how strong is he?\nLet sleeping dogs lie.\nIt's best not to get involved with people like him.\nI'm sure everyone else thinks so too.\nOkay, let's move on to the next story before he gets angry.{p}"
+  },
+  {
+   "id": "56:3cdc",
+   "op": "text",
+   "en": "I sat down in my seat and made an effort to sound cheerful.\n\"Sorry to keep you waiting.\nNow then, shall we move on to the next story?\"{p}"
+  },
+  {
+   "id": "56:3d60",
+   "op": "text",
+   "follows_choice": [
+    "56:1318",
+    "56:1bbc"
+   ],
+   "en": "\"So you'll try opening it.\nYou've got quite a lot of nerve yourself.\nAll right, then let's open it.\nThis shoe locker, right?\"{p}"
+  },
+  {
+   "id": "56:3de8",
+   "op": "text",
+   "en": "With that, Kazama reached for the shoe locker...\nAh...{p}...Wait a second!\n"
+  },
+  {
+   "id": "56:3e40",
+   "op": "choice",
+   "en": "I've changed my mind, never mind"
+  },
+  {
+   "id": "56:3e54",
+   "op": "choice",
+   "en": "I'll open it myself"
+  },
+  {
+   "id": "56:3e64",
+   "op": "choice",
+   "en": "I'll pick a different shoe locker"
+  },
+  {
+   "id": "56:3e78",
+   "op": "text",
+   "follows_choice": [
+    "56:3e40"
+   ],
+   "en": "\"I've changed my mind!\"\nI shouted it on the spot.\nBut it seemed I was a little too late...\nKazama had already flung the shoe locker's door wide open.\nInside it was...★{p}"
+  },
+  {
+   "id": "56:3f40",
+   "op": "text",
+   "en": "A nauseating stench stung my nose.\nWhat a horrible smell!\nIt smelled like a dead crayfish left in a tank for two or three days.\nIt seemed kind of musty too.\nCould this be the source of the aura swirling in the shoe locker?\nIf so, it was a monstrously vicious aura, full of hatred.\nWhat do I do...\nI can't stop shaking.\nI've opened something terrible.\nThat's how it felt.\nKazama was staring into the shoe locker too, as if glaring at it.\nAnd then, slowly, he closed the door...{p}"
+  },
+  {
+   "id": "56:4118",
+   "op": "text",
+   "en": "\"...Phew, that was a truly awful smell.\nWho's the one who never washes their shoes?!\nOnce it gets that bad, it's a crime.\"\nWhat★\nThat was the smell of shoes?{p}"
+  },
+  {
+   "id": "56:41b8",
+   "op": "text",
+   "en": "\"How truly frightening!\nIt gives me chills to think someone actually wears shoes like that.\nDon't you agree, {b}?\"\n\"............Um, sure.\"\nI mean, that's true, but...{p}"
+  },
+  {
+   "id": "56:425c",
+   "op": "text",
+   "en": "\"Well...\nNow that we've had a frightening experience, shall we head back to the club room?\nOr do you want to try opening another one?\"\nNo way.\nI never want to smell anything like that again.{p}"
+  },
+  {
+   "id": "56:430c",
+   "op": "text",
+   "en": "Cursing my bad luck, I hurried to the club room.\nLet's see...\nWho should I pick next?\nYeah, I'll go with that person.{p}"
+  },
+  {
+   "id": "56:4394",
+   "op": "text",
+   "en": "Back in the club room, once I'd caught my breath, I looked straight into the eyes of the person I'd chosen earlier.\n\"Now then, the next story, please.\"{p}"
+  },
+  {
+   "id": "56:4414",
+   "op": "text",
+   "en": "What...\nIt's just a plain old shoe locker, nothing special about it.\nThere's only a pair of indoor shoes inside.\n...Or so I thought.{p}"
+  },
+  {
+   "id": "56:44a0",
+   "op": "text",
+   "en": "Eww!\nThe soles are crammed with thumbtacks!\nWhoever owns these indoor shoes must be really hated.\nOr maybe they're being bullied...\nI hope it's just someone's prank.\nLooking at the rows of thumbtack points, I start to think that the scariest thing of all might be the human heart.\nOr else...\nCould this be the work of an evil spirit too?\nWith trembling hands, I closed the shoe locker's door.{p}"
+  },
+  {
+   "id": "56:4620",
+   "op": "text",
+   "en": "\"{b}, it looks like you've had a pretty frightening experience.\nYour face has gone white as a sheet.\"\n\"...Yes.\"\n\"Well then, shall we head back to the club room?\"{p}"
+  },
+  {
+   "id": "56:46b8",
+   "op": "text",
+   "en": "Back in the club room, once I'd caught my breath, I made an effort to keep my voice calm.\n\"Now then, let's move on to the next story.\"{p}"
+  },
+  {
+   "id": "56:4738",
+   "op": "text",
+   "en": "Huh, what's this?\nWhat caught my eye was a pink envelope...\nCould this be a love letter★\nEeek, what do I do?\n..........Oh, it isn't addressed to me.\nGeez, all that heart-pounding for nothing.{p}"
+  },
+  {
+   "id": "56:481c",
+   "op": "text",
+   "en": "\"Oh? Now this is a nice find.\"\n\"Huh★\nW-wait a minute, Kazama?\"\nDon't tell me he's going to read what's inside without asking...\n"
+  },
+  {
+   "id": "56:48ac",
+   "op": "text",
+   "en": "Oh no, he opened it.\nReading someone else's letter without permission...\nIsn't that a real crime?\n"
+  },
+  {
+   "id": "56:4918",
+   "op": "text",
+   "en": "Ah, and on top of that, he's putting the letter he just read in his pocket.\nHonestly!\nWhat kind of person is he?\nHe scares me more than any ghost...\n\"Well, shall we hurry back to the club room?\nOtherwise it'll throw off the rest of my schedule.\nI'm a very busy man, you see.\"{p}"
+  },
+  {
+   "id": "56:49f8",
+   "op": "text",
+   "en": "Honestly, he only ever says whatever suits him!\nYou're the one who brought us here, Kazama!\nEveryone else seems a little fed up too.\nIf today's interview ends in failure, it'll be all, all Kazama's fault.\nReally, why on earth did Hino invite someone like this?\nCursing my bad luck, I hurried to the club room.\nLet's see...\nWho should I pick next?\nYeah, I'll go with that person.{p}"
+  },
+  {
+   "id": "56:4b60",
+   "op": "text",
+   "en": "Back in the club room, once I'd caught my breath, I looked straight into the eyes of the person I'd chosen earlier.\nAnd I said this.\n\"Now then, the next story, please.\"{p}"
+  },
+  {
+   "id": "56:4bfc",
+   "op": "text",
+   "follows_choice": [
+    "56:3e54"
+   ],
+   "en": "\"I'll open it myself!\"\nI shouted it on the spot.\n\"Oh?\nThen I'll let you do the honors.\"\nJust as Kazama told me, I reached out toward one of the shoe lockers.\nI don't know why, but I couldn't stop feeling strangely drawn to that one.\nWhat in the world could be inside...★\n"
+  },
+  {
+   "id": "56:4d08",
+   "op": "text",
+   "en": "Creeeak...\nThe shoe locker's door swung open with a squeal.\nInside it was...{p}"
+  },
+  {
+   "id": "56:4d64",
+   "op": "text",
+   "follows_choice": [
+    "56:3e64"
+   ],
+   "en": "\"I'll pick a different shoe locker!\"\nI shouted it on the spot.\n\"Oh?\nThen which shoe locker will it be?\nGo ahead and choose for yourself.\"\nJust as Kazama told me, I reached out toward one of the shoe lockers.\nI don't know why, but I couldn't stop feeling strangely drawn to that one.\nWhat in the world could be inside...★\n"
+  },
+  {
+   "id": "56:4e8c",
+   "op": "text",
+   "en": "Creeeak...\nThe shoe locker's door swung open with a squeal.\nInside it was...{p}"
+  }
+ ]
+}

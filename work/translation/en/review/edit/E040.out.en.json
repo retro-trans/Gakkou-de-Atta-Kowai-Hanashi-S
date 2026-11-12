@@ -1,0 +1,24 @@
+{
+ "rows": {
+  "20:7484": "...Hm?\nIs this a message from your past life?\nMaybe you've been cheeky ever since your past life.\nHmmm...\nA cheeky man...\n",
+  "20:7520": "Maybe you were a prince of some country...\n...No, it hasn't been settled that clearly yet.\nBut it might be close...\nEven if you weren't a prince, though.\nYou could've been a prince's aide, or his pet...\nOr an ingredient in a dish served at the prince's table...\nThose possibilities are all still open.\n...You don't believe me?\nAll right!\nThen I'll read your fortune in even more detail☆{p}",
+  "20:799c": "Traveling, huh?\nYou do love that sort of thing, don't you?\n...You're out to pick up girls, right?\nI know all about it.\nNo, you don't have to hide it.\nI think I've got your personality figured out.\nYou seem like a simple guy.\nThe fortune says so too.\nIn your past life, you must have been a pretty simple fellow too.\nWell, don't let it get you down.\nEven if your past life was nothing special, you can just try hard from now on.\nOf course, some people never get rewarded however hard they try.\n...Why the sulky face?\nAre you feeling gloomy now?\nThen how about I blow that mood away for you?\nAs a special treat, just for you, since you chose the Special Course, I'll teach you a marvelous charm.{p}",
+  "20:80ec": "\"No way... I'd never say that, not even if you tore my mouth open!\"\nWhen I stood my ground...{p}",
+  "20:8488": "...Or so I thought, but then he suddenly grinned and said this:\n\"{a}... I can see your past life clearly now.\nIt's really hard to say, but...\"\nKazama wore a spiteful smile.\nWhat is with this guy?\nHe's not going to say something nasty because he's mad I ignored him, is he?{p}",
+  "20:8780": "Whoa!\nYou've got pretty sharp intuition!\nYour past life was a sea slug.\nPhew, I'm so glad\nyou guessed it.\nIt would've been a bit hard to say something like that myself.{p}",
+  "20:89e4": "...Actually, you're exactly right.\nYou were a sea anemone drifting in swarms in a certain sea.\nI even know your name.\nYou were called Anemone Jack.\nYou were a really cute sea anemone.\nAfter you died, you became beautiful coral and ended up as a necklace for the queen of a certain country.\nYou played a starring role, you know.\n...That's a lie.\nThe Anemone Jack part is true, though.\nThe coral necklace and the starring role are the big lies.\nHa ha ha...\nFrom birth to death, you were just Anemone Jack.\n",
+  "20:8eac": "Hmmmmm?\nWhat are you talking about?\nI read your past life correctly, you know.\nIt's not nice to take that attitude just because you didn't like the result.{p}"
+ },
+ "notes": [
+  "20:7484: EDIT - clumsy 'your cheekiness is a fact that hasn't changed since your past life' -> 'you've been cheeky ever since your past life'",
+  "20:7520: EDIT - 'nothing's been settled' -> 'it hasn't been settled'; fragment 'Even supposing you weren't a prince.' -> 'Even if you weren't a prince, though.'; 'Right!' (yoshi) -> 'All right!'",
+  "20:799c: EDIT - 'Your past life must have been a pretty simple fellow' (a past life is not a fellow) -> 'In your past life, you must have been...'",
+  "20:80ec: EDIT - player's spoken line matched to its choice echo 20:1d78 ('I'd never say that, not even if you tore my mouth open')",
+  "20:8488: EDIT - smoother 'then he suddenly grinned and said this:'; 'nasty smile' -> 'spiteful smile' to avoid repeating 'nasty' two lines later",
+  "20:8780: EDIT - disjointed 'Phew, what a relief! / That you guessed it, I mean.' -> 'Phew, I'm so glad / you guessed it.' (keeps the source's two-line split); 'with my own mouth' -> 'myself'",
+  "20:89e4: EDIT - 'the necklace of a queen of a certain country' -> 'a necklace for the queen of a certain country'",
+  "20:8eac: EDIT - reordered awkward 'Just because you didn't like the result, it's not nice...' into natural order",
+  "20:7fdc: KEEP - returns note: 'I'll take care of you personally' already carries the same dote-on/deal-with double sense in English, which 'dote on you' would lose",
+  "Kazama's laugh: KEEP 'Heh heh heh' for uffuffu, matching its use across E036-E039 (E039 also has 'Ooh-hoo-hoo' for a different laugh; outside this chunk)"
+ ]
+}

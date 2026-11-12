@@ -1,0 +1,397 @@
+{
+ "slice": "S170",
+ "scene": "44",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S169",
+ "next": "S171",
+ "todo": [
+  "- S170 44:98bc/9a88/9f48/a1f0: Bohheritian's katakana speech rendered as stiff Title Case English; reviewer may prefer plain stiff English.",
+  "- S170 44:87c8: source gives the player a \"wife\" in both gender branches; kept as is."
+ ],
+ "rows": [
+  {
+   "id": "44:6750",
+   "op": "text",
+   "en": "Eek!{p}"
+  },
+  {
+   "id": "44:675c",
+   "op": "text",
+   "en": "A bullet grazed past the side of {f:my|my} head.\nWhen I looked, a police officer, maybe because someone had called them, was aiming a gun at {f:me|me}.{p}"
+  },
+  {
+   "id": "44:67e0",
+   "op": "text",
+   "en": "\"·★·☆·☆☆\"\nI-I can't speak properly!\n\"★☆☆··☆☆\"\nThe more I panicked, the more what came out of {f:my|my} mouth was that strange language the Sunbararians had been speaking...\nHad {f:I|I} turned into a Sunbararian{f:?|?}★{p}"
+  },
+  {
+   "id": "44:68f0",
+   "op": "text",
+   "en": "The officer fired at me again.\n{f:I|I} ran.\nWhere to?\n...To school.\n{f:I|I} ran toward the school, where my comrades were.{p}"
+  },
+  {
+   "id": "44:6980",
+   "op": "text",
+   "en": "...This is a dream{f:.|.}\nThat's right{f:,|,} it has to be a dream{f:.|.}\nThis is a nightmare{f:!|!}\n{f:Please|Please}!\nIf this is a dream, let me wake up{f:|}..................!{p}"
+  },
+  {
+   "id": "44:6a40",
+   "op": "text",
+   "follows_choice": [
+    "44:1bc0"
+   ],
+   "en": "\"Thank you all very much for taking time out of your busy schedules to gather here today.\nThanks to you, I think we can make a really interesting school paper.\nAnd, um, this is a little hard to say, but...\nI'm sorry, but I have something important to discuss with Kazama now, so would you all mind going home?\"\n{f:I|I} said it half out of desperation.{p}"
+  },
+  {
+   "id": "44:6b8c",
+   "op": "text",
+   "en": "\"Well then, I'm heading out first.\nGo ahead and talk all you want, just the two of you.\nGood work today, see ya.\"\nEveryone was already briskly getting ready to leave.{p}"
+  },
+  {
+   "id": "44:6c10",
+   "op": "text",
+   "en": "It can't be helped{f:.|.} {f:I'm|I'm} the one who decided to have it out with him, after all...\nThough I don't know how long this resolve will last.{p}"
+  },
+  {
+   "id": "44:6c9c",
+   "op": "text",
+   "en": "\"Good work, everyone!\"\nThe last one went home.\nAll right, now the real thing begins{f:.|.}\nI've come this far and made up my mind, so {f:I'm|I'm} going to settle once and for all whether Kazama really is an alien or just a nutcase{f:!|!}\nI'm angry at Kazama's attitude, and if he's been acting like that half as a joke, {f:I|I} intend to make him apologize{f:.|.}\nExcept if he turns out to be a real alien, or a real nutcase, that is.\n{f:I'm|I'm} convinced he's a nutcase, though.\nNo, he definitely is{f:.|.}{p}"
+  },
+  {
+   "id": "44:6e98",
+   "op": "text",
+   "en": "Kazama had been smiling all this time.\nNow that he was finally alone with {f:me|me}, his face must have been loosening up even more{f:.|.}\n\"You're bolder than I thought.\nI need you to think a little more before you act, though.\nIt'd be bad if our mission got exposed, wouldn't it?\nWell, what's done is done.\nNow, comrade, let's start our briefing.\"\nKazama said happily.{p}"
+  },
+  {
+   "id": "44:6ff4",
+   "op": "text",
+   "en": "I doubt it{f:,|,} but he won't suddenly go berserk, will he{f:?|?}\nEither way, if it looks like we can't understand each other by talking, {f:I|I} plan to get out of here{f:.|.}\n{f:I|I} decided to keep the conversation going without provoking him.\nIf I suddenly went straight to the heart of it, whether Kazama is an alien or not, that would be scary{f:.|.}{p}"
+  },
+  {
+   "id": "44:7140",
+   "op": "text",
+   "en": "\"By the way, when will the Earth invasion plan be officially put into action?\"\n{f:I|I} tried probing a little deeper.\n\"Huh, you didn't know?\nThere were banners hung all over Sunbararia.\n'Only so many days until the invasion of Earth'... Have you forgotten already?\"\nKazama said with a laugh.{p}"
+  },
+  {
+   "id": "44:7270",
+   "op": "text",
+   "en": "What? Nobody told me it had come to that{f:!|!}\n{f:No|No}, Kazama is completely off in another world{f:.|.}\n\"Oh, it was so long ago that I totally forgot{f:.|.} {f:Sorry, sorry|I'm so sorry}.\"\n{f:I|I} played along nicely.{p}"
+  },
+  {
+   "id": "44:7398",
+   "op": "text",
+   "follows_choice": [
+    "44:1bec"
+   ],
+   "en": "\"Waaaaaah!\"\nUnable to hold back what was welling up inside {f:me|me}, I acted on it before I knew it.{p}"
+  },
+  {
+   "id": "44:741c",
+   "op": "text",
+   "en": "\"Whoa there!\"\nKazama dodged {f:my punch|my attack} with quick footwork.\nThank goodness.\nIf he hadn't dodged, {f:I'd have punched Kazama with everything I had|by now I'd have... Kazama...}.\nEven if {f:I|I} was the one who did it, that was a little reckless of me{f:.|.}\nEveryone was startled too, frozen where they stood.{p}"
+  },
+  {
+   "id": "44:7584",
+   "op": "text",
+   "en": "\"It's all right, everyone...\n{c}{f:|} just got a little dizzy, it seems.\nCome on, there's no need to worry. I'll look after {f:him|her}...\"\nFrom the momentum of dodging the {f:punch|attack}, Kazama had ended up holding {f:me|me} in his arms.\nEveryone seemed convinced, and they went home.\n{f:I|I} {f:just let him hold me|had let him hold me}, doing nothing to stop it.\nFor some reason, I couldn't move.{p}"
+  },
+  {
+   "id": "44:7714",
+   "op": "text",
+   "en": "\"There, everyone's gone.\nLet's hurry and start our briefing! Comrade!\"\nKazama pulled {f:me|me} up and said it, gripping {f:my|my} hand tightly.\nI thought it no longer mattered whether Kazama was really an alien or just a nutcase.\nWait{f: a minute| a second}, if I think about it, it does matter{f:.|.}\nEither way, that means Kazama is extremely dangerous{f:!|!}\nThat's right{f:,|,} just being near him is dangerous, so why did {f:I|I} go and swing at him{f:?|?}\nJust remembering it now gives me chills{f:.|.}\nFrom here on, the way {f:I|I} should act toward him is...{p}"
+  },
+  {
+   "id": "44:7974",
+   "op": "text",
+   "follows_choice": [
+    "44:2124"
+   ],
+   "en": "{f:I|I} made a dash for the club room door.\n\"Ah, {c}{f:|}☆\"\nI could hear Kazama's voice{f:, but|, but} I mustn't let it get to me.\nIn any case, it's obviously better not to be here with Kazama.{p}"
+  },
+  {
+   "id": "44:7a50",
+   "op": "text",
+   "en": "Once I'm out in the hallway, I've got it made{f:.|.}\n\"{f:Whoa|Eek}!\"{p}"
+  },
+  {
+   "id": "44:7ab8",
+   "op": "text",
+   "en": "The door suddenly slammed shut.\nIt missed {f:my|my} nose by a hair.\nIf it had shut a moment later, the door might have hit {f:me|me} square on the head.{p}"
+  },
+  {
+   "id": "44:7b64",
+   "op": "text",
+   "en": "\"{c}{f:|}, it's all right.\nYou were trying to close the door for me, weren't you? Thank you.\nBut don't worry. {f:I|I} closed it, so no one will overhear us.\"\nKazama said with a beaming smile.\nDoes he have special powers too{f:?|?}\nThat's not what I meant at all, yet Kazama keeps interpreting everything to suit himself.\nAt this rate, I'm going to be backed further and further into a corner.{p}"
+  },
+  {
+   "id": "44:7cc4",
+   "op": "text",
+   "en": "\"This body is cramped, too.\nAhh, I can't wait to return to my original form. Hey, {c}{f:|}, don't you think so too?\"\nKazama said, gazing into the distance.\nWhat?\nWhat does he mean, {f:'original form'|'original form'}?\nThat made me all the more certain that Kazama's mind was broken.\nIt might be better not to go against him here.\nI'd better wait and see a little longer{f:.|.}\nIf I make a rash move, there's no telling what Kazama might do to me{f:.|.}{p}"
+  },
+  {
+   "id": "44:7e6c",
+   "op": "text",
+   "follows_choice": [
+    "44:2490"
+   ],
+   "en": "\"Shall we switch to our native tongue soon? The door to this room's been shut, too, after all. It's been a while, though, so I wonder if I can still speak it well.\"\n{f:I|I} tried saying something like that, just in case.\nIt's all or nothing now, so maybe I should just go all the way and play the part of a Sunbararian{f:.|.}\nThen, when I find an opening, I can run for it.\nThere's no need to put myself in danger right now{f:.|.}{p}"
+  },
+  {
+   "id": "44:7fe0",
+   "op": "text",
+   "en": "\"No, there's no need to switch to our native tongue yet. For now, I'm still Nozomu Kazama, the Earthling, after all.\"\nKazama said.\nPhew, {f:that's the right answer|that's just what I wanted to hear}, Kazama.{p}"
+  },
+  {
+   "id": "44:8098",
+   "op": "text",
+   "follows_choice": [
+    "44:24b4"
+   ],
+   "en": "For the moment, {f:I|I} said nothing and just smiled at Kazama.{p}"
+  },
+  {
+   "id": "44:80e0",
+   "op": "text",
+   "en": "\"What's gotten into you? Smiling like that.\"\nKazama was grinning, too.\n\"{f:Hear me out|Please listen}, the truth is... {f:I|I} seem to have amnesia{f:.|.} There was an accident on the way to Earth{f:, see|, you see}. {f:Sadly|Unfortunately}, I don't remember much about my life on Sunbararia{f:.|.} I only remember bits and pieces of the Sunbararian language, too{f:.|.} Boo hoo.\"\n{f:I|I} put on an exaggerated show of grief in front of him.{p}"
+  },
+  {
+   "id": "44:82a0",
+   "op": "text",
+   "en": "\"I-I had no idea that had happened. And not knowing it, I said such terrible things to you... Please forgive me.\"\nKazama {f:seemed|seemed} to be worried about {f:me|me}.\nI think he'd better worry about himself.\nIf you ask me, what he should be worried about right now is his own head.{p}"
+  },
+  {
+   "id": "44:83d0",
+   "op": "text",
+   "en": "\"But don't worry. I'll get your memories back for you.\"\nWith that, Kazama looked at {f:me|me}.\nThen he came walking toward {f:me|me}.\nNow all I could see in front of me was Kazama's face.\nWhat on earth is he going to do{f:?|?}\nAs I looked into his eyes, I gradually began to feel good.\nIt was a feeling like I was floating in water{f:.|.}\nKazama put his hand on {f:my|my} forehead and said,\n\"Now, relax. Try closing your eyes.\"{p}"
+  },
+  {
+   "id": "44:85a4",
+   "op": "text",
+   "en": "{f:I|I} felt so good that I couldn't tell whether I was in a dream or in the real world.{p}Do what he says?\n"
+  },
+  {
+   "id": "44:8620",
+   "op": "choice",
+   "en": "Close my eyes"
+  },
+  {
+   "id": "44:862c",
+   "op": "choice",
+   "en": "Don't close my eyes"
+  },
+  {
+   "id": "44:864c",
+   "op": "text",
+   "follows_choice": [
+    "44:8620"
+   ],
+   "en": "And so {f:I|I} slowly closed my eyes.\nAnd {f:what do you know|what do you know}, behind {f:my|my} eyelids I saw myself, living as a Sunbararian{f:!|!}\nSo this is a Sunbararian{f:...|...}\nWhy did I know that the alien shown there was {f:me|me}{f:?|?}\nIt looked completely different from a human.\nSomehow, I couldn't help feeling that it was.{p}"
+  },
+  {
+   "id": "44:87c8",
+   "op": "text",
+   "en": "...It showed the whole course of {f:my|my} life, from being born on Sunbararia to growing up.\nThese images seemed to be of {f:me|me} recently.\n{f:I|I} had a wife and three children.\nOh, now {f:my|my} wife and children are crying.\nThis seems to be the day before {f:I|I} was dispatched to Earth.\nAnd so, before reaching Earth, {f:I|I} lost my memory in an accident...\n\"Now, open your eyes.\"\nKazama's voice echoed.{p}"
+  },
+  {
+   "id": "44:8990",
+   "op": "text",
+   "en": "\"{f:Whoa|Eek}! K-Kazama★ A monster☆\"\n{f:I|I} had cried out loud without meaning to.\nStanding there was not Kazama, but a monster with an ammonite-like head{f:!|!}\n\"What are you so surprised about? This is our true form, isn't it?\"\nthe thing said.\n\"Honestly, you. We've looked like this since the day we were born.\"\nOn an impulse, {f:I|I} looked at my reflection in the window glass.\n\"..............................{f:No way|No way}★\"{p}"
+  },
+  {
+   "id": "44:8b40",
+   "op": "text",
+   "en": "Two monsters with ammonite-like heads were reflected there.\nThen {f:I|I} felt my face with my hands.\nMy head was big and smooth, and tentacle-like whiskers sprouted in a bushy tangle around my mouth.\nSo this is {f:my|my} face{f:...|...}\nWhat on earth has happened to {f:me|me}{f:|}★\n\"Well, now that your memories are back, you should head home to Sunbararia for a while. Your wife is worried about you. Leave the rest to me.\"\n...The Sunbararian said kindly to {f:me|me}.\nAt that moment, a high-pitched ringing in my ears struck {f:me|me}.{p}"
+  },
+  {
+   "id": "44:8d80",
+   "op": "text",
+   "en": "\"..............................I remember now{f:!|!} {f:I|I} {f:am a Sunbararian|was a Sunbararian all along}. Back then, {f:I|I} had lost my memory and didn't know what to do, so I took over an Earthling's body, didn't I? And at some point, that human's thoughts and memories merged with mine{f:.|.} At last, I've remembered{f:|}☆ Comrade☆\"{p}"
+  },
+  {
+   "id": "44:8ed8",
+   "op": "text",
+   "en": "{f:I|I} embraced the Sunbararian in front of me tightly.\nShedding tears of joy.\n\"For now, I'll take you to our secret base on Earth. Once you've settled down, you should hurry back to Sunbararia. Tonight, let's talk until dawn. Comrade!\"\nThe Sunbararian took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:9004",
+   "op": "text",
+   "en": "For an instant, the sky lit up.\nIt was already dark outside, so the area became as bright as day.\nThe light soon faded, and the darkness returned.\nAnd the two Sunbararians were no longer there.{p}"
+  },
+  {
+   "id": "44:90d8",
+   "op": "text",
+   "follows_choice": [
+    "44:862c"
+   ],
+   "en": "My eyelids are heavy.\nI feel like my eyes are about to close{f:.|.}\n{f:I|I} had almost done what he told me, and I shook my head hard.\nIf I do what he says here, there's no telling what he'll do to me.\nBut I feel so good{f:.|.}\nFighting back my drooping eyelids, I barely managed to keep my eyes half open.{p}"
+  },
+  {
+   "id": "44:9210",
+   "op": "text",
+   "en": "\"Ugh!\"\nAnd {f:what do you know|what do you know}, in my blurry vision I saw a Kazama transformed beyond recognition.\nHe had something like an ammonite on his head, and tentacles came slithering out of his hands and mouth.\nStartled, {f:I|I} tried somehow to get away, but my body wouldn't move.\nMeanwhile, its tentacles came stretching closer and closer to {f:my|my} body{f:.|.}\nThe slimy tentacles were crawling all over {f:my|my} skin.\nThey squirmed, trying to work their way into {f:my|my} nose and mouth and ears.\nAnd yet, my body felt better and better.\n{f:I|I} began to think that, with a pleasure like this, it didn't matter what happened to me anymore.{p}"
+  },
+  {
+   "id": "44:9454",
+   "op": "text",
+   "en": "Am I really okay with this{f:?|?}☆ {c}☆\n"
+  },
+  {
+   "id": "44:947c",
+   "op": "choice",
+   "en": "I can't let this go on!"
+  },
+  {
+   "id": "44:9494",
+   "op": "choice",
+   "en": "Do whatever you want with me"
+  },
+  {
+   "id": "44:94a4",
+   "op": "text",
+   "follows_choice": [
+    "44:947c",
+    "44:17728"
+   ],
+   "en": "{f:I|I} can't let this happen☆\nWith that thought, {f:I|I} put all my strength into my body.{p}"
+  },
+  {
+   "id": "44:94f0",
+   "op": "text",
+   "en": "\"{f:Raaaaaaaghhh|Haaaaaaaaah}☆\""
+  },
+  {
+   "id": "44:9524",
+   "op": "text",
+   "en": "{p}And {f:what do you know|what do you know}, a dazzling light like an aura burst out of {f:my|my} body{f:!|!}\n\"Gyaah☆\"\nThe thing let out a short scream and pulled its tentacles off {f:my|my} body.\nWhen I came to my senses, the light was gone from my body.{p}"
+  },
+  {
+   "id": "44:9630",
+   "op": "text",
+   "en": "The Sunbararian seemed to be frightened of {f:me|me}{f:.|.}\nI could see him trembling all over.\n\"Y-you... C-could you be the legendary★\"\nhe said in a broken voice.\n\"What on earth am {f:I|I}{f:?|?} What {f:was|was} that light just now? It feels like something hot is racing through my body{f:.|.} It's as if I can almost remember something, but I can't.\"\n{f:I|I} murmured.\nHe said,{p}"
+  },
+  {
+   "id": "44:97c4",
+   "op": "text",
+   "en": "\"Y-you don't know what you really are? That light just now was the same as the aura of the legendary hunters, the Bohheritians!\"\nB-Bohheritians?\n\"Ugh... my head☆\"\nWith a high-pitched ringing, {f:I|I} felt myself slipping away.{p}"
+  },
+  {
+   "id": "44:98bc",
+   "op": "text",
+   "en": "\"Can You Hear My Voice? {a}.\nI Am Sorry I Startled You Earlier.\nI Am, As The Sunbararian Said, A Bohheritian.\nOur Entire Race Exists For One Purpose: Hunting Criminals.\nOur Duty Is To Slip Into Many Planets, Seek Out Space Criminals, And Eliminate Them.\nThis Time, I Borrowed Your Body.\nI Feel Sorry That I Borrowed Your Body Without Permission.{p}Please, Lend Me Your Strength☆\"\n"
+  },
+  {
+   "id": "44:9a60",
+   "op": "choice",
+   "en": "Lend my strength"
+  },
+  {
+   "id": "44:9a6c",
+   "op": "choice",
+   "en": "Like hell I will"
+  },
+  {
+   "id": "44:9a88",
+   "op": "text",
+   "follows_choice": [
+    "44:9a60"
+   ],
+   "en": "I have no idea what's going on{f:, but|, but} at any rate I can't let that wreck of what used to be Kazama do as it pleases{f:.|.}\n\"All right. What should {f:I|I} do★\"\n{f:I|I} said in a panic.\n\"Will You Help Me, And Pray That We Defeat The Sunbararian? That Is All. Now, Here We Go☆\"\n{f:I|I} prayed in my heart with all my might.{p}"
+  },
+  {
+   "id": "44:9bd8",
+   "op": "text",
+   "en": "Just then, I felt as if something hot burst deep inside my body, and I suddenly came to my senses.{p}"
+  },
+  {
+   "id": "44:9c34",
+   "op": "text",
+   "en": "\"If it's come to this, I must carry out the invasion of Earth at once.\"\nthe Sunbararian said.\n\"I won't let you☆\"\n{f:I|I} blurted out something I'd never meant to say.\nIt seems the Bohheritian's mind has mixed in with {f:my|my} thoughts, too{f:.|.}{p}"
+  },
+  {
+   "id": "44:9d28",
+   "op": "text",
+   "en": "Just like before, {f:my|my} body began to glow again.\nIt seemed to be giving off light even more fiercely than before{f:.|.}\nThen a dazzling light enveloped everything around.\nEven in the glare, {f:I|I} didn't close my eyes.\n{f:I|I} watched steadily as the Sunbararian vanished into the light.{p}"
+  },
+  {
+   "id": "44:9e4c",
+   "op": "text",
+   "en": "When the light died down, the Sunbararian had vanished without a trace.\nThe turn of events was so much that {f:I|I} could only stand there in a daze.\nSo in the end, Kazama really was a Sunbararian{f:.|.}\nAnd here I thought he was just a nutcase.{p}"
+  },
+  {
+   "id": "44:9f48",
+   "op": "text",
+   "en": "Just then, I heard that voice from before inside {f:my|my} head.\nIt said it was a Bohheritian, didn't it...\n\"Thank You.\nThanks To You, It Seems We Were Able To Stop The Alien Invasion.\nI Am Terribly Sorry, But I Want To Borrow Your Body Again.\nI Am Counting On You.\nTrain Your Mind So That You Can Control Me.\nThen You Can Call Me Out Anytime.\nIf You Do Not, I Will Be Bored, You See.\"{p}"
+  },
+  {
+   "id": "44:a0c0",
+   "op": "text",
+   "en": "{f:What|Excuse me}?\nWait{f: a minute| a second}, {f:I|I} never said yes{f:!|!}☆\nHey☆\n...No answer at all.\nGeez, deciding on your own☆\nThese Bohheritians sure are pushy.{p}...Oh well, whatever.\nStill, it's kind of cool, isn't it?\nBeing a hunter...{p}"
+  },
+  {
+   "id": "44:a1f0",
+   "op": "text",
+   "follows_choice": [
+    "44:9a6c"
+   ],
+   "en": "\"Hold on a second. {f:I|I} have no way of judging which side is the bad guy{f:,|,} you know. Showing up out of nowhere and telling me, 'Lend me your strength,' is way too convenient{f:.|.} Besides, borrowing {f:my|my} body without asking is awful, isn't it{f:?|?} There's no way I'm helping someone like that{f:.|.}\"\n{f:I|I} said, a little miffed.\n\"Understood. And Here I Was Trying To Help You. There Is No Need To Talk Like That. I Have Been Very Hurt. Do As You Please. Just As You Say, {a}, I Will Leave This Place.\"\nthe Bohheritian said.{p}"
+  },
+  {
+   "id": "44:a40c",
+   "op": "text",
+   "en": "Then I felt the hot thing that had been coursing through {f:my|my} body suddenly fade away.{p}"
+  },
+  {
+   "id": "44:a490",
+   "op": "text",
+   "en": "\"{a}, you really are a fool, aren't you?\nYou had the chance to borrow the power of the legendary hunter, the Bohheritian.\nAnd now, with that one word of yours, this Earth has been abandoned.\nSo {f:we|we} will go ahead and invade Earth without holding back.\nHeh heh heh...\"{p}"
+  },
+  {
+   "id": "44:a584",
+   "op": "text",
+   "en": "Wh-what... {f:I|I} only acted like that because things were moving too fast for me to keep up{f:.|.}\nEvery time I try to solve one problem, another one crops up, so there's nothing I can do.\nAnd then the Sunbararian took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:a6a8",
+   "op": "text",
+   "en": "For an instant, the sky lit up.\nIt was already dark outside, so the area became as bright as day.\nThe light soon faded, and the darkness returned.{p}"
+  },
+  {
+   "id": "44:a74c",
+   "op": "text",
+   "en": "The Sunbararian was no longer there.\n...Thank goodness, it was all an illusion.\nThen I happened to look down the hallway.{p}"
+  },
+  {
+   "id": "44:a7c0",
+   "op": "text",
+   "en": "{f:I|I} was at a loss for words.\nSunbararians, enough to fill the whole hallway, were walking toward me{f:.|.}\n\"It wasn't a dream{f:...|...} none of it...\"\n{f:I|I} could only stand there, frozen.{p}"
+  },
+  {
+   "id": "44:a8ac",
+   "op": "text",
+   "follows_choice": [
+    "44:9494",
+    "44:1773c"
+   ],
+   "en": "{f:I|I} gave myself up to him and let him do as he pleased.\nThe Sunbararian's tentacles wormed their way through the gaps in {f:my|my} clothes, pushing farther and farther in.\nI could feel the fine, hair-thin tips of the tentacles working into every hole in my body.\nI could no longer move my body at all.\n\"No good. You can't fool us Sunbararians. These tentacles can see right through your lies.\"\nWith that, the thing spread its tentacles even wider and wrapped {f:me|me} up.{p}"
+  },
+  {
+   "id": "44:aa74",
+   "op": "text",
+   "en": "...Nothing matters anymore.\nWrapped in a pale green membrane, I want to stay drunk on this pleasure.\nIf I could die feeling this good, I thought that would be fine.\nRegrets?\n{f:Well, sure|Of course}, I have plenty of regrets{f:.|.}\nBut Earth is going to be invaded by the Sunbararians anyway, so there's no point in living, right?\nWrapped in an indescribable pleasure, {f:I|I} felt my consciousness fading away.{p}"
+  },
+  {
+   "id": "44:ac14",
+   "op": "text",
+   "follows_choice": [
+    "44:2804",
+    "44:304c"
+   ],
+   "en": "\"Heh...\"\n{f:I|I} laughed.\nLaugh or cry... that was all I could think of.\nThen I'll laugh all the way!\n\"Wahahahahahahaha☆\"\nKazama stayed completely silent.\nUh-oh!\nLooks like I made him angry{f:.|.}\nWas my laugh a little too arrogant?\nEven so, it's not like I can stop right away...\nThen, with a deadly serious expression, Kazama got up from his seat and strode straight toward {f:me|me}.{p}"
+  },
+  {
+   "id": "44:addc",
+   "op": "text",
+   "en": "\"Wahahahahahahaha☆\"\nStill laughing nonstop, {f:I|I} ended up face to face with Kazama...\n\"That's enough. I understand very well what you're trying to say.\"\nWith that, Kazama grabbed {f:my|my} arm.{p}"
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "slice": "S206",
+ "scene": "55",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S205",
+ "next": "S207",
+ "todo": [
+  "- S206 55:1f00/1f74: an open quote is closed in 1f74; the replies after choices 1e94/1ea8 also lead into 1f74, so they must open the quote too.",
+  "- S208 55:6d14/6eb0 → 55:1f74: same quote mismatch as the S206 note (the source has it too). Fix: move the closing quote out of 1f74, or open quotes on every branch that leads into it."
+ ],
+ "rows": [
+  {
+   "id": "55:0b98",
+   "op": "text",
+   "en": "So it's finally my turn?\nNice to meet you all.\nMy name is Shoji Arai, from Class 2-B.\n...Still, you were all chosen from the whole school, and it shows. You know all sorts of scary stories.\nI'm truly impressed.\nI know a fair number of scary stories myself, but I'd started to feel a little uneasy.\nWhat would I do if someone else told the story I'd prepared before I could...?\nBut it seems there was no need at all for that worry.\nAfter all, this school has mountains of scary stories...\nWell then, let me begin my story.\nHave any of you heard of 'the Three O'Clock Hag'?\nAh... it seems a few of you have.\n...{a}.{p}What about you?\n"
+  },
+  {
+   "id": "55:0e08",
+   "op": "choice",
+   "en": "I know it well"
+  },
+  {
+   "id": "55:0e18",
+   "op": "choice",
+   "en": "I only know the name"
+  },
+  {
+   "id": "55:0e30",
+   "op": "choice",
+   "en": "I've never heard of it"
+  },
+  {
+   "id": "55:0e40",
+   "op": "text",
+   "follows_choice": [
+    "55:0e18"
+   ],
+   "en": "Ah, I see.\nSo you only know the name.\nIt seems quite a lot of people are like that.{p}"
+  },
+  {
+   "id": "55:0eb4",
+   "op": "text",
+   "en": "The Three O'Clock Hag is apparently a yokai that appears in restrooms at exactly three in the afternoon.\n...That said, all you hear are stories of someone hearing a hoarse voice, or of a stain shaped like an old woman appearing on the wall. It seems no one has ever actually seen the yokai itself.{p}"
+  },
+  {
+   "id": "55:0fac",
+   "op": "text",
+   "en": "Restroom stories aren't my specialty, so I don't know much about them myself.\n"
+  },
+  {
+   "id": "55:0ff0",
+   "op": "text",
+   "en": "So then, why did I bring up a story like that...?\nThe truth is, there's one at this school too.\nA yokai that appears when three o'clock comes...\nThat yokai...\nI call it 'the Three O'Clock Phantom,' but it seems very few people know it exists.\nWell, that's only natural.\nThis phantom very rarely shows itself, you see.\nFor the Three O'Clock Phantom to appear, a certain condition has to be met.\nAnd that condition is...{p}{a}, what do you think it might be?\n"
+  },
+  {
+   "id": "55:1190",
+   "op": "choice",
+   "en": "There's a special day for it"
+  },
+  {
+   "id": "55:11a8",
+   "op": "choice",
+   "en": "There's a special clock"
+  },
+  {
+   "id": "55:11bc",
+   "op": "choice",
+   "en": "There's a special ritual"
+  },
+  {
+   "id": "55:11d0",
+   "op": "text",
+   "follows_choice": [
+    "55:11a8"
+   ],
+   "en": "Did you already know this story...?\nThat's right.{p}"
+  },
+  {
+   "id": "55:121c",
+   "op": "text",
+   "en": "They say the Three O'Clock Phantom appears only when 'a certain clock' in this school points to three.{p}"
+  },
+  {
+   "id": "55:1284",
+   "op": "text",
+   "en": "Ever since I heard the rumor of the phantom, I've been searching for that clock.\nI asked all sorts of people about it, went around checking every clock in the school...\nThe classrooms, of course, and the faculty room, the principal's office, everything from the art room to the nurse's office...\nI even checked the clocks in the off-limits old school building, one by one.\nEven so, I never found the clock where the phantom is said to appear.\nWas the rumor a lie after all...★\nJust as I'd begun to think so, I was finally able to track down where that clock was.{p}"
+  },
+  {
+   "id": "55:1428",
+   "op": "text",
+   "en": "A senior from the newspaper club...\nHino, I believe his name was?\nWhen he invited me to this seven wonders gathering, I thanked my lucky stars.{p}"
+  },
+  {
+   "id": "55:14bc",
+   "op": "text",
+   "en": "Everyone, please look at that wall.\nThere are two clocks hanging side by side, aren't there?\nOne of them is running properly.\nRight now it's... oh, is it this late already?\nAt this rate, it'll be quite late by the time all the stories are finished.\nI'll tell mine a little faster.\nYes, that one is an ordinary clock.\nThere's no need to pay it any special attention.\nWhat matters is the other clock.{p}"
+  },
+  {
+   "id": "55:1618",
+   "op": "text",
+   "en": "It's covered in dust, and there's no sign of it moving at all.\nIs it broken, perhaps...?\nBut I'll say it with certainty.\nThat clock is the very clock that can summon the Three O'Clock Phantom!{p}"
+  },
+  {
+   "id": "55:16d8",
+   "op": "text",
+   "en": "{a}...{p}Sorry, but would you take that clock down for me?\n"
+  },
+  {
+   "id": "55:171c",
+   "op": "choice",
+   "en": "Take down the running clock"
+  },
+  {
+   "id": "55:1734",
+   "op": "choice",
+   "en": "Take down the stopped clock"
+  },
+  {
+   "id": "55:174c",
+   "op": "choice",
+   "en": "Take down neither clock"
+  },
+  {
+   "id": "55:1760",
+   "op": "text",
+   "follows_choice": [
+    "55:1734",
+    "55:5ef4"
+   ],
+   "en": "...Thank you.\nEveryone, please watch the clock's hands.{p}"
+  },
+  {
+   "id": "55:17b0",
+   "op": "text",
+   "en": "They're pointing to 2:59.\nIn other words... one minute to three.\nWhen these hands point to three...\nthe Three O'Clock Phantom should appear.{p}"
+  },
+  {
+   "id": "55:1848",
+   "op": "text",
+   "en": "Well then, shall we go ahead and summon the phantom?\nIt's simple.\nAll it takes is moving the clock's hands a little.\nNow, {a}.{p}Move the hands, please.\n"
+  },
+  {
+   "id": "55:18e4",
+   "op": "choice",
+   "en": "Move them"
+  },
+  {
+   "id": "55:18ec",
+   "op": "choice",
+   "en": "Don't move them"
+  },
+  {
+   "id": "55:18f8",
+   "op": "choice",
+   "en": "Don't move them"
+  },
+  {
+   "id": "55:1904",
+   "op": "choice",
+   "en": "I want Arai to move them"
+  },
+  {
+   "id": "55:1920",
+   "op": "text",
+   "follows_choice": [
+    "55:18e4"
+   ],
+   "en": "That's it, turn that knob...\n...Just a little.\nJust a tiny bit...\n"
+  },
+  {
+   "id": "55:1988",
+   "op": "text",
+   "en": "Did you hear that?\nJust now, there was definitely a click, wasn't there?\n"
+  },
+  {
+   "id": "55:19c0",
+   "op": "text",
+   "en": "The hands gave a little twitch...\n...Sorry, I seem to have gotten rather excited...{p}"
+  },
+  {
+   "id": "55:1a1c",
+   "op": "text",
+   "en": "Ah... it's three o'clock, all right.\nThe clock is pointing to three.{p}I wish the phantom would hurry up and appear...\n"
+  },
+  {
+   "id": "55:1a7c",
+   "op": "choice",
+   "en": "I'm sure it'll appear"
+  },
+  {
+   "id": "55:1a90",
+   "op": "choice",
+   "en": "I don't think it'll appear"
+  },
+  {
+   "id": "55:1aa0",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "55:1ad8",
+   "op": "text",
+   "follows_choice": [
+    "55:1a7c"
+   ],
+   "en": "You're quite the lover of scary things yourself.\nThen again, I suppose only that sort of person could cover the seven wonders...\nOf course, I think it'll appear too.\n"
+  },
+  {
+   "id": "55:1b68",
+   "op": "text",
+   "en": "You could even say I believe it.\nThis time, the phantom will really appear...\n...Somehow, it's thrilling.\nI've never had this much fun before.{p}"
+  },
+  {
+   "id": "55:1c08",
+   "op": "text",
+   "en": "Oops, I shouldn't be calling it fun.\nAccording to one theory, the reason no one has ever seen the phantom is that everyone who saw it was killed by it... or so they say.\nAt this school, teachers and students have been dying mysteriously or going missing, again and again, for a long time.\nApparently, a few of them were interested in the Three O'Clock Phantom, just like me...\nThat's probably where the rumor started spreading from.\n...It's a frightening story.\nWell, it's only a rumor, of course.{p}"
+  },
+  {
+   "id": "55:1dd8",
+   "op": "text",
+   "en": "Still...\n...It's really taking its time to appear.\nNo one told me it would take this long.\nWas the rumor of the Three O'Clock Phantom a lie?{p}Or did I pick the wrong clock?\n"
+  },
+  {
+   "id": "55:1e94",
+   "op": "choice",
+   "en": "I think the rumor was a lie"
+  },
+  {
+   "id": "55:1ea8",
+   "op": "choice",
+   "en": "I think you picked the wrong clock"
+  },
+  {
+   "id": "55:1ec0",
+   "op": "choice",
+   "en": "If we wait a little longer, I'm sure the phantom will appear"
+  },
+  {
+   "id": "55:1f00",
+   "op": "text",
+   "follows_choice": [
+    "55:1ec0"
+   ],
+   "en": "\"You're saying we should wait a little longer?\nYou have quite a persistent nature.\nJust what I'd expect from a newspaper club member.{p}"
+  },
+  {
+   "id": "55:1f74",
+   "op": "text",
+   "en": "...But let's give up for today.\nIt's not good to stay at school too late, after all.\nWell then, that's the end of my story......\"\nJust as Arai was saying that and looked down...!{p}"
+  },
+  {
+   "id": "55:203c",
+   "op": "text",
+   "en": "\"Eeek!\"\nSuddenly, a girl screamed.\n\"Someone was peeking in just now!\"\nThe girl had gone pale and was pointing at the door.{p}"
+  },
+  {
+   "id": "55:20d8",
+   "op": "text",
+   "en": "...Huh?\nThat was strange.\nThe door was half open.{p}It had been shut tight until just a moment ago...\n"
+  },
+  {
+   "id": "55:2144",
+   "op": "choice",
+   "en": "Go close the door"
+  },
+  {
+   "id": "55:2158",
+   "op": "choice",
+   "en": "Wait and see what happens"
+  },
+  {
+   "id": "55:216c",
+   "op": "text",
+   "follows_choice": [
+    "55:2144"
+   ],
+   "en": "I reached for the knob to close the door.\nAt that moment...☆{p}"
+  },
+  {
+   "id": "55:21b8",
+   "op": "text",
+   "en": "\"Aaagh!\"\nI found myself screaming.{p}"
+  },
+  {
+   "id": "55:2200",
+   "op": "text",
+   "en": "Beyond the narrow gap in the door, there was definitely something.\nIts face was in shadow and hard to make out, but its red, bloodshot eyes were glittering fiercely.{p}"
+  },
+  {
+   "id": "55:2278",
+   "op": "text",
+   "en": "The moment its eyes met mine, it spun around and started running.\n"
+  },
+  {
+   "id": "55:22b4",
+   "op": "choice",
+   "en": "Chase it"
+  },
+  {
+   "id": "55:22bc",
+   "op": "choice",
+   "en": "Don't chase it"
+  },
+  {
+   "id": "55:22d4",
+   "op": "text",
+   "follows_choice": [
+    "55:22b4"
+   ],
+   "en": "I have to go after it!\nThat must be the Three O'Clock Phantom!\nI rushed out into the hallway.\n...And there was the man, like a black shadow, wavering like a heat haze as he turned the corner of the hallway.\nIn just an instant, he was already that far away...\n\"What's wrong, {a}?\"\nWithout even turning back at the voice calling after me, I ran as hard as I could.{p}"
+  },
+  {
+   "id": "55:2410",
+   "op": "text",
+   "en": "I rounded the corner of the hallway a moment behind the phantom.\n...Stairs.\nOne flight led up to the floor above, and one led down to the floor below...{p}Which way had the phantom vanished?\n"
+  },
+  {
+   "id": "55:249c",
+   "op": "choice",
+   "en": "Go up the stairs"
+  },
+  {
+   "id": "55:24a8",
+   "op": "choice",
+   "en": "Go down the stairs"
+  },
+  {
+   "id": "55:24b4",
+   "op": "text",
+   "follows_choice": [
+    "55:24a8"
+   ],
+   "en": "Down...!\nThinking that on instinct, I rushed down the stairs.\n...But then,{p}"
+  },
+  {
+   "id": "55:2500",
+   "op": "text",
+   "en": "\"Whoa!\"\nWith a lurch, my foot missed the step, and my body was flung out into the air.\nThe scenery around me seemed to turn slowly, and the next instant, the floor of the landing was rushing up at my face.\n"
+  },
+  {
+   "id": "55:25bc",
+   "op": "text",
+   "en": "There was a heavy thud, and searing pain shot through my arms, my back, my legs.\nFirst a sharp pain.\nThen a pain that seemed to seep out, slowly...\nThe consciousness I was barely clinging to would slip away the moment I let go.{p}"
+  },
+  {
+   "id": "55:2690",
+   "op": "text",
+   "en": "A black shadow seemed to spread slowly across the backs of my eyelids.\nA shadow like a black cloak spread wide...\nWas this the Three O'Clock Phantom...?{p}"
+  },
+  {
+   "id": "55:2718",
+   "op": "text",
+   "en": "A shrill voice, as if mocking me, echoed from out of nowhere.\nFeeling that laughter echo deep inside my ears, I sank deeper and deeper into unconsciousness...{p}"
+  },
+  {
+   "id": "55:27b8",
+   "op": "text",
+   "en": "\"{a}... {a}...\"\nSomeone was calling me...\n...Arai's voice?{p}"
+  },
+  {
+   "id": "55:2830",
+   "op": "text",
+   "en": "...It seemed I'd passed out.\nHow much time had gone by...?\n\"Are you all right?\nStand up slowly...\"\nHolding on to the hand Arai offered me, I staggered to my feet.\n...Throb.\nAs my head cleared, the feeling came back to my arms and legs.\nI could walk, but even the slightest movement sent sharp pain through my joints, and moving my body was a terrible chore.\n\"Um... {a}?\"\nLetting go of my arm, Arai asked hesitantly.{p}\"...Were you able to see the Three O'Clock Phantom?\"\n"
+  },
+  {
+   "id": "55:2a20",
+   "op": "choice",
+   "en": "Answer yes"
+  },
+  {
+   "id": "55:2a30",
+   "op": "choice",
+   "en": "Answer no"
+  },
+  {
+   "id": "55:2a40",
+   "op": "text",
+   "follows_choice": [
+    "55:2a20"
+   ],
+   "en": "\"Yes...\nI didn't see it clearly, but right after I fell down the stairs, I think I saw a black shadow.\"\nI answered, pulling together the threads of my hazy memory.{p}"
+  },
+  {
+   "id": "55:2af4",
+   "op": "text",
+   "en": "\"...I see.\nA black shadow... huh...\nAs an article on the seven wonders, I feel it lacks a little impact...\"\nDisappointment was plain on Arai's face.{p}"
+  },
+  {
+   "id": "55:2bac",
+   "op": "text",
+   "en": "But he soon broke into a smile.\n\"Still, we have to be glad you made it out alive.\nAfter all, many people have lost their lives after meeting the phantom.\n...Now, let's go back to the newspaper club.\nEveryone's waiting for us.\nIf the seventh one doesn't come, the next story will be the last.\"{p}"
+  },
+  {
+   "id": "55:2cbc",
+   "op": "text",
+   "en": "Arai gave a lonely smile and slowly began to climb the stairs.\n...That's right.\nI had to hurry back to the club room.\nThat shrill laughter still lingered deep in my ears...\nI climbed the stairs as if to shake that voice off.{p}"
+  },
+  {
+   "id": "55:2d84",
+   "op": "text",
+   "follows_choice": [
+    "55:0e08"
+   ],
+   "en": "You know it well?\nSo the Three O'Clock Hag is a fairly famous yokai, then.\n...It's embarrassing to say this after bringing up the name myself, but I don't know much about the Three O'Clock Hag.\nJust the name and a few rumors, I suppose...{p}"
+  },
+  {
+   "id": "55:2e84",
+   "op": "text",
+   "en": "The Three O'Clock Hag is said to be a yokai that appears in restrooms at exactly three in the afternoon, isn't it?\nPeople hearing a hoarse voice...\nA stain shaped like an old woman appearing on the wall...{p}"
+  },
+  {
+   "id": "55:2f34",
+   "op": "text",
+   "en": "That's about all I know.\n...Restroom stories aren't my specialty.{p}"
+  },
+  {
+   "id": "55:2f7c",
+   "op": "text",
+   "follows_choice": [
+    "55:0e30"
+   ],
+   "en": "Oh, you've never heard of it...?\nThe Three O'Clock Hag is a fairly well-known yokai, you know.\nI didn't think there was anyone these days who didn't know it...\nWell, that's a surprise.\nIf you're any kind of newspaper club member, maybe you should make more of an effort to gather information.\n...That said, I'm in no position to lecture anyone.\nThe truth is, I don't know much about the Three O'Clock Hag myself.\nJust the name and a few rumors, I suppose...{p}"
+  },
+  {
+   "id": "55:3100",
+   "op": "text",
+   "en": "From what I've heard, the Three O'Clock Hag is a yokai that appears in restrooms at exactly three in the afternoon.\nThen again...\nAll that gets passed around are stories of someone hearing a hoarse voice, or of a stain shaped like an old woman appearing on the wall. It seems no one has ever actually seen the yokai itself.{p}"
+  }
+ ]
+}

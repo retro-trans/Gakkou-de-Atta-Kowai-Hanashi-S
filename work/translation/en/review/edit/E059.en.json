@@ -1,0 +1,843 @@
+{
+ "chunk": "E059",
+ "scene": "29",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "slices": [
+  "S116",
+  "S117"
+ ],
+ "prev": "E058",
+ "next": "E060",
+ "todo": [],
+ "rows": [
+  {
+   "id": "29:0864",
+   "op": "text",
+   "en": "Well, then. Shall I tell the first story?\nMy name is Akemi Iwashita.\n...A pleasure.\nI'll come straight to the point: there are no \"seven wonders\" at this school.\nBecause seven would never be enough.\nYou see, this entire school is cursed.{p}"
+  },
+  {
+   "id": "29:0964",
+   "op": "text",
+   "en": "Heh heh heh... Do you want to know?\nAn evil spirit lives in this school.\nAnd that evil spirit is always bringing misfortune with it.\nThat's why this school is full of strange happenings.\nThe story I'm going to tell is about a prank that evil spirit played.\nJust a trifling little prank by an evil spirit.{p}"
+  },
+  {
+   "id": "29:0a4c",
+   "op": "text",
+   "en": "Do you know a boy named Kota Uchiyama, who used to be in Class 1-E?\nYou're a first-year, aren't you?\nClass E, if I'm not mistaken?{p}You know Kota Uchiyama, don't you?\n"
+  },
+  {
+   "id": "29:0ad8",
+   "op": "choice",
+   "en": "I know him"
+  },
+  {
+   "id": "29:0ae4",
+   "op": "choice",
+   "en": "I don't know him"
+  },
+  {
+   "id": "29:0af0",
+   "op": "text",
+   "en": "I see.\nThen that makes this quicker.{p}",
+   "follows_choice": [
+    "29:0ad8"
+   ]
+  },
+  {
+   "id": "29:0b30",
+   "op": "text",
+   "en": "Uchiyama was bullied.\nHe was a quiet boy with a good nature, but he was too kind.\nHe couldn't say no when he was ordered around, so he did whatever the bullies told him.\nWithout so much as a frown, always smiling, he faithfully did everything he was ordered to do.\nAnd that got on the bullies' nerves.\nBut I suppose they would have bullied him even if he had defied them.\nBullies are selfish creatures.\nDefy them, and they beat you because they don't like it.\nObey them, and they kick you around because it's no fun.\nEither way, they bully you.\nThey're selfish, those people.\nEven so, at first it was half in jest.\nIt was hardly bullying, just teasing, and to anyone watching, it really did look like horseplay.\nBut it didn't take long to escalate.\nIn less than a month, they were making him shoplift and telling him to bring them money.\nAnd if he dared to refuse, they punched and kicked him as hard as they could.{p}You knew Uchiyama was being treated that cruelly, didn't you?\n"
+  },
+  {
+   "id": "29:0ed0",
+   "op": "choice",
+   "en": "I knew"
+  },
+  {
+   "id": "29:0edc",
+   "op": "choice",
+   "en": "I didn't know"
+  },
+  {
+   "id": "29:0ee8",
+   "op": "text",
+   "en": "So you knew.\nOf course you did. You're in the same class, after all.\nThere's no way you couldn't have known.\n...I'm sorry. Let's go on with the story.\nUchiyama wanted everyone to help him.\nComing to school was agony for him.\nBut he couldn't let his mother worry about him.\nSo he kept coming to school without a word.\nBelieving that someday his classmates would help him.{p}Did you help Uchiyama?\n",
+   "follows_choice": [
+    "29:0ed0"
+   ]
+  },
+  {
+   "id": "29:1050",
+   "op": "choice",
+   "en": "I helped him"
+  },
+  {
+   "id": "29:1060",
+   "op": "choice",
+   "en": "I didn't help him"
+  },
+  {
+   "id": "29:1070",
+   "op": "text",
+   "en": "Aren't you the only one who thinks so?\nYou helped him? How, exactly, did you help him?\nIf you had really helped him, it would never have come to that.\nYou didn't help him at all.{p}",
+   "follows_choice": [
+    "29:1050"
+   ]
+  },
+  {
+   "id": "29:1144",
+   "op": "text",
+   "en": "You abandoned Uchiyama, didn't you?{p}"
+  },
+  {
+   "id": "29:1184",
+   "op": "text",
+   "en": "...Since no one would help him, Uchiyama thought about a great many things.\nAbout why he was the one being bullied.\nAnd then he understood.\nWhy he was the one being bullied.\nWhy do you think it was?\nThat's right. Because everyone was possessed by the evil spirit.\nThe evil spirit that lives in this school had possessed every one of them.\nThe bullies, of course, but also the cold-hearted classmates and teachers who saw him being bullied and pretended not to.\nUchiyama, the only one the evil spirit hadn't possessed, was the one being made to suffer.\nUchiyama told everyone.\nHe told them they were all possessed by an evil spirit.\nBut they only laughed at him.\nThey looked at him as if he were some kind of freak, and no one would talk to him anymore.\nTerrible, isn't it?{p}"
+  },
+  {
+   "id": "29:1418",
+   "op": "text",
+   "en": "...Oh, what's the matter?\nYou don't look well.\nAre you feeling sick?{p}Or are you feeling guilty about what you did?\n"
+  },
+  {
+   "id": "29:149c",
+   "op": "choice",
+   "en": "It's not my fault"
+  },
+  {
+   "id": "29:14ac",
+   "op": "choice",
+   "en": "I was to blame too"
+  },
+  {
+   "id": "29:14bc",
+   "op": "text",
+   "en": "That's right, it's not your fault.\nThen there's no need to be so jumpy, is there?\nYou're not the one to blame.\nThe bullies are the ones to blame, aren't they?\nOr are you saying Uchiyama is responsible for being bullied?\n...It was after that.\nUchiyama started seeing strange things.{p}",
+   "follows_choice": [
+    "29:149c"
+   ]
+  },
+  {
+   "id": "29:15ec",
+   "op": "text",
+   "en": "Everyone at school looked like an evil spirit to him.\nDo you know what an evil spirit's face looks like?\nOh, it's a terrifying face.\nThe ears are pointed, the eyes slant upward, and the mouth is split hideously wide, with fangs peeking out from inside.\nTo put it more concretely, let me see... your face right now looks like an evil spirit's to me.\nHeh heh heh... I'm joking. Only joking.\nIn the end, with no one ever helping him, Uchiyama stopped coming to school.\nA school attended by nothing but evil spirits... I'd be too frightened to go to a place like that myself.\nAnd so he quit school.\nUchiyama dropped out about three weeks ago, didn't he?\nThat was the reason.\nDid the bullying drive Uchiyama mad?\nOr was everyone truly possessed by evil spirits?\nPerhaps it doesn't matter either way.\nUchiyama may have quit, but the bullies are still coming to school as if nothing happened.{p}"
+  },
+  {
+   "id": "29:18e4",
+   "op": "text",
+   "en": "What? What do I think?\nWell, I believe everyone was possessed by evil spirits.\nOtherwise, it would be strange for everyone to keep coming to school so calmly after what happened.\nAnd that includes all of you who were his classmates.{p}"
+  },
+  {
+   "id": "29:19d0",
+   "op": "text",
+   "en": "Oh?\nAre you trembling?\nThere's no need to tremble.\nUchiyama's story goes on.\nDo you know what became of Uchiyama after he quit school?\nOf course you don't.\nYou hardly had anything to do with him. Why would you care what happened to a classmate who dropped out?{p}"
+  },
+  {
+   "id": "29:1ad4",
+   "op": "text",
+   "en": "Uchiyama went on seeing the evil spirit even after that.\nThe evil spirit must have been terribly fond of Uchiyama.\nMaybe that's why it made the bullies torment him.\nOnce he'd quit school and had nothing to do with anyone anymore, the evil spirit came after him.\nIt followed him all the way to his house and wouldn't leave Uchiyama's side.\nSo what do you think Uchiyama did?\nHe fought it. He fought the evil spirit.\n"
+  },
+  {
+   "id": "29:1c44",
+   "op": "text",
+   "en": "Even so, the evil spirit wouldn't leave Uchiyama.\nAnd at last, it possessed him. It possessed Uchiyama himself.\nPossessed by the evil spirit, he fought desperately.\n"
+  },
+  {
+   "id": "29:1cdc",
+   "op": "text",
+   "en": "And he slit his own throat with a box cutter.\n"
+  },
+  {
+   "id": "29:1d14",
+   "op": "text",
+   "en": "To finish the evil spirit off.\nHe drove the box cutter into his own throat, and at last he destroyed the evil spirit.\nCutting his throat with the box cutter over and over and over again.{p}"
+  },
+  {
+   "id": "29:1da4",
+   "op": "text",
+   "en": "...I hear it happened three days ago.\nThey say when his mother went into his room, the whole room was red with blood.\nBut that was how Uchiyama was finally freed from the evil spirit.\nAnd that is the end of Uchiyama's story.\nYou didn't know, did you?\n...By the way, do you know why I told you this story?\nWhat's wrong?\nYou've gone white as a sheet.\nWhat are you afraid of?\nThere's nothing to be afraid of.\nNothing at all to be afraid of.\nAll you have to do now is take responsibility.\nIt's only your natural duty, after all.{p}"
+  },
+  {
+   "id": "29:1f64",
+   "op": "text",
+   "en": "I told you this story so that you would know how much Uchiyama suffered, how much it hurt.\nI know, you see.\nI know you were the one bullying Uchiyama.\nI know you were the leader of the group that bullied him.{p}You were, weren't you!\n"
+  },
+  {
+   "id": "29:2054",
+   "op": "choice",
+   "en": "I didn't bully him"
+  },
+  {
+   "id": "29:2068",
+   "op": "choice",
+   "en": "Yes, I bullied him"
+  },
+  {
+   "id": "29:207c",
+   "op": "text",
+   "en": "\"I never bullied him! You've got it all wrong!\"\nI shouted, beside myself.\nSomehow, Iwashita's face looked terrifying.\nAs if she were possessed by something...\nI didn't understand why Iwashita was telling me about Uchiyama.\nIt was true that there had been a bullied boy named Uchiyama in my class.\nAnd he had dropped out about three weeks ago.\nBut I had never bullied him.{p}",
+   "follows_choice": [
+    "29:2054"
+   ]
+  },
+  {
+   "id": "29:21fc",
+   "op": "text",
+   "en": "\"Don't you lie to me! You bullied him!\nYou killed Kota!\"\nBefore I knew it, she was gripping a box cutter in her hand.\n"
+  },
+  {
+   "id": "29:2294",
+   "op": "text",
+   "en": "With a click-click-click like a chirping insect, the box cutter's blade slid out as far as it would go.\nShe showed her bright red tongue, pressed the blade against it, and licked it from bottom to tip in one long slurp.\nOn her red tongue, a thread of even redder blood welled up.\nShe was laughing.\nMy legs had frozen. I couldn't move.\nShe had it wrong.\nShe had it wrong. She thought I was the ringleader who had bullied Uchiyama.\n\"It wasn't me! I really had nothing to do with it!\"\nI screamed.\nBut my screams didn't seem to reach her ears.{p}"
+  },
+  {
+   "id": "29:2454",
+   "op": "text",
+   "en": "\"It was you! You killed Kota!\"\nShe's going to kill me!\nShe raised the box cutter high over her head.\nAnd then...\nMy consciousness slipped away.{p}"
+  },
+  {
+   "id": "29:24f0",
+   "op": "text",
+   "en": "\"Are you okay? Come on, snap out of it.\"\nI don't know how much time had passed.\nI slowly opened my eyes.{p}"
+  },
+  {
+   "id": "29:2570",
+   "op": "text",
+   "en": "Five faces came into view, peering down at me with concern.\nIt seemed I had been saved.\n\"What... happened to me...? Where's Iwashita...?\"\nI couldn't see Iwashita's face.\nI slowly lifted my still-reeling head and looked around.{p}"
+  },
+  {
+   "id": "29:2650",
+   "op": "text",
+   "en": "\"We managed to hold her down.\nShe was really worked up.\nIf we'd been any slower to stop her, you'd definitely have fallen prey to that box cutter.\"\n"
+  },
+  {
+   "id": "29:26e4",
+   "op": "text",
+   "en": "Little by little, the feeling of being alive spread through my whole body.\nMy heart was still pounding.\n\"Once she calmed down, she suddenly burst into tears.\nAnd she told us everything.\nApparently, this Kota Uchiyama was her younger brother.\nIt seems her parents divorced a few years ago, and each of them took one of the children.\nThat's why they had different surnames.\nThey apparently kept it a secret from everyone at school, but it sounds like the two of them were very close.\nShe hated the ones who bullied him, of course, but also every single classmate who stood by and let her brother die.\nIt was rotten luck for you, but I can't say I don't understand how she feels.\"\nI listened in a daze.\nPut that way, maybe I really did bear some of the responsibility too.\n\"So, where's Iwashita?\"\n"
+  },
+  {
+   "id": "29:299c",
+   "op": "text",
+   "en": "\"Oh, she suddenly staggered out of the room.\nWell, of course she couldn't bear to stay here.\"\nAnother one of them picked up from there.\n\"I don't mean to echo her story, but maybe there really is an evil spirit in this school.\nI mean, her face when she went for you... that was the face of someone possessed by an evil spirit, no doubt about it.\"\nEveryone nodded at that.\nI thought so too.\nThat face really hadn't looked human.\nAs everyone sat in silence, one of them abruptly murmured.{p}\"So what now? After all this, do you still want to go on with the seven wonders?\"\n"
+  },
+  {
+   "id": "29:2b98",
+   "op": "choice",
+   "en": "Keep going"
+  },
+  {
+   "id": "29:2ba0",
+   "op": "choice",
+   "en": "Stop here"
+  },
+  {
+   "id": "29:2bac",
+   "op": "text",
+   "en": "\"No, let's stop here. I'm sorry, after you all went to the trouble of coming.\nCould we save the rest for another time?\"\nI didn't have the courage to go on with these stories any longer.\nI never wanted to go through anything like that again.\nI was sorry, but tomorrow I would talk to the club president and get someone else to take over this job.\nThat creepy feeling I'd had at the very start might have been about Iwashita.\nThere really was an evil spirit lurking in this school.\n\"Yeah. After something like this, none of us feels like going on.\"\nIt seemed everyone felt the same way.\nOf course they did.\nI doubted they would ever gather again.\nBut that was none of my concern anymore.{p}",
+   "follows_choice": [
+    "29:2ba0"
+   ]
+  },
+  {
+   "id": "29:2e1c",
+   "op": "text",
+   "en": "I left the school as if I were running away.\nI couldn't really remember how I got home.\nBut the fact that I was here at home proved I had made it back safely.\nThat night, in bed, I thought it over.\nShould I go to school tomorrow?\nAt this rate, I was going to end up refusing to go to school too.\nSo scared that I'd left the light on, I just couldn't fall asleep.\nIwashita's face in that moment was burned into my mind. I couldn't shake it.\nThat's it, I won't go.\nI won't go to school tomorrow.\nI won't......{p}"
+  },
+  {
+   "id": "29:2fe4",
+   "op": "text",
+   "en": "Even so, at some point I fell asleep.\n...Suddenly, I woke up, struggling to breathe.\n"
+  },
+  {
+   "id": "29:3040",
+   "op": "text",
+   "en": "My chest was heavy.\nIt felt as if something were pressing down hard on my chest.\nSomething was there.\nSomeone was in my room.\nBut I was too scared to open my eyes.\nWarm, clammy breath blew across my face.\nWho is it?\nWho's sitting on my chest?\nMy body wouldn't move.\nI was paralyzed!\nLike a snake's tongue licking my face, the warm breath washed over every inch of it.\nThe breath stopped moving at my ear.\nIt was murmuring something.\nA mumbling voice I could barely make out crept into my ear.\nThe voice grew steadily louder.\n\"I'll kill you... I'll kill you...\"\nEach time that warm breath came out, the words of the curse stroked my ear.\n\"Aaagh!\"\nIn sheer terror, my eyes flew open.{p}"
+  },
+  {
+   "id": "29:32b4",
+   "op": "text",
+   "en": "There she was.\nIwashita, a box cutter in her hand, was sitting on my chest.\n\"An evil spirit possessed me too, you see.\nSo I fought it. And thanks to that, I've been freed from the evil spirit too. Now it's your turn!\"\nHer throat was split wide open.\nThe blood dripping from it, drop by drop, wet my face.\n"
+  },
+  {
+   "id": "29:33d8",
+   "op": "text",
+   "en": "With an ugly click-click-click, the box cutter's blade glittered.\n"
+  },
+  {
+   "id": "29:3428",
+   "op": "text",
+   "en": "I couldn't escape.\nIwashita's hand rose high.\nHer face was the evil spirit itself.\nThe evil spirit must have taken a liking to me too.\nThat was my last conscious thought.\nWatching the blood spray up from my own throat, I lost consciousness for the last time...{p}"
+  },
+  {
+   "id": "29:3534",
+   "op": "text",
+   "en": "...You don't know him?\nAnd you're in the same class. How cold of you.\nWell, I suppose you weren't especially close... is that it?\nUchiyama was the kind of person who couldn't say no, whatever happened, wasn't he?\nSo he got... bullied a little, that sort of thing, didn't he?{p}",
+   "follows_choice": [
+    "29:0ae4"
+   ]
+  },
+  {
+   "id": "29:363c",
+   "op": "text",
+   "en": "They made him shoplift, told him to bring them money... and if he dared to refuse, they punched and kicked him as hard as they could.{p}You knew that much, didn't you?\n"
+  },
+  {
+   "id": "29:36e4",
+   "op": "text",
+   "en": "...What are you saying?\nAre you telling me you never even saw the bruises and cuts on Uchiyama's face?\n...I'm sorry. For raising my voice...\nUchiyama couldn't let his mother worry, so even when he was bruised and cut, he kept coming to school without a word.\nI think what he really wanted was for everyone to help him.\nBut... was there anyone who helped him?\nWhat about you?{p}Did you help Uchiyama...?\n",
+   "follows_choice": [
+    "29:0edc"
+   ]
+  },
+  {
+   "id": "29:3880",
+   "op": "text",
+   "en": "Liar!\nYou said you didn't know Uchiyama was being shaken down, so how can you say you helped him?\n...What's that look on your face?{p}Are you afraid of me?\n"
+  },
+  {
+   "id": "29:3904",
+   "op": "choice",
+   "en": "I'm afraid"
+  },
+  {
+   "id": "29:390c",
+   "op": "choice",
+   "en": "I'm not afraid"
+  },
+  {
+   "id": "29:3918",
+   "op": "text",
+   "en": "I see.\nYou're afraid...?\nYou're afraid because you have something to feel guilty about.{p}",
+   "follows_choice": [
+    "29:3904"
+   ]
+  },
+  {
+   "id": "29:3964",
+   "op": "text",
+   "en": "I know.\nYou knew all along that Uchiyama was being bullied.{p}But you didn't help him, did you?\n"
+  },
+  {
+   "id": "29:3a04",
+   "op": "text",
+   "en": "...That's right, isn't it?\nI thought you were that kind of person.\nYou care about yourself most of all, don't you?\nIt's fine. I understand.\nIf you weren't careful, they might have turned on you instead.\n......Everyone's the same.\nYou can't imagine the pain of someone who's bullied, can you?\nAs long as every day is fun, that's all that matters to you, isn't it?{p}",
+   "follows_choice": [
+    "29:1060"
+   ]
+  },
+  {
+   "id": "29:3b28",
+   "op": "text",
+   "en": "Well? That's how it is, isn't it?\nIt is, isn't it?\nWhy don't you just admit it?\n...My, what a face you're making.\nI'm not blaming only you, you know.\nI'm angry at everyone who didn't help Uchiyama.\nYou understand, don't you?{p}You, of all people, would understand, wouldn't you?\n"
+  },
+  {
+   "id": "29:3c44",
+   "op": "text",
+   "en": "I see...\nSo you think you were wrong?\n...That's easy enough to say.\nBut saying it doesn't mean all is forgiven.\n...Did you know this?\nThere was someone Uchiyama was in love with.\n...Do you want to hear?{p}Do you want me to tell you who it was?\n",
+   "follows_choice": [
+    "29:14ac"
+   ]
+  },
+  {
+   "id": "29:3d24",
+   "op": "choice",
+   "en": "Yes, tell me"
+  },
+  {
+   "id": "29:3d34",
+   "op": "choice",
+   "en": "No, I don't want to know"
+  },
+  {
+   "id": "29:3d64",
+   "op": "text",
+   "en": "...You want to know?\nThen I'll tell you.\nIt was Otaki.\nOtaki, from Uchiyama's class.\nUchiyama was in agony.\nBecause everyone in his class had an evil spirit on them.\nWhich naturally meant Otaki had an evil spirit on her too.\nUchiyama thought it over.\nShould he love her even with an evil spirit on her?\nOr must he not love her...?{p}So what do you think Uchiyama did?\n",
+   "follows_choice": [
+    "29:3d24"
+   ]
+  },
+  {
+   "id": "29:3ed4",
+   "op": "choice",
+   "en": "He loved her"
+  },
+  {
+   "id": "29:3edc",
+   "op": "choice",
+   "en": "He didn't love her"
+  },
+  {
+   "id": "29:3eec",
+   "op": "text",
+   "en": "That's right. Uchiyama decided he must not love her.\nHe realized that love wasn't what could save her.{p}",
+   "follows_choice": [
+    "29:3edc"
+   ]
+  },
+  {
+   "id": "29:3f60",
+   "op": "text",
+   "en": "After that, Uchiyama started going to the library.\nAnd to secondhand bookstores, too.\nDo you know why?\n...That's right. To save her.\nHe believed there had to be some way to drive the evil spirit out of her body.\nEven though he'd decided not to love her, he worked so hard for her sake.\nEven if he didn't mean to, I think he still loved her after all.\nSo he read all kinds of books.\nAnd at last, he found it.\nA way to save someone possessed by an evil spirit.{p}"
+  },
+  {
+   "id": "29:4120",
+   "op": "text",
+   "en": "...From the very next day, Uchiyama started following Otaki around.\nUchiyama was such an earnest person that he followed her around relentlessly, to the point of obsession.\nNaturally, it gave her the creeps.\nYou can't blame her.\nShe had no idea what he was after, or anything else.\nShe was so frightened that one of the boys couldn't stand by and watch anymore.\nHe announced he was going to teach Uchiyama a lesson.\nMaybe he had a crush on Otaki himself.\nWell, even if he didn't, there's always that type who butts in just to look cool, isn't there?{p}"
+  },
+  {
+   "id": "29:431c",
+   "op": "text",
+   "en": "One evening, that boy and a few others surrounded Uchiyama.\nAnd shoving him around, they said something like this:\n\"Stay the hell away from Otaki.\"\n...As they beat him, Uchiyama realized that they had to be the evil spirits possessing Otaki.{p}What do you think went through Uchiyama's mind then?\n"
+  },
+  {
+   "id": "29:4444",
+   "op": "choice",
+   "en": "Lunge at the boy"
+  },
+  {
+   "id": "29:445c",
+   "op": "choice",
+   "en": "Just apologize meekly for now"
+  },
+  {
+   "id": "29:4484",
+   "op": "text",
+   "en": "That's right. Uchiyama let out a yell and lunged at the boy.\nCaught off guard, the boy was knocked flat.\nUchiyama straddled him and flailed his arms wildly.\nBut he was gentle by nature and had never been in a fight.\nIn no time at all, he was shoved off and knocked down.",
+   "follows_choice": [
+    "29:4444"
+   ]
+  },
+  {
+   "id": "29:45a0",
+   "op": "text",
+   "en": "The furious boys beat Uchiyama again and again as he lay curled up on the ground.\nWhen they had finally had their fill, they left, taking Otaki with them.{p}"
+  },
+  {
+   "id": "29:4648",
+   "op": "text",
+   "en": "Left behind, Uchiyama dragged his aching body home, barely making it.\n...And after that, he never came to school again.\nThe book where Uchiyama found the way to drive out evil spirits apparently also described the opposite: a way to set an evil spirit on someone.\n...That's right. Uchiyama decided to set an evil spirit on the boys who had bullied him.\n...By the way, {a}, weren't you one of the boys who beat Uchiyama that day?\nYou seem to have a strong sense of justice.\nWeren't you a little too eager to protect Otaki?\nIf so, you're in serious trouble.\nUchiyama is truly trying to curse you.\nIf you don't turn the curse back on him, you're in danger.{p}If you like, shall I teach you how?\n"
+  },
+  {
+   "id": "29:48a4",
+   "op": "choice",
+   "en": "Please teach me"
+  },
+  {
+   "id": "29:48b4",
+   "op": "choice",
+   "en": "I don't need it"
+  },
+  {
+   "id": "29:48c8",
+   "op": "text",
+   "en": "......Just as I thought.\nSo you were one of the ones who bullied Uchiyama too.\nOtherwise you'd have no need to ask how to turn a curse back.\nHow did you ever keep such an innocent face?\nAs if someone as kind as Uchiyama would ever put a curse on anyone.\nI'm Uchiyama's childhood friend, you know.\nHe's a little timid, but he's a very good person.\nI will never forgive anyone who hurts someone like that.{p}",
+   "follows_choice": [
+    "29:48a4"
+   ]
+  },
+  {
+   "id": "29:4a54",
+   "op": "text",
+   "en": "It was a terrible shock to Uchiyama, you see.\nMisunderstood by the one he loved, and on top of that, beaten up by you people.\nIf he went to school the next day, he'd surely be bullied again.\nThinking that, Uchiyama tried to kill himself.\nFortunately, he survived, but he still hasn't regained consciousness, and he's in the hospital.\n...What's that face?\nHave you finally realized how serious your actions were?\nIt's too late.\nNo matter how much you apologize, Uchiyama won't wake up.{p}"
+  },
+  {
+   "id": "29:4bf8",
+   "op": "text",
+   "en": "...No, there is just one way.\nI saw Uchiyama's book.\nIt described a way to bring back someone in his condition.\nYou cut the left little finger of someone he loves, or, the other way around, someone he hates.\nThen you let the blood drip onto his heart while he sleeps.\nThe one Uchiyama loved was Otaki.\nAnd the one he hated was......you, {a}, wasn't it?\nWhose finger would work better, I wonder?\nWhat do you think, {a}?{p}"
+  },
+  {
+   "id": "29:4da4",
+   "op": "text",
+   "en": "......Oh, don't make that face.\nEven I wouldn't swallow whole what's written in a book like that.\nReally, as if a few drops of blood would do any good.\nIf it were every last drop of blood in the whole body, then I might believe it...\nOh my, now that I look, what lovely hands you have, {a}... Heh heh heh.\nOh dear, I've wandered off the subject.\nWell then, shall we hand over to the next person?{p}"
+  },
+  {
+   "id": "29:4f08",
+   "op": "text",
+   "en": "\"No, let's continue.\nSomehow I feel like we have to...\"{p}",
+   "follows_choice": [
+    "29:2b98"
+   ]
+  },
+  {
+   "id": "29:4f70",
+   "op": "text",
+   "en": "Yes, Uchiyama loved her even so.\nThat's why it was so painful.\nSo he thought about it.\nWhether everyone in his class really did have evil spirits on them.\nUchiyama thought for a long time...\nAnd then he reached a conclusion.\nWhat would you think, in his place?{p}What conclusion would you reach?\n",
+   "follows_choice": [
+    "29:3ed4"
+   ]
+  },
+  {
+   "id": "29:506c",
+   "op": "choice",
+   "en": "There are no evil spirits"
+  },
+  {
+   "id": "29:5080",
+   "op": "choice",
+   "en": "Everyone but her has an evil spirit"
+  },
+  {
+   "id": "29:509c",
+   "op": "choice",
+   "en": "She has an evil spirit too"
+  },
+  {
+   "id": "29:50d4",
+   "op": "text",
+   "en": "Yes.\nUchiyama thought so too.\nThat there are no evil spirits.\nAnd he decided to change.\nHe decided to change who he was and live a different kind of life, day after day.\nAnd before long, he stopped seeing evil spirits at all.\nUchiyama was sure his conclusion had been right.\nWell?\nDidn't you think Uchiyama had changed?{p}",
+   "follows_choice": [
+    "29:506c",
+    "29:5748"
+   ]
+  },
+  {
+   "id": "29:5214",
+   "op": "text",
+   "en": "Having said that much, Iwashita let out a long white breath.\nWhite breath?\nIt wasn't even winter.\n.........I had seen it somewhere before.\nWhite breath like this.\nUchiyama.\nUchiyama used to breathe out white breath.\nBack when he was being bullied.\nIn the classroom, in the warm days of spring.\nUchiyama's seat was by the window.\nI had thought it was dust blown up by his breathing, lit by the light from the window, that only looked like white breath.\nBut this breath of hers...?\n\"I believe there are evil spirits,\"\nIwashita murmured.\nBreathing out white breath.\n\"They say the evil spirits won't lay a hand on Uchiyama anymore.\nBecause Uchiyama has grown strong.\nInside, I mean.\nThey say that sort of thing is boring.\nEvil spirits, you know, prey on people who scare easily.\nI scare easily too, so I'm worried.\"\nShe kept breathing out white breath.\n\"What about you?\nHow about you?\nDo you scare easily...?\"\nShe huffed her breath onto her hand, then smeared that hand across my cheek.\n\"What's wrong?\"\nshe said, staring at me.\nAre you scared?\nThat's fine.\nBe more scared.\nEvil spirits are always after people who scare easily.\nThey say that when an evil spirit is close by, white breath comes out of the mouths of people with a sixth sense.\nWell, does my breath look white.........?\nIt's no use trying to run.\nYou have to hear the next story.\nHeh heh heh...\n...Now, whose turn is next?{p}"
+  },
+  {
+   "id": "29:56c4",
+   "op": "text",
+   "en": "Nothing's ever that convenient.\nThink it through properly.\nUchiyama thought and thought before he reached his conclusion.{p}Now, what conclusion will you reach?\n",
+   "follows_choice": [
+    "29:5080"
+   ]
+  },
+  {
+   "id": "29:5748",
+   "op": "choice",
+   "en": "There are no evil spirits"
+  },
+  {
+   "id": "29:575c",
+   "op": "choice",
+   "en": "She has an evil spirit too"
+  },
+  {
+   "id": "29:5788",
+   "op": "text",
+   "en": "Yes.\nThis is what Uchiyama thought:\nhowever much he loved her, he couldn't bend the facts.\nBut Uchiyama couldn't just abandon her.\nSo he decided:\nhe would do anything for the girl he loved.\nAnd so Uchiyama wrote her letters.\nEvery day, day after day, he wrote her a letter.\n'An evil spirit has possessed you.\nBut I will protect you.\nI am the one who loves you.' Like that.\nUchiyama sent the letters without signing his name.\nBut you can see it, can't you?\nAnyone who read something like that would know who wrote it.\nShe got scared and talked it over with everyone.{p}",
+   "follows_choice": [
+    "29:509c",
+    "29:575c"
+   ]
+  },
+  {
+   "id": "29:59b4",
+   "op": "text",
+   "en": "...And what do you think happened then?\nThe bullies surrounded Uchiyama and laid into him, telling him to stop harassing her.\nWhere was it, now?\nAh, yes.\nOn the stairs in the old school building.\nNobody ever goes there.{p}"
+  },
+  {
+   "id": "29:5a94",
+   "op": "text",
+   "en": "\"Is that true?\"\nI leaned forward.\nThis had to be about today.\nAt lunch break.\nThe bullies, who had been ignoring Uchiyama for a while, had called him out.\nAfterward, Uchiyama had come to the next class, but the bullies hadn't come back...\nEveryone assumed they were skipping class.\nBut...\nWhat was this dread churning in my chest?{p}"
+  },
+  {
+   "id": "29:5c00",
+   "op": "text",
+   "en": "\"Do you want to know?\"\nIwashita said.\n\"Do you want to know what happened to the people who bullied Uchiyama?\"\n.........\n"
+  },
+  {
+   "id": "29:5c70",
+   "op": "text",
+   "en": "Was it only my imagination that I thought I heard someone crying?\n\"The evil spirit was real,\"\nIwashita said.\n\"The evil spirit really did exist.\nMaybe it got excited, watching the bullies lay into Uchiyama for the first time in so long.{p}"
+  },
+  {
+   "id": "29:5d54",
+   "op": "text",
+   "en": "It appeared, right there.\nOn the stairs of the old school building.\nThe bullies were terrified out of their wits.\nShrieking at the top of their lungs.\nUchiyama knew evil spirits existed, so he didn't panic the way the bullies did.\nBut that was when the tragedy happened.\nOne of the startled bullies went down the stairs...{p}"
+  },
+  {
+   "id": "29:5e64",
+   "op": "text",
+   "en": "It seems the kid landed badly.\nBy the time Uchiyama ran down, the kid had already stopped breathing.\nUchiyama didn't know what to do.\nBut he couldn't tell anyone.\nWell, could he?\nNobody would believe Uchiyama's story.\nThey all deny that evil spirits exist.\nSo Uchiyama went back to class alone, without a word.\nOne of the bullies should still be lying on those stairs right now.\nIf nobody has found the body, that is.\n...What happened to the rest of the bullies, you ask?\nWho knows.........{p}"
+  },
+  {
+   "id": "29:602c",
+   "op": "text",
+   "en": "Maybe the evil spirit carried them off?\nEvil spirits like slightly timid people like Uchiyama, but they just love twisted people like the bullies too...\nHm?\nHow do I know this story, you ask?\nHeh heh heh, that's because.........\"{p}"
+  },
+  {
+   "id": "29:6128",
+   "op": "text",
+   "en": "Iwashita's body began to glow blue.\nWhat?\nWhat was happening?{p}"
+  },
+  {
+   "id": "29:6174",
+   "op": "text",
+   "en": "I heard crying.\nSomeone was crying.\nIwashita stood up.\nThe blue light left Iwashita's body and rose upward.{p}"
+  },
+  {
+   "id": "29:61e8",
+   "op": "text",
+   "en": "The crying grew even louder.\nAs if begging for help...{p}"
+  },
+  {
+   "id": "29:6240",
+   "op": "text",
+   "en": "The crying stopped, and as the blue light drifted out the window, Iwashita collapsed onto the floor.\nWhen we all rushed over in alarm, she said something strange.{p}"
+  },
+  {
+   "id": "29:62d4",
+   "op": "text",
+   "en": "\"I'm sorry, I felt dizzy...\nI'm telling the first story, aren't I?\nLet me see, what should I talk about?\"\nWe all looked at one another.\nShe'd been talking all this time. What was she saying?\nAnd that blue light?\nThat crying?{p}"
+  },
+  {
+   "id": "29:63bc",
+   "op": "text",
+   "en": "\"An evil spirit?\"\nsomeone said.\n\"No way, the evil spirit from that story jumped into h...\"\nI see.\nThat would make sense.\nWas that blue light the evil spirit's true form?\nThen what about that crying?\n\"In that story, the rest of the bullies got carried off by the evil spirit...\"\nWas that crying the bullies'...?\nAs a frozen chill filled the air, someone said,\n\"So there really is something in this school.\nBut how much of that story was true, though...\nEarlier I was walking around looking for material, and I went to the old school building too, but there wasn't anybody lying there.\nEither the evil spirit took the guy away, body and all, or the whole story was made up by the evil spirit...\nWell, anyway, let's move on to the next story.\nWho's up next?\"{p}"
+  },
+  {
+   "id": "29:6638",
+   "op": "text",
+   "en": "\"Thinking you have to become a ghost to be friends with me and our classmates...\nThat's no way to think.\"\nI looked Uchiyama straight in the eye as I said it.\nHe must have been serious, in his own way.\nIn that case, I had to think it over carefully and give him a serious answer too.\n\"Right now, I can't be your friend, Uchiyama.\nYou say you want to be friends with everyone, Uchiyama, but as long as you still believe our classmates have evil spirits on them, I don't think anyone will ever be able to be your true friend.\nBut I don't want you to get me wrong.\nYou came to school every day, Uchiyama, even when it was hard, didn't you?\nYou tried not to make your mother worry, didn't you?\nI think I could have been friends with that Uchiyama.\nAnd yet I pretended not to see the bullying...\nI wish we had talked about all sorts of things sooner.\nI'm really sorry...!\"\nI kept looking into Uchiyama's eyes.\nUchiyama didn't look away either.\nHe had big, round eyes.\nUchiyama was crying.\nStill crying, he quietly faded away.{p}",
+   "follows_choice": [
+    "29:79a8"
+   ]
+  },
+  {
+   "id": "29:69ac",
+   "op": "text",
+   "en": "Pressing my temples, I pictured the afterimage of Uchiyama, his eyes wide open.\n\"{a}...\"\nsomeone said.\n\"Was that story true?\nWas somebody named Uchiyama really here...?\"\nI sat down in my seat without a word.\nThe seat was damp and clammy.{p}"
+  },
+  {
+   "id": "29:6aa8",
+   "op": "text",
+   "en": "Uchiyama's tears, perhaps?\nIwashita said in a small voice,\n\"I believe what Uchiyama said.\nThe evil spirits were real.\nTo the evil spirits, it was just a harmless little prank.\nBut to Uchiyama...\nThat's why we have to be careful.\nThere really are evil spirits in this school...\"\nWe looked at one another.\nEveryone looked uneasy.\nIwashita said,\n\"That's the end of my story.\n...Whose turn is next?\"{p}"
+  },
+  {
+   "id": "29:6c50",
+   "op": "text",
+   "en": "Why don't you want to hear it?\nYou'd better hear it.\nNo, you have to hear it.{p}The one Uchiyama liked was... you.\n",
+   "follows_choice": [
+    "29:3d34"
+   ]
+  },
+  {
+   "id": "29:6cd8",
+   "op": "choice",
+   "en": "Hear the rest"
+  },
+  {
+   "id": "29:6ce4",
+   "op": "choice",
+   "en": "Shut her up"
+  },
+  {
+   "id": "29:6cf4",
+   "op": "text",
+   "en": "Do you want me to tell you what that means?\nThen you should ask him yourself.\nUchiyama.\nUchiyama, you're there, aren't you?{p}",
+   "follows_choice": [
+    "29:6cd8"
+   ]
+  },
+  {
+   "id": "29:6d78",
+   "op": "text",
+   "en": ".........\nThere was a knock.\nThe air grew tense.\n"
+  },
+  {
+   "id": "29:6db8",
+   "op": "text",
+   "en": "Another knock.\nWho was it?\n"
+  },
+  {
+   "id": "29:6de0",
+   "op": "text",
+   "en": "Yet another knock.\nRougher this time.\n"
+  },
+  {
+   "id": "29:6e1c",
+   "op": "text",
+   "en": "\"{a}, go open it,\"\nsomeone said.\nUchiyama, on the other side of the door?\nWasn't the timing a little too perfect?\n\"{a}, hurry up and open it.\"{p}"
+  },
+  {
+   "id": "29:6eb4",
+   "op": "text",
+   "en": "I opened the door, but there was no one there.\n\"What are you doing?\"\nIwashita said.\n\"Why are you standing there in a daze?\nHurry back over here, so we can go on with the story.\"{p}"
+  },
+  {
+   "id": "29:6f60",
+   "op": "text",
+   "en": "When I turned around, Uchiyama was sitting in my seat.\nWhen had he...?\nUchiyama's mouth moved, mumbling.\n\"He says this room feels comfortable,\"\nshe whispered in my ear.\nUchiyama's mouth moved again.\n\"He says he hated his classmates,\"\nshe whispered again.\n\"But he says he likes you, {a}.\"\nUchiyama was sitting there.\nSitting in my seat.\n\"What's that face for?\"\nshe said.{p}"
+  },
+  {
+   "id": "29:70f4",
+   "op": "text",
+   "en": "\"{a}, what's that face for?\nWhen I say he likes you, I don't mean he has romantic feelings or anything like that.\nI mean he wants to be your friend.\nUchiyama says he wants to be friends with everyone in his class.\nStarting with you.\nBecause you look so quiet and kind.\nSo much that it's hard to believe you have an evil spirit on you.\nOh, I'm sorry.\nI believe what Uchiyama said, you see.\nThat everyone in Uchiyama's class has an evil spirit on them...\"\nWhat was she talking about?\nA strange atmosphere hung over the club room.\nBut nobody said anything.\nWhy?\nNobody said a thing.\nAnd everyone was looking at my seat.{p}"
+  },
+  {
+   "id": "29:7348",
+   "op": "text",
+   "en": "At my seat, where Uchiyama was sitting...\n\"{a}, why don't you sit down?\"\nsomeone said.\nWhat were they talking about?\nHow could I sit down, when Uchiyama was in my seat...?\nI caught my breath and turned to Iwashita.{p}"
+  },
+  {
+   "id": "29:741c",
+   "op": "text",
+   "en": "She nodded slowly.\n\"Uchiyama has come to your seat right now, {a}.\nThe rest of you can't see him, can you?\nUchiyama isn't of this world anymore, after all.{p}"
+  },
+  {
+   "id": "29:74b8",
+   "op": "text",
+   "en": "Yes, Uchiyama lost to the evil spirits.\nBroken by the evil spirits' cruelty, he took pills.\nThe kind of pills that put you into an eternal sleep if you take enough of them.\nSwallowing them one by one, he said goodbye to his mother and to the old friends he had loved so much.\nAnd after that, he pictured the faces of his classmates...\nBut Uchiyama couldn't go to heaven.\nEven though he knew the evil spirits were to blame, he hated his classmates.\nBut he thought that was wrong.\nUchiyama thought he mustn't think that way.\nSo he decided to make friends with his classmates.{p}"
+  },
+  {
+   "id": "29:76a4",
+   "op": "text",
+   "en": "Now.\nNow that Uchiyama is a spirit too.\nHe thought that maybe now he could make friends with the classmates who have evil spirits on them.\n...And you're the first.\nHe says he wanted to be your friend even before he became a spirit.\nThat's all right, isn't it?\nYou'll be Uchiyama's friend, won't you?\"\nUchiyama had been absent from school since the day before yesterday.{p}"
+  },
+  {
+   "id": "29:77e4",
+   "op": "text",
+   "en": "Was what she said true?\nIf it was, how did she know all that?\n...Had she become his friend?\nHad she become friends with Uchiyama?\nShe wasn't my classmate.\nBut had she heard Uchiyama's story somewhere and decided to be his friend?\n\"Uchiyama has gone this far because he wants to be friends. If a classmate turned him down...\nI'm sure that classmate wouldn't get off lightly.\nNow, let me hear your answer.{p}Will you be Uchiyama's friend?\"\n"
+  },
+  {
+   "id": "29:799c",
+   "op": "choice",
+   "en": "Be his friend"
+  },
+  {
+   "id": "29:79a8",
+   "op": "choice",
+   "en": "Refuse"
+  },
+  {
+   "id": "29:79cc",
+   "op": "text",
+   "en": "\"Yeah.\nLet's be friends.\nBut I wish we'd become friends sooner.\nOnce you're dead... once you're dead, you can't do anything.\nYour seat at school will be gone, and you can't take part in class events.\nYou can't talk about who you have a crush on, and even when we move up a year and everyone graduates, you'll stay just the way you are...\"\nI told him honestly how I felt.\nWhat she said was true.\nUchiyama was no longer of this world.\nWhy hadn't I been able to do something before it came to this?\nUchiyama mumbled again.\nThis time, I heard his voice directly.\nWas it because I had become his friend?\n\"{a}, we're friends, right?\nThen you'll come to the world where I am, won't you?\"\n",
+   "follows_choice": [
+    "29:799c"
+   ]
+  },
+  {
+   "id": "29:7c44",
+   "op": "text",
+   "en": "What?\n.........The world where he is.........?\n"
+  },
+  {
+   "id": "29:7c80",
+   "op": "text",
+   "en": "\"I won't take you today.\nYou must have lots of things you want to do before you say goodbye to this world.\nLet's see, I'll come for you on your next birthday.\nIf you really don't want to go, then introduce me to three people instead.\nPeople who might become my friends.\nThat's what I promised my big sister too...\"\n.........Big sister?\n\"Akemi Iwashita is my big sister.\nOur parents divorced a few years ago, so we have different surnames now...\"\nI see.\nSo that was how it was...!\nUchiyama's figure grew faint and blurred.{p}"
+  },
+  {
+   "id": "29:7e54",
+   "op": "text",
+   "en": "He vanished, still sitting in my seat.\nEveryone in the club room was silent.\nConfronted with the reality of Uchiyama's death, a solemn mood hung over us.\nIt was Akemi Iwashita who broke the silence.\n\"Well, that's the end of my story.\nWhose turn is next?\"{p}"
+  },
+  {
+   "id": "29:7f50",
+   "op": "text",
+   "en": "Uchiyama bowed his head.\n\"I'm sorry, I won't do it again.\"\n...That's what he said.\nDefying an evil spirit head-on would be foolish, after all.\nIf he got possessed himself, who would save her?\nSo Uchiyama apologized.\nThe boys seemed thrown off.\nThey were still grumbling, but they couldn't do anything more in front of Otaki.\nAnd then they let Uchiyama go home.{p}",
+   "follows_choice": [
+    "29:445c"
+   ]
+  },
+  {
+   "id": "29:80f0",
+   "op": "text",
+   "en": "Otaki watched the whole thing and felt relieved.\nNow Uchiyama wouldn't follow her around anymore.\nStarting tomorrow, she could go to school without worrying.\nShe must have been on edge all that time, after all.\n"
+  },
+  {
+   "id": "29:81a4",
+   "op": "text",
+   "en": "When she got home, she went to bed early.\n...And then, in the middle of that night.{p}"
+  },
+  {
+   "id": "29:81fc",
+   "op": "text",
+   "en": "Otaki woke up, sensing something strange in her room.\nIn the dark room, someone was standing there, staring at her.\nJust as Otaki was about to scream, a knife glinted.\nShe stifled her voice at once.\nShe thought she mustn't agitate whoever it was.\nThen the intruder spoke.\n\"Otaki... I'm going to save you from the evil spirit now...\"\nIt was Uchiyama's voice.\nUchiyama put the knife to his own wrist.\nAnd before she could stop him, he drew it across.\nHot liquid spattered across Otaki's face.\n\"I looked it up... To be saved from an evil spirit, the victim has to bathe in the living blood of someone who loves them with all their heart.\nSo I'll...\"\nEven as Uchiyama went on mumbling, the hot liquid kept raining down on Otaki.\nA strange smell, metallic and raw.\nOtaki finally realized she was being showered in blood.\nBut she was too terrified to make a sound.\nShe couldn't believe this was really happening.\nShe just lay there in a daze, pelted by the hot spray raining down on her...{p}"
+  },
+  {
+   "id": "29:8598",
+   "op": "text",
+   "en": "The next day, Otaki's mother found the gruesome scene.\nOtaki, drenched in bright red blood, giggling and giggling, and Uchiyama's corpse lying at her feet.\n...Maybe Uchiyama actually meant to kill himself.\nMaybe he thought that if he was going to die anyway, he'd die saving the one he loved.\n{a}, you never knew something like this happened, did you?\nThe school and the adults worked desperately to hush it up, after all.\nWhat happened to Otaki after that, you ask?\nShe hasn't been coming to school, has she?\nApparently she's recuperating somewhere far away.\nAnd that's the end of my story.\nWhose turn is next?{p}"
+  },
+  {
+   "id": "29:87c4",
+   "op": "text",
+   "en": "\"Stop it!\"\nI shouted at the top of my lungs!\nBut she didn't stop!\nI took 120 points of damage!\n\"Uchiyama couldn't see anyone but you!\"\n250 points of damage!{p}",
+   "follows_choice": [
+    "29:6ce4"
+   ]
+  },
+  {
+   "id": "29:8898",
+   "op": "text",
+   "en": "I have died!\n...This was no time to be thinking things like that.\nWhat did she mean just now?\nI have a habit of thinking goofy things at moments when I need to be serious.\nMaybe other people can't understand a personality like that.\nIt's like, say, when you've messed up and someone is yelling at you, and you can't help a wry smile.\nIt's that feeling when you have to be serious, but your face breaks into a grin from sheer nerves.{p}"
+  },
+  {
+   "id": "29:8a50",
+   "op": "text",
+   "en": "\"Ugh, what are you grinning about?\"\nshe said.\nGrinning?\nI wasn't grinning at all.\nFor a moment I went cold, feeling as if she'd read my mind, but I just silently looked into her eyes.\nHer eyes weren't looking at me.\n\"I told you, didn't I? Everyone in the class had an evil spirit on them...\"\nHer vacant eyes seemed to be looking at something over my shoulder.\n\"There's one. Behind you, too...\"\nShe quietly stood up.\n\"There's an evil spirit laughing behind you...\"\nShe walked toward me.\nWalked right toward me.\nBut her eyes weren't looking into mine.\nShe was looking at something over my shoulder...\n\"Uchiyama couldn't see anyone but you.\nBecause the evil spirit on you spoke to Uchiyama.\nIt told him not to worry.\nIt said it would possess Uchiyama next.\nThen nobody would bully him anymore.\nAnd then it told him to bully someone else this time. In other words, you.........\nThat's why Uchiyama came to like...\nyou.\nYou, who would free Uchiyama from his nightmare.........\"\nHer hand reached out.\nHer hand reached straight for my shoulder...{p}"
+  },
+  {
+   "id": "29:8e24",
+   "op": "text",
+   "en": "\"What's that face for? I'm joking.\"\nShe gave my shoulder a pat.\n\"Don't forget that feeling of 'I was in the wrong too.'\nUchiyama says it's because evil spirits possessed everyone, but...\nIf people blame everything they do on something else, nothing good comes of it.\nUchiyama still comes to school every day.\nBut if things stay the way they are, something terrible might happen someday...\nWhat do I mean by something terrible?\n...Think for yourself.\nYou can figure out that much, can't you?\nWell then, that's the end of my story.\nThe story of the evil spirits' pranks ends here.{p}"
+  },
+  {
+   "id": "29:9014",
+   "op": "text",
+   "en": "...Hm?\nYou can't tell whether this story was really the evil spirits' doing?\nThen shall we listen to the next person's story?\n...Don't worry.\nScary stories good enough for an article are a dime a dozen at this school...\"{p}"
+  },
+  {
+   "id": "29:90f0",
+   "op": "text",
+   "en": "I see.\nYou don't seem to understand.\nI'm quite angry, you know.\nAt what, you ask?\n...At irresponsible people like you.\nYou helped him, you say?\nThen you really did know Uchiyama was being bullied.\nAnd now you think you helped him, is that it?\nShe slowly slipped her right hand into her pocket.\nI looked down and fell silent.\nI could feel my face going stiff.\nWhat was I saying?\nI knew myself that I'd given a strange answer.\nBut when I looked into her eyes...{p}",
+   "follows_choice": [
+    "29:390c"
+   ]
+  },
+  {
+   "id": "29:92e8",
+   "op": "text",
+   "en": "It was so hot.\nSweat glued my uniform trousers to my legs.\nI couldn't lift my head, and only stared at her hand inside her pocket.\n"
+  },
+  {
+   "id": "29:9378",
+   "op": "text",
+   "en": "Click-click-click\n...\nWhat was that sound?\nIt seemed to be coming from her pocket...{p}"
+  },
+  {
+   "id": "29:93e4",
+   "op": "text",
+   "en": "If you had really helped him, that would never have happened.\nYou didn't help him at all.\nYou abandoned Uchiyama, didn't you?\n...Since no one would help him, Uchiyama thought about a lot of things, you see.\nAbout why he was the one being bullied.\nNo, it's no use looking down.\nListen properly.\n...After that, Uchiyama began to see strange things.{p}"
+  },
+  {
+   "id": "29:9540",
+   "op": "text",
+   "en": "\"I didn't mean any harm!\nI never thought it would come to this...!\"\nI found myself shouting.\nOf course, I hadn't been the leader of the bullying group.\nIf anything, I'm on the timid side myself.\nAh, but...\nDid she know?\n\"You killed Kota!\"\nShe raised her right hand high.\nShe was going to strike me!\nJust as I was about to squeeze my eyes shut...{p}",
+   "follows_choice": [
+    "29:2068"
+   ]
+  },
+  {
+   "id": "29:96c4",
+   "op": "text",
+   "en": "Click... click...\nThe box cutter gripped in her hand bared a brand-new blade.\nAh, did she know...?\nI'm one of the quieter ones in my class.\nRather than goofing around with a crowd of friends, I'm the type who takes it easy and reads a book at break time.\nWatching the class, watching people fool around...{p}"
+  },
+  {
+   "id": "29:97f4",
+   "op": "text",
+   "en": "Yes, I had certainly seen Uchiyama being bullied many times.\nWhenever Uchiyama's eyes met mine at those moments, I would break into a cold sweat.\nIf I were in his place...\nI thought that over and over.\nIs that why Uchiyama felt some kinship with me?{p}"
+  },
+  {
+   "id": "29:9900",
+   "op": "text",
+   "en": "One day, he came to me for advice about the bullying.\nI thought it over in my own way, and then I wrote the bullying group a letter that went like this:\n\"Uchiyama said he's going to tell a teacher that he's being shaken down for money.\nAnd if that doesn't work, he says he'll go to the police...\"\nI thought that if I wrote that, they would stop the bullying.\nBut when they read it, they flew into a rage and started bullying Uchiyama even worse...{p}"
+  },
+  {
+   "id": "29:9a80",
+   "op": "text",
+   "en": "Did she... know?\nAnd did she misunderstand, thinking I was the bullying group's hidden leader, and that I'd written that letter to egg them into bullying Uchiyama?\nIt's true I did something awful.\nI gave them a reason to bully Uchiyama even more...\nMaybe it really was the same as bullying him myself.\nBut...!{p}"
+  },
+  {
+   "id": "29:9be4",
+   "op": "text",
+   "en": "Yes, of course.\nIf you weren't involved in bullying Uchiyama, you'd have no need to know.\n...But you'd better be careful.\nIt seems the evil spirit has been growing bigger and bigger as Uchiyama goes on cursing.\nMaybe it won't stop at the ringleaders who bullied him. The people around them might get dragged in too.\nPeople like you, in the same class... for instance.\nThere might already be something on your shoulder.\nGo on, have a look...\nWell, did you see it?\nYou look rather pale..........heh heh.\nWell then, I'll end my story here.\nWho's next?{p}",
+   "follows_choice": [
+    "29:48b4"
+   ]
+  }
+ ]
+}

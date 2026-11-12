@@ -1,0 +1,744 @@
+{
+ "chunk": "E077",
+ "scene": "40",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "slices": [
+  "S153",
+  "S154"
+ ],
+ "prev": "E076",
+ "next": "E078",
+ "todo": [],
+ "rows": [
+  {
+   "id": "40:0ff4",
+   "op": "text",
+   "en": "...It's kind of lonely, huh.\nIt's finally down to just three of us.\nThe people telling stories keep disappearing one after another...\nSo I'm up next, huh.\nI know I shouldn't say it myself, but I think I'm a pretty cheerful girl.\n...But right now I'm in kind of a gloomy mood.\nI wonder if something will happen to me too once I tell my story.{p}"
+  },
+  {
+   "id": "40:1110",
+   "op": "text",
+   "en": "...Well, there's no point thinking about stuff like that.\nLet's cheer up and get going!\n"
+  },
+  {
+   "id": "40:1178",
+   "op": "text",
+   "en": "My name is Reiko Fukuzawa.\nI'm in Cla-a-ass 1-G!\nThe story I'm going to tell is about the swim club.{p}"
+  },
+  {
+   "id": "40:11d8",
+   "op": "text",
+   "en": "{c}{f:|}, can you swim?\n"
+  },
+  {
+   "id": "40:1200",
+   "op": "choice",
+   "en": "I can swim"
+  },
+  {
+   "id": "40:1208",
+   "op": "choice",
+   "en": "I can't swim"
+  },
+  {
+   "id": "40:1214",
+   "op": "choice",
+   "en": "I'm great at the dog paddle, at least",
+   "returns": [
+    "40:3f80: RETURN - choice 40:1214 in S153 says 'doggy paddle' while this slice and terms_live use 'the dog paddle'; consistency for the editorial stage"
+   ]
+  },
+  {
+   "id": "40:1224",
+   "op": "text",
+   "en": "Oh, so you can swim.{p}",
+   "follows_choice": [
+    "40:1200"
+   ]
+  },
+  {
+   "id": "40:1240",
+   "op": "text",
+   "en": "Right?\nIt'd be embarrassing to be in high school and still not know how to swim.\n{f:Me too|Me}, {f:if I'm going to have a boyfriend,|I'd like my boyfriend to be able to swim too,} {f:I want one who can swim|that's what I think}.\nWhy, you ask?\nIsn't it obvious?\nIf we went to the beach together, it'd be no fun otherwise.\nAnd if I started drowning, who would save me?\nPlus, I totally want to travel abroad.\nI want to spend time alone with my boyfriend at some resort on a tropical island.\nSo he has to be able to swim, or no deal.{p}",
+   "returns": []
+  },
+  {
+   "id": "40:1400",
+   "op": "text",
+   "en": "...Oh, sorry.\nI got off topic.\nWe were talking about the swim club.\n"
+  },
+  {
+   "id": "40:1444",
+   "op": "text",
+   "en": "Actually, my big sister went to this school before me.\n"
+  },
+  {
+   "id": "40:1478",
+   "op": "text",
+   "en": "She's seven years older than me.\nAnd she was in the girls' swim club.\nThe boys' and girls' clubs are separate, see.\nThat's how I know this story.\nBack when my sister was there, there was this incredible swimmer, apparently.\nEveryone said she swam like a fish, or so I heard.\nThat's how good a swimmer she was.\nThey say when she swam, the water rippled like it was happy.\nEveryone was spellbound, apparently.\nIt's not like the water was really happy, of course.\nIt's just that her swimming was so graceful, it wouldn't be strange if it looked that way.{p}"
+  },
+  {
+   "id": "40:1650",
+   "op": "text",
+   "en": "Her name was Yuko Seto.\nIf you'd said Seto was a fish reborn, everyone would've believed it.\nBut even someone like Seto died in an accident.\nOne day, she had a heart attack while she was swimming.{p}"
+  },
+  {
+   "id": "40:1734",
+   "op": "text",
+   "en": "By the time everyone rushed over in shock to save her, it was already too late.\nScary, right?{p}"
+  },
+  {
+   "id": "40:1788",
+   "op": "text",
+   "en": "They say even monkeys fall out of trees, but nobody ever dreamed Seto of all people would drown.\nSo nobody could believe she was really dead.\nAnd it was after that.\nThat strange things started happening.{p}Hey, hey, what kind of strange things do you think happened?\n"
+  },
+  {
+   "id": "40:1878",
+   "op": "choice",
+   "en": "Someone is heard swimming in the empty pool"
+  },
+  {
+   "id": "40:18a8",
+   "op": "choice",
+   "en": "The empty club room ends up soaking wet"
+  },
+  {
+   "id": "40:18d8",
+   "op": "choice",
+   "en": "More people get leg cramps while swimming"
+  },
+  {
+   "id": "40:190c",
+   "op": "text",
+   "en": "That's right.\nApparently there started to be signs that someone had used the club room when nobody should have been there.\nYou tidy up the club room nice and neat, right?\nThen the next day, the club room is flooded with water.\nThere are water droplets on the walls and everything, like someone splashed water all over.\nNaturally, everyone started talking.\nThey said it had to be Seto's ghost.\nThat Seto couldn't forget the swim club, and was coming back to haunt it.\nAnd on top of that, the girls who used her locker had accidents, one after another.{p}",
+   "follows_choice": [
+    "40:18a8"
+   ]
+  },
+  {
+   "id": "40:1af4",
+   "op": "text",
+   "en": "They'd suddenly get leg cramps or start drowning while swimming.\nIt only happened to girls who'd used Seto's locker.\nAnd when you asked them about it, they'd all say the same thing.\nThat while they were swimming, someone suddenly grabbed their legs and pulled.{p}"
+  },
+  {
+   "id": "40:1be8",
+   "op": "text",
+   "en": "...It's gotta be Seto.\nSeto's lonely, and she wants friends.\nSo I think she pulls the legs of the girls who use her locker.\nBecause she thinks they can become friends.\nThe girls who got pulled would be creeped out and switch lockers right away, right?\nAt first, though, a lot of girls wanted to use that locker just for fun, apparently.{p}"
+  },
+  {
+   "id": "40:1d38",
+   "op": "text",
+   "en": "I mean, it was the locker of Seto, the ace of the girls' swim club.\nA weird rumor went around that whoever used it would get better at swimming.\nBut way too many weird things kept happening, right?\nSo in the end, nobody used it anymore.\nIt's not like anyone got better at swimming anyway.\nWell, obviously.{p}"
+  },
+  {
+   "id": "40:1e94",
+   "op": "text",
+   "en": "So, that locker got banned.\nMoving it is creepy, and nobody wants to touch it, right?\nThen the rumor grew and grew, and now they say just opening Seto's locker will bring you bad luck.\nIt's the never-opened locker, you could say.\nScary, huh?\nI don't get how anyone who knows that story would want to join the swim club.\nBut you're a little curious about that locker, right?{p}No?\n"
+  },
+  {
+   "id": "40:202c",
+   "op": "choice",
+   "en": "I'm curious"
+  },
+  {
+   "id": "40:2038",
+   "op": "choice",
+   "en": "I'm not really curious"
+  },
+  {
+   "id": "40:2048",
+   "op": "text",
+   "en": "Right?\nTo tell you the truth, I'm curious too.\nBut everybody says they're not interested.\n...I've been looking for someone who was.\nI mean, don't you want to find out whether there really is a cursed locker?{p}",
+   "follows_choice": [
+    "40:202c"
+   ]
+  },
+  {
+   "id": "40:210c",
+   "op": "text",
+   "en": "Hey, let's go check it out together, right now!\n"
+  },
+  {
+   "id": "40:2134",
+   "op": "choice",
+   "en": "Go check it out"
+  },
+  {
+   "id": "40:2144",
+   "op": "choice",
+   "en": "No way, I don't want to"
+  },
+  {
+   "id": "40:2154",
+   "op": "text",
+   "en": "That's it, {f:guys|girls} gotta have guts, right?\nWe've just gotta go!{p}",
+   "follows_choice": [
+    "40:2134"
+   ]
+  },
+  {
+   "id": "40:21a0",
+   "op": "text",
+   "en": "Don't worry. The club room lock opens with a bit of wire.\nI'm good at this kind of thing.\n...Keep it a secret, okay?{p}"
+  },
+  {
+   "id": "40:221c",
+   "op": "text",
+   "en": "...Okay, we're going in.\nThere's no practice today.\nNobody's here, trust me.{p}"
+  },
+  {
+   "id": "40:2290",
+   "op": "text",
+   "en": "...Whoa, it's soaking wet.\nDon't they clean up properly?\nOr maybe this is Seto's curse.\nWow, there are a lot of lockers.\nI heard Seto's locker was somewhere on the right side... but I don't know exactly which one.{p}"
+  },
+  {
+   "id": "40:239c",
+   "op": "text",
+   "en": "Looks like there are eight lockers on the right side.\nWe don't know which one, so let's just open them one by one.\n...I wonder what'll happen when we open it.\nMaybe Seto's ghost will come out.\n...Apparently the girls' swim club these days is told never to open it.\nSomeone must have opened it and something horrible happened.\nBut you'll be fine, right, {c}{f:|}?\nAre you ready?{p}So, which one should we open?\n"
+  },
+  {
+   "id": "40:251c",
+   "op": "choice",
+   "en": "The one on the far right"
+  },
+  {
+   "id": "40:2528",
+   "op": "choice",
+   "en": "Second from the right"
+  },
+  {
+   "id": "40:2538",
+   "op": "choice",
+   "en": "Third from the right"
+  },
+  {
+   "id": "40:2548",
+   "op": "choice",
+   "en": "Fourth from the right"
+  },
+  {
+   "id": "40:2558",
+   "op": "choice",
+   "en": "Fifth from the right"
+  },
+  {
+   "id": "40:2568",
+   "op": "choice",
+   "en": "Sixth from the right"
+  },
+  {
+   "id": "40:2578",
+   "op": "choice",
+   "en": "Seventh from the right"
+  },
+  {
+   "id": "40:2588",
+   "op": "choice",
+   "en": "The one on the far left"
+  },
+  {
+   "id": "40:25a8",
+   "op": "text",
+   "en": "\"{f:Waaagh|Eeek}!\"{p}"
+  },
+  {
+   "id": "40:25c8",
+   "op": "text",
+   "en": "{f:I|I} screamed before I knew it.{p}"
+  },
+  {
+   "id": "40:25fc",
+   "op": "text",
+   "en": "\"Eeeeek!\"{p}"
+  },
+  {
+   "id": "40:262c",
+   "op": "text",
+   "en": "Fukuzawa slammed the locker door shut.\nThen, staring hard at {f:me|me}, she murmured in a trembling voice.{p}"
+  },
+  {
+   "id": "40:26c0",
+   "op": "text",
+   "en": "\"...Did you see that?\nYou saw that, right?\"\nShe was looking to {f:me|me} for agreement.\n{f:I|I} nodded.\nThen I turned my eyes to the locker once more.{p}"
+  },
+  {
+   "id": "40:275c",
+   "op": "text",
+   "en": "The locker just sat there, silent.\nNo different from the other lockers, simply pretending to be ordinary.\nWas that horrible thing I'd just seen really {f:inside|inside} it?{p}"
+  },
+  {
+   "id": "40:2814",
+   "op": "text",
+   "en": "\"...H-hey.\nWant to open it again?\"\nSuddenly, Fukuzawa asked me something terrifying.\nWe'd just seen what was in there, and she wanted to see it again...\nBut if we opened it again, what {f:would|would} happen?{p}What should I do?\n"
+  },
+  {
+   "id": "40:2900",
+   "op": "choice",
+   "en": "Don't open it again"
+  },
+  {
+   "id": "40:2910",
+   "op": "choice",
+   "en": "Try opening it once more"
+  },
+  {
+   "id": "40:2924",
+   "op": "text",
+   "en": "\"Let's just go back, Fukuzawa.\"\n{f:I|I} tugged her by the hand.{p}",
+   "follows_choice": [
+    "40:2900"
+   ]
+  },
+  {
+   "id": "40:2984",
+   "op": "text",
+   "en": "\"...Aw, too bad.\nAnd here I thought you had more guts, {c}{f:|}.\n{f:At that rate|If you'd snapped a picture or something}, {f:you'll never get a girlfriend|it would've made a great scoop}.\"\n{f:I|I} {f:laughed|smiled wryly} at her words as I left the swim club room.{p}"
+  },
+  {
+   "id": "40:2ab0",
+   "op": "text",
+   "en": "I {f:have|have} to hurry back to the newspaper club.\nAnd hear the next story.\nIf the seventh person doesn't show up, the next story will be the last.\nI'll {f:get|get} this gathering over with as fast as I can.\n...And then I'll {f:forget|forget} what I just saw.{p}"
+  },
+  {
+   "id": "40:2b9c",
+   "op": "text",
+   "en": "I leaped back without thinking.\nWhat the hell is this thing?!{p}"
+  },
+  {
+   "id": "40:2be4",
+   "op": "text",
+   "en": "\"Eeeeeeeeeek!\"{p}"
+  },
+  {
+   "id": "40:2c04",
+   "op": "text",
+   "en": "\"Fukuzawa!\"\nFukuzawa couldn't get away from that thing.\nI heard her scream, and before I could even blink, she was dragged into the locker.\nBy the time I shouted, she was already inside.\n\"Fukuzawa!\"{p}"
+  },
+  {
+   "id": "40:2d04",
+   "op": "text",
+   "en": "When I shouted again and reached out to save her, the locker slammed shut with a sound like a scream.\nWhat should I do?\nOpen it?{p}Or else...\n"
+  },
+  {
+   "id": "40:2d94",
+   "op": "choice",
+   "en": "Open it"
+  },
+  {
+   "id": "40:2d9c",
+   "op": "choice",
+   "en": "Call Fukuzawa's name"
+  },
+  {
+   "id": "40:2db0",
+   "op": "choice",
+   "en": "Leave it alone"
+  },
+  {
+   "id": "40:2dc4",
+   "op": "text",
+   "en": "\"Are you okay?!\"{p}",
+   "follows_choice": [
+    "40:2d94"
+   ]
+  },
+  {
+   "id": "40:2de4",
+   "op": "text",
+   "en": "I yanked on the locker with all my strength.\n...But it wouldn't budge.\nIt was a narrow locker, barely big enough for one person.\nWhat on earth was going on in there...{p}"
+  },
+  {
+   "id": "40:2e88",
+   "op": "text",
+   "en": "\"GYAAAAAAAAAAGH!\"\nA hideous scream came from inside.\nIt was Fukuzawa's voice.{p}"
+  },
+  {
+   "id": "40:2ef0",
+   "op": "text",
+   "en": "At the same time, I heard a horrible sound, dull and muffled, a grinding crunch like bones being crushed.{p}"
+  },
+  {
+   "id": "40:2f4c",
+   "op": "text",
+   "en": "Something was breaking in there.\nI could hear it snapping and cracking, like something being folded up.{p}"
+  },
+  {
+   "id": "40:2fa4",
+   "op": "text",
+   "en": "The locker shook violently, back and forth, side to side.{p}"
+  },
+  {
+   "id": "40:2fdc",
+   "op": "text",
+   "en": "\"Gueh... ehhh......\"{p}"
+  },
+  {
+   "id": "40:3008",
+   "op": "text",
+   "en": "My heart clenched as I heard an agonized groan, as if wrung out of someone's throat.\nIt had changed so horribly that it no longer sounded like Fukuzawa's voice at all.\nBut there was no mistaking it.\nIt had to be Fukuzawa's voice.{p}"
+  },
+  {
+   "id": "40:30cc",
+   "op": "text",
+   "en": "\"Fukuzawa!\n"
+  },
+  {
+   "id": "40:30e8",
+   "op": "text",
+   "en": "Fukuzawa!\"{p}"
+  },
+  {
+   "id": "40:30fc",
+   "op": "text",
+   "en": "I pounded on the locker with all my strength, hard enough to break it.\n...But there was no more answer.{p}"
+  },
+  {
+   "id": "40:3160",
+   "op": "text",
+   "en": "Instead of words, only an eerie sound came from inside the locker.\nWas that the sound of something eating...?{p}"
+  },
+  {
+   "id": "40:31d8",
+   "op": "text",
+   "en": "Or the sound of something being crushed...?{p}"
+  },
+  {
+   "id": "40:320c",
+   "op": "text",
+   "en": "Suddenly, there was a loud clunk.{p}"
+  },
+  {
+   "id": "40:3244",
+   "op": "text",
+   "en": "Then the locker door swung open, just a little.\nAt the same moment, that sickening sound stopped.\n...What should I do?\nShould I open it and look inside?{p}Did I have the courage to see what was in there?\n"
+  },
+  {
+   "id": "40:32e4",
+   "op": "choice",
+   "en": "Open it"
+  },
+  {
+   "id": "40:32f0",
+   "op": "choice",
+   "en": "Don't open it"
+  },
+  {
+   "id": "40:32fc",
+   "op": "text",
+   "en": "I swallowed hard and put my hand on the locker.\nThen I slowly pulled the door open.{p}",
+   "follows_choice": [
+    "40:32e4"
+   ]
+  },
+  {
+   "id": "40:336c",
+   "op": "text",
+   "en": "It made the dull grinding sound of rusted metal.\nHad locker doors always been this heavy...?{p}"
+  },
+  {
+   "id": "40:33e4",
+   "op": "text",
+   "en": "The locker door came open.\n...Inside......there was nothing.\nThe inside of the locker had been neatly cleaned out. It was empty.\n...A strong smell of iron drifted out of it.\nThe smell of iron.\nYou could also call it the smell of blood.\nBut the inside of the locker was only a little chipped at the corners. There wasn't a single trace of blood.\n...Maybe it really was just the smell of iron.{p}"
+  },
+  {
+   "id": "40:3530",
+   "op": "text",
+   "en": "Someone tapped me on the shoulder from behind, and I jumped, trembling.{p}"
+  },
+  {
+   "id": "40:357c",
+   "op": "text",
+   "en": "I turned around, and there stood the last one.\n\"So it's finally come down to just the two of us.\"\nThe last one seemed to be smiling, somehow.\nI nodded in silence.\nHe looked like he wanted to say something, but his mouth kept working, as if the words were hard to get out.{p}"
+  },
+  {
+   "id": "40:3670",
+   "op": "text",
+   "en": "He seemed to make up his mind; he looked down, then peered up at me and asked,\n\"...What will you do?\nAre you still going to keep going?\"\nWhat should I do?\nThe people who told their stories were vanishing, one after another.\nCould this still be called a coincidence?\nIf I kept on like this, even he, the last one left, would probably vanish too.\nAnd then what would become of me, the last one left behind...?\nWas it really all right to keep going?{p}Or should I stop while I still had my life?\n"
+  },
+  {
+   "id": "40:3818",
+   "op": "choice",
+   "en": "Keep going"
+  },
+  {
+   "id": "40:3820",
+   "op": "choice",
+   "en": "Stop"
+  },
+  {
+   "id": "40:3828",
+   "op": "text",
+   "en": "\"Let's keep going.\"\nI said it firmly.\nHe stayed silent.\nThen he slowly let out a long breath.{p}",
+   "follows_choice": [
+    "40:3818"
+   ]
+  },
+  {
+   "id": "40:3898",
+   "op": "text",
+   "en": "\"...I see.\nYou're quite something.\nFrom the first time I saw you, I thought you were no ordinary person.\nIt seems you have something in you... something ordinary people shouldn't have.\"\nI didn't understand what he meant.\nHe kept on smiling, just as before.\n\"...Well then, shall we go back to the newspaper club?\"\nThere was no point in staying here.\nReiko Fukuzawa had vanished.\nShe wasn't here anymore.\nI didn't even have a way of finding out whether she was dead or alive.{p}"
+  },
+  {
+   "id": "40:3a50",
+   "op": "text",
+   "en": "\"Let's not go back to the newspaper club.\"\nThe last one left suddenly spoke up.\n\"Why don't we go to the old school building now?\"\nThat was what he added.\nWhy did we have to go to the old school building?\n\"The old school building?\"\nI tilted my head.\n\"That's right, the old school building.\nI'm the only one left who has to tell a story, right?\nThen we have to go to the old school building.\nThe story I'm going to tell is about the old school building.\n...You see, I wasn't sure whether I should tell this story, but I think now is the time I should.\nThat's why we absolutely have to go to the old school building.\"\nHe smiled meaningfully.\nA story that meant we had to go to the old school building?\nWhat on earth could it be?{p}"
+  },
+  {
+   "id": "40:3cb0",
+   "op": "text",
+   "en": "Outside, it was already dark.\nWhat time was it, anyway?\nI couldn't see a clock anywhere around.\nNeither he nor I had a wristwatch.{p}...What should I do?\n"
+  },
+  {
+   "id": "40:3d38",
+   "op": "choice",
+   "en": "Go to the old school building"
+  },
+  {
+   "id": "40:3d48",
+   "op": "choice",
+   "en": "Go back to the newspaper club"
+  },
+  {
+   "id": "40:3d58",
+   "op": "text",
+   "en": "\"...All right.\nLet's go.\"\nWhen he heard my answer, he seemed relieved, and his face broke into a broad smile.\n\"I thought you'd say that.\nI was sure that you, of all people, would say that.\"{p}",
+   "follows_choice": [
+    "40:3d38"
+   ]
+  },
+  {
+   "id": "40:3e20",
+   "op": "text",
+   "en": "With that, he set off briskly ahead of me.\nI followed behind him in silence.{p}"
+  },
+  {
+   "id": "40:3e80",
+   "op": "text",
+   "en": "...I thought I heard laughter behind me.\nWhat was waiting for me in the old school building?{p}"
+  },
+  {
+   "id": "40:3ed0",
+   "op": "text",
+   "en": "Hmm...\nSo you can't swim?\nThen I guess you hate pools, huh.\nMe, I love them.\nMy big sister loves them too.\nActually, my big sister went to this school before us, see.{p}",
+   "follows_choice": [
+    "40:1208"
+   ]
+  },
+  {
+   "id": "40:3f80",
+   "op": "text",
+   "en": "Whoa, {c}{f:|}, so you're good at the dog paddle?\nDoesn't dog paddling make your neck tired?\nIt's not like I can't do it, but doing it for a long time is tough.\nAnd you're actually good at it? I'm impressed.\nNext time, I'm gonna have you coach me.{p}That's okay, right?\n",
+   "follows_choice": [
+    "40:1214"
+   ],
+   "returns": [
+    "40:3f80: RETURN - choice 40:1214 in S153 says 'doggy paddle' while this slice and terms_live use 'the dog paddle'; consistency for the editorial stage"
+   ]
+  },
+  {
+   "id": "40:405c",
+   "op": "choice",
+   "en": "I'd be glad to"
+  },
+  {
+   "id": "40:4064",
+   "op": "choice",
+   "en": "Let me think about it a little"
+  },
+  {
+   "id": "40:4088",
+   "op": "text",
+   "en": "You want to think about it?\nAhahaha.\n{c}{f:|}, are you getting flustered?\nI know, what you said a minute ago was a joke, right?\nIt wasn't very funny.\nI was asking you seriously and you answered with a lame joke, so I was just paying you back. I may not look it, but I'm actually a good swimmer.\nI even went to swimming school.\nBut the way I swim isn't the competition kind, all about times and form.\nI learned emergency swimming, like putting clothes on and taking them off underwater, or swimming with your shoes still on.\nIt's about how to save yourself with whatever's around you, like when a ship sinks or you fall into the sea.\nYou're laughing, {c}{f:|}, but swimming in your clothes takes a lot of stamina.\nOne T-shirt is no trouble at all, but emergencies happen in sweatshirt and sweater season too, you know.\nIf you don't practice properly, you'll drown under the weight of your own clothes.\n...Hee hee, looks like you get it now.{p}",
+   "follows_choice": [
+    "40:4064"
+   ]
+  },
+  {
+   "id": "40:4424",
+   "op": "text",
+   "en": "Okay then, back to the story.\nIt was about the swim club, right?{p}"
+  },
+  {
+   "id": "40:4464",
+   "op": "text",
+   "en": "Really?\nYay, I'm so happy.\nIn class they teach you the crawl and the breaststroke, but they never teach you the dog paddle, huh.\nAnd you know what? At this school, the dog paddle is taboo.{p}",
+   "follows_choice": [
+    "40:405c"
+   ]
+  },
+  {
+   "id": "40:4504",
+   "op": "text",
+   "en": "Why? Because something horrible happened here before...\nWhat I'm going to tell you about is an incident that happened at this school just a few years ago.\nIt's a story about the swim club.\nYou see, I have a sister who's seven years older than me, and she was a student here too.\nShe was in the girls' swim club.\nSo this is a story I heard from my sister.{p}"
+  },
+  {
+   "id": "40:464c",
+   "op": "text",
+   "en": "Back then, the captain of the girls' swim club was a girl named Yuko Seto.\nShe was a famous swimmer who held a whole bunch of records. She won on her own, of course, and she led this school to team championships again and again.\nThe school got so crazy about the girls' swim club that there was even a plan to build a new pool behind the new school building.{p}"
+  },
+  {
+   "id": "40:476c",
+   "op": "text",
+   "en": "The swim club did have a boys' side too, but their results were kind of so-so. They didn't have many members either, and they always had to practice while giving way to the girls.\nThe incident happened during the summer vacation of Seto's third year.\nSeto already had a university recommendation lined up, so even after the other third-years retired from the club, she never missed practice.{p}"
+  },
+  {
+   "id": "40:48c0",
+   "op": "text",
+   "en": "That day was clear and hot, they say.\nOn days like that, being in the water feels so good, doesn't it?\nUnlike the girls, who were training like crazy for the meet after summer vacation, the boys seemed like they were mostly just having fun splashing around.{p}"
+  },
+  {
+   "id": "40:49b0",
+   "op": "text",
+   "en": "Seto sneered at those boys,\n\"Oh my, what's this?\nYou call that swimming?\nI bet even a dog would be faster.\"\nThat's how she taunted them, apparently.\nUgh, elites.\nAnyone below their level, they don't even count as human.\nWell, even so, the boys were used to Seto's nasty remarks, so it would just end with,\n\"Oh brother, here we go again.\"\nand that was that.{p}"
+  },
+  {
+   "id": "40:4b20",
+   "op": "text",
+   "en": "But you see, right at that time a stray dog had gotten onto the school grounds and was wandering around near the pool.\nIt was one of the boys who spotted the stray, they say.{p}"
+  },
+  {
+   "id": "40:4bb4",
+   "op": "text",
+   "en": "They opened the pool gate and let the stray dog in.\nThey wanted to give Seto a scare.\nShe was always tearing into them and they never talked back, so it was meant as a little payback.{p}"
+  },
+  {
+   "id": "40:4c7c",
+   "op": "text",
+   "en": "The stray took one look at the pool, brimming with water, and dove straight in.\nIt really was a hot day.\nA dog is basically wearing a fur coat, right?\nThat dog had been staggering from heatstroke, but as soon as it hit the water it perked right up and started swimming, they say.\nThe boys had all climbed out onto the poolside and were watching, amused, but the girls, who were wrapped up in practice, panicked when a stray dog suddenly came in.{p}"
+  },
+  {
+   "id": "40:4e14",
+   "op": "text",
+   "en": "They all screamed and scattered, they say.\nAs far as the boys were concerned, the plan was a success.\nWatching those stuck-up girls run around squealing seemed funny, and kind of cute.{p}"
+  },
+  {
+   "id": "40:4ec8",
+   "op": "text",
+   "en": "Just when they were starting to think it was about time to chase the dog out,\n"
+  },
+  {
+   "id": "40:4f04",
+   "op": "text",
+   "en": "\"Kyaaaaaaaah☆\"\nan especially loud scream went up.{p}"
+  },
+  {
+   "id": "40:4f48",
+   "op": "text",
+   "en": "It was Seto's voice.\nEveryone looked toward it at once.{p}"
+  },
+  {
+   "id": "40:4f9c",
+   "op": "text",
+   "en": "In the middle of the pool, Seto and the stray were thrashing around, splashing up water.\nAt first glance it looked like she was playing with the dog, but the water around them was ringed with red...{p}"
+  },
+  {
+   "id": "40:5040",
+   "op": "text",
+   "en": "Seto went limp and stopped moving.\nDogs have an instinct to chase anything that runs away.\nThe faster it runs, the harder they go after it.\nThat's why it went after Seto.\nAfter that, the pool was in even more of a panic, they say.\nThe teachers came running, and only then did they finally manage to catch the stray.\nSeto was already dead.\nShe bled to death from the bite wounds, they say.\nSeveral other people got hurt too, and the swim club couldn't practice for a while.\nThe boys' side is still disbanded, even now.\nAnd they say every boy who was a member back then got expelled.{p}"
+  },
+  {
+   "id": "40:5238",
+   "op": "text",
+   "en": "As for the girls' side, it started up again as a club when my sister was a third-year, I hear, but they had a hard time getting members.\nIt was so plain and dull, you'd never believe it was the same glorious girls' swim club as before.\nIt was all people who'd swim a bit and then start goofing around in the water, and everyone who wanted to swim seriously transferred to other schools.\nMy sister wasn't that into swimming, so she stayed in the swim club here.\nAnd you know, the one who made the dog paddle taboo was my sister.{p}"
+  },
+  {
+   "id": "40:5414",
+   "op": "text",
+   "en": "That day was a hot one too, apparently.\nEveryone was playing around instead of practicing.\nThen one of the girls showed off a dog paddle as a joke.\n\"Back in this pool, a while ago...\"\nshe said, gossiping about that incident.{p}"
+  },
+  {
+   "id": "40:54f4",
+   "op": "text",
+   "en": "And then that girl got a cramp in her leg.\nEveryone laughed and said that's what she got for spreading tasteless gossip, but when they saw her ankle, they all went quiet.{p}"
+  },
+  {
+   "id": "40:55a4",
+   "op": "text",
+   "en": "On her ankle, there was a clear set of dog tooth marks.\nBlood was faintly oozing out, just as if she'd really been bitten...\nEveryone agreed.\nThis had to be Seto's curse.\nSeto was angry, they said, because she didn't want people gossiping about her for fun.\nSo my sister made the dog paddle taboo in this pool.\nNot so much to keep people from getting hurt, but to let Seto rest in peace.{p}"
+  },
+  {
+   "id": "40:5734",
+   "op": "text",
+   "en": "Listen, {c}{f:|}.\nNo matter how good you are at the dog paddle, you can't do it in this pool.\nIf you trampled all over my sister's feelings after everything she did...{p}"
+  },
+  {
+   "id": "40:57d0",
+   "op": "text",
+   "en": "Hee hee hee, I wonder what I'd do~.\n...Well, that's the end of my story.\nOn to the next person.{p}"
+  },
+  {
+   "id": "40:5834",
+   "op": "text",
+   "en": "That's right, people started hearing someone swimming in the pool when nobody was there.\nSplash, splash, like that.\nAnd you know, when that happens...{p}",
+   "follows_choice": [
+    "40:1878"
+   ]
+  },
+  {
+   "id": "40:58bc",
+   "op": "text",
+   "en": "A hand, just a hand, is sticking up out of the pool, they say.\nIt was a teacher who found it first, apparently, while doing the after-school rounds...\nThe teacher thought someone was drowning and reached out to help.\nAnd then...{p}"
+  },
+  {
+   "id": "40:59a4",
+   "op": "text",
+   "en": "The hand in the pool slipped right back down into the water.\nIt wasn't the hand of someone drowning, they say.\nWhen the girls in the swim club heard about it, they figured it out right away.\nThat was the hand of Seto's ghost.\nIt was Seto, holding out her hand for help.\nAnd so a rumor spread that the way to lay her soul to rest was to grab the ghost's hand when it came out of the pool and pull her up.{p}"
+  },
+  {
+   "id": "40:5b24",
+   "op": "text",
+   "en": "After that, younger students and boys who'd admired Seto kept going to the pool and trying to grab the hand.\nBut it was no use.\nWhenever someone tried to grab it, the hand would pull back right away.\nThe girls in the swim club tried everything they could to save her soul.\nAnd so they came to this conclusion.\nMaybe she wanted to be saved by one particular person.\nShe pulled her hand back, they thought, as a way of saying she wanted someone else to help her.{p}"
+  },
+  {
+   "id": "40:5cc8",
+   "op": "text",
+   "en": "So then you'd wonder whose help she wanted, right?\nSo first, they decided that everyone in the girls' swim club would reach out one by one and try to take her hand.\nOf course, some of them were scared.\nBut the captain of the girls' swim club talked everyone into it.{p}"
+  },
+  {
+   "id": "40:5dd0",
+   "op": "text",
+   "en": "All the members snuck into the pool at night.\nDamp air, and a steamy heat...\nIt was the kind of night that makes your whole body feel heavy, they say.\nThe pool lay full of still water.\n\"Will her hand really come out...?\"\nSome of the members had never actually seen the hand, so a few of them were restless and fidgety.\nAnd then...\nThey heard the sound of water.{p}"
+  },
+  {
+   "id": "40:5f28",
+   "op": "text",
+   "en": "Splash, splash.\nSoft at first, then louder.\nUntil it sounded like someone drowning...{p}"
+  },
+  {
+   "id": "40:5f98",
+   "op": "text",
+   "en": "\"Ah!\"\none of the members cried out.\nThat hand had come up out of the pool.\n\"Seto☆\"\nEveryone rushed over to the hand.\nAnd one by one, with all their hearts, they reached out over the pool.\nBut the hand sticking out of the water still refused every hand they offered.\nAnd once several of them had tried...{p}"
+  },
+  {
+   "id": "40:60cc",
+   "op": "text",
+   "en": "\"Kyaaaaah☆\"\none girl screamed.\nShe was the swim club's great hope.\nShe was the best swimmer after Seto, see.\nHer name was Hayashi.{p}"
+  },
+  {
+   "id": "40:6184",
+   "op": "text",
+   "en": "When she held out her hand, the hand from the pool didn't pull back.\nBut...{p}"
+  },
+  {
+   "id": "40:61e8",
+   "op": "text",
+   "en": "\"Nooooo☆\"\nShe cried out loud and clutched her head.\nEveryone was startled and ran over to her.\nHad Seto's hand chosen her, and had something terrible happened?\nThat's what they thought.\nAnd then...{p}"
+  },
+  {
+   "id": "40:62b4",
+   "op": "text",
+   "en": "It wasn't Seto who'd been holding a hand up out of the pool water.\nWhat shocked Hayashi was that she saw a girl who looked exactly like her, reaching out from under the water.\nThe figure was wearing a sailor uniform, and it was translucent, wavering back and forth.{p}"
+  },
+  {
+   "id": "40:6398",
+   "op": "text",
+   "en": "But it vanished right away, they say.\n...Do you know what a living spirit is?{p}"
+  },
+  {
+   "id": "40:63fc",
+   "op": "text",
+   "en": "It's when a living person's grudges or jealousy take on a ghostlike form and appear.\nI think that's what showed up in the pool.\nWasn't it Hayashi's living spirit in the water?\nMaybe Hayashi's living spirit was trying to drown anyone who swam better than her.\nThey say Seto died of a heart attack, but...\nMaybe it was Hayashi's living spirit that caused it... just saying.\nI shouldn't say things like that?\nBut I can't help thinking it.{p}",
+   "returns": []
+  }
+ ]
+}

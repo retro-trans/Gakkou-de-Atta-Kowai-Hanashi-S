@@ -1,0 +1,325 @@
+{
+ "slice": "S183",
+ "scene": "46",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S182",
+ "next": "S184",
+ "todo": [
+  "- SCE46/SCE47 have zero {f}/{c} codes, so they are male-only routes. S184 avoided pronouns for {a}; revise it to \"he\" to match S185."
+ ],
+ "rows": [
+  {
+   "id": "46:8ad4",
+   "op": "text",
+   "follows_choice": [
+    "46:1fbc"
+   ],
+   "en": "I was exhausted today.\nI decided to go to sleep.\nI crawled into bed.{p}"
+  },
+  {
+   "id": "46:8b2c",
+   "op": "text",
+   "en": "When I closed my eyes, I saw something white floating in the darkness.\nIt was that girl's mask.\nThe expressionless Noh mask that had been burned into my memory ever since, impossible to forget.\nIt hung there in the empty air, as if threatening me, or perhaps sneering at me.{p}"
+  },
+  {
+   "id": "46:8c0c",
+   "op": "text",
+   "en": "At this rate, there was no way I'd ever get to sleep.\nI gave up and opened my eyes.{p}"
+  },
+  {
+   "id": "46:8c5c",
+   "op": "text",
+   "en": "The mask was floating above my head.\nI caught my breath.\nWhat is it doing here★\nBut my outstretched hand touched nothing.\nA hallucination★\nHad I been driven so far into a corner that I was seeing things?\nThe mask was still floating above my head.{p}"
+  },
+  {
+   "id": "46:8d44",
+   "op": "text",
+   "en": "Just to test it, I closed my eyes, and the mask was floating in the darkness there, too.\nBut this was the mask in my memory.\nIt wasn't anywhere near as real as the hallucination I saw with my eyes open.{p}"
+  },
+  {
+   "id": "46:8dec",
+   "op": "text",
+   "en": "I opened my eyes.\nThe floating mask.\nHad the mask possessed me?\nWould I spend the rest of my life with this mask following me around?\nJust the thought of it gave me goosebumps.{p}"
+  },
+  {
+   "id": "46:8e90",
+   "op": "text",
+   "en": "No, I don't want that!\nWhat am I going to do?\nWhat should I do?{p}"
+  },
+  {
+   "id": "46:8ec8",
+   "op": "text",
+   "en": "...Just then, a revelation came down from the heavens.\nOf course. Why hadn't I thought of it before?\nI just had to make myself blind.\nThen, even if the mask was floating there, I wouldn't know.\nAs for when my eyes were closed, there was nothing to worry about.\nMemories fade in time.\nHow brilliant was that?\nI wanted to pat myself on the back.\nNo time like the present.\nI was pretty sure there was a pair of scissors in my drawer.\nOr would a compass work better?\nGiggling to myself, I opened my desk drawer.{p}"
+  },
+  {
+   "id": "46:90a0",
+   "op": "text",
+   "en": "Inside it was that mask.{p}"
+  },
+  {
+   "id": "46:90d0",
+   "op": "text",
+   "follows_choice": [
+    "46:1fc8"
+   ],
+   "en": "I know, I'll read a book.\nThere was one I'd bought but still hadn't read.\nI grabbed the book and flopped down on my bed.{p}"
+  },
+  {
+   "id": "46:9144",
+   "op": "text",
+   "en": "Believe it or not, I don't mind reading.\nI flipped through the pages.\nJust then, I thought I saw the letters move.\nWhat?\nI stopped and stared at the page.\nIt was a perfectly ordinary book.\nWas it just my imagination...?\nThe moment I thought that and let out a sigh...{p}"
+  },
+  {
+   "id": "46:925c",
+   "op": "text",
+   "en": "The page bulged up with a squish.\nCaught in the movement, the print rippled.\nWhat's happening★\nI couldn't believe my eyes.\nThe page seemed to be trying to take the shape of a face.\nIt looked as if someone were pressing their face up from under the paper as a prank.\nI can't believe this...\nBut the paper face twisted its lips into a crooked leer.\n\"Hyahahaha!\"\nAn ugly laugh, as if it were mocking me.\nI flew into a rage and hurled the book at the wall.\nThe book bounced off and landed on the floor, open to the same page again.\n\"Oh, come now. Don't you recognize me?\"\nThe face in the book spoke.\n\"It's Arai. Have you forgotten me already?\"\nIt was definitely Arai's voice.{p}"
+  },
+  {
+   "id": "46:94a4",
+   "op": "text",
+   "en": "I caught my breath and peered into the book.\nNow that he mentioned it, it did look a bit like him.\nBut how on earth...{p}"
+  },
+  {
+   "id": "46:9520",
+   "op": "text",
+   "en": "\"We've taken a liking to you, {a}. So we thought we'd stay with you.\"\nA woman's voice came from right beside me.\nThe bedsheet had rumpled into the shape of a face.\nThis face, and that voice just now...\n\"I-Iwashita...?\"\n\"That's right. From now on, we'll always be together.\"\n\"You show real promise, after all.\"\nThe curtain spoke.\nThat was Kazama!{p}"
+  },
+  {
+   "id": "46:9678",
+   "op": "text",
+   "en": "I looked all around the room.\nWas that Hosoda in the wallpaper?\nThen was that Fukuzawa, there in the wood grain of the desk?\nAnd in the uniform hanging on the hanger...\n\"Don't tell me you forgot about me. Makoto Shindo.\"{p}"
+  },
+  {
+   "id": "46:9748",
+   "op": "text",
+   "en": "Oh my God.\nWhat has happened to my room★{p}"
+  },
+  {
+   "id": "46:9790",
+   "op": "text",
+   "en": "\"Don't make such a pathetic face.\"\n\"Let's all get along, shall we?\"\n\"We'll always be watching over you.\"\n\"That's right, forever.\"\n\"Even after you grow up.\"\n\"Even when you meet someone and get married.\"\n\"Even when you have a child and you're working for that child's sake.\"\n\"Even when you grow old someday and your children leave the nest.\"\n\"That's right, until the day you die.\"\n\"We'll be together forever.\"\n\"We'll watch over you.\"\n\"We'll watch over you.\"\n\"We'll always be watching over you.\"{p}"
+  },
+  {
+   "id": "46:9924",
+   "op": "text",
+   "en": "I covered my ears with both hands.{p}"
+  },
+  {
+   "id": "46:9950",
+   "op": "text",
+   "en": "\"Stop iiiiiit☆\"\nEven so, the faces in the room wouldn't shut up.{p}"
+  },
+  {
+   "id": "46:99b0",
+   "op": "text",
+   "en": "\"We like you, you know.\"\n\"And you like us too, right?\"\n\"We told you the seven wonders, didn't we?\"\n\"You're never alone. Not ever.\"\n\"Aren't you happy? Come on, you're happy, right?\"\n\"When you go out, we'll hide in the wrinkles of your clothes.\"\n\"We can hide in the toes of your shoes, or even in your hair.\"{p}"
+  },
+  {
+   "id": "46:9ac4",
+   "op": "text",
+   "en": "\"Shut up! Shut up☆ If you don't shut up...\"\nThere was a pounding on the door.\nThey must have heard me yelling.\nMy family came into the room.{p}"
+  },
+  {
+   "id": "46:9b74",
+   "op": "text",
+   "en": "\"It's {a}'s family.\"\n\"They look like {a}.\"\n\"Ooh, I wouldn't mind going with this one.\"{p}"
+  },
+  {
+   "id": "46:9bc0",
+   "op": "text",
+   "en": "\"Stop! Keep your hands off my family☆\"\nAs I screamed, I was pinned down.\n\"Who are you talking to? Get a grip!\"{p}"
+  },
+  {
+   "id": "46:9c3c",
+   "op": "text",
+   "en": "Who am I talking to?\nCan't they see the six of them★{p}"
+  },
+  {
+   "id": "46:9c74",
+   "op": "text",
+   "en": "\"Looks like these people can't see us. How fuuun.\"\n\"Let's tag along with them, let's tag along!\"{p}"
+  },
+  {
+   "id": "46:9cd8",
+   "op": "text",
+   "en": "\"Stoooop☆\"\nI tried to shake off the hands gripping my arms.\n\"{b}☆\"\n\"Pull yourself together☆\"{p}"
+  },
+  {
+   "id": "46:9d44",
+   "op": "text",
+   "en": "This is no time for that★\nIf I don't do something about these guys, it won't just be me. My family will get hurt too.\n\"Let go! Let go of me☆\"{p}"
+  },
+  {
+   "id": "46:9ddc",
+   "op": "text",
+   "en": "The moment I screamed, something slammed into my head with a thud.\nMy vision swam and warped.\nSomeone hit me...?\nI blacked out.{p}"
+  },
+  {
+   "id": "46:9e64",
+   "op": "text",
+   "en": "...When I woke up, I was lying in a clean bed.\nMy arms and legs were strapped down, and I couldn't move.\nA man in a white coat was saying something.\nA state of delirium... something about adolescence... I couldn't really follow it.\nMy family cried when they heard it, but that didn't bother me much either.\nThere was just one thing.\nWhat the faces had said was true.\nOn the pure white ceiling, on the curtains, everywhere, there were faces.\nThey were all watching me.\nThat one must be Hosoda, and that one over there, Kazama.\nIt didn't feel so unpleasant anymore.\nAs long as they were here, I wouldn't get bored, even in this white room.\nI gave the faces a smile.{p}"
+  },
+  {
+   "id": "46:a090",
+   "op": "text",
+   "follows_choice": [
+    "46:21c8"
+   ],
+   "en": "This must be a gift from the girl.{p}"
+  },
+  {
+   "id": "46:a0c8",
+   "op": "text",
+   "en": "I tried lifting the mask.\nIt was lighter than I'd expected.{p}What could she want me to do with it?\n"
+  },
+  {
+   "id": "46:a130",
+   "op": "choice",
+   "en": "She wants me to wear it"
+  },
+  {
+   "id": "46:a140",
+   "op": "choice",
+   "en": "She wants me to burn it"
+  },
+  {
+   "id": "46:a150",
+   "op": "text",
+   "follows_choice": [
+    "46:a130"
+   ],
+   "en": "Somehow, I had a feeling she might want me to wear it.\nI wasn't afraid.\nI tried putting on the mask.{p}"
+  },
+  {
+   "id": "46:a1b4",
+   "op": "text",
+   "en": "At the same moment, I felt dizzy for an instant.\nAnd then everything I saw changed completely.{p}"
+  },
+  {
+   "id": "46:a218",
+   "op": "text",
+   "en": "The scene I saw through the mask.\nIt was the old school building.\nAnd not just that, it was that girls' restroom!\nIn front of me were people I had never seen before.\nAll talking at once, they tried to force me into a stall.\nIs this the mask's memory?{p}"
+  },
+  {
+   "id": "46:a300",
+   "op": "text",
+   "en": "I was scared.\nAnd just as much, I hated them so much I could hardly stand it.\nWhy is this happening to me?\nWhat did I ever do?\nI hate them.\nScum like this don't even deserve to live!\nJust then, my eyes stopped on one of their faces.\nThis man!\nI know this one.{p}"
+  },
+  {
+   "id": "46:a408",
+   "op": "text",
+   "en": "I flung the mask away.\nI looked at the window.{p}"
+  },
+  {
+   "id": "46:a444",
+   "op": "text",
+   "en": "The face of a man reflected in the glass...\nThis was the very face from the mask's memory.\nI can't let him live.{p}"
+  },
+  {
+   "id": "46:a4a8",
+   "op": "text",
+   "en": "I took the scissors out of the drawer.\nA sharp pair of scissors with pointed tips.\nWith these, I should be able to kill a person, no problem.\n\"Die...\"\nI tried muttering it under my breath.\nI started to feel like I could do it.\nCourage welled up inside me.\nI'll kill him!\nI gripped the scissors tight.\nThis time, I'll try shouting it louder.\n\"Just die☆\"\nThat's right, dying is all it takes!{p}"
+  },
+  {
+   "id": "46:a61c",
+   "op": "text",
+   "en": "Without a moment's hesitation, I slashed my own throat straight across.{p}"
+  },
+  {
+   "id": "46:a658",
+   "op": "text",
+   "follows_choice": [
+    "46:a140"
+   ],
+   "en": "Maybe she wants me to burn it.\nMaybe she has no more need for it.\nI went out into the yard and set the mask down on the dirt.{p}"
+  },
+  {
+   "id": "46:a6f0",
+   "op": "text",
+   "en": "I lit it with matches I'd brought from the kitchen.\nThe mask must have been bone-dry, because it went up in flames in no time.\nThe rising smoke vanished into the dark night sky.\nWhere was the girl now, I wondered.\nAnd those six, too.\nTheir bodies had been in the old school building, but I had a feeling they were somewhere else.{p}"
+  },
+  {
+   "id": "46:a7f8",
+   "op": "text",
+   "en": "...The mask burned away to nothing.\nI stamped on the few scraps left to put out the embers, and decided to go back to my room.\n"
+  },
+  {
+   "id": "46:a860",
+   "op": "text",
+   "en": "As I was about to go inside, I sensed someone.\nWhat?\nI turned around, but no one was there.{p}"
+  },
+  {
+   "id": "46:a8c0",
+   "op": "text",
+   "en": "...It must be my imagination.\nSo much has happened, my nerves must be on edge.{p}"
+  },
+  {
+   "id": "46:a914",
+   "op": "text",
+   "en": "I shook my head and went back to my room.\n"
+  },
+  {
+   "id": "46:a950",
+   "op": "text",
+   "en": "The moment I opened the door, a gust of wind hit me in the face.\nThat's strange. I was sure I'd shut the window.\nI held down the flapping curtain and went to close the window.\nAnd then.\nSomething that shouldn't have been there came into view.{p}"
+  },
+  {
+   "id": "46:aa24",
+   "op": "text",
+   "en": "Something glowing faintly in the dark room.\nSitting all alone on the desk: that girl's white mask.\nI stared at it, speechless.\nWhy did I ever think I could burn it?\nThere's no way I could burn this mask.\nEven if I smashed it, or sank it in the sea, it would surely come back to me again.\nThe girl had been set free from the spell of the mask her own curse had created.\nAnd now it was my turn.\nThere was no way to escape...\nAs I stood there in a daze, the mask grinned at me.{p}"
+  },
+  {
+   "id": "46:abfc",
+   "op": "text",
+   "follows_choice": [
+    "46:21e0"
+   ],
+   "en": "This mask can't possibly be here.\nI must still be dreaming.\nI took a breath and focused my mind.{p}"
+  },
+  {
+   "id": "46:ac88",
+   "op": "text",
+   "en": "I have to wake up.\nOnce I wake up, it'll be the same morning as always.\nIt has to be.\nI have to wake up.\nI have to wake up.\nI have to wake up.\nI have to wake up.\nI have to wake up.{p}"
+  },
+  {
+   "id": "46:ad28",
+   "op": "text",
+   "en": "\"Hey, are you asleep, {a}?\"{p}"
+  },
+  {
+   "id": "46:ad4c",
+   "op": "text",
+   "en": "...Someone shook me roughly awake.\nI looked around in a panic.{p}"
+  },
+  {
+   "id": "46:ada8",
+   "op": "text",
+   "en": "This is... the newspaper club room!\nHino was looking at me, exasperated.{p}"
+  },
+  {
+   "id": "46:ae04",
+   "op": "text",
+   "en": "\"A first-year, and you nod off in the middle of a meeting?\nYou've got some nerve.\"\n\"I-I'm sorry...\"\nI stood up.\nMy face turned red on its own.\n\"It's fine. But in exchange, you'll be the one heading up our next project.\"\nHino laughed brightly.\nHe never acts high and mighty. He's a good senior.\nBut what next project?\n\"Um... what are we doing?\"\nHino made a big show of answering my question.{p}"
+  },
+  {
+   "id": "46:af74",
+   "op": "text",
+   "en": "\"We're doing a feature on this school's seven wonders. I've already rounded up the people who'll tell the stories.\"\n"
+  },
+  {
+   "id": "46:afd0",
+   "op": "text",
+   "en": "It felt as if a heavy lump had been shoved into my stomach.\nNo... that's crazy.{p}"
+  },
+  {
+   "id": "46:b038",
+   "op": "text",
+   "en": "\"I've got something to take care of that day, so I can't make it.\nSorry, but I'm counting on you.\"\nHis words echoed hollowly.{p}"
+  },
+  {
+   "id": "46:b098",
+   "op": "text",
+   "en": "Am I still dreaming?\nIn an endless night where dawn never comes...{p}"
+  }
+ ]
+}

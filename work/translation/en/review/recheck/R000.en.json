@@ -1,0 +1,1045 @@
+{
+ "unit": "R000",
+ "scenes": [
+  "00",
+  "01",
+  "02",
+  "03",
+  "04",
+  "05"
+ ],
+ "todo": [],
+ "rows": [
+  {
+   "id": "00:03cc",
+   "op": "text",
+   "before": "For the time being, I sat down in an empty seat.\nNo one spoke, and the minutes crawled by in a terribly awkward silence.\nI was the one who should have spoken up, but the mood made it so hard to say anything.\nEveryone kept looking down, not moving a muscle.\nAnd there was no sign at all of the seventh person who was supposed to come.\nTime just kept slipping away for nothing.\nSitting like this forever wasn't going to get us anywhere.{p}",
+   "en": "For the time being, I sat down in an empty seat.\nNo one spoke, and the minutes crawled by in a terribly awkward silence.\nI was the one who should have spoken up, but the mood made it so hard to say anything.\nEveryone kept looking down, not moving a muscle.\nAnd there was no sign at all of the seventh person who was supposed to come.\nTime just kept slipping away, wasted.\nSitting like this forever wasn't going to get us anywhere.{p}",
+   "edit_notes": [
+    "Male/female branches (00:03cc-0a04 vs 00:0b74-1028) kept identical apart from the source's own dot runs."
+   ]
+  },
+  {
+   "id": "00:0534",
+   "op": "text",
+   "before": "\"...Um, everyone, I know you're all busy and took the time to come, so I'd like to get started soon, if that's all right.\"\nI took the plunge and spoke up.{p}",
+   "en": "\"...Um, everyone, I know you're all busy and have taken the time to come, so if it's all right, I'd like to go ahead and get started.\"\nI took the plunge and spoke up.{p}",
+   "edit_notes": [
+    "00:0534/00:0cdc: EDIT - clumsy tense ('are all busy and took the time') and 'get started soon' -> 'have taken the time... if it's all right, I'd like to go ahead and get started'."
+   ]
+  },
+  {
+   "id": "00:05bc",
+   "op": "text",
+   "before": "\"I heard seven people would be gathering. Are you the seventh?\nOr are you the one from the newspaper club who's going to hear our stories?\"\nOne of them muttered it with his head still bowed, turning only his eyes toward me.\nWhat a gloomy-looking person.\nJust having him look at me sent a chill down my spine.{p}",
+   "en": "\"I heard seven people would be gathering. Are you the seventh?\nOr are you the one from the newspaper club who's going to hear our stories?\"\nOne of them muttered, head still bowed, turning only his eyes toward me.\nWhat a gloomy-looking person.\nJust having him look at me sent a chill down my spine.{p}",
+   "edit_notes": [
+    "00:05bc/00:0d64: EDIT - 'muttered it with his head still bowed' -> 'muttered, head still bowed'; dot run in 0d64 left as is."
+   ]
+  },
+  {
+   "id": "00:06c8",
+   "op": "text",
+   "before": "\"Yes. I'm {b} {a}, from the newspaper club.\nHino, one of my seniors, asked me to hear all your stories today.\nThank you for doing this.\"\nWhen I answered, everyone nodded in silence.\nAfter that, no one would say another word.{p}",
+   "en": "\"Yes. I'm {b} {a}, from the newspaper club.\nHino, my upperclassman, asked me to hear all your stories today.\nThank you for doing this.\"\nWhen I answered, everyone nodded in silence.\nAfter that, no one would say another word.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "00:07a0",
+   "op": "text",
+   "before": "\"...Um, what do you think?\nThere's no point waiting like this, so shall we get started?\"\nI'd run out of patience, so I asked once more.\n\"Fine by me.\"\nOne of them said it, and the others slowly nodded.{p}",
+   "en": "\"...Um, what do you think?\nThere's no point waiting like this, so shall we get started?\"\nI'd run out of patience, so I asked once more.\n\"Fine by me.\"\nOne of them answered, and the others slowly nodded.{p}",
+   "edit_notes": [
+    "00:07a0/00:0f44: EDIT - 'One of them said it' -> 'One of them answered'."
+   ]
+  },
+  {
+   "id": "00:0b18",
+   "op": "text",
+   "before": "Without waiting for the seventh, whom we had yet to see, the six who had been gathered here began their scary stories from school.{p}",
+   "en": "Without waiting for the seventh, whom we had yet to see, the six who had been gathered here began to tell their scary stories from school.{p}",
+   "edit_notes": [
+    "00:0b18: EDIT - 'began their scary stories' -> 'began to tell their scary stories'; passive 'had been gathered' kept on purpose."
+   ]
+  },
+  {
+   "id": "00:0b74",
+   "op": "text",
+   "before": "For the time being, I sat down in an empty seat.\nNo one spoke, and the minutes crawled by in a terribly awkward silence.\nI was the one who should have spoken up, but the mood made it so hard to say anything.\nEveryone kept looking down, not moving a muscle.\nAnd there was no sign at all of the seventh person who was supposed to come.\nTime just kept slipping away for nothing.\nSitting like this forever wasn't going to get us anywhere.{p}",
+   "en": "For the time being, I sat down in an empty seat.\nNo one spoke, and the minutes crawled by in a terribly awkward silence.\nI was the one who should have spoken up, but the mood made it so hard to say anything.\nEveryone kept looking down, not moving a muscle.\nAnd there was no sign at all of the seventh person who was supposed to come.\nTime just kept slipping away, wasted.\nSitting like this forever wasn't going to get us anywhere.{p}",
+   "edit_notes": [
+    "Male/female branches (00:03cc-0a04 vs 00:0b74-1028) kept identical apart from the source's own dot runs."
+   ]
+  },
+  {
+   "id": "00:0cdc",
+   "op": "text",
+   "before": "\"...Um, everyone, I know you're all busy and took the time to come, so I'd like to get started soon, if that's all right.\"\nI took the plunge and spoke up.{p}",
+   "en": "\"...Um, everyone, I know you're all busy and have taken the time to come, so if it's all right, I'd like to go ahead and get started.\"\nI took the plunge and spoke up.{p}",
+   "edit_notes": [
+    "00:0534/00:0cdc: EDIT - clumsy tense ('are all busy and took the time') and 'get started soon' -> 'have taken the time... if it's all right, I'd like to go ahead and get started'."
+   ]
+  },
+  {
+   "id": "00:0d64",
+   "op": "text",
+   "before": "\"I heard seven people would be gathering. Are you the seventh?\nOr are you the one from the newspaper club who's going to hear our stories?\"\nOne of them muttered it with his head still bowed, turning only his eyes toward me.\nWhat a gloomy-looking person...\nJust having him look at me sent a chill down my spine.{p}",
+   "en": "\"I heard seven people would be gathering. Are you the seventh?\nOr are you the one from the newspaper club who's going to hear our stories?\"\nOne of them muttered, head still bowed, turning only his eyes toward me.\nWhat a gloomy-looking person...\nJust having him look at me sent a chill down my spine.{p}",
+   "edit_notes": [
+    "00:05bc/00:0d64: EDIT - 'muttered it with his head still bowed' -> 'muttered, head still bowed'; dot run in 0d64 left as is."
+   ]
+  },
+  {
+   "id": "00:0e6c",
+   "op": "text",
+   "before": "\"Yes. I'm {b} {a}, from the newspaper club.\nHino, one of my seniors, asked me to hear all your stories today.\nThank you for doing this.\"\nWhen I answered, everyone nodded in silence.\nAfter that, no one would say another word.{p}",
+   "en": "\"Yes. I'm {b} {a}, from the newspaper club.\nHino, my upperclassman, asked me to hear all your stories today.\nThank you for doing this.\"\nWhen I answered, everyone nodded in silence.\nAfter that, no one would say another word.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "00:0f44",
+   "op": "text",
+   "before": "\"...Um, what do you think?\nThere's no point waiting like this, so shall we get started?\"\nI'd run out of patience, so I asked once more.\n\"Fine by me.\"\nOne of them said it, and the others slowly nodded.{p}",
+   "en": "\"...Um, what do you think?\nThere's no point waiting like this, so shall we get started?\"\nI'd run out of patience, so I asked once more.\n\"Fine by me.\"\nOne of them answered, and the others slowly nodded.{p}",
+   "edit_notes": [
+    "00:07a0/00:0f44: EDIT - 'One of them said it' -> 'One of them answered'."
+   ]
+  },
+  {
+   "id": "01:1288",
+   "op": "text",
+   "before": "Then one day, that punk Yoshioka came to me, saying he wanted to talk something over with me.\nYoshioka was a gloomy guy who always kept to himself, always alone.\nI never hung out with him.\nHe didn't stand out, and I didn't particularly care what he got up to.\nHe was the kind of guy you could hardly tell was there or not.\nAnd this Yoshioka says he wants my advice.\nI think that was probably the first time he'd ever spoken to me.\nI didn't have any reason to turn him down, and when someone goes out of his way to ask for advice, you can't exactly refuse to listen, right?\nSo I heard him out.\nAt first he just fidgeted, but eventually he started mumbling, like it was hard for him to say.{p}What do you think he talked about?\n",
+   "en": "Then one day, that guy Yoshioka came to me, saying he wanted to talk something over with me.\nYoshioka was a gloomy guy who always kept to himself, always alone.\nI never hung out with him.\nHe didn't stand out, and I didn't particularly care what he got up to.\nHe was the kind of guy you could hardly tell was there or not.\nAnd this Yoshioka says he wants my advice.\nI think that was probably the first time he'd ever spoken to me.\nI didn't have any reason to turn him down, and when someone goes out of his way to ask for advice, you can't exactly refuse to listen, right?\nSo I heard him out.\nAt first he just fidgeted, but eventually he started mumbling, like it was hard for him to say.{p}What do you think he talked about?\n",
+   "edit_notes": [
+    "01:1288: EDIT - returns note: 'that punk Yoshioka' -> 'that guy Yoshioka'; 'punk' implies a delinquent, wrong for a meek loner; dismissive tone kept"
+   ]
+  },
+  {
+   "id": "01:2120",
+   "op": "text",
+   "before": "The school at night was seriously creepy.\nI wondered what I'd do if Yoshioka wasn't there, but he was.\nHe was standing in front of the school gate, staring blankly, just like a ghost.\nHolding a flashlight.{p}",
+   "en": "The school at night was creepy.\nI wondered what I'd do if Yoshioka wasn't there, but he was.\nHe was standing in front of the school gate, staring blankly, just like a ghost.\nHolding a flashlight.{p}",
+   "edit_notes": [
+    "01:2120, 01:7a20, 01:8c98: EDIT - same JP at the school gate; unified to the 01:2120/01:21ec wording ('The school at night was creepy.' as in 01:6964)"
+   ]
+  },
+  {
+   "id": "01:22b8",
+   "op": "text",
+   "before": "\"I've been waiting. Now we'll get to see the spirit world.\"\nThe one saying that, Yoshioka himself, was way creepier than any ghost.\n\"They say the spirit world shows itself in all kinds of forms.\nThere's no telling what form it'll take in front of us until the moment comes.\"{p}",
+   "en": "\"I've been waiting. Now we'll get to see the spirit world.\"\nSaying stuff like that, Yoshioka was way creepier than any ghost.\n\"They say the spirit world shows itself in all kinds of forms.\nThere's no telling what form it'll take in front of us until the moment comes.\"{p}",
+   "edit_notes": [
+    "01:22b8: EDIT - clumsy 'The one saying that, Yoshioka himself' -> 'Saying stuff like that, Yoshioka was'"
+   ]
+  },
+  {
+   "id": "01:2414",
+   "op": "text",
+   "before": "It was a round compact mirror, the kind a woman would carry.\nHe kept flashing it at me.\n\"At 3:33 and 33 seconds in the middle of the night, you hold a mirror you always use up to the one on the landing.\nThen the two mirrors reflect each other, and you can see something mysterious in them.\nAnd not just see it. Something might even come out. I can't wait.\"\nBut his face was blank as he said it; he didn't look like he was enjoying it at all.{p}",
+   "en": "It was a round compact mirror, the kind a woman would carry.\nHe kept flashing it at me.\n\"At 3:33 and 33 seconds in the middle of the night, you hold a mirror you use every day up to the one on the landing.\nThen the two mirrors reflect each other, and you can see something mysterious in them.\nAnd not just see it. Something might even come out. I can't wait.\"\nBut his face was blank as he said it; he didn't look like he was enjoying it at all.{p}",
+   "edit_notes": [
+    "01:2414: EDIT - 'a mirror you always use' -> 'a mirror you use every day'"
+   ]
+  },
+  {
+   "id": "01:2590",
+   "op": "text",
+   "before": "School in the middle of the night is scary as hell.\nEven the new building is creepy, and we were headed for the old one.\nYou can imagine how scary that was, can't you?\nNot even a haunted house is that scary.\nYoshioka had more guts than you'd think.\nEven I was pretty freaked out, but he just strode right along at a brisk pace.\nHe kept pushing deeper and deeper into the pitch-black school with nothing but one dim flashlight.\nIt was all I could do to keep up.{p}",
+   "en": "The school at night is freaking scary.\nEven the new building is creepy, and we were headed for the old one.\nYou can imagine how scary that was, right?\nEven a haunted house isn't that scary.\nYoshioka had more guts than you'd think.\nEven I was pretty freaked out, but he just strode right along at a brisk pace.\nHe kept pushing deeper and deeper into the pitch-black school with nothing but one dim flashlight.\nIt was all I could do to keep up.{p}",
+   "edit_notes": [
+    "01:2590: EDIT - first four lines share JP with 01:6a94/01:7c84/01:8efc; unified to their wording ('freaking scary'; drops added 'as hell')",
+    "01:7c84: EDIT - Yoshioka-had-guts lines share JP with 01:2590; unified to 01:2590's wording"
+   ]
+  },
+  {
+   "id": "01:2740",
+   "op": "text",
+   "before": "Even inside the old building, he didn't flinch once.\nAt night, your footsteps on the floorboards sound really loud.\nCreak, creak, creak, creak... a sound like nails scratching on glass echoes all around.\nThere's no other sound, right?\nSo that noise really grates on your ears.\nThat musty smell of old, rotting wood you hardly notice during the day, you can smell it clearly at night.\nThat smell is the only thing in the air, and when you breathe in, it fills your mouth, thick and stifling.{p}",
+   "en": "Even inside the old building, he didn't flinch once.\nAt night, the sound of your steps on the floorboards is really loud.\nCreak, creak, creak, creak. A sound like fingernails scratching glass echoes all around you.\nYou can't hear anything else, right?\nSo that sound really grates on your ears.\nAnd the musty smell of old, rotting wood that you hardly notice in the daytime, at night you can smell it clearly.\nWhen you breathe in, that smell is all there is, filling your mouth, thick and stifling.{p}",
+   "edit_notes": [
+    "01:2740: EDIT - floorboard/smell passage shares JP with 01:6ba0/01:7e10/01:9058; unified to their wording"
+   ]
+  },
+  {
+   "id": "01:2f30",
+   "op": "text",
+   "before": "Yoshioka screaming that, and that's about it.\nEven so, I never once thought about going back to help him.\nNot even I wanted to go back in there again.{p}",
+   "en": "Yoshioka screaming that, and that's about it.\nEven so, I never once thought about going back to help him.\nEven a guy like me didn't want to go back in there again.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "01:33a4",
+   "op": "text",
+   "before": "I screamed, without any regard for where I was.\nI couldn't help it.\nThere in the coffin was Yoshioka's face, the same face I'd seen reflected in that mirror.{p}",
+   "en": "I screamed, not caring where I was.\nI couldn't help it.\nThere in the coffin was Yoshioka's face, the same face I'd seen reflected in that mirror.{p}",
+   "edit_notes": [
+    "01:33a4: EDIT - stiff 'without any regard for where I was' -> 'not caring where I was'"
+   ]
+  },
+  {
+   "id": "01:3798",
+   "op": "text",
+   "before": "Is that so?\nYou want me to tell you, huh?\nAll right then, I'll tell you.\nWhatever I say, don't freak out.\nAnd whatever I say, accept that it's your fate and give up.\nYour face is...{p}",
+   "en": "Oh yeah?\nYou want me to tell you, huh?\nAll right then, I'll tell you.\nWhatever I say, don't freak out.\nAnd whatever I say, accept that it's your fate and give up.\nYour face is...{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "01:57ec",
+   "op": "text",
+   "before": "So he came to me for advice.\nBut do you think I'd believe a story like that?\nThe more serious Yoshioka looked as he talked, the funnier I found it.\nIt was all I could do to keep from laughing.\n\"Please. All you have to do is come with me.\nThe school in the middle of the night is scary when you're alone.\nPlease, I'm begging you, come with me.\"\nI was getting pretty fed up.\nHe was being such a pest about it that I said it offhand, just to get rid of him.\n\"Yeah, fine. I'll wait for you in front of the school gate at three a.m.\"\nThat's what I said.\nHe grinned at me, looking real happy.\nCome to think of it, I think that was the first time I'd ever seen him smile.\nThe first and last smile I ever saw on that guy.{p}",
+   "en": "So he came to me for advice.\nBut do you think I'd believe a story like that?\nThe more serious Yoshioka looked as he talked, the funnier I found it.\nIt was all I could do to keep from laughing.\n\"Please. All you have to do is come with me.\nThe school in the middle of the night is scary when you're alone.\nPlease, I'm begging you, come with me.\"\nI was getting pretty fed up.\nHe was being such a pest about it that I said it offhand, just to get rid of him.\n\"Yeah, sure. I'll be waiting in front of the school gate at three.\"\nThat's what I said.\nHe gave me this creepy, happy grin.\nNow that I think about it, that was the first time I'd ever seen him smile.\nThe first and last smile I ever saw on him.{p}",
+   "edit_notes": [
+    "01:57ec: EDIT - returns note: shared ending (same JP as 01:1bcc/01:47fc) unified: 'creepy, happy grin', same promise line 'Yeah, sure. I'll be waiting in front of the school gate at three.', same 'Now that I think about it...' and 'first and last smile' lines",
+    "01:65dc: EDIT - returns note: same unification as 01:57ec (promise line, creepy grin, 'Now that I think about it'); its own last line kept"
+   ]
+  },
+  {
+   "id": "01:65dc",
+   "op": "text",
+   "before": "Then he let out a sigh and muttered just one thing.\n\"I'm scared.\"\nThat's all.\nThe old building is scary even in the daytime, and he was terrified of going there alone in the middle of the night.\nSo that's why he came to me for advice.\n\"Please. All you have to do is come with me.\nThe school in the middle of the night is scary when you're alone.\nPlease, I'm begging you, come with me.\"\nSure enough, here it came.\nAnd Meguro had managed it on her own, I bet...\nWell, it was a little out there, but it sounded like an interesting story.\nSo I gave him a casual answer.\n\"Yeah, fine. I'll wait for you in front of the school gate at three a.m.\"\nThat's what I said.\nHe grinned at me, looking real happy.\nCome to think of it, I think that was the first time I'd ever seen him smile.\nThat's how bad he was at showing his feelings.{p}",
+   "en": "Then he let out a sigh and muttered just one thing.\n\"I'm scared.\"\nThat's all.\nThe old building is scary even in the daytime, and he was terrified of going there alone in the middle of the night.\nSo that's why he came to me for advice.\n\"Please. All you have to do is come with me.\nThe school in the middle of the night is scary when you're alone.\nPlease, I'm begging you, come with me.\"\nSure enough, here it came.\nAnd Meguro had managed it on her own, I bet...\nWell, it was a little out there, but it sounded like an interesting story.\nSo I gave him a casual answer.\n\"Yeah, sure. I'll be waiting in front of the school gate at three.\"\nThat's what I said.\nHe gave me this creepy, happy grin.\nNow that I think about it, that was the first time I'd ever seen him smile.\nThat's how bad he was at showing his feelings.{p}",
+   "edit_notes": [
+    "01:65dc: EDIT - returns note: same unification as 01:57ec (promise line, creepy grin, 'Now that I think about it'); its own last line kept"
+   ]
+  },
+  {
+   "id": "01:6d4c",
+   "op": "text",
+   "before": "It was when I got to the spot where, once you climb these stairs, you can see that mirror.\nSomeone had gotten there before me.\nAnd let me tell you, it wasn't Yoshioka.\nYoshioka was already in front of the mirror.\nThis someone was hiding pretty close to Yoshioka, keeping dead still.\nWell, I'll get to that someone later.\nI hid even farther back, where I could keep watch on the two of them.\nI've got good eyesight, and I can see well in the dark.\nSo it was no problem.{p}",
+   "en": "It was when I got to the spot where you can see that mirror if you go up these stairs.\nSomeone had gotten there before me.\nAnd let me tell you, it wasn't Yoshioka.\nYoshioka was already in front of the mirror.\nThis someone was hiding pretty close to Yoshioka, keeping dead still.\nWell, I'll get to that someone later.\nI hid even farther back, where I could keep watch on the two of them.\nI've got good eyesight, and I can see well in the dark.\nSo it was no problem.{p}",
+   "edit_notes": [
+    "01:6d4c: EDIT - reordered tangled 'where, once you climb these stairs, you can see that mirror'"
+   ]
+  },
+  {
+   "id": "01:7758",
+   "op": "text",
+   "before": "From the next day on, Yoshioka has been coming to school like normal.\nThough everybody says he's like a different person.\nIt's the one who switched places that's been coming.\nEvery day, I get this feeling I'm being watched.\nWhenever I look up, I catch them looking at me.\nUntil today, I haven't told anyone about this.\nNormally, nobody would believe a story like this.\nBut if they find out what I've told you here today...\nYou and I might not get out of this in one piece.\n...So, yeah, that's the end of my story.\nSorry, but since the mirror got smashed, I don't know what happened to the real Yoshioka.\nI hope he got to see Meguro on the other side of the mirror.\nSo, who's telling the next one...?{p}",
+   "en": "Ever since the next day, Yoshioka's been coming to school like normal.\nThough everybody says he's like a different person.\nIt's the one who switched places that's been coming.\nEvery day, I get this feeling I'm being watched.\nWhenever I look up, I catch them looking at me.\nUntil today, I haven't told anyone about this.\nNormally, nobody would believe a story like this.\nBut if they find out what I've told you here today...\nYou and I might not get out of this in one piece.\n...So, yeah, that's the end of my story.\nSorry, but since the mirror got smashed, I don't know what happened to the real Yoshioka.\nI hope he got to see Meguro on the other side of the mirror.\nSo, who's telling the next one...?{p}",
+   "edit_notes": [
+    "01:7758: EDIT - tense clash 'From the next day on, Yoshioka has been' -> 'Ever since the next day, Yoshioka's been'"
+   ]
+  },
+  {
+   "id": "01:7a20",
+   "op": "text",
+   "before": "The school at night was creepy.\nI was wondering what I'd do if Yoshioka wasn't there, but he was.\nStanding there in front of the school gate, all blank, like a ghost.\nHolding a flashlight.\nWhen he spotted me, he came over, waving the flashlight in his hand.\nHe could've at least smiled, but he didn't even crack a grin.\nMaybe he was nervous. His face was damp with sweat, and he looked at me with no expression at all.\n\"Thank you. I knew you'd come.\nI'll never forget this as long as I live.\"\nHe said that and gripped my hand as hard as he could.\nI'm too nice for my own good, huh?\nI believed a story like this and came all the way to the school.{p}",
+   "en": "The school at night was creepy.\nI wondered what I'd do if Yoshioka wasn't there, but he was.\nHe was standing in front of the school gate, staring blankly, just like a ghost.\nHolding a flashlight.\nWhen he spotted me, he came over, waving the flashlight in his hand.\nHe could at least have smiled, but he didn't crack even a hint of one.\nMaybe he was nervous; his face was damp with sweat, and he just looked at me with no expression at all.\n\"Thank you. I knew you'd come.\nI'll never forget this as long as I live.\"\nHe said that and gripped my hand as hard as he could.\nI'm too nice for my own good, huh?\nI believed a story like this and came all the way to the school.{p}",
+   "edit_notes": [
+    "01:2120, 01:7a20, 01:8c98: EDIT - same JP at the school gate; unified to the 01:2120/01:21ec wording ('The school at night was creepy.' as in 01:6964)"
+   ]
+  },
+  {
+   "id": "01:7c84",
+   "op": "text",
+   "before": "The school at night is freaking scary.\nEven the new building is creepy, and we were headed for the old one.\nYou can imagine how scary that was, right?\nEven a haunted house isn't that scary.\nYoshioka turned out to have more guts than you'd think.\nEven I was pretty spooked, but he just strode along at a quick pace.\nThrough the pitch-black school with nothing but one dim flashlight, he kept pressing on.{p}",
+   "en": "The school at night is freaking scary.\nEven the new building is creepy, and we were headed for the old one.\nYou can imagine how scary that was, right?\nEven a haunted house isn't that scary.\nYoshioka had more guts than you'd think.\nEven I was pretty freaked out, but he just strode right along at a brisk pace.\nHe kept pushing deeper and deeper into the pitch-black school with nothing but one dim flashlight.{p}",
+   "edit_notes": [
+    "01:2590: EDIT - first four lines share JP with 01:6a94/01:7c84/01:8efc; unified to their wording ('freaking scary'; drops added 'as hell')",
+    "01:7c84: EDIT - Yoshioka-had-guts lines share JP with 01:2590; unified to 01:2590's wording"
+   ]
+  },
+  {
+   "id": "01:8c98",
+   "op": "text",
+   "before": "The school at night was creepy.\nI was wondering what I'd do if Yoshioka wasn't there, but he was.\nStanding there in front of the school gate, all blank, like a ghost.\nHolding a flashlight.\nWhen he spotted me, he came over, waving the flashlight in his hand.\nHe could've at least smiled, but he didn't even crack a grin.\nMaybe he was nervous. His face was damp with sweat, and he looked at me with no expression at all.\n\"Thank you. I knew you'd come.\nI'll never forget this as long as I live.\"\nHe said that and gripped my hand as hard as he could.\nI'm too nice for my own good, huh?\nI believed a story like this and came all the way to the school.{p}",
+   "en": "The school at night was creepy.\nI wondered what I'd do if Yoshioka wasn't there, but he was.\nHe was standing in front of the school gate, staring blankly, just like a ghost.\nHolding a flashlight.\nWhen he spotted me, he came over, waving the flashlight in his hand.\nHe could at least have smiled, but he didn't crack even a hint of one.\nMaybe he was nervous; his face was damp with sweat, and he just looked at me with no expression at all.\n\"Thank you. I knew you'd come.\nI'll never forget this as long as I live.\"\nHe said that and gripped my hand as hard as he could.\nI'm too nice for my own good, huh?\nI believed a story like this and came all the way to the school.{p}",
+   "edit_notes": [
+    "01:2120, 01:7a20, 01:8c98: EDIT - same JP at the school gate; unified to the 01:2120/01:21ec wording ('The school at night was creepy.' as in 01:6964)"
+   ]
+  },
+  {
+   "id": "01:9764",
+   "op": "text",
+   "before": "That instant.\nI couldn't believe my eyes.\nMeguro's face, smiling so sweetly until then, twisted into a horrible face like a demon's.\nAnd then she thrust the upper half of her body out of the mirror and sank her teeth into Yoshioka's throat.\n\"Why did you betray me?\nI loved you. Why didn't you come with me?\"\nThat thick, coarse voice didn't sound like a woman's at all.\n\"...No... I didn't... betray you...\"\nYoshioka was writhing in agony.\nMaybe because she was biting his throat, his voice wouldn't come out. Air just wheezed out of him.\n\"It's cold. It hurts.\nMy body's all twisted, and this world is nothing but pain and agony!\"\nThe Meguro that had become this thing screamed that, and dragged Yoshioka into the mirror in one go.\nLike sinking into water, Yoshioka's body sank down into the mirror, deeper and deeper.\nIt all happened in the blink of an eye.\nI couldn't stop it, and I couldn't save him.{p}",
+   "en": "In that instant.\nI couldn't believe my eyes.\nMeguro's face, smiling so sweetly until then, twisted into a horrible face like a demon's.\nAnd then she thrust the upper half of her body out of the mirror and sank her teeth into Yoshioka's throat.\n\"Why did you betray me?\nI loved you. Why didn't you come with me?\"\nThat thick, coarse voice didn't sound like a woman's at all.\n\"...No... I didn't... betray you...\"\nYoshioka was writhing in agony.\nMaybe because she was biting his throat, his voice wouldn't come out. Air just wheezed out of him.\n\"It's cold. It hurts.\nMy body's all twisted, and this world is nothing but pain and agony!\"\nMeguro, changed beyond recognition, screamed that and dragged Yoshioka into the mirror in one go.\nLike sinking into water, Yoshioka's body sank down into the mirror, deeper and deeper.\nIt all happened in the blink of an eye.\nI couldn't stop it, and I couldn't save him.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "01:9d24",
+   "op": "text",
+   "before": "Yoshioka is inside that mirror.\nI don't know if he's alive or dead, but he went into that mirror.\nWas the thing that dragged him in the Meguro who'd become that thing, or some other creature, a monster from another dimension? I don't know.\nAnd that happy laughter of Meguro's that Yoshioka said he heard in his room.\nMaybe the truth is, Meguro's living happily somewhere else.\nOr was she just pretending to be happy on purpose, to lure out Yoshioka, who'd betrayed her?\nAt this point, there's no way to know anything, I guess.{p}",
+   "en": "Yoshioka is inside that mirror.\nI don't know if he's alive or dead, but he went into that mirror.\nWas it Meguro, changed beyond recognition, that dragged him in, or some other creature, a monster from another dimension? I don't know.\nAnd that happy laughter of Meguro's that Yoshioka said he heard in his room.\nMaybe the truth is, Meguro's living happily somewhere else.\nOr was she just pretending to be happy on purpose, to lure out Yoshioka, who'd betrayed her?\nAt this point, there's no way to know anything, I guess.{p}",
+   "edit_notes": [
+    "01:9d24: EDIT - 'the Meguro who'd become that thing ... that thing' tangle -> 'Was it Meguro, changed beyond recognition, that dragged him in'"
+   ]
+  },
+  {
+   "id": "01:aca8",
+   "op": "text",
+   "before": "And then we waited for the time to come.\nWith the mirror Yoshioka brought facing the mirror on the landing.\n\"What the hell is that? Looks like something a woman would use.\"\nI said.\nI felt uneasy if I wasn't talking about something.\nI had a feeling something truly terrifying might actually happen.\nWhat Yoshioka had brought was a dingy old round makeup mirror.\nApparently it was from the bathroom at his house.\nHe said it was the mirror he used a lot, like after a bath.\nAnd while we were talking, three o'clock, thirty-three minutes, thirty-three seconds...\nThe moment came.{p}So what do you think happened?\n",
+   "en": "And then we waited for the time to come.\nWith the mirror Yoshioka brought facing the mirror on the landing.\n\"What the hell is that? Looks like something a woman would use.\"\nThat's what I said.\nI felt uneasy if I wasn't talking about something.\nI had a feeling something truly terrifying might actually happen.\nWhat Yoshioka had brought was a dingy old round makeup mirror.\nApparently it was from the bathroom at his house.\nHe said it was the mirror he used a lot, like after a bath.\nAnd while we were talking, three o'clock, thirty-three minutes, thirty-three seconds...\nThe moment came.{p}So what do you think happened?\n",
+   "edit_notes": [
+    "01:aca8: EDIT - returns note: bare 'I said.' -> 'That's what I said.' (Shindo's usual tag in this chunk)"
+   ]
+  },
+  {
+   "id": "01:aed0",
+   "op": "text",
+   "before": "\"Wh-what is this★\"\nYoshioka suddenly shouted.\nI looked in the mirror too, and it gave me a real shock.\nThere was a horrible face in the mirror.\nA sinister face, like a demon's, you could say...\nBut, see, if you looked real close, it looked like Yoshioka.\nWhat's more, when Yoshioka looked up, it looked up,\nand when he talked, it opened its mouth.\nLike that, it did everything Yoshioka did.\nIn other words, it was Yoshioka's own reflection in the mirror.\nThough whether he ever realized that...\n\"That's weird. The book didn't say anything about this.\"\nThe way he was going on, I guess he hadn't realized.\n\"That's enough, isn't it? We saw something weird.\"\nI said that for Yoshioka's sake, more or less.\nBefore he figured out that the thing in the mirror was himself, you know.\nWell, I didn't want to see my own reflection either, so I wanted to get out of there fast.\n...That's right, I got away without seeing myself in the mirror.\nBetween the bad angle and Yoshioka being in the way, well, I got lucky.\nBut in the end, Yoshioka didn't want to leave.\nFine, whatever.\nIf that's how he wanted it, he could suit himself.{p}",
+   "en": "\"Wh-what is this★\"\nYoshioka suddenly shouted.\nI looked in the mirror too, and it gave me a real shock.\nThere was a horrible face in the mirror.\nA sinister face, like a demon's, you could say...\nBut, see, if you looked real close, it looked like Yoshioka.\nWhat's more, when Yoshioka looked up, it looked up,\nand when he talked, it opened its mouth.\nEverything Yoshioka did, it did too, just like that.\nIn other words, it was Yoshioka's own reflection in the mirror.\nThough whether he ever realized that...\n\"That's weird. The book didn't say anything about this.\"\nThe way he was going on, I guess he hadn't realized.\n\"That's enough, isn't it? We saw something weird.\"\nI said that for Yoshioka's sake, more or less.\nBefore he figured out that the thing in the mirror was himself, you know.\nWell, I didn't want to see my own reflection either, so I wanted to get out of there fast.\n...That's right, I got away without seeing myself in the mirror.\nBetween the bad angle and Yoshioka being in the way, well, I got lucky.\nBut in the end, Yoshioka didn't want to leave.\nFine, whatever.\nIf that's how he wanted it, he could suit himself.{p}",
+   "edit_notes": [
+    "01:aed0: EDIT - calque 'Like that, it did everything Yoshioka did.' -> 'Everything Yoshioka did, it did too, just like that.'"
+   ]
+  },
+  {
+   "id": "01:b3c4",
+   "op": "text",
+   "before": "The next day, I went up to Yoshioka first thing in the morning.\n\"So what happened last night in the end?\"\nI asked him.\n\"I went home right after you did. The demon disappeared, see.\"\nYoshioka answered, just like that.\n\"The book said an angel would appear in that mirror, but I guess it was a load of nonsense after all.\"\nAn angel, huh. So that's why Yoshioka wouldn't leave back then.\nIf I'd heard that, I'd probably have waited a while longer myself.\nIt's because he keeps secrets like that, that his heart gets twisted and he ends up looking like a demon.\nGet mixed up with a guy like that and you could end up in serious trouble, so after that I cut off all contact with Yoshioka.\nYoshioka stopped coming near me, too.\nHe looked at me with eyes that were clearly scared.{p}",
+   "en": "The next day, I went up to Yoshioka first thing in the morning.\n\"So what happened last night in the end?\"\nI asked him.\n\"I went home right after you did. The demon disappeared, see.\"\nYoshioka answered, just like that.\n\"The book said an angel would appear in that mirror, but I guess it was a load of nonsense after all.\"\nAn angel, huh. So that's why Yoshioka wouldn't leave back then.\nIf I'd heard that, I'd probably have waited a while longer myself.\nKeep secrets like that, and your heart gets twisted and you end up looking like a demon.\nGet mixed up with a guy like that and you could end up in serious trouble, so after that I cut off all contact with Yoshioka.\nYoshioka stopped coming near me, too.\nHe looked at me with eyes that were clearly scared.{p}",
+   "edit_notes": [
+    "01:b3c4: EDIT - clumsy cleft sentence; JP is a general statement -> 'Keep secrets like that, and your heart gets twisted and you end up looking like a demon.'"
+   ]
+  },
+  {
+   "id": "01:cc7c",
+   "op": "text",
+   "before": "That's right, it came out.\nA demon...\nHold on, what's with that look?\nYou don't believe me?\nI'm not lying, so hear me out a little longer.\nOut of one of all those mirrors in the facing mirrors, a demon appeared.\nThe demon had long hair hanging limp, and it looked like the corpse of a beautiful woman.\nIt stared hard at us, and the first thing out of its mouth was this:\n\"Hand... want to drink...\"\nDrink a hand?\nYou wouldn't get what that meant either, right?\nWhile I was puzzling over it, Yoshioka suddenly came out with this:\n\"You want to drink... the blood from a hand?\"\nAt that, the demon smiled sweetly.\nI couldn't tell if I was scared or my heart was racing for some other reason; it was a weird feeling.\nThen Yoshioka staggered toward the demon and held out his arm.{p}So what do you think I did?\n",
+   "en": "That's right, it came out.\nA demon...\nHold on, what's with that look?\nYou don't believe me?\nI'm not lying, so hear me out a little longer.\nOut of one of all the mirrors reflected in the facing mirrors, a demon appeared.\nThe demon had long hair hanging limp, and it looked like the corpse of a beautiful woman.\nIt stared hard at us, and the first thing out of its mouth was this:\n\"Hand... want to drink...\"\nDrink a hand?\nYou wouldn't get what that meant either, right?\nWhile I was puzzling over it, Yoshioka suddenly came out with this:\n\"You want to drink... the blood from a hand?\"\nAt that, the demon smiled sweetly.\nI couldn't tell if I was scared or my heart was racing for some other reason; it was a weird feeling.\nThen Yoshioka staggered toward the demon and held out his arm.{p}So what do you think I did?\n",
+   "edit_notes": [
+    "01:cc7c: EDIT - 'one of all those mirrors in the facing mirrors' -> 'one of all the mirrors reflected in the facing mirrors'"
+   ]
+  },
+  {
+   "id": "02:0dc4",
+   "op": "text",
+   "before": "Then she'd give them one candy from the ratty, grimy basket hanging from her skeleton hand, all skin and bone, a basket crammed full of candies.\nThat's how she got the nickname 'the Candy Granny.'\nAnd they say those candies were insanely good.\nEach one was the size of a golf ball, so big it filled your whole mouth, and the taste of it...\nIt melts all through your mouth, or makes you forget time, or something. Not too sweet, but not too bland either.\nA perfectly balanced harmony of deliciousness.\nJust thinking about it is enough to make my mouth water.{p}",
+   "en": "Then, from the ratty, grimy basket hanging from her skeleton of a hand, all skin and bone, a basket crammed full of candies, she'd give them one.\nThat's how she got the nickname 'the Candy Granny.'\nAnd they say those candies were insanely good.\nEach one was the size of a golf ball, so big it filled your whole mouth, and the taste of it...\nIt's like it melts all through your mouth, or makes you lose track of time, or something. Not too sweet, but not too bland either.\nA perfectly balanced harmony of deliciousness.\nJust thinking about it is enough to make my mouth water.{p}",
+   "edit_notes": [
+    "02:0dc4: EDIT - run-on basket sentence untangled; 'makes you forget time' -> 'lose track of time'"
+   ]
+  },
+  {
+   "id": "02:1300",
+   "op": "text",
+   "before": "So they figured poison would be fine too, and ate the candy ready to die.\nAnd guess what?\nThat candy was good. So, so good.\nIt tasted like nothing from this world.\nLike, \"There's something this delicious in the world?\"\nAnd that gave them the courage to keep living.{p}",
+   "en": "So they figured even poison would be fine, and ate the candy ready to die.\nAnd guess what?\nThat candy was good. So, so good.\nIt tasted like nothing from this world.\nLike, \"There's something this delicious in the world?\"\nAnd that gave them the courage to keep living.{p}",
+   "edit_notes": [
+    "02:1300: EDIT - 'poison would be fine too' -> 'even poison would be fine'"
+   ]
+  },
+  {
+   "id": "02:1878",
+   "op": "text",
+   "before": "So they gave up and went to culinary school to try to recreate that candy on their own.\nTalk about obsessed.\nBut in the end they failed at that and became an ordinary cook.{p}",
+   "en": "So they gave up and went to culinary school to try to recreate that candy on their own.\nTalk about obsessed.\nBut in the end they gave up on that too and just became a regular chef.{p}",
+   "edit_notes": [
+    "02:1878: EDIT - 'ordinary cook' read as contradicting the France chef in the next row; -> 'just became a regular chef' (gave up on the candy, became a normal chef)"
+   ]
+  },
+  {
+   "id": "02:1ef8",
+   "op": "text",
+   "before": "I'd say the same.\nYou're an honest one.\nIf there was a candy like magic, anybody who says they wouldn't want a taste is a liar.\nSo anyway, there was this guy named Noboru Sakuma.{p}",
+   "en": "I'd say the same.\nYou're an honest one.\nIf there's a candy like magic, anybody who says they wouldn't want a taste is a liar.\nSo anyway, there was this guy named Noboru Sakuma.{p}",
+   "edit_notes": [
+    "02:1ef8: EDIT - tense agreement 'If there was...who says' -> 'If there's'"
+   ]
+  },
+  {
+   "id": "02:1fa4",
+   "op": "text",
+   "before": "He was bad with people, or rather, just selfish.\nThe type who can't stand it when things don't go his way.\nThe type who thinks the world revolves around him.\nNot that he was anybody special. Just a nasty piece of work, right?\nWell, I never actually met him either, so it's only a rumor, ha ha ha...\nAnyway, on the surface he acted like he wasn't interested.{p}",
+   "en": "He wasn't good with people, or rather, he was just selfish.\nThe type who can't stand it when things don't go his way.\nThe type who thinks the world revolves around him.\nNot that he was anybody special. Just a nasty piece of work, right?\nWell, I never actually met him either, so it's only a rumor, ha ha ha...\nAnyway, on the surface he acted like he wasn't interested.{p}",
+   "edit_notes": [
+    "02:1fa4: EDIT - fragment 'He was bad with people, or rather, just selfish' smoothed"
+   ]
+  },
+  {
+   "id": "02:20f8",
+   "op": "text",
+   "before": "\"You guys are idiots, right?\nWhy are you all worked up over one stupid candy?\nBunch of little kids, seriously.\"\nThat's the kind of thing he said.\nOf course, deep down he wanted it like crazy.\nThat magic candy.\nEveryone could see that, so nobody bothered with Sakuma.\nI wouldn't want to hang out with a contrary jerk like that either.{p}",
+   "en": "\"Are you guys idiots or what?\nWhy are you all worked up over one stupid candy?\nBunch of little kids, seriously.\"\nThat's the kind of thing he said.\nOf course, deep down he wanted it like crazy.\nThat magic candy.\nEveryone could see that, so nobody bothered with Sakuma.\nI wouldn't want to hang out with a contrary jerk like that either.{p}",
+   "edit_notes": [
+    "02:20f8: EDIT - Sakuma's taunt 'You guys are idiots, right?' -> 'Are you guys idiots or what?' (spoken)"
+   ]
+  },
+  {
+   "id": "02:2248",
+   "op": "text",
+   "before": "So Sakuma was always waiting near the school for the Candy Granny, they say.\nMaking sure nobody spotted him.\nMan, he must've been dying for it.\nRain or wind, even snow, he waited, hiding in the shadow of a telephone pole.\nLike a detective on a stakeout on TV.\nIf he had that much grit, he should've just become a detective.\nSakuma waited.\nHe kept on waiting, desperately.\nThat's how bad he wanted that candy.{p}",
+   "en": "So Sakuma was always waiting near the school for the Candy Granny, they say.\nMaking sure nobody spotted him.\nMan, he must've been dying for it.\nRain, wind, even snow, he waited, hiding in the shadow of a telephone pole.\nLike a detective on a stakeout on TV.\nIf he had that much grit, he should've just become a detective.\nSakuma waited.\nHe kept on waiting, desperately.\nThat's how bad he wanted that candy.{p}",
+   "edit_notes": [
+    "02:2248/02:6b60: EDIT - echo lines unified ('Rain, wind, even snow', 'telephone pole' in both; same source)"
+   ]
+  },
+  {
+   "id": "02:23ec",
+   "op": "text",
+   "before": "\"No luck today either...\"\nThe sun had gone down completely, and there were no more students heading home.\nSakuma pinned his hopes on tomorrow again and decided to go home.{p}",
+   "en": "\"No luck today either...\"\nThe sun had gone down completely, and there were no students left heading home from school.\nSakuma pinned his hopes on tomorrow once again and decided to go home.{p}",
+   "edit_notes": [
+    "02:23ec/02:6c90: EDIT - echo lines worded the same (same source sentence for Sakuma and Hara)"
+   ]
+  },
+  {
+   "id": "02:24ec",
+   "op": "text",
+   "before": "He turned around, and wouldn't you know it, there stood an old woman with a red hood pulled down low over her eyes.\nThe Candy Granny.\nThere'd been nobody there a second ago, and she'd just appeared, like smoke.\n\"Ah, the Candy Granny!\"\nSakuma couldn't help shouting.\nThe old woman laughed, a nasty sound like fingernails scraping glass.\n",
+   "en": "He turned around, and what do you know, there stood an old lady with a red hood pulled low over her eyes.\nIt was the Candy Granny.\nThere hadn't been anyone there a moment ago, but she'd appeared like a puff of smoke.\n\"Ah, the Candy Granny!\"\nSakuma couldn't help shouting.\nThe old lady laughed, a nasty sound like fingernails scraping glass.\n",
+   "edit_notes": [
+    "02:24ec: EDIT - wording matched to its echoes 02:50ec/02:6d94 (identical source)"
+   ]
+  },
+  {
+   "id": "02:2688",
+   "op": "choice",
+   "before": "I wasn't waiting",
+   "en": "I wasn't really waiting",
+   "edit_notes": [
+    "02:2688: EDIT - choice matched to its echo 02:9d80 'I wasn't really waiting' (same source)"
+   ]
+  },
+  {
+   "id": "02:26b8",
+   "op": "text",
+   "before": "\"...Not really.\nI was just wandering around.\"\nThat's Sakuma for you, the contrarian.\nHe'd finally met the Candy Granny he'd been dying to see, and he still had to act tough.\nEven so, the old woman laughed, as if she saw right through him.{p}",
+   "en": "\"...Not really.\nI was just wandering around.\"\nThat's Sakuma for you, the contrarian.\nHe'd finally met the Candy Granny he'd been dying to see, and he still had to act tough.\nEven so, the old lady laughed, as if she saw right through him.{p}"
+  },
+  {
+   "id": "02:2870",
+   "op": "text",
+   "before": "\"Shut up, will ya.\nI wasn't waiting for you!\nJust get lost already!\"\nThings he didn't mean kept slipping out of his mouth.\nHe always thought, oh crap, right after he said them, but by then it was too late.\nThat's why he kept screwing everything up.\nEven after Sakuma said all that to her, the old woman just kept laughing.{p}",
+   "en": "\"Shut up, will ya.\nI wasn't waiting for you!\nJust get lost already!\"\nThings he didn't mean kept slipping out of his mouth.\nHe always thought, oh crap, right after he said them, but by then it was too late.\nThat's why he kept screwing everything up.\nEven after Sakuma said all that to her, the old lady just kept laughing.{p}"
+  },
+  {
+   "id": "02:29a0",
+   "op": "text",
+   "before": "\"Don't be so cold, dearie.\nI only ever appear before you once, you know.\nJust once in your whole long life.\nDon't you think it'd be a waste to throw that away yourself?\"\nThe old woman knew.\nShe knew Sakuma needed her.{p}So what do you think Sakuma did?\n",
+   "en": "\"Don't be so cold, dearie.\nI only ever appear before you once, you know.\nJust once in your whole long life.\nDon't you think it'd be a waste to throw that away yourself?\"\nThe old lady knew.\nShe knew Sakuma needed her.{p}So what do you think Sakuma did?\n"
+  },
+  {
+   "id": "02:2b08",
+   "op": "text",
+   "before": "Sakuma really was a complete idiot.\n\"It's not a waste!\nIt's my life, I'll live it however I damn well want!\nI don't need some total stranger like you telling me what to do!\"\nThe old woman should've just left a punk like that alone.{p}",
+   "en": "Sakuma really was a complete idiot.\n\"It's not a waste!\nIt's my life, I'll live it however I damn well want!\nI don't need some total stranger like you telling me what to do!\"\nThe old lady should've just left a punk like that alone.{p}"
+  },
+  {
+   "id": "02:2bfc",
+   "op": "text",
+   "before": "But who knows why.\nThe old woman showed no sign of leaving at all.\n\"What a sweet child.\nWhy can't you be honest with yourself, I wonder?\nA child like you ought to have a nice, tasty candy.\nIt's a very, very tasty candy, you know.\"{p}",
+   "en": "Who knows why, though.\nThe old lady showed no sign of leaving at all.\n\"What a sweet child.\nWhy can't you be honest with yourself, I wonder?\nA child like you ought to have a nice, tasty candy.\nIt's a very, very tasty candy, you know.\"{p}",
+   "edit_notes": [
+    "02:2bfc: EDIT - fragment 'But who knows why.' -> 'Who knows why, though.'"
+   ]
+  },
+  {
+   "id": "02:2cf0",
+   "op": "text",
+   "before": "Without Sakuma even asking, the old woman plucked one big candy out of the basket hanging from her hand.\nSakuma gulped.\nThe truth was, he wanted it so badly he could hardly stand it.\nAnd that candy was right in front of him.\nAll he had to do was reach out and say thank you, and it'd be his.\nAnd his life would change.\nBut an idiot's an idiot to the bitter end.\nHe wanted it, and still he acted like he didn't.{p}",
+   "en": "Without Sakuma even asking, the old lady plucked one big candy out of the basket hanging from her hand.\nSakuma gulped.\nThe truth was, he wanted it so badly he could hardly stand it.\nAnd that candy was right in front of him.\nAll he had to do was reach out and say thank you, and it'd be his.\nAnd his life would change.\nBut an idiot's an idiot to the bitter end.\nHe wanted it, and still he acted like he didn't.{p}"
+  },
+  {
+   "id": "02:2e7c",
+   "op": "text",
+   "before": "He turned his face away and said, like it was a huge pain,\n\"...Well, if you're that desperate for me to take it, granny, I guess I could take it off your hands.\nBut if it tastes bad, you'll be sorry.\"\nEven while he mouthed off, Sakuma snatched the candy out of the old woman's hand.\nThen he tore off the wrapper and hurriedly popped it into his mouth.{p}",
+   "en": "He turned his face away and said, like it was a huge pain,\n\"...Well, if you're that desperate for me to take it, granny, I guess I could take it off your hands.\nBut if it tastes bad, you'll be sorry.\"\nEven while he mouthed off, Sakuma snatched the candy out of the old lady's hand.\nThen he tore off the wrapper and hurriedly popped it into his mouth.{p}"
+  },
+  {
+   "id": "02:2fd8",
+   "op": "text",
+   "before": "He'd never tasted anything like it in his life.\nThe rumors were true.\n\"Is it good?\"\n\"...It's good!\"\nAt the old woman's words, Sakuma let the truth slip out.\nIt was good enough to make even a contrarian like Sakuma groan.\nBut right after he said it, he thought, oh crap.\nIt ticked him off.\nThat he'd gone and done exactly what the old woman wanted.\nAnd at the same time, a different desire began to bubble up inside him.\nYeah.{p}",
+   "en": "He'd never tasted anything like it in his life.\nThe rumors were true.\n\"Is it good?\"\n\"...It's good!\"\nAt the old lady's words, Sakuma let the truth slip out.\nIt was good enough to make even a contrarian like Sakuma groan.\nBut right after he said it, he thought, oh crap.\nIt ticked him off.\nThat he'd gone and done exactly what the old lady wanted.\nAnd at the same time, a different desire began to bubble up inside him.\nYeah.{p}"
+  },
+  {
+   "id": "02:3174",
+   "op": "text",
+   "before": "It was the desire for more candy.\nThen, on reflex, he shoved his hand into the old woman's basket and stole some candy.\n\"What are you doing!\"\nIgnoring her cries to stop, Sakuma shoved the old woman away and ran.{p}",
+   "en": "It was the desire for more candy.\nThen, on reflex, he shoved his hand into the old lady's basket and stole some candy.\n\"What are you doing!\"\nIgnoring her cries to stop, Sakuma shoved the old lady away and ran.{p}"
+  },
+  {
+   "id": "02:3260",
+   "op": "text",
+   "before": "He ran like a madman.\nWhen he finally stopped, unable to run another step, the old woman was nowhere to be seen.\nThen he opened the hand still clutching the candy tight.{p}",
+   "en": "He ran like a madman.\nWhen he finally stopped, unable to run another step, the old lady was nowhere to be seen.\nThen he opened the hand still clutching the candy tight.{p}"
+  },
+  {
+   "id": "02:37f0",
+   "op": "text",
+   "before": "\"I can't hold back anymore!\"\nSakuma reached for the last one and hurriedly tossed it into his mouth.\nThat was the happiest moment Sakuma ever had.\nHe must have thought he could die happy right then.\nAfter all, he'd tasted three times a flavor even the chosen ones only got to taste once.\nHe knew that once it was gone he'd never eat another, but he couldn't spit it out.\nHe wanted to save it, but the urge for just a little more, just a little more won out, and before he knew it, the last candy had slid down into his stomach too.\n\"Haaaah...\"\nSakuma had never felt such satisfaction.\n",
+   "en": "\"I can't hold back anymore!\"\nSakuma reached for the last one and hurriedly tossed it into his mouth.\nThat was the happiest moment Sakuma ever had.\nHe must have thought he could die happy right then.\nAfter all, he'd tasted three times a flavor even the chosen ones only got to taste once.\nHe knew that once it was gone he'd never eat another, but he couldn't spit it out.\nHe wanted to save it, but the urge for just a little more, just a little more won out, and before he knew it, the last candy had slid down into his stomach too.\n\"Haaaaaah.\"\nSakuma had never felt such satisfaction.\n",
+   "edit_notes": [
+    "02:37f0: EDIT - returns note settled: 'Haaaah...' -> 'Haaaaaah.' (stretched sigh, no ellipsis; source has tildes only)"
+   ]
+  },
+  {
+   "id": "02:3b24",
+   "op": "text",
+   "before": "\"...Give them back.\n...Give me back my candies.\"\nHe jumped.\nHis heart nearly stopped.\nThat voice was, without a doubt, the Candy Granny's.\nHe had no idea why she was here.\nThis was Sakuma's own room, after all.\nThere was no way his family would let an old woman like that into the house.\nHow had she gotten inside? It gave him the creeps.\n\"...Come now, give them back.\nThose are my precious candies, they are.\"\nThe old woman's voice came through the door, full of bitter resentment.\nShe wanted her candies back, but he'd already eaten them.{p}What was he supposed to do?\n",
+   "en": "\"...Give them back.\n...Give me back my candies.\"\nHe jumped.\nHis heart nearly stopped.\nThat voice was, without a doubt, the Candy Granny's.\nHe had no idea why she was here.\nThis was Sakuma's own room, after all.\nThere was no way his family would let an old lady like that into the house.\nHow had she gotten inside? It gave him the creeps.\n\"...Come now, give them back.\nThose are my precious candies, they are.\"\nThe old lady's voice came through the door, full of bitter resentment.\nShe wanted her candies back, but he'd already eaten them.{p}What was he supposed to do?\n",
+   "edit_notes": []
+  },
+  {
+   "id": "02:4380",
+   "op": "text",
+   "before": "...The whole room was a sea of blood.\nThe old lady was nowhere to be seen.\nThere was only Sakuma, alone in the middle of the room, rolling around on the floor and clutching his bloody face.\n\"My eyes...!\nMy eyes hurt!\"\nHis horrified mother pried his hands away from his face, and... his eyes were gone.\nWhere his eyes should have been, there was nothing but gaping black holes.{p}",
+   "en": "...The whole room was a sea of blood.\nThe old lady was nowhere to be seen.\nThere was only Sakuma, alone in the middle of the room, rolling around on the floor and clutching his bloody face.\n\"My eyes...!\nMy eyes hurt!\"\nHis shocked mother pried his hands away from his face, and... his eyes were gone.\nWhere his eyes should have been, there was nothing but gaping black holes.{p}",
+   "edit_notes": [
+    "02:4380: EDIT - returns note settled: 'horrified' -> 'shocked' (startled/shocked in source)"
+   ]
+  },
+  {
+   "id": "02:44d8",
+   "op": "text",
+   "before": "After that, Sakuma lost his mind, and I hear he dropped out of school.\nIt was after that, see,\nthat the Candy Granny stopped showing up.\nBut for the past few years, they say a man in sunglasses has been turning up now and then at the student gate.\nWhenever he gets the chance, he stops a student, takes off his sunglasses, and...{p}",
+   "en": "After that, Sakuma lost his mind, and I hear he dropped out of school.\nIt was after that, see,\nthat the Candy Granny stopped showing up.\nBut for the past few years, they say a man in sunglasses has been turning up now and then at the students' side gate.\nWhenever he gets the chance, he stops a student, takes off his sunglasses, and...{p}",
+   "edit_notes": [
+    "02:44d8: EDIT - 'student gate' -> 'students' side gate' as in 02:09b8 (same term)"
+   ]
+  },
+  {
+   "id": "02:505c",
+   "op": "text",
+   "before": "Katagiri was heading out the school gate, putting up with the pain of her cavities.\nJust then, a voice called out to her.\n\"Are you all alone, dearie?\"{p}",
+   "en": "Katagiri was heading out the school gate, putting up with the pain of her cavities.\nJust then, a voice called out to her.\n\"All by yourself, are you, dearie?\"{p}",
+   "edit_notes": [
+    "02:505c: EDIT - same source line as 02:248c/02:6d28; now 'All by yourself, are you, dearie?' everywhere"
+   ]
+  },
+  {
+   "id": "02:5778",
+   "op": "text",
+   "before": "The Candy Granny's candy isn't just delicious.\nThey say everyone who's ever sucked on one has found happiness, without fail.\nYou get this weird surge of confidence or something, and whatever you try, it works out.\nKids who were bad at studying suddenly get great grades, and kids with no athletic ability suddenly turn into star athletes.\nAnd then a rosy school life is waiting for them.\nSounds like a dream, right?{p}",
+   "en": "The Candy Granny's candy isn't just delicious.\nThey say everyone who's ever sucked on one has found happiness, without fail.\nYou get this weird surge of confidence or something, and whatever you try, it works out.\nKids who were bad at studying suddenly get great grades, and kids with no coordination suddenly turn into star athletes.\nAnd then a rosy school life is waiting for them.\nSounds like a dream, huh?{p}",
+   "edit_notes": [
+    "02:5778: EDIT - echo of 02:1bf8 (identical source): 'no coordination', 'huh?'"
+   ]
+  },
+  {
+   "id": "02:5e6c",
+   "op": "text",
+   "before": "Satoko Katagiri, a first-year back then, was nobody you'd call a beauty, and she sure wasn't slim either.\nWhat do you call it, pear-shaped?\nBut she was a sweet kid, and I think people liked her well enough.\nShe had a best friend named Eriko Hara.\nThis girl was pretty cute, but her personality was super nasty.\nEveryone used to say, \"How do those two even stand hanging out together?\"\nNot that I saw it myself or anything.\nKatagiri was basically just there to make Hara look good.\nAnd I bet Hara felt superior about it and was perfectly happy that way.\nSeriously, what a nasty piece of work.\nOne day, after school, Katagiri was waiting at the school gate for Hara, who had cleaning duty.{p}",
+   "en": "Satoko Katagiri, a first-year back then, was nobody you'd call a beauty, and she sure wasn't slim either.\nWhat do you call it, pear-shaped?\nBut she was a sweet kid, and I think people liked her well enough.\nShe had a best friend named Eriko Hara.\nThis girl was cute enough, but her personality was super nasty.\nEveryone used to say, \"How do those two even stand hanging out together?\"\nNot that I saw it myself or anything.\nKatagiri was basically just there to make Hara look good.\nAnd I bet Hara felt superior about it and was perfectly happy that way.\nSeriously, what a nasty piece of work.\nOne day, after school, Katagiri was waiting at the school gate for Hara, who had cleaning duty.{p}",
+   "edit_notes": [
+    "02:5e6c: EDIT - returns note settled: 'pretty cute' -> 'cute enough' (milder source)"
+   ]
+  },
+  {
+   "id": "02:6340",
+   "op": "text",
+   "before": "Heh heh heh heh.\"\n\"Uh... okay...\"{p}",
+   "en": "Hee hee hee hee.\"\n\"Uh... okay...\"{p}",
+   "edit_notes": [
+    "02:6340/02:6ea8: EDIT - granny laughs made consistent: 02:6ea8 same source laugh as 02:2608 -> 'Ee-hee-hee'; 02:6340 -> 'Hee hee hee hee' as in 02:8480/02:93a0; 'Heh heh' is Iwashita's laugh"
+   ]
+  },
+  {
+   "id": "02:6b60",
+   "op": "text",
+   "before": "After that, day after day, Hara waited for the Candy Granny at the school gate.\nRain or wind, even snow, she waited, hiding in the shadow of a utility pole.\nIf she had that much grit, she could've spent the time working on herself and gotten a lot prettier, y'know.\nHara waited.\nShe kept on waiting, desperately.{p}",
+   "en": "After that, day after day, Hara waited for the Candy Granny at the school gate.\nRain, wind, even snow, she waited, hiding in the shadow of a telephone pole.\nIf she had that much grit, she could've spent the time working on herself and gotten a lot prettier, y'know.\nHara waited.\nShe kept on waiting, desperately.{p}",
+   "edit_notes": [
+    "02:2248/02:6b60: EDIT - echo lines unified ('Rain, wind, even snow', 'telephone pole' in both; same source)"
+   ]
+  },
+  {
+   "id": "02:6c90",
+   "op": "text",
+   "before": "\"No luck today either...\"\nThe sun had gone down completely, and there were no students left heading home from school.\nHara decided to go home and pin her hopes on tomorrow once again.\n",
+   "en": "\"No luck today either...\"\nThe sun had gone down completely, and there were no students left heading home from school.\nHara pinned her hopes on tomorrow once again and decided to go home.\n",
+   "edit_notes": [
+    "02:23ec/02:6c90: EDIT - echo lines worded the same (same source sentence for Sakuma and Hara)"
+   ]
+  },
+  {
+   "id": "02:6ea8",
+   "op": "text",
+   "before": "\"...Heh heh heh... That I am.\nYou've been waiting for me, haven't you, dearie?\"\n\"...Not really.\nI was just wandering around, that's all.\"\nThis was Hara we're talking about, with her not-so-cute personality, so of course she put on a tough front.\nEven so, the old lady laughed as if she could see right through her.\n",
+   "en": "\"...Ee-hee-hee... That I am.\nYou've been waiting for me, haven't you, dearie?\"\n\"...Not really.\nI was just wandering around, that's all.\"\nThis was Hara we're talking about, with her not-so-cute personality, so of course she put on a tough front.\nEven so, the old lady laughed as if she could see right through her.\n",
+   "edit_notes": [
+    "02:6340/02:6ea8: EDIT - granny laughs made consistent: 02:6ea8 same source laugh as 02:2608 -> 'Ee-hee-hee'; 02:6340 -> 'Hee hee hee hee' as in 02:8480/02:93a0; 'Heh heh' is Iwashita's laugh"
+   ]
+  },
+  {
+   "id": "02:7288",
+   "op": "text",
+   "before": "They say her eyes slanted up, her mouth bent down into a scowl, deep creases dug in between her brows, and her face warped into a mean-looking one.\nJust like Hara's heart, see.\nApparently the candies the old lady hands out come in different kinds.\nThey say she picks out the candy that suits each person.\nThat's why things work out pretty well for everyone, I guess.\nThe candy Hara tore out of the old lady's basket was apparently one that makes your heart show up in your looks, just as it is.{p}",
+   "en": "They say her eyes slanted up, her mouth bent down into a scowl, deep creases dug in between her brows, and her whole face warped into something mean.\nJust like Hara's heart, see.\nApparently the candies the old lady hands out come in different kinds.\nThey say she picks out the candy that suits each person.\nThat's why things work out pretty well for everyone, I guess.\nThe candy Hara tore out of the old lady's basket was apparently one that makes your heart show up in your looks, just as it is.{p}",
+   "edit_notes": [
+    "02:7288: EDIT - clumsy 'warped into a mean-looking one'"
+   ]
+  },
+  {
+   "id": "02:7b70",
+   "op": "text",
+   "before": "She died the next morning.\nWith needles stuck all over her body...\nIt had been only a week since she took to her bed.\nWhen they did the autopsy at the hospital, they found parasites crawling around inside her, and their eggs laid thick all through her body.\nJust picturing them squirming everywhere, in her organs, in her blood vessels, in every last part of her, sends a chill down your spine, huh?\nThe reason she'd been getting thin was that the parasites were sucking up all her nutrients.\nSeems it's not like every single person who sucked on the Candy Granny's candy got to be happy.\nEvery now and then you draw a dud like this one.\nWell, I guess you could say your choice was the right one too, in a way...\n...That's the end of my story.\nLet's have the next one tell theirs.{p}",
+   "en": "She died the next morning.\nWith needles stuck all over her body...\nIt had been only a week since she took to her bed.\nWhen they did the autopsy at the hospital, they found parasites crawling around inside her, and their eggs laid thick all through her body.\nJust picturing them squirming everywhere, in her organs, in her blood vessels, in every last part of her, sends a chill down your spine, huh?\nThe reason she'd been getting thin was that the parasites were sucking up all her nutrients.\nSeems not every single person who sucked on the Candy Granny's candy got to be happy.\nEvery now and then you draw a dud like this one.\nWell, I guess you could say your choice was the right one too, in a way...\n...That's the end of my story.\nLet's have the next one tell theirs.{p}",
+   "edit_notes": [
+    "02:7b70: EDIT - 'Seems it's not like every single person...' -> 'Seems not every single person...'"
+   ]
+  },
+  {
+   "id": "02:81fc",
+   "op": "text",
+   "before": "\"Fo fo fo, honest, that's a good child.\nI'm fond of children who say what they mean.\"\nThat's what she said, grinning at him.\nWhen you got a good look at her, the old lady was way filthier than the rumors said.\nHer eyes were caked with gunk, her teeth were crusted thick with plaque, and when she looked at you with those unfocused eyes, it sent a chill right through you.\nLittle by little, he couldn't stand it anymore, and before he knew it,{p}",
+   "en": "\"Fo fo fo, so honest. That's a good child.\nI'm fond of children who say what they mean.\"\nThat's what she said, grinning at him.\nWhen you got a good look at her, the old lady was way filthier than the rumors said.\nHer eyes were caked with gunk, her teeth were crusted thick with plaque, and when she looked at you with those unfocused eyes, it sent a chill right through you.\nLittle by little it got to be more than he could stand, and before he knew it,{p}",
+   "edit_notes": [
+    "02:81fc: EDIT - 'honest, that's a good child' punctuation; 'Little by little, he couldn't stand it anymore' smoothed"
+   ]
+  },
+  {
+   "id": "02:951c",
+   "op": "text",
+   "before": "Because within a month of that moment, Sakuma will come to gouge out your eyeballs.\nNot saying it is easy, but not thinking it is hard, right?\nWhen you try not to think about it, you end up thinking about it even more.{p}",
+   "en": "Because within a month of that moment, Sakuma will come to gouge out your eyeballs.\nNot saying it is easy. Not thinking it is the hard part, right?\nWhen you try not to think about it, you end up thinking about it even more.{p}",
+   "edit_notes": [
+    "02:951c: EDIT - stiff parallel 'Not saying it is easy, but not thinking it is hard' clarified"
+   ]
+  },
+  {
+   "id": "02:95dc",
+   "op": "text",
+   "before": "It's enough to drive you crazy, right?\nYou'll just have to grit your teeth and hold out.\nOh, come to think of it, you said you wanted to eat it a little while ago, didn't you?\nBut hey, if Sakuma does come, there's just one way to save yourself.\nSakuma will say,\n\"Give me your eyeballs,\"\nso shut your eyes and say,\n\"I took three candies from the old lady too.\nSo I have no two eyeballs to give you.\"\nThat's what you say.\nDon't get it wrong...\n...That's the end of my story.\nLet's have the next one tell theirs.{p}",
+   "en": "It's enough to drive you crazy, right?\nYou'll just have to grit your teeth and hold out.\nOh, come to think of it, you said you wanted to eat it a little while ago, didn't you?\nBut hey, if Sakuma does come, there's just one way to save yourself.\nSakuma will say,\n\"Give me your eyeballs,\"\nso shut your eyes and say,\n\"I took three candies from the old lady too.\nSo I don't have two eyeballs to give you.\"\nThat's what you say.\nDon't get it wrong...\n...That's the end of my story.\nLet's have the next one tell theirs.{p}",
+   "edit_notes": [
+    "02:95dc: EDIT - 'I have no two eyeballs' -> 'I don't have two eyeballs'"
+   ]
+  },
+  {
+   "id": "03:14a0",
+   "op": "text",
+   "before": "Well, it's a sad story, isn't it?\nThey had something they could throw themselves into, and their short lives came to an end after barely ten-some years.\nBut listen, don't go feeling sorry for them.\nIf you sympathize, the spirit will take advantage of you.\nWhat I'm about to tell you is the story of a guy who went through hell just because he felt sorry for a spirit.\nThe captain of the basketball club is in my class.\nAnd our basketball club has a certain legend.\nBasketball's a popular sport these days, sure.\nBut about ten years ago, even getting enough members together was a struggle.{p}",
+   "en": "Well, it's a sad story, isn't it?\nThey had something they could throw themselves into, and their short lives came to an end after little more than ten years.\nBut listen, don't go feeling sorry for them.\nIf you sympathize, the spirit will take advantage of you.\nWhat I'm about to tell you is the story of a guy who went through hell just because he felt sorry for a spirit.\nThe captain of the basketball club is in my class.\nAnd our basketball club has a certain legend.\nBasketball's a popular sport these days, sure.\nBut about ten years ago, even getting enough members together was a struggle.{p}",
+   "edit_notes": [
+    "03:14a0: EDIT - 'ten-some years' nonstandard -> 'little more than ten years'"
+   ]
+  },
+  {
+   "id": "03:179c",
+   "op": "text",
+   "before": "The new kid's name was Kawaguchi.\nIn junior high, Kawaguchi was a sprinter who got a fair bit of attention.\nWhat caught Tadokoro's eye was Kawaguchi's height.\nA full 185 centimeters.\nPretty impressive, right?\nAs a sprinter, Kawaguchi had explosive speed, and with some pretty solid marks in the long jump, had great leaping ability too.\nExactly the kind of talent you'd want to make a team stronger.{p}",
+   "en": "The new kid's name was Kawaguchi.\nIn junior high, Kawaguchi was a sprinter who got a fair bit of attention.\nWhat caught Tadokoro's eye was Kawaguchi's height.\nA full 185 centimeters.\nPretty impressive, right?\nKawaguchi had a sprinter's explosive speed and, with some pretty solid marks in the long jump, great leaping ability too.\nExactly the kind of talent you'd want to make a team stronger.{p}",
+   "edit_notes": [
+    "03:179c: EDIT - clumsy doubled 'had' sentence smoothed; still no pronoun for Kawaguchi"
+   ]
+  },
+  {
+   "id": "03:2d08",
+   "op": "text",
+   "before": "And at the same time, he was trembling with joy.\nHe wanted to meet the person who wrote this notebook so badly he couldn't stand it.\nAnd if he could meet him, his problems were sure to be solved.\nHe never stopped believing that.\nTadokoro was completely convinced that the notebook existed just for him.\nThe notebook was Tadokoro's now.\nSo he went to the gym.{p}",
+   "en": "And at the same time, he was trembling with joy.\nHe wanted to meet the person who wrote this notebook so badly he couldn't stand it.\nAnd if he could meet him, his problems were sure to be solved.\nHe didn't doubt it for a second.\nTadokoro was completely convinced that the notebook existed just for him.\nThe notebook was Tadokoro's now.\nSo he went to the gym.{p}",
+   "edit_notes": [
+    "03:2d08: EDIT - 'He never stopped believing that' implied duration; -> 'He didn't doubt it for a second' (doubt-free conviction)"
+   ]
+  },
+  {
+   "id": "03:2f9c",
+   "op": "text",
+   "before": "\"I need help!\nYou, my senior, who felt the same way I do!\nPlease, help me!\"{p}...What do you think happened?\n",
+   "en": "\"I need help!\nYou, the senior who felt the same way I do!\nPlease, help me!\"{p}...What do you think happened?\n",
+   "edit_notes": [
+    "03:2f9c: EDIT - returns: 'You, my senior, who...' stiff vocative -> 'You, the senior who felt the same way I do!' (keeps senior, echoes 03:2970)"
+   ]
+  },
+  {
+   "id": "03:3470",
+   "op": "text",
+   "before": "\"I understand how you feel...\nI understand it so well it hurts.\nI can feel it like it's right in my hands.\"\nThe bodiless voice sympathized with Tadokoro.\nAnd it told him how bitter it had felt, too.\n\"I understand, I really do.\nIt must have been so frustrating.\nIf I'd been there back then, I definitely could have helped you.\nWhen I think that I couldn't help you, I'm so sad I can't stand it.\"\nThe two of them talked until dawn.\nAnd as the sun was coming up, the voice said:\n\"...Now, go on home for today.\nI have to go back too.\nIf you'd like, come anytime.\nThere's only so much I can do, but I want to help you, little by little.\"\n\"Thank you so much!\"\nAnd then the voice was gone.{p}",
+   "en": "\"I understand how you feel...\nI understand it so well it hurts.\nI know exactly what you're going through.\"\nThe bodiless voice sympathized with Tadokoro.\nAnd it told him how bitter it had felt, too.\n\"I understand, I really do.\nIt must have been so frustrating.\nIf I'd been there back then, I definitely could have helped you.\nWhen I think that I couldn't help you, I'm so sad I can't stand it.\"\nThe two of them talked until dawn.\nAnd as the sun was coming up, the voice said:\n\"...Now, go on home for today.\nI have to go back too.\nIf you'd like, come anytime.\nThere's only so much I can do, but I want to help you, little by little.\"\n\"Thank you so much!\"\nAnd then the voice was gone.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:3f20",
+   "op": "text",
+   "before": "...The next day, Tadokoro was found dead in the gym.\nThey say his face was frozen in terror, too hideous to look at twice.\nIn the end, they settled it as Tadokoro losing his mind and killing himself in the gym.\nThe cause of death is unknown.\nOfficially, they're calling it a heart attack.{p}",
+   "en": "...The next day, Tadokoro was found dead in the gym.\nThey say his face was frozen in terror, too hideous to look at twice.\nIn the end, it was put down to Tadokoro losing his mind and killing himself in the gym.\nThe cause of death is unknown.\nOfficially, they're calling it a heart attack.{p}",
+   "edit_notes": [
+    "03:3f20, 03:4f64, 03:7084, 03:9884: EDIT - clumsy phrasing ('settled it as', 'it being cursed made perfect sense', 'It seems it was grudging', 'That's what he said, they say') smoothed, meaning kept"
+   ]
+  },
+  {
+   "id": "03:43c8",
+   "op": "text",
+   "before": "Ask whether he's got some secret he's hiding.\nAnd then, if your brother goes pale...\nHeh heh, you'd better watch yourself too.\nThat's the end of my story.\nLet's hear the next one.{p}",
+   "en": "Ask whether he's got some secret he's hiding.\nAnd then, if your brother goes pale...\nHeh heh heh, you'd better watch yourself too.\nThat's the end of my story.\nLet's hear the next one.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:4620",
+   "op": "text",
+   "before": "You know this?\nWhen a person's will is strong, spirits are more likely to go after them.\nThere are spirits that slip into the cracks in your heart, like wanting to get stronger or wanting to beat somebody, and do their dirty work.\nTo avoid that, you need a heart strong enough to throw spirits off.\n{a}, you'd better build up a heart like that too.\nIt'd be stupid to stay out of the sports clubs just because spirit stuff happens more there.{p}",
+   "en": "Did you know?\nWhen a person's will is strong, spirits are more likely to go after them.\nThere are spirits that slip into the cracks in your heart, like wanting to get stronger or wanting to beat somebody, and do their dirty work.\nTo avoid that, you need a heart strong enough to throw spirits off.\n{a}, you'd better build up a heart like that too.\nIt'd be stupid to stay out of the sports clubs just because spirit stuff happens more there.{p}",
+   "edit_notes": [
+    "03:4620: EDIT - returns: 'You know this?' -> 'Did you know?'"
+   ]
+  },
+  {
+   "id": "03:4f64",
+   "op": "text",
+   "before": "After that, a first-year on the team started saying the ball was what was suspicious.\nWhen they got back from camp, there'd been one extra ball.\nEveryone scratched their heads, wondering if there had even been any balls at the camp lodge.\nBut if it was true, they decided they'd better do something about that ball.\nEveryone figured that if it came from that lodge, it being cursed made perfect sense.\nBut the club had about twenty balls in storage.\nThere was no way to tell which one was the extra.\nStill, they couldn't afford any more accidents.\nSo, just to be safe, they threw out every ball the boys' volleyball team had at the time.\nThen they went and bought twenty brand-new balls.\nAnd after that, the accidents at practice stopped dead.\nStrange things happen, huh?\nEveryone kept telling each other what a scary business that had been.\nBut then...\nOne day, about two weeks later, there was one extra ball in the club's stock again.\nThis time, they could tell exactly which one it was.{p}",
+   "en": "After that, a first-year on the team started saying the ball was what was suspicious.\nWhen they got back from camp, there'd been one extra ball.\nEveryone scratched their heads, wondering if there had even been any balls at the camp lodge.\nBut if it was true, they decided they'd better do something about that ball.\nEveryone figured that if it had come from that lodge, it made perfect sense for it to be cursed.\nBut the club had about twenty balls in storage.\nThere was no way to tell which one was the extra.\nStill, they couldn't afford any more accidents.\nSo, just to be safe, they threw out every ball the boys' volleyball team had at the time.\nThen they went and bought twenty brand-new balls.\nAnd after that, the accidents at practice stopped dead.\nStrange things happen, huh?\nEveryone kept telling each other what a scary business that had been.\nBut then...\nOne day, about two weeks later, there was one extra ball in the club's stock again.\nThis time, they could tell exactly which one it was.{p}",
+   "edit_notes": [
+    "03:3f20, 03:4f64, 03:7084, 03:9884: EDIT - clumsy phrasing ('settled it as', 'it being cursed made perfect sense', 'It seems it was grudging', 'That's what he said, they say') smoothed, meaning kept"
+   ]
+  },
+  {
+   "id": "03:55b4",
+   "op": "text",
+   "before": "He was the one who'd first noticed there was an extra ball after camp.\nHis name was... Matsumoto, I think.\nMatsumoto was the great hope of the boys' volleyball team.\nHe'd been playing volleyball since elementary school.\nHis father was a P.E. teacher, and apparently taught him all kinds of things.\nHe was tall, and his jumping ability was outstanding.\nPlus, in middle school, he'd been on the team that won the Tokyo tournament.\nMatsumoto had a good personality, too.\nNobody would want to go along to an exorcism at school at night, right?\nBut when it came up, he was the first to volunteer.\nAnd so Matsumoto arranged to meet the exorcist at the school that night.{p}",
+   "en": "He was the one who'd first noticed there was an extra ball after camp.\nHis name was... Matsumoto, I think.\nMatsumoto was the great hope of the boys' volleyball team.\nHe'd been playing volleyball since elementary school.\nHis father was a P.E. teacher, and apparently taught him all kinds of things.\nHe was tall, and his jumping ability was outstanding.\nPlus, in junior high, he'd been on the team that won the Tokyo tournament.\nMatsumoto had a good personality, too.\nNobody would want to go along to an exorcism at school at night, right?\nBut when it came up, he was the first to volunteer.\nAnd so Matsumoto arranged to meet the exorcist at the school that night.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:7044",
+   "op": "text",
+   "before": "You think so?\nKawaguchi had been doing track ever since middle school.{p}",
+   "en": "You think so?\nKawaguchi had been doing track ever since junior high.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:7084",
+   "op": "text",
+   "before": "Well, it seems that was true at first.\nKawaguchi's old man used to hold a sprint record back in the day.\nKawaguchi got into track because of the old man.\nIt seems it was grudging at first, but the kid had talent.\nAfter setting record after record, Kawaguchi started taking sprinting seriously, the story goes.\nSo no matter how hard Tadokoro recruited, Kawaguchi's mind didn't change.{p}",
+   "en": "Well, it seems that was true at first.\nKawaguchi's old man used to hold a sprint record back in the day.\nKawaguchi got into track because of the old man.\nKawaguchi did it grudgingly at first, it seems, but the kid had talent.\nAfter setting record after record, Kawaguchi started taking sprinting seriously, the story goes.\nSo no matter how hard Tadokoro recruited, Kawaguchi's mind didn't change.{p}",
+   "edit_notes": [
+    "03:3f20, 03:4f64, 03:7084, 03:9884: EDIT - clumsy phrasing ('settled it as', 'it being cursed made perfect sense', 'It seems it was grudging', 'That's what he said, they say') smoothed, meaning kept"
+   ]
+  },
+  {
+   "id": "03:8c58",
+   "op": "text",
+   "before": "...Sure enough, the demon appeared.\nTadokoro poured his heart out to it, telling it everything he wanted.\nThe demon granted Tadokoro's wish.\nAnd then...{p}",
+   "en": "...Sure enough, the demon appeared.\nTadokoro poured his heart out to it, telling it what he wanted.\nThe demon granted Tadokoro's wish.\nAnd then...{p}",
+   "edit_notes": [
+    "03:8c58: EDIT - returns: tightened 'telling it everything he wanted' -> 'telling it what he wanted'"
+   ]
+  },
+  {
+   "id": "03:9128",
+   "op": "text",
+   "before": "...{a}, you play sports, right?\nWhich club are you in?\nIf you're in the basketball club... watch yourself.\nThey say the notebook about the demon ritual is still in the boys' basketball club room, even now.\nMake sure you don't end up as an ingredient in the ritual...\nWell then, let's hear the next one's story...{p}",
+   "en": "...{a}, you play sports, right?\nWhich club are you in?\nIf you're in the basketball club... watch yourself.\nThey say the notebook about the demon ritual is still in the boys' basketball club room, even now.\nMake sure you don't end up as an ingredient in the ritual...\nWell then, let's hear the next person's story...{p}",
+   "edit_notes": [
+    "03:9128/03:accc/03:ae24: EDIT - 'the next one's story' clumsy -> 'the next person's story' (as 03:8014)"
+   ]
+  },
+  {
+   "id": "03:9308",
+   "op": "text",
+   "before": "You think so?\nWell, whatever, I'll keep going.\nTadokoro wished from the bottom of his heart that he could meet the upperclassman.{p}",
+   "en": "You think so?\nWell, whatever, I'll keep going.\nTadokoro wished from the bottom of his heart that he could meet the senior.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:93ec",
+   "op": "text",
+   "before": "But the next day, he regretted it and wished he'd gone after all.\nThe only one who could understand how he felt now was the upperclassman.\nHe wanted to go see the upperclassman again... no, as many times as he could.\nThat's what he thought.{p}",
+   "en": "But the next day, he regretted it and wished he'd gone after all.\nThe only one who could understand how he felt now was the senior.\nHe wanted to go see the senior again... no, as many times as he could.\nThat's what he thought.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:95b4",
+   "op": "text",
+   "before": "Then the upperclassman gave him all sorts of advice about what he'd written in the notebook.\nTadokoro was deeply moved.\nMy upperclassman understands everything about me, and really thinks things through for my sake...\nThat's what he thought.\nFrom then on, no matter what else he had to do, Tadokoro kept going back to see the upperclassman.{p}",
+   "en": "Then the senior gave him all sorts of advice about what he'd written in the notebook.\nTadokoro was deeply moved.\nMy senior understands everything about me, and truly takes my problems to heart...\nThat's what he thought.\nFrom then on, no matter what else he had to do, Tadokoro kept going back to see the senior.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:9884",
+   "op": "text",
+   "before": "He rounded up some new members from who knows where and formed his very own basketball team.\n\"My teammates all understand me. They're the best friends anyone could have.\nThey're worlds apart from those track team guys and the basketball club here.\"\nThat's what he said, they say, bragging about it nonstop.\nWith his eyes glittering.\nNot that anybody actually took what he said seriously...{p}",
+   "en": "He rounded up some new members from who knows where and formed his very own basketball team.\n\"My teammates all understand me. They're the best friends anyone could have.\nThey're worlds apart from those track team guys and the basketball club here.\"\nHe went around bragging like that nonstop, they say.\nWith his eyes glittering.\nNot that anybody actually took what he said seriously...{p}",
+   "edit_notes": [
+    "03:3f20, 03:4f64, 03:7084, 03:9884: EDIT - clumsy phrasing ('settled it as', 'it being cursed made perfect sense', 'It seems it was grudging', 'That's what he said, they say') smoothed, meaning kept"
+   ]
+  },
+  {
+   "id": "03:9fa8",
+   "op": "text",
+   "before": "Huh?\nWhat the hell, where'd everybody else go?\n\"Oh, um...\"\nI looked around.\nThere was nobody in the gym but Shindo and me.{p}",
+   "en": "Huh?\nWhat gives? Where'd everybody else go?\n\"Oh, um...\"\nI looked around.\nThere was nobody in the gym but Shindo and me.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:a6a8",
+   "op": "text",
+   "before": "\"That gave me such a fright!\nThe doors just slammed shut all of a sudden!\nHey, are you all right?\"\n\"Honestly, that was dangerous.\nA girl shouldn't be left all alone with a guy in a place like a gym.\nI thought my heart was going to stop.\nYou're cute, after all, {b}.\"\n\"Heh heh heh...\nDid you get to meet this Tadokoro, or whatever his name was?\nOh dear, you're drenched in sweat.\"\nEveryone was saying all sorts of things at once.\n\"Let's go back to the club room...\"\nThat was all I could manage to say.{p}",
+   "en": "\"That really scared me!\nThe doors just slammed shut all of a sudden!\nHey, are you all right?\"\n\"Honestly, that was dangerous.\nA girl shouldn't be left all alone with a guy in a place like a gym.\nI thought my heart was going to stop.\nYou're cute, after all, {b}.\"\n\"Heh heh...\nDid you get to meet this Tadokoro, or whatever his name was?\nMy, you're drenched in sweat.\"\nEveryone was saying all sorts of things at once.\n\"Let's go back to the club room...\"\nThat was all I could manage to say.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "03:accc",
+   "op": "text",
+   "before": "Oh yeah, {a}, you play sports, right?\nIf you're in the basketball club... watch yourself.\nDon't let Tadokoro recruit you.\nLooks like it doesn't matter to him whether you're a guy or a girl.\nWell then, let's hear the next one's story...{p}",
+   "en": "Oh yeah, {a}, you play sports, right?\nIf you're in the basketball club... watch yourself.\nDon't let Tadokoro recruit you.\nLooks like it doesn't matter to him whether you're a guy or a girl.\nWell then, let's hear the next person's story...{p}",
+   "edit_notes": [
+    "03:9128/03:accc/03:ae24: EDIT - 'the next one's story' clumsy -> 'the next person's story' (as 03:8014)"
+   ]
+  },
+  {
+   "id": "03:ae24",
+   "op": "text",
+   "before": "Well, fine, you're the one writing the article.\nIt's not my place to butt in.\nCome on, let's head back to the club room.\n...Guess I'll pin my hopes on the next one's story.{p}",
+   "en": "Well, fine, you're the one writing the article.\nIt's not my place to butt in.\nCome on, let's head back to the club room.\n...Guess I'll pin my hopes on the next person's story.{p}",
+   "edit_notes": [
+    "03:9128/03:accc/03:ae24: EDIT - 'the next one's story' clumsy -> 'the next person's story' (as 03:8014)"
+   ]
+  },
+  {
+   "id": "04:0f10",
+   "op": "text",
+   "before": "But now it's no good.\nNo good at all.\nThe membership's dropped way off, too.\nThere's not a trace left of what it used to be.\nIt's turned into a ghost club, clinging to its past glory and only still around out of pity.\nBut there's a little reason behind that.\nThe scary story I'm going to tell you is about that boxing club.{p}",
+   "en": "But now it's no good.\nNo good at all.\nThe membership's dropped way off, too.\nThere's not a trace left of what it used to be.\nIt's turned into a ghost club, clinging to its past glory and only still around out of pity.\nBut there's a bit of a story behind that.\nThe scary story I'm going to tell you is about that boxing club.{p}",
+   "edit_notes": [
+    "04:0f10: EDIT - calque 'a little reason behind that' -> 'a bit of a story behind that'"
+   ]
+  },
+  {
+   "id": "04:1044",
+   "op": "text",
+   "before": "The boxing club didn't just get strong on its own.\nAnd it's not like only guys with talent sign up, either.\nIn sports, guts count for more than talent.\nThe boxing club got strong by beating those guts into shape.\nThat's what they call hard training.\nIt's not bullying, mind you.\nIt's training.{p}",
+   "en": "The boxing club didn't just get strong on its own.\nAnd it's not like only guys with talent sign up, either.\nIn sports, guts count for more than talent.\nThe boxing club got strong by beating those guts into shape.\nThat's what they call hazing.\nIt's not bullying, mind you.\nIt's hazing.{p}",
+   "edit_notes": [
+    "04:1044: EDIT - shigoki unified as 'hazing' chunk-wide (returns note on 04:121c/04:3a04); 'training' kept for tokkun, so the two terms stay distinct (cf. 04:1f40 'hazing or training')",
+    "04:1770: EDIT - shigoki -> hazing; reworded so the contrast with 04:1044 still reads"
+   ]
+  },
+  {
+   "id": "04:1160",
+   "op": "text",
+   "before": "Our boxing club had a traditional kind of training that got handed down from one generation to the next.{p}You know what kind of training it was?\n",
+   "en": "Our boxing club had a traditional kind of hazing that got handed down from one generation to the next.{p}You know what kind of hazing it was?\n",
+   "edit_notes": [
+    "04:1160: EDIT - shigoki -> hazing (consistency; echoed by 04:5ee0 'The traditional hazing')"
+   ]
+  },
+  {
+   "id": "04:121c",
+   "op": "text",
+   "before": "That's right, the one they also call the Hell Camp.\nWhen summer vacation comes, they hole up in the mountains for three whole weeks.\nOf course, there's brutal training before that, too.\nHard training from the alumni, three round trips running to the shrine.{p}",
+   "en": "That's right, the one they also call the Hell Camp.\nWhen summer vacation comes, they hole up in the mountains for three whole weeks.\nOf course, there's brutal training before that, too.\nHazing from the alumni, three round trips running to the shrine.{p}",
+   "edit_notes": [
+    "04:1044: EDIT - shigoki unified as 'hazing' chunk-wide (returns note on 04:121c/04:3a04); 'training' kept for tokkun, so the two terms stay distinct (cf. 04:1f40 'hazing or training')",
+    "04:121c: EDIT - returns note settled: OB no shigoki -> 'Hazing from the alumni' (shigoki = hazing everywhere); 'Hell Camp' capitalization kept here and unified elsewhere"
+   ]
+  },
+  {
+   "id": "04:1770",
+   "op": "text",
+   "before": "The real trouble is the afternoon.\nIn the afternoon, the first-years, one at a time, spar against every single senior.\nThree rounds with each one.\nThere are only about ten seniors, but they're guys who place near the top at the nationals.\nYou get made to fight those guys for thirty rounds total.\nIt's nothing but torture.\nIt's 'training' in name only. Frankly, it's bullying.{p}",
+   "en": "The real trouble is the afternoon.\nIn the afternoon, the first-years, one at a time, spar against every single senior.\nThree rounds with each one.\nThere are only about ten seniors, but they're guys who place near the top at the nationals.\nYou get made to fight those guys for thirty rounds total.\nIt's nothing but torture.\nThey call it hazing, but frankly, it's just bullying.{p}",
+   "edit_notes": [
+    "04:1770: EDIT - shigoki -> hazing; reworded so the contrast with 04:1044 still reads"
+   ]
+  },
+  {
+   "id": "04:1d6c",
+   "op": "text",
+   "before": "You couldn't really call him the sturdy type.\nBut he loved boxing.\nHe idolized strong boxers.\nHe looked like the type who gets picked on, Akasaka did.\nHonestly, the seniors figured he'd be the very first to quit.\nBut it turned out he had guts.\nSay what you will, he lasted all the way to the camp.\nStill, everyone was sure he'd have quit by the time the camp was over.\nAnd with that in mind, they zeroed in on Akasaka as their target.\nThe target of their training.{p}",
+   "en": "You couldn't really call him the sturdy type.\nBut he loved boxing.\nHe idolized strong boxers.\nHe looked like the type who gets picked on, Akasaka did.\nHonestly, the seniors figured he'd be the very first to quit.\nBut it turned out he had guts.\nSay what you will, he lasted all the way to the camp.\nStill, everyone was sure he'd have quit by the time the camp was over.\nAnd with that in mind, they zeroed in on Akasaka as their target.\nThe target of their hazing.{p}",
+   "edit_notes": [
+    "04:1d6c: EDIT - shigoki -> hazing"
+   ]
+  },
+  {
+   "id": "04:1f40",
+   "op": "text",
+   "before": "Frankly, call it training or drills or whatever, I think for the seniors it was also a way to blow off steam and work off stress.\nOn the surface, they said all the right things, about honoring tradition and building mental toughness that way.\nBut in reality, it was nothing of the sort.\nIt really was just bullying.{p}",
+   "en": "Frankly, call it hazing or training or whatever, but I think for the seniors it was also a way to blow off steam and work off stress.\nOn the surface, they said all the right things, about honoring tradition and building mental toughness that way.\nBut in reality, it was nothing of the sort.\nIt really was just bullying.{p}",
+   "edit_notes": [
+    "04:1044: EDIT - shigoki unified as 'hazing' chunk-wide (returns note on 04:121c/04:3a04); 'training' kept for tokkun, so the two terms stay distinct (cf. 04:1f40 'hazing or training')",
+    "04:1f40: EDIT - shigoki/tokkun -> 'hazing or training'; added 'but' to fix the run-on"
+   ]
+  },
+  {
+   "id": "04:2124",
+   "op": "text",
+   "before": "Of course, the other first-years got way more than their share of training, too.\nSo some of them ran off.\nOne day, a few of the first-years got together and talked about running away.{p}",
+   "en": "Of course, the other first-years got way more than their share of hazing, too.\nSo some of them ran off.\nOne day, a few of the first-years got together and talked about running away.{p}",
+   "edit_notes": [
+    "04:2124: EDIT - shigoki -> hazing"
+   ]
+  },
+  {
+   "id": "04:23d4",
+   "op": "text",
+   "before": "Akasaka was sure to report this to the seniors.\nThen they'd be the ones on the receiving end of the training.\nIt was hard enough already. If they got any more, they'd really die.\nThey all started shaking like leaves.\nThen they crowded in on Akasaka.\n\"Hey.\nYou keep this a secret, got it?\"\n\"...Yeah, I won't tell.\"\nBut none of them believed what Akasaka said.\nEven if they wanted to believe him, they were worried sick.{p}",
+   "en": "Akasaka was sure to report this to the seniors.\nThen they'd be the ones on the receiving end of the hazing.\nIt was hard enough already. If they got any more, they'd really die.\nThey all started shaking like leaves.\nThen they crowded in on Akasaka.\n\"Hey.\nYou keep this a secret, got it?\"\n\"...Yeah, I won't tell.\"\nBut none of them believed what Akasaka said.\nEven if they wanted to believe him, they were worried sick.{p}",
+   "edit_notes": [
+    "04:23d4: EDIT - shigoki -> hazing"
+   ]
+  },
+  {
+   "id": "04:2574",
+   "op": "text",
+   "before": "So they called him out.\nWhile they were making dinner, they ganged up on Akasaka and beat him.\nPretty awful, huh?\nThey all had a lot of pent-up frustration, see.\nAt first, they only meant to rough him up a little.\nBut it didn't stop there.\nIt kept escalating.\nMaybe Akasaka was just the kind of guy who gets picked on by nature.\nAll of them, like they were possessed by something, punched Akasaka and kicked him.{p}",
+   "en": "So they called him out.\nWhile they were making dinner, they ganged up on Akasaka and beat him.\nPretty awful, huh?\nThey all had a lot of pent-up frustration, see.\nAt first, they only meant to rough him up a little.\nBut it didn't stop there.\nIt kept escalating.\nMaybe Akasaka was just the kind of guy who gets picked on by nature.\nLike they were possessed by something, they all punched and kicked Akasaka.{p}",
+   "edit_notes": [
+    "04:2574: EDIT - clumsy word order smoothed"
+   ]
+  },
+  {
+   "id": "04:2d64",
+   "op": "text",
+   "before": "\"...Hey, Toru!\nHe's dead!\"\nThe guy who'd tried to help Akasaka up couldn't help shouting.\n\"...You're kidding, right?\"\nHatanaka didn't believe it.\nHe never imagined a guy who'd held up under all that training would die from a little roughing up.\nBut he was dead.\nNo matter how they called his name, no matter how they shook him, he didn't so much as twitch.\nHe wasn't breathing.\n\"...What do we do, Toru?\nWe're screwed.\"\nThe guys who'd beaten Akasaka along with him sounded like they were about to die themselves.\nWell, of course they did.\nThey'd killed someone.\nAnd they'd all ganged up on him to do it...{p}So, what do you think they did?\n",
+   "en": "\"...Hey, Toru!\nHe's dead!\"\nThe guy who'd tried to help Akasaka up couldn't help shouting.\n\"...You're kidding, right?\"\nHatanaka didn't believe it.\nHe never imagined a guy who'd held up under all that hazing would die from a little roughing up.\nBut he was dead.\nNo matter how they called his name, no matter how they shook him, he didn't so much as twitch.\nHe wasn't breathing.\n\"...What do we do, Toru?\nWe're screwed.\"\nThe guys who'd beaten Akasaka along with him sounded like they were about to die themselves.\nWell, of course they did.\nThey'd killed someone.\nAnd they'd all ganged up on him to do it...{p}So, what do you think they did?\n",
+   "edit_notes": [
+    "04:2d64: EDIT - shigoki -> hazing"
+   ]
+  },
+  {
+   "id": "04:323c",
+   "op": "text",
+   "before": "As for Hatanaka and the others, they spent the rest of the camp jumpy and scared that they'd be found out.\nMaybe that was a blessing, because Hatanaka and his bunch made it through the Hell Camp.\nTurn misfortune into a blessing... is that how the saying goes?\nIt was just like that saying.{p}",
+   "en": "As for Hatanaka and the others, they spent the rest of the camp jumpy and scared that they'd be found out.\nMaybe that actually helped, because Hatanaka and his bunch made it through the Hell Camp.\nTurning misfortune into a blessing... is that how the saying goes?\nThat's exactly what happened.{p}",
+   "edit_notes": [
+    "04:323c: EDIT - repeated 'blessing' and stiff 'It was just like that saying' smoothed; proverb kept"
+   ]
+  },
+  {
+   "id": "04:3590",
+   "op": "text",
+   "before": "Hatanaka and the others were second-years now.\nThis time, it was their turn to put the first-years through the training.\nThey went at it brutally, like they were paying back everything they'd been through.\nNow that it was their turn, it really hit them how much fun dishing out the training could be.\nThe club that had been so painful until then turned rosy overnight.\nThen the annual summer camp drew near.\nBut along with it, the memory of Akasaka came back to them.{p}",
+   "en": "Hatanaka and the others were second-years now.\nThis time, it was their turn to haze the first-years.\nThey went at it brutally, like they were paying back everything they'd been through.\nNow that it was their turn, it really hit them how much fun hazing could be.\nThe club that had been so painful until then turned rosy overnight.\nThen the annual summer camp drew near.\nBut along with it, the memory of Akasaka came back to them.{p}",
+   "edit_notes": [
+    "04:3590: EDIT - shigoki -> hazing (also in 'how much fun hazing could be')",
+    "04:70fc: EDIT - same source as 04:3590 (shigoku ban); worded the same, and avoids 'hell' clashing with the Hell Camp"
+   ]
+  },
+  {
+   "id": "04:44dc",
+   "op": "text",
+   "before": "The guy didn't answer.\nHe had bright red gloves on his hands, and he came slowly, so slowly, swaying as he walked, as if his feet weren't touching the ground.\n\"...Sorry to keep you waiting.\"\nIt was a weak little voice you could barely hear.\n\"Hurry up and get in the ring.\nI'll whip you into shape myself.\"\nWith that, it was Hatanaka who climbed into the ring.\n\"...I'm in your hands.\"\nThe guy climbed into the ring, slow and stiff.\nHis body was like a skeleton's.\n\"Come on, get that damn towel off!\"{p}",
+   "en": "The guy didn't answer.\nHe had bright red gloves on his hands, and he came slowly, so slowly, swaying as he walked, as if his feet weren't touching the ground.\n\"...Sorry to keep you waiting.\"\nIt was a weak little voice you could barely hear.\n\"Hurry up and get in the ring.\nI'll whip you into shape myself.\"\nWith that, it was Hatanaka who climbed into the ring.\n\"...I'm in your hands.\"\nThe guy climbed into the ring, slow and stiff.\nHis body was like a skeleton's.\n\"Come on, get that towel off already!\"{p}",
+   "edit_notes": [
+    "04:44dc: EDIT - returns note settled: dropped added 'damn' (no expletive in source); 'already' keeps the impatience"
+   ]
+  },
+  {
+   "id": "04:4f14",
+   "op": "text",
+   "before": "\"...Go on, it's your turn.\"\nAnd he pulled the nail-filled gloves on tight onto the guy who'd just climbed into the ring.{p}",
+   "en": "\"...Go on, it's your turn.\"\nAnd he pulled the nail-filled gloves tight onto the hands of the guy who'd just climbed into the ring.{p}",
+   "edit_notes": [
+    "04:4f14: EDIT - clumsy 'pulled ... on tight onto the guy'"
+   ]
+  },
+  {
+   "id": "04:5664",
+   "op": "text",
+   "before": "In the corner of the group photo, set apart in a frame, was a picture of Akasaka.\n...So this is what he looked like.\nBut next to it was one more person, also set in a frame.\n...Toru Hatanaka.\nI see... if Shindo's story was true, Hatanaka had died too, so of course he'd be framed.{p}",
+   "en": "In the corner of the group photo, set apart in a frame, was a picture of Akasaka.\n...So this is what he looked like.\nBut next to it was one more person, also set in a frame.\n...Toru Hatanaka.\nI see... if Shindo's story was true, Hatanaka had died too, so of course he'd be in a frame too.{p}",
+   "edit_notes": [
+    "04:5664: EDIT - 'he'd be framed' reads as 'framed for a crime'"
+   ]
+  },
+  {
+   "id": "04:70fc",
+   "op": "text",
+   "before": "...And then a year went by.\nThey were second-years now.\nThis time it was their turn to put the first-years through hell.\nThe first-years that year had real rotten luck.{p}",
+   "en": "...And then a year went by.\nThey were second-years now.\nThis time it was their turn to haze the first-years.\nThe first-years that year had real rotten luck.{p}",
+   "edit_notes": [
+    "04:70fc: EDIT - same source as 04:3590 (shigoku ban); worded the same, and avoids 'hell' clashing with the Hell Camp"
+   ]
+  },
+  {
+   "id": "04:760c",
+   "op": "text",
+   "before": "They figured this time it was their turn to get payback from the first-years.\nHad somebody figured out the truth about what happened a year ago★\nBut who...?\nThis one...★\n...This one was laughing at me just now.\nOr was it that one?\nNo, that one's eyes look shifty too...\nAgh, I don't know...\nOnce those second-years started thinking like that, they couldn't stop.\nThey say just having anyone besides themselves come near scared them out of their wits.{p}",
+   "en": "They figured this time it was their turn to get payback from the first-years.\nHad somebody figured out the truth about what happened a year ago★\nBut who...?\nThis one...★\n...This one was laughing at me just now.\nOr was it that one?\nNo, that other one's eyes look shifty too...\nAgh, I don't know...\nOnce those second-years started thinking like that, they couldn't stop.\nThey say just having anyone besides themselves come near scared them out of their wits.{p}",
+   "edit_notes": [
+    "04:760c: EDIT - third suspect (soitsu) was ambiguous with the previous 'that one'"
+   ]
+  },
+  {
+   "id": "04:8478",
+   "op": "text",
+   "before": "\"Hey!\nAkasaka... Akasaka is dead☆\"\nWhen Hatanaka said that, pretending to go pale, the seniors fell for it, hook, line and sinker.\nThey started talking over how to hide Akasaka's body.\n\"How about we bury him?\"\n\"No, they'd find him the second a search started.\"\n\"Then what do we do?\"\n\"First we burn him.\nWe'll reduce him to bones so he's easier to hide.\"\nThe seniors were totally convinced it was their own fault.\n\"Once he's bones, where do we hide him?\"\n\"Let's see, the best hiding place would be... over there, wouldn't it?\"{p}",
+   "en": "\"Sir!\nAkasaka... Akasaka is dead☆\"\nWhen Hatanaka said that, pretending to go pale, the seniors fell for it, hook, line and sinker.\nThey started talking over how to hide Akasaka's body.\n\"How about we bury him?\"\n\"No, they'd find him the second a search started.\"\n\"Then what do we do?\"\n\"First we burn him.\nWe'll reduce him to bones so he's easier to hide.\"\nThe seniors were totally convinced it was their own fault.\n\"Once he's bones, where do we hide him?\"\n\"Let's see, the best hiding place would be... over there, wouldn't it?\"{p}",
+   "edit_notes": [
+    "04:8478: EDIT - returns note settled: vocative senpai -> 'Sir!' (keeps the junior's deference; same device as 04:2aa4 '...lying down, sir!')"
+   ]
+  },
+  {
+   "id": "04:8898",
+   "op": "text",
+   "before": "From the next day on, the camp's usual hazing got toned down.\nThe seniors were jumpy as hell by then.\nOn the last day of camp, they even went so far as to suggest just having some normal practice matches.\n\"That sounds great.\"\nSomebody answered under their breath.\nIt sounded like Akasaka's voice.\nBut the seniors didn't bother checking who had answered, and had the first-years start setting up for the matches.\n\"All right, we're doing practice matches.\nFirst up, Hatanaka, you.\"\nHatanaka stepped into the ring and looked at the senior who'd climbed in ahead of him. Or so he should have.{p}",
+   "en": "From the next day on, the camp's usual hazing got toned down.\nThe seniors were jumpy as hell by then.\nOn the last day of camp, they even went so far as to suggest just having some normal practice matches.\n\"That sounds great.\"\nSomebody answered under their breath.\nIt sounded like Akasaka's voice.\nBut the seniors didn't bother checking who had answered, and had the first-years start setting up for the matches.\n\"All right, we're doing practice matches.\nFirst up, Hatanaka, you.\"\nHatanaka stepped into the ring, where he should have been facing the senior who'd climbed in ahead of him.{p}",
+   "edit_notes": [
+    "04:8898: EDIT - returns note settled: awkward 'Or so he should have.' folded into the sentence; hazudatta kept"
+   ]
+  },
+  {
+   "id": "04:8e84",
+   "op": "text",
+   "before": "After that, Akasaka came back to school too.\nAkasaka, who should've been killed, burned down to bones and stuffed in a punching bag, came back a few days later.\nAnd he kept on coming to school.\nAkasaka was supposed to be dead.\nAnd yet...\nNobody except the ones who'd gone to the camp thought anything of Akasaka being there.\nBut the boxing club guys who'd been at the camp all went white as a sheet.{p}",
+   "en": "After that, Akasaka came back to school too.\nAkasaka, who'd supposedly been killed, burned down to bones and stuffed in a punching bag, came back a few days later.\nAnd he kept on coming to school.\nAkasaka was supposed to be dead.\nAnd yet...\nNobody except the ones who'd gone to the camp thought anything of Akasaka being there.\nBut the boxing club guys who'd been at the camp all went white as a sheet.{p}",
+   "edit_notes": [
+    "04:8e84: EDIT - 'who should've been killed' read as 'deserved to be killed'"
+   ]
+  },
+  {
+   "id": "04:9c90",
+   "op": "text",
+   "before": "Yeah, Hatanaka went to the place where they'd buried the body.\nAnd what does he find but the outline of a person laid out on the dirt in white rope.\n\"No way...\nDid somebody find Akasaka's body here...?\"\nHatanaka touched the dirt there with trembling hands.\n...There was no sign it had been dug up.\nThen what was this rope...?\nBehind Hatanaka, he heard something stir.\n\"Hatanaka.\nThat rope marks the spot for someone who's about to die.\nAnd that someone is... you.\nThey're going to find you lying right here.\"\nAkasaka was behind Hatanaka.\nAkasaka's ghost was riding piggyback on Hatanaka's back.\nSo even when Hatanaka turned around, he couldn't see Akasaka.\n\"Akasaka★\nWhere are you?\nWhere the hell are you★\"\nHatanaka thrashed around blindly.\nSpinning around, swinging his arms, kicking at the air...\nBut he couldn't see Akasaka anywhere, and only that voice kept ringing right in his ear.\nAnd then...{p}",
+   "en": "Yeah, Hatanaka went to the place where they'd buried the body.\nAnd what does he find but the outline of a person laid out on the dirt in white rope.\n\"No way...\nDid somebody find Akasaka's body here...?\"\nHatanaka touched the dirt there with trembling hands.\n...There was no sign it had been dug up.\nThen what was this rope...?\nHatanaka heard something stir behind him.\n\"Hatanaka.\nThat rope marks the spot for someone who's about to die.\nAnd that someone is... you.\nThey're going to find you lying right here.\"\nAkasaka was behind Hatanaka.\nAkasaka's ghost was riding piggyback on Hatanaka's back.\nSo even when Hatanaka turned around, he couldn't see Akasaka.\n\"Akasaka★\nWhere are you?\nWhere the hell are you★\"\nHatanaka thrashed around blindly.\nSpinning around, swinging his arms, kicking at the air...\nBut he couldn't see Akasaka anywhere, and only that voice kept ringing right in his ear.\nAnd then...{p}",
+   "edit_notes": [
+    "04:9c90: EDIT - dangling 'Behind Hatanaka, he heard'",
+    "04:7ac8/04:6b64/04:9c90: KEEP - 'the hell' in shocked/rough lines (ittai) left; earned by the moment and the speakers"
+   ]
+  },
+  {
+   "id": "04:a040",
+   "op": "text",
+   "before": "The next day, Hatanaka was found dead inside the white rope outline.\nThey say the moment the first-year who found him laid eyes on it, the white rope vanished like smoke.\nAnd they say a glove had been stuffed into dead Hatanaka's mouth.\nA glove as red as blood.{p}",
+   "en": "The next day, Hatanaka was found dead inside the white rope outline.\nThey say the moment the first-year who found him laid eyes on it, the white rope vanished like smoke.\nAnd they say a glove had been stuffed into the mouth of Hatanaka's corpse.\nA glove as red as blood.{p}",
+   "edit_notes": [
+    "04:a040: EDIT - awkward 'dead Hatanaka's mouth'"
+   ]
+  },
+  {
+   "id": "04:a6a4",
+   "op": "text",
+   "before": "I told the two of them we should stop, and without waiting for an answer, I tried to rush out of the club room.\nAnd then...\n\"{a}, you're going to be cursed...\"\nA voice came from behind me.\nCursed?\nMe...?\nI didn't turn around, and left the club room.{p}",
+   "en": "I told the two of them we should stop, and without waiting for an answer, I tried to rush out of the club room.\nAnd then...\n\"{a}, you're going to be cursed...\"\nA voice came from behind me.\nCursed?\nMe...?\nWithout turning around, I left the club room.{p}",
+   "edit_notes": [
+    "04:a6a4: EDIT - clumsy comma clause"
+   ]
+  },
+  {
+   "id": "04:aa60",
+   "op": "text",
+   "before": "On the back of my hand was a cut in the shape of the character for 'curse.'\nAm I next...?\nI lowered my eyes.\nAnd I pictured myself surrendering to my fate.\nThat me was smeared bright red with blood.\nBright red, smeared bright red with blood...{p}",
+   "en": "On the back of my hand was a cut in the shape of the character for 'curse.'\nAm I next...?\nI lowered my eyes.\nAnd I pictured myself surrendering to my fate.\nThe me I pictured was smeared bright red with blood.\nBright red, smeared bright red with blood...{p}",
+   "edit_notes": [
+    "04:aa60: EDIT - 'That me' unclear; tied to the pictured self"
+   ]
+  },
+  {
+   "id": "05:0e5c",
+   "op": "text",
+   "before": "Just fifty-three cards, and there are that many different ways to play.\nYou can play alone, and you can play with a big group.\nThey don't take up any space, and all you need is the cards.\nAnd you get that much fun out of them.\nGames have come a long way lately, but if you ask me, nothing beats cards.\nWhoever came up with them was a real genius.\nI seriously respect them for it.\nAnd then there's the fifty-third card.\nThat one really makes it.\nThe one they call the joker.\nThat thing makes cards so much more fun.\nJust throwing the joker in opens up a whole lot more ways to play.\nIt's a magic card, no doubt about it.\nI hear in the West they think the joker's bad luck, and I kind of get why.\nSometimes the joker saves your skin, and sometimes it's the last thing you want.\nIn short, it's an almighty card you can use any way you like.\nAnd people hate that kind of thing, the kind you can't pin down, by instinct.{p}",
+   "en": "Just fifty-three cards, and there are so many different ways to play.\nYou can play alone, and you can play with a big group.\nThey don't take up any space, and all you need is the cards.\nAnd you get so much fun out of them.\nGames have come a long way lately, but if you ask me, nothing beats cards.\nWhoever came up with them was a real genius.\nI seriously respect them for it.\nAnd then there's the fifty-third card.\nThat one really makes it.\nThe one they call the joker.\nThat thing makes cards so much more fun.\nJust throwing the joker in opens up a whole lot more ways to play.\nIt's a magic card, no doubt about it.\nI hear in the West they think the joker's bad luck, and I kind of get why.\nSometimes the joker saves your skin, and sometimes it's the last thing you want.\nIn short, it's an almighty card you can use any way you like.\nPeople hate anything they can't pin down. It's instinct.{p}",
+   "edit_notes": [
+    "05:0e5c: EDIT - 'that many ways'/'that much fun' -> 'so many'/'so much'; tangled last line 'hate that kind of thing, the kind you can't pin down, by instinct' -> two short spoken sentences"
+   ]
+  },
+  {
+   "id": "05:1e0c",
+   "op": "text",
+   "before": "\"Hey, buddy.\nShort on cash?\nI'll lend you some, real cheap.\"\n...Like that.\nWhich brings us to the cards.{p}",
+   "en": "\"Hey there.\nShort on cash?\nI'll lend you some, real cheap.\"\n...Like that.\nWhich brings us to the cards.{p}",
+   "edit_notes": [
+    "05:1e0c: EDIT - returns note settled: 'Hey, buddy' -> 'Hey there' (gender-neutral hypothetical, keeps Okura's oily-friendly pitch)"
+   ]
+  },
+  {
+   "id": "05:1e78",
+   "op": "text",
+   "before": "Okura's a huge gambling fan.\nI mean, he even stages those rigged fight shows himself.\nLife's basically one big gamble anyway, right?\nIt's funny, but watching Okura, I really believe that saying.\nAnd he's especially crazy about cards.\nSay poker or blackjack and he comes running.\nI heard him say it once.\n\"I make money so I can gamble.\"\nThat's what he said.\nBut he's bad at it.\nHopelessly bad, Okura is.\nMaybe that's why people didn't hate him yet.\nHe takes those high rates on his loans, but he's terrible at gambling.\nHe's got no luck when it counts.\nSo all the money he worked to make, he coughs right back up.\nAnd so everybody figures it's fine if he takes high interest, since they can win it right back.\nThe world works out pretty neat, huh?\n\"Money goes around and around,\" like they say. Truer words were never spoken.{p}",
+   "en": "Okura's a huge gambling fan.\nI mean, he even stages those rigged fight shows himself.\nLife's basically one big gamble anyway, right?\nIt's funny, but watching Okura, I really believe that saying.\nAnd he's especially crazy about cards.\nSay poker or blackjack and he comes running.\nI heard him say it once.\n\"I make money so I can gamble.\"\nThat's what he said.\nBut he's bad at it.\nHopelessly bad, Okura is.\nMaybe that's why nobody had come to hate him yet.\nHe takes those high rates on his loans, but he's terrible at gambling.\nHe's got no luck when it counts.\nSo all the money he worked to make, he coughs right back up.\nAnd so everybody figures it's fine if he takes high interest, since they can win it right back.\nThe world works out pretty neat, huh?\n\"Money goes around and around,\" like they say. Truer words were never spoken.{p}",
+   "edit_notes": [
+    "05:1e78: EDIT - 'people didn't hate him yet' (tense clash) -> 'nobody had come to hate him yet'"
+   ]
+  },
+  {
+   "id": "05:2338",
+   "op": "text",
+   "before": "Wow, look at you.\n{f:Calling yourself good like that,|Dunno where you gamble, but}{f: you're either really good| if you flat-out say you're good,}{f: or just full of yourself.| you must be pretty skilled.}\n...Whoa, whoa, don't get all starry-eyed,\n{a}.\nAfter hearing about Okura just now, you weren't thinking of making him your mark, were you?\nMaking a mark out of Okura is ancient history.\nHe was cute back when he was bad at gambling.\nBut then one day, all of a sudden, he got good.{p}",
+   "en": "Wow, look at you.\n{f:Calling yourself good like that,|Dunno where you gamble, but}{f: you're either really good| if you flat-out say you're good,}{f: or just full of yourself.| you must be pretty skilled.}\n...Whoa, whoa, don't get all starry-eyed,\n{a}.\nAfter hearing about Okura just now, you weren't thinking of making him your mark, were you?\nOkura being an easy mark is ancient history.\nHe was harmless enough back when he was lousy at gambling.\nBut one day, out of nowhere, he got good.{p}",
+   "edit_notes": [
+    "05:2338: EDIT - clumsy 'Making a mark out of Okura' -> 'Okura being an easy mark' (matches 85e8); last two lines aligned with identical source lines in 87dc ('harmless enough... lousy', 'out of nowhere') instead of 'cute'"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "slice": "S111",
+ "scene": "28",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S110",
+ "next": "S112",
+ "rows": [
+  {
+   "id": "28:1378",
+   "op": "text"
+  },
+  {
+   "id": "28:1428",
+   "op": "text"
+  },
+  {
+   "id": "28:16b0",
+   "op": "text"
+  },
+  {
+   "id": "28:171c",
+   "op": "text"
+  },
+  {
+   "id": "28:18c8",
+   "op": "choice"
+  },
+  {
+   "id": "28:18dc",
+   "op": "choice"
+  },
+  {
+   "id": "28:18f4",
+   "op": "text",
+   "follows_choice": [
+    "28:18c8"
+   ]
+  },
+  {
+   "id": "28:1a60",
+   "op": "text"
+  },
+  {
+   "id": "28:1d34",
+   "op": "text"
+  },
+  {
+   "id": "28:1d74",
+   "op": "text"
+  },
+  {
+   "id": "28:1db4",
+   "op": "text"
+  },
+  {
+   "id": "28:1f64",
+   "op": "text"
+  },
+  {
+   "id": "28:1fdc",
+   "op": "text"
+  },
+  {
+   "id": "28:21d0",
+   "op": "choice"
+  },
+  {
+   "id": "28:21e8",
+   "op": "choice"
+  },
+  {
+   "id": "28:2200",
+   "op": "text",
+   "follows_choice": [
+    "28:21d0"
+   ]
+  },
+  {
+   "id": "28:23b0",
+   "op": "text"
+  },
+  {
+   "id": "28:23e4",
+   "op": "text"
+  },
+  {
+   "id": "28:2498",
+   "op": "text"
+  },
+  {
+   "id": "28:2628",
+   "op": "text"
+  },
+  {
+   "id": "28:2788",
+   "op": "text"
+  },
+  {
+   "id": "28:28c8",
+   "op": "choice"
+  },
+  {
+   "id": "28:28d0",
+   "op": "choice"
+  },
+  {
+   "id": "28:28d8",
+   "op": "choice"
+  },
+  {
+   "id": "28:28e0",
+   "op": "choice"
+  },
+  {
+   "id": "28:28ec",
+   "op": "choice"
+  },
+  {
+   "id": "28:28f4",
+   "op": "text",
+   "follows_choice": [
+    "28:28d0"
+   ]
+  },
+  {
+   "id": "28:2920",
+   "op": "text"
+  },
+  {
+   "id": "28:29bc",
+   "op": "text"
+  },
+  {
+   "id": "28:2c84",
+   "op": "text"
+  },
+  {
+   "id": "28:2dac",
+   "op": "text"
+  },
+  {
+   "id": "28:2ed0",
+   "op": "text"
+  },
+  {
+   "id": "28:303c",
+   "op": "text"
+  },
+  {
+   "id": "28:32e0",
+   "op": "text"
+  },
+  {
+   "id": "28:33e8",
+   "op": "choice"
+  },
+  {
+   "id": "28:33f4",
+   "op": "choice"
+  },
+  {
+   "id": "28:3404",
+   "op": "text",
+   "follows_choice": [
+    "28:33e8"
+   ]
+  },
+  {
+   "id": "28:3438",
+   "op": "text"
+  },
+  {
+   "id": "28:358c",
+   "op": "text"
+  },
+  {
+   "id": "28:3704",
+   "op": "choice"
+  },
+  {
+   "id": "28:3724",
+   "op": "choice"
+  },
+  {
+   "id": "28:3738",
+   "op": "choice"
+  },
+  {
+   "id": "28:3764",
+   "op": "text",
+   "follows_choice": [
+    "28:3724"
+   ]
+  },
+  {
+   "id": "28:3798",
+   "op": "text"
+  },
+  {
+   "id": "28:3958",
+   "op": "text"
+  },
+  {
+   "id": "28:3978",
+   "op": "text"
+  },
+  {
+   "id": "28:39e0",
+   "op": "text"
+  },
+  {
+   "id": "28:3b8c",
+   "op": "text"
+  },
+  {
+   "id": "28:3c0c",
+   "op": "text"
+  },
+  {
+   "id": "28:3d7c",
+   "op": "text"
+  },
+  {
+   "id": "28:3de0",
+   "op": "choice"
+  },
+  {
+   "id": "28:3dfc",
+   "op": "choice"
+  },
+  {
+   "id": "28:3e0c",
+   "op": "choice"
+  },
+  {
+   "id": "28:3e1c",
+   "op": "text",
+   "follows_choice": [
+    "28:3e0c"
+   ]
+  },
+  {
+   "id": "28:3e50",
+   "op": "text"
+  },
+  {
+   "id": "28:3ecc",
+   "op": "text"
+  },
+  {
+   "id": "28:3f38",
+   "op": "text"
+  },
+  {
+   "id": "28:400c",
+   "op": "text"
+  },
+  {
+   "id": "28:4100",
+   "op": "text"
+  },
+  {
+   "id": "28:4180",
+   "op": "text"
+  },
+  {
+   "id": "28:4230",
+   "op": "text"
+  },
+  {
+   "id": "28:4594",
+   "op": "text"
+  },
+  {
+   "id": "28:475c",
+   "op": "text"
+  },
+  {
+   "id": "28:47b8",
+   "op": "text"
+  },
+  {
+   "id": "28:487c",
+   "op": "text"
+  },
+  {
+   "id": "28:4a1c",
+   "op": "text"
+  },
+  {
+   "id": "28:4a48",
+   "op": "text"
+  },
+  {
+   "id": "28:4b34",
+   "op": "text"
+  },
+  {
+   "id": "28:4d80",
+   "op": "text"
+  },
+  {
+   "id": "28:4df4",
+   "op": "text"
+  },
+  {
+   "id": "28:4efc",
+   "op": "text"
+  },
+  {
+   "id": "28:4f7c",
+   "op": "text"
+  },
+  {
+   "id": "28:4ffc",
+   "op": "text"
+  },
+  {
+   "id": "28:517c",
+   "op": "text"
+  },
+  {
+   "id": "28:5284",
+   "op": "text"
+  },
+  {
+   "id": "28:5388",
+   "op": "text"
+  },
+  {
+   "id": "28:53b4",
+   "op": "text"
+  },
+  {
+   "id": "28:5438",
+   "op": "choice"
+  }
+ ]
+}

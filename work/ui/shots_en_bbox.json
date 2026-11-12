@@ -1,0 +1,139 @@
+{
+ "_note": "screen_bbox = bounding box (320x240 screen px) of white pixels in a search area around each string; approximate, may include the white box frame. Labeled copies: work/ui/shots/*_labels.png (2x).",
+ "ui_title_menu_en.png": [
+  {
+   "id": "ui062",
+   "en": "New Game",
+   "screen_bbox": [
+    113,
+    80,
+    207,
+    98
+   ]
+  },
+  {
+   "id": "ui061",
+   "en": "Continue",
+   "screen_bbox": [
+    113,
+    99,
+    207,
+    118
+   ]
+  },
+  {
+   "id": "ui060",
+   "en": "Delete Notes",
+   "screen_bbox": [
+    113,
+    119,
+    207,
+    138
+   ]
+  },
+  {
+   "id": "ui059",
+   "en": "Copy Notes",
+   "screen_bbox": [
+    113,
+    139,
+    207,
+    160
+   ]
+  }
+ ],
+ "ui_load_en.png": [
+  {
+   "id": "ui072",
+   "en": "Load which notes?",
+   "screen_bbox": [
+    97,
+    24,
+    224,
+    46
+   ]
+  },
+  {
+   "id": "ui074",
+   "en": "Notes 1",
+   "screen_bbox": [
+    33,
+    52,
+    92,
+    72
+   ]
+  },
+  {
+   "id": "ui075",
+   "en": "Notes 2",
+   "screen_bbox": [
+    33,
+    72,
+    92,
+    92
+   ]
+  },
+  {
+   "id": "ui076",
+   "en": "Notes 3",
+   "screen_bbox": [
+    33,
+    92,
+    92,
+    112
+   ]
+  },
+  {
+   "id": "ui077",
+   "en": "Notes 4",
+   "screen_bbox": [
+    33,
+    112,
+    92,
+    134
+   ]
+  }
+ ],
+ "ui_teller_en.png": [
+  {
+   "id": "ui111",
+   "en": "Story 1",
+   "screen_bbox": [
+    154,
+    27,
+    195,
+    39
+   ]
+  },
+  {
+   "id": "ui006",
+   "en": "Fukuzawa (bar)",
+   "screen_bbox": [
+    218,
+    26,
+    278,
+    36
+   ]
+  },
+  {
+   "id": "ui006",
+   "en": "Fukuzawa (plate)",
+   "screen_bbox": [
+    22,
+    134,
+    82,
+    144
+   ]
+  },
+  {
+   "id": "ui078",
+   "en": "Whose story will you hear?",
+   "screen_bbox": [
+    140,
+    146,
+    310,
+    159
+   ]
+  }
+ ]
+}

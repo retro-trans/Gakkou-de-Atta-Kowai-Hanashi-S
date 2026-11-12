@@ -1,0 +1,18 @@
+{
+ "rows": {
+  "07:105a4": "One Hundred Days in Human Life and Death",
+  "07:105d8": "Trends of Human Life and Death Over a Hundred-Day Period",
+  "07:105f4": "Trends in Human Life and Death Over One Hundred Days",
+  "07:10614": "Trends in Human Life and Death Over a Hundred-Day Period",
+  "07:10638": "\"Trends in Human Life and Death Over One Hundred Days!\"\nI shouted the report's title at Fukuzawa as she lunged at me.\nSuddenly, Fukuzawa froze.{p}",
+  "07:114b8": "\"............Don't be stupid. I'd sooner die.\"\n\"...I see. That's a shame.\nI thought you'd make a good partner.\nI've disposed of all the traitors.\nKazama, Shindo, Hosoda too. There's no one left.\nAnd I'm graduating soon.\nI thought you could take over after me and make a fine club president.\nWell? Won't you reconsider?\"\n\"No way.\"\n\"So stubborn. Well, it can't be helped. Then I'll give up on you.\nThe Murder Club ends with me.\"{p}"
+ },
+ "notes": [
+  "07:105f4: TODO - the correct title now matches S021 07:8434 exactly ('Trends in Human Life and Death Over One Hundred Days'); if S021's review changes that line, change 07:105f4 and 07:10638 to match.",
+  "07:10638: FIX consistency - shouted title set to the S021 rendering, same as the correct choice 07:105f4.",
+  "07:114b8: FIX dots - source opening silence is 8 ellipsis chars; set to 12 dots (2 chars = 3 dots), English had 10.",
+  "07:fc08: TODO - restroom wording: every row in this slice already says 'restroom' (no 'bathroom' left); nothing to change.",
+  "07:fedc: RETURN - menu prompts in this slice use 'Where should I go/search?' while S024 07:fb54/fb70 use 'Where will you go?' / 'Which one will you search?'; pick one form.",
+  "07:1096c: KEPT OMISSION - speaker of 'Look out!' is unmarked; context implies the player, left without a tag as in the source."
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "rows": {
+  "07:e304": "I snatched up a shard of the glass that had shattered when I broke the cabinet.\n\"Ow!\"\nIn my hurry, I'd cut my hand.\nBut I couldn't worry about that right now.\n\"Yaaah!\"\nI thrust the glass shard in my hand at him in a frenzy.{p}",
+  "07:e3fc": "\"Owww!\"\nThe glass shard sliced Hosoda's ear clean off.\n\"It hurts! It hurts! My ear, my ear!\"\nHosoda clutched his left ear, tumbling and rolling on the floor.\nHosoda's left ear lay at my feet.{p}What should I do?\n",
+  "07:e520": "I kicked Hosoda hard in the side as he rolled around.\n\"Gaahk!\"\nDisgustingly, Hosoda threw up his half-digested food.\nThen I grabbed Hosoda by the hair and yanked his face up as hard as I could.\n\"How many people have you killed so far, you bastard?! You murderer!\nAnd yet the moment you get hurt yourself, you start crying.\nCry any more and I'll slice off your other ear too!\"\nI was burning with a rage I couldn't put into words.\nWhenever I thought of how this guy had killed so many innocent people, I was so angry I couldn't stand it.\nMaybe my threat had worked; Hosoda curled up his huge body and began to shake.\nAt least he seemed to have stopped crying.\nHe was desperately sniffling back his snot, trying not to cry.{p}What should I do?\n",
+  "07:e874": "\"Cry all you want, they'll still kill you.\nI just saw Kazama dead. Hino killed him.\nI tied up Shindo, but he's probably dead by now, isn't he?\n...And Arai and Iwashita are dead too.\nDo you want to die too?\"\nMy words must have been a huge shock to him.\nAfter that, Hosoda started blabbing away, even about things I hadn't asked.{p}",
+  "07:ecc4": "What is this guy even saying?\nHe wants me to join the Murder Club?\n...But if I did, I'd be saved.{p}",
+  "07:edac": "Ask to join the Murder Club",
+  "07:f1c8": "I had to hurry.\n...But was there anywhere I needed to go first?{p}Where should I go?\n",
+  "07:f474": "The old school building had three floors.{p}Where should I go?\n",
+  "07:f54c": "The hallway floor looked like it could give way any second.\nBut I couldn't let that stop me.\nEven in the old school building, there were seven classrooms on each floor.{p}Which classroom should I go to?\n",
+  "07:fb70": "I decided to go to the first-floor restroom.\nThere was a boys' restroom and a girls' restroom.{p}Which one should I search?\n",
+  "07:fef8": "I decided to go to the third-floor restrooms.\nThere was a boys' restroom and a girls' restroom.{p}Which one should I search?\n",
+  "07:10244": "It was an ampoule filled with a yellow liquid.\nI found it!\nThere it is!\nI finally found it!\nI reached out for it.{p}",
+  "07:10e20": "I took deep breath after deep breath, then checked my watch again.\nThe appointed time had already passed.\n...I was alive.\nI was saved!\nTears spilled down my cheeks on their own.\nSo this was how wonderful it was to be alive.\nFor the first time in my life, I savored the joy of being alive.\n...Thank goodness.\nI let out another sigh.{p}What should I do?\nWait here until morning?\nOr go home?\n",
+  "07:11a84": "Then Hino charged at me, swinging the knife.\nThere was only one path left to me...{p}What should I do?\n",
+  "07:11d1c": "The next moment, a look of dismay spread across Hino's face.\nFor Hino, this was something that should never have happened.\n\"You bastard... You tricked me.\"\n\"What's wrong, Hino? You've gone deathly pale.\"\nWith my left hand, I gripped Hino's hand, knife and all, where it was thrust into my stomach.\nAnd with my right, I fumbled the screwdriver out of my pocket.{p}There wasn't a moment to lose.\nWhat should I do?\n"
+ },
+ "notes": [
+  "07:fb54/07:fedc: KEEP - returns note: already 'Where should I go?', the fixed form",
+  "07:edac: EDIT - returns note: choice addressed to 'you' -> 'Ask to join the Murder Club' (no pronoun; matches 'Ask about...'/'Say I'll join the Murder Club' choices)",
+  "07:e874: EDIT - flat 'You'll get killed even if you cry.' -> 'Cry all you want, they'll still kill you.' (blunt threat voice)"
+ ]
+}

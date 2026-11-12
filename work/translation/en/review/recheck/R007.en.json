@@ -1,0 +1,1055 @@
+{
+ "unit": "R007",
+ "scenes": [
+  "30",
+  "31",
+  "32",
+  "33",
+  "34",
+  "35"
+ ],
+ "todo": [],
+ "rows": [
+  {
+   "id": "30:64e4",
+   "op": "text",
+   "before": "Why would you have to turn her down?\nShe was so very sweet and modest.\nSo {a} was overjoyed to be confessed to.\nAnd he decided to go out with her.\nListen.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}",
+   "en": "Why would you have to turn her down?\nShe was so very sweet and modest.\nSo {a} was overjoyed when she confessed to him.\nAnd he decided to go out with her.\nListen.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}",
+   "edit_notes": [
+    "30:64e4: EDIT - 'overjoyed to be confessed to' -> 'overjoyed when she confessed to him'"
+   ]
+  },
+  {
+   "id": "30:69cc",
+   "op": "text",
+   "before": "I see...\nI had a favor to ask of you, kind as you are...\nThere was something I wanted you to promise me.\nI wanted you to lift the curse I'm about to tell you about.\nBut you're someone who can't take other people's advice, aren't you?{p}",
+   "en": "I see...\nI had a favor to ask of you, kind as you are...\nThere was something I wanted you to promise me.\nI wanted you to break the curse I'm about to tell you about.\nBut you're someone who can't take other people's advice, aren't you?{p}",
+   "edit_notes": [
+    "30:5084/6360/6888: VOICE - this chunk says 'break the curse'; next chunk 30:69cc (echo of 6888) says 'lift the curse'; one wording should be chosen across E060/E061 (left 'break' here)",
+    "30:69cc: EDIT - 'lift the curse' -> 'break the curse' to match the parallel branch line 30:6888 in E060"
+   ]
+  },
+  {
+   "id": "30:6ff0",
+   "op": "text",
+   "before": "He decided to just keep going.\nConsidering how far he had already walked, going forward should get him home sooner than turning back.\nStifling the bad feeling spreading deep in his chest, he kept walking.\n............He heard something.\nHe froze, startled, and stopped in his tracks.{p}",
+   "en": "He decided to just keep going.\nConsidering how far he had already walked, going forward should get him home sooner than turning back.\nStifling the bad feeling spreading deep in his chest, he kept walking.\n............He heard something.\nStartled, he froze in his tracks.{p}",
+   "edit_notes": [
+    "30:6ff0: EDIT - redundant 'froze, startled, and stopped in his tracks' -> 'Startled, he froze in his tracks.'"
+   ]
+  },
+  {
+   "id": "30:70dc",
+   "op": "text",
+   "before": "He listened hard..................\nHe heard nothing.\nHe was so scared that he must have been hearing things.{p}",
+   "en": "He listened hard..................\nHe heard nothing.\nHe must have been hearing things because he was so scared.{p}",
+   "edit_notes": [
+    "30:70dc: EDIT - 'He was so scared that he must have been hearing things' read as if fear were the deduction; reordered so the cause is clear"
+   ]
+  },
+  {
+   "id": "30:75f0",
+   "op": "text",
+   "before": "That very moment.\nShe turned around, and when he saw her, he was so shocked his breath stopped.{p}",
+   "en": "At that very moment.\nShe turned around, and when he saw her, he was so shocked his breath stopped.{p}",
+   "edit_notes": [
+    "30:75f0: EDIT - stray fragment 'That very moment.' -> 'At that very moment.'"
+   ]
+  },
+  {
+   "id": "30:9dbc",
+   "op": "text",
+   "before": "Well?\nDoes it hurt?\nIt must hurt.\nShe means to kill you, after all.\nListen.\nYou can hear it, can't you?\nHer voice.\nIs it agony?\nCan't you breathe?{p}",
+   "en": "Well?\nDoes it hurt?\nIt must hurt.\nShe means to kill you, after all.\nListen.\nYou can hear it, can't you?\nHer voice.\nAre you suffering?\nCan't you breathe?{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "30:a408",
+   "op": "text",
+   "before": "Just keep going forward.\nShe came after you.\nFrom behind you came a strange voice, like the chirring of insects.\nA shrill voice, like metal grinding against metal.\nIt was her scream.\nYou ran for your life.\nYou tried to get away from her.\nBut her screaming didn't stop.\nShe's coming after you.\nShe's coming after you.\nShe's coming after you.\n.........................................................................................................................................................She's coming after you...\nThis hallway goes on forever.\nNo matter how far you run, you can't escape.\nYou can't hide, either.\nYou can't catch a ride, either.\nThere's nothing but the hallway.\nThere's nowhere to run.\nHeh heh...\nShe chased you.\nOn and on.\nOn and on.\nOn and on.\nEven though a moment ago she said her leg hurt.\nNo matter how fast you run, she keeps coming.\nYou can hear her scream...\nRight in your ear.\nHot breath blows on you.\nBlows on the nape of your neck.{p}",
+   "en": "Forward, no matter what.\nShe came after you.\nFrom behind you came a strange voice, like the chirring of insects.\nA shrill voice, like metal grinding against metal.\nIt was her scream.\nYou ran for your life.\nYou tried to get away from her.\nBut her screaming didn't stop.\nShe's coming after you.\nShe's coming after you.\nShe's coming after you.\n.........................................................................................................................................................She's coming after you...\nThis hallway goes on forever.\nNo matter how far you run, you can't escape.\nYou can't hide, either.\nYou can't catch a ride, either.\nThere's nothing but the hallway.\nThere's nowhere to run.\nHeh heh...\nShe chased you.\nOn and on.\nOn and on.\nOn and on.\nEven though a moment ago she said her leg hurt.\nNo matter how fast you run, she keeps coming.\nYou can hear her scream...\nRight in your ear.\nHot breath blows on you.\nBlows on the nape of your neck.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "31:0c90",
+   "op": "choice",
+   "before": "I don't like them",
+   "en": "I dislike them",
+   "edit_notes": [
+    "31:0c90: EDIT - same source as echo 31:41e0 'I dislike them'; unified (follow-ups say 'dislike')"
+   ]
+  },
+  {
+   "id": "31:0f34",
+   "op": "text",
+   "before": "Paintings are alive, you know.\nIf you pour your whole heart and soul into the painting you're working on, a soul will always find its way into it.\n...Whatever kind of painting it may be.\nEven in this world, you know, there are many paintings full of resentment still left behind.\nThough they're rarely put on show in museums and the like.\nPeople who paint often don't live comfortably, do they?\nThe artistic temperament, I suppose you'd call it.\nIt's different if they paint for a living, but people who paint what they like, the way they like, often can't make ends meet, I hear.\nOf course, it's the path they chose, and they do it because they love it, so no one can complain.\nBut you see, among them are some whose discontent turns into resentment, and who hurl those feelings onto the canvas.\nEven after that person dies, a painting possessed by their grudge remains forever.\nIn an attic studio in some abandoned house, the grudge of a painter no one ever recognized waits, aimlessly, silently, though no one will ever come.{p}",
+   "en": "Paintings are alive, you know.\nIf you pour your whole heart and soul into the painting you're working on, a soul will always find its way into it.\n...Whatever kind of painting it may be.\nThere are many paintings full of resentment still left in this world, you know.\nThough they're rarely put on show in museums and the like.\nPeople who paint often don't live comfortably, do they?\nThe artistic temperament, I suppose you'd call it.\nIt's different if they paint for a living, but people who paint what they like, the way they like, often can't make ends meet, I hear.\nOf course, it's the path they chose, and they do it because they love it, so no one can complain.\nBut you see, among them are some whose discontent turns into resentment, and who hurl those feelings onto the canvas.\nEven after that person dies, a painting possessed by their grudge remains forever.\nIn an attic studio in some abandoned house, the grudge of a painter no one ever recognized waits, aimlessly, silently, though no one will ever come.{p}",
+   "edit_notes": [
+    "31:0f34: EDIT - unclear 'Even in this world... left behind' -> plain statement"
+   ]
+  },
+  {
+   "id": "31:1258",
+   "op": "text",
+   "before": "Heh heh... imagining things like that is delightful.\nWhat I'm going to tell you now is the story of a single painting...\nIf you like paintings, why didn't you join the art club?\nIf you'd joined the art club, you'd have encountered so many lovely paintings.\nOur school's art club is quite famous, you know.\nMasumura, our art teacher, has been selected at well-known competitions many times, and often holds solo exhibitions.\nThey say several of the art club's graduates are already making a living as professionals.\nYou've at least heard the name Takaaki Komatsuzawa, that illustrator who's been in the news so often lately, haven't you?\nApparently that illustrator is one of our graduates too.{p}",
+   "en": "Heh heh... imagining things like that is delightful.\nWhat I'm going to tell you now is the story of a single painting...\nIf you like paintings, why didn't you join the art club?\nIf you'd joined the art club, you'd have encountered so many lovely paintings.\nOur school's art club is quite famous, you know.\nMasumura, our art teacher, has had work accepted at well-known competitions many times, and often holds solo exhibitions.\nThey say several of the art club's graduates are already making a living as professionals.\nYou've at least heard the name Takaaki Komatsuzawa, that illustrator who's been in the news so often lately, haven't you?\nApparently that illustrator is one of our graduates too.{p}",
+   "edit_notes": [
+    "31:1258: EDIT - 'selected at competitions' clumsy",
+    "31:1258: KEEP - returns note on Iwashita's laugh: chunk already uses 'Heh heh' (1258 18b0 1940 1c60 1dc4 2f64; 'Heh heh heh' 294c) per terms_live S119/S127; nothing to unify"
+   ]
+  },
+  {
+   "id": "31:15d8",
+   "op": "text",
+   "before": "You know that a number of paintings by art club members hang in the art room, don't you?\nMost of what's on display now is the work of current members, but there are also works by seniors who won all sorts of prizes.\nBut those are only a small part.\nJust a handful of works, chosen from more paintings than anyone could count.\nDo you know what becomes of the works that aren't chosen?\nThe members take most of them home, but not all of them.\nWorks that seem forgotten even by the ones who made them.\nThose are piled up in a corner of the art club's room, gathering dust.\nIt's a pitiful thing.\nWhen paintings are alive too.\nAmong them, you see, there is just one painting that its creator loved, and yet it still had to meet that miserable fate.\nWhy, you ask?{p}",
+   "en": "You know that a number of paintings by art club members hang in the art room, don't you?\nMost of what's on display now is the work of current members, but there are also works by seniors who won all sorts of prizes.\nBut those are only a small part.\nJust a handful of works, chosen from more paintings than anyone could count.\nDo you know what becomes of the works that aren't chosen?\nThe members take most of them home, but not all of them.\nWorks that seem forgotten even by the ones who made them.\nThose are piled up in a corner of the art club's room, gathering dust.\nIt's a pitiful thing.\nAnd paintings are alive, too.\nAmong them, you see, there is just one painting that its creator loved, and yet it still had to meet that miserable fate.\nWhy, you ask?{p}",
+   "edit_notes": [
+    "31:15d8: EDIT - dangling fragment 'When paintings are alive too.'"
+   ]
+  },
+  {
+   "id": "31:1b3c",
+   "op": "text",
+   "before": "There, it's among those canvases piled up over there.\n...Yes, that third oil painting.\nTake it out.\nHandle it with care.{p}",
+   "en": "There, it's among those canvases piled up over there.\n...Yes, the third one, that oil painting.\nTake it out.\nHandle it with care.{p}",
+   "edit_notes": [
+    "31:1b3c: EDIT - 'that third oil painting' awkward"
+   ]
+  },
+  {
+   "id": "31:1f70",
+   "op": "text",
+   "before": "I'm sorry, everyone.\nIt seems I dragged you all along on my selfish whim.{p}{a}{f:|}, are you angry?\n",
+   "en": "I'm sorry, everyone.\nI'm afraid I dragged you all along on a selfish whim of mine.{p}{a}{f:|}, are you angry?\n",
+   "edit_notes": [
+    "31:1f70: EDIT - stiff 'It seems I dragged you'"
+   ]
+  },
+  {
+   "id": "31:26c4",
+   "op": "text",
+   "before": "When people looked with that in mind, the painting really had changed from how it was at first.\nThe talk was that someone must be secretly working on the painting when no one was around.\nBut even when the art room was locked, the painting had always been worked on.\nSo everyone whispered about it.\nHer ghost must be coming out to paint it, they said.\nAnd then one of the art club members who'd been close to Shimizu tried to find out for sure.{p}",
+   "en": "When people looked with that in mind, the painting really had changed from how it was at first.\nThe talk was that someone must be secretly working on the painting when no one was around.\nBut even when they locked the art room, more had always been done to the painting.\nSo everyone whispered about it.\nHer ghost must be coming out to paint it, they said.\nAnd then one of the art club members who'd been close to Shimizu tried to find out for sure.{p}",
+   "edit_notes": [
+    "31:26c4: EDIT - clarity of the locked-room point"
+   ]
+  },
+  {
+   "id": "31:2c24",
+   "op": "text",
+   "before": "In the end, they called in a Buddhist priest to hold a memorial service.\n...But it was no use.\nPerhaps her spirit's attachment was stronger.\nNo matter how many services they held, the painting kept coming back to the art room.\nSo, with nothing more they could do, they decided to leave it alone.\nIt wasn't doing any harm, after all.\nFor the time being, if finishing the painting would satisfy her, they decided to watch over it warmly.\nThe painting came closer to completion, little by little, every day.\nSo slightly you could hardly tell the difference.\nAnd then the painting was finished.{p}",
+   "en": "In the end, they called in a Buddhist priest to hold a memorial service.\n...But it was no use.\nPerhaps her spirit's attachment was stronger.\nNo matter how many services they held, the painting kept coming back to the art room.\nSo, with nothing more they could do, they decided to leave it alone.\nIt wasn't doing any harm, after all.\nIf finishing the painting would satisfy her, they decided, for the time being, to watch over it kindly.\nThe painting came closer to completion, little by little, every day.\nSo slightly you could hardly tell the difference.\nAnd then the painting was finished.{p}",
+   "edit_notes": [
+    "31:2c24: EDIT - clumsy order and 'watch over it warmly'"
+   ]
+  },
+  {
+   "id": "31:2fac",
+   "op": "text",
+   "before": "The painting, you see, had been left at the place where she was killed.\nThe person who found it was shocked.\nThe painting had changed beyond recognition.\nThe beautiful portrait was twisted in agony and deathly pale.\nBlood dripped from the mouth, and the eyes bulged so far they looked about to fall out.\nThat face was Shimizu's face at the moment she was killed.\nAt some point, the face painted in the portrait had changed.\nThe finished painting had been beautiful, but now it was a horrible sight.\nIt seemed to resent that the killer had never been caught, as if it were trying to tell someone something.{p}",
+   "en": "The painting, you see, had been left at the place where she was killed.\nThe person who found it was shocked.\nThe painting had changed beyond recognition.\nThe beautiful face in the portrait was twisted in agony and deathly pale.\nBlood dripped from the mouth, and the eyes bulged so far they looked about to fall out.\nThat face was Shimizu's face at the moment she was killed.\nAt some point, the face painted in the portrait had changed.\nThe finished painting had been beautiful, but now it was a horrible sight.\nIt seemed to resent that the killer had never been caught, as if it were trying to tell someone something.{p}",
+   "edit_notes": [
+    "31:2fac: EDIT - a portrait is not 'twisted in agony'; the face is (next line: 'That face')"
+   ]
+  },
+  {
+   "id": "31:31bc",
+   "op": "text",
+   "before": "Once it was taken back and hung in the art room, it returned to the original portrait.\nStrange, isn't it?\nAfter that, nothing else happened.{p}",
+   "en": "Once it was taken back and hung in the art room, it changed back into the portrait it had been.\nStrange, isn't it?\nAfter that, nothing else happened.{p}",
+   "edit_notes": [
+    "31:31bc: EDIT - clumsy 'returned to the original portrait'"
+   ]
+  },
+  {
+   "id": "31:3474",
+   "op": "text",
+   "before": "I see.\nI'm so glad to hear you say that.\nI believed you, of all people, would surely say so.{p}",
+   "en": "I see.\nI'm so glad to hear you say that.\nI was sure that you, of all people, would say so.{p}",
+   "edit_notes": [
+    "31:3474: EDIT - stiff 'I believed you... would surely say so'"
+   ]
+  },
+  {
+   "id": "31:40d8",
+   "op": "text",
+   "before": "What a wishy-washy person you are.\nCan't you even decide cleanly whether you like something or not?{p}You're indecisive, aren't you?\n",
+   "en": "What a wishy-washy person you are.\nCan't you even say clearly whether you like something or not?{p}You're indecisive, aren't you?\n",
+   "edit_notes": [
+    "31:40d8: EDIT - clumsy 'decide cleanly'"
+   ]
+  },
+  {
+   "id": "31:49e4",
+   "op": "text",
+   "before": "Oh, is that so.\nAfter I've gone this far for you.\nI don't want to talk to you anymore.",
+   "en": "Oh, is that so.\nAnd after I went to the trouble of saying all that for you.\nI don't want to talk to you anymore.",
+   "edit_notes": [
+    "31:49e4: EDIT - fragment unclear; source is 'after I've said this much for you'"
+   ]
+  },
+  {
+   "id": "31:52c4",
+   "op": "text",
+   "before": "\"Be careful......\"\nShe giggled softly.\nA chill ran down my spine.\nDid she know something?\nSuddenly the thought of being left alone in this room frightened me.\n\"W... Wait!\"\nI hurriedly stood up.\n\"I'll come after all.\"\n\"I see......\"\nIwashita, who had been about to close the door, gave me a broad smile.\n\"A wise choice.\"{p}",
+   "en": "\"Be careful......\"\nShe gave a soft little laugh.\nA chill ran down my spine.\nDid she know something?\nSuddenly the thought of being left alone in this room frightened me.\n\"W... Wait!\"\nI hurriedly stood up.\n\"I'll come after all.\"\n\"I see......\"\nIwashita, who had been about to close the door, gave me a broad smile.\n\"A wise choice.\"{p}",
+   "edit_notes": [
+    "31:52c4: EDIT - 'giggled' too girly for Iwashita (brief: poised, never girly)"
+   ]
+  },
+  {
+   "id": "31:54bc",
+   "op": "choice",
+   "before": "It's fine to hang it up",
+   "en": "It's fine to hang it",
+   "edit_notes": [
+    "31:54bc: EDIT - same source as 31:1da0; echo worded identically"
+   ]
+  },
+  {
+   "id": "31:54cc",
+   "op": "choice",
+   "before": "We mustn't hang it up",
+   "en": "We shouldn't hang it",
+   "edit_notes": [
+    "31:54cc: EDIT - same source as 31:1db0; echo worded identically"
+   ]
+  },
+  {
+   "id": "31:56e0",
+   "op": "text",
+   "before": "......Oh, {a}{f:|}, you look pale.\nCould it be... you're scared?\nHow hopeless. {f:And you call yourself a boy|You can't be like that}.\nThis is no more than the beginning.\nThe truly frightening part is still to come.\n......Hm? You're asking if I know something?\nHeh heh, who can say?{p}",
+   "en": "......Oh, {a}{f:|}, you look pale.\nCould it be... you're scared?\nHow hopeless. {f:And you call yourself a boy|That won't do at all}.\nThis is no more than the beginning.\nThe truly frightening part is still to come.\n......Hm? You're asking if I know something?\nHeh heh, who can say?{p}",
+   "edit_notes": [
+    "31:56e0: EDIT - female side 'You can't be like that' unnatural; source 'not like that' = that won't do"
+   ]
+  },
+  {
+   "id": "31:5e4c",
+   "op": "text",
+   "before": "Into that silence, as if the very air had frozen, someone's sudden scream broke.{p}",
+   "en": "In a silence so deep the very air seemed frozen, someone suddenly screamed.{p}",
+   "edit_notes": [
+    "31:5e4c: EDIT - returns note: stiff word order",
+    "31:5e4c: EDIT - returns note settled by rewording (see above)"
+   ]
+  },
+  {
+   "id": "31:605c",
+   "op": "text",
+   "before": "But...... sometimes, they say, strange sounds can be heard coming from that painting.\nA roaring whoosh, like something burning, and mixed in with it a voice, as if someone were crying, or laughing.\nIs that the voice of the teacher who burned?\nOr is it her, rejoicing that she finished her painting?{p}",
+   "en": "But...... sometimes, they say, strange sounds can be heard coming from that painting.\nA roaring whoosh, like something burning, and mixed in with it a voice, as if someone were crying, or laughing.\nIs that the voice of the teacher who burned to death?\nOr is it her, rejoicing that she finished her painting?{p}",
+   "edit_notes": [
+    "31:605c: EDIT - 'the teacher who burned' ambiguous (the teacher set the fire)"
+   ]
+  },
+  {
+   "id": "31:7150",
+   "op": "text",
+   "before": "In the middle of the night one day, her house caught fire.\nHer family escaped unharmed, but the house burned to the ground.\nNaturally, the painting that had been on her bed burned with it.\nThe Shimizus, burned out of their home, moved away, saying they would go to stay with relatives.{p}",
+   "en": "Late one night, her house caught fire.\nHer family escaped unharmed, but the house burned to the ground.\nNaturally, the painting that had been on her bed burned with it.\nThe Shimizus, burned out of their home, moved away, saying they would go to stay with relatives.{p}",
+   "edit_notes": [
+    "31:7150: EDIT - clumsy 'In the middle of the night one day' -> 'Late one night'"
+   ]
+  },
+  {
+   "id": "31:7430",
+   "op": "text",
+   "before": "Instead, a rumor started that it would begin sobbing late at night.\nShe must have been lonely, I'm sure.\nBut everyone was so frightened of it that in the end they took the painting down.",
+   "en": "Instead, a rumor started that it would begin sobbing late at night.\nI'm sure she was lonely.\nBut everyone was so frightened of it that in the end they took the painting down.",
+   "edit_notes": [
+    "31:7430: EDIT - redundant 'must have been lonely, I'm sure' -> 'I'm sure she was lonely'"
+   ]
+  },
+  {
+   "id": "31:7b7c",
+   "op": "text",
+   "before": "One day, her painting, which should have been in the art room, suddenly vanished.\nEveryone searched, but they couldn't find it, so they decided to ask the relative, just in case.{p}",
+   "en": "One day, her painting, which should have been in the art room, suddenly vanished.\nEveryone searched, but they couldn't find it, so they decided to ask the uncle, just in case.{p}",
+   "edit_notes": [
+    "31:7b7c: EDIT - 'the relative' read as a new person; the uncle was just introduced as the relative who moved in -> 'the uncle'"
+   ]
+  },
+  {
+   "id": "31:876c",
+   "op": "text",
+   "before": "...Oh my, you look rather angry.\nIs it because I invited you to the art room, where that painting is, without telling you any of this?\nHeh heh... Aren't you getting scared now, a little too late?\nWell then, I'll end my story here.\nWho's next?{p}",
+   "en": "...Oh my, you look rather angry.\nIs it because I invited you to the art room, where that painting is, without telling you any of this?\nHeh heh... Don't tell me you're only now getting scared?\nWell then, I'll end my story here.\nWho's next?{p}",
+   "edit_notes": [
+    "31:876c: EDIT - awkward 'Aren't you getting scared now, a little too late?' -> natural teasing 'Don't tell me you're only now getting scared?' (imasara)"
+   ]
+  },
+  {
+   "id": "31:8ea0",
+   "op": "text",
+   "before": "But {f:I|I} held firm.\nShe was putting on that knowing act on purpose{f:.|.}\nShe thought it would make {f:me|me} scared.\n{f:I wasn't going to fall for a trick like that.|I wasn't going to fall for a trick like that.}\nIwashita, who had been closing the door, gave me a sweet smile.\n\"You're more of a fool than I thought.\"{p}",
+   "en": "But {f:I|I} held firm.\nShe was putting on that knowing act on purpose{f:.|.}\nShe thought it would make {f:me|me} scared.\n{f:I wasn't going to fall for a trick like that.|I wasn't going to fall for a trick like that.}\nAs she was closing the door, Iwashita gave me a sweet smile.\n\"You're more of a fool than I thought.\"{p}",
+   "edit_notes": [
+    "31:8ea0: EDIT - stiff 'Iwashita, who had been closing the door' -> 'As she was closing the door, Iwashita...'"
+   ]
+  },
+  {
+   "id": "31:8fc0",
+   "op": "text",
+   "before": "The door closed.\nAlone now, the club room, which should have been cramped, felt strangely vast.\nIt seemed as if something might be lurking in the dim corners of the room, and {f:I|I} couldn't help glancing all around.",
+   "en": "The door closed.\nNow that I was alone, the club room, which should have felt cramped, seemed strangely vast.\nIt seemed as if something might be lurking in the dim corners of the room, and {f:I|I} couldn't help glancing all around.",
+   "edit_notes": [
+    "31:8fc0: EDIT - dangling 'Alone now, the club room...' -> 'Now that I was alone, the club room, which should have felt cramped, seemed strangely vast'"
+   ]
+  },
+  {
+   "id": "31:9488",
+   "op": "text",
+   "before": "To me it's just an ordinary painting, but I wonder what it looks like to you.\nMaybe you're seeing the face she had when she was killed.\nIf so, {a}{f:|}, you might just be the fifth one, don't you think?\n...I'm a little curious about the face you saw, but I think I'll not ask after all.\nYou may not believe it, but I scare easily.{p}",
+   "en": "To me it's just an ordinary painting, but I wonder what it looks like to you.\nMaybe you're seeing the face she had when she was killed.\nIf so, {a}{f:|}, you might just be the fifth one, don't you think?\n...I'm a little curious about the face you saw, but I think I'd rather not ask after all.\nYou may not believe it, but I scare easily.{p}",
+   "edit_notes": [
+    "31:9488: EDIT - unnatural 'I think I'll not ask' -> 'I think I'd rather not ask'"
+   ]
+  },
+  {
+   "id": "31:9890",
+   "op": "text",
+   "before": "What's with that careless attitude?\nI'm asking you something, so would you answer me properly?{p}",
+   "en": "What's with that dismissive attitude?\nI'm asking you something, so would you answer me properly?{p}",
+   "edit_notes": [
+    "31:9890: EDIT - returns note settled: 'careless attitude' (reads as negligent) -> 'dismissive attitude', which fits the preceding choice 'I don't want to imagine it'"
+   ]
+  },
+  {
+   "id": "32:0a60",
+   "op": "text",
+   "before": "...So you hate rain.\nI love it.\nThe rainy season most of all.\nWhen the hydrangeas bloom.\nThe air is so humid that its lukewarm touch soaks right into your skin.\nMy shirt clings wetly to my skin and doesn't even stir in the wind, and it makes me truly feel that I'm wearing clothes. I find that so lovely.\nAnd in the rainy season, it could start raining at any moment, couldn't it?\nWeather that threatens rain but never brings it.\nA sun shower, when rain suddenly pours from a cloudless blue sky.\nRain sends shivers of delight through me.\nI'd like to live in a world where the rain never stops.\nSometimes the thought just comes over me.{p}",
+   "en": "...So you hate rain.\nI love it.\nThe rainy season most of all.\nWhen the hydrangeas bloom.\nThe air is so humid that its lukewarm touch soaks right into your skin.\nMy shirt clings wetly to my body and doesn't even stir in the wind, and it makes me truly feel that I'm wearing clothes. I find that so lovely.\nAnd in the rainy season, it could start raining at any moment, couldn't it?\nWeather that threatens rain but never brings it.\nA sun shower, when rain suddenly pours from a cloudless blue sky.\nRain sends shivers of delight through me.\nI'd like to live in a world where the rain never stops.\nSometimes the thought just comes over me.{p}",
+   "edit_notes": [
+    "32:0a60: EDIT - 'skin' twice in adjacent sentences; shirt clings to 'body'"
+   ]
+  },
+  {
+   "id": "32:0de8",
+   "op": "text",
+   "before": "I take in a whole sky full of rain and turn my face up to the heavens.\nAnd I catch the rain with my whole body.\nIt's wonderful.\nBecause it feels so good.\nYou should try it once yourself.\nWhen the rain is light, it turns into a mist that tickles my skin and makes me feel it.\nWhen the rain is heavy, it beats down hard on my body with a fierce roar.\nThe rain is alive.{p}",
+   "en": "With rain falling from all across the sky, I turn my face up to the heavens.\nAnd I catch the rain with my whole body.\nIt's wonderful.\nBecause it feels so good.\nYou should try it once yourself.\nWhen the rain is light, it turns into a mist that tickles my skin and stirs my senses.\nWhen the rain is heavy, it beats down hard on my body with a fierce roar.\nThe rain is alive.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "32:1330",
+   "op": "text",
+   "before": "How stupid of them.\nIt's lovely rain, so they should just get soaked to the skin on the way home.\nPeople clicking their tongues, looking up at the sky with openly disgusted faces, as if they hated heaven itself...\nI can't understand people like that.\nPeople like that ought to just die.\n{a}, you're not that kind of person, are you?\n...Hehehe.\nThey're just awful, people who wait out the rain.{p}",
+   "en": "How stupid of them.\nIt's lovely rain, so they should just get soaked to the skin on the way home.\nPeople clicking their tongues, looking up at the sky with openly disgusted faces, as if they hated heaven itself...\nI can't understand people like that.\nPeople like that ought to just die.\n{a}, you're not that kind of person, are you?\n...Heh heh.\nThey're just awful, people who wait out the rain.{p}",
+   "edit_notes": [
+    "32:1330: EDIT - laugh 'Hehehe' -> 'Heh heh' (Iwashita's standard laugh)"
+   ]
+  },
+  {
+   "id": "32:147c",
+   "op": "text",
+   "before": "But you know, for a girl, it's also the perfect chance at love.{p}",
+   "en": "But you know, for a girl, that's also the perfect chance for romance.{p}",
+   "edit_notes": [
+    "32:147c: EDIT - same JP line as 32:6070; unified to 'that's also the perfect chance for romance'"
+   ]
+  },
+  {
+   "id": "32:1af8",
+   "op": "text",
+   "before": "\"...Um, are you waiting for someone?\"\n\"Nah, not really.\nIt started raining, so I've got no choice but to wait it out.\nI don't want my hair getting wet.\nMan, what a pain. Stupid sky.\"\nWith that, he glared up and cursed the sky, as if he hated heaven itself.\n\"...Um, here.\nWould you like to share it with me?\"\nTachibana held out her red umbrella.\n\"Oh, yeah?\nThanks.\nYou're a lifesaver.\nWhich way are you headed?\"\nShameless as he was, Tsukahara was never going to turn down an offer like that.\n\"...Um, which way are you going, Tsukahara?\"\n\"Huh? You know my name?\nWow, I'm flattered.\nOh, my place is that way.\"\nThe direction Tsukahara pointed was the opposite way from the station Tachibana was heading for.\n\"Oh, me too.\"\nBut Tachibana said it with a smile.\nIt was her big chance, after all.\nA little lie like that didn't bother her at all.{p}",
+   "en": "\"...Um, are you waiting for someone?\"\n\"Nah, not really.\nIt started raining, so I've got no choice but to wait it out.\nI don't want my hair getting wet.\nMan, what a pain. Stupid sky.\"\nWith that, he glared up and cursed the sky, as if he hated heaven itself.\n\"...Um, here.\nWould you like to share it with me?\"\nTachibana held out her red umbrella.\n\"Oh, sure.\nThanks.\nYou're a lifesaver.\nWhich way are you headed?\"\nShameless as he was, Tsukahara was never going to turn down an offer like that.\n\"...Um, which way are you going, Tsukahara?\"\n\"Huh? You know my name?\nWow, I'm flattered.\nOh, my place is that way.\"\nThe direction Tsukahara pointed was the opposite way from the station Tachibana was heading for.\n\"Oh, me too.\"\nBut Tachibana said it with a smile.\nIt was her big chance, after all.\nA little lie like that didn't bother her at all.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "32:2404",
+   "op": "choice",
+   "before": "He's a guy I can't stand",
+   "en": "I can't stand the guy",
+   "edit_notes": [
+    "32:2404: EDIT - same JP as its echo 32:6354; unified to the more natural 'I can't stand the guy'"
+   ]
+  },
+  {
+   "id": "32:257c",
+   "op": "text",
+   "before": "She was a butterfly caught in a spider's web, wasn't she?\nEven if she'd tried to escape, he would never have let her go.\nBut Tachibana had no need to escape.\nShe never even thought of escaping.\nBecause she was happy too.\nBeing alone with Tsukahara... there was no greater happiness for her.\nTachibana already did whatever Tsukahara told her.{p}",
+   "en": "She was a butterfly caught in a spider's web, wasn't she?\nEven if she'd tried to escape, he would never have let her go.\nBut Tachibana had no need to escape.\nShe never even thought of escaping.\nBecause she was happy too.\nBeing alone with Tsukahara... there was no greater happiness for her.\nBy then, Tachibana did whatever Tsukahara told her.{p}",
+   "edit_notes": [
+    "32:257c: EDIT - stray 'already' -> 'By then'"
+   ]
+  },
+  {
+   "id": "32:2934",
+   "op": "text",
+   "before": "After all, Tsukahara had suddenly turned cold toward her.\nMore than cold, he ignored her, or rather, he started looking at her as if she were something filthy.{p}",
+   "en": "After all, Tsukahara had suddenly turned cold toward her.\nIt was worse than cold. He ignored her, or rather, he started looking at her as if she were something filthy.{p}",
+   "edit_notes": [
+    "32:2934: EDIT - clumsy 'More than cold, he ignored her' restructured"
+   ]
+  },
+  {
+   "id": "32:2e9c",
+   "op": "text",
+   "before": "But God does love his little pranks, doesn't he?\nAfter all, he gave Tachibana one more chance.\nIt was toward the end of the rainy season.\nMaybe Tsukahara just isn't the type to keep a spare umbrella at school.\nHe was waiting out the rain again.\nAll by himself.\nAnd Tachibana had an umbrella.\nA big blue umbrella.{p}",
+   "en": "But God does love his little pranks, doesn't he?\nAfter all, he gave Tachibana one more chance.\nIt was toward the end of the rainy season.\nMaybe Tsukahara just wasn't the type to keep a spare umbrella at school.\nHe was waiting out the rain again.\nAll by himself.\nAnd Tachibana had an umbrella.\nA big blue umbrella.{p}",
+   "edit_notes": [
+    "32:2e9c/648c: EDIT - identical JP passages unified (648c had different wording); tense 'wasn't the type'"
+   ]
+  },
+  {
+   "id": "32:30a4",
+   "op": "text",
+   "before": "\"...Um, please use this umbrella.\"\nAt first he looked annoyed to see her, but he soon smiled.\n\"Oh, thanks. Wanna walk home together?\"\nShe hadn't meant to walk home with him.\nEven so, he insisted on sharing the umbrella with her.{p}",
+   "en": "\"...Um, please use this umbrella.\"\nAt first he looked annoyed to see her, but he soon smiled.\n\"Oh, thanks. Wanna walk home together?\"\nShe hadn't meant to walk home with him.\nEven so, he pushed her into sharing the umbrella with him.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "32:31a0",
+   "op": "text",
+   "before": "She felt terribly awkward.\nEven so, he went on chattering as he pleased.\n\"Hey, sorry about all that.\nI just haven't had any time lately.\nI'm busy, y'know, with this and that. You get it, right?\nI just wanna be nice to everybody.\nIt's not like I'm in love with anyone or anything.\nSee? So it's not like I started hating you, Yukari...\"{p}",
+   "en": "She felt terribly awkward.\nEven so, he went on chattering as he pleased.\n\"Man, I'm sorry.\nI just haven't had any time lately.\nI've been busy, y'know, with this and that. You get it, right?\nI just wanna be nice to everybody.\nIt's not like I'm into anyone or anything.\nSee? So it's not like I started hating you, Yukari...\"{p}"
+  },
+  {
+   "id": "32:3678",
+   "op": "text",
+   "before": "When she looked, the tip of the umbrella was stuck in his left eye.\nThe blood pouring out of it was carving a red pattern into the blue umbrella.\n\"...Y-you bitch.\nI'll fucking kill you!\"{p}",
+   "en": "When she looked, the tip of the umbrella was stuck in his left eye.\nThe blood pouring out of it was carving a red pattern into the blue umbrella.\n\"...Y-you bitch.\nI'll fucking kill you!\"{p}",
+   "flag": "ACC",
+   "edit_notes": [
+    "32:6cdc: EDIT - second line matches 32:3678 JP; unified wording"
+   ]
+  },
+  {
+   "id": "32:3cf4",
+   "op": "text",
+   "before": "It was all written off as a woman in a messy breakup who killed the man and then killed herself after him.\nEven though that's not what really happened.{p}",
+   "en": "It was all written off as a breakup gone wrong: the woman killed the man, then killed herself to follow him.\nEven though that's not what really happened.{p}",
+   "edit_notes": [
+    "32:3cf4: EDIT - stiff 'a woman in a messy breakup who killed the man and then killed herself after him' smoothed"
+   ]
+  },
+  {
+   "id": "32:430c",
+   "op": "text",
+   "before": "My, that's not true.\nI think you're not bad at all.\nStill, you're far more likable than someone who calls himself cool.\nI like people like that, heh heh...\nMay I ask you one more strange question?{p}",
+   "en": "My, that's not true.\nI think you're not bad at all.\nEither way, you're far more likable than someone who calls themselves cool.\nI like people like that, heh heh...\nMay I ask you one more strange question?{p}",
+   "edit_notes": [
+    "32:430c: EDIT - returns note settled: 'himself' -> 'themselves' to match 4210; 'Still' -> 'Either way' (clearer connector)"
+   ]
+  },
+  {
+   "id": "32:56b8",
+   "op": "text",
+   "before": "\n...After he was hit by the car, they say Hata was struggling desperately.\nAs if he were desperately trying to escape from something.\nThe witnesses said he had suddenly dashed out into the street, though.\n...That's right.\nStrangely, it seems no one but Hata could see her.\nWhat was she, really?\nWhy was Hata the one she clung to?\nI don't know...\nMaybe strange things come out on rainy days.{p}",
+   "en": "\n...After he was hit by the car, they say Hata was struggling desperately.\nAs if he were frantically trying to escape from something.\nThe witnesses said he had suddenly dashed out into the street, though.\n...That's right.\nStrangely, it seems no one but Hata could see her.\nWhat was she, really?\nWhy was Hata the one she clung to?\nI don't know...\nMaybe strange things come out on rainy days.{p}",
+   "edit_notes": [
+    "32:56b8: EDIT - 'desperately' twice in two lines; second -> 'frantically'"
+   ]
+  },
+  {
+   "id": "32:5e80",
+   "op": "choice",
+   "before": "Yes, I do",
+   "en": "I do",
+   "edit_notes": [
+    "32:5e80/5e8c: EDIT - same JP as 32:1014/1020 for the same question; unified to 'I do' / 'I don't'"
+   ]
+  },
+  {
+   "id": "32:5e8c",
+   "op": "choice",
+   "before": "No, I don't",
+   "en": "I don't"
+  },
+  {
+   "id": "32:5f74",
+   "op": "text",
+   "before": "They say plenty of romances get their start thanks to an umbrella.\nYou know, like in those romance comics for girls.{p}",
+   "en": "They say plenty of romances get their start thanks to an umbrella.\nYou know, like in those girls' comics.{p}",
+   "edit_notes": [
+    "32:5f74: EDIT - returns note settled: 'romance comics for girls' -> 'girls' comics' (romance already in previous sentence)"
+   ]
+  },
+  {
+   "id": "32:648c",
+   "op": "text",
+   "before": "It was when the rainy season was nearly over.\nMaybe Tsukahara was the type who never kept a spare umbrella at school.\nHe was waiting out the rain again.\nAll by himself.\nAnd Tachibana had an umbrella with her.\nA big blue umbrella.{p}",
+   "en": "It was toward the end of the rainy season.\nMaybe Tsukahara just wasn't the type to keep a spare umbrella at school.\nHe was waiting out the rain again.\nAll by himself.\nAnd Tachibana had an umbrella.\nA big blue umbrella.{p}"
+  },
+  {
+   "id": "32:6640",
+   "op": "text",
+   "before": "\"Um... please, use this umbrella.\"\nAt first, when he saw her, he looked annoyed, but he soon smiled.\n\"Oh, thanks a lot.\nWant to walk home together?\"{p}",
+   "en": "\"...Um, please use this umbrella.\"\nAt first he looked annoyed to see her, but he soon smiled.\n\"Oh, thanks.\nWanna walk home together?\"{p}"
+  },
+  {
+   "id": "32:66dc",
+   "op": "text",
+   "before": "She hadn't meant to walk home with him.\nBut he pushily insisted she share the umbrella with him anyway.{p}",
+   "en": "She hadn't meant to walk home with him.\nEven so, he pushed her into sharing the umbrella with him.{p}"
+  },
+  {
+   "id": "32:6744",
+   "op": "text",
+   "before": "She felt terribly awkward.\nBut he just went on talking anyway.\n\"Man, I'm sorry.\nI just haven't had any time lately.\nI've been busy, y'know, with this and that.\nYou get it, right?\nI just want to be nice to everybody.\nIt's not like I'm into anyone or anything.\nRight? So it's not like I started hating you, Yukari...\"{p}",
+   "en": "She felt terribly awkward.\nEven so, he went on chattering as he pleased.\n\"Man, I'm sorry.\nI just haven't had any time lately.\nI've been busy, y'know, with this and that.\nYou get it, right?\nI just wanna be nice to everybody.\nIt's not like I'm into anyone or anything.\nSee? So it's not like I started hating you, Yukari...\"{p}"
+  },
+  {
+   "id": "32:6b30",
+   "op": "text",
+   "before": "She swung the umbrella around wildly.\n\"Stop!\nPlease stop!\"\nSuddenly, she felt a dull impact through her hands.\nThe hands holding the umbrella suddenly grew heavy, as if it had caught on something.\n\"Gyaaah...\"\n...Tsukahara was groaning.\nWhen she looked, the tip of the umbrella was stuck in his left eye.{p}",
+   "en": "She swung the umbrella around wildly.\n\"Stop!\nPlease stop!\"\nSuddenly she felt a dull impact in her hands.\nThe hands holding the umbrella abruptly grew heavy, as if it had caught on something.\n\"Gyaah...\"\n...Tsukahara was groaning.\nWhen she looked, the tip of the umbrella was stuck in his left eye.{p}",
+   "edit_notes": [
+    "32:6b30: EDIT - identical JP to 32:3588 (+ eye line from 3678); unified wording ('Gyaah', 'in her hands', 'abruptly')"
+   ]
+  },
+  {
+   "id": "32:6cdc",
+   "op": "text",
+   "before": "\"The umbrella was driven in deep.\nThe blood flowing out of the wound etched a red pattern across the blue umbrella.\"{p}",
+   "en": "\"The umbrella was driven in deep.\nThe blood pouring out of the wound was carving a red pattern into the blue umbrella.\"{p}",
+   "edit_notes": [
+    "32:6cdc: EDIT - second line matches 32:3678 JP; unified wording"
+   ]
+  },
+  {
+   "id": "32:7134",
+   "op": "text",
+   "before": "\"I've put Tachibana's curse on you...\nYou'll feel the pain Tsukahara felt, and you'll die the same way he did.\"\nWith her eyes slanted up, her smile was not that of the Iwashita I'd seen until now.\nIt was something more evil.......... like a witch.{p}",
+   "en": "\"I've put Tachibana's curse on you...\nYou'll feel the pain Tsukahara felt, and you'll die the same way he did.\"\nHer eyes were drawn up at the corners, and her smile was not that of the Iwashita I'd seen until now.\nIt was something more evil.......... like a witch.{p}",
+   "edit_notes": [
+    "32:7134: EDIT - 'With her eyes slanted up, her smile...' was a dangling construction; restructured"
+   ]
+  },
+  {
+   "id": "33:152c",
+   "op": "text",
+   "before": "...I see.\nYou don't.\nIn high school, and you don't have even one girlfriend? How lonely.{p}Do you dislike older women?\n",
+   "en": "...I see.\nYou don't.\nYou're in high school and you don't have a single girlfriend? How lonely.{p}Do you dislike older women?\n",
+   "edit_notes": [
+    "33:152c: EDIT - clumsy 'don't have even one girlfriend' -> natural spoken line"
+   ]
+  },
+  {
+   "id": "33:17c4",
+   "op": "text",
+   "before": "Don't forget what you just said.\nYou must never, ever forget it.\nBecause the story I'm about to tell you is about two lovers who loved each other.{p}",
+   "en": "Don't forget what you just said.\nYou must never, ever forget it.\nBecause the story I'm about to tell you is about two people who were in love.{p}",
+   "edit_notes": [
+    "33:17c4: EDIT - redundant 'two lovers who loved each other' -> 'two people who were in love'"
+   ]
+  },
+  {
+   "id": "33:196c",
+   "op": "text",
+   "before": "That's the quickest way.\nAnd these days, everyone does it.\nBut don't you find phones frightening?\nYou can't see the other person's face, and you never know who might be listening.\nSuddenly, the phone rings.\nAnd what if you heard laughter you'd never heard before, or ragged breathing, coming from it...?\nAnd you were all alone, too.\nThen a low voice comes from the other end of the line.\n\"...I'll kill you.\"\nHave you ever gotten a call like that?\nI have, many times.\nPrank calls, of course.{p}",
+   "en": "That's the quickest way.\nAnd these days, everyone does it.\nBut don't you find phones frightening?\nYou can't see the other person's face, and you never know who might be listening.\nSuddenly, the phone rings.\nAnd what if you heard laughter you'd never heard before, or ragged breathing, coming from it...?\nAnd when you're all alone, too.\nThen a low voice comes from the other end of the line.\n\"...I'll kill you.\"\nHave you ever gotten a call like that?\nI have, many times.\nPrank calls, of course.{p}",
+   "edit_notes": [
+    "33:196c: EDIT - tense slip 'And you were all alone' -> 'And when you're all alone, too' (matches the hypothetical present around it)"
+   ]
+  },
+  {
+   "id": "33:1b24",
+   "op": "text",
+   "before": "When that happens, I curse them.\nYou just spit a curse at them and hang up.\nThe persistent ones will keep calling again and again, I suppose.\nAnd every time,\n\"Die... die...\"\nI will it at them with all my heart.\nThey're the ones in the wrong.\nMy heart doesn't ache one bit.{p}",
+   "en": "When that happens, I curse them.\nI just spit a curse at them and hang up.\nEven then, the persistent ones will probably keep calling again and again.\nAnd every time,\n\"Die... die...\"\nI wish it on them with all my heart.\nThey're the ones in the wrong.\nMy heart doesn't ache one bit.{p}",
+   "edit_notes": [
+    "33:1b24: EDIT - person switch 'You just spit' -> 'I just spit'; stiff 'will keep calling, I suppose' and 'I will it at them' smoothed"
+   ]
+  },
+  {
+   "id": "33:1cac",
+   "op": "text",
+   "before": "Nine o'clock every night.\nThat was their promised time.\nThey took turns calling each other, one day after the other.\nAt nine, they'd sneak the phone into their rooms and talk in hushed voices.\nSometimes they talked all night long.\nEven when their parents scolded them for the long calls, this was the one thing they couldn't give up.\nAnd it went on without a break.\nEven on days off from school, even when one of them was away on a family trip.\nWithout missing a single day, the two of them reaffirmed their love.{p}",
+   "en": "Nine o'clock every night.\nThat was their promised time.\nThey took turns calling each other, on alternate days.\nAt nine, they'd sneak the phone into their rooms and talk in hushed voices.\nSometimes they talked all night long.\nEven when their parents scolded them for the long calls, this was the one thing they couldn't give up.\nAnd it went on without a break.\nEven on days off from school, even when one of them was away on a family trip.\nWithout missing a single day, the two of them reaffirmed their love.{p}",
+   "edit_notes": [
+    "33:1cac: EDIT - clumsy 'one day after the other' -> 'on alternate days'"
+   ]
+  },
+  {
+   "id": "33:2308",
+   "op": "text",
+   "before": "It was a much shorter call than usual.\nThey'd see each other at school tomorrow, and tomorrow night they'd talk to their hearts' content, making up for today.\nThinking of it that way, it wasn't lonely or painful at all.\nIt was the very next day.{p}",
+   "en": "It was a much shorter call than usual.\nThey'd see each other at school tomorrow, and tomorrow night they'd talk to their hearts' content, making up for today.\nWhen she thought of it that way, she didn't feel lonely or hurt at all.\nIt was the very next day.{p}",
+   "edit_notes": [
+    "33:2308: EDIT - 'it wasn't lonely or painful' -> 'she didn't feel lonely or hurt'"
+   ]
+  },
+  {
+   "id": "33:2964",
+   "op": "text",
+   "before": "\"I called you over and over last night.\nBut the line was busy the whole time.\nJust who were you talking to?\"\nHe was sulking.\nHe was only jealous, that's all.\nBut his words were more than enough to shock Yaguchi.\n\"...No way.\nI was talking with you all night yesterday.\nYou called me, and...\"\n\"Don't give me a lie that's so easy to see through!\nForget it!\"{p}",
+   "en": "\"I called you over and over last night.\nBut the line was busy the whole time.\nJust who were you talking to?\"\nHe was sulking.\nHe was only jealous, that's all.\nBut his words were more than enough to shock Yaguchi.\n\"...No way.\nI was talking with you all night yesterday.\nYou called me, and...\"\n\"Don't give me such an obvious lie!\nForget it!\"{p}",
+   "edit_notes": [
+    "33:2964: EDIT - wordy angry line -> 'Don't give me such an obvious lie!'"
+   ]
+  },
+  {
+   "id": "33:2be4",
+   "op": "text",
+   "before": "That night, Yaguchi was crying alone in her room.\nLittle by little, the usual time drew closer.\nThe usual time she spent sweet moments with Date...\nShe agonized over it.\nShould she call him, or should she not?{p}What do you think she did?\n",
+   "en": "That night, Yaguchi was crying alone in her room.\nLittle by little, the usual time drew closer.\nThe usual time, when she shared sweet moments with Date...\nShe agonized over it.\nShould she call him, or should she not?{p}What do you think she did?\n",
+   "edit_notes": [
+    "33:2be4: EDIT - ungrammatical 'The usual time she spent sweet moments with Date' fixed"
+   ]
+  },
+  {
+   "id": "33:2fe8",
+   "op": "text",
+   "before": "That laugh was definitely his voice.\nHis voice, the same as always.\nYaguchi was relieved.\nAnd that night, too, they talked until the middle of the night.\nOnce you've felt uneasy, the bond grows deeper after you overcome it.\nYou'd do well to remember that, {a}.\nHeh heh heh...\nBut the next day...{p}",
+   "en": "That laugh was definitely his voice.\nHis voice, the same as always.\nYaguchi was relieved.\nAnd that night, too, they talked until the middle of the night.\nOnce you've felt uneasy and overcome it, the bond grows even deeper.\nYou'd do well to remember that, {a}.\nHeh heh heh...\nBut the next day...{p}",
+   "edit_notes": [
+    "33:2fe8: EDIT - awkward aphorism reordered for clarity"
+   ]
+  },
+  {
+   "id": "33:3558",
+   "op": "text",
+   "before": "\"Listen, I'll call you tonight.\nSo don't call me, no matter what.\nThat way, I'll be sure to get you, right?\"\nEven after hearing Yaguchi out, Date still looked uneasy.\nThere was no telling what tricks the man using his name might pull.\nAnd Yaguchi might be fooled again.\nSo he decided to make doubly sure.\n\"I know.\nLet's think of some way so that guy can't get in our way this time.\nIt looks like he's jealous of what we've got.\"\nYaguchi agreed with Date's suggestion.{p}",
+   "en": "\"Listen, I'll call you tonight.\nSo don't call me, no matter what.\nThat way, I'll be sure to get you, right?\"\nEven after hearing Yaguchi out, Date still looked uneasy.\nThere was no telling what tricks the man using his name might pull.\nAnd Yaguchi might be fooled again.\nSo he decided to make doubly sure.\n\"I know.\nLet's come up with some way to keep that guy from getting in our way this time.\nIt looks like he's jealous of what we've got.\"\nYaguchi agreed with Date's suggestion.{p}",
+   "edit_notes": [
+    "33:3558: EDIT - 'some way so that guy can't get in our way' -> natural phrasing"
+   ]
+  },
+  {
+   "id": "33:40ac",
+   "op": "text",
+   "before": "\"...Why the hell are you still at home?!\nYou're the one who told me to come right away, Yaguchi!\"\n\"Huh?\"\nThe person on the line was definitely Date.\nBut once again, what he was saying made no sense to Yaguchi.\n\"You called a minute ago saying you just had to see me, so I managed to sneak out.\nSo why are you at home?!\"{p}",
+   "en": "\"...Why are you still at home?!\nYou're the one who told me to come right away, Yaguchi!\"\n\"Huh?\"\nThe person on the line was definitely Date.\nBut once again, what he was saying made no sense to Yaguchi.\n\"You called a minute ago saying you just had to see me, so I managed to sneak out.\nSo why are you at home?!\"{p}",
+   "edit_notes": [
+    "33:40ac: EDIT - returns note settled: removed added 'the hell' (source rough but not profane); anger kept by ?!"
+   ]
+  },
+  {
+   "id": "33:435c",
+   "op": "text",
+   "before": "\"I-I'll come.\"\nShe answered on the spot.\n\"Then get over here, now.\"\n\"Wait a second!\nWhere should I go?\"\n\"...You're the one who called me out here, what are you talking about?\nIn front of the pay phone by the school's back gate.\nI'm calling you from it right now.\nHurry up and get here!\"\nWith that, he hung up roughly.{p}",
+   "en": "\"I-I'll come.\"\nShe answered on the spot.\n\"Then get over here, now.\"\n\"Wait a second!\nWhere should I go?\"\n\"...What are you talking about? You're the one who called me out here.\nIn front of the pay phone by the school's back gate.\nI'm calling you from it right now.\nHurry up and get here!\"\nWith that, he hung up roughly.{p}",
+   "edit_notes": [
+    "33:435c: EDIT - run-on retort reordered: 'What are you talking about? You're the one who called me out here.'"
+   ]
+  },
+  {
+   "id": "33:51bc",
+   "op": "text",
+   "before": "When she looked at the flung receiver, swinging back and forth like a swing, the part she'd held to her ear was stained bright red.\nAnd from inside the receiver, a thick, cloudy white liquid was spewing out.\nThe cloudy white liquid mixed with the red blood, turning a pretty shade of pale pink.\nWhen it dripped onto the ground, it hissed, and a thin wisp of smoke rose up.\nThen a sharp, sour smell stung her nose.\n...Acid?\nIt seemed like a powerful acid, the kind that dissolves things.\nShe couldn't understand why something like that would come out of a phone receiver.{p}",
+   "en": "When she looked at the flung receiver, swaying back and forth like a swing, the part she'd held to her ear was stained bright red.\nAnd from inside the receiver, a thick, cloudy white liquid was spewing out.\nThe cloudy white liquid mixed with the red blood, turning a pretty shade of pale pink.\nWhen it dripped onto the ground, it hissed, and a thin wisp of smoke rose up.\nThen a sharp, sour smell stung her nose.\n...Acid?\nIt seemed like a powerful acid, the kind that dissolves things.\nShe couldn't understand why something like that would come out of a phone receiver.{p}",
+   "edit_notes": [
+    "33:51bc: EDIT - 'swinging ... like a swing' -> 'swaying ... like a swing' (keeps swing image)"
+   ]
+  },
+  {
+   "id": "33:53a0",
+   "op": "text",
+   "before": "The hand pressing her bloody ear was already sticky all over.\nShe couldn't feel her ear at all.\nSo much that she couldn't even tell whether her ear was still there, or had already melted away.\nShe tried to run.\nBut her legs had given out, and she couldn't stand up properly.\nThe moment she tried to drag her whole body away from the receiver...{p}",
+   "en": "The hand pressing her bloody ear was already sticky all over.\nShe couldn't feel her ear at all.\nSo much so that she couldn't even tell whether her ear was still there, or had already melted away.\nShe tried to run.\nBut her legs had given out, and she couldn't stand up properly.\nThe moment she tried to drag her whole body away from the receiver...{p}",
+   "edit_notes": [
+    "33:53a0: EDIT - 'So much that' -> 'So much so that'"
+   ]
+  },
+  {
+   "id": "33:57c4",
+   "op": "text",
+   "before": "Her death was written off as a murder by some sicko.\nThey say her body was too horrible to look at twice.\nIt was as if all the flesh around her mouth had been ripped away, and the bone was laid bare.\nAnd the inside of her mouth was burned raw and discolored, as if it had rotted.\nThe phone cord was wound tightly around her neck.\n...In the end, they say that during those three cursed days, Date never once spoke to her on the phone.\nAnd neither did Date's mother.\nBut Date doesn't realize that he's the one who killed Yaguchi.\nI mean, think about it.\nThat day he was late because of club, if Date hadn't called her house from that pay phone, she wouldn't have had to die.\nThat's why she died.\nThe devil that lives in that phone must have taken a liking to Yaguchi's voice, don't you think?\nYaguchi had such a beautiful voice, you see.\nSo it played those tricks on her, and dragged her into its own world.\nThat's what I think.{p}",
+   "en": "Her death was written off as a murder by some sicko.\nThey say her body was too horrible to look at twice.\nIt was as if all the flesh around her mouth had been ripped away, and the bone was laid bare.\nAnd the inside of her mouth was burned raw and discolored, as if it had rotted.\nThe phone cord was wound tightly around her neck.\n...In the end, they say that during those three cursed days, Date never once spoke to her on the phone.\nAnd neither did Date's mother.\nBut Date doesn't realize that he's the one who killed Yaguchi.\nI mean, think about it.\nOn the day he stayed late for club, if Date hadn't called her house from that pay phone, she wouldn't have had to die.\nThat's why she died.\nThe devil that lives in that phone must have taken a liking to Yaguchi's voice, don't you think?\nYaguchi had such a beautiful voice, you see.\nSo it played those tricks on her, and dragged her into its own world.\nThat's what I think.{p}",
+   "edit_notes": [
+    "33:57c4: EDIT - garbled 'That day he was late because of club, if...' -> 'On the day he stayed late for club, if...'"
+   ]
+  },
+  {
+   "id": "33:5ba4",
+   "op": "text",
+   "before": "How do I know, you ask?\nI heard it from her herself.\nYou see, she calls me.\nYaguchi, that is.\nSometimes, my phone gets crossed lines.\nAnd then I end up hearing things like the voices of the dead.\nIt seems Yaguchi still loves the phone, even after death.\nEven though a phone killed her.\nBut she says she doesn't hold a grudge against Date.\nShe must have loved him very much.\nBut you know, she said that if Date betrays her, she'll kill him.\nLaughing, having fun, on the other end of the line.\nShe said if he ever falls for another girl, she won't hesitate to take him over to her world.{p}",
+   "en": "How do I know, you ask?\nI heard it from the girl herself.\nYou see, she calls me.\nYaguchi, that is.\nSometimes, my phone gets crossed lines.\nAnd then I end up hearing things like the voices of the dead.\nIt seems Yaguchi still loves the phone, even after death.\nEven though a phone killed her.\nBut she says she doesn't hold a grudge against Date.\nShe must have loved him very much.\nBut you know, she said that if Date betrays her, she'll kill him.\nLaughing, enjoying herself, on the other end of the line.\nShe said if he ever falls for another girl, she won't hesitate to bring him over to her world.{p}",
+   "edit_notes": [
+    "33:5ba4: EDIT - 'from her herself' -> 'from the girl herself'; 'having fun' -> 'enjoying herself'; 'take him over to' -> 'bring him over to'"
+   ]
+  },
+  {
+   "id": "33:67d0",
+   "op": "text",
+   "before": "...'I can't say either way,' you say?\nWhat a strange thing to say.\nAren't you going out with your sweetheart because you love them?\nWhen you love someone, they seem beautiful to you, don't they?\nOr are you just going out with someone you don't even like all that much, for no particular reason?\nOr else...........{p}",
+   "en": "...'I can't say either way,' you say?\nWhat a strange thing to say.\nAren't you going out with your sweetheart because you love her?\nWhen you love someone, they seem beautiful to you, don't they?\nOr are you just going out with someone you don't even like all that much, for no particular reason?\nOr else...........{p}",
+   "edit_notes": [
+    "33:67d0: EDIT - 'love them' -> 'love her' to match 'what is she like?' earlier on this (male) branch"
+   ]
+  },
+  {
+   "id": "33:6d14",
+   "op": "text",
+   "before": "And so did a photo that had been tucked inside the handbook.\nIt was a photo of a cute girl who wasn't a student at this school.\nHis friend took it for granted she was Higashiyama's girlfriend.\nBut Higashiyama had no idea about it.\nNot whose photo it was, or even when it had gotten into his pocket.\nAnd the strange things didn't stop there.{p}",
+   "en": "And so did a photo that had been tucked inside the handbook.\nIt was a photo of a cute girl who wasn't a student at this school.\nHis friend took it for granted she was Higashiyama's girlfriend.\nBut Higashiyama had no idea.\nNot whose photo it was, or even when it had gotten into his pocket.\nAnd the strange things didn't stop there.{p}",
+   "edit_notes": [
+    "33:6d14: EDIT - 'had no idea about it' -> 'had no idea'"
+   ]
+  },
+  {
+   "id": "33:703c",
+   "op": "text",
+   "before": "She headed for Higashiyama's house as if it were only natural.\nJust like a real couple.\nStrangely enough, Higashiyama gradually stopped finding her presence strange.\nHe even felt as if he'd known her for a long time.\nWell, of course he did.\nShe looked exactly like the imaginary girlfriend Higashiyama had made up.{p}",
+   "en": "She headed for Higashiyama's house as if it were only natural.\nJust like a real couple.\nOddly enough, Higashiyama gradually stopped finding her presence strange.\nHe even felt as if he'd known her for a long time.\nWell, of course he did.\nShe looked exactly like the imaginary girlfriend Higashiyama had made up.{p}",
+   "edit_notes": [
+    "33:703c: EDIT - 'Strangely ... strange' echo -> 'Oddly enough'"
+   ]
+  },
+  {
+   "id": "33:7444",
+   "op": "text",
+   "before": "Her body was as cold as ice.\nAs he hurriedly tried to pull his arm back, her cold hand seized it.\nHer face was right next to Higashiyama's.\nBut by now, she was nothing like a cute girl.\nShe looked like something else entirely, wearing a human skin.\n\"Surprised that I'm cold...?\nWell, there was nothing in your mind about how warm a girl's body is...\"{p}",
+   "en": "Her body was as cold as ice.\nAs he hurriedly tried to pull his arm back, her cold hand seized it.\nHer face was right next to Higashiyama's.\nBut by now, she was nothing like a cute girl.\nShe looked like something else entirely, wearing a human skin.\n\"Surprised that I'm cold...?\nWell, your mind held no knowledge of how warm a girl's body is...\"{p}",
+   "edit_notes": [
+    "33:7444: EDIT - unclear 'nothing in your mind about how warm' -> 'your mind held no knowledge of how warm' (ties to next chunk's 'didn't know a girl's body heat')",
+    "33:7bb0: EDIT - 'didn't know a girl's body heat' -> 'how warm a girl's body is', clearer and echoes 33:7444."
+   ]
+  },
+  {
+   "id": "33:7bb0",
+   "op": "text",
+   "before": "Seeing me like that, Iwashita let out a low chuckle.\n\"Oh, I'm sorry.\nSo you didn't know a girl's body heat either... Silly me, repeating her mistake.\"\nA tiny whisper that probably no one but me could hear.\nIwashita's eyes glinted coldly.\nBut the next instant...{p}",
+   "en": "Seeing me like that, Iwashita let out a low chuckle.\n\"Oh, I'm sorry.\nSo you didn't know how warm a girl's body is, either... Silly me, repeating her mistake.\"\nA tiny whisper that probably no one but me could hear.\nIwashita's eyes glinted coldly.\nBut the next instant...{p}",
+   "edit_notes": [
+    "33:7bb0: EDIT - 'didn't know a girl's body heat' -> 'how warm a girl's body is', clearer and echoes 33:7444."
+   ]
+  },
+  {
+   "id": "33:7d04",
+   "op": "text",
+   "before": "{a}, do think over that matter of making me your lover.\"\nIwashita laughed and took her seat.\nBut I couldn't move for a while.\nWas that just one of Iwashita's jokes?\nThen what about that hand, cold as ice★\nI didn't know.\nIt all felt like a sick joke.\nBut if Iwashita really had her sights set on me...\nIwashita was gazing at me meaningfully.\nHolding down the panic rising in me, I turned to face the last of them.{p}",
+   "en": "{a}, do give some thought to making me your lover.\"\nIwashita laughed and took her seat.\nBut I couldn't move for a while.\nWas that just one of Iwashita's jokes?\nThen what about that hand, cold as ice★\nI didn't know.\nIt all felt like a sick joke.\nBut if Iwashita really had her sights set on me...\nIwashita was gazing at me meaningfully.\nHolding down the panic rising in me, I turned to face the last of them.{p}",
+   "edit_notes": [
+    "33:7d04: EDIT - stiff 'do think over that matter of making me your lover' -> 'do give some thought to making me your lover'."
+   ]
+  },
+  {
+   "id": "33:8484",
+   "op": "text",
+   "before": "Then she turned her back and started to walk out of the park.\nThat back looked familiar to Higashiyama.\n",
+   "en": "Then she turned her back and started to walk out of the park.\nHigashiyama knew that figure from behind.\n",
+   "edit_notes": [
+    "33:8484: EDIT - unidiomatic 'That back looked familiar' -> 'knew that figure from behind'."
+   ]
+  },
+  {
+   "id": "33:9350",
+   "op": "text",
+   "before": "\"W-Wait... wait a minute!\"\nI hurriedly cut in.\nThings were taking a strange turn.\nIwashita was staring straight at me.\nShe said it was something from long ago, but wasn't it really her own story?\nIn that case, the boy who hurt her was me★\nBut Iwashita raised a hand.\nShe stopped me before I could speak.\n\"...My story isn't over yet.\nIf you have something to say, save it until I've finished.\"\nAn icy voice.\nGoosebumps rose all over my skin.\nOnce I couldn't say a word, Iwashita began talking again.{p}",
+   "en": "\"W-Wait... wait a minute!\"\nI hurriedly cut in.\nThings were taking a strange turn.\nIwashita was staring straight at me.\nShe said it was something from long ago, but wasn't it really her own story?\nIn that case, the boy who hurt her was me★\nBut Iwashita raised a hand.\nShe stopped me before I could speak.\n\"...My story isn't over yet.\nIf you have something to say, save it until I've finished.\"\nAn icy voice.\nGoosebumps rose all over my skin.\nWhen I couldn't say a word, Iwashita began talking again.{p}",
+   "edit_notes": [
+    "33:9350: EDIT - awkward 'Once I couldn't say a word' -> 'When I couldn't say a word'."
+   ]
+  },
+  {
+   "id": "33:9fb8",
+   "op": "text",
+   "before": "Oh, you'd better not.\nSomeone your own age? You're bound to fight all the time.\nEven between lovers, one of them has to have the upper hand.\nThe one who leads, and the one who follows.\nThe strong and the weak.\nIt always works out better that way.\nBesides, I think someone older suits you better, {a}... heh heh.{p}",
+   "en": "Oh, you'd better not.\nSomeone your own age? You're bound to fight all the time.\nEven between lovers, one of them has to have the upper hand.\nThe one who leads, and the one who follows.\nThe strong and the weak.\nThat way, things are sure to go well.\nBesides, I think someone older suits you better, {a}... heh heh.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "33:b2dc",
+   "op": "text",
+   "before": "She looked, and the mailbox's slot had clamped tightly shut.\nAs if the mailbox had closed its mouth.\nThen hot blood ran down Date's arm.\nYaguchi frantically grabbed hold of him.\nBut it was too late.{p}",
+   "en": "When she looked, the mailbox's slot had clamped tightly shut.\nAs if the mailbox had closed its mouth.\nThen hot blood ran down Date's arm.\nYaguchi frantically grabbed hold of him.\nBut it was too late.{p}",
+   "edit_notes": [
+    "33:b2dc: EDIT - ungrammatical 'She looked, and the slot had...' -> 'When she looked, ...'."
+   ]
+  },
+  {
+   "id": "33:b788",
+   "op": "text",
+   "before": "The two of them had become just like the real Romeo and Juliet.\nBut that wasn't enough to make their love cool.\nThis time, they decided to try a telephone strategy.\nIf a parent answered, the call would just get cut off, so they had to be very careful.\nThey studied each family's routines and worked out the time that seemed safest.{p}",
+   "en": "The two of them had become just like the real Romeo and Juliet.\nBut that wasn't enough to cool their love.\nThis time, they decided to try a telephone strategy.\nIf a parent answered, the call would just get cut off, so they had to be very careful.\nThey studied each family's routines and worked out the time that seemed safest.{p}",
+   "edit_notes": [
+    "33:b788: EDIT - 'make their love cool' -> 'cool their love' (meaning 'cool off')."
+   ]
+  },
+  {
+   "id": "33:beb8",
+   "op": "text",
+   "before": "\"What scum.\nI swear I'll find them and beat the hell out of them!\"\nDate was never the kind of person who resorted to violence without good reason.\nBut he couldn't forgive the people who had tormented his beloved Yaguchi.{p}",
+   "en": "\"What scum.\nI swear I'll find them and beat them senseless!\"\nDate was never the kind of person who resorted to violence without good reason.\nBut he couldn't forgive the people who had tormented his beloved Yaguchi.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "33:c7c4",
+   "op": "choice",
+   "before": "Wait and watch a little longer",
+   "en": "Wait and see a little longer",
+   "edit_notes": [
+    "33:c7c4: EDIT - choice has the same Japanese as 33:4c08; matched its wording 'Wait and see a little longer'."
+   ]
+  },
+  {
+   "id": "33:d430",
+   "op": "text",
+   "before": "\"But... that's... I can't go.\"\nThat's what she said.\n\"What the hell?\nYou're the one who called me out here.\nAre you messing with me★\"\nOn the other end of the line, Date seemed to be getting really angry.\nThey might end up fighting again.{p}What should she do?\n",
+   "en": "\"But... that's... I can't go.\"\nThat's what she said.\n\"What's that supposed to mean?!\nYou're the one who called me out here.\nAre you messing with me★\"\nOn the other end of the line, Date seemed to be getting really angry.\nThey might end up fighting again.{p}What should she do?\n",
+   "edit_notes": []
+  },
+  {
+   "id": "33:e120",
+   "op": "text",
+   "before": "Unable to bear the pain, she screamed.\nAnd in front of her family, who came running in alarm, something unbelievable happened.\nHer body began to ripple and undulate.\nAs if everything under her skin had turned to liquid.\n...No, it really had turned to liquid.\nThe tentacles burst out through her skin with such force, and a cloudy white fluid came flowing from their tips.\n",
+   "en": "Unable to bear the pain, she screamed.\nAnd in front of her family, who came running in alarm, something unbelievable happened.\nHer body began to ripple and undulate.\nAs if everything under her skin had turned to liquid.\n...No, it really had turned to liquid.\nThe tentacles burst out through her skin with tremendous force, and a cloudy white fluid came flowing from their tips.\n",
+   "edit_notes": [
+    "33:e120: EDIT - 'with such force, and' dangles (no 'that' clause) -> 'with tremendous force'"
+   ]
+  },
+  {
+   "id": "33:e5ac",
+   "op": "text",
+   "before": "She jumped and spun around, and there stood Date.\n\"So this is where you were.\"\nThat's what he was saying.\nYaguchi acted a little angry.\n\"What do you mean, 'so this is where you were'?\nYou called me from here, didn't you, Date?\nThat's why I...\"\n\"I didn't call you or anybody.\"\nDate shook his head.\n\"What? But...\"\n\"You said you'd call me, so I was waiting.\nBut then I got this bad feeling... so I came looking for you.\"\nYaguchi couldn't say a word.{p}",
+   "en": "She jumped and spun around, and there stood Date.\n\"So this is where you were.\"\nThat's what he said.\nYaguchi made a show of being a little angry.\n\"What do you mean, 'so this is where you were'?\nYou called me from here, didn't you, Date?\nThat's why I...\"\n\"I never called you.\"\nDate shook his head.\n\"What? But...\"\n\"You said you'd call me, so I was waiting.\nBut then I got this bad feeling... so I came looking for you.\"\nYaguchi couldn't say a word.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "33:e890",
+   "op": "text",
+   "before": "\"Damn you for getting in my way... A little more and she would have been mine.\"\nThe voice came from the phone.\nEven though no one had picked up the receiver yet.\n\"What the hell is this?\"\nDate said, reaching out his hand.{p}",
+   "en": "\"Damn you for getting in my way... A little more and she would have been mine.\"\nThe voice came from the phone.\nEven though no one had picked up the receiver yet.\n\"What's this?\"\nDate said, reaching out his hand.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "33:ea40",
+   "op": "text",
+   "before": "......And the next day, the two of them were found.\nDate, strangled with the phone cord, and Yaguchi lying collapsed beside him.\nThe small-minded adults decided it was a breakup that had turned ugly.\nThey wouldn't even listen to what Yaguchi had to say.\nHonestly, how thickheaded adults are.\nIt's adults like that who deserve to be killed by ghosts.\nDon't you think so?{p}",
+   "en": "......And the next day, the two of them were found.\nDate, strangled with the phone cord, and Yaguchi lying collapsed beside him.\nThe small-minded adults decided it was a breakup that had turned ugly.\nThey wouldn't even listen to what Yaguchi had to say.\nHonestly, adults are so thickheaded.\nIt's adults like that who deserve to be killed by ghosts.\nDon't you think so?{p}",
+   "edit_notes": [
+    "33:ea40: EDIT - clumsy 'Honestly, how thickheaded adults are.' -> 'Honestly, adults are so thickheaded.'"
+   ]
+  },
+  {
+   "id": "33:ef64",
+   "op": "text",
+   "before": "As Yaguchi tried to scream, the receiver swallowed her with a slurp.\nYes, there's no other word for it but 'swallowed.'\nHalf of Yaguchi's body was sticking out of a receiver no bigger than a fist.\nIt was like some absurd joke of surrealism.\nAnd then the receiver slowly gulped down the rest of her.{p}",
+   "en": "As Yaguchi tried to scream, the receiver swallowed her with a slurp.\nYes, there's no other word for it but 'swallowed.'\nHalf of Yaguchi's body was sticking out of a receiver no bigger than a fist.\nIt was like some absurd surrealist joke.\nAnd then the receiver slowly gulped down the rest of her.{p}",
+   "edit_notes": [
+    "33:ef64: EDIT - awkward 'absurd joke of surrealism' -> 'absurd surrealist joke'"
+   ]
+  },
+  {
+   "id": "33:f41c",
+   "op": "text",
+   "before": "\"Right behind you...\"\nYaguchi tried to turn around.\nBut she couldn't.\nIt was as though the muscles in her neck had locked up.\nAnd then, at long last, a breath really did blow on her from behind.\n",
+   "en": "\"Right behind you...\"\nYaguchi tried to turn around.\nBut she couldn't.\nIt was as though the muscles in her neck had locked up.\nAnd then, at last, a breath really did blow on her from behind.\n",
+   "edit_notes": [
+    "33:f41c: EDIT - 'at long last' implies relief/anticipation, wrong for the horror beat -> 'at last'"
+   ]
+  },
+  {
+   "id": "33:10db4",
+   "op": "text",
+   "before": "I'm so happy.\nI'll call you tonight, right away.{p}",
+   "en": "I'm so happy.\nI'll call you first thing tonight.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "34:25d4",
+   "op": "text",
+   "before": "When she went through the old graduation albums, she found Okazaki right away.\nHer full name was Yukie Okazaki.\nShe had been a student about twenty-five years before Okawa.\nThat Okazaki had known about Rubelize so long ago, and had even owned it, made Okawa hate her bitterly.\nBack then, power stones weren't even something ordinary people talked about.\nThat's just how selfish people are.{p}Naturally, you can guess what Okawa had in mind, can't you?\n",
+   "en": "When she went through the old graduation albums, she found Okazaki right away.\nHer full name was Yukie Okazaki.\nShe had been a student about twenty-five years before Okawa.\nThat Okazaki had known about Rubelize so long ago, and had even owned it, filled Okawa with bitter resentment.\nBack then, power stones weren't even something ordinary people talked about.\nThat's just how selfish people are.{p}Naturally, you can guess what Okawa had in mind, can't you?\n",
+   "edit_notes": [
+    "34:25d4: EDIT - returns note: 'made Okawa hate her bitterly' -> 'filled Okawa with bitter resentment' (nikurashiku omoeta, galling/resentful rather than hate)"
+   ]
+  },
+  {
+   "id": "34:42e8",
+   "op": "text",
+   "before": "Thinking such things, she wandered out of the school in despair, unsteady on her feet.\nAnd she was hit in a traffic accident.\nShe was struck by an oncoming car and killed instantly.\nThey say even after she breathed her last, she was still clutching the pendant that brought happiness.\nThat Rubelize power stone.\nThis came out afterward, but by then the organ was already gone from this world.\nOn her father's orders, the organ hadn't been sold; it had been destroyed.\nThe teacher couldn't bear to say so and lied that it had been sold.\nBut that lie led to her death.\nThe organ went to heaven, and she followed after it, to where the organ was.\nI wonder if she's playing the organ in heaven now.\nFor the angels who died young...{p}",
+   "en": "Thinking such things, she wandered out of the school in despair, unsteady on her feet.\nAnd she was caught in a traffic accident.\nShe was struck by an oncoming car and killed instantly.\nThey say even after she breathed her last, she was still clutching the pendant that brought happiness.\nThat Rubelize power stone.\nThis came out afterward, but by then the organ was already gone from this world.\nOn her father's orders, the organ hadn't been sold; it had been destroyed.\nThe teacher couldn't bear to say so and lied that it had been sold.\nBut that lie led to her death.\nThe organ went to heaven, and she followed after it, to where the organ was.\nI wonder if she's playing the organ in heaven now.\nFor the angels who died young...{p}",
+   "edit_notes": [
+    "34:42e8: EDIT - clumsy 'she was hit in a traffic accident' -> 'caught in a traffic accident' (next line already says she was struck)"
+   ]
+  },
+  {
+   "id": "34:4958",
+   "op": "text",
+   "before": "Graveyards are frightening even in the daytime, I think.\nAnd this was the middle of the night.\nA high school girl, all alone.\nThat's not something just anyone could do.\nAnd her purpose was grave robbing, no less.\nOkawa must have had nerves of steel.\nOr maybe the Rubelize sleeping in the grave called her to it.\nHeh heh...\nIn any case, she moved the gravestone aside and took Okazaki's urn out from inside.\nAnd when she opened the urn... there it was.{p}",
+   "en": "I think graveyards are frightening even in the daytime.\nAnd this was the middle of the night.\nA high school girl, all alone.\nThat's not something just anyone could do.\nAnd her purpose was grave robbing, at that.\nOkawa must have had nerves of steel.\nOr perhaps the Rubelize sleeping in the grave was calling her to it.\nHeh heh...\nEither way, she moved the gravestone aside and took Okazaki's urn out from inside.\nAnd when she opened the urn... there it was.{p}",
+   "edit_notes": [
+    "34:4958: EDIT - same Japanese as 34:84d4 / 34:9b48 (plus one closing line); wording aligned to those echoes"
+   ]
+  },
+  {
+   "id": "34:61b4",
+   "op": "text",
+   "before": "She was a girl from a perfectly ordinary family.\nBut apparently the son and heir of a certain wealthy zaibatsu family gave her a Rubelize.\nThey say even at the prices back then it cost as much as a house, so it was a present far beyond anything we'd think of as normal.\nThe zaibatsu boy's name was Hideto Fujiomi.\nFujiomi had been in love with Okazaki for a long time, without her returning it.\nHe gave her the Rubelize and confessed, asking her to go out with him.\nOkazaki was a very pretty girl.\nShe had a distinctive kind of cuteness, the kind that could have made her an idol.\nHer classmates were all envious.\nBack then, no one cared yet about Rubelize being a stone that brings happiness.\nBut since it was a rare stone even by world standards, it seems it became the talk of the school.\nSo the girls who told Okawa about her must have heard that rumor from somewhere too.{p}",
+   "en": "She was a girl from a perfectly ordinary family.\nBut apparently the son and heir of a certain wealthy zaibatsu family gave her a Rubelize.\nThey say even at the prices back then it cost as much as a house, so it was a present far beyond anything we'd think of as normal.\nThe zaibatsu boy's name was Hideto Fujiomi.\nFujiomi had been in love with Okazaki for a long time, without her returning it.\nHe gave her the Rubelize and confessed, asking her to go out with him.\nOkazaki was a very pretty girl.\nShe had a distinctive kind of cuteness, the kind that could have made her an idol.\nHer classmates were all envious.\nBack then, no one yet cared that the Rubelize was a stone that brings happiness.\nBut since it was a rare stone even by world standards, it seems it became the talk of the school.\nSo the girls who told Okawa about her must have heard that rumor from somewhere too.{p}",
+   "edit_notes": [
+    "34:61b4: EDIT - returns note: added article, 'no one yet cared that the Rubelize was a stone that brings happiness' (also matches the echo lines 34:2a3c / 34:a86c)"
+   ]
+  },
+  {
+   "id": "34:683c",
+   "op": "text",
+   "before": "The answers were faintly rising up on her answer sheet.\n(Wh-what is this...?)\nShe was astonished.\nIt didn't take her long to realize it was the Rubelize's power.\n\"How was it?\nThe test?\"\nThe moment the test was over, Fujiomi came straight over to talk to her.\nOkazaki answered him with trembling lips.\n\"It really worked...\"\nSeeing the state she was in, Fujiomi smiled with satisfaction.\nAnd he slowly nodded.{p}",
+   "en": "The answers were faintly rising to the surface of her answer sheet.\n(Wh-what is this...?)\nShe was astonished.\nIt didn't take her long to realize it was the Rubelize's power.\n\"How was it?\nThe test?\"\nThe moment the test was over, Fujiomi came straight over to talk to her.\nOkazaki answered him with trembling lips.\n\"It really worked...\"\nSeeing the state she was in, Fujiomi smiled with satisfaction.\nAnd he slowly nodded.{p}",
+   "edit_notes": [
+    "34:683c: EDIT - 'faintly rising up on' -> 'faintly rising to the surface of' (keeps ukabiagaru image, reads naturally)"
+   ]
+  },
+  {
+   "id": "34:75f0",
+   "op": "text",
+   "before": "I'm the one who stole the Rubelize.\nOnly you and I know about the Rubelize's power, right?\nSo I decided to shut you up.\nFrom here on, I'm going to graduate from a good university and land a good job.\nWith the stone's power.\nI was worried that using the stone's power might bring something horrible as the price, but...\nit looks like that's not a problem.\nAt the test, and when we changed the weather, no disaster befell you, the one who made the wishes.\nNow I'll put my real goal to the test.\nOkazaki.\nI want to kill you.{p}",
+   "en": "I'm the one who stole the Rubelize.\nOnly you and I know about the Rubelize's power, right?\nSo I decided to shut you up.\nFrom here on, I'm going to graduate from a good university and land a good job.\nWith the stone's power.\nI was worried that using the stone's power might bring something horrible as the price, but...\nit looks like that's not a problem.\nWith the test, and when we changed the weather, nothing bad happened to you, and you were the one making the wishes.\nNow I'll put my real goal to the test.\nOkazaki.\nI want to kill you.{p}",
+   "edit_notes": [
+    "34:75f0: EDIT - stiff 'no disaster befell you, the one who made the wishes' -> spoken phrasing for Fujiomi"
+   ]
+  },
+  {
+   "id": "34:7b20",
+   "op": "text",
+   "before": "\"Wh...waaaaaaaah!☆\"\n.........{p}",
+   "en": "\"Uh...waaaaaaaah!☆\"\n.........{p}",
+   "edit_notes": [
+    "34:7b20: EDIT - returns note: Fujiomi's scream 'Wh...waaaaaaaah!' -> 'Uh...waaaaaaaah!' (u...waa; 'Wh' read as a word start)"
+   ]
+  },
+  {
+   "id": "34:83b0",
+   "op": "text",
+   "before": "...But Okawa couldn't give up.\nSo at last she made up her mind.\nShe would secretly dig up Okazaki's grave.\nWhat kind of nerves did she have, I wonder?\nShe seemed to think it was fine to steal from the dead as long as no one found out.\nOkawa waited for the dead of night, then put her plan into action.{p}",
+   "en": "...But Okawa couldn't give up.\nSo at last she made up her mind.\nShe would secretly dig up Okazaki's grave.\nWhat kind of nerve did she have, I wonder?\nShe seemed to think it was fine to steal from the dead as long as no one found out.\nOkawa waited for the dead of night, then put her plan into action.{p}",
+   "edit_notes": [
+    "34:83b0: EDIT - 'What kind of nerves did she have' -> 'nerve' (idiom; matches 34:27c4 / 34:9874)"
+   ]
+  },
+  {
+   "id": "34:a3b0",
+   "op": "text",
+   "before": "They say she was found killed, her mouth stuffed full of something like ash.\nNo doubt that ash was...{p}",
+   "en": "They say she was found dead, her mouth stuffed full of something like ash.\nNo doubt that ash was...{p}",
+   "edit_notes": [
+    "34:a3b0: EDIT - 'found killed' -> 'found dead' (the line itself still says she was killed by stuffing)"
+   ]
+  },
+  {
+   "id": "34:a41c",
+   "op": "text",
+   "before": "Heh heh...\nHopeless Okawa.\nShe had drive enough to dig up a grave, so why didn't she try to make her own way through her fate with her own strength?{p}",
+   "en": "Heh heh...\nHopeless Okawa.\nShe had drive enough to dig up a grave, so why didn't she try to walk the road of her fate on her own strength?{p}",
+   "edit_notes": [
+    "34:a41c: EDIT - 'make her own way through her fate with her own strength' (double 'own') -> 'walk the road of her fate on her own strength' (unmei wo ayumu)"
+   ]
+  },
+  {
+   "id": "34:cee0",
+   "op": "text",
+   "before": "I'm the one who's your mother.\nLet me play the organ for you.\nAfter all, I parted from my husband when you were still just a baby.\nLet me play you a lullaby.\nMy sweet Yukie...\"\nOkazaki grew sleepier and sleepier.{p}",
+   "en": "I'm your real mother.\nLet me play the organ for you.\nAfter all, I parted from my husband when you were still just a baby.\nLet me play you a lullaby.\nMy sweet Yukie...\"\nOkazaki grew sleepier and sleepier.{p}",
+   "edit_notes": [
+    "34:cee0: EDIT - 'I'm the one who's your mother' (watashi koso) -> 'I'm your real mother'; clumsy, and the scene is two women claiming to be the mother"
+   ]
+  },
+  {
+   "id": "34:d61c",
+   "op": "text",
+   "before": "The man with the knife noticed Okazaki.\nAnd he slowly came toward her.\nRaising the knife as he came.\nThe beautiful schoolgirl was muttering, her stabbed head swaying.\n\"I'm your mother, I'm your mother, I'm your mother...\"\nOkazaki's mind froze with terror.\n\"Mother☆ Help me☆\nMother☆\"\nShe begged desperately for help.\nFrom the woman with the low voice, that is.\nBut...\n\"Yukie. I warned you.\nI am not your mother.\nI never said a single word of the sort, did I?\nNo, no. If you want to make a wish of me, you have to hold the Rubelize.\nMy sweet Yukie...\"{p}",
+   "en": "The man with the knife noticed Okazaki.\nAnd he slowly came toward her.\nRaising the knife as he came.\nThe beautiful schoolgirl was muttering, her stabbed head swaying.\n\"I'm your mother, I'm your mother, I'm your mother...\"\nOkazaki's mind froze with terror.\n\"Mother☆ Help me☆\nMother☆\"\nShe begged desperately for help.\nFrom the woman with the low voice, that is.\nBut...\n\"Yukie. I warned you.\nI am not your mother.\nI never said a single word of the sort, did I?\nNo, no. If you want to make a wish to me, you have to hold the Rubelize.\nMy sweet Yukie...\"{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "34:dc10",
+   "op": "text",
+   "before": "The person who found Okazaki's body said they thought they heard a woman's low voice behind them.\n\"My sweet Yukie...\nYou should have wished more clearly.\nTo let you meet your mother.\nYour mother is alive.\nShe had cut all ties with your father, but...\nShe truly was alive, and yet...\"{p}",
+   "en": "The person who found Okazaki's body said they thought they heard a woman's low voice behind them.\n\"My sweet Yukie...\nYou should have wished more clearly:\n'Let me meet my mother.'\nYour mother is alive.\nShe had cut all ties with your father, but...\nShe truly was alive, and yet...\"{p}",
+   "edit_notes": [
+    "34:dc10: EDIT - returns note settled: wish now quoted as the wish itself ('Let me meet my mother.') instead of the awkward 'To let you meet your mother.'"
+   ]
+  },
+  {
+   "id": "34:e3a8",
+   "op": "text",
+   "before": "\"Aaaaaaaaaah☆\"\nWhat stood there was a mummy in a school uniform.\nWith its bony hand, skin still clinging to it, the mummy gripped Okazaki's arm hard.\nAnd in a beautiful, clear voice, it spoke to her.\n\"You fell for it.\nI'm no mother of yours.\nYou had the Rubelize, didn't you?\nThen you should've just wished to meet your mother, shouldn't you?\nHeh heh heh......\"\n(M... Mother☆)\nOkazaki prayed desperately.\nIf her mother was out there somewhere...\nIf she called to her with all her heart, maybe she would come, she thought.\nBut...\nHer mother's spirit never came to help her.\nBecause her mother was alive.\nShe had cut ties with her father, but she was living her life somewhere, safe and sound.\nHeh heh...\nOkazaki was taken away by the spirit of the schoolgirl who had played the organ.\nHer soul was torn right out of her.{p}",
+   "en": "\"Aaaaaaaaaah☆\"\nWhat stood there was a mummy in a school uniform.\nWith its bony hand, skin still clinging to it, the mummy gripped Okazaki's arm hard.\nAnd in a beautiful, clear voice, it spoke to her.\n\"You fell for it.\nI'm no mother of yours.\nYou had the Rubelize, didn't you?\nThen you should've just wished to meet your mother, shouldn't you?\nHeh heh heh......\"\n(M... Mother☆)\nOkazaki prayed desperately.\nIf her mother was out there somewhere...\nIf she called to her with all her heart, maybe she would come, she thought.\nBut...\nHer mother's spirit never came to help her.\nBecause her mother was alive.\nShe had cut ties with her father, but she really was out there somewhere, living her life.\nHeh heh...\nOkazaki was taken away by the spirit of the schoolgirl who had played the organ.\nHer soul was torn right out of her.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "34:e6d0",
+   "op": "text",
+   "before": "It seems the schoolgirl's spirit was an earthbound spirit that had attached itself to the organ.\nDid you know?\nThey say spirits easily attach themselves to instruments that haven't been used for a long time.\nOkazaki just happened to be the one the spirit preyed on, that's all.\nNow there's no knowing who that low voice that warned her really was.\nWell, I can more or less imagine.\nHeh heh...{p}",
+   "en": "It seems the schoolgirl's spirit was an earthbound spirit that had attached itself to the organ.\nDid you know?\nThey say spirits easily attach themselves to instruments that haven't been used for a long time.\nOkazaki just happened to be the one the spirit preyed on, that's all.\nNow there's no knowing whose low voice it was that warned her.\nWell, I can more or less imagine.\nHeh heh...{p}",
+   "edit_notes": [
+    "34:e6d0: EDIT - clumsy double relative 'who that low voice that warned her really was' -> 'whose low voice it was that warned her'"
+   ]
+  },
+  {
+   "id": "34:fa30",
+   "op": "text",
+   "before": "Heh heh...\nOkawa was a fool.\nIf it were me, I'd seize happiness with my own hands.\nI'd get it even if I had to kill someone for it.\nFate is something you carve out for yourself...\nMy story ends here.{p}In the end, the seventh one never came.\nStill, I was quite well entertained.\nWell then, shall we head home soon...?{p}",
+   "en": "Heh heh...\nOkawa was a fool.\nIf it were me, I'd seize happiness with my own hands.\nI'd get it even if I had to kill someone for it.\nFate is something you carve out for yourself...\nMy story ends here.{p}In the end, the seventh one never came.\nStill, I found it quite entertaining.\nWell then, shall we head home soon...?{p}",
+   "edit_notes": [
+    "34:fa30: EDIT - stiff 'I was quite well entertained' -> 'I found it quite entertaining' (Iwashita's poised voice kept)"
+   ]
+  },
+  {
+   "id": "35:124c",
+   "op": "text",
+   "before": "\"...With this, I think we can put together an interesting school paper.\nSo, with that, I'd like to bring this to a close...\"{p}",
+   "en": "\"...With all this, I think we can put together an interesting school paper.\nSo I'd like to bring things to a close here...\"{p}",
+   "edit_notes": [
+    "35:124c: EDIT - clumsy 'With this... So, with that' doubled -> one clean wrap-up line"
+   ]
+  },
+  {
+   "id": "35:186c",
+   "op": "text",
+   "before": "{f:I|I} decided to help myself without holding back.\nEveryone picked up whatever they liked.\nFrom among them, {f:I|I} chose the orange juice.\nOne hundred percent juice.\nI opened the cap and brought it to my mouth.\n...Mmm, {f:that's good|delicious}.\nMaybe because I'd been so tense, the nicely chilled orange juice felt {f:great|so nice} going down.{p}",
+   "en": "{f:I|I} decided to help myself without holding back.\nEveryone took whatever they liked.\nFrom among them, {f:I|I} chose the orange juice.\nOne hundred percent juice.\nI opened the cap and brought it to my mouth.\n...Mmm, {f:that's good|delicious}.\nMaybe because I'd been so tense, the nicely chilled orange juice felt {f:great|so nice} going down.{p}",
+   "edit_notes": [
+    "35:186c: EDIT - 'picked up' -> 'took', matching the same line in the other four drink branches"
+   ]
+  },
+  {
+   "id": "35:19bc",
+   "op": "text",
+   "before": "Once everyone had mostly finished their drinks, Hino leaned forward.\nIt {f:seemed|looked like} he was finally going to tell us the last story.\nEveryone braced themselves.\n...Come to think of it, {f:did Hino even like|I wondered if Hino even liked} scary stories.\nI'd never really heard anything like that about him{f:, but|, but} you can't judge a person by appearances.\nMaybe that had shown on {f:my|my} face{f:.|.}{p}",
+   "en": "Once everyone had mostly finished their drinks, Hino leaned forward.\nIt {f:seemed|looked like} he was finally going to tell us the last story.\nEveryone braced themselves.\n...Come to think of it, {f:did Hino even like scary stories?|I wondered if Hino even liked scary stories.}\nI'd never really heard anything like that about him{f:, but|, but} you can't judge a person by appearances.\nMaybe that had shown on {f:my|my} face{f:.|.}{p}",
+   "edit_notes": [
+    "35:19bc: EDIT - male branch was a question ending in a period; moved the whole clause into {f:} so the male side gets '?' (same {f} count)"
+   ]
+  },
+  {
+   "id": "35:25b0",
+   "op": "text",
+   "before": "Shindo, you know Iwayama, right?\nThat guy. Him.\nThe one who's good with his hands.\nQuick with his hands, you could also say.\nI bet he'd go far if he became a thief... wait, that's a crime, huh.{p}",
+   "en": "Shindo, you know Iwayama, right?\nHim. You know, that guy.\nThe one who's good with his hands.\nOr you could say he's quick with his hands.\nI bet he'd go far if he became a thief... wait, that's a crime, huh.{p}",
+   "edit_notes": [
+    "35:25b0: EDIT - stiff 'That guy. Him.' and 'Quick with his hands, you could also say.' -> spoken phrasing"
+   ]
+  },
+  {
+   "id": "35:2688",
+   "op": "text",
+   "before": "Shirai's famous for how he guards his keys.\nThere are three keys just for the storeroom, and the bastard keeps them in a safe, inside a locked cabinet.\nTruth is, I'd been working on this plan for about half a year now.\nIf I uncovered Shirai's secret, that alone would be a guaranteed scoop.\nHonestly, I wanted to run it big as a front-page exclusive, not as one piece of some school seven wonders feature like this.\nBut while I was dragging my feet with one thing and another, this seven wonders project tied to the demolition of the old school building came up, so for me, it's all ending up a bit of a letdown.{p}",
+   "en": "Shirai's famous for how he guards his keys.\nThere are three keys just for the storeroom, and the guy's gone and stuck them in a safe, inside a locked cabinet.\nTruth is, I'd been working on this plan for about half a year now.\nIf I uncovered Shirai's secret, that alone would be a guaranteed scoop.\nHonestly, I wanted to run it big as a front-page exclusive, not as one piece of some school seven wonders feature like this.\nBut while I was dragging my feet with one thing and another, this seven wonders project tied to the demolition of the old school building came up, so for me, it's all ending up a bit of a letdown.{p}",
+   "edit_notes": [
+    "35:2688: EDIT (returns) - 'the bastard' was a noun insult the source lacks (only contemptuous -yagaru); now 'the guy's gone and stuck them', keeping the scorn"
+   ]
+  },
+  {
+   "id": "35:301c",
+   "op": "text",
+   "before": "And I wondered what the hell was going on.\nThe room looked like it went pretty far back, but it was pitch-black and I couldn't see a thing.\nThere seemed to be all kinds of stuff cluttered around, but none of it made any sense.\nWalking around carelessly would be dangerous.\nIf I could just get the light on, I'd be able to see clearly.\nI was desperately trying to find the switch.\nThat's when it happened.\nBehind me, I heard the sound of something falling over.{p}",
+   "en": "And I wondered what on earth was going on.\nThe room looked like it went pretty far back, but it was pitch-black and I couldn't see a thing.\nThere seemed to be all kinds of stuff cluttered around, but none of it made any sense.\nWalking around carelessly would be dangerous.\nIf I could just get the light on, I'd be able to see clearly.\nI was desperately trying to find the switch.\nThat's when it happened.\nBehind me, I heard the sound of something falling over.{p}",
+   "edit_notes": [
+    "35:301c: EDIT - 'what the hell' was added profanity (source: plain nanigoto ka) -> 'what on earth'"
+   ]
+  },
+  {
+   "id": "35:317c",
+   "op": "text",
+   "before": "I looked, and there was Iwayama, collapsed on the floor, gasping like he was in pain.\n\"Hey, Iwayama.\"\n\"...Hino. I feel sick.\nThis room stinks. I can't... take it...\"\nThat jerk Iwayama got drunk off how much the place reeked of formalin.{p}",
+   "en": "I looked, and there was Iwayama, collapsed on the floor, gasping like he was in pain.\n\"Hey, Iwayama.\"\n\"...Hino. I feel sick.\nThis room stinks. I can't... take it...\"\nThe formalin stink was so strong that the jerk Iwayama got drunk on it.{p}",
+   "edit_notes": [
+    "35:317c: EDIT - clumsy 'got drunk off how much the place reeked' -> natural sentence, 'jerk' kept"
+   ]
+  },
+  {
+   "id": "35:4f10",
+   "op": "text",
+   "before": "\"Even like that, they're alive.\nAnd now they're my comrades.\nThe only difference is whether you keep a human shape like this or not.\"\nThen he looked at {f:me|me} once more and laughed.\n\"...Whether you get to keep the shape you've got now probably depends on you.\nIf you fuse well, let's make more comrades together.\nHeh heh heh...\"\nThen he turned his eyes the opposite way from the living lumps of flesh.{p}",
+   "en": "\"Even like that, they're alive.\nAnd now they're my comrades.\nThe only difference is whether you keep a human shape like this or not.\"\nThen he looked at {f:me|me} once more and laughed.\n\"...Whether you get to keep the shape you've got now probably depends on you.\nIf you fuse well, let's make more comrades together.\nHee hee hee...\"\nThen he turned his eyes the opposite way from the living lumps of flesh.{p}",
+   "edit_notes": [
+    "35:4f10: EDIT - Hino's ihihi was 'Heh heh heh', Iwashita's laugh; -> 'Hee hee hee', in line with his 'Kuh hee hee hee' in 35:5650"
+   ]
+  }
+ ]
+}

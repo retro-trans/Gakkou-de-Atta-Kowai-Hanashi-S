@@ -1,0 +1,439 @@
+{
+ "slice": "S108",
+ "scene": "27",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S107",
+ "next": "S109",
+ "todo": [],
+ "rows": [
+  {
+   "id": "27:ae84",
+   "op": "text",
+   "en": "{f:There it was|……}!{p}"
+  },
+  {
+   "id": "27:aec8",
+   "op": "text",
+   "en": "Two eyeballs, floating about ten centimeters from {f:my|my} shoulder.\nTheir dark irises were staring at {f:me|me}.\nForgetting even to scream, {f:I|I} stared back at {f:the thing|it}.\nMy head swam with a wave of dizziness.\nThe strength drained out of my legs.\nIt seemed I'd lost control of my body again.\nThe instant I started to black out, the eyeballs leapt into {f:my|my} mouth.{p}"
+  },
+  {
+   "id": "27:b02c",
+   "op": "text",
+   "en": "Something slimy, like firm jelly, slid across my tongue.\nA raw, fishy stench.\nI couldn't help gagging.{p}"
+  },
+  {
+   "id": "27:b0a0",
+   "op": "text",
+   "en": "But the eyeballs didn't care about any of that; they kept shoving their way in, deeper and deeper.\nI couldn't make a sound.\nI couldn't breathe.\nIt hurt so much that tears came.{p}"
+  },
+  {
+   "id": "27:b11c",
+   "op": "text",
+   "en": "And at last, the smooth eyeballs were forced down into the back of my throat.\n...Strangely, I didn't feel sick anymore.{p}"
+  },
+  {
+   "id": "27:b190",
+   "op": "text",
+   "en": "My mind went blank, and I felt so sleepy I could hardly stand it.\nMaybe I should just fall asleep like this.\n{f:I|I} curled up on the floor and hugged my knees.\nI heard someone's voice.\nSleep... sleep...\nThat body of yours... I'll be taking it...\n...Whose voice was that?\nHad {f:I|I} {f:fallen|fallen} into the trap of some demon that nested in this school?\n...But I didn't care anymore{f:|}.\n{f:I|I} was sleepy{f:|}.\nI'd just go to sleep like this{f:|}... forever.\nIn the moment I drifted off, I felt something evil, a wicked will, inside my body.\nBut what that meant...{p}{f:I|I} no longer had the strength even to think about it.{p}"
+  },
+  {
+   "id": "27:b3cc",
+   "op": "text",
+   "follows_choice": [
+    "27:a9f0"
+   ],
+   "en": "Hosoda had come back for me{f:|}.\nI stood up, and the door opened in front of {f:me|me}.{p}"
+  },
+  {
+   "id": "27:b44c",
+   "op": "text",
+   "en": "\"Still haven't changed your mind?\"\nIt was Hosoda, just as I'd thought{f:|}.\nBefore I could freeze up again, I hurried over to him.\n\"{f:I'm|I'm} coming too!\"{p}"
+  },
+  {
+   "id": "27:b4f4",
+   "op": "text",
+   "en": "Hosoda nodded, looking relieved.\nI see. That's good.\nThen let's head for the restroom where they say Hanako-san appears.\nOn the way, I'll tell you a story.\nA story about Hanako-san.{p}"
+  },
+  {
+   "id": "27:b5ac",
+   "op": "text",
+   "follows_choice": [
+    "27:2b68"
+   ],
+   "en": "Wow, that's really something.\nI'm not being sarcastic.\nFor me, it's rarer NOT to get a failing grade.\nI envy you.\nAnyway, shall I go on with the story?{p}"
+  },
+  {
+   "id": "27:b650",
+   "op": "text",
+   "follows_choice": [
+    "27:2b70"
+   ],
+   "en": "You don't remember?\nAre you maybe the type who never learns their lesson?\nThe type who gets called in for a failing grade and just goes home anyway?\nIf so, you'd better quit doing that.\nIt's not about getting chewed out by the teachers or anything like that.{p}"
+  },
+  {
+   "id": "27:b720",
+   "op": "text",
+   "en": "Why, you ask...\nThat time, there were six students kept behind.\nFour boys and two girls.\nBut there were seven students who'd gotten failing grades.\nEven so, the last one never showed up.\n...A lot like us today, isn't it?{p}"
+  },
+  {
+   "id": "27:b7e8",
+   "op": "text",
+   "follows_choice": [
+    "27:3030"
+   ],
+   "en": "Oh, okay.\nThat's for the best.{p}"
+  },
+  {
+   "id": "27:b80c",
+   "op": "text",
+   "follows_choice": [
+    "27:30f8"
+   ],
+   "en": "Don't.\nI'm not trying to be mean to you or anything.\nIt's better if you don't go.{p}...But if you absolutely insist on going, I won't stop you anymore.\n"
+  },
+  {
+   "id": "27:b8a0",
+   "op": "choice",
+   "en": "On second thought, I won't go"
+  },
+  {
+   "id": "27:b8b0",
+   "op": "choice",
+   "en": "I really have to go"
+  },
+  {
+   "id": "27:b8cc",
+   "op": "text",
+   "follows_choice": [
+    "27:b8a0"
+   ],
+   "en": "...I see. That's good.\nSorry for saying such strange things.\nI'm only saying it for your own good, you know.{p}"
+  },
+  {
+   "id": "27:b92c",
+   "op": "text",
+   "follows_choice": [
+    "27:b8b0"
+   ],
+   "en": "...All right.\nBut be careful, okay?\nWith that, Hosoda fell silent.\nHe was watching {f:me|me} with a strange look in his eyes.\nI had a bad feeling about it, but {f:I|I} stood up.{p}"
+  },
+  {
+   "id": "27:b9fc",
+   "op": "text",
+   "en": "I stepped out into the creaking hallway.{p}{f:Now|Now}, which way was the restroom{f:|}?\n"
+  },
+  {
+   "id": "27:ba60",
+   "op": "choice",
+   "en": "Right"
+  },
+  {
+   "id": "27:ba64",
+   "op": "choice",
+   "en": "Left"
+  },
+  {
+   "id": "27:ba68",
+   "op": "text",
+   "follows_choice": [
+    "27:ba60"
+   ],
+   "en": "{f:I|I} decided to try going right.{p}"
+  },
+  {
+   "id": "27:baa4",
+   "op": "text",
+   "en": "I could feel the floor sink whenever I put my weight on it.\nIf I wasn't careful, the floorboards might really snap and I'd fall right through.{p}"
+  },
+  {
+   "id": "27:bb10",
+   "op": "text",
+   "en": "I moved forward carefully, one step at a time.\nBut when I reached the end of the dark hallway, {f:I|I} was let down.{p}"
+  },
+  {
+   "id": "27:bb94",
+   "op": "text",
+   "en": "It was a dead end.\nThere was no restroom anywhere.\nWas it on the other side{f:|}?\nWith that thought, I turned around.{p}"
+  },
+  {
+   "id": "27:bc30",
+   "op": "text",
+   "en": "...Hosoda was right in front of me.\n\"There's no restroom this way.\nLet's go back now.\"\nHe said it in a gentle voice, as if he hadn't noticed that {f:I|I} was so startled I'd nearly stopped breathing.\n{f:I|I} nodded without a word.\nThat shock had killed any urge to go to the restroom {f:I'd had|I'd had}.{p}"
+  },
+  {
+   "id": "27:bd48",
+   "op": "text",
+   "en": "{f:Hosoda and I|Hosoda and I} went back to the classroom where we'd been.\nAnd then the story picked up where it had left off.{p}"
+  },
+  {
+   "id": "27:bd9c",
+   "op": "text",
+   "follows_choice": [
+    "27:ba64"
+   ],
+   "en": "{f:I|I} decided to try going left.{p}"
+  },
+  {
+   "id": "27:bde4",
+   "op": "text",
+   "en": "I found the restroom right away.\nI hurried inside.\nAnd there, {f:I|I} saw something unbelievable.{p}"
+  },
+  {
+   "id": "27:be64",
+   "op": "text",
+   "en": "Skulls, lots of them, set into the wall.\nThe hair on the back of my neck stood on end.\n...But {f:I|I} soon realized my mistake.\nThey weren't skulls.\nThey were stains on the wall{f:|}.\nThey were shaped like human faces.\nBut for so many stains to all have the exact same shape...\nIt felt eerie{f:|}.\n{f:I|I} went closer and took a good look at the stains.{p}"
+  },
+  {
+   "id": "27:bfc4",
+   "op": "text",
+   "en": "...For an instant, I thought the stains moved.\nStartled, I brought my face even closer.\n\"...What are you doing?\"{p}"
+  },
+  {
+   "id": "27:c044",
+   "op": "text",
+   "en": "Before I knew it, Hosoda was standing there.\n\"N-no, um... I just thought the stains moved a second ago.\"\nAs I said it, a sudden wave of embarrassment welled up in me.\nStains, moving?\nIt was like a frightened child seeing a curtain sway and deciding it was a ghost{f:|}.\n{f:I'd seen things only because I was so scared|Maybe I'd seen things only because I was so scared}.\n\"...It's nothing.\"\n\"Is that so?\nThen let's go back.\"{p}"
+  },
+  {
+   "id": "27:c1cc",
+   "op": "text",
+   "en": "{f:I|I} nodded and went back to the classroom with Hosoda.\nAnd then the story picked up where it had left off.{p}"
+  },
+  {
+   "id": "27:c248",
+   "op": "text",
+   "follows_choice": [
+    "27:3454"
+   ],
+   "en": "Are you serious?\nThey'd been there the whole time since classes ended.\nThey'd be getting hungry, and it'd be getting dark outside the windows...\nAnd yet not one of the six noticed.\nHowever you look at it, that's not normal.\nIf you don't think so, then either {f:you're the weird one|you just answered any old way}, or {f:you're seriously contrary|you're making fun of me}.\n{f:If you want to mess up my story that badly|How mean}, {f:suit yourself|I'm being serious about this story, you know}.\n{f:I'm going to keep on talking anyway|Please don't ruin the mood}.\n...Anyway, they all started to think something was wrong.{p}"
+  },
+  {
+   "id": "27:c460",
+   "op": "text",
+   "en": "Right?\nThey thought so too.{p}"
+  },
+  {
+   "id": "27:c494",
+   "op": "text",
+   "en": "That's when they should have just agreed to go home.\nBut that's not what happened.\nInstead, all the blame fell on the seventh one, the one who never came.\nWell, you can understand how they felt.\nThey were all supposed to go through this together, and one of them got to run off.\nSo they forgot all about the make-up class and turned it into a badmouthing session.\nThis is what's wrong with him, that's what I hate about him, that sort of thing.{p}"
+  },
+  {
+   "id": "27:c5e4",
+   "op": "text",
+   "en": "While they were really getting into it, there was a loud clunk.{p}"
+  },
+  {
+   "id": "27:c634",
+   "op": "text",
+   "en": "It came from the other side of the door.\nA teacher?\nThinking so, they hurried back to their seats, but nobody came in.{p}"
+  },
+  {
+   "id": "27:c6a0",
+   "op": "text",
+   "en": "Wondering what was going on, they peeked out the door.{p}And then... what do you think they found?\n"
+  },
+  {
+   "id": "27:c6f0",
+   "op": "choice",
+   "en": "A school bag"
+  },
+  {
+   "id": "27:c6fc",
+   "op": "choice",
+   "en": "Nothing at all"
+  },
+  {
+   "id": "27:c718",
+   "op": "text",
+   "follows_choice": [
+    "27:c6f0"
+   ],
+   "en": "There was a school bag lying in the hallway.\nSomeone picked it up and said,\n\"This is his bag.\"\n...Just like that.\nThat's right, it was the seventh one's bag.\nHad he overheard them badmouthing him?\nThe six looked at each other.\nThey must have thought they were in trouble.{p}"
+  },
+  {
+   "id": "27:c828",
+   "op": "text",
+   "en": "When they stuck their heads out into the hallway, someone ducked out of sight on the stair landing.\nIt was the seventh guy.\nAfter all the awful things they'd said about him, he must not have been able to bring himself to come in.\nMeaning to apologize, they all went out after him.{p}"
+  },
+  {
+   "id": "27:c8f8",
+   "op": "text",
+   "en": "There was no one on the landing anymore.{p}"
+  },
+  {
+   "id": "27:c92c",
+   "op": "text",
+   "en": "But they heard a noise from farther up the stairs.\nHe must have gone upstairs.\nThat's what they all thought.\nAnd just as they started up after him...\nSomething dropped at their feet with a heavy plop.\nA tube-shaped thing, about forty-five centimeters long.{p}"
+  },
+  {
+   "id": "27:ca20",
+   "op": "text",
+   "en": "One of them went to pick it up, and screamed.{p}"
+  },
+  {
+   "id": "27:ca6c",
+   "op": "text",
+   "en": "It was a human arm.\nIt had been chopped clean off at the elbow.{p}"
+  },
+  {
+   "id": "27:cacc",
+   "op": "text",
+   "en": "The girls screamed too.\nBut one of them, keeping a cool head, pointed at it.\n\"Isn't that fake?\"\n...Just like that.\nNow that it was pointed out, there wasn't a single drop of blood on the cut end.\nThe color was kind of whitish, too.\n\"It's him!\"{p}"
+  },
+  {
+   "id": "27:cba8",
+   "op": "text",
+   "en": "There was only one person who'd pull something like this.\nThat seventh guy.\nFurious, they all started up the stairs.\nAnd then something else fell.{p}"
+  },
+  {
+   "id": "27:cc3c",
+   "op": "text",
+   "en": "When they looked, this time it was the other arm.\nOf course, something like that didn't scare them anymore.\n\"Knock it off!\"\n\"We know it's you!\"\nShouting things like that, they went on up the stairs.{p}"
+  },
+  {
+   "id": "27:ccf8",
+   "op": "text",
+   "en": "When they got up to the third floor, the restroom light was on.\nDid he think he'd hidden himself by running in there?\nWith the light on, he was obviously going to get caught right away.\nThey started walking toward the restroom.\nThen something inside the restroom toppled over.\nIt fell out into the hallway and lay there in plain sight in front of them.{p}"
+  },
+  {
+   "id": "27:ce20",
+   "op": "text",
+   "en": "It was a leg, from the knee down.\nThey all snickered.\nIf he meant to be hiding, they thought, it was a ridiculously stupid way to go about it.\n\"Come on, cut it out.\nWe all know it's you...\"\nThe one saying that peeked into the restroom, and the voice broke off in the middle.{p}"
+  },
+  {
+   "id": "27:cf1c",
+   "op": "text",
+   "en": "There was no one inside the restroom.\nNo one, only the other leg, lying there in the cold, pale light.\n\"Hee hee hee...\"\nJust then, they heard laughter behind them.{p}"
+  },
+  {
+   "id": "27:cfdc",
+   "op": "text",
+   "en": "When they turned around, there stood a woman with a bobbed haircut.\nWas the laughter hers?\nThey couldn't tell.{p}"
+  },
+  {
+   "id": "27:d05c",
+   "op": "text",
+   "en": "After all, her face was covered by a pure white mask.\nBut at the very least, the eyes peering out of that mask weren't laughing.\nAnd she had him with her.\nThe seventh one.\nWhen they saw him, someone let out a shrill scream.\nHis arms and legs were gone, cut off at the joints.\nThe woman's mouth seemed to twist into a grin.\nAnd then she ripped his head off, his eyes squeezed tightly shut.\n...The blood that should have sprayed everywhere never came, not a single drop.\nJust like a wax figure.{p}"
+  },
+  {
+   "id": "27:d21c",
+   "op": "text",
+   "en": "Dropping his head onto the floor, the woman came into the restroom.\nThey were next!\nThey knew it, but their bodies wouldn't move.{p}"
+  },
+  {
+   "id": "27:d2a0",
+   "op": "text",
+   "en": "All the six of them could do was stare at the mask of the woman as she came closer.{p}"
+  },
+  {
+   "id": "27:d2f8",
+   "op": "text",
+   "en": "...So what became of those six, you ask?\n...They were never found.\nThe next day, the teacher who'd gone home and left them in the make-up class and the teacher who'd been asked to take over both searched the old school building before the problem could get any bigger.\nBut they didn't find their bodies, or even a single drop of blood.\nAnd those two teachers got their stories straight: they said they'd sent the students home properly.\nAwful, isn't it?\nAnd so the six were listed as missing.\nIn the end, no one ever saw any of them again.\nStill, their classmates knew the six who vanished had stayed behind at school for a make-up class.\nAnd since they disappeared right after that, strange rumors started going around.{p}"
+  },
+  {
+   "id": "27:d560",
+   "op": "text",
+   "en": "Strange moans could be heard from the girls' restroom on the third floor of the old school building, someone saw the missing students there; all sorts of weird rumors spread.\nAnd so the story became that it was Hanako-san's curse.\nThat Hanako-san had taken the six away.\nWhether those six strayed into another world, or whether it really was Hanako-san's curse, nobody can say.{p}"
+  },
+  {
+   "id": "27:d6cc",
+   "op": "text",
+   "en": "But the one I feel sorry for is the seventh one.\nUnlike the other six, nobody knew he'd been in the old school building, so he was treated differently.\nHe was a bit of a delinquent, so people even suspected he'd run away from home.\nTalk about adding insult to injury.\nBut... why would he come back so late like that?\nIf he was skipping the make-up class, he could've just gone straight home.\n...Maybe he'd been there from the very beginning.\nAnd Hanako-san caught him.\nRight above the heads of everyone taking the make-up class, Hanako-san may have been hacking him to pieces...\n...And that's the end of the story about the old school building.\nMind you, nobody actually saw them being killed, so it's not very believable.{p}"
+  },
+  {
+   "id": "27:d944",
+   "op": "text",
+   "follows_choice": [
+    "27:c6fc"
+   ],
+   "en": "That's right, there was nothing there.{p}"
+  },
+  {
+   "id": "27:d970",
+   "op": "text",
+   "en": "When they stuck their heads out into the hallway, someone ducked out of sight on the stair landing.\nSo they all...{p}"
+  },
+  {
+   "id": "27:d9e8",
+   "op": "text",
+   "en": "As if to cut off Hosoda's words, there was a loud clunk.\nFor a moment, {f:we|we} froze.\nIt came from the other side of the door{f:|}.\n{f:Just like in Hosoda's story.|Just like in Hosoda's story...}\nTimidly, I opened the door.{p}"
+  },
+  {
+   "id": "27:dac0",
+   "op": "text",
+   "en": "...Just as I thought, there was nothing.\nFighting down a bad feeling, I stuck my head out into the hallway.{p}"
+  },
+  {
+   "id": "27:db28",
+   "op": "text",
+   "en": "A figure ducked out of sight on the landing.\nThat's impossible.\nIt was happening just like in Hosoda's story.\n{f:I|I} rushed out into the hallway.\nI wanted to see who that figure really was.{p}"
+  },
+  {
+   "id": "27:dbc8",
+   "op": "text",
+   "en": "There was no one on the landing anymore.\n{f:Upstairs, maybe|Upstairs, maybe}?{p}"
+  },
+  {
+   "id": "27:dc0c",
+   "op": "text",
+   "en": "Just as I looked up, a shadow suddenly fell over me.\nSomeone's arm wrapped around {f:my|my} neck.\nIn pain and terror, {f:I|I} desperately twisted my head to see who it was.{p}"
+  },
+  {
+   "id": "27:dcac",
+   "op": "text",
+   "en": "The one strangling me was a girl with a bobbed haircut.\nShe wore a pure white mask, so I couldn't see her face.\nHer eyes glinted coldly.\nWho {f:are you|are you}★\nI tried to ask, but no voice came out.\nFor just an instant, the girl's eyes softened.{p}"
+  },
+  {
+   "id": "27:dda0",
+   "op": "text",
+   "en": "And the next instant, I heard a heavy, dull crack.\nWhat was that sound{f:|}?\nAs {f:I|I} wondered, my head lolled and swung around.\nWarm liquid gushed from my nose and mouth.\nAh... that was the sound of {f:my|my} neck breaking{f:|, wasn't it}.{p}By the time I realized it, {f:I|I} had already been dragged down into darkness.{p}"
+  },
+  {
+   "id": "27:decc",
+   "op": "text",
+   "follows_choice": [
+    "27:3d34"
+   ],
+   "en": "I see.\nThen I'll show it to you.\nHosoda reached up and took the clock down off the wall.{p}"
+  },
+  {
+   "id": "27:df2c",
+   "op": "text",
+   "en": "Just then, something came out from behind the clock and slipped swiftly away along the wall... or so it seemed.\nWas it just my imagination{f:|}?\nHosoda didn't say anything, either.{p}"
+  },
+  {
+   "id": "27:dfcc",
+   "op": "text",
+   "en": "\"See? It's just an ordinary clock, nothing unusual about it.\"\nSaying that, he showed {f:me|me} the clock.\n\"I guess so...\"\nReaching out to take it, {f:I|I} saw it and pulled my hand back.{p}"
+  },
+  {
+   "id": "27:e094",
+   "op": "text",
+   "en": "On the back of the clock, the side opposite the face, black clumps {f:were|were} stuck thick all over it.\nAnd they were squirming.{p}"
+  },
+  {
+   "id": "27:e12c",
+   "op": "text",
+   "en": "I {f:looked|looked} at Hosoda in a panic.\nHe was gazing blankly at {f:me|me}.\nCouldn't he see these black things{f:|}?\nEven though, bit by bit, the clumps were breaking apart and crawling along his fingers and up his arm?{p}"
+  },
+  {
+   "id": "27:e200",
+   "op": "text",
+   "en": "\"What's the matter, {a}{f:|}?\nI got a really good scary story ready just for you.\"\nAs he spoke, the black things were crawling up to his chest.\nThey were bugs{f:|}.\nTiny bugs like flying ants, thousands upon thousands of them, swarming together{f:|}.\n\"You're a strange one.\"\nAs Hosoda said that, black winged bugs spilled out of his mouth in clumps.\n{f:I|I} couldn't believe my eyes.\nBut the bugs kept spilling from the puzzled Hosoda's mouth and nostrils.\nWith a rip, a split opened in his cheek.\nAnd bugs came gushing out of that split, too.\nBy now, Hosoda's whole body was black, buried in crawling bugs.\nAnd still, Hosoda kept on talking.{p}"
+  },
+  {
+   "id": "27:e470",
+   "op": "text",
+   "en": "\"Aw, come on. Come over here.\"\nA pitch-black hand grabbed {f:me|me}.\nIn no time, dozens of bugs crawled over onto {f:my|my} arm.\nGoosebumps broke out all over me.\nI tried to shake him off, but with {f:my|my} strength there was nothing I could do.\nWorse, Hosoda pulled {f:me|me} closer.\n\"You know, I've taken a liking to you.\nI'm sure we can be good friends.\"\nHis other hand wrapped around {f:my|my} shoulders.{p}"
+  },
+  {
+   "id": "27:e608",
+   "op": "text",
+   "en": "The pitch-black face loomed right up close.\nHundreds of bugs crawled all over {f:my|my} body.\nIt prickled and stung.\nThey were biting into my skin{f:|}.\nTrying to burrow inside my body★\n{f:I|I} thrashed, trying to brush off both Hosoda and the bugs.\nBut the strength went out of my knees.\nOh no!\nSo the bugs had been biting to paralyze {f:my|my} body{f:|}...\n{f:I|I} slowly toppled over.\nRight by my ears came a rustling, the sound of countless wings rubbing together.\nThe bugs {f:would crawl|came crawling} into {f:my|my} body.\nThey would devour what was inside, multiply, and become a black mass wearing {f:my|my} skin.\nYes, just like Hosoda.\nIn the end, I never did solve the mystery of the old school building{f:|}.\nIt struck me as funny that I was thinking about such things right up until I died.{p}Letting out a sigh that was almost a laugh, {f:I|I} lost consciousness.{p}"
+  },
+  {
+   "id": "27:e91c",
+   "op": "text",
+   "en": "...Go on, get closer.{p}"
+  }
+ ]
+}

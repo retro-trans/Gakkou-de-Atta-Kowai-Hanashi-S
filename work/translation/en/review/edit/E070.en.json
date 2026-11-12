@@ -1,0 +1,836 @@
+{
+ "chunk": "E070",
+ "scene": "35",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S136",
+  "S137"
+ ],
+ "prev": "E069",
+ "next": "E071",
+ "todo": [],
+ "rows": [
+  {
+   "id": "35:1000",
+   "op": "text",
+   "en": "...Iwashita's story was over.\nEven so, the seventh one never came.\nIt was already very late.\nWaiting any longer {f:would be pointless|would be pointless, wouldn't it}.\n{f:I|I} looked around at the faces of the six people who had gathered for me, then bowed deeply.\n\"Thank you all so much for today.\nThe seventh person never showed up in the end, but I got to hear some really scary stories.\"\nHaving said that much, {f:I|I} glanced over at Kazama.{p}"
+  },
+  {
+   "id": "35:1188",
+   "op": "text",
+   "en": "...Kazama, who'd killed the mood with that pathetic story.\nAnd yet there he was, grinning smugly, as if to say he'd told the scariest story of them all.\n{f:This guy really is hopeless.|Honestly, he really is hopeless.}{p}"
+  },
+  {
+   "id": "35:124c",
+   "op": "text",
+   "en": "\"...With this, I think we can put together an interesting school paper.\nSo, with that, I'd like to bring this to a close...\"{p}"
+  },
+  {
+   "id": "35:12cc",
+   "op": "text",
+   "en": "Just then, the club room door opened and Hino appeared.\n\"Hino!\"\nHino raised a hand in a light greeting, then sank deep into an empty seat.\nHe {f:seemed|seemed} really worn out.{p}"
+  },
+  {
+   "id": "35:139c",
+   "op": "text",
+   "en": "\"Whew, what a relief.\nYou're all still here.\nSorry about this, {a}.\"\n{f:I|I} gave a slight bow.\nI never thought Hino would be the one to show up{f:.|.}\n\"Well, see, I couldn't find a seventh person.\nI was stuck on what to do.\nBut I couldn't just leave things like this, right?\nLeaving my cute little junior here all alone.\nSo, since there was no other choice, I figured I'd come myself.\nI rushed and got my errands done.\nShindo, Kazama, Iwashita, and everybody else, thanks.\"\nWith that, Hino looked at each of our faces in turn.\n{f:That's right.|Of course.}\nHino was the only one who {f:knew|knew} everyone here.\nEveryone looked at Hino and greeted him in their own way.\n\"Here. I brought refreshments.\"\nThen Hino carelessly tossed the plastic bag he'd been holding onto the table.{p}"
+  },
+  {
+   "id": "35:1678",
+   "op": "text",
+   "en": "\"Oh, how thoughtful of you, Hino.\"\nWith that, Kazama rummaged around in the plastic bag and pulled out what was inside.\nThere were drinks in it.{p}"
+  },
+  {
+   "id": "35:1704",
+   "op": "text",
+   "en": "They weren't cans. Every one of them was an unusual mini-size plastic bottle.\nI {f:wondered|wondered} what company made them.\n\"Go on, everybody. Drink whatever you like.\n{a}, don't be shy, have whichever one you want.\"\n\"Thank you.\"\nThere were all kinds of drinks on the table.{p}What should I {f:drink|drink}?\n"
+  },
+  {
+   "id": "35:181c",
+   "op": "choice",
+   "en": "Coffee"
+  },
+  {
+   "id": "35:1828",
+   "op": "choice",
+   "en": "Orange juice"
+  },
+  {
+   "id": "35:183c",
+   "op": "choice",
+   "en": "Tomato juice"
+  },
+  {
+   "id": "35:1850",
+   "op": "choice",
+   "en": "Oolong tea"
+  },
+  {
+   "id": "35:185c",
+   "op": "choice",
+   "en": "The last one left"
+  },
+  {
+   "id": "35:186c",
+   "op": "text",
+   "en": "{f:I|I} decided to help myself without holding back.\nEveryone picked up whatever they liked.\nFrom among them, {f:I|I} chose the orange juice.\nOne hundred percent juice.\nI opened the cap and brought it to my mouth.\n...Mmm, {f:that's good|delicious}.\nMaybe because I'd been so tense, the nicely chilled orange juice felt {f:great|so nice} going down.{p}",
+   "follows_choice": [
+    "35:1828"
+   ]
+  },
+  {
+   "id": "35:19bc",
+   "op": "text",
+   "en": "Once everyone had mostly finished their drinks, Hino leaned forward.\nIt {f:seemed|looked like} he was finally going to tell us the last story.\nEveryone braced themselves.\n...Come to think of it, {f:did Hino even like|I wondered if Hino even liked} scary stories.\nI'd never really heard anything like that about him{f:, but|, but} you can't judge a person by appearances.\nMaybe that had shown on {f:my|my} face{f:.|.}{p}"
+  },
+  {
+   "id": "35:1b24",
+   "op": "text",
+   "en": "Hino glanced at {f:me|me} and grinned.\nAs if he wanted to tell me not to worry.\n{f:I|I} felt somehow embarrassed, as if he'd read my mind, and looked down.{p}"
+  },
+  {
+   "id": "35:1bd8",
+   "op": "text",
+   "en": "...So everybody's done telling their stories, huh?\nDid everyone give you their very best ones?\nI'm the one who called you all here, after all.\nIf you didn't tell the scariest stories ever, {a} would laugh at me, and it wouldn't make a good article.\nWell, knowing you guys, I'm sure it went fine.\nAnyway, I've dug up the best story there is, too, every bit as good as yours.\nGet your hopes up and listen.\n...You all know Shirai, the science teacher, right?\nStill young, but his hair's pure white, so they call him the White-Haired Demon. That Mr. Shirai.\nThe first-years haven't had Shirai's class yet, so maybe you don't know him, but you've at least seen him, right?\nOnce you see him, you'll never forget him.{p}"
+  },
+  {
+   "id": "35:1e28",
+   "op": "text",
+   "en": "That skinny guy with the skull-like face and sharp, narrow, upturned eyes. The white-haired, middle-aged one.\nHe's always wearing a lab coat covered in stains.\nHe's been teaching at this school for about ten years now.\nI think you all know this, but there are all kinds of rumors about that teacher.\nWell, I can see why the rumors started.\nIt's not just that he looks shady.\nThe way he acts is shady too.\nI mean, in the science prep room there's a storeroom that not even science club or biology club members are allowed into.\nThere's a heavy-duty lock on it, and the only one who can go in is Shirai.\nRumor has it even the other teachers can't get in.\nThey say that once, when somebody tried to go in, he flew into a terrifying rage.\nNobody can even complain.\nExcept when he's up teaching, Shirai's always shut away in that storeroom, apparently doing some kind of bizarre experiments.\nSo of course weird rumors are going to start.\nBut get this. Apparently he's pretty famous in academic circles.\nHe's published a bunch of really groundbreaking papers, and they say he's a sure bet for a Nobel Prize someday.\nSo even if a big-shot teacher like that is a little shady, the school has no choice but to look the other way.\nThough why such an amazing teacher is teaching at a high school like this one is a mystery.{p}"
+  },
+  {
+   "id": "35:228c",
+   "op": "text",
+   "en": "{a}, you're curious about what Shirai's doing in that storeroom, aren't you?\n"
+  },
+  {
+   "id": "35:22d0",
+   "op": "choice",
+   "en": "I'm curious"
+  },
+  {
+   "id": "35:22dc",
+   "op": "choice",
+   "en": "I'm not curious"
+  },
+  {
+   "id": "35:2300",
+   "op": "text",
+   "en": "Thought so.\nThen let me tell you about someone who saw what's inside that storeroom.{p}",
+   "follows_choice": [
+    "35:22d0"
+   ]
+  },
+  {
+   "id": "35:235c",
+   "op": "text",
+   "en": "The six of you here are all crazy about scary stories, right?\nSo you must know a lot about the ghost stories surrounding this school, too.\nWhich means you must know the rumors about Shirai in pretty deep detail.\nIncluding the rumors about the storeroom, of course.\nBut not one of you knows what's inside that storeroom.\nBecause nobody's ever seen it.\n...But you know what? I found out that secret.\nI swear to God, this is true.\nI don't lie.\nBecause the one who went into that storeroom was me.\n...Well? Surprised?\nOf course, even I couldn't have done it alone.\nI could only pull it off because I had a partner, my classmate Yasuo Iwayama.{p}"
+  },
+  {
+   "id": "35:25b0",
+   "op": "text",
+   "en": "Shindo, you know Iwayama, right?\nThat guy. Him.\nThe one who's good with his hands.\nQuick with his hands, you could also say.\nI bet he'd go far if he became a thief... wait, that's a crime, huh.{p}"
+  },
+  {
+   "id": "35:2688",
+   "op": "text",
+   "en": "Shirai's famous for how he guards his keys.\nThere are three keys just for the storeroom, and the bastard keeps them in a safe, inside a locked cabinet.\nTruth is, I'd been working on this plan for about half a year now.\nIf I uncovered Shirai's secret, that alone would be a guaranteed scoop.\nHonestly, I wanted to run it big as a front-page exclusive, not as one piece of some school seven wonders feature like this.\nBut while I was dragging my feet with one thing and another, this seven wonders project tied to the demolition of the old school building came up, so for me, it's all ending up a bit of a letdown.{p}",
+   "returns": [
+    "35:2688: RETURN - 'the bastard keeps them' renders the contemptuous -yagaru; check the insult is not stronger than the source"
+   ]
+  },
+  {
+   "id": "35:289c",
+   "op": "text",
+   "en": "Well, this time I'll let my cute little junior have the glory.{p}"
+  },
+  {
+   "id": "35:28d8",
+   "op": "text",
+   "en": "So, after half a year, Iwayama and I finally managed to make copies of the storeroom keys.\nDon't go calling it a crime, okay?\nWe put the master keys right back where they belonged, and it's not like we're out to steal anything from the storeroom.\nWhen there's a secret, you want to solve it.\nThat's the reporter's spirit, right?\n...And so, we finally put it into action.\nI know Shirai takes one day off a week.\nSo we took our chance and finally went ahead and broke into the storeroom.\nAt first, I was worried whether the duplicate keys would fit.\nApparently they were some kind of special keys.\nThe kind you can't make the normal way.\nStill, it worked.\nWe managed to undo all three locks.{p}"
+  },
+  {
+   "id": "35:2b54",
+   "op": "text",
+   "en": "The storeroom door is a heavy iron one.\nEven when we opened it slowly and carefully so it wouldn't make a sound, it still let out a harsh, grinding creak of rusty iron.\nThat sound seemed awfully loud.\nEmbarrassing to admit, but my heart felt like it was going to burst.\nI really felt like a burglar breaking in.{p}"
+  },
+  {
+   "id": "35:2c58",
+   "op": "text",
+   "en": "It was pitch-black inside.\nThere wasn't a single window, and a really nasty smell filled the place.\nYeah, how do I put it...{p}"
+  },
+  {
+   "id": "35:2cc8",
+   "op": "text",
+   "en": "Hey, {a}.{p}What kind of smell do you think it was?\n"
+  },
+  {
+   "id": "35:2cfc",
+   "op": "choice",
+   "en": "Like rotten eggs"
+  },
+  {
+   "id": "35:2d14",
+   "op": "choice",
+   "en": "A strong smell of formalin"
+  },
+  {
+   "id": "35:2d2c",
+   "op": "choice",
+   "en": "Like burning corpses"
+  },
+  {
+   "id": "35:2d48",
+   "op": "choice",
+   "en": "A suffocating, choking smell"
+  },
+  {
+   "id": "35:2d68",
+   "op": "text",
+   "en": "Yeah, just like you said.\nThe place was full of the smell of formalin.{p}",
+   "follows_choice": [
+    "35:2d14"
+   ]
+  },
+  {
+   "id": "35:2dcc",
+   "op": "text",
+   "en": "You know what formalin is, right?\nThat solution they keep animal specimens and stuff in.\nIt was a harsh stench, like somebody had splashed those jars all over the room.\nFor a moment, it was like I'd been shot up with anesthetic.\nMy senses just went haywire.\nI got all woozy, my vision blurred, and my head started going foggy.{p}"
+  },
+  {
+   "id": "35:2ee8",
+   "op": "text",
+   "en": "Thinking it'd be dangerous to stay in there too long, I looked for the light switch.\nThat's when it happened.{p}"
+  },
+  {
+   "id": "35:2f50",
+   "op": "text",
+   "en": "From somewhere, I heard a voice like a baby crying.\nThe voice seemed to be coming from the back of the storeroom.\nAlong with the baby's voice, I could also hear the sound of water sloshing.\nIt gave me a real shock.{p}"
+  },
+  {
+   "id": "35:301c",
+   "op": "text",
+   "en": "And I wondered what the hell was going on.\nThe room looked like it went pretty far back, but it was pitch-black and I couldn't see a thing.\nThere seemed to be all kinds of stuff cluttered around, but none of it made any sense.\nWalking around carelessly would be dangerous.\nIf I could just get the light on, I'd be able to see clearly.\nI was desperately trying to find the switch.\nThat's when it happened.\nBehind me, I heard the sound of something falling over.{p}"
+  },
+  {
+   "id": "35:317c",
+   "op": "text",
+   "en": "I looked, and there was Iwayama, collapsed on the floor, gasping like he was in pain.\n\"Hey, Iwayama.\"\n\"...Hino. I feel sick.\nThis room stinks. I can't... take it...\"\nThat jerk Iwayama got drunk off how much the place reeked of formalin.{p}"
+  },
+  {
+   "id": "35:3264",
+   "op": "text",
+   "en": "Hey, {a}.{p}What do you think I did after that?\n"
+  },
+  {
+   "id": "35:3298",
+   "op": "choice",
+   "en": "Left Iwayama, looked for the switch"
+  },
+  {
+   "id": "35:32b4",
+   "op": "choice",
+   "en": "Carried Iwayama out of the room"
+  },
+  {
+   "id": "35:32d8",
+   "op": "text",
+   "en": "...Right.\nIwayama looked like he was really suffering.\nI couldn't just leave him like that.\nI hoisted Iwayama onto my back and got out of there.{p}",
+   "follows_choice": [
+    "35:32b4"
+   ]
+  },
+  {
+   "id": "35:336c",
+   "op": "text",
+   "en": "When I got outside, it hit me all over again how good fresh air could taste.\nThat's how bad the smell inside was.\nIwayama was puking his guts out.\nHe must have felt really sick, huh?\nI don't even want to imagine what would've happened if I'd just left him there.{p}"
+  },
+  {
+   "id": "35:3488",
+   "op": "text",
+   "en": "So that was the end of it for that day.\nWe were in no shape to search the storeroom.\nSo I didn't actually get a clear look at what's inside.\nBut there's no doubt Shirai's doing some kind of experiment in there.\nAnd he's keeping something alive in there.\nA baby crying, and the sound of sloshing water...\nThat's all I know, but there's definitely something in there.\nThat's what happened to me exactly one week ago.{p}"
+  },
+  {
+   "id": "35:3600",
+   "op": "text",
+   "en": "...What?\nYou all look like I let you down.\nRelax.\nThe story's not over yet.\nI just figured I'd save the best for last.\nDo you get what it means that I snuck in one week ago today?\nThat's right.\nToday is another one of Shirai's days off.\nSo, to make this story complete, I figured I'd sneak into that storeroom again with Iwayama.\nBut, see, I can't find Iwayama anywhere.\nWe promised to go together.\nHe did look like he didn't want to go, though.\nSeems like he ran off.{p}"
+  },
+  {
+   "id": "35:380c",
+   "op": "text",
+   "en": "...But hey, thanks to that, there's even more fun in store.\nYou know what I'm getting at, right?\nThe storeroom in the science prep room, which I'm convinced is this school's greatest mystery.\nWhat's in there?\nWhat's really behind the mysterious crying baby and the sound of water?\n...Well?\nWhy don't we all go find out for ourselves, right now?\nThat's the story I prepared for you.{p}"
+  },
+  {
+   "id": "35:3944",
+   "op": "text",
+   "en": "{a}.\nI'm leaving it up to you.\nAre we going or not? You decide.{p}Just don't forget that a chance like this will never come again.\n"
+  },
+  {
+   "id": "35:39cc",
+   "op": "choice",
+   "en": "Go"
+  },
+  {
+   "id": "35:39d4",
+   "op": "choice",
+   "en": "Don't go"
+  },
+  {
+   "id": "35:39e8",
+   "op": "text",
+   "en": "All right.\n",
+   "follows_choice": [
+    "35:39cc"
+   ]
+  },
+  {
+   "id": "35:39f4",
+   "op": "text",
+   "en": "{f:Spoken like a real man. |}That's the spirit.\n"
+  },
+  {
+   "id": "35:3a1c",
+   "op": "text",
+   "en": "That settles it.\nEverybody, to the science prep room. {g}Let's go!\nDon't worry, I've got the keys.{p}"
+  },
+  {
+   "id": "35:3ab0",
+   "op": "text",
+   "en": "...There's nobody left.\nI never knew school could be this quiet.\nIf a teacher catches us here this late, we'll get chewed out big time.\nEverybody, watch your footsteps.\nWe've still got a ways to go to the science prep room.\nWant me to tell you a little about Shirai?{p}"
+  },
+  {
+   "id": "35:3bc4",
+   "op": "text",
+   "en": "Want to hear it?\n"
+  },
+  {
+   "id": "35:3bd4",
+   "op": "choice",
+   "en": "I want to hear it"
+  },
+  {
+   "id": "35:3be0",
+   "op": "choice",
+   "en": "I'd rather hear something else"
+  },
+  {
+   "id": "35:3c10",
+   "op": "text",
+   "en": "Apparently Shirai's specialty was bacteriology.\nThere are countless bacteria in this world.\nAnd there are still loads that haven't been discovered.\nAnd new bacteria keep being born, one after another.\nNo matter how many new bacteria we discover, we can never keep up.\nI don't know exactly what Shirai was researching.\nEven I couldn't dig up that much.\nBut apparently he was obsessed with how bacteria affect living organisms.\n...So. I think he's doing that research in that storeroom.\nAnd the thing making that baby-like crying is a new life-form...\nNo doubt about it.\nIt's a monster Shirai created.\nSo if we take a picture of that thing...\nWe'll be famous overnight.{p}",
+   "follows_choice": [
+    "35:3bd4"
+   ]
+  },
+  {
+   "id": "35:3eb0",
+   "op": "text",
+   "en": "How about it, {a}?\nJust thinking about it gets you excited, right?{p}"
+  },
+  {
+   "id": "35:3f0c",
+   "op": "text",
+   "en": "...Here we are.\nThe science prep room.\nThere's nobody here right now.\nOf course there isn't.{p}"
+  },
+  {
+   "id": "35:3f7c",
+   "op": "text",
+   "en": "...Look.\nThat door.\nOn the other side of that door is a new life-form.{p}"
+  },
+  {
+   "id": "35:3fc8",
+   "op": "text",
+   "en": "Hang on a sec.\nI'll get it unlocked.\n"
+  },
+  {
+   "id": "35:4004",
+   "op": "text",
+   "en": "...Okay, it's open.{p}"
+  },
+  {
+   "id": "35:4028",
+   "op": "text",
+   "en": "All right, we're going in.\nThe smell's awful, so be careful.{p}"
+  },
+  {
+   "id": "35:4064",
+   "op": "text",
+   "en": "...Geez, where's the light switch?\nUsually a light switch is right next to the door.\nHey, {a}.{p}You look for it too.\n"
+  },
+  {
+   "id": "35:40f0",
+   "op": "choice",
+   "en": "Look for the switch"
+  },
+  {
+   "id": "35:40fc",
+   "op": "choice",
+   "en": "Do something else"
+  },
+  {
+   "id": "35:4118",
+   "op": "text",
+   "en": "...Man, it really does stink in here.\nI should've brought a flashlight.\nShirai shutting himself up in a place like this? That's just not normal, is it?\n{a}, find it yet?\nHurry up.{p}",
+   "follows_choice": [
+    "35:40f0"
+   ]
+  },
+  {
+   "id": "35:41e0",
+   "op": "text",
+   "en": "Crap!\nSomeone's coming!{p}"
+  },
+  {
+   "id": "35:420c",
+   "op": "text",
+   "en": "Hide!\nHurry, shut the door!\nShhhhhhh!\n...Everybody, don't move.{p}"
+  },
+  {
+   "id": "35:4258",
+   "op": "text",
+   "en": "Man, with the door shut the smell's unbelievable.\nJust covering our mouths isn't going to cut it.\nEverybody okay?\nHey.\nShindo...?{p}"
+  },
+  {
+   "id": "35:42f4",
+   "op": "text",
+   "en": "Shindo!\nIwashita?\nKazama?\nHey, everybody...!\n{a}!{p}"
+  },
+  {
+   "id": "35:432c",
+   "op": "text",
+   "en": "...Hino.\n...I can't take any more{f:...|...}\n{f:I|I} could feel myself slipping away, too.\nWhat a smell{f:!|!}{p}"
+  },
+  {
+   "id": "35:43a8",
+   "op": "text",
+   "en": "{f:Is this really|Is this really} the smell of formalin?{p}"
+  },
+  {
+   "id": "35:4404",
+   "op": "text",
+   "en": "It was so dusty in here.\n...My eyes were gradually getting used to the dark, but...\nInstead, my vision began to warp.\nBut maybe there isn't even a light switch in this room at all{f:?|?}\n{f:This is bad.|What do I do?}\n...I'm at my limit{f:.|.}{p}"
+  },
+  {
+   "id": "35:44e8",
+   "op": "text",
+   "en": "The door... the door is opening.\n{f:Who's|Who's} that standing there...?\nA man with pure white hair... the White-Haired Demon.\n...It can't be...?\n...I... can't... take... it{f:...|...}...{p}"
+  },
+  {
+   "id": "35:4590",
+   "op": "text",
+   "en": "............{f:I|I} was alive.\nBut I couldn't move my arms or legs.\n{f:Was I tied up?|Was I tied up?}{p}"
+  },
+  {
+   "id": "35:460c",
+   "op": "text",
+   "en": "There was only a dim light bulb, and I couldn't see much of my surroundings.\nWas this... was this that storeroom?{p}"
+  },
+  {
+   "id": "35:4678",
+   "op": "text",
+   "en": "...I could hear it.\nI could hear a baby crying.\nIt was that crying Hino had told us about{f:.|.}\nWhere was it coming from{f:...|...}\nThe crying came from all four sides, as if wrapping itself around {f:me|me}.\n...My mind was still hazy.\nSomehow, it felt very pleasant.\nSomehow, it felt very warm.{p}"
+  },
+  {
+   "id": "35:47bc",
+   "op": "text",
+   "en": "...{f:I see|I get it}.\n{f:My|My} body was soaking in water{f:.|.}\n{f:I|I} was in lukewarm water up to my chest{f:.|.}\nWas this... water?\nIt was so dim around me, and my eyes wouldn't focus, so I couldn't see well.\nNow and then a stabbing pain shot through my body, but that, in turn, gave me pleasure.\nI couldn't even bring myself to try to think clearly.\n...This languid feeling.\nI didn't care what happened to me anymore.\n...Being alive was too much trouble.\nI had no will left for anything{f:.|.}\n...What had happened to {f:me|me}{f:?|?}\n\"...Sir. They're growing nicely, aren't they?\"{p}"
+  },
+  {
+   "id": "35:49fc",
+   "op": "text",
+   "en": "It was Hino's voice{f:.|.}\nIn a corner of my bleary vision, I caught a glimpse of Hino.\nHino stood with his arms crossed, watching {f:me|me} with a satisfied smile.\nNext to Hino stood a man in a white coat.\nHis hair was pure white.\nWas that Mr. Shirai{f:?|?}\nMr. Shirai was smiling with satisfaction too.\n\"Hino. Soon those seven will be your comrades too.\nWhen that happens, be good to them.\nEven if they're people you dislike, once they're reborn, you'll all share one fate.\"\n\"Of course, sir.\"\nI didn't understand what they were talking about.\nHino came closer to {f:me|me}.\nAs he did, {f:my|my} vision cleared a little.{p}"
+  },
+  {
+   "id": "35:4c98",
+   "op": "text",
+   "en": "It seemed {f:I|I} was in a fairly large tank{f:.|.}\nA transparent tank.{p}"
+  },
+  {
+   "id": "35:4cf4",
+   "op": "text",
+   "en": "Hino folded his arms on the rim of the tank and rested his chin on them.\nThen he looked at {f:me|me}.\n\"...Hey, {a}.\nA week ago, I snuck into this storeroom and got caught by Mr. Shirai.\nAnd I was reborn.\n...Iwayama, who snuck in with me, ended up dead, though.\"\nWith that, he turned his eyes to a corner of the room.{p}"
+  },
+  {
+   "id": "35:4e38",
+   "op": "text",
+   "en": "Piled up there were lumps of pale pink flesh.{p}"
+  },
+  {
+   "id": "35:4e68",
+   "op": "text",
+   "en": "They were moving, quivering flabbily.\nThose lumps of flesh were alive.{p}"
+  },
+  {
+   "id": "35:4eb4",
+   "op": "text",
+   "en": "When I listened closely, the lumps of flesh were crying.\nCrying with that baby's voice...{p}"
+  },
+  {
+   "id": "35:4f10",
+   "op": "text",
+   "en": "\"Even like that, they're alive.\nAnd now they're my comrades.\nThe only difference is whether you keep a human shape like this or not.\"\nThen he looked at {f:me|me} once more and laughed.\n\"...Whether you get to keep the shape you've got now probably depends on you.\nIf you fuse well, let's make more comrades together.\nHeh heh heh...\"\nThen he turned his eyes the opposite way from the living lumps of flesh.{p}"
+  },
+  {
+   "id": "35:5078",
+   "op": "text",
+   "en": "Piled up there were a great many human arms and legs.\n...So {f:that was it|that was it}.\n{f:I|I} wasn't tied up{f:.|.}\nThe reason {f:I|I} couldn't move my arms and legs was that they had been taken off{f:.|.}\nThose were {f:my|my} arms and legs...\nThe carelessly heaped limbs brought to mind the wreckage of broken mannequins.\nIwashita's and Shindo's arms and legs must be in there too, mixed in with {f:mine|mine}{f:.|.}\nStrangely, {f:I|I} didn't feel sad.\nI think the comfort of soaking in this solution helped with that.\nI could feel something entering {f:my|my} body through the wounds where {f:my|my} limbs had been taken.\nIt spread slowly through my whole body, as if seeping into it.\n...And from there, it seemed {f:my|my} new arms and legs were starting to grow{f:.|.}{p}"
+  },
+  {
+   "id": "35:5384",
+   "op": "text",
+   "en": "\"Agyii... GYAAAAAAAAHHH!\"\nTo {f:my|my} left, I heard a woman scream.\nEven looking was too much trouble.\nStill, I reflexively tilted my head a little.{p}"
+  },
+  {
+   "id": "35:5424",
+   "op": "text",
+   "en": "To {f:my|my} left was Iwashita.\nLike {f:me|me}, her arms and legs had been taken, and she was soaking in the solution.\nThough she was immersed in the lukewarm solution, her skin flaked off in brittle pieces, as if it had lost all its moisture and dried out.\nHer muscles sloughed away, her bones dissolved, and she transformed into a lump of flesh.\nEven seeing that, {f:I|I} didn't feel so much as fear.\nI had a kind of adaptability that let me accept even that as fate.{p}"
+  },
+  {
+   "id": "35:55b8",
+   "op": "text",
+   "en": "Once she had become a complete lump of flesh, her seductive flesh-colored body glistening, she let out a newborn baby's first cry.\n...She had been reborn{f:.|.}{p}"
+  },
+  {
+   "id": "35:5650",
+   "op": "text",
+   "en": "\"Hey there, Iwashita.\nLooks like you couldn't fuse properly.\nBut don't worry.\nI'll take care of you from here on.\nKuh hee hee hee...\"\nHino put his hand over his mouth as if to hold back his laughter.{p}"
+  },
+  {
+   "id": "35:5720",
+   "op": "text",
+   "en": "Then he looked at {f:me|me} once more, dipped his hand in the solution, and swirled the liquid around, playing with it.\n\"Hey, {a}.\nAt a glance, this solution looks like water, right?\nBut it isn't.\nEvery kind of bacteria has been put in here on purpose.\nIt's a culture medium, you could say.\nAnd its main ingredient is a bacterium Mr. Shirai created, with intelligence and abilities more advanced than a human's.\nRight now, the world is in an age of explosive population growth.\nIf it keeps going like this, a food shortage is coming for sure.\nBut don't worry.\nOnce you fuse this bacterium with your body, you can live without eating anything.\nYou can adapt to changes in temperature or environment without any problem at all.\nIsn't that wonderful?{p}"
+  },
+  {
+   "id": "35:599c",
+   "op": "text",
+   "en": "...But there's a downside too.\nYou stop being yourself.\nOnce this bacterium settles into your body, it completely takes over your will and your body.\nAll your memories and feelings up to now disappear.\nThat's the only shame of it.\nI'm going to end up like that soon, too.\nIn about ten days, I'll be completely reborn as a new life-form.\n...I'll stop being me.\nThat's so damn frustrating.\nAnd I hate it.{p}"
+  },
+  {
+   "id": "35:5b0c",
+   "op": "text",
+   "en": "Hey, {a}.\nDo you know how I picked the people for this group?\nI gathered the ones I can't stand.\nPeople whose faces I don't like, people whose personalities I don't like, people who piss me off just looking at them, people I hate for no reason I can name.\nThat's who I gathered.\n{a}. You know, I hated you.\nSo I wanted to make you taste the same fate as me.{p}"
+  },
+  {
+   "id": "35:5c64",
+   "op": "text",
+   "en": "That orange juice you drank in the newspaper club room.\nYou remember, right?\nThere was already a drug in it to numb your senses.{p}"
+  },
+  {
+   "id": "35:5ce4",
+   "op": "text",
+   "en": "...Too bad, huh.\nOh, {a}.\nThe skin on your face is peeling off.\nYou're just like Iwashita.\nYou're turning into nothing but a lump of flesh.\nServes you right.\n...What's wrong, {a}?\nYou're starting to melt.\nHey, come on.\nCan you hear me?\nIf you can hear me, try answering.{p}"
+  },
+  {
+   "id": "35:5df8",
+   "op": "text",
+   "en": "Hyahahaha... of course you can't answer.\nYour voice already sounds like a baby's.\nI'll take care of you.\nI fused successfully.\nAnd you failed.\nAnd as a result, you turned into a monstrous lump of flesh.\nSo I'll gladly take care of you.\n...Are you not conscious anymore, {a}?\"{p}"
+  },
+  {
+   "id": "35:5f30",
+   "op": "text",
+   "en": "...{f:You're wrong|You're wrong}, Hino.\n{f:I've|I've} been reborn as a being that never has to worry about anything{f:.|.}\nThe ultimate pleasure, which only those who become it can understand.\nToo bad, but you'll never get to taste it, Hino.\n{f:I|I} don't have to think, and I don't need to move.\nI'll just live on through endless time.\nThe one to be pitied is you, Hino{f:.|.}\n...From now on, {f:my|my} new life begins{f:.|.}{p}"
+  },
+  {
+   "id": "35:60c0",
+   "op": "text",
+   "en": "{f:I|I} decided to help myself without holding back.\nEveryone took whatever they liked.\n{f:I|I} chose the coffee.\nIced coffee, of course, chilled ice-cold{f:.|.}\nI twisted off the cap and raised it to my mouth.\n...Mmm, {f:good stuff|delicious}.\nI drank it in one go, so I got a sharp brain freeze.\nAfter the muggy heat and the tension of the scary stories, the nicely chilled iced coffee was a real refresher{f:.|.}{p}",
+   "follows_choice": [
+    "35:181c"
+   ]
+  },
+  {
+   "id": "35:6244",
+   "op": "text",
+   "en": "{f:I|I} decided to help myself without holding back.\nEveryone took whatever they liked.\n{f:I|I} chose the tomato juice.\nI can't eat raw tomatoes{f:, but|, but} I can drink tomato juice{f:.|.}\nIt was nicely chilled, so I ended up gulping it all down.\nThanks to that, it was gone right away.\nEveryone else still seemed to be savoring theirs, so {f:I|I} was left with nothing to do{f:.|.}\nSomehow it was getting even more humid{f:.|.}\nIt might rain.\nI hoped it wouldn't rain before {f:we|we} went home...\n{f:I|I} waited for everyone to finish drinking, thinking about that.{p}",
+   "follows_choice": [
+    "35:183c"
+   ]
+  },
+  {
+   "id": "35:649c",
+   "op": "text",
+   "en": "{f:I|I} decided to help myself without holding back.\nEveryone took whatever they liked.\n{f:I|I} chose the oolong tea.\n{f:I'm|I'm} not fond of sweet things, so I can't drink much juice, even if it's a hundred percent fruit juice.\nWhen you're thirsty, nothing beats tea{f:.|.}\nWhat I'd really like is hot Japanese green tea{f:, but|, but} since Hino was treating us, I couldn't be picky.\nThere are many different kinds of oolong tea.\nThis one was pu-erh tea, which is rare in Japan.\nIt was a pretty crimson color you'd never expect from oolong.\n{f:I|I} drank the pu-erh tea in one go.\n...Mmm, {f:good stuff|delicious}.\nIt had a bit of a peculiar aftertaste{f:, but|, but} it was pretty good{f:.|.}\nI'd ask Hino later who made this tea.\nAfter all the scary stories so far, my mood had turned somehow gloomy, and I'd felt as if I were in another world.\n{f:But|But} thanks to this cold oolong tea, I was pulled back to reality a little{f:.|.}{p}",
+   "follows_choice": [
+    "35:1850"
+   ]
+  },
+  {
+   "id": "35:6830",
+   "op": "text",
+   "en": "Since {f:I|I} was the one running this meeting, I decided to take whatever was left over.\nWhat was left was... of all things, a red-bean soup drink.\n\"...\"\n{f:I|I} was at a loss for words.\nHad Hino seriously chosen and bought something like this{f:?|?}\nMaybe he picked it as a joke.\nSeeing {f:me|me} looking so troubled, Hino said,\n\"Oh, {a}!\nLucky you!\nI love red-bean soup drinks.\nEspecially the ice-cold ones.\nI grabbed one out of habit...\"\n...I see, so Hino had chosen it in earnest{f:.|.}\nBut do they even sell cold red-bean soup drinks?\n{f:I|I} opened the cap and bravely took a drink.\n...Oh, it's actually pretty good!\nHuh, that's a new discovery{f:.|.}\n{f:I|I} drank it with a big smile.{p}",
+   "follows_choice": [
+    "35:185c"
+   ],
+   "returns": []
+  },
+  {
+   "id": "35:6b24",
+   "op": "text",
+   "en": "Don't lie to me.\nWith your eyes shining like that, you can't tell me you're 'not interested.'\nCome on, be honest.{p}You really are interested in what Shirai's doing, aren't you?\n",
+   "follows_choice": [
+    "35:22dc"
+   ]
+  },
+  {
+   "id": "35:6bb8",
+   "op": "choice",
+   "en": "Actually, I am"
+  },
+  {
+   "id": "35:6bc4",
+   "op": "choice",
+   "en": "I'm really not"
+  },
+  {
+   "id": "35:6bdc",
+   "op": "text",
+   "en": "Huh, is that so.\nMaybe you're not cut out for the newspaper club, huh?{p}",
+   "follows_choice": [
+    "35:6bc4"
+   ]
+  },
+  {
+   "id": "35:6c2c",
+   "op": "text",
+   "en": "If you're not out to grab a scoop, there's no way you can do good work.{p}"
+  },
+  {
+   "id": "35:6c88",
+   "op": "text",
+   "en": "Hino's angry face swam and warped.\nHuh...?\nSomething was wrong{f:.|.}\n{f:I|I} hurriedly tried to stand up.\nBut there was no strength in my legs.\nI collapsed right onto the floor.\nI thought I saw someone bending down over me, filling my blurring vision.{p}"
+  },
+  {
+   "id": "35:6d98",
+   "op": "text",
+   "en": ".........................................\n............My head hurt.\nIt was pounding.\nLike I had an oil drum over my head and people were banging on it from all around.{p}"
+  },
+  {
+   "id": "35:6e6c",
+   "op": "text",
+   "en": "{f:I|I} opened my eyes.\n...Wait, this was the newspaper club room{f:, wasn't it|, wasn't it}?\nWhy was I sleeping in a place like {f:this|this}?\nIn my foggy head, my memories gradually came back.\n...{f:Right|Right}, while I was talking with Hino, I suddenly got dizzy and...\nDid {f:I|I} collapse{f:?|?}\nJust then, I saw something move at the edge of my vision.{p}"
+  },
+  {
+   "id": "35:6fe0",
+   "op": "text",
+   "en": "When I looked that way, something was slithering out through the gap in the door.\n{f:What|What} was that just now?\nThe hand I put down to push myself up slid out from under me.\n\"{f:Whoa|Eek}!\"\n{f:I|I} fell to the floor again.\n{f:What|What} was this dark liquid?\nNow that I thought about it, this smell...\n{f:I|I} carefully, slowly got up.{p}"
+  },
+  {
+   "id": "35:7150",
+   "op": "text",
+   "en": "...Six students were lying in the club room.\nNext to {f:me|me} was Kazama{f:.|.}\nI tried to shake him awake, and {f:I|I} gasped.\nKazama's throat had been slashed straight across{f:.|.}\n{f:He's dead|He's dead}★\n{f:I|I} looked around at everyone.\nAt that moment, {f:I|I} understood.\nThis smell filling the whole room...\nIt was the smell of {f:blood|blood}.\nEveryone in this room except {f:me|me} was dead{f:.|.}\nMaybe it was the work of the thing that went out just now.\nBut {f:what|what} was that?\nThat tail, slimy and coated in mucus like a slug?{p}"
+  },
+  {
+   "id": "35:73c0",
+   "op": "text",
+   "en": "{f:I|I} jumped in spite of myself.\nSomeone was shouting outside the door.\n\"What happened?\nWhat was that scream just now?!\"\n\"Open up! Open this door!\"\n......It was the teachers{f:.|.}{p}"
+  },
+  {
+   "id": "35:7488",
+   "op": "text",
+   "en": "Only then did {f:I|I} finally realize.\nThe door was locked from the inside.{p}"
+  },
+  {
+   "id": "35:74f4",
+   "op": "text",
+   "en": "But then... how did {f:that thing|that thing} get out{f:?|?}\nSomeone pounded furiously on the door.\nA room locked from the inside, with six dead and one living.\nI knew that even if I explained what {f:I|I} saw, no one would believe me.\nThe trap that had somehow snared {f:me|me} was slowly being pulled tight.\nIn a sea of blood, all {f:I|I} could do was keep laughing weakly.{p}"
+  },
+  {
+   "id": "35:766c",
+   "op": "text",
+   "en": "That's right.\nDo you know what rotten eggs smell like?\nIt's a smell that makes you feel like gas is building up in your lungs just from one sniff. It gives you goosebumps.\nIt made me feel sick right away.\nI staggered and leaned against the wall.\nThat's when I sensed something in the darkness.{p}",
+   "follows_choice": [
+    "35:2cfc"
+   ]
+  },
+  {
+   "id": "35:7764",
+   "op": "text",
+   "en": "I sensed something creeping up on us.\nAnd with it, the smell got stronger.\nI couldn't tell what it was that was coming closer.\nBut this stench was coming from it.\nI held my breath as best I could and tried to slip away quietly.\nIf I breathed, I'd be taking that smell into my body, and I didn't want to make noise and tell it where I was, either.\nBut it was no use.\nIt was walking straight toward us.\nI could feel it looking at us.\nIt could see us, even in pitch darkness.\nAnd then, finally.\nRight beside me, I heard Iwayama scream.\nThen came a sound like something being crushed.\nIt's embarrassing to admit, but I think my legs gave out.\nI slid down to the floor and couldn't move after that...{p}"
+  },
+  {
+   "id": "35:79f8",
+   "op": "text",
+   "en": "Hino looked down and fell silent.\n\"U-Um... so, what happened to Iwayama?\"\n{f:I|I} asked without thinking.\nWith an ending {f:that|that} abrupt, anyone would want to know{f:.|.}\nHino raised his face.{p}"
+  },
+  {
+   "id": "35:7adc",
+   "op": "text",
+   "en": "\"...You want to know?\"\n...I caught a whiff of something rank, like raw meat.\nWhere was it coming {f:from|from}?\n\"If you want to know, I'll tell you.\"{p}"
+  },
+  {
+   "id": "35:7b74",
+   "op": "text",
+   "en": "Hino came closer to {f:me|me}.\nWas it just my imagination{f:?|?}\nThe smell seemed to be getting stronger...\nA smell like something rotting, one that stung my eyes.\n\"Do I smell that bad?\"\nBefore I knew it, Hino was standing right in front of me.\nI was right, this smell was coming from Hino!\nAs {f:I|I} stood there unable to say a word, Hino grinned at me.\n\"Iwayama got eaten..........by me.\"{p}",
+   "returns": []
+  },
+  {
+   "id": "35:7d08",
+   "op": "text",
+   "en": "{f:What did you say|Whaaat}★{p}"
+  },
+  {
+   "id": "35:7d28",
+   "op": "text",
+   "en": "What did this person just {f:say|say}?\n\"H-Hino... c-cut it out with the jokes, please.\"\nMy voice shook so badly it was pathetic, even to me.\nBut Hino's expression didn't change.\n\"Hino? Oh, I ate him too.\nThat's right, me.\"{p}"
+  },
+  {
+   "id": "35:7e1c",
+   "op": "text",
+   "en": "Hino's face split open vertically.\nFrom the split peeked rows upon rows of sharp fangs.\nSomeone screamed.\nThe next moment, the world around {f:me|me} vanished.{p}"
+  },
+  {
+   "id": "35:7ea8",
+   "op": "text",
+   "en": "Don't talk nonsense.\nHave you ever smelled a dead body?\nI haven't.\nSo even if I smelled one, I wouldn't know.\nI figure it'd be a nasty smell, though.\nWhat I smelled was formalin.{p}",
+   "follows_choice": [
+    "35:2d2c"
+   ]
+  },
+  {
+   "id": "35:7f70",
+   "op": "text",
+   "en": "That's right.\nA rank smell, like raw meat, or like a wild animal.\nAnd it came drifting in on a lukewarm breeze.\nIt was way beyond just disgusting.\nIwayama and I looked at each other and tried to go back the way we came.\nThe very next moment, an arm reached out of the darkness and grabbed Iwayama!\nThat thick arm, covered in bristly hair, dragged Iwayama in.\nAnd then.\nIwayama screamed!\nI got scared and ran without even looking back.\nIn the darkness I tripped and banged into things all over, but I couldn't care less about that.{p}",
+   "follows_choice": [
+    "35:2d48"
+   ]
+  },
+  {
+   "id": "35:813c",
+   "op": "text",
+   "en": "I finally managed to burst outside.\nI was worried about what had happened to Iwayama, but there was no way I was going back in there.\nSo I ran off home.{p}"
+  },
+  {
+   "id": "35:81f0",
+   "op": "text",
+   "en": "Hino looked down and fell silent.\n\"U-Um... is that the end?\"\n{f:I|I} asked without thinking.\nWith an ending {f:that|that} abrupt, anyone would want to know{f:.|.}\nHino raised his face.\n\"I left him to die.\nTo make up for it, I swore an oath.\"\nHino looked at {f:me|me} with a stern expression.\n\"That I'd take down the monster that ate him with my own hands!\"{p}"
+  },
+  {
+   "id": "35:8388",
+   "op": "text",
+   "en": "At some point, he had a knife in his hand.{p}"
+  },
+  {
+   "id": "35:83c4",
+   "op": "text",
+   "en": "His eyes were fixed on.......................{f:me|me}!{p}"
+  },
+  {
+   "id": "35:8410",
+   "op": "text",
+   "en": "Hino came at me with blazing eyes.\n\"No matter what you disguise yourself as, I can tell.\nYou're the one who ate Iwayama. It's you!\"\nWhat had gotten into him?\nHe was like a completely different person from the usual Hino, who always looked out for everyone.\nTo think he had delusions like this!{p}"
+  },
+  {
+   "id": "35:8534",
+   "op": "text",
+   "en": "\"Die, {a}!\"\nI desperately dodged the knife as it thrust at me.\nHino {f:meant it|meant it}!{p}What should I do?\n"
+  },
+  {
+   "id": "35:85a0",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "35:85ac",
+   "op": "choice",
+   "en": "Fight back"
+  },
+  {
+   "id": "35:85b8",
+   "op": "text",
+   "en": "All I could do was run!\n{f:I|I} ran for the door.\nJust a little more and I'd have my hand on the doorknob!\nI reached out desperately.{p}",
+   "follows_choice": [
+    "35:85a0"
+   ]
+  },
+  {
+   "id": "35:864c",
+   "op": "text",
+   "en": "At that moment, something hot and heavy slammed into my back.{p}"
+  },
+  {
+   "id": "35:8688",
+   "op": "text",
+   "en": "As if all my strength were draining out from there, {f:I|I} sank limply to the floor.\nJust like a balloon with a hole in it.\nWhen I reached around to my back, I felt something slick.\n......Blood?{p}"
+  },
+  {
+   "id": "35:8738",
+   "op": "text",
+   "en": "The people looking down at me let out small screams.\nWhat {f:was|was} wrong?\nHurry, stop Hino and call a teacher{f:, someone|, someone}...\n{f:I|I} tried to say that, and raised my hand toward the voices.{p}"
+  },
+  {
+   "id": "35:8804",
+   "op": "text",
+   "en": "On that hand was a cloudy white liquid.\n...What {f:was|was} this?\nIf it had been stained red with blood, that would be one thing, but why was it like this...?\n\"This one's blood... why is it white?\"\nI heard someone's voice.\nWhite?\n{f:White blood?|White blood?}{p}"
+  },
+  {
+   "id": "35:88ec",
+   "op": "text",
+   "en": "\"See, I told you!\nThis one's the monster that ate Iwayama!\"\nI could hear Hino's voice.{p}"
+  },
+  {
+   "id": "35:8950",
+   "op": "text",
+   "en": "That's crazy...\n{f:I'm human|I'm human}.\nThis morning, too, I got up, my mother made me breakfast, I said goodbye to my father as he left...\nBut when my thoughts got that far, I realized the parents in my memory had no faces.\nFaceless parents, smooth and blank, as if they were wearing masks.\nWas {f:my|my} memory incomplete{f:?|?}\nWas {f:my|my} memory... {f:fake|fake}?\nAs my consciousness faded, {f:I|I} reached out a shaggy, hairy arm.\nToward the one face left in my memory, as if begging for salvation.\nMr. Shirai...\n{f:I'm|I'm} going to die halfway through the experiment.\nSir... I'm sorry...{p}"
+  },
+  {
+   "id": "35:8b84",
+   "op": "text",
+   "en": "{f:No way|No way} am I just going to wait here to get killed!\n{f:I|I} fought back.\nI swung up the nearest chair.{p}",
+   "follows_choice": [
+    "35:85ac"
+   ]
+  },
+  {
+   "id": "35:8c08",
+   "op": "text",
+   "en": "I dodged Hino's knife and smashed the chair down on his wide-open head.{p}"
+  },
+  {
+   "id": "35:8c5c",
+   "op": "text",
+   "en": "......There was a sickening crunch.\nWhen I came to my senses, Hino was lying on the floor.\nBlood was running from his nose and mouth, and from his ears too.{p}"
+  },
+  {
+   "id": "35:8ce4",
+   "op": "text",
+   "en": "...He's not breathing?\n\"Y-You didn't have to kill him...\"{p}"
+  },
+  {
+   "id": "35:8d28",
+   "op": "text",
+   "en": "Someone said that.\nBut if I hadn't done it, {f:I|I} would have...!\nAs {f:I|I} turned to make excuses, they backed away as if frightened.\n\"M-Murderer!\"\n\"Murderer!\"\nOne person's scream set it off, and everyone started running.\nThey rushed out of the club room.\nI could hear them all screaming.\n{f:Should I|I had to} run too while I had the chance{f:?|.}\n...But where to?\nI'd never get away.\n{f:I'm|I'm} a murderer{f:.|.}\n......But what did {f:I|I} ever do{f:?|?}\nAll I did was try to collect the seven wonders{f:!|!}\nOr... is {f:it|it} because I learned all seven that I'm being punished by someone{f:?|?}\nThe hallway was getting noisy.\nAt least, before they caught me, I would have liked to know who was trying to punish me.\n...{f:I|I} was idly thinking such things.{p}"
+  },
+  {
+   "id": "35:904c",
+   "op": "text",
+   "en": "That's right.\nWe'd come all this way, so there was no turning back now.{p}",
+   "follows_choice": [
+    "35:3298"
+   ]
+  },
+  {
+   "id": "35:909c",
+   "op": "text",
+   "en": "First, I handed Iwayama a handkerchief.\n\"Cover your mouth with this.\nIt'll help a little.\"\n\"Urgh!\"\nIwayama threw up before I'd even finished saying it.\nNo guts at all.\nI told Iwayama not to move from there.{p}"
+  },
+  {
+   "id": "35:918c",
+   "op": "text",
+   "en": "Then, to look for the power switch, I felt my way along the wall.\nSlowly, slowly...\nAs before, my hand never touched anything like a switch.\nThen I wondered.\nWhat was that baby crying earlier...?\nJust as I thought that and went to take a step...{p}"
+  },
+  {
+   "id": "35:9298",
+   "op": "text",
+   "en": "\"☆\"\nSomeone grabbed my shoulder hard.\nI felt like my heart was being crushed.\nOh no!\nShirai had found us!{p}"
+  },
+  {
+   "id": "35:9328",
+   "op": "text",
+   "en": "\"Hino. What are you so jumpy for?\"\nThe culprit who grabbed my shoulder was Iwayama.\n\"Don't scare me like that!\nBut you... are you okay?\"\n\"Yeah, after I threw up big-time just now, I felt better.\nI'm fine now.\"\nThat's what Iwayama said.\n\"Then let's keep going...\"{p}"
+  },
+  {
+   "id": "35:9420",
+   "op": "text",
+   "en": "We started slowly moving forward again.{p}"
+  }
+ ]
+}

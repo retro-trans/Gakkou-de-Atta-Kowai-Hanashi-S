@@ -1,0 +1,354 @@
+{
+ "slice": "S048",
+ "scene": "11",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S047",
+ "next": "S049",
+ "todo": [],
+ "rows": [
+  {
+   "id": "11:0da8",
+   "op": "text",
+   "en": "...Hello, everyone. Nice to meet you.\nMy name is Shoji Arai, from Class 2-B.\nThis may surprise you all, but I was in the soccer club, you know.\nBack in my first year.\nI quit after a year, though.\nI suppose it just wasn't for me.\nThe practices were hard, and even to be generous, my athletic ability was nothing to speak of.\nBut you see, the real reason was something else.\nDid you know this school has a fully equipped dormitory?\nSurprisingly few people know about it.\nThere's the auditorium, isn't there?\nThe auditorium where they hold graduation and other ceremonies.\nHave you ever been up above that auditorium?\nI don't suppose you have.\nIt's normally off-limits.\nAnd hardly anyone ever uses it.\nApparently plenty of people spend three years at this school and graduate without ever knowing what's up there.\nBut you see, a certain few know it well.\nThey know there's a dormitory up there.{p}"
+  },
+  {
+   "id": "11:10e0",
+   "op": "text",
+   "en": "It can sleep about fifty people.\nThe athletic clubs use it when a tournament is coming up, or when they hold a training camp at school.\nBut apparently it's really only a few of the athletic clubs that use it.\nAnd do you know why? ...Things appear in that dormitory.\nWhy would that be, I wonder?\nI have no idea why they'd appear in a place like that.\nBut the rumors about that place don't stop at one or two.{p}"
+  },
+  {
+   "id": "11:1264",
+   "op": "text",
+   "en": "When it comes to scary stories, what kind interests you most?\n"
+  },
+  {
+   "id": "11:12a4",
+   "op": "choice",
+   "en": "Ghost stories"
+  },
+  {
+   "id": "11:12b0",
+   "op": "choice",
+   "en": "Strange stories"
+  },
+  {
+   "id": "11:12bc",
+   "op": "choice",
+   "en": "Cruel stories"
+  },
+  {
+   "id": "11:12c8",
+   "op": "choice",
+   "en": "Disgusting stories"
+  },
+  {
+   "id": "11:12d8",
+   "op": "text",
+   "follows_choice": [
+    "11:12b0"
+   ],
+   "en": "...I see.\nSo you like strange stories.\nAs it happens, I think the story I'm about to tell is perfect for someone like you.\nI think you'll be satisfied.\n...Yes.\nAfter all, even I, who actually lived through it, still don't really understand it.\n...It happened during summer vacation last year.{p}"
+  },
+  {
+   "id": "11:1400",
+   "op": "text",
+   "en": "You know the soccer club is split into a first team and a second team, don't you?\nAnd the second-team players, which is to say people like us, were made to hold a training camp at school.\nOf course, our treatment and our standing were different from the first team's core players, the regulars included.\nFirst-team players don't stay overnight at school.\nWe hardly ever even got to see them.\nHowever you looked at it, we had neither the talent nor the grit to move up to the first team.\nIf anything, rather than getting stronger or winning tournaments, I'd have been happy just to have fun in club activities.\nBut according to the first-team people, that makes you a loser.\nThe second team is a bunch of losers like that.\nPlayers get dropped from the first team to the second, but almost nobody ever moves up from the second to the first.\nBut for me, that actually made it easier.\nSo what if you're a loser, as long as you're having fun?{p}"
+  },
+  {
+   "id": "11:1744",
+   "op": "text",
+   "en": "You think so too, don't you, {a}?\n"
+  },
+  {
+   "id": "11:176c",
+   "op": "choice",
+   "en": "Being a loser is fine by me"
+  },
+  {
+   "id": "11:1784",
+   "op": "choice",
+   "en": "I don't want to be a loser"
+  },
+  {
+   "id": "11:1794",
+   "op": "choice",
+   "en": "I don't care either way"
+  },
+  {
+   "id": "11:17ac",
+   "op": "text",
+   "follows_choice": [
+    "11:1784"
+   ],
+   "en": "...I see.\nSo you're not the same kind of person as me, {a}.{p}"
+  },
+  {
+   "id": "11:17f0",
+   "op": "text",
+   "en": "In this world, you see, there are people who rule and people who are ruled.\nYou're the ruling type, aren't you?\nMe, I find it more comfortable being ruled.\n...I see.\nSo that's the kind of person you are, {a}.\n...Well, never mind.\nLet's go on with the story.{p}"
+  },
+  {
+   "id": "11:18f0",
+   "op": "text",
+   "en": "I liked the soccer club, that bunch of losers, because it was easygoing, but some people in it didn't feel that way.\nOur soccer club is fairly strong, after all.\nIt was a far cry from the fun club activities I'd pictured.\nThe practices were hard, and everyone was serious.\nBut you see, plenty of people felt the same way I did.\nPeople who wanted a friendlier, more relaxed soccer club, even if it meant being weak.\nAnd so I found a friend I got along with.\nA first-year who, like me, hated the harsh practices.{p}"
+  },
+  {
+   "id": "11:1ae0",
+   "op": "text",
+   "en": "His name was Masaru Sodeyama.\nHe had a weak constitution.\nApparently his mother told him he had to, so he reluctantly joined an athletic club.\nHe figured the soccer club had lots of members, so he'd be able to slack off.\nPretty much the same as me, right?\nBut once he actually joined, it was nothing like that, and he was depressed.\nWe became friends right away.\nBy then, we were already the soccer club's dropouts.\nWe could have quit any time.\nBut Sodeyama was a good guy.\nHe said his mother would be sad if he quit the soccer club, so he kept at it without missing a single one of those hellish, grueling practices.\nFrankly, I wanted to quit, but Sodeyama was there.\nSo I kept him company and kept at it too.{p}"
+  },
+  {
+   "id": "11:1d64",
+   "op": "text",
+   "en": "Besides, they say that if you were in an athletic club as a student, it goes over well in job interviews, don't they?\nSo I kept at it, too.\nAnd then came the summer training camp.\nI don't much like training camps.\nBeing forced to live a regimented life as a group, controlled twenty-four hours a day.\nI think that sort of thing is unforgivable.\nAnd it went on for a whole week.\nIf Sodeyama hadn't been there, I'd have skipped the camp and just quit the soccer club.\nI'm no good at living in a group...\nWhen the camp starts, the first thing they do is show you to the dormitory, and you pick your own bed.{p}"
+  },
+  {
+   "id": "11:1f90",
+   "op": "text",
+   "en": "My first sight of the dormitory left a thoroughly gloomy impression.\nAs for windows, there were only small skylights you could barely get your head through, if that, and not one bit of sunlight came in.\nIt was like a prison, damp and clammy, with soulless bunk beds lined up in a grid like a go board.\nThat was all.\nThey call it a dormitory, but there are only beds.\nThe beds were metal-pipe frames with no reading lamps, and the mattresses were thin and rock-hard.\nIt was like sleeping on bare tatami.\nFrankly, it felt less like a dormitory than an internment camp.\nEven so, there were guys who were thrilled about the camp.\nEveryone eating together, everyone sleeping together.\nSome people's hearts leap at that kind of group life.\nNot that I can understand it.\n\"I got this bed!\"\n\"This one's mine!\"\nThey all shouted things like that, fighting over the beds they wanted.\nI'd have thought every bed was the same.\n\"Arai, where should we go?\"\nSodeyama asked me that.\nIf we could, it'd be better to be next to each other, right?\nSodeyama was the only one there I thought I'd get along with.\nWhen I looked, almost all the beds were already taken.\nEven if we wanted to choose, the only spot with two empty beds side by side was...{p}"
+  },
+  {
+   "id": "11:23e0",
+   "op": "text",
+   "en": "\"...Looks like it's only here.\"\nWith that, Sodeyama tossed his bag up onto the top bunk of a bed far from the entrance.\nThe bed to its right was empty.\n\"Then I'll take this one.\"\nI put my things on the bed to the right of the one Sodeyama had chosen.\n\"...Hey, that guy picked bed number 4.\"\n\"...Yeah.\nWhat an idiot.\"\nI didn't miss the two guys whispering to each other nearby.{p}"
+  },
+  {
+   "id": "11:255c",
+   "op": "text",
+   "en": "Bed number 4?\nI looked carefully at the edge of the bed frame.\nMy bed was marked with the number \"2.\"\nSodeyama didn't seem to have noticed what those two were saying.\nWhen I quietly peeked at his bed...{p}"
+  },
+  {
+   "id": "11:2638",
+   "op": "text",
+   "en": "His bed was marked with the number \"4.\"\nThat was when I first realized it.\nThat Sodeyama was drawing a great deal of attention.\nEveryone was putting their things away and pretending not to look, yet they kept glancing at Sodeyama, or rather, it seemed to be bed number 4 they were worried about.\n"
+  },
+  {
+   "id": "11:2750",
+   "op": "text",
+   "en": "I wavered over whether to tell Sodeyama about it.\nShould I tell him?\nOr else...{p}What do you think I did?\n"
+  },
+  {
+   "id": "11:27c8",
+   "op": "choice",
+   "en": "You told him"
+  },
+  {
+   "id": "11:27d0",
+   "op": "choice",
+   "en": "You didn't tell him"
+  },
+  {
+   "id": "11:27e0",
+   "op": "text",
+   "follows_choice": [
+    "11:27d0"
+   ],
+   "en": "Yes, that's right.\nI didn't think much of it, so I didn't say anything.\nI didn't want to say something weird and put a crack in our friendship.{p}"
+  },
+  {
+   "id": "11:2894",
+   "op": "text",
+   "en": "From that day on, the grueling practices began.\nBut after dinner we had free time, so we could relax.\nEveryone had brought handheld video game consoles or portable CD players.\nThe ones who hadn't brought manga or novels, or cards and games, and everyone passed the time in their own way on their beds.\nSodeyama and I talked about all sorts of things, our studies and our hobbies.\nGood times always fly by.{p}"
+  },
+  {
+   "id": "11:2a48",
+   "op": "text",
+   "en": "Lights-out came, and worn out from practice, we fell asleep right away.\nIt seemed some people stayed up talking late, but I fell asleep right away, too.\nI only remember having the feeling that Sodeyama was moaning in his sleep during the night.{p}"
+  },
+  {
+   "id": "11:2b34",
+   "op": "text",
+   "en": "At training camp, you manage to get up even on mornings when you normally couldn't, don't you?\nWhen it's time to get up, everything around you suddenly starts stirring.\nEven I, who usually can hardly drag myself out of bed, managed to get up that day without much of a struggle.{p}"
+  },
+  {
+   "id": "11:2c14",
+   "op": "text",
+   "en": "Sodeyama was rubbing his sleepy eyes, and he looked somehow haggard.\n\"Looks like you didn't sleep very well.\"\nWhen I said that, he gave a little nod.\n\"You seemed to be having nightmares...\"\n\"...I don't really remember.\"\nHe answered wearily.\nThat was when I noticed.{p}"
+  },
+  {
+   "id": "11:2d48",
+   "op": "text",
+   "en": "That there was a small blue bruise on the back of his right hand.\n\"Where'd you get that bruise?\nDid you bump it on something?\"\n\"...Huh, I don't know.\nI don't really remember.\"\nHe answered as if I were bothering him.{p}"
+  },
+  {
+   "id": "11:2e20",
+   "op": "text",
+   "en": "All through practice that day, Sodeyama looked like he was really suffering.\nHis shoulders drooped as if even breathing was hard for him, and he was drained the whole time.\nThe Sodeyama who used to answer me with a shy smile whenever I spoke to him had become a different person in just one day.{p}"
+  },
+  {
+   "id": "11:2f00",
+   "op": "text",
+   "en": "That night, too, Sodeyama seemed to sleep badly.\nThe next morning, his color was even worse.{p}"
+  },
+  {
+   "id": "11:2f7c",
+   "op": "text",
+   "en": "And the bruise on his hand had grown bigger than the day before.\nIt was a bruise that looked painful just to see, as if something heavy had been pressing on it for a long time, or as if someone had pinched it as hard as they could.{p}"
+  },
+  {
+   "id": "11:3040",
+   "op": "text",
+   "en": "\"...Sodeyama.\nAre you all right?\"\n\"..............Yeah.\"\n\"Doesn't the bruise on your hand hurt? It looks worse than yesterday.\"\n\"..............Yeah.\"\nHe said very little.{p}"
+  },
+  {
+   "id": "11:30fc",
+   "op": "text",
+   "en": "Days like that went on for a while.\nAnd day by day, Sodeyama's health and color got worse.\nHe looked like someone you couldn't tell was alive or dead.\nAnd along with it, the bruise on his right hand grew bigger too, stamping its mark ever more clearly, a dark, murky black.{p}"
+  },
+  {
+   "id": "11:3200",
+   "op": "text",
+   "en": "And at practice on the last day, he finally collapsed.\n\"The bed... take me to the bed...\"\nThat was all he kept muttering.\nIt was hot, after all.\nWe thought it might be sunstroke, so it was decided to let him rest in bed.\nIt was summer vacation, so the school nurse wasn't there either.\n\"Arai, you go with him.\"\nOne of the upperclassmen told me that, and I took Sodeyama back.\nNot that anyone needed to tell me; I'd meant to volunteer for the job anyway.{p}"
+  },
+  {
+   "id": "11:33bc",
+   "op": "text",
+   "en": "At that point, I agonized over whether it was really all right to lay him in bed number 4.\nEveryone's distant looks, like they wanted nothing to do with it.\nAnd what those two had said to each other.\nI remembered it clearly, you see.{p}{a}, what do you think I did then?\n"
+  },
+  {
+   "id": "11:34b0",
+   "op": "choice",
+   "en": "Put him in bed number 4"
+  },
+  {
+   "id": "11:34c8",
+   "op": "choice",
+   "en": "Put him in a different bed"
+  },
+  {
+   "id": "11:34e0",
+   "op": "text",
+   "follows_choice": [
+    "11:34c8"
+   ],
+   "en": "I meant to do that, too.\nNot bed number 4; I thought I'd at least let him sleep in my bed.\n...But it was no use.\nHe didn't want to.\nFor some reason, he wanted to sleep in bed number 4.{p}"
+  },
+  {
+   "id": "11:35a8",
+   "op": "text",
+   "en": "Having no choice, I laid him in bed number 4.\n\"...Hurry up and get out.\n...I'm sleepy.\"\nIt was a really cold reception.\nHe chased me off as if I were in his way.\nI left the room, leaving Sodeyama there alone.{p}"
+  },
+  {
+   "id": "11:369c",
+   "op": "text",
+   "en": "That damp dormitory where no sunlight came in even in the daytime.\nNaturally, the stale air there turns dusty and musty.\nI didn't want to stay there long either, if I could help it.\n...But little by little, I started to worry.\nIf anything happened to Sodeyama, I'd be the one held responsible.{p}What would you do?\n"
+  },
+  {
+   "id": "11:37cc",
+   "op": "choice",
+   "en": "Go back and check on him"
+  },
+  {
+   "id": "11:37dc",
+   "op": "choice",
+   "en": "Keep on practicing"
+  },
+  {
+   "id": "11:37f4",
+   "op": "text",
+   "follows_choice": [
+    "11:37dc"
+   ],
+   "en": "I see.\n...You really are a cold person, aren't you?\nI suppose that's how people on the ruling side are.\nYou can abandon a friend without a second thought.\nYou have that kind of face, after all.\nBut I was different.\nFriends are important, you know.{p}I was worried about Sodeyama, so I went back to the room.{p}"
+  },
+  {
+   "id": "11:391c",
+   "op": "text",
+   "en": "...Sodeyama was asleep.\n"
+  },
+  {
+   "id": "11:3938",
+   "op": "text",
+   "en": "He was lying on the bed with the blanket pulled up over his head, and it was squirming.{p}"
+  },
+  {
+   "id": "11:3998",
+   "op": "text",
+   "en": "...But what I'd taken for a blanket was a living thing.\nAn unknowable creature like a caterpillar, its whole body wrapped in a pale brown, blanket-like cloth, was lying over Sodeyama.\n\"Ah!\"\nI cried out before I could stop myself.\nThe instant I did, the thing stopped moving.{p}"
+  },
+  {
+   "id": "11:3ab0",
+   "op": "text",
+   "en": "Then it slowly looked my way.\n"
+  },
+  {
+   "id": "11:3ae4",
+   "op": "text",
+   "en": "Below the neck it was wrapped tightly in that blanket-like rag, so I couldn't see its whole body.\nNot that I wanted to see it, of course.\nIt had an indescribably horrible face.\nYou could almost call it a woman's face, but that thing was definitely not human.\nIt didn't seem like a ghost or anything of that sort either; it was simply an eerie monster.\nIt had a hand in its mouth.\nSodeyama's right hand.\nA shock, as if time had stopped.\nAll around me, a silent world without a single sound.\nIf someone had dropped a needle right then, I think I could have heard even that.\nAnd then, in that silent world, what did I hear but a slurp, slurp, like something sipping, like something sucking.\nIt was sucking on Sodeyama's arm.\nOn that dark, murky bruise, its lips pursed, it was sucking away.{p}"
+  },
+  {
+   "id": "11:3dd0",
+   "op": "text",
+   "en": "Then all of a sudden, it opened its mouth wide.\nIt was a mouth so huge it looked like it could swallow a human head in one gulp.\n...I couldn't run away.\nStrangely, I even forgot to run.\nFear left me unable to move, and that tangled together with the shock of meeting something unknown; my five senses were stolen from me.\nIt kept glaring at me, its huge mouth still wide open.{p}I couldn't run away. What do you think I did?\n"
+  },
+  {
+   "id": "11:3f90",
+   "op": "choice",
+   "en": "You screamed"
+  },
+  {
+   "id": "11:3f98",
+   "op": "choice",
+   "en": "You prayed"
+  },
+  {
+   "id": "11:3fa0",
+   "op": "choice",
+   "en": "You spat at it"
+  },
+  {
+   "id": "11:3fac",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "11:3fc8",
+   "op": "text",
+   "follows_choice": [
+    "11:3fa0",
+    "11:f8b4"
+   ],
+   "en": "You know, I don't know myself what came over me, but I spat.{p}"
+  },
+  {
+   "id": "11:4018",
+   "op": "text",
+   "en": "Right at that monster.{p}"
+  },
+  {
+   "id": "11:4054",
+   "op": "text",
+   "en": "Then all of a sudden, it let out a shrill shriek like fingernails scraping glass, and began to writhe in agony.\nWhere my spit had hit it, it sizzled and charred and smoke rose up, as if I'd thrown sulfuric acid on it.\nI was stunned.\nIt melted into the air just like that and vanished.{p}"
+  },
+  {
+   "id": "11:417c",
+   "op": "text",
+   "en": "Whether it died or ran away... that I can't tell you.\nOnly once it was gone did I hurriedly grab Sodeyama's arm, which hung limply out from under the covers.\n"
+  },
+  {
+   "id": "11:422c",
+   "op": "text",
+   "en": "\"Sodeyama!\"\nI pulled as hard as I could.\nAnd then I froze in horror.\nSodeyama wasn't there.{p}"
+  },
+  {
+   "id": "11:42ac",
+   "op": "text",
+   "en": "What came out from under the covers was only Sodeyama's right arm.\nThe rest of Sodeyama, the body that should have been past the base of the shoulder, was gone.\n...No, to be precise, that's not quite right.\nStuck to the base of the shoulder was something like a plant bulb.\nA small thing, small enough to sit in the palm of your hand.\nThat was Sodeyama.\nWrinkled, shriveled and hardened, it was all that was left of Sodeyama.\nIt was almost strange that only his right arm was still normal.\nHad all the nourishment been sucked out of Sodeyama's body?\nAnd if I'd found him just a little later, would the nourishment in the last thing remaining, his right arm, have been sucked out too, leaving only a wrinkled lump?{p}"
+  },
+  {
+   "id": "11:4530",
+   "op": "text",
+   "en": "Even if I told anyone what happened to Sodeyama, there was no way they'd believe me.\nSo I kept quiet.\nBut even if I kept quiet, Sodeyama had disappeared, that was a fact, and I was the one who'd been with him until the end, so I figured I'd be questioned.\nBut nothing happened.\nThe moment it came out that Sodeyama had been sleeping in bed number 4, I was called in by the principal.{p}"
+  },
+  {
+   "id": "11:466c",
+   "op": "text",
+   "en": "Even though it was summer vacation, the principal came all the way to school.\nAnd then,\n\"You saw nothing.\nNothing happened there.\nIs that clear?\"\nhe told me, making very sure I understood.{p}"
+  },
+  {
+   "id": "11:473c",
+   "op": "text",
+   "en": "I don't know how that incident was dealt with.\nBut I never saw Sodeyama again after that, and he didn't come to school even when the second term started.\nAnd I don't know what became of that shriveled thing that was all that was left of Sodeyama, either.\n...That's the direct reason I quit the soccer club.\n...By the way, after that, I heard the rumor about bed number 4 secondhand.\nApparently, anyone who uses bed number 4 goes missing.\nBut whenever someone tries to get rid of that bed, something bad happens, so no one dares lay a hand on it.\nStill, what was that monster I saw?\nDoes the principal know something?\nA while later, I read in a certain book that some monsters of folklore are weak against human spit.\nMaybe that thing was one of them.\nBut I don't believe it died.\nIf it were the kind of thing that would disappear that easily, someone would have gotten rid of it long ago.\n{a}, the day may come when you have to use the dormitory, too.\nWhen it does, check whether bed number 4 is still there.\nI'm sure it will be.\nBut I'm warning you, be very careful.\nDon't use bed number 4...\nThis concludes my story.\nNext person, please.{p}"
+  }
+ ]
+}

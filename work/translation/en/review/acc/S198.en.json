@@ -1,0 +1,321 @@
+{
+ "slice": "S198",
+ "scene": "51",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S197",
+ "next": "S199",
+ "todo": [],
+ "rows": [
+  {
+   "id": "51:060c",
+   "op": "text",
+   "en": "So you're {a}.\nI've heard all about you from Hino.{p}Word is you're pretty dim, huh?\n"
+  },
+  {
+   "id": "51:0668",
+   "op": "choice",
+   "en": "That's harsh!"
+  },
+  {
+   "id": "51:0674",
+   "op": "choice",
+   "en": "Take it in silence"
+  },
+  {
+   "id": "51:068c",
+   "op": "text",
+   "follows_choice": [
+    "51:0668"
+   ],
+   "en": "Don't get mad, I'm not insulting you.\nHino said you're a cute kid he just can't leave alone.\nNo idea if that's true, though.{p}"
+  },
+  {
+   "id": "51:0714",
+   "op": "text",
+   "en": "Whoa, that's enough small talk.\nI'm Makoto Shindo.\nClass 3-D.\n...This happened back when I'd just started here.{p}"
+  },
+  {
+   "id": "51:0798",
+   "op": "text",
+   "en": "A buddy of mine got hit in a traffic accident.\nHe broke his leg, but he didn't have any other serious injuries. Still, they kept him in the hospital for a while just to be safe.\nWhile he was in there, he called me from the hospital.\nHe said he wanted to go to a movie once he got out, so could I get two tickets for him.\nI bought tickets for the movie he asked for.{p}"
+  },
+  {
+   "id": "51:08d4",
+   "op": "text",
+   "en": "...But he died before he ever got out.\n"
+  },
+  {
+   "id": "51:090c",
+   "op": "choice",
+   "en": "How did he die?"
+  },
+  {
+   "id": "51:0920",
+   "op": "choice",
+   "en": "What? You're kidding, right?"
+  },
+  {
+   "id": "51:0934",
+   "op": "text",
+   "follows_choice": [
+    "51:0920"
+   ],
+   "en": "I'm not kidding.\nI couldn't believe it either when I got the news.\nApparently that kind of thing happens.\nYou're fine right after the accident, and then later on you take a turn for the worse.{p}"
+  },
+  {
+   "id": "51:09dc",
+   "op": "text",
+   "en": "They say it's not unusual for bleeding in the brain to kill you.{p}"
+  },
+  {
+   "id": "51:0a18",
+   "op": "text",
+   "en": "He was a straightforward guy, ran track and stuff.\nHe was a good guy, too...{p}"
+  },
+  {
+   "id": "51:0a74",
+   "op": "text",
+   "en": "Back then, I didn't have anybody else I hung around with.\nSo I couldn't talk to anyone about it either, and I spent a lot of time just brooding.\nStill, it's a strange thing.\nWhen somebody who was right there beside you is suddenly gone.\nThinking \"he's dead\" made me feel awful, but somehow it never quite felt real, you know?{p}Like he was off on a trip somewhere and he'd be back sooner or later...\nThat's how it felt to me.\n"
+  },
+  {
+   "id": "51:0bd8",
+   "op": "choice",
+   "en": "I see..."
+  },
+  {
+   "id": "51:0be8",
+   "op": "choice",
+   "en": "I've been through that too"
+  },
+  {
+   "id": "51:0bfc",
+   "op": "text",
+   "follows_choice": [
+    "51:0bd8"
+   ],
+   "en": "Well, that was only at first.\nMy buddy's dead.\nNow I can say flat out that that's how it is.{p}"
+  },
+  {
+   "id": "51:0c70",
+   "op": "text",
+   "en": "...The movie tickets I'd bought for my buddy went to waste.\nThinking about that, one day after school I wandered over and looked into the classroom where his class had been.\nIt was pretty late, so the room was empty.{p}"
+  },
+  {
+   "id": "51:0d50",
+   "op": "text",
+   "en": "Except there was one girl there.\n...She was sitting at my buddy's desk.\nHer hair was so beautiful it almost looked see-through.\nShe was just sitting there, staring at the flowers set on the desk.\nShe looked awfully lonely.{p}"
+  },
+  {
+   "id": "51:0e14",
+   "op": "text",
+   "en": "So I talked to her.\nI wondered what on earth she was doing.\nBut when I asked, all she did was move her mouth, mumbling.\nThen the silence got too awkward.\nSo I quit trying to talk to her.\nI sat down there without a word.\nShe stayed quiet the whole time too.{p}"
+  },
+  {
+   "id": "51:0f24",
+   "op": "text",
+   "en": "And then, after a while, she started rummaging around the desk, looking for something.\n"
+  },
+  {
+   "id": "51:0f6c",
+   "op": "choice",
+   "en": "That's strange"
+  },
+  {
+   "id": "51:0f78",
+   "op": "choice",
+   "en": "What was she looking for?"
+  },
+  {
+   "id": "51:0f90",
+   "op": "text",
+   "follows_choice": [
+    "51:0f6c"
+   ],
+   "en": "Right?{p}"
+  },
+  {
+   "id": "51:0f9c",
+   "op": "text",
+   "en": "So before I knew it, I'd yelled at her, \"What're you doing?\"{p}"
+  },
+  {
+   "id": "51:0fec",
+   "op": "text",
+   "en": "She looked at me with startled eyes.\nAnd those eyes had lashes like a doll's...\n\"...Man, you've got long eyelashes.\"\n\"Huh?\"\nI said something that made no sense.{p}"
+  },
+  {
+   "id": "51:10a4",
+   "op": "text",
+   "en": "Then she let out a soft laugh, light as a breath.{p}"
+  },
+  {
+   "id": "51:10ec",
+   "op": "text",
+   "en": "But right away she looked down again.\nShe seemed to be agonizing over something.\n\"You looking for something?\"\nWhen I asked, this is the answer I got.\n\"I'd promised the boy who sat here that we'd go to a movie.\nBut then he got into an accident...\nI wonder which movie he was going to take me to.\n...I want to know.\"\nIt clicked for me right away.{p}"
+  },
+  {
+   "id": "51:1244",
+   "op": "text",
+   "en": "Maybe when my buddy called and asked me to get those tickets...\nWhen did that guy land himself a cute girlfriend like this?\nFor a second, I was stunned.\nLooked like it was supposed to be their first date.{p}"
+  },
+  {
+   "id": "51:1310",
+   "op": "text",
+   "en": "For her, it must have been a real shock.\nShe was trying to sort out her feelings by seeing the movie she was supposed to see with him.\nI told her I was his buddy, and right away I told her about the tickets.\nAnd I promised I'd bring them for her the next day.{p}"
+  },
+  {
+   "id": "51:140c",
+   "op": "text",
+   "en": "Lashes was really happy about it.\n"
+  },
+  {
+   "id": "51:1428",
+   "op": "choice",
+   "en": "Lashes?"
+  },
+  {
+   "id": "51:1434",
+   "op": "choice",
+   "en": "Did I hear that wrong?"
+  },
+  {
+   "id": "51:1448",
+   "op": "text",
+   "follows_choice": [
+    "51:1428"
+   ],
+   "en": "...Oh, actually, in my head I was calling her Lashes.{p}"
+  },
+  {
+   "id": "51:148c",
+   "op": "text",
+   "en": "Because when I asked her name, she wouldn't tell me.{p}"
+  },
+  {
+   "id": "51:14c8",
+   "op": "text",
+   "en": "The next day, I gave Lashes the tickets.\nWe met up in my buddy's classroom after school.{p}"
+  },
+  {
+   "id": "51:1548",
+   "op": "text",
+   "en": "Lashes stared at the tickets, lost in thought for a while.\n\"Thank you... Hey, can I ask you a favor?\"\n\"What?\"\n\"Do you know where his grave is?\nI want to leave one of these tickets there.\nNot that it means he can actually come to the movie...\"\nI had no reason to say no to taking her to visit his grave.\nThat day, I went with Lashes to my buddy's grave.{p}"
+  },
+  {
+   "id": "51:16b4",
+   "op": "text",
+   "en": "\"I'm going to see this movie tomorrow.\nYou know, there's a movie theater near school.\nCome if you can.\"\nWith that, Lashes left the ticket on my buddy's grave.\nMaybe girls really do take that kind of unrealistic stuff seriously.{p}"
+  },
+  {
+   "id": "51:179c",
+   "op": "text",
+   "en": "She pressed her hands together toward the grave and stayed still for a while.\nHer soft-looking hair slid smoothly over her shoulder.\nFor a second there, I thought I'd like to touch it.{p}"
+  },
+  {
+   "id": "51:1840",
+   "op": "text",
+   "en": "\"...So where'd you two meet?\"\n\"Well..........\"\nI didn't get a straight answer.\nIt doesn't feel great when someone keeps secrets from you.\nBut, well, that was between the two of them.\nIt wasn't my place to pry.{p}"
+  },
+  {
+   "id": "51:1928",
+   "op": "text",
+   "en": "Still, when he called me from the hospital, he really sounded fine.\nYou never know what's coming, huh?\nI pressed my hands together at my buddy's grave too.{p}"
+  },
+  {
+   "id": "51:19dc",
+   "op": "text",
+   "en": "...So when I got home that day, for some reason there was a ticket sitting on the desk in my room.\n"
+  },
+  {
+   "id": "51:1a30",
+   "op": "choice",
+   "en": "Wait, could that be..."
+  },
+  {
+   "id": "51:1a48",
+   "op": "choice",
+   "en": "What kind of ticket was it?"
+  },
+  {
+   "id": "51:1a60",
+   "op": "text",
+   "follows_choice": [
+    "51:1a30"
+   ],
+   "en": "You get it?\nIt was the same ticket we'd left at my buddy's grave.{p}"
+  },
+  {
+   "id": "51:1a9c",
+   "op": "text",
+   "en": "Did my family buy it?\nThat's what I thought, so I checked right away.\nBut no.\nThen did somebody come by?\nIt wasn't that either.\n...Did my buddy leave it?\nNo way, he was supposed to be dead.\nBut then this ticket...\nI looked it over carefully.{p}"
+  },
+  {
+   "id": "51:1ba4",
+   "op": "text",
+   "en": "It wasn't my buddy's handwriting.\nWas this Lashes' handwriting?\nAnd what was \"no good\" supposed to mean?\nIf the ticket we'd left on the grave was here... did my buddy bring it after all?{p}"
+  },
+  {
+   "id": "51:1c58",
+   "op": "text",
+   "en": "What was my buddy trying to tell me?{p}Was he telling me to help Lashes, since she was so down?\nThat's the thought that came to me.\n"
+  },
+  {
+   "id": "51:1cdc",
+   "op": "choice",
+   "en": "I'm sure that's it"
+  },
+  {
+   "id": "51:1cf0",
+   "op": "choice",
+   "en": "I don't think that's it"
+  },
+  {
+   "id": "51:1d00",
+   "op": "text",
+   "follows_choice": [
+    "51:1cdc"
+   ],
+   "en": "You think so?\nBut isn't that weird?\nWhy wouldn't he try to help her himself?\nShe was his own girlfriend...{p}"
+  },
+  {
+   "id": "51:1d6c",
+   "op": "text",
+   "en": "...No, I guess she wasn't his girlfriend anymore.\nMy buddy was dead, after all.{p}"
+  },
+  {
+   "id": "51:1dbc",
+   "op": "text",
+   "en": "For some reason, I was terribly sleepy that day.\nWith my head all in a muddle, I crawled into bed.{p}"
+  },
+  {
+   "id": "51:1e3c",
+   "op": "text",
+   "en": "The next day, I went to see Lashes again.\nWe hadn't arranged it, but after school she was always there in my buddy's empty classroom.{p}"
+  },
+  {
+   "id": "51:1ed0",
+   "op": "text",
+   "en": "As soon as she saw my face, Lashes said,\n\"He didn't come to the movie...\"\nOf course he didn't.\nI knew that.\nRight then, that ticket was in my pocket.\nIt wasn't that my buddy had ignored what Lashes wrote on the ticket.\nI wasn't sure whether to tell her, and I couldn't find the right words anyway.\n\"Lashes, is something bothering you?\"\n\"Huh? What's 'Lashes'?\"\n\"Oh... sorry, that's just what I've been calling you on my own.\nYou've got long eyelashes.\"{p}"
+  },
+  {
+   "id": "51:207c",
+   "op": "text",
+   "en": "\"Oh, come on, ahaha... Hm? What's wrong?\nWhy the look?\"\nIt was rare to see her smile, so I couldn't help staring.\nThere was something gloomy about Lashes, you see.\n\"Hey, if something's wrong, tell me.\"{p}"
+  },
+  {
+   "id": "51:214c",
+   "op": "text",
+   "en": "\"If I tell you, will you do something about it?\"\nHer long lashes fluttered slightly.\n\"That I can never see your friend again.\"\nWhen she put it like that, there was nothing I could do.\nWhen I didn't say anything, Lashes apologized right away.\n\"I'm sorry.\nIt's not your fault...\"{p}"
+  },
+  {
+   "id": "51:225c",
+   "op": "text",
+   "en": "And then, right there, she vanished like smoke.\n"
+  },
+  {
+   "id": "51:2290",
+   "op": "choice",
+   "en": "So Lashes was..."
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "slice": "S039",
+ "scene": "08",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S038",
+ "next": "S040",
+ "rows": [
+  {
+   "id": "08:6ca0",
+   "op": "text",
+   "follows_choice": [
+    "08:6c70"
+   ]
+  },
+  {
+   "id": "08:6d5c",
+   "op": "text"
+  },
+  {
+   "id": "08:6efc",
+   "op": "text"
+  },
+  {
+   "id": "08:7000",
+   "op": "text"
+  },
+  {
+   "id": "08:714c",
+   "op": "text",
+   "follows_choice": [
+    "08:6c88"
+   ]
+  },
+  {
+   "id": "08:7284",
+   "op": "text"
+  },
+  {
+   "id": "08:739c",
+   "op": "text"
+  },
+  {
+   "id": "08:75b0",
+   "op": "text"
+  },
+  {
+   "id": "08:76cc",
+   "op": "text",
+   "follows_choice": [
+    "08:1460"
+   ]
+  },
+  {
+   "id": "08:77ac",
+   "op": "choice"
+  },
+  {
+   "id": "08:77b4",
+   "op": "choice"
+  },
+  {
+   "id": "08:77bc",
+   "op": "choice"
+  },
+  {
+   "id": "08:77c4",
+   "op": "text",
+   "follows_choice": [
+    "08:77ac"
+   ]
+  },
+  {
+   "id": "08:7868",
+   "op": "text"
+  },
+  {
+   "id": "08:7afc",
+   "op": "text"
+  },
+  {
+   "id": "08:7b68",
+   "op": "text"
+  },
+  {
+   "id": "08:7c48",
+   "op": "text"
+  },
+  {
+   "id": "08:7d44",
+   "op": "text"
+  },
+  {
+   "id": "08:7e3c",
+   "op": "text"
+  },
+  {
+   "id": "08:7ebc",
+   "op": "text"
+  },
+  {
+   "id": "08:80e8",
+   "op": "text"
+  },
+  {
+   "id": "08:8280",
+   "op": "text"
+  },
+  {
+   "id": "08:8324",
+   "op": "text"
+  },
+  {
+   "id": "08:84e4",
+   "op": "text"
+  },
+  {
+   "id": "08:86e8",
+   "op": "text",
+   "follows_choice": [
+    "08:59c0"
+   ]
+  },
+  {
+   "id": "08:87b8",
+   "op": "text"
+  },
+  {
+   "id": "08:87e0",
+   "op": "text"
+  },
+  {
+   "id": "08:88b4",
+   "op": "text"
+  },
+  {
+   "id": "08:89d0",
+   "op": "text"
+  },
+  {
+   "id": "08:8a34",
+   "op": "text"
+  },
+  {
+   "id": "08:8b74",
+   "op": "text"
+  },
+  {
+   "id": "08:8c30",
+   "op": "text",
+   "follows_choice": [
+    "08:2680"
+   ]
+  },
+  {
+   "id": "08:8fdc",
+   "op": "text"
+  },
+  {
+   "id": "08:9110",
+   "op": "text"
+  },
+  {
+   "id": "08:9210",
+   "op": "text"
+  },
+  {
+   "id": "08:933c",
+   "op": "text"
+  },
+  {
+   "id": "08:9490",
+   "op": "text"
+  },
+  {
+   "id": "08:9558",
+   "op": "text"
+  },
+  {
+   "id": "08:95ec",
+   "op": "text"
+  },
+  {
+   "id": "08:96d8",
+   "op": "text"
+  },
+  {
+   "id": "08:9740",
+   "op": "text"
+  },
+  {
+   "id": "08:9ab8",
+   "op": "text",
+   "follows_choice": [
+    "08:2304"
+   ]
+  },
+  {
+   "id": "08:9ce4",
+   "op": "text"
+  },
+  {
+   "id": "08:9d9c",
+   "op": "text"
+  },
+  {
+   "id": "08:a050",
+   "op": "text"
+  },
+  {
+   "id": "08:a138",
+   "op": "text"
+  },
+  {
+   "id": "08:a1cc",
+   "op": "text"
+  },
+  {
+   "id": "08:a300",
+   "op": "text"
+  },
+  {
+   "id": "08:a324",
+   "op": "text"
+  },
+  {
+   "id": "08:a41c",
+   "op": "text"
+  },
+  {
+   "id": "08:a5b0",
+   "op": "text"
+  },
+  {
+   "id": "08:a718",
+   "op": "text"
+  },
+  {
+   "id": "08:aa34",
+   "op": "text",
+   "follows_choice": [
+    "08:3a78"
+   ]
+  },
+  {
+   "id": "08:ac68",
+   "op": "text"
+  },
+  {
+   "id": "08:ad88",
+   "op": "text"
+  },
+  {
+   "id": "08:b004",
+   "op": "text"
+  },
+  {
+   "id": "08:b024",
+   "op": "text"
+  },
+  {
+   "id": "08:b0d0",
+   "op": "text"
+  },
+  {
+   "id": "08:b150",
+   "op": "choice"
+  },
+  {
+   "id": "08:b168",
+   "op": "choice"
+  },
+  {
+   "id": "08:b178",
+   "op": "text",
+   "follows_choice": [
+    "08:b150"
+   ]
+  },
+  {
+   "id": "08:b20c",
+   "op": "text"
+  },
+  {
+   "id": "08:b2bc",
+   "op": "text"
+  },
+  {
+   "id": "08:b3c0",
+   "op": "text"
+  },
+  {
+   "id": "08:b558",
+   "op": "text"
+  },
+  {
+   "id": "08:b76c",
+   "op": "text",
+   "follows_choice": [
+    "08:b168"
+   ]
+  },
+  {
+   "id": "08:b810",
+   "op": "text"
+  },
+  {
+   "id": "08:b8d0",
+   "op": "text"
+  },
+  {
+   "id": "08:bb6c",
+   "op": "text",
+   "follows_choice": [
+    "08:3a84"
+   ]
+  },
+  {
+   "id": "08:bdb8",
+   "op": "text"
+  },
+  {
+   "id": "08:be04",
+   "op": "text"
+  },
+  {
+   "id": "08:bf48",
+   "op": "text"
+  },
+  {
+   "id": "08:c0f4",
+   "op": "text"
+  },
+  {
+   "id": "08:c3cc",
+   "op": "text"
+  },
+  {
+   "id": "08:c550",
+   "op": "text"
+  },
+  {
+   "id": "08:c580",
+   "op": "text"
+  },
+  {
+   "id": "08:c774",
+   "op": "text"
+  }
+ ]
+}

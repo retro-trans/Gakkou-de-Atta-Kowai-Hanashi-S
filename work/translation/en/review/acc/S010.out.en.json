@@ -1,0 +1,26 @@
+{
+ "rows": {
+  "04:28a0": "\"Got it?!\nDon't you dare rat on us!\"\n\"..............................\"\nAkasaka didn't answer any more after that.\n\"Hey, Toru.\nThat's enough.\nHe's out cold.\"\nIf one of them hadn't stopped him, Hatanaka would have kept on beating Akasaka.{p}",
+  "04:2234": "Say that and I'll tell the seniors on you",
+  "04:2f7c": "Decided to just bury the body",
+  "04:2fac": "Carried him to a futon and laid him down",
+  "04:307c": "That night, after everyone was asleep, they buried Akasaka's body.\nIn secret.\nRunning away was the last thing on their minds now.\n\"Where'd Akasaka go?!\"\nEven when the seniors yelled, they all just put on innocent faces and cocked their heads.\n\"...He looked like he was having a hard time.\nI bet he ran off.\"\nAnd that satisfied everybody.\nHe'd been on the list of likely dropouts from the start, after all.\nSome of the seniors even nodded like they were glad.\nPretty smug of them, huh?{p}",
+  "04:346c": "A search party went out.\nBut they didn't find him.\nHatanaka and the others were scared out of their minds about what would happen if the body turned up.\nEven so, nothing was found, and the search was called off.\nAfter that, Hatanaka and the rest didn't have a care in the world.\nThey forgot all about Akasaka in no time.\n...And then a year went by.{p}",
+  "04:1350": "At the start, there are about forty new members.\nThe tough training cuts that down to about half.\nAnd then comes the summer Hell Camp.\nThe twenty or so who somehow made it that far get whittled down to five at this camp.\nBet that surprised you, huh?\nBut those five are strong, let me tell you.\nAfter all, they're the five who survived the Hell Camp.\nTheir guts are on a whole other level.\nThey're the ones who carry the boxing club's tradition and pass it on.{p}...So, do you want to know what goes on at that camp?\n",
+  "04:0d2c": "...It's the boxing club.\nBoxing's great.\nIt's a man's sport.\nIt's the kind of sport a woman can't really understand, right?\nPeople who don't get boxing say it's just a slugfest, just a brawl, but that's dead wrong.\nYou'd be hard pressed to find a more gentlemanly sport anywhere, don't you think?\nOur school's boxing club was really something back in the day, too.\nIt showed up at the nationals pretty much every single year.\nAnd it placed near the top in a whole bunch of weight classes.\nPretty impressive, isn't it?{p}"
+ },
+ "notes": [
+  "04:28a0: FIX pause - Akasaka's silence is 10 ellipses in the source; dot run restored to 30 dots (English had 6).",
+  "04:2234: FIX meaning - choice dropped the condition (if you say that); now 'Say that and I'll tell the seniors on you' (added '!' removed; source has none).",
+  "04:2f7c: FIX meaning - choice dropped 'at any rate' (the source's word for it); now 'Decided to just bury the body'.",
+  "04:2fac: FIX meaning - choice dropped 'laid him down to sleep'; also the futon is not stated to be his. Now 'Carried him to a futon and laid him down'.",
+  "04:307c: FIX meaning - 'kitto' makes it a confident guess ('I bet he ran off'), not a tentative 'Maybe he ran off?'.",
+  "04:346c: FIX added detail - 'back to their smug selves' implied earlier smugness the source does not state; source says they became carefree/complacent: 'didn't have a care in the world'.",
+  "04:1d6c: UNSURE - 'everyone was sure he'd have quit by the time the camp was over' reads the dare-mo-ga as subject of 'believed'; it could also mean 'believed everyone (weak) would have quit'. Kept the current reading, which fits the targeting that follows.",
+  "04:307c: UNSURE - 'Pretty smug of them' kept with the seniors (just mentioned nodding happily) as referent.",
+  "04:121c: RETURN - this slice writes 'the Hell Camp' (capitalized) throughout; S011 (04:3968) has 'the hell camp'. Editorial should unify. Also shigoki is 'training' here but 'hazed' in S011 (04:3a04).",
+  "04:1350: FIX pro-drop - 'Surprised, huh?' restored subject/verb: 'Bet that surprised you, huh?'.",
+  "04:0d2c: FIX pro-drop - 'Impressive, huh?' restored subject/verb: 'Pretty impressive, isn't it?'.",
+  "04:1d3c: UNSURE - names Yosuke Akasaka / Toru Hatanaka kept per terms_live; the source kanji in this scene differ from terms_live's entries but the readings are the same. No todo items in this slice."
+ ]
+}

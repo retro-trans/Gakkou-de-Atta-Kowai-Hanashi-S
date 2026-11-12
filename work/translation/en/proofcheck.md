@@ -1,0 +1,1051 @@
+# Proofreading report (tools/proofcheck.py)
+
+## odd number of " (210)
+- 02:62a8: "I can see you've got a kind heart, dearie. / A child like you ought to 
+- 02:6340: Hee hee hee hee." / "Uh... okay..." / 
+- 02:92d8: "You found out when you ate them, I expect, dearie. They were very tas
+- 02:93a0: Hee hee hee..." / "Gah☆ / Th-those were human eyeballs★ / I ate eyeballs☆" / S
+- 06:4724: "Wh-whoaaaagh!☆" / A heat like being seared by flames coursed through my
+- 06:47b4: Lulled by my song. / Don't worry. / Your body isn't really burning. / That a
+- 06:55dc: "Name, you're pretty good at this, huh?" / Shindo was grinning. / "...Shin
+- 06:581c: So what's standing in front of you right now isn't a teacher. / It's jus
+- 06:6128: "Name, you're way too cocky." / Shindo was glaring at me menacingly. / "Th
+- 07:525c: ...When I slowly opened my eyes, I was in the familiar newspaper club 
+- 07:5428: Hyahhahha!" / When Hino laughed, the other six laughed too. / Shindo spoke
+- 07:6f88: These guys... what kind of people are they?! / They want to have fun wat
+- 07:71c8: Our revenge has begun. / Now, I'll untie you!" / Iwashita and the others u
+- 07:e99c: "Help me! Protect me! I'll tell you anything. / 
+- 07:ea70: "Help me! Forgive me! I'll tell you anything. / 
+- 07:eaa4: The Murder Club has been around for a long time. / I don't know the deta
+- 10:11e10: Then, while sorting through my things in the newspaper club room... I 
+- 10:11f1c: Ah!" / 
+- 11:a648: "Everyone, I'm sorry to have to tell you this, but Takeda has run away
+- 11:a6a0: If any of you have any idea where she might be, or if you've seen her,
+- 12:4a10: "...That's me on there. / 
+- 12:4a38: I have to stop it, now!" / I had no idea at all what he was panicking ab
+- 13:8300: "That person is... / 
+- 13:8314: here, right now." / "What?" / "The last victim is among the people gathere
+- 14:57d4: "Oh, is that so? Well, what does it matter? / 
+- 14:580c: After all, I've been seeing dolls this whole time." / 
+- 14:69f8: "Bwahahahaha... Hosoda? / Hosoda's probably in the john, ain't he? / That 
+- 14:6a84: Bwahahahaha..." / 
+- 14:8220: "...Yesterday, after all that, it kept bugging me, so I did some diggi
+- 14:841c: ...Hey, Name. / Are you listening to me?" / 
+- 14:13f4c: Shindo led me into the shadow of a pillar. / Then he started talking in 
+- 14:141e8: ...Hey, Name. / You listening to me?" / Shindo poked me in the arm. / I was 
+- 14:17324: "Hosoda..." / "Looks like he's taken a liking to you. / The trade worked. / 
+- 14:174b4: Do you want to trade too? / If you do, take your trade partner to the pl
+- 15:2544: Ow... that hurts☆ / "See, everything's just like I said. / The human anima
+- 15:25d4: ...Huh? / What's up? / It's funny, right? / Why are you all so quiet?" / ... / E
+- 15:2960: "...Name?" / Kazama said. / "Wh-wh-wh-what's wrong? / What's with that face?
+- 15:29e0: ...Cut it out. / You're scary, you know that? / Your attitude is scarier t
+- 16:1c14: "...What is it? / I was finally in the mood to tell it, so don't throw c
+- 16:1d0c: The only reason people eat there even though it's so awful is that it'
+- 16:38cc: "Um..." / "Hmm~? / What's the matter? / Were you amazed at how detailed it w
+- 16:38cc: "Um..." / "What's with you? / I told it to you in detail, didn't I? / Everyt
+- 16:3aa8: But... 'lowly,' huh. / Wahaha! / 'A lowly one!' / Kid, if you go around usin
+- 16:3aa8: But... I wonder if I've gained another fan. / Hm hm! / Hm hm hm hm... / ...M
+- 16:5aa8: The food at that cafeteria... tastes awful. / The distasteful story. The
+- 16:7194: "Um, could you wait a moment?" / "...Hm? / What's wrong? / Let's see, do you
+- 17:3cf0: "How dare you say such a thing you this eraser is a genuine charm that
+- 17:3f20: You know, it's a real ordeal getting to where that waterfall is. / Norma
+- 19:1c90: "No, I'm not. / I'm an Earthling. / I read about this in some quiz book." / 
+- 19:1d50: You're my comrade!" / 
+- 19:5234: "Th-there's no need to get so worked up, Name. / I'm not trying to wreck
+- 19:52dc: Humans always get worked up like that over things they can't understan
+- 19:7f64: Then Kazama said: / "Sorry, but I've already sent the signal to begin th
+- 19:80a0: I can't wait. / It's so exciting. / Well, that's the end of my story. / Next
+- 19:8cc4: ...Nothing seems to have changed, though. / Seeing me like that, he laug
+- 19:8df0: I am a nurarihyon, a yokai. / I can turn humans into yokai. / That's the o
+- 20:5c70: "Ah-ha ha ha, this is hilarious. / Hey, what's with that face? / Are you s
+- 20:5d14: Wah-ha-ha-ha☆ / Oh, that's too funny☆ / The truth is, that toad just now w
+- 20:6064: Ah! / He'd already put the ten-thousand-yen bill in his pocket! / Grr, grr
+- 20:60f8: Hannyara makka, honnyara makka, fundaba dadda, haaaaaah☆ / ...I can see.
+- 20:650c: "What are you thinking about? / I told you, I found it with my spiritual
+- 20:6620: Hannyara makka, honnyara makka, fundaba dadda, haaaaaah☆ / ...I can see.
+- 22:dcc0: Then Nakano began to talk, bit by bit. / "It hurt. / First my right leg wa
+- 22:df5c: ...That's when I thought of it. / Of a friend. / Because going alone would
+- 23:ae14: "It was when I was thirty-two. / The year I was first assigned to this s
+- 23:b284: I had no choice, so I drank it. / ...It was a salty, thick, sludgy liqui
+- 23:b604: "What was in that medicine... was actually Kaori's blood. / Who knows wh
+- 23:b714: Hosoda, would you have the nerve to drink a medicine like that?" / Heari
+- 23:b800: Then he grinned and went on with his story. / "Actually, Kaori died afte
+- 23:bc1c: that rumors began going around about a stain like a face appearing in 
+- 23:bcf0: I got scared. / Of Mr. Wakatsuki, and of the ghost of that student, Kaor
+- 23:c10c: Lately, fewer students use that restroom, saying the stain is creepy. / 
+- 24:ce7c: "Oh, sorry, sorry. / Name, I forgot to squeeze this into juice." / Hosoda 
+- 24:d09c: These days, I always buy these bugs from Takeuchi..." / Hosoda put his h
+- 24:f614: Then Takeuchi started to laugh, eerily. / His twisted face looked like a
+- 24:f8b8: Since it's come to this, I'll tell you. / Once this thing bites you, you
+- 24:fd80: I thought, then why not just carry this flower around with you all the
+- 24:ff7c: But now, Hosoda, I can share that suffering with you. / That doesn't mea
+- 25:518c: "Really★ / So you do have a sixth sense! / Just as I thought. / Well then, s
+- 25:5208: I'm sorry to ask, but would you upperclassmen mind waiting out in the 
+- 25:1030c: "That's strange. / That can't be right. / I know! If we don't go inside, w
+- 25:10368: Name, let's go into the restroom together. / It's fine. / This is for an i
+- 26:8cd8: And then Tsuda suddenly turned serious and said this. / "...You know, I 
+- 26:8d68: I went to that restroom beside the gym, and a joro spider got on my sh
+- 26:17ed0: "One day, I found a tanuki. / ...At school. / Its leg was badly hurt. / It m
+- 26:188e8: Even so, you made me a grave and took care of it every day like this. / 
+- 26:19d9c: "I hated you. / I hated you so, so much... / And on top of that—who knows 
+- 26:1a0f0: If you want the whole truth, you're the one who killed me, too. / If you
+- 27:9e0c: "No! I don't want this! / Help me! / 
+- 27:9e40: Waaaaaaaaaah!" / 
+- 27:15f84: "No! I don't want this! / Help me! / 
+- 27:15fb8: Waaaaaaaaaah!" / 
+- 29:5c70: Was it only my imagination that I thought I heard someone crying? / "The
+- 29:602c: Maybe the evil spirit carried them off? / Evil spirits are fond of sligh
+- 29:741c: She nodded slowly. / "Uchiyama has come to your seat right now, Name. / Th
+- 29:76a4: Now. / Now that Uchiyama is a spirit too. / He thought that maybe now he c
+- 29:8e24: "What's that face for? I'm joking." / She gave my shoulder a pat. / "Don't
+- 29:9014: ...Hm? / You can't tell whether this story was really the evil spirits' 
+- 33:7cc8: "...Heh heh, and that's the end of my story. / 
+- 33:7d04: Name, do give some thought to making me your lover." / Iwashita laughed 
+- 34:5f80: There was a phone call at Okawa's house. / "Is this Okawa? / ...This is Yu
+- 34:6094: He hit his head and died. / ...Okawa. / I've already sent the Rubelize to 
+- 34:7550: "Gurgh... gagh..." / Pitch-black liquid poured from her mouth, mixed in 
+- 34:77cc: You never even looked at me until I gave you the Rubelize, did you? / Yo
+- 34:ceb0: "Don't be fooled... / It's me. / 
+- 34:cee0: I'm your real mother. / Let me play the organ for you. / After all, I part
+- 35:5720: Then he looked at me once more, dipped his hand in the solution, and s
+- 35:5df8: Hyahahaha... of course you can't answer. / Your voice already sounds lik
+- 35:bbf0: "Help me. / 
+- 35:bc04: I want to get out of here. / Why am I in a place like this..." / It was th
+- 35:11034: "Hey, Name. / At a glance, this solution looks like water, right? / But it
+- 35:113b8: But I think Mr. Shirai's research is admirable. / That's why I want you 
+- 40:30cc: "Fukuzawa! / 
+- 40:30e8: Fukuzawa!" / 
+- 41:12888: "Suzuki, I'm sorry☆ / I'll do a reading for you right now. / What do I do,
+- 41:12948: Oh, it's Death. / This is the card of death. / Suzuki, are you going to di
+- 41:16994: "G... go away! / 
+- 41:169bc: Please! Just go away☆" / 
+- 43:4524: What? / My heart skipped, and I found myself turning to look at Iwashita
+- 43:47e4: ...More to the point, your name was Fukuzawa, wasn't it? / I hear you se
+- 43:5f28: "...See? Kanda's angry. / What are you going to do? / If this keeps up, Ka
+- 43:5f94: And then he'll kill every one of us." / By the time Motoki said that, it
+- 43:9e60: "I see. / So that's what you think, Name. / But you know, people don't com
+- 43:a070: ...That's right, it's Kanda. / Kanda is coming." / 
+- 43:a2e0: Huh? / Startled, I turned my eyes to Iwashita. / Iwashita was smiling, her
+- 43:a4a4: ...More to the point, it was Fukuzawa, wasn't it? / I hear you secretly 
+- 43:ac70: Huh? / Startled, I turned my eyes to Iwashita. Iwashita was smiling, her
+- 43:ae54: ...More to the point, it was Fukuzawa, wasn't it? / I hear you secretly 
+- 43:b758: Huh? / Startled, I turned my eyes to Iwashita. Iwashita was smiling, her
+- 43:b93c: ...More to the point, it was Fukuzawa, wasn't it? / I hear you secretly 
+- 44:2ecc: "...What are you apologizing for? / 
+- 44:2ef8: There's no reason you can't tell me your name... Ah★ Don't tell me you
+- 44:32a4: ...Thank goodness. / It seemed my sincerity had gotten through to Kazama
+- 44:34b8: ...But even a battle-hardened hero gets homesick, I see. / I'm a little 
+- 44:d56c: "Mm, magnificent☆ / I had no idea you could dance such a magnificent dan
+- 44:d608: But that's fine. To think there was such an amazing dancer on Earth. / T
+- 45:b3c0: "You have a poor memory, don't you. / Didn't I just tell you I know what
+- 45:dbd0: Fukuzawa was standing there. / "Fukuzawa..." / "Name. Give me back the mas
+- 45:dd7c: 'Cause I've gone and fallen for you, Name. / ...Just kidding! / But the pa
+- 45:f34c: "If I lay a hand on you, killing you'd be easy. / But that wouldn't be a
+- 45:f530: But don't think you can get away from me that easy. / I'll follow you an
+- 47:6564: "Where they're building the second gym, there used to be the old schoo
+- 47:6628: ...You'll listen, won't you?" / 
+- 47:d5ec: "These are photos I took the year before last..." / Oh... / "So pretty." / "
+- 47:d654: ...Look, how about this one?" / "Whoa. / Senpai, what's this photo?" / "A mi
+- 50:e880: Paying no attention to me as I sat there stunned, Arai turned to the o
+- 50:e92c: Please make it a scary one..." / 
+- 52:2c5c: "Oops, it's almost time for Hino to show up. / It's a shame to go, but I
+- 53:1334: ...But even if I asked something else, what was I supposed to ask? / Whi
+- 53:1494: Truth is... / Among the people who got together here today, there was so
+- 53:1940: Shindo murmured, as if talking to himself. / Who did he mean by 'they'..
+- 53:1a28: This is a space that was born where the school from my dream and the r
+- 53:346c: "Arai..." / When did he show up? / Before I came in? / ...Or after? / Either w
+- 53:35d4: But if you can't find any other way out, I'll show you the way. / To my 
+- 53:3854: "Name... / We'll be there soon. / Ah, but my, what a dark hallway this is.
+- 53:38e0: Well, you see... / It's because you think I'm a dark, gloomy person." / Ar
+- 53:5150: "Hey, Name. / Everything Shindo told you is true, every last bit of it. / 
+- 53:543c: ...Oh, but maybe telling you all this was pointless? / I mean, Name, / you
+- 53:6048: "Why's that?" / "Why? / Because we have to get out of here, fast!" / "Get ou
+- 53:60ac: Never mind that, let's go on a date, you and me. / I think that'd be a m
+- 53:61b4: "Stop! / Name, you don't have to say another word. / You're going to say w
+- 53:6328: Don't worry, you're safe with me. / After all, I'm a little different fr
+- 53:66d4: "Well, well... / You really are a stubborn one, aren't you? / 
+- 53:6718: But I like that stubborn side of you." / ...Even turning him down flat d
+- 55:8a74: "Don't say that, please set them. / All right? / Here we go. / 
+- 55:8acc: Five... four..." / 
+- 58:0864: "Huh? What's the matter?" / Kazama looked puzzled. / "Well... your hand. / W
+- 58:0918: To protect you, of course. / It's better if I stay as close to you as I 
+- 58:0c04: At that moment, Kazama's eyes glinted. / "Oh, come on, you don't believe
+- 58:0d38: Well then, Name, shall we go?" / 
+- 58:0ff4: "Hm, what's wrong? / Why the worried look? / 
+- 58:1030: It's fine, I told you. / I'll protect you, no matter what. / Ooh-hoo-hoo."
+- 58:1444: "Today was a good day. / I got to meet a girl like you." / With that, Kaza
+- 58:1584: ...Still, that Hino. / When I offered to come to his seven wonders meeti
+- 58:4b4c: "Ah, you don't believe me. / Ghosts really do exist, you know. / 
+- 58:4b88: Well, never mind that. / Let's play cards." / "......" / In the end, we play
+- 59:3668: The cold touch that had been on my shoulder moved to my neck. / "Hosoda,
+- 59:3880: ...Mom didn't notice. / She just kept rolling her shoulders like they hu
+- 60:36d8: "Between the students......" / No good, the next characters are too scra
+- 60:64e0: Anyway, I'll just apologize. / "I'm sorry. / It was my fault. / Please forgi
+- 60:6598: ...Well, fine. / You did apologize, at least. / As promised, I'll get back
+- 61:9974: ...Where's Iwashita? / Where is Iwashita★ / "Hey, look at this. / 
+- 61:99c4: ...It's blood." / 
+- 63:5ebc: "Actually...?" / Iwashita was gazing at me with a smile. / "Actually, the 
+- 63:5f28: you, Iwashita!" / 
+- 63:6598: "And here I got my hopes up for nothing. / I'd taken a liking to you too
+- 63:6684: Heh heh heh... / You probably can't believe it, hearing something like t
+- 63:a7e0: "Yuya was here! / He finally came back to me, and... / Because you had to 
+- 63:a850: You'd better remember this. / I will never forgive you. / I'll make you ta
+- 67:200c: "I see, you haven't. / That's good. / You see, Name... / That tree has anoth
+- 67:2170: ...See? Strange, isn't it? / That's the scary story I know." / "That's all
+- 67:2260: "Name... / Now, hold on. / Don't be in such a hurry to reach a conclusion.
+- 67:2dcc: ...That's why girls kill themselves under the ginkgo. / The Sanbura tree
+- 67:52b4: "What? / ...You have? / Now that's a surprise. / You see, Name... / That tree 
+- 67:541c: ...See? Strange, isn't it? / That's the scary story I know." / "That's all
+- 67:550c: "Name... / Now, hold on. / Don't be in such a hurry to reach a conclusion.
+- 68:2608: "...Even so, Kawahara died. / 
+- 68:2638: So I'm going to die too. / And I'll curse the people who blamed me." / 
+- 68:3864: "What the hell are you, anyway?" / What...? / Kawahara, why would you say 
+- 68:39ec: See, right here. / The one you looked inside a little while ago. / You fig
+- 68:3f68: "Dodging the question, huh? / Me, I figured that woman was seriously bad
+- 68:405c: Nah, this cart's already hauling plenty of corpses as it is. / One or tw
+- 68:5168: "Right? / She seems like the type who says whatever's on her mind, doesn
+- 68:51bc: "I see. / Doesn't matter what you think. / I didn't like her from the mome
+- 68:5df8: "It can't be helped anymore. / Kawahara's dead, after all. / 
+- 68:5e54: "That's right. / Kawahara's dead, after all. / 
+- 68:5e88: "Why are you giving me orders? / Don't act so high and mighty. / 
+- 68:5ec8: Anyway, I did something terrible to Kawahara. / So I don't deserve to li
+- 70:4c24: ...What I saw was Shindo. / "What's wrong, rushing around like that... / 
+- 70:4c84: Don't tell me, Name! / ...You heard the rumor too★" / "The rumor...?" / 
+
+## odd character (101)
+- 19:1dbc: "☆★·☆·★☆·★☆☆" / Huh? / What was t
+- 19:1dbc: "☆★·☆·★☆·★☆☆" / Huh? / What was tha
+- 19:1dbc: "☆★·☆·★☆·★☆☆" / Huh? / What was that? / 
+- 19:3e14: "☆☆★··★☆☆" / 
+- 19:3e14: "☆☆★··★☆☆" / 
+- 19:629c: "☆☆★·☆··☆" / Now, how should I r
+- 19:629c: "☆☆★·☆··☆" / Now, how should I rea
+- 19:629c: "☆☆★·☆··☆" / Now, how should I reac
+- 19:6330: "☆··★☆·☆" / That was my answer
+- 19:6330: "☆··★☆·☆" / That was my answer.
+- 19:6330: "☆··★☆·☆" / That was my answer. / Wh
+- 19:6330: "☆··★☆·☆" / That was my answer
+- 19:6330: "☆··★☆·☆" / That was my answer.
+- 19:6330: "☆··★☆·☆" / That was my answer. / Wh
+- 19:7e54: "··★☆☆·☆☆" / 
+- 19:7e54: "··★☆☆·☆☆" / 
+- 19:7e54: "··★☆☆·☆☆" / 
+- 44:28c8: one else's. / My name is ☆☆·☆★. / Now, what's yours?" / 
+- 44:2ef8: n't tell me you're the ☆☆··★·☆, sent here on a spec
+- 44:2ef8: 't tell me you're the ☆☆··★·☆, sent here on a speci
+- 44:2ef8:  tell me you're the ☆☆··★·☆, sent here on a special
+- 44:3618: st immediate response! / ☆★·☆··☆~☆" / 
+- 44:3618:  immediate response! / ☆★·☆··☆~☆" / 
+- 44:3618: immediate response! / ☆★·☆··☆~☆" / 
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrie
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrieke
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrieked s
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrieked som
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrie
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrieke
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrieked s
+- 44:3f4c: "·★·☆☆·☆·☆" / The thing shrieked som
+- 44:52fc: "··★☆☆··★☆☆" / 
+- 44:52fc: "··★☆☆··★☆☆" / 
+- 44:52fc: "··★☆☆··★☆☆" / 
+- 44:52fc: "··★☆☆··★☆☆" / 
+- 44:5ce4: "☆★··☆☆★?" / Right after that, 
+- 44:5ce4: "☆★··☆☆★?" / Right after that, a
+- 44:5ce4: "☆★··☆☆★?" / Right after that, 
+- 44:5ce4: "☆★··☆☆★?" / Right after that, a
+- 44:67e0: "·★·☆·☆☆" / I-I can't speak p
+- 44:67e0: "·★·☆·☆☆" / I-I can't speak pro
+- 44:67e0: "·★·☆·☆☆" / I-I can't speak prope
+- 44:67e0: an't speak properly! / "★☆☆··☆☆" / The more I panicked,
+- 44:67e0: n't speak properly! / "★☆☆··☆☆" / The more I panicked, 
+- 44:c4a4:  make my regular report! / ·☆☆★··~☆" / 
+- 44:c4a4: e my regular report! / ·☆☆★··~☆" / 
+- 44:c4a4:  my regular report! / ·☆☆★··~☆" / 
+- 44:c61c: y real name, you see, is ·★☆☆·★·. / Got it?" / 
+- 44:c61c: al name, you see, is ·★☆☆·★·. / Got it?" / 
+- 44:c61c:  name, you see, is ·★☆☆·★·. / Got it?" / 
+- 44:c61c: y real name, you see, is ·★☆☆·★·. / Got that?" / 
+- 44:c61c: al name, you see, is ·★☆☆·★·. / Got that?" / 
+- 44:c61c:  name, you see, is ·★☆☆·★·. / Got that?" / 
+- 44:f9f0: long time, sir. It is I, ·☆·☆★·, currently on a spe
+- 44:f9f0: ng time, sir. It is I, ·☆·☆★·, currently on a speci
+- 44:f9f0: time, sir. It is I, ·☆·☆★·, currently on a special 
+- 44:f9f0: ret orders, Commander." / "·☆·☆★☆☆·★·" / The Commander 
+- 44:f9f0: t orders, Commander." / "·☆·☆★☆☆·★·" / The Commander wa
+- 44:f9f0: ers, Commander." / "·☆·☆★☆☆·★·" / The Commander was spe
+- 44:f9f0: s, Commander." / "·☆·☆★☆☆·★·" / The Commander was speak
+- 44:12358:  / "Yes, this is code name ·☆·☆. / My communicator just
+- 44:12358: Yes, this is code name ·☆·☆. / My communicator just s
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They 
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They seem
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They seemed to
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They seemed to 
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They seemed to be ch
+- 44:148b8: "☆★··☆★☆·" / "☆··, ☆★·☆·?" / They seemed to be chat
+- 44:14d64: les with all my might. / "☆·☆·★☆☆★·!" / It let out a st
+- 44:14d64: s with all my might. / "☆·☆·★☆☆★·!" / It let out a stra
+- 44:14d64: h all my might. / "☆·☆·★☆☆★·!" / It let out a strange s
+- 44:150f0: "☆··☆★☆☆··★☆" / I spouted some
+- 44:150f0: "☆··☆★☆☆··★☆" / I spouted some 
+- 44:150f0: "☆··☆★☆☆··★☆" / I spouted some gibbe
+- 44:150f0: "☆··☆★☆☆··★☆" / I spouted some gibber
+- 44:150f0: spouted some gibberish. / "···☆☆★☆☆·?" / They were sayi
+- 44:150f0: pouted some gibberish. / "···☆☆★☆☆·?" / They were sayin
+- 44:150f0: outed some gibberish. / "···☆☆★☆☆·?" / They were saying
+- 44:150f0: some gibberish. / "···☆☆★☆☆·?" / They were saying somet
+- 44:151d8: "·★☆☆··☆☆★☆" / (Oh, Commander
+- 44:151d8: "·★☆☆··☆☆★☆" / (Oh, Commander, si
+- 44:151d8: "·★☆☆··☆☆★☆" / (Oh, Commander, sir
+- 44:151d8: "·★☆☆··☆☆★☆" / (Oh, Commander
+- 44:151d8: "·★☆☆··☆☆★☆" / (Oh, Commander, si
+- 44:151d8: "·★☆☆··☆☆★☆" / (Oh, Commander, sir
+- 44:1530c: t speaking Sunbararian. / "·☆·☆★·★☆·☆☆☆" / (Now, everyo
+- 44:1530c: speaking Sunbararian. / "·☆·☆★·★☆·☆☆☆" / (Now, everyone
+- 44:1530c: aking Sunbararian. / "·☆·☆★·★☆·☆☆☆" / (Now, everyone. W
+- 44:1530c: ng Sunbararian. / "·☆·☆★·★☆·☆☆☆" / (Now, everyone. We h
+- 44:1542c: what I actually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All ri
+- 44:1542c: hat I actually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All rig
+- 44:1542c: at I actually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All righ
+- 44:1542c: ctually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All right, eve
+- 44:1542c: what I actually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All ri
+- 44:1542c: hat I actually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All rig
+- 44:1542c: at I actually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All righ
+- 44:1542c: ctually mean!☆ / "☆···☆☆★☆★·☆" / (Roger! All right, eve
+- 47:d284: "☆☆··★☆☆" / 
+- 47:d284: "☆☆··★☆☆" / 
+
+## doubled word (29)
+- 00:06c8: "Yes. I'm Name Name, from the newspaper club
+- 00:0e6c: "Yes. I'm Name Name, from the newspaper club
+- 14:7600:  / "Who are you?" / "Um, I'm Name Name, from the newspaper club
+- 30:0fac: ow, let's call him this. / Name Name. / It's a nice name, isn't
+- 30:0fac: orrow your name for him. / Name Name. / ...It's a lovely name, 
+- 30:51b0:  your name. / His name was Name Name. / 
+- 30:905c: ay that goes on forever. / Name Name. / You were one of the peo
+- 30:b0e4: ed away. / His name was... / Name Name. / Oh, I'm sorry, that's n
+- 43:7d60: "Hey, you're Name Name, aren't you?" / Motoki ask
+- 43:7dd8: 't mean to lie. / Yes, I'm Name Name." / She came closer to me.
+- 43:121ac: me back. / (...Understood. Name Name, then.) / 
+- 44:26b8: my one and only name was Name Name. / Any other name... / This 
+- 44:26b8: my one and only name was Name Name. / Any other name... / This 
+- 44:4ad0: hat are you going to do, Name Name? / This is the moment of t
+- 44:4ad0: ? / What are you gonna do, Name Name? / This is the moment of t
+- 44:159f8: ! / What a genius you are, Name Name☆ / ...Wait, come to think 
+- 44:168f0:  / "Doctor! It's Name! I'm Name Name!" / Flustered, Dr. Tanaka 
+- 46:0d60: I was a person named Name Name. / And I was a first-year 
+- 46:3f64: s right. Your name isn't Name Name. No such person ever exi
+- 47:10fc: s Name. / Full name... um, Name Name. / He's a third-year. / Appa
+- 47:b754:  of the Murder Club, and Name Name shall carry out the sent
+- 47:111bc: "Name Name." / 
+- 60:1dc0: igit roll number will die' / 'Tomorrow, a student in Cl
+- 60:1dc0: Class 2-D will be injured' / 'I will curse whoever leav
+- 60:5030: . don't worry. / It wasn't Name Name... or anything like that
+- 60:698c: . don't worry. / It wasn't Name Name... or anything like that
+- 63:3618: ou. / Those boys tell me, / "Name Name in Class 1-E has the bes
+- 67:36f8: es. / And then, / "So you're Name Name of Class 1-E." / she said,
+- 69:08f4: what's your name?" / "It's Name Name." / 
+
+## lone lowercase i (4)
+- 07:6bd0: s with glee. / "Kazama, ni-i-ice idea! Come on, Name.
+- 10:11e10: ere's nothing written in i... / 
+- 22:6900: t go of you." / "Okay. Got i..." / After that, all I co
+- 31:915c: girl's mouth moved. / D... i... e...... / 
+
+## unbalanced ( ) (4)
+- 43:f194: (Hey, you! / What kind of thing is that to think? / About the guy who save
+- 43:f2a4: ...Hm hm, let's just say I'm an extraterrestrial life-form. A good man
+- 45:113e4: (...It can't be helped. Sooner or later, you will become one of us. / Th
+- 45:114b8: Very well. Then I'll go on ahead. I'll be looking forward to it, so co
+
+## unknown words, lowercase (288)
+- heh (354) e.g. 03:a6a8
+- hee (244) e.g. 02:2608
+- tanuki (57) e.g. 16:0fec
+- kuh (43) e.g. 08:109ac
+- yokai (36) e.g. 11:473c
+- there'd (27) e.g. 01:86e0
+- should've (25) e.g. 02:2248
+- koi (24) e.g. 26:c94c
+- scaredy (17) e.g. 01:6a94
+- must've (17) e.g. 02:2248
+- could've (15) e.g. 02:6b60
+- joro (15) e.g. 26:45e0
+- mm (14) e.g. 12:1eac
+- y'know (13) e.g. 02:4ddc
+- meee (13) e.g. 08:e57c
+- women's (12) e.g. 05:3a9c
+- sci (12) e.g. 12:1498
+- that'll (11) e.g. 01:a1bc
+- that'd (11) e.g. 02:1930
+- else's (11) e.g. 06:67b8
+- might've (10) e.g. 01:57ec
+- creeped (10) e.g. 02:3d58
+- other's (10) e.g. 05:8e98
+- makka (10) e.g. 20:1418
+- scritch (9) e.g. 15:1670
+- lapis (8) e.g. 34:1658
+- oolong (8) e.g. 35:649c
+- hih (8) e.g. 58:3670
+- sooo (7) e.g. 02:67a4
+- doppelganger (7) e.g. 03:3e20
+- manga (7) e.g. 05:5f60
+- tanuki's (7) e.g. 26:10f48
+- overthinking (6) e.g. 23:da7c
+- rokurokubi (6) e.g. 36:83ac
+- whatever's (6) e.g. 40:4088
+- handprint (5) e.g. 09:8aa8
+- schoolers (5) e.g. 10:6798
+- honnyara (5) e.g. 20:1418
+- fundaba (5) e.g. 20:1418
+- dadda (5) e.g. 20:1418
+- hya (5) e.g. 20:8954
+- san's (5) e.g. 27:249c
+- kyu (5) e.g. 44:13948
+- diiiiie (4) e.g. 07:74b8
+- thunk (4) e.g. 07:196a4
+- auh (4) e.g. 14:12620
+- oden (4) e.g. 20:7170
+- waaah (4) e.g. 25:e428
+- scraaape (4) e.g. 25:ea38
+- zashiki (4) e.g. 28:8860
+- warashi (4) e.g. 28:8860
+- schooler (4) e.g. 28:bca4
+- erh (4) e.g. 35:649c
+- mothership (4) e.g. 44:3618
+- laaa (4) e.g. 44:12024
+- dum (4) e.g. 44:12024
+- fianc (4) e.g. 63:1358
+- meeee (3) e.g. 01:2e48
+- squee (3) e.g. 05:d5a4
+- whoever's (3) e.g. 06:30b4
+- pleeease (3) e.g. 07:1844c
+- kokeshi (3) e.g. 07:26144
+- unbothered (3) e.g. 08:10c54
+- urk (3) e.g. 10:7a74
+- hitman (3) e.g. 12:93b8
+- reshoot (3) e.g. 12:d774
+- how'd (3) e.g. 14:3e3c
+- lookin (3) e.g. 14:7e38
+- dovey (3) e.g. 16:1eb0
+- tsk (3) e.g. 19:25a4
+- haaaaaaaah (3) e.g. 20:1418
+- wah (3) e.g. 22:d984
+- uuuugh (3) e.g. 25:65c0
+- uuuuuuuuugh (3) e.g. 25:65c0
+- splish (3) e.g. 25:8208
+- iiit (3) e.g. 25:bac4
+- heeere (3) e.g. 25:e8d8
+- wishy (3) e.g. 26:19e24
+- ketsu (3) e.g. 36:4880
+- waah (3) e.g. 39:3cec
+- keh (3) e.g. 45:4df0
+- bom (3) e.g. 53:7f7c
+- ahahahaha (2) e.g. 01:5144
+- alumni's (2) e.g. 04:5f5c
+- spellbook (2) e.g. 05:cc0c
+- uhh (2) e.g. 07:19120
+- handprints (2) e.g. 08:5e78
+- aaaagh (2) e.g. 08:b178
+- nobody'll (2) e.g. 10:3528
+- sashimi (2) e.g. 10:92ac
+- mortis (2) e.g. 10:1032c
+- heartedly (2) e.g. 10:1224c
+- schooler's (2) e.g. 12:68a0
+- sor (2) e.g. 14:16958
+- fundaradatta (2) e.g. 17:5170
+- cret (2) e.g. 17:9ebc
+- laa (2) e.g. 18:4174
+- slimily (2) e.g. 19:3230
+- nurarihyon (2) e.g. 19:4178
+- hmmmmmmm (2) e.g. 20:153c
+- maka (2) e.g. 20:4c14
+- grr (2) e.g. 20:6064
+- haaaaaah (2) e.g. 20:60f8
+- adulty (2) e.g. 20:6b88
+- katsudon (2) e.g. 20:6fc0
+- hannya (2) e.g. 23:f7a8
+- udon (2) e.g. 24:1a98
+- whoaaa (2) e.g. 24:13b58
+- uhhh (2) e.g. 25:7bc0
+- cooperatiooon (2) e.g. 25:8ae8
+- gack (2) e.g. 25:feb8
+- ahahaha (2) e.g. 26:1fd4
+- koi's (2) e.g. 26:dab8
+- skeletonized (2) e.g. 27:128a4
+- foot'll (2) e.g. 28:1a60
+- tsukumogami (2) e.g. 33:a71c
+- shlup (2) e.g. 35:bdac
+- meeeet (2) e.g. 36:0ae0
+- scary's (2) e.g. 39:1c84
+- what'll (2) e.g. 40:239c
+- gah (2) e.g. 40:dccc
+- ahh (2) e.g. 41:4d28
+- geh (2) e.g. 45:10cc4
+- cuuute (2) e.g. 47:6648
+- gaki (2) e.g. 50:e6b8
+- odoriba (2) e.g. 53:7c10
+- wai (2) e.g. 58:3e40
+- omened (2) e.g. 60:57d4
+- omagatoki (2) e.g. 61:0cc0
+- ohh (1) e.g. 01:e3bc
+- thaaat (1) e.g. 02:79f8
+- eeeeek (1) e.g. 02:8bf0
+- whiiiiiine (1) e.g. 02:997c
+- slugfest (1) e.g. 04:0d2c
+- how're (1) e.g. 04:81ac
+- what've (1) e.g. 04:9724
+- somebody'd (1) e.g. 05:9968
+- this'll (1) e.g. 06:1154
+- whoaaaagh (1) e.g. 06:4724
+- gweh (1) e.g. 07:9738
+- eagled (1) e.g. 07:10b44
+- hurtsss (1) e.g. 07:18fa8
+- ngh (1) e.g. 07:1ecf4
+- amaaazing (1) e.g. 07:1f118
+- ght (1) e.g. 07:21cd4
+- terrible's (1) e.g. 07:22774
+- keshi (1) e.g. 07:26144
+- urse (1) e.g. 07:2b574
+- benchwarmers (1) e.g. 08:526c
+- monsterrr (1) e.g. 08:714c
+- hooome (1) e.g. 08:8324
+- aaagh (1) e.g. 08:f334
+- ikizukuri (1) e.g. 10:92ac
+- wro (1) e.g. 10:a5c4
+- haha (1) e.g. 10:ed24
+- experi (1) e.g. 10:1181c
+- gwaaah (1) e.g. 11:7728
+- men's (1) e.g. 11:df7c
+- dojo (1) e.g. 12:913c
+- hitman's (1) e.g. 12:93b8
+- whaaaaah (1) e.g. 12:b910
+- unshot (1) e.g. 12:eec8
+- hangin (1) e.g. 14:69f8
+- brrring (1) e.g. 14:f6c8
+- jinmenso (1) e.g. 15:18e8
+- sama (1) e.g. 17:1564
+- honnyaramaka (1) e.g. 17:225c
+- honnyaniramaka (1) e.g. 17:225c
+- heeeeeere (1) e.g. 17:225c
+- kokkuri (1) e.g. 17:296c
+- kwaaaah (1) e.g. 17:5170
+- hyahyahyahyahya (1) e.g. 17:6988
+- camou (1) e.g. 19:25a4
+- flage (1) e.g. 19:25a4
+- sunekosuri (1) e.g. 19:4178
+- hnnnnnnnngh (1) e.g. 19:5b28
+- youuu (1) e.g. 19:5e84
+- interdimensional (1) e.g. 19:79e0
+- diiing (1) e.g. 20:2170
+- ittan (1) e.g. 20:2c64
+- momen (1) e.g. 20:2c64
+- funnyara (1) e.g. 20:4c14
+- haaaaaaah (1) e.g. 20:4c14
+- mmm (1) e.g. 20:650c
+- faaaaarts (1) e.g. 20:6888
+- homard (1) e.g. 20:6eb8
+- rakugo (1) e.g. 21:0118
+- tokoroten (1) e.g. 22:4ebc
+- awful's (1) e.g. 23:7cb4
+- okaaay (1) e.g. 23:c7ec
+- grublike (1) e.g. 24:4424
+- gooooo (1) e.g. 24:76a8
+- sujiko (1) e.g. 24:11a50
+- doooor (1) e.g. 25:a328
+- awaaay (1) e.g. 25:b7f4
+- bam (1) e.g. 25:c2a4
+- eeeeeek (1) e.g. 25:fce0
+- whoaaaaaa (1) e.g. 25:fce0
+- there'll (1) e.g. 25:11b84
+- purifications (1) e.g. 26:19bc
+- up's (1) e.g. 26:6a14
+- porcupinefish (1) e.g. 26:cdf8
+- squeeeee (1) e.g. 26:cdf8
+- heeeelp (1) e.g. 26:10960
+- ghk (1) e.g. 26:11b28
+- hkk (1) e.g. 26:1a1f0
+- uaah (1) e.g. 27:96fc
+- minu (1) e.g. 28:5bd8
+- hahahahaaa (1) e.g. 28:6564
+- buzzkill (1) e.g. 28:7804
+- diiiiiie (1) e.g. 28:125f4
+- whump (1) e.g. 28:14878
+- lazuli's (1) e.g. 34:1cc4
+- aaaaaaah (1) e.g. 34:6c1c
+- omi (1) e.g. 34:6d74
+- gagh (1) e.g. 34:7550
+- gaaah (1) e.g. 34:792c
+- waaaaaaaah (1) e.g. 34:7b20
+- gurgh (1) e.g. 34:a23c
+- aughh (1) e.g. 34:a31c
+- noooo (1) e.g. 34:c750
+- slurrrp (1) e.g. 36:2e48
+- creeeak (1) e.g. 36:632c
+- fiiine (1) e.g. 36:9464
+- gloopy (1) e.g. 37:3b28
+- children's (1) e.g. 37:8240
+- glugging (1) e.g. 37:ccd0
+- yeeear (1) e.g. 38:0900
+- carefuuul (1) e.g. 39:0ecc
+- creeeeeeeak (1) e.g. 39:2510
+- meaaan (1) e.g. 39:2c2c
+- nn (1) e.g. 39:2e38
+- doppelgangers (1) e.g. 39:dd48
+- ehhh (1) e.g. 40:2fdc
+- reeeally (1) e.g. 40:7d50
+- scaaared (1) e.g. 40:b9c0
+- ooooooooo (1) e.g. 40:c3d0
+- myseeelf (1) e.g. 41:125c
+- swaaaallow (1) e.g. 41:39f8
+- ahhh (1) e.g. 41:4d28
+- hagh (1) e.g. 41:5c74
+- wrroof (1) e.g. 41:8d58
+- grawr (1) e.g. 41:8e58
+- nooooo (1) e.g. 41:8e58
+- aaaaagh (1) e.g. 41:15964
+- murdeeerer (1) e.g. 41:15bec
+- whoaaaa (1) e.g. 41:16298
+- booooring (1) e.g. 43:3db0
+- oughta (1) e.g. 43:e6b4
+- fooooooooorever (1) e.g. 43:12908
+- wheels'll (1) e.g. 44:1ce8
+- ladykiller (1) e.g. 44:b530
+- mmmmmmmnnh (1) e.g. 44:dc34
+- dunnnnn (1) e.g. 44:1373c
+- goe (1) e.g. 44:150a4
+- idio (1) e.g. 44:159f8
+- waaaaaaaaah (1) e.g. 45:887c
+- kah (1) e.g. 45:ea9c
+- hurk (1) e.g. 45:10708
+- gehh (1) e.g. 45:10bfc
+- nooooooo (1) e.g. 46:6880
+- bedsheet (1) e.g. 46:9520
+- iiiiiit (1) e.g. 46:9950
+- fuuun (1) e.g. 46:9c74
+- sooooo (1) e.g. 47:4598
+- looong (1) e.g. 47:93f8
+- waaay (1) e.g. 47:9dac
+- aaaaaah (1) e.g. 47:d448
+- nooo (1) e.g. 47:ee40
+- teeeeny (1) e.g. 47:f99c
+- lifes (1) e.g. 48:1374
+- anybody'd (1) e.g. 48:2004
+- enka (1) e.g. 48:5720
+- where'd (1) e.g. 51:1840
+- ahaha (1) e.g. 51:207c
+- lieve (1) e.g. 53:4d9c
+- congratulaaaations (1) e.g. 53:4d9c
+- antlion's (1) e.g. 53:702c
+- ery (1) e.g. 55:4aa8
+- yoursel (1) e.g. 56:240c
+- gwagh (1) e.g. 59:40c0
+- glurk (1) e.g. 59:40c0
+- waaaaugh (1) e.g. 61:2d68
+- gooo (1) e.g. 61:698c
+- nbu (1) e.g. 67:0f68
+- hahahahahaha (1) e.g. 68:4c8c
+- odori (1) e.g. 70:580c
+- clubmate (1) e.g. 70:61dc
+
+## unknown capitalized words not in glossary (720)
+- Heh (265) e.g. 03:a6a8
+- Takeuchi (265) e.g. 14:6c0c
+- Hirai (237) e.g. 41:1494
+- Kazama's (190) e.g. 07:964c
+- Kokkuri (186) e.g. 11:4d10
+- Yoshioka (163) e.g. 01:1288
+- Tokita (157) e.g. 12:1ae8
+- Kanda (136) e.g. 43:3904
+- Aizawa (134) e.g. 10:2120
+- Nakano (131) e.g. 22:1248
+- Hosoda's (128) e.g. 07:e3fc
+- Kondo (127) e.g. 41:2898
+- Arai's (124) e.g. 03:1384
+- Hee (120) e.g. 02:6340
+- Okazaki (115) e.g. 34:2494
+- Okura (111) e.g. 05:11bc
+- Rubelize (111) e.g. 34:1ab8
+- Nao (100) e.g. 62:0bcc
+- Yaguchi (99) e.g. 33:183c
+- Akasaka (95) e.g. 04:1d3c
+- Tadokoro (94) e.g. 03:16a8
+- Kuroki (92) e.g. 28:1378
+- Tsuda (90) e.g. 26:41d0
+- Ponkichi (89) e.g. 26:ec30
+- Kawahara (89) e.g. 65:1104
+- Hino's (88) e.g. 04:a888
+- Nanase (84) e.g. 61:0f84
+- Sodeyama (80) e.g. 11:1ae0
+- Iwayama (79) e.g. 35:235c
+- Nakayama (75) e.g. 10:6b78
+- Sunbararians (75) e.g. 19:61a8
+- Ishikawa (72) e.g. 05:4d48
+- Morikawa (71) e.g. 10:6994
+- Hatanaka (70) e.g. 04:26f4
+- Okawa (66) e.g. 34:1658
+- Sanbura (65) e.g. 14:6d98
+- Shindo's (64) e.g. 04:5664
+- Sunbararian (63) e.g. 19:19f0
+- Shida (62) e.g. 37:1ba0
+- Hayashi (61) e.g. 40:60cc
+- Seto (60) e.g. 40:1650
+- Hirooka (59) e.g. 49:1bb0
+- Tamai (58) e.g. 37:1d88
+- Sakuma (56) e.g. 02:1ef8
+- Sugiura (54) e.g. 37:4304
+- Tsukahara (53) e.g. 32:1558
+- Taguchi (52) e.g. 47:10fc
+- Tachibana (50) e.g. 32:1558
+- Hirai's (50) e.g. 41:272c
+- Kuwahata (49) e.g. 10:2908
+- Takeuchi's (49) e.g. 24:1550
+- Orihara (48) e.g. 49:1bb0
+- TV (47) e.g. 01:3538
+- Hida (46) e.g. 23:25d8
+- Sanae's (45) e.g. 36:2784
+- Senpai (45) e.g. 47:28b4
+- Shimizu (44) e.g. 31:20a8
+- Okazaki's (44) e.g. 34:2768
+- Sato (44) e.g. 41:71f4
+- Kanai (43) e.g. 13:1d04
+- Hashimoto (43) e.g. 65:1104
+- Fukuzawa's (42) e.g. 07:106dc
+- Sunbararia (41) e.g. 44:34b8
+- Meguro (40) e.g. 01:3ca4
+- Yoshioka's (38) e.g. 01:1ec0
+- Yuya (37) e.g. 63:12c8
+- Ahaha (36) e.g. 06:47b4
+- Fujiomi (36) e.g. 34:61b4
+- Shirai (36) e.g. 35:1bd8
+- Seto's (36) e.g. 40:190c
+- Miyama (35) e.g. 39:6f6c
+- Tanaka (35) e.g. 41:b16c
+- Sawada (34) e.g. 08:bf48
+- Ketsu (34) e.g. 36:47dc
+- Kawaguchi (33) e.g. 03:179c
+- Takeda (33) e.g. 11:9a68
+- Okura's (31) e.g. 05:13dc
+- Tokita's (29) e.g. 12:3ec0
+- Miyagi (29) e.g. 37:495c
+- Hata (28) e.g. 32:43dc
+- Higashiyama (28) e.g. 33:6a34
+- Kiyose (26) e.g. 14:4de0
+- Matsumoto (25) e.g. 03:55b4
+- Akasaka's (25) e.g. 04:26f4
+- Hayasaka (25) e.g. 08:1c34
+- Wakatsuki (25) e.g. 23:2600
+- Hayashi's (25) e.g. 40:63fc
+- Ahahahaha (23) e.g. 01:5144
+- Hara (23) e.g. 02:55cc
+- Uchiyama's (23) e.g. 29:19d0
+- Kanda's (23) e.g. 43:3ba8
+- Saijo (22) e.g. 23:2e54
+- Ahahaha (20) e.g. 01:5144
+- Igarashi (20) e.g. 63:12c8
+- Kawahara's (20) e.g. 65:1a74
+- Nakano's (19) e.g. 22:1fb0
+- Otaki (19) e.g. 29:3d64
+- Yukie (19) e.g. 34:25d4
+- Whaaat (18) e.g. 02:55cc
+- Yamamoto (18) e.g. 11:508c
+- Shimizu's (18) e.g. 31:2868
+- Akiyama (18) e.g. 60:1470
+- Katagiri (17) e.g. 02:4ef8
+- Ando (17) e.g. 08:3c90
+- Naoko (17) e.g. 11:9a68
+- Kaori (17) e.g. 23:ae14
+- Waaah (16) e.g. 07:bbec
+- Oyama (16) e.g. 08:77c4
+- Mmm (16) e.g. 17:7924
+- Ponkichi's (16) e.g. 26:f610
+- Kuroki's (16) e.g. 28:4df4
+- Kondo's (16) e.g. 41:2d50
+- Motoki's (16) e.g. 43:31b4
+- Aizawa's (15) e.g. 10:3b7c
+- Shimada (15) e.g. 64:0eac
+- Aaagh (14) e.g. 02:3e40
+- Hatanaka's (14) e.g. 04:2fcc
+- Hahaha (14) e.g. 05:7198
+- Hmph (14) e.g. 07:b858
+- Someya (14) e.g. 08:eb20
+- Yamabe (14) e.g. 08:10310
+- Sodeyama's (14) e.g. 11:30fc
+- Shirai's (14) e.g. 35:1bd8
+- Inoue (14) e.g. 59:2a8c
+- Gyaah (13) e.g. 05:3de4
+- Ishikawa's (13) e.g. 05:5204
+- Kuh (13) e.g. 08:109ac
+- Uehara (13) e.g. 10:5cb4
+- Mm (13) e.g. 14:2804
+- Ahh (13) e.g. 16:4324
+- Yoneyama (13) e.g. 23:2610
+- Tomita (13) e.g. 23:4454
+- Yaguchi's (13) e.g. 33:3108
+- Rubelize's (13) e.g. 34:1ab8
+- Miyagi's (13) e.g. 37:4dc0
+- Ogura (13) e.g. 39:6dac
+- Deberondattan (13) e.g. 44:4478
+- Tadokoro's (12) e.g. 03:179c
+- Koyama (12) e.g. 08:3c90
+- Higashiyama's (12) e.g. 33:6d14
+- Asakura (12) e.g. 38:4c6c
+- Tanaka's (12) e.g. 41:bdfc
+- Aww (11) e.g. 20:72e0
+- Yoshida (11) e.g. 26:174e4
+- What'll (10) e.g. 03:9e80
+- Uchida (10) e.g. 05:60f4
+- Iida (10) e.g. 08:ac68
+- Eeek (10) e.g. 09:5998
+- Nakayama's (10) e.g. 10:6ca4
+- Aw (10) e.g. 10:eaa4
+- Aaah (10) e.g. 14:5bfc
+- Hida's (10) e.g. 23:29f4
+- Mamoru (10) e.g. 33:183c
+- Mayumi (10) e.g. 47:10fc
+- Nanase's (10) e.g. 61:2008
+- Nao's (10) e.g. 62:1014
+- Eeeek (9) e.g. 03:a218
+- Aagh (9) e.g. 07:c280
+- Eri (9) e.g. 08:bf48
+- Endo (9) e.g. 08:c0f4
+- Yukari (9) e.g. 32:1558
+- Fujiomi's (9) e.g. 34:6af8
+- Hirooka's (9) e.g. 49:54f8
+- Yuya's (9) e.g. 63:1704
+- Kosaka (9) e.g. 67:39ac
+- Toru (8) e.g. 04:26f4
+- Gyaaah (8) e.g. 04:49f8
+- Tch (8) e.g. 05:8138
+- Ngh (8) e.g. 07:b4bc
+- Eeeeeeeek (8) e.g. 07:c8b8
+- Wha (8) e.g. 07:19ee0
+- Morikawa's (8) e.g. 10:8c98
+- Moriyama (8) e.g. 11:df7c
+- Eeeeeek (8) e.g. 19:2d28
+- Ketsu's (8) e.g. 36:57c4
+- Pohipohi (8) e.g. 47:5c80
+- Orihara's (8) e.g. 49:5124
+- Yoshino (8) e.g. 63:26ac
+- Hashimoto's (8) e.g. 68:1014
+- Where'd (7) e.g. 03:9fa8
+- Gyah (7) e.g. 06:2a70
+- Mayuko (7) e.g. 08:6380
+- Saito (7) e.g. 08:1051c
+- Sakurai's (7) e.g. 09:0fb8
+- Kanai's (7) e.g. 13:316c
+- Ashimura (7) e.g. 23:25ec
+- Tsuda's (7) e.g. 26:41d0
+- Tomoko (7) e.g. 31:20a8
+- Okawa's (7) e.g. 34:4748
+- Iwayama's (7) e.g. 35:9e88
+- Umm (7) e.g. 36:0ae0
+- Shinji (7) e.g. 41:2898
+- Miwako (7) e.g. 41:cc4c
+- Adachi (7) e.g. 55:3600
+- Onoda (7) e.g. 64:2f64
+- Ew (6) e.g. 01:5f74
+- Gah (6) e.g. 02:93a0
+- Agh (6) e.g. 04:760c
+- Kobayashi (6) e.g. 05:a2bc
+- Eeeeek (6) e.g. 12:4ca8
+- Waaaaah (6) e.g. 12:84f4
+- Ashimura's (6) e.g. 23:5d48
+- Sugiura's (6) e.g. 37:5ff4
+- Eww (6) e.g. 38:7a74
+- Meguro's (5) e.g. 01:5f74
+- Sakuma's (5) e.g. 02:3b24
+- Satoko (5) e.g. 02:4ef8
+- Kawaguchi's (5) e.g. 03:179c
+- Gyaaaaaah (5) e.g. 05:d090
+- How'd (5) e.g. 07:a280
+- Waaaaaah (5) e.g. 08:5c9c
+- Kuwahata's (5) e.g. 10:2d20
+- Hannyara (5) e.g. 20:1418
+- Hmmmmm (5) e.g. 20:153c
+- Hahahaha (5) e.g. 20:41e8
+- Urk (5) e.g. 22:2c68
+- Kiyoshi (5) e.g. 24:1208
+- Yay (5) e.g. 25:6280
+- Heeey (5) e.g. 25:a328
+- That'll (5) e.g. 26:c424
+- Kitajima (5) e.g. 30:51b0
+- Gh (5) e.g. 34:792c
+- Ogura's (5) e.g. 39:7168
+- Nooooo (5) e.g. 40:61e8
+- Sato's (5) e.g. 41:7a00
+- Sunbararian's (5) e.g. 44:a8ac
+- Amazak (5) e.g. 58:0c04
+- Eto's (5) e.g. 60:5150
+- Yasuhiro (5) e.g. 61:0f84
+- Sakurako (5) e.g. 67:39ac
+- Ee (4) e.g. 02:2608
+- Katagiri's (4) e.g. 02:523c
+- Eeeeeeek (4) e.g. 02:54b4
+- Eriko (4) e.g. 02:55cc
+- Aaaaaaagh (4) e.g. 04:8b6c
+- Waaaaaaaaaah (4) e.g. 06:39ec
+- Mmph (4) e.g. 07:bcb4
+- Bwuh (4) e.g. 07:146c4
+- Hayasaka's (4) e.g. 08:2b14
+- Waaagh (4) e.g. 08:43cc
+- Nobuhiko (4) e.g. 10:2120
+- Katayama (4) e.g. 12:9728
+- Hehe (4) e.g. 14:25dc
+- Shoji's (4) e.g. 14:a028
+- Kiiiiiiieee (4) e.g. 14:12b44
+- Pfft (4) e.g. 18:41d8
+- Yapare (4) e.g. 19:34f4
+- Pohipohian (4) e.g. 19:6484
+- Wah (4) e.g. 20:5d14
+- Hmmm (4) e.g. 20:634c
+- There'll (4) e.g. 23:bf44
+- Urgh (4) e.g. 25:6524
+- Yoshida's (4) e.g. 26:178c4
+- Ehehe (4) e.g. 28:17164
+- Tachibana's (4) e.g. 32:2068
+- Tsukahara's (4) e.g. 32:26cc
+- Iwasaki (4) e.g. 36:1e30
+- Tamai's (4) e.g. 37:3b28
+- Bohheritians (4) e.g. 44:97c4
+- Bohheritian (4) e.g. 44:98bc
+- Nyarinian (4) e.g. 44:11adc
+- Tra (4) e.g. 44:12024
+- Kyukyuan (4) e.g. 44:13614
+- Waaaaaaah (4) e.g. 45:71f4
+- Inoue's (4) e.g. 59:3880
+- Eto (4) e.g. 60:5030
+- Yashiro (4) e.g. 64:09e8
+- Haaaaaah (3) e.g. 02:37f0
+- Gyaaaaaaaaah (3) e.g. 02:42ec
+- C'mon (3) e.g. 02:7de0
+- Ahahahahaha (3) e.g. 06:1644
+- Hyahhahha (3) e.g. 07:5428
+- Raaaaaagh (3) e.g. 07:e1bc
+- Owww (3) e.g. 07:e3fc
+- Raaaaaargh (3) e.g. 07:1878c
+- Ando's (3) e.g. 08:44e4
+- Koji (3) e.g. 08:77c4
+- Aaaaaaaagh (3) e.g. 08:87b8
+- Argh (3) e.g. 09:5330
+- Yamamoto's (3) e.g. 11:66b4
+- Yasuo (3) e.g. 12:1ae8
+- Aaaah (3) e.g. 12:4f20
+- Gyaaaah (3) e.g. 12:8108
+- Naomichi (3) e.g. 14:4ecc
+- What're (3) e.g. 14:8458
+- Hahahahaha (3) e.g. 15:2544
+- Tsukasa (3) e.g. 16:1338
+- Grrr (3) e.g. 16:581c
+- Oden (3) e.g. 20:1648
+- Waaaagh (3) e.g. 22:3ab8
+- Saijo's (3) e.g. 23:33b4
+- Aaaaaaaaagh (3) e.g. 23:83f8
+- Waaaaaaaah (3) e.g. 25:3aa8
+- Uuugh (3) e.g. 25:65c0
+- Waaaaaagh (3) e.g. 25:a888
+- Aaaaaaaah (3) e.g. 26:36b8
+- Keiichi (3) e.g. 26:41d0
+- Aaaaaaaaaaaaah (3) e.g. 28:47b8
+- Hyaaaaaah (3) e.g. 28:15b30
+- Hya (3) e.g. 28:15d2c
+- Yoshiko (3) e.g. 37:1d88
+- Nooo (3) e.g. 40:c3d0
+- Deberondattans (3) e.g. 44:45f0
+- Kyukyuans (3) e.g. 44:133fc
+- Stoooop (3) e.g. 44:1542c
+- Senpai's (3) e.g. 47:a6f0
+- Ewww (3) e.g. 47:a8a0
+- Creeeak (3) e.g. 56:2f28
+- Nagamine (3) e.g. 59:3a94
+- Akiko (3) e.g. 60:5030
+- Miyata (3) e.g. 61:6170
+- Yoshino's (3) e.g. 63:2d24
+- Takashima (3) e.g. 63:3d50
+- Morishita (3) e.g. 63:3dec
+- Sumiyoshi (3) e.g. 63:4078
+- Shimada's (3) e.g. 64:19b4
+- Aaaagh (2) e.g. 01:e448
+- Hara's (2) e.g. 02:7288
+- Matsumoto's (2) e.g. 03:5eec
+- Yosuke (2) e.g. 04:1d3c
+- Aaaaaaaaaargh (2) e.g. 05:4080
+- That'd (2) e.g. 05:6adc
+- There'd (2) e.g. 05:b030
+- Mmgh (2) e.g. 07:626c
+- Aaaaaaaaah (2) e.g. 07:6d88
+- Miyamoto (2) e.g. 07:a838
+- Musashi (2) e.g. 07:a838
+- Gahh (2) e.g. 07:136c4
+- Gueh (2) e.g. 07:16c74
+- Hh (2) e.g. 07:17f00
+- Gweh (2) e.g. 07:1844c
+- Gwahk (2) e.g. 07:19268
+- Kyahahaha (2) e.g. 07:1efe8
+- Raaaaagh (2) e.g. 07:213c8
+- Diiiiiiie (2) e.g. 07:22a00
+- Koyama's (2) e.g. 08:44e4
+- Gyaaaaaaaargh (2) e.g. 08:6efc
+- Ohh (2) e.g. 08:9110
+- Endo's (2) e.g. 08:de08
+- Noooo (2) e.g. 08:e3f0
+- Someya's (2) e.g. 08:eb20
+- Saito's (2) e.g. 08:109ac
+- Gyaaaaah (2) e.g. 09:5ab8
+- Tatsuya (2) e.g. 10:2908
+- Aaaaaaaaaagh (2) e.g. 10:4274
+- Wahaha (2) e.g. 10:ed24
+- Aaaaagh (2) e.g. 10:fbc8
+- Masaru (2) e.g. 11:1ae0
+- Takeda's (2) e.g. 11:acf0
+- Aaaaaaah (2) e.g. 11:106d0
+- AAAAAAAAAGH (2) e.g. 12:51fc
+- Taichi (2) e.g. 12:ee3c
+- Bwahahahaha (2) e.g. 14:69f8
+- XX (2) e.g. 14:9f78
+- Gack (2) e.g. 14:b938
+- Hurk (2) e.g. 14:12534
+- Uoooooooh (2) e.g. 14:16670
+- Sawami (2) e.g. 16:1338
+- Tsk (2) e.g. 19:25a4
+- Pohe (2) e.g. 19:4178
+- Grrrrrrrrrr (2) e.g. 19:4b44
+- Nooooooo (2) e.g. 19:75a0
+- Katsudon (2) e.g. 20:1638
+- Himalayans (2) e.g. 20:35fc
+- Mmmm (2) e.g. 20:6be8
+- Tomita's (2) e.g. 23:4780
+- AAAAAAAAAAAAGH (2) e.g. 23:8624
+- Ooooohhhn (2) e.g. 23:d8c0
+- Augh (2) e.g. 24:cde8
+- Scritch (2) e.g. 25:65c0
+- Fwahahaha (2) e.g. 25:78a4
+- Eeeeeeeeek (2) e.g. 25:7ecc
+- Excuuuse (2) e.g. 25:8ae8
+- Noooooooo (2) e.g. 25:a540
+- Waaaaaaaaah (2) e.g. 25:e7d0
+- Kh (2) e.g. 25:10d08
+- Mobius (2) e.g. 27:f248
+- Otaki's (2) e.g. 29:81fc
+- Eeeeeeeeeek (2) e.g. 30:4008
+- Hata's (2) e.g. 32:4c20
+- Iku (2) e.g. 33:84ec
+- Yuriko (2) e.g. 34:1658
+- Aaaaaaaaaah (2) e.g. 34:74d8
+- Hyahahaha (2) e.g. 35:5df8
+- LL (2) e.g. 35:119b0
+- Mondo (2) e.g. 36:a7f4
+- Schooler (2) e.g. 36:b09c
+- DOOOOOOOOOOOM (2) e.g. 36:c6e0
+- Bancho (2) e.g. 39:2cf0
+- Sarayashiki (2) e.g. 39:2cf0
+- Miyama's (2) e.g. 39:9844
+- Yuko (2) e.g. 40:1650
+- Uwaaagh (2) e.g. 41:16eb8
+- Untamaru (2) e.g. 44:32a4
+- Wahahahahahahaha (2) e.g. 44:ac14
+- Whoooaaargh (2) e.g. 44:f038
+- Seeeee (2) e.g. 44:119ac
+- Koppeppo (2) e.g. 44:12240
+- VIP (2) e.g. 44:13c78
+- Shinichi (2) e.g. 45:2114

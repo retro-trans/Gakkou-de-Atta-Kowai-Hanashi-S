@@ -1,0 +1,10 @@
+{
+ "rows": {
+  "17:a2c8": "Kokkuri-san, Kokkuri-san, please answer.\nWill the wish {c}{f:|} is about to make come true?\nNow, {c}{f:|}, go ahead and say your wish.\nJust mumble it under your breath so nobody else can hear.\n......................................{p}",
+  "17:aab8": "What?\nYou're saying I can't send Kokkuri-san home when you haven't even seen Kokkuri-san yet?\n...You mean you can't see Kokkuri-san?\nWhat are you talking about?\nYou can see, can't you?{p}"
+ },
+ "notes": [
+  "17:a2c8: FIX dots - source silence is 25 dot characters; restored 30 dots to 38 (3 per 2)",
+  "17:953c / 17:9b6c / 17:a5b8: checked male|female branches; both match the source"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "rows": {
+  "53:78d0": "Just run",
+  "53:7e10": "What should I do...",
+  "53:96c0": "Keep my eyes closed",
+  "53:926c": "I opened my eyes, still wondering, and in that instant my gaze was nailed to the floor.\n\"Ah... ahh...\"\nI was so shocked I couldn't even scream.\nIwashita was lying face up on the floor.\nHer throat had been slit straight across, and the blood that had flowed from it had dyed everything around her bright red.\n...Did Hosoda do this?\nLooking back and forth between the knife forced into my hand and Iwashita's corpse, I was certain of it.\n",
+  "53:93e4": "From far off, I could hear police sirens.\nHosoda must have called them.\nAfter seeing this, how many people would ever believe a word I say...?{p}Sinking unsteadily down into the pool of bright red blood, I pictured the red siren lights I would surely be seeing any moment now.{p}"
+ },
+ "notes": [
+  "53:7174: KEEP - returns note on Kazama's laugh: E102 53:6718 now reads 'Heh heh heh heh......', so 'Heh heh heh heh heh...' here is already consistent; no 'Ufu-fu' remains.",
+  "53:85f0/53:860c: KEEP - these echo E102 53:65c4/53:65dc (same JP), which read 'Say you want to go on a date' / 'Say you don't want any date'; the second-person 'Say you' breaks the first-person choice style, so E102 should adopt this chunk's 'Tell him I want to go on a date' / 'Tell him I don't want to go on a date' (not editable here).",
+  "53:926c: EDIT - clumsy 'The moment I opened my eyes, wondering that,' -> 'I opened my eyes, still wondering, and in that instant'.",
+  "53:93e4: EDIT - dangling 'Seeing this, how many people would ever believe what I say' -> 'After seeing this, how many people would ever believe a word I say'.",
+  "53:78d0/53:96c0: coordinator - E102 and E103 each matched the other's old wording; set to E102's \"Just run\" / \"Keep my eyes closed\" so the echoes 53:6488 / 53:2688 match."
+ ]
+}

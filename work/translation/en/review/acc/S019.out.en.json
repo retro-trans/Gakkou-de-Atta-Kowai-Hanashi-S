@@ -1,0 +1,21 @@
+{
+ "rows": {
+  "06:5988": "\"Ah, {a}!\nWhat are you doing, banging your head on a bookshelf...\"\n.......................................Everything went black.{p}",
+  "06:6a30": "............\nThere are all kinds of people in this world.\nNot everybody's gonna get along with you.\nThere's bound to be some who hate you.\nTry thinking about that kind of thing a little.{p}",
+  "06:54c8": "S-so sexy...\nWas there ever a teacher like that at our school?\n\"Go on, {a}.\nHit on her.\nThe way you are now, you could even win over a teacher...\"\nThe beautiful teacher was standing there.\nI had to say something.{p}...What should I do?\n",
+  "06:525c": "Your eyes are the sun the stars a shooting star, even on rainy days as long as I have you my life is rosy...............{p}Your outfit's so cute today it really suits you, I just love a girl with good taste oh and your shoes are stylish too, a girl who takes care with her footwear too is the real deal if you ask me...............{p}",
+  "06:6084": "\"Wh-what are you doing?!★\"\nShindo had hit me with the cursed book.\nWhat was he thinking?\nDoing something like that... what if it brought a curse down...{p}"
+ },
+ "notes": [
+  "06:5988: TODO/FIX dot run - restored to source length (13 ellipsis chars = 39 dots, no space before 'Everything'), was shortened to 20.",
+  "06:6a30: FIX dot run - source has 4 ellipsis chars (12 dots), English had 11.",
+  "06:54c8: FIX added detail - tatazumu is just 'standing there'; 'waiting' was not in the source.",
+  "06:525c: FIX meaning - ashimoto ni mo ki wo tsukau = cares about her footwear (follows the shoes compliment), not 'her feet'.",
+  "06:6084: FIX added detail - 'on us' added; source leaves who would be cursed open (tatari de mo attara).",
+  "06:4560: TODO diva/songstress - this slice already reads 'the diva' (only occurrence of the term here); no 'songstress' left in S019, nothing to change.",
+  "06:4660: UNSURE - final 'atsui' rendered 'It burned'; source is a bare sensation word ('Hot'), kept since the next row describes burning heat.",
+  "06:58f0: UNSURE - truncated 'sensee...' rendered 'Right, Miss...'; teacher is shown as a woman, so 'Miss' keeps the cut-off address.",
+  "06:5434: KEPT OMISSION - 'let's go hit on a woman' keeps Shindo's inclusive volitional; the player is the one meant to do it (next row confirms).",
+  "06:533c: UNSURE - scene 06 has no {f} codes; player taken as male (boku, becoming an 'iro-otoko', courting the teacher as a man); all rows kept male."
+ ]
+}

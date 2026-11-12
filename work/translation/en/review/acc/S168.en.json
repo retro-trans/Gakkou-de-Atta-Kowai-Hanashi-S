@@ -1,0 +1,386 @@
+{
+ "slice": "S168",
+ "scene": "44",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S167",
+ "next": "S169",
+ "todo": [
+  "- S168 44:3e50: choice shortened to fit 3 lines; some emphasis lost.",
+  "- S167/S168/S169 (and S060/S118): {a}{b} rewritten as \"{b} {a}\" (Western order). Check name rendering and width reservation in the emulator.",
+  "- S171 44:e724: \"that special order\" refers to a line outside the visible branch; check against the 44:3030 branch."
+ ],
+ "rows": [
+  {
+   "id": "44:167c",
+   "op": "text",
+   "en": "All six of them had finished their stories.\n...It {f:seemed|looked like} the seventh one wasn't coming, no matter how long we waited.\nEven so, {f:I|I} couldn't help hoping for something.\nHoping that maybe, just maybe, the seventh one would come after all...{p}"
+  },
+  {
+   "id": "44:1760",
+   "op": "text",
+   "en": "\"Hey.\nThere's no point in waiting any longer, is there?\nIt's late, too. Maybe we should just go home.\"\nPerhaps because everyone had fallen silent, Fukuzawa suggested it.{p}"
+  },
+  {
+   "id": "44:17f4",
+   "op": "text",
+   "en": "\"Yeah. Good idea.\nWe've got something important to talk about after this, after all.\"\nIt was Kazama{f:|}.\nKazama was looking at {f:me|me} with a big, meaningful grin.\n...No way.\n{f:Could he|Could he} still remember what we'd talked about earlier?\nThat Kazama and {f:I|I} were aliens, and were going to conquer the Earth together.\nThis guy seemed a little off in the head, so I didn't want to get too mixed up with him{f:|}.\n{f:I|I} looked away, trying my best not to meet his eyes.{p}"
+  },
+  {
+   "id": "44:19b4",
+   "op": "text",
+   "en": "\"R-Right. Let's call it a night, then.\nWell then, everyone...\"\nAs {f:I|I} tried to stand, Kazama gripped my hand hard.\nHe was incredibly strong{f:|}.\nI couldn't move!\nWhen had this guy gotten next to {f:me|me}{f:|}?\n\"Okay, all of you can go home now.\nLeave the rest to us.\"\nSmiling, Kazama urged everyone to leave.\nAt this rate, everyone would go home{f:|}.\n{f:No|No}!\nIt felt like something unbelievably horrible was about to happen, and I really, really didn't want this{f:|...}!{p}What {f:do I do|do I do}, {c}!\n"
+  },
+  {
+   "id": "44:1bac",
+   "op": "choice",
+   "en": "Don't let everyone go home"
+  },
+  {
+   "id": "44:1bc0",
+   "op": "choice",
+   "en": "No choice: talk it all the way out with Kazama"
+  },
+  {
+   "id": "44:1bec",
+   "op": "choice",
+   "en": "Punch Kazama's lights out"
+  },
+  {
+   "id": "44:1c18",
+   "op": "text",
+   "follows_choice": [
+    "44:1bac"
+   ],
+   "en": "\"Everyone, don't go!\nPlease! Don't leave {f:us|us} alone together!\"\n{f:I|I} shouted.\nWhatever happened, I didn't want to be left alone with Kazama.\nI had to avoid that, no matter what.{p}"
+  },
+  {
+   "id": "44:1ce8",
+   "op": "text",
+   "en": "\"Hey, {a}.\nIf you and Kazama know each other, you should've just said so from the start.\nWe're not gonna get in your way. See ya.\"\nIt was Shindo{f:|}.\nShindo had the wrong idea about something.\nHe had this leering grin on his face...\nNo!\nThat's not {f:it|it}!\n\"Shindo! {f:I|I} only just met Kazama for the first time today!\nPlease! Don't go!\"\n\"Don't be shy. Us third wheels'll clear out right now.\nC'mon, everybody, let's head home.\"\nEveryone was smirking.{p}"
+  },
+  {
+   "id": "44:1ed0",
+   "op": "text",
+   "en": "And one after another, they all left the club room.\n\"Ah...\"\nA crushing despair seized {f:my|my} heart.{p}"
+  },
+  {
+   "id": "44:1f58",
+   "op": "text",
+   "en": "Once everyone was gone, the hand Kazama had clamped on {f:me|me} suddenly loosened.\n\"...That was some pretty good acting.\nIt'd be a problem if our mission got found out, after all.\nYou're smarter than you look.\nNow then, comrade. Let's start our briefing.\"\nKazama smiled happily.\nI might be able to get away now.\nBut if I tried to run and failed, who knew what he'd do to me{f:|}.\nKazama seemed dangerous on a level that was anything but normal{f:|}.{p}What {f:should I do|should I do}?\n"
+  },
+  {
+   "id": "44:2124",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "44:212c",
+   "op": "choice",
+   "en": "Give up and talk with him"
+  },
+  {
+   "id": "44:2140",
+   "op": "text",
+   "follows_choice": [
+    "44:212c"
+   ],
+   "en": "...No, running now would be a bad idea{f:|}.\nI'd {f:probably|surely} do better to watch a little longer and run once Kazama let his guard down.\nThat way my chances would be better, and it would be {f:safer|safer, surely}.{p}"
+  },
+  {
+   "id": "44:2208",
+   "op": "text",
+   "en": "\"...K-Kazama. Could you let go of {f:my|my} hand?\nIt kind of hurts.\"\n\"...Oops, sorry about that.\"\nKazama's hand let go of {f:mine|mine}.\nThat was a bit of a relief{f:|}.\nI'd watch a little longer, then make a break for it all at once.{p}"
+  },
+  {
+   "id": "44:22f4",
+   "op": "text",
+   "en": "\"Do you still want to speak Japanese? This country's language is tough, after all.\"\n...He'd finally started babbling nonsense{f:|}.\n{f:Was he|Was he} going to start spouting that meaningless gibberish from before again?\nWhat {f:should I do|should I do}?\nIt would be bad if he got suspicious of me{f:|}.\nBut it wasn't like I could just speak a language like that{f:|}.{p}{f:I|I} couldn't afford to give a careless answer {f:here|here}.\n"
+  },
+  {
+   "id": "44:2474",
+   "op": "choice",
+   "en": "Let's speak Japanese"
+  },
+  {
+   "id": "44:2490",
+   "op": "choice",
+   "en": "Let's switch to our native tongue now"
+  },
+  {
+   "id": "44:24b4",
+   "op": "choice",
+   "en": "Smile silently"
+  },
+  {
+   "id": "44:24cc",
+   "op": "text",
+   "follows_choice": [
+    "44:2474"
+   ],
+   "en": "\"Japanese is better. We're in Japan, after all.\nIf we speak a different language, people will get suspicious.\"\n{f:I|I} fudged it as best I could.\nKazama {f:seemed|seemed} convinced.{p}"
+  },
+  {
+   "id": "44:2580",
+   "op": "text",
+   "en": "\"You're right. It's just as you say.\nJapanese is difficult, but it'd be a problem if our true identities got out.\nI'm sorry I blurted it out so carelessly earlier.\nI was just so happy to meet a comrade that it slipped out.\nI'll be careful. From now on, we'll carry on in Japanese.\"\n...Thank goodness.\n"
+  },
+  {
+   "id": "44:2690",
+   "op": "text",
+   "en": "{f:For now|For now}, I could breathe a little easier.{p}"
+  },
+  {
+   "id": "44:26b8",
+   "op": "text",
+   "en": "\"...Come to think of it, I still haven't heard your real name.\nAt least tell me your true name.\"\nMy name★\n{f:My real name, he says|My real name}★\nEven if he asked, {f:my|my} one and only name was {b} {a}{f:|}.\nAny other name...\nThis was bad{f:|}.\nKazama was staring right at {f:me|me}.{p}I {f:had to|had to} do something.\n"
+  },
+  {
+   "id": "44:2804",
+   "op": "choice",
+   "en": "Laugh it off"
+  },
+  {
+   "id": "44:2814",
+   "op": "choice",
+   "en": "Ask Kazama his name"
+  },
+  {
+   "id": "44:2830",
+   "op": "choice",
+   "en": "Switch to another topic"
+  },
+  {
+   "id": "44:2844",
+   "op": "choice",
+   "en": "Just try dancing"
+  },
+  {
+   "id": "44:285c",
+   "op": "text",
+   "follows_choice": [
+    "44:2814"
+   ],
+   "en": "\"...Um, what's your real name, Kazama?\"\nFor the moment, I decided to turn the question back on him.{p}"
+  },
+  {
+   "id": "44:28c8",
+   "op": "text",
+   "en": "\"Oh, me?\nRight. It's only polite to give your own name before asking someone else's.\nMy name is ☆☆·☆★.\nNow, what's yours?\"{p}"
+  },
+  {
+   "id": "44:2954",
+   "op": "text",
+   "en": "...I couldn't make it out.\n{f:Was|Was} that really a person's name?{p}"
+  },
+  {
+   "id": "44:29a4",
+   "op": "text",
+   "en": "Kazama might be dangerous, but if I apologized, he might understand.\nHe only thought he was an alien; really, he was just a guy who was a little off in the head{f:|, right}.\nWhen I thought his eyes looked gold earlier, that had to be {f:my|my} eyes playing tricks on me.\nThere was no way aliens existed in this world.{p}"
+  },
+  {
+   "id": "44:2adc",
+   "op": "text",
+   "en": "...But {f:was|was} that really true?\nLittle by little, I was losing confidence in myself.{p}Did {f:I|I} really believe there were no aliens{f:|}?\n"
+  },
+  {
+   "id": "44:2b84",
+   "op": "choice",
+   "en": "Aliens exist"
+  },
+  {
+   "id": "44:2b94",
+   "op": "choice",
+   "en": "There's no such thing as aliens"
+  },
+  {
+   "id": "44:2ba8",
+   "op": "text",
+   "follows_choice": [
+    "44:2b84"
+   ],
+   "en": "...Maybe aliens really {f:do|do} exist after all.\nLooking at Kazama, I somehow couldn't help starting to think so.\n{f:Uh-oh.|Ugh, no...}\nIf I stayed with him too long, it felt like even {f:I|I}'d start going strange{f:|}.{p}"
+  },
+  {
+   "id": "44:2c8c",
+   "op": "text",
+   "en": "\"Come on, your name, your name.\"\nKazama peered into {f:my|my} face.\nThat's right.\nI {f:still had to|still had to} tell him a name.{p}What should I do?\n"
+  },
+  {
+   "id": "44:2d28",
+   "op": "choice",
+   "en": "Just make something up"
+  },
+  {
+   "id": "44:2d3c",
+   "op": "choice",
+   "en": "Let's just try dancing"
+  },
+  {
+   "id": "44:2d54",
+   "op": "choice",
+   "en": "Talk my way around it"
+  },
+  {
+   "id": "44:2d64",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "44:2d6c",
+   "op": "text",
+   "follows_choice": [
+    "44:2d64"
+   ],
+   "en": "\"I'm sorry!\"\n{f:I|I} meekly bowed my head.\nPlaying along with Kazama any longer was too hard.\n...Way too hard{f:|}.\nI'd apologize and ask him to forgive me.\nThen Kazama would surely let {f:me|me} go{f:|}.\n...There was a long silence.\n{f:I|I} stayed bowed, frozen in place.\nKazama might actually be angry.{p}"
+  },
+  {
+   "id": "44:2ecc",
+   "op": "text",
+   "en": "\"...What are you apologizing for?\n"
+  },
+  {
+   "id": "44:2ef8",
+   "op": "text",
+   "en": "There's no reason you can't tell me your name... Ah★ Don't tell me you're the ☆☆··★·☆, sent here on a special mission★\"{p}"
+  },
+  {
+   "id": "44:2f8c",
+   "op": "text",
+   "en": "Suddenly Kazama put his hand on {f:my|my} shoulder and brought his dead-serious face close to mine.\n...Kazama had dragged the conversation off in some complicated direction again.{p}...What do I do?\n"
+  },
+  {
+   "id": "44:3030",
+   "op": "choice",
+   "en": "Nod along with Kazama's story"
+  },
+  {
+   "id": "44:304c",
+   "op": "choice",
+   "en": "Try laughing for now"
+  },
+  {
+   "id": "44:3064",
+   "op": "choice",
+   "en": "Try asking to go home now"
+  },
+  {
+   "id": "44:3084",
+   "op": "text",
+   "follows_choice": [
+    "44:3064"
+   ],
+   "en": "I'd had enough of this getting any more tangled{f:|}.\nWhy did {f:I|I} have to go along with Kazama's stupid nonsense{f:|}?\n{f:I|I}'d come to hear scary stories from school{f:|}.\nNot to forge friendly relations with aliens{f:|}.\n{f:I|I} just wanted to go home.\nSomehow, I felt like crying.{p}"
+  },
+  {
+   "id": "44:31d0",
+   "op": "text",
+   "en": "\"Kazama, please.\n{f:I|I} want to go home now.\nPlease. Have mercy on me.\nLet {f:me|me} go.\"\nKazama listened to {f:me|me} earnestly.\nThen he slowly nodded.{p}"
+  },
+  {
+   "id": "44:32a4",
+   "op": "text",
+   "en": "...Thank goodness.\nIt {f:seemed|seemed} {f:my|my} sincerity had gotten through to Kazama too.\n\"...I understand. I've heard the rumors of how hard your mission has been.\nIt's only natural that you'd wish to go home.\n...That grueling battle on planet Untamaru.\nAnd the moment it ended, orders to invade Earth, with no time to rest.{p}"
+  },
+  {
+   "id": "44:33bc",
+   "op": "text",
+   "en": "...I thought I'd be the first one here, but you're a battle-hardened hero, as expected.\nYou'd already started the invasion of Earth before me, after all.\n...I know. I know all about the special mission you were given.\nYou are a battle-hardened hero, after all.\nYou're a model for all Sunbararians.{p}"
+  },
+  {
+   "id": "44:34b8",
+   "op": "text",
+   "en": "...But even a battle-hardened hero gets homesick, I see.\nI'm a little relieved. Somehow, it makes me happy.\nAll right. I'll see what I can do.\nLet's go home to Sunbararia!\"\n\"Huh...?\"\nLeaving {f:me|me} there dumbfounded, Kazama went and stood by the window.\nThen he took something like a toy patch out of his pocket and held it up to the sky.{p}"
+  },
+  {
+   "id": "44:3618",
+   "op": "text",
+   "en": "\"Emergency transmission to the mothership! Emergency transmission to the mothership!\nRequest immediate response! Request immediate response!\n☆★·☆··☆~☆\"{p}"
+  },
+  {
+   "id": "44:3684",
+   "op": "text",
+   "en": "Suddenly, the sky flashed.\nThe sky, already pitch-dark, became as bright as day for just an instant.{p}"
+  },
+  {
+   "id": "44:36fc",
+   "op": "text",
+   "en": "\"...You're safe now.\nYou must have been scared. Earth is a scary place, after all.\"\nSaying that, Kazama gave {f:my|my} back a couple of pats.\n...I'd run.\nRunning was the best thing to do.{p}{f:It looked like that was the only way I'd ever get away from Kazama|There was no other way, was there}.\n"
+  },
+  {
+   "id": "44:3804",
+   "op": "choice",
+   "en": "Make a run for it"
+  },
+  {
+   "id": "44:3810",
+   "op": "choice",
+   "en": "Watch a little longer"
+  },
+  {
+   "id": "44:3828",
+   "op": "text",
+   "follows_choice": [
+    "44:3804"
+   ],
+   "en": "Kazama looked up at the sky again.\nThen, waving the patch, he struck strange poses like morning radio calisthenics and began to dance.\n...Kazama was dangerous.\n"
+  },
+  {
+   "id": "44:38b4",
+   "op": "text",
+   "en": "{f:I|I} slowly got up from my seat.{p}"
+  },
+  {
+   "id": "44:38f4",
+   "op": "text",
+   "en": "\"Where are you going?\"\nKazama's voice stabbed into {f:my|my} back.\n...Escape: failed.\n\"Oh, just to the restroom for a sec...\"\n\"What are you talking about? Our ride will be here any minute.\nYou heard my transmission just now, didn't you?\"{p}"
+  },
+  {
+   "id": "44:39bc",
+   "op": "text",
+   "en": "\"...Oh, r-right. Ahahahaha...\"\nOur ride's coming?\nJust what was supposed to be coming for us{f:|}?{p}"
+  },
+  {
+   "id": "44:3a34",
+   "op": "text",
+   "en": "\"Oh, here they are, here they are.\"\nSuddenly Kazama turned toward the club room doorway and waved happily.\n?????\n{f:I|I} turned around.{p}"
+  },
+  {
+   "id": "44:3ac0",
+   "op": "text",
+   "en": "\"{f:Gyah|Eek}★\"\n{f:I must have|I might have} jumped a good meter into the air{f:|}.\nThat's how startled I {f:was|was}.{p}"
+  },
+  {
+   "id": "44:3b74",
+   "op": "text",
+   "en": "In the club room doorway stood a monster that looked like it had an ammonite in place of a head.\n...What {f:the hell|on earth} is this thing☆\n\"Commander! It is an honor that you would come here in person, Commander!\"\nKazama was saluting.\n...What an elaborate prank{f:|}.\nYou can put on a toy-looking mask like that, but {f:I|I}'m not going to flinch{f:, got it|, you know}.{p}"
+  },
+  {
+   "id": "44:3cdc",
+   "op": "text",
+   "en": "...That's {f:it|it}!\nThis has to be Hino's scheme{f:|}.\nHino and Kazama were in on it together{f:|}.\n{f:So|Honestly}, it was a trap set up from the very start{f:|}.\n...That's {f:low|cruel}.\nEveryone ganging up to scare {f:me|me}, just for fun.{p}I can't forgive this!\n"
+  },
+  {
+   "id": "44:3e0c",
+   "op": "choice",
+   "en": "Try to rip the ammonite mask off"
+  },
+  {
+   "id": "44:3e38",
+   "op": "choice",
+   "en": "Lunge at Kazama"
+  },
+  {
+   "id": "44:3e50",
+   "op": "choice",
+   "en": "Fine, then: play along with their story all the way, all out"
+  },
+  {
+   "id": "44:3e9c",
+   "op": "text",
+   "follows_choice": [
+    "44:3e0c"
+   ],
+   "en": "\"Quit messing with me!\"\n{f:I|I} grabbed the ammonite {f:bastard|monster} in the doorway and yanked on its mask as hard as I could.\n...But it wouldn't come off.{p}"
+  }
+ ]
+}

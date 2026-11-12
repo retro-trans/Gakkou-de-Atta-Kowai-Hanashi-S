@@ -1,0 +1,349 @@
+{
+ "slice": "S130",
+ "scene": "33",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S129",
+ "next": "S131",
+ "rows": [
+  {
+   "id": "33:ad7c",
+   "op": "choice"
+  },
+  {
+   "id": "33:ad98",
+   "op": "text",
+   "follows_choice": [
+    "33:ad40"
+   ]
+  },
+  {
+   "id": "33:ae08",
+   "op": "text"
+  },
+  {
+   "id": "33:af18",
+   "op": "text"
+  },
+  {
+   "id": "33:afd8",
+   "op": "text"
+  },
+  {
+   "id": "33:b0c4",
+   "op": "text"
+  },
+  {
+   "id": "33:b13c",
+   "op": "text",
+   "follows_choice": [
+    "33:10d7c"
+   ]
+  },
+  {
+   "id": "33:b1a8",
+   "op": "text"
+  },
+  {
+   "id": "33:b230",
+   "op": "text",
+   "follows_choice": [
+    "33:ad60"
+   ]
+  },
+  {
+   "id": "33:b288",
+   "op": "text"
+  },
+  {
+   "id": "33:b2dc",
+   "op": "text"
+  },
+  {
+   "id": "33:b3ac",
+   "op": "text"
+  },
+  {
+   "id": "33:b448",
+   "op": "text"
+  },
+  {
+   "id": "33:b520",
+   "op": "text"
+  },
+  {
+   "id": "33:b644",
+   "op": "text",
+   "follows_choice": [
+    "33:192c"
+   ]
+  },
+  {
+   "id": "33:b788",
+   "op": "text"
+  },
+  {
+   "id": "33:b8ac",
+   "op": "text",
+   "follows_choice": [
+    "33:2ccc"
+   ]
+  },
+  {
+   "id": "33:b948",
+   "op": "text"
+  },
+  {
+   "id": "33:b994",
+   "op": "text"
+  },
+  {
+   "id": "33:ba14",
+   "op": "text"
+  },
+  {
+   "id": "33:ba78",
+   "op": "text"
+  },
+  {
+   "id": "33:bb10",
+   "op": "text"
+  },
+  {
+   "id": "33:bc1c",
+   "op": "text"
+  },
+  {
+   "id": "33:bd18",
+   "op": "text"
+  },
+  {
+   "id": "33:bdc8",
+   "op": "text"
+  },
+  {
+   "id": "33:beb8",
+   "op": "text"
+  },
+  {
+   "id": "33:bf78",
+   "op": "text",
+   "follows_choice": [
+    "33:378c"
+   ]
+  },
+  {
+   "id": "33:c008",
+   "op": "text"
+  },
+  {
+   "id": "33:c098",
+   "op": "text"
+  },
+  {
+   "id": "33:c0ec",
+   "op": "text"
+  },
+  {
+   "id": "33:c1a8",
+   "op": "text"
+  },
+  {
+   "id": "33:c2d0",
+   "op": "text"
+  },
+  {
+   "id": "33:c364",
+   "op": "text"
+  },
+  {
+   "id": "33:c474",
+   "op": "text"
+  },
+  {
+   "id": "33:c4b8",
+   "op": "choice"
+  },
+  {
+   "id": "33:c4c8",
+   "op": "choice"
+  },
+  {
+   "id": "33:c4dc",
+   "op": "choice"
+  },
+  {
+   "id": "33:c4f8",
+   "op": "text",
+   "follows_choice": [
+    "33:c4b8"
+   ]
+  },
+  {
+   "id": "33:c56c",
+   "op": "text"
+  },
+  {
+   "id": "33:c640",
+   "op": "text"
+  },
+  {
+   "id": "33:c6e0",
+   "op": "text"
+  },
+  {
+   "id": "33:c7bc",
+   "op": "choice"
+  },
+  {
+   "id": "33:c7c4",
+   "op": "choice"
+  },
+  {
+   "id": "33:c7d8",
+   "op": "choice"
+  },
+  {
+   "id": "33:c7f4",
+   "op": "text",
+   "follows_choice": [
+    "33:c4c8"
+   ]
+  },
+  {
+   "id": "33:c878",
+   "op": "text"
+  },
+  {
+   "id": "33:c8fc",
+   "op": "text"
+  },
+  {
+   "id": "33:c9b4",
+   "op": "text"
+  },
+  {
+   "id": "33:ca5c",
+   "op": "text"
+  },
+  {
+   "id": "33:cc20",
+   "op": "text"
+  },
+  {
+   "id": "33:ccf0",
+   "op": "text"
+  },
+  {
+   "id": "33:cd6c",
+   "op": "text"
+  },
+  {
+   "id": "33:ce88",
+   "op": "text"
+  },
+  {
+   "id": "33:cee0",
+   "op": "text"
+  },
+  {
+   "id": "33:cf6c",
+   "op": "text"
+  },
+  {
+   "id": "33:d044",
+   "op": "text"
+  },
+  {
+   "id": "33:d10c",
+   "op": "text"
+  },
+  {
+   "id": "33:d1f4",
+   "op": "text"
+  },
+  {
+   "id": "33:d368",
+   "op": "text",
+   "follows_choice": [
+    "33:37d4"
+   ]
+  },
+  {
+   "id": "33:d430",
+   "op": "text",
+   "follows_choice": [
+    "33:4328"
+   ]
+  },
+  {
+   "id": "33:d524",
+   "op": "choice"
+  },
+  {
+   "id": "33:d534",
+   "op": "choice"
+  },
+  {
+   "id": "33:d548",
+   "op": "choice"
+  },
+  {
+   "id": "33:d564",
+   "op": "text",
+   "follows_choice": [
+    "33:d524"
+   ]
+  },
+  {
+   "id": "33:d6ac",
+   "op": "text"
+  },
+  {
+   "id": "33:d784",
+   "op": "text"
+  },
+  {
+   "id": "33:d7f8",
+   "op": "text"
+  },
+  {
+   "id": "33:d884",
+   "op": "text"
+  },
+  {
+   "id": "33:d9c8",
+   "op": "text"
+  },
+  {
+   "id": "33:da84",
+   "op": "text"
+  },
+  {
+   "id": "33:db6c",
+   "op": "text"
+  },
+  {
+   "id": "33:dcec",
+   "op": "text",
+   "follows_choice": [
+    "33:4618"
+   ]
+  },
+  {
+   "id": "33:dde8",
+   "op": "text"
+  },
+  {
+   "id": "33:de48",
+   "op": "text"
+  },
+  {
+   "id": "33:df94",
+   "op": "text"
+  },
+  {
+   "id": "33:dfdc",
+   "op": "text"
+  }
+ ]
+}

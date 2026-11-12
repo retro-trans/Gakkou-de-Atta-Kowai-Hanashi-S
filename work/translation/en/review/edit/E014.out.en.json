@@ -1,0 +1,36 @@
+{
+ "rows": {
+  "07:1d1a8": "I decided to check the toilet in the far stall.{p}",
+  "07:1e2cc": "The toilet in the far stall",
+  "07:1e2e0": "The toilet in the near stall",
+  "07:1e2f4": "Search somewhere else",
+  "07:1e364": "I decided to check the toilet in the far stall.{p}",
+  "07:1e41c": "I decided to check the toilet in the near stall.{p}",
+  "07:1e22c": "That was enough of the third-floor classrooms for now.\n",
+  "07:1e500": "What should I do?\n",
+  "07:1e9d8": "I bent down to pick up the mechanical pencil.\nFukuzawa kicked straight up at my face, shoe and all.{p}",
+  "07:1eb30": "Along with the pale yellow liquid, blood ran down, one trickle, then two.\nShe licked it off with a flick of her tongue and laughed.\n\"Game over.\"\nNo...\nThis can't be happening.\nAfter everything I went through, this is the end?\nAm I just going to die now?\n\"Oh, I love that look on your face. Come on, show me more! Show me how much it stings to lose. Give me that I-want-to-live face.\"\nFukuzawa said gleefully.\nHer eyes were sparkling.\nShe really seemed to be having the time of her life.\nAs I stared at her, a pitch-black rage swelled up inside me.{p}",
+  "07:1ef10": "For now, I just ran.\nWith the ampoule in my hands, I had no more business in a place like this.\nBut Fukuzawa quickly stuck out her foot, and I tripped over it.{p}",
+  "07:1efe8": "A sharp, stabbing pain shot through my palm.\nThe shock of the fall had broken the ampoule.\nDesperately, I licked up the yellow liquid as it ran out with my blood.\nBehind me, Fukuzawa laughed.\n\"Kyahahaha, no use, no use.\nThey say you have to drink the whole dose of that antidote, or it's pointless.\nIf you only drink a little, it actually makes the poison work faster.\"{p}",
+  "07:1f118": "What?\nAs I tried to turn around, the strength drained softly out of me.\nMy body went numb.\nIs this the poison taking effect?\n\"It's working already? Lord Hino really is amaaazing.\"\nFukuzawa's delighted voice.\nBut by then, I couldn't even see her anymore.\nAfter I'd come this far...\nBefore I even had time to grind my teeth, my consciousness sank into darkness.{p}",
+  "07:1f324": "Then, in one swift motion, she drove it into my eye.\nA shock like a red-hot poker rammed all the way into the center of my brain.\nI couldn't even tell whether I was screaming or not.\nThe pain felt like my brain was being churned, and I could only writhe helplessly.\nThe next instant, the finishing blow came down on me.{p}",
+  "07:1f908": "Meeting nothing but air, I fell to the hallway floor.\nThe next instant, something burning hot was thrust into my neck.\nLike a switch had been flipped off, the strength drained out of my body.\nI can't stand...?\nAnd what is this?\nThis stuff flowing out of my neck...{p}",
+  "07:1fe80": "When I came to my senses, Kazama was lying right beside me.\nThe kitchen knife was buried deep in his chest.\nWhat an anticlimactic way to die.\nBut strangely, it seemed to suit Kazama.\nCome on, there's no time to dawdle.{p}",
+  "07:20298": "\"I'm so glad you asked.\nYou see, people build up this thing called stress.\nBut the elite must never let stress build up. So what do you do about it?\nThat's right. You eliminate anything that might cause you stress.\nYou kill every last person who makes you angry.\nThat way, stress never builds up, and whatever stress you have just naturally melts away.\nIt's fun. Is there any other method as wonderful as this?\"\n\"You're out of your mind.\"\n\"...Thank you. I'll take that as a compliment.\nOrdinary people never understand what a genius thinks. It's been that way in every age.\nNow, time to end this.\"{p}"
+ },
+ "notes": [
+  "07:1e2cc/1e2e0/1e2f4: EDIT - 3F boys' restroom menu has the same Japanese as the 2F menu (1d0ec/1d100/1d114); reworded to echo it exactly",
+  "07:1d1a8/1e364/1e41c: EDIT - stall follow-up lines unified with the menu wording ('far stall'/'near stall') on both floors; 2F near-stall line 1d260 already matched",
+  "07:1e22c: EDIT - 'That's enough of the third-floor...' -> 'That was enough...' to match its 2F echo 1cfc0 (same Japanese)",
+  "07:1e500: EDIT - 'What now?' -> 'What should I do?' to match identical prompt 1d344/1d6cc",
+  "07:1e9d8: EDIT - clumsy 'her shoe still on her foot' -> 'shoe and all'",
+  "07:1eb30: EDIT - Fukuzawa's taunt 'show me more and more of how much it hurts to lose. Make that I-want-to-live face' made spoken; 'said it gleefully' -> 'said gleefully'",
+  "07:1ef10: EDIT - stiff 'For the moment, I ran for it' and 'tripped over the foot Fukuzawa quickly stuck out' smoothed; 1efe8: 'liquid running out with my blood' -> 'as it ran out with my blood'",
+  "07:1f118: EDIT - repeated 'my body' trimmed; 'Without even time to grind my teeth' -> 'Before I even had time to grind my teeth'",
+  "07:1f324: EDIT - 'In pain like my brains were being churned' (and brains/brain mismatch) made clear; 1f908: 'And then, what is this?' -> 'And what is this?'; 1fe80: redundant 'strangely... somehow' trimmed",
+  "07:20298: EDIT - Hino's 'In every age, ordinary people never understand...' made natural; formal 'let's bring this to an end' -> 'time to end this' for his rough voice",
+  "07:1d40c/1d4c0/1d574/1d624/1e54c/1e5fc: KEEP - returns notes on present-tense 'I'll search somewhere else': reads as the player's inner resolve after 'No good.', matches the source and the chunk's other present-tense thoughts",
+  "todo Grudge Notebook vs Notebook of Grudges: KEEP - term does not occur in E014; leave for the chunk(s) that contain it",
+  "07:1d394-1d3bc: VOICE - 2F girls' restroom choices say 'far end' while follow-ups say 'back'; left because the 3F echo menu (07:10064 etc.) is outside this chunk; unify both together if desired"
+ ]
+}

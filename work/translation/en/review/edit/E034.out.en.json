@@ -1,0 +1,31 @@
+{
+ "rows": {
+  "16:0a0c": "\"...Um, somehow it just feels way too anticlimactic.\"{p}",
+  "16:1140": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"\n\"Yeah, that's right.\nI've gone and told three whole stories.\nWasn't the deal one story per person?\n{f:You must be|...Don't tell me you} {f:satisfied by now, right?|want to hear more?}\"\n\"...Well, {f:still,|um,} {f:um,|you know,} how do I put it... {f:I'd like you to tell me something a bit more concrete.|I want to hear something a bit more concrete.}\"{p}",
+  "16:5aa8": "The food at that cafeteria... tastes awful.\nThe distasteful story. The end.\n....................................................................................\nI-I wish I hadn't listened.\n\"That cafeteria's food really is awful, isn't it?{p}",
+  "16:7194": "\"Um, could you wait a moment?\"\n\"...Hm?\nWhat's wrong?\nLet's see, do you want to hear this story with just the two of us?\"\n\"That's not it...\nUm, Kazama, your story isn't something like 'the cafeteria food is awful'... is it?\"\n\"...Oh, so you knew too.\nThat's right.\nThat cafeteria's food is awful, isn't it?{p}",
+  "16:2b98": "There was no sign of anyone leaving the room.\nI hadn't heard the door open, either.\nBesides, it all happened in an instant.\nA person just vanishing like that... it was unthinkable.\nA chill ran down my spine.\nMaybe this is what true terror means.\nI was too stunned to move.{p}",
+  "16:3cc0": "\"Hey, {f:don't glare at me with that scary face.|you're in Class 1-E, right?}\n{f:I've|There, there}{f: carved precious time out of my last summer of high school| Next time}{f: to be here, you know.|, I'll come over to visit you.}\n{f:A ladies' man like me|Or}{f: blew off a date with some babe to come here.| would you rather hang out somewhere outside school?}\n...{f:Why don't you at least serve some tea|How about it}?\"{p}",
+  "16:4324": "The club room was engulfed in foul air.\nAgony.\nTo think that treatment this cruel could exist in this world.\nNow that I've known this agony, I can overcome any hardship the rest of my life may bring. {f:I|I} really believe that.\n{f:It's no good|It's no good}, I'm about to {f:pass out|pass out}...\nAh.\nAhh.\nAhhh......{p}",
+  "16:5d44": "Lo and behold, Kazama... popped out from under a desk.\n\"Hahaha, I only hid for a second.\nWhat a bunch of scaredy-cats.\"\nWith that, Kazama looked at me with a big grin.\n\"And you, {a}. Honestly, {a}.\nYou're in the newspaper club, so what are you doing getting spooked by a little thing like this?\"\n...K-Kazama...!\nIf I'd looked carefully, I'd have seen he was under the desk...\nThe others and I had let fear get the better of us, and we weren't paying attention.\nAh, I fell for Kazama's prank and ruined our seven wonders interview☆{p}",
+  "16:64d8": "\"{c}{f:|}... you see, it pains me to see {f:how utterly hopeless your attitude is|the attitude you take} when you listen to a story.\nA moment ago, you tried to wrap up my story so curtly.\nYou're a member of the newspaper club, aren't you?\n{f:If you can't express|You could have shown} at least the feeling of 'Thank you for that wonderful story...'{f:, what good are you|, couldn't you}?\n{f:Unless you're more sensitive|I think that way}{f:, you'll never make it big.| we'd both feel good.}\"\n...{f:Oh|Oh}, so in the end he's just saying I didn't thank him enough{f:.|.}\nNormally, I don't think that's the sort of thing you go demanding...\nIt can't be helped{f:.|.}\n\"Why, thank you so very much for that truly wonderful story.\nAnd not only that, I'm truly delighted that you even gave me such wonderful advice.\"\n...Ugh, he really is an exhausting person{f:.|.}{p}",
+  "16:6804": "\"Well, as long as you understand.\nIt's all for your sake.\nYou should cultivate your sensitivity by looking at things that are beautiful and noble.\n...I know, I'll give you something nice.\"{p}",
+  "16:080c": "Stay quiet for a while and see what happens",
+  "16:3120": "Stay quiet for a while and see what happens"
+ },
+ "notes": [
+  "16:080c/16:3120: EDIT - returns note: near-identical source choices aligned to one wording, restoring 'for a while' (shibaraku) on both",
+  "16:0a0c: EDIT - clumsy 'kind of way too anticlimactic' -> 'somehow it just feels way too anticlimactic'",
+  "16:1140: EDIT - male 'Well, but um,' -> 'Well, still, um,' (stumbling but readable)",
+  "16:19a4: KEEP - returns note: 'distasteful' carries the mazui pun; echoed in the punchline 16:5aa8 instead of rewriting 16:1c14 (whose 'tastes awful' already links to taste)",
+  "16:5aa8: EDIT - punchline 'The awful story' -> 'The distasteful story' to land the pun set up in 16:19a4; 'tastes awful'; 'That cafeteria's food really is awful' for consistency with 16:1c14",
+  "16:7194: EDIT - 'That cafeteria's awful' -> 'That cafeteria's food is awful', matching 16:1c14 (same line on the other path)",
+  "16:2b98: EDIT - redundant 'true terror really means' -> 'true terror means'",
+  "16:3cc0: EDIT - male 'The least you could do is serve some tea?' (statement with ?) -> 'Why don't you at least serve some tea?'",
+  "16:4324: EDIT - stiff trailing 'So I believe.' -> 'I really believe that.'",
+  "16:5d44: EDIT - 'If I'd looked carefully, I should have seen' -> 'I'd have seen' (conditional)",
+  "16:64d8: EDIT - female 'it pains me, the way you go about when you listen' was ungrammatical -> 'it pains me to see the attitude you take when you listen'; male parallel",
+  "16:6804: EDIT - 'No, as long as you understand.' -> 'Well, as long as you understand.' (natural reply to thanks)",
+  "16:1bb0/16:7164: KEEP - 'Wait a minute' vs 'Wait' reflect different source (matte vs matte-tte); left as is"
+ ]
+}

@@ -1,0 +1,434 @@
+{
+ "slice": "S112",
+ "scene": "28",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S111",
+ "next": "S113",
+ "todo": [],
+ "rows": [
+  {
+   "id": "28:5444",
+   "op": "choice",
+   "en": "Don't answer; let it ring"
+  },
+  {
+   "id": "28:5470",
+   "op": "text",
+   "follows_choice": [
+    "28:5438"
+   ],
+   "en": "{f:I|I} picked up the receiver.\n\"...Hello, this is {a}.\"\n\"Oh, {a}{f:|}? It's me!\"\n\"Huh?\"\nThe voice was strangely overfamiliar.\nWho on earth was it?\n\"Aw, come on, have you forgotten me already? We were together just a little while ago.\"{p}"
+  },
+  {
+   "id": "28:556c",
+   "op": "text",
+   "en": "\"Oh! Hosoda.\"\n\"Wow, you remembered me. That makes me happy.\nActually, there's something I want to talk to you about. Will you hear me out?\"\n\"Uh, s-sure...\"\n\"Thanks. I just knew you'd hear me out.\nYou remember Mr. Kuroki's story from earlier, right?\"\n\"Yes.\"\n\"Well, even after I got home, I couldn't stop thinking about that wall.\nWhether there really is an air-raid shelter behind it, you know?\"{p}"
+  },
+  {
+   "id": "28:56d8",
+   "op": "text",
+   "en": "...Had Hosoda really gone to the trouble of calling just to tell me that{f:?|?}\nAnd how did {f:he|he} know {f:my|my} phone number?\n{f:I|I} was sure I had never {f:given|given} it to him.\n\"...Hello? Hello?\nWhat's wrong? Are you listening?\"\n\"Oh, uh, yes.\"\n\"So, this is hard to ask, but what do you say?\nWhy don't we go together, right now, and check what's behind that wall?\"\n\"What?! Right now?\"\nWhat on earth was he {f:going on about|talking about}?\nIt was almost eleven o'clock, and he wanted to go to school now...?{p}What should I do?\nHow should I {f:answer|answer}?\n"
+  },
+  {
+   "id": "28:5930",
+   "op": "choice",
+   "en": "Let's do it tomorrow"
+  },
+  {
+   "id": "28:5944",
+   "op": "choice",
+   "en": "Sorry, but I'm not interested"
+  },
+  {
+   "id": "28:5964",
+   "op": "choice",
+   "en": "All right. I'll come now"
+  },
+  {
+   "id": "28:5984",
+   "op": "text",
+   "follows_choice": [
+    "28:5930"
+   ],
+   "en": "\"...Um, it's already late tonight, so why don't we do it tomorrow?\"\nI thought that would get me off the hook.\nI had no intention whatsoever of doing it tomorrow; I thought I'd turned him down politely.\nBut on the other end of the line, Hosoda got worked up and raised his voice.\n\"What are you talking about, {a}?! Tomorrow's too late!\nIf we go there in the daytime, how are we supposed to see what's behind the wall?\nIt has to be at night! Now's our only chance!\"\nHosoda's voice was strangely rough.\nI could even hear his heavy breathing clearly.{p}...What should I do?\n"
+  },
+  {
+   "id": "28:5b68",
+   "op": "choice",
+   "en": "All right. I'll come now"
+  },
+  {
+   "id": "28:5b88",
+   "op": "choice",
+   "en": "Give it a rest, please. I'm sleepy!"
+  },
+  {
+   "id": "28:5bb0",
+   "op": "choice",
+   "en": "Tell him to go alone and hang up"
+  },
+  {
+   "id": "28:5bd8",
+   "op": "text",
+   "follows_choice": [
+    "28:5964",
+    "28:5b68",
+    "28:17888",
+    "28:17a90"
+   ],
+   "en": "\"...All right. I'll come now.\"\nEven if I turned him down here, Hosoda would surely keep pestering {f:me|me} until I {f:gave|gave} in.\nLeft with no choice, {f:I|I} gave him that answer.\n\"Thank you!\nThank you, {a}{f:|}!\nI just knew you'd say that!\nWell then, I'll be waiting at the school gate an hour from now. See you there!\"\n\"Ah, wait a minu...\"{p}"
+  },
+  {
+   "id": "28:5d50",
+   "op": "text",
+   "en": "As soon as he'd said all he wanted to say, Hosoda hung up.{p}"
+  },
+  {
+   "id": "28:5da8",
+   "op": "text",
+   "en": "\"...{f:Oh, man|Oh, great}.\"{p}"
+  },
+  {
+   "id": "28:5dd8",
+   "op": "text",
+   "en": "{f:I|I} sighed and put down the receiver.\n{f:I|I} really was a pushover{f:.|.}\nWho'd have thought I'd get called out to school at this hour, and actually {f:agree|agree} to it?\nAnd on a day like this, of all days...{p}"
+  },
+  {
+   "id": "28:5ebc",
+   "op": "text",
+   "en": "Had {f:my|my} nerves gone numb{f:?|?}\nAnyone normal would be scared out of their wits{f:,|,} wouldn't they?\nOr had hearing all those scary stories {f:made|made} me lose it{f:?|?}\nThinking about all that, {f:I|I} headed for school.{p}"
+  },
+  {
+   "id": "28:5fcc",
+   "op": "text",
+   "en": "I didn't think I was late, but Hosoda was already waiting at the school gate.\n\"{a}{f:|}!\"\nWhen Hosoda spotted {f:me|me}, he came running over, looking delighted.\nA big bag hung from his shoulder.\nWhat on earth could be in it{f:?|?}\n\"Come on, let's go to the old school building.\nAnd find out what's behind that wall!\"\nHosoda's eyes were gleaming wildly.\nWhy he was so obsessed with this that he'd go to such lengths, {f:I|I} couldn't understand.{p}"
+  },
+  {
+   "id": "28:6194",
+   "op": "text",
+   "en": "{f:We|We} headed for the old school building.\nWas Mr. Kuroki asleep by now{f:?|?}{p}"
+  },
+  {
+   "id": "28:6210",
+   "op": "text",
+   "en": "At midnight, the old school building was as eerie as if a devil lived there{f:.|.}\nHosoda had come well prepared; he'd even brought a flashlight.\nThe flashlight lit up the grimy wall.\n\"...It was around here, I think. ...There it is!\"{p}"
+  },
+  {
+   "id": "28:62f4",
+   "op": "text",
+   "en": "Sure enough, the wall was a different color.\nMaybe this was the spot.\n\"Right.\"\nHosoda lowered the big, heavy-looking bag from his shoulder and set it on the floor.\nJudging by the way the floor creaked, it had to be really heavy.\nWhen he unzipped it, a lump of metal emerged from inside.\n\"Hosoda, this is...!\"\n{f:I|I} couldn't help crying out.\nHosoda smiled happily and took the lump out.{p}"
+  },
+  {
+   "id": "28:6458",
+   "op": "text",
+   "en": "\"Heh heh... My dad's hobby is DIY, see.\nSo I borrowed his power saw.\"\n{f:I|I} was left gaping.\nSurely he wasn't going to hack this wall apart with a power saw{f:?|?}{p}What should {f:I|I} do?\n"
+  },
+  {
+   "id": "28:6538",
+   "op": "choice",
+   "en": "Stop him"
+  },
+  {
+   "id": "28:6540",
+   "op": "choice",
+   "en": "Keep quiet and watch"
+  },
+  {
+   "id": "28:6564",
+   "op": "text",
+   "follows_choice": [
+    "28:6538"
+   ],
+   "en": "\"Hosoda, stop it!\"\nHosoda shoved {f:me|me} away with tremendous force.\n\"What do you think you're doing?!\nWe're about to see an incredible secret!\nI can feel it, you know! I can really feel it!\nA mighty grudge is swirling around in there!\nNothing but bad things have happened at this school since way back.\nThere's an evil spirit here!\nAnd it's sleeping in there!\nHyaaaaaa-hahahahaaa!\"\n\"...Hosoda.\"\n{f:I|I} couldn't stop him anymore.\nCaught in the round glow of the flashlight, Hosoda's eyes were bloodshot, and he was cackling.{p}"
+  },
+  {
+   "id": "28:6784",
+   "op": "text",
+   "en": "The power saw switched on, and the motor's whine, like a woman's shriek, blew the silence apart.\n\"Hyahhahha!\"\nHosoda raised it high and slashed into the wall without a moment's hesitation.{p}"
+  },
+  {
+   "id": "28:6840",
+   "op": "text",
+   "en": "With a furious grinding, the wall crumbled away easily.\nWithout the slightest resistance, the wall laid its innards bare.\n...It was too dark to see well.{p}"
+  },
+  {
+   "id": "28:68e4",
+   "op": "text",
+   "en": "Hosoda didn't care; he kept swinging the saw around, widening the hole in the wall.{p}"
+  },
+  {
+   "id": "28:6948",
+   "op": "text",
+   "en": "\"Gyaaah!\"\nSuddenly, Hosoda was blown backward.\nThe power saw, still running as if alive, went flying and danced around, bouncing across the floor.\n\"Hosoda!\"\n{f:I|I} hurriedly picked up the flashlight and shone it on Hosoda's face.\n\"{f:Whoa|Eek}!\"\n{f:I|I} fell right on my backside, my legs giving out beneath me.{p}"
+  },
+  {
+   "id": "28:6a88",
+   "op": "text",
+   "en": "Hosoda's face was so badly burned it was no longer recognizable, and faint wisps of steam rose from it.\nAs if he'd been hit by a flamethrower at close range...\nWas this hellfire...?\nBut I hadn't seen any fire...\n\"Ugh... ah...\"\nEven so, Hosoda was still alive.\nBlood flowing from burned, torn-apart vessels dripped onto the gooey, melted shreds of flesh.\nAnd he was trying to scoop that blood up and put it back, with hands that were burned raw too, white bone showing here and there.\nBut his palms were already riddled with holes and could not hold the blood; every effort ended, uselessly, in vain.\n\"...Look what you've done.\"\nA voice rang out behind me.{p}"
+  },
+  {
+   "id": "28:6cc4",
+   "op": "text",
+   "en": "When I turned around, Mr. Kuroki was there.\nMr. Kuroki was glaring fixedly at the gaping hole.\n\"...Sir.\"\nEven when {f:I|I} called out to him, he didn't seem to hear.\n\"...The soldiers will come out.\nTo teach a lesson to the fools of today, who sit back so smugly on top of their corpses.\"\nMr. Kuroki didn't so much as glance at Hosoda or {f:me|me}.\nThen he walked slowly toward the power saw and picked it up as it thrashed about.\nAnd he raised it high.{p}"
+  },
+  {
+   "id": "28:6ea0",
+   "op": "text",
+   "en": "\"Die!\"\nWith that, the teacher turned to face {f:me|me}.\n\"M... Mr. Kuroki...\"\nI tried to scream, but only a trembling voice as faint as a mosquito's whine came out.\nThe teacher took aim at {f:me|me} and raised the power saw high.\n...{f:Did|No way... Did} {f:he take me for a soldier|I look like a soldier's ghost to him}?\nThe wall the power saw had hacked apart gaped open like a devil's mouth.\nWhat was {f:inside|inside} that hole{f:?|?}\nWas there really an air-raid shelter {f:in there|in there}...?\nWithout ever finding out, {f:I|I} would fall prey to those sharp teeth and lose my life in just a few more seconds.\nBehind the teacher, his hair flying wildly, a host of soldiers' ghosts rose up... or was that {f:just my imagination|just my imagination}...?{p}"
+  },
+  {
+   "id": "28:7148",
+   "op": "text",
+   "en": "{f:I|I} had laid hands on something forbidden{f:.|.}\nA world humans are better off not knowing...{p}"
+  },
+  {
+   "id": "28:71bc",
+   "op": "text",
+   "en": "The sharp teeth that cut flesh and crush bone came swinging down on {f:my|my} head.{p}"
+  },
+  {
+   "id": "28:7200",
+   "op": "text",
+   "follows_choice": [
+    "28:18dc"
+   ],
+   "en": "\"Well, actually... um, you see, {f:we|we}... uh, hmm...\"\n{f:I|I} desperately tried to think of an excuse.\nBut nothing came to mind on the spot.\nMr. Kuroki glared at {f:me|me}.\n\"It's no use trying to fool me.\nDon't do something so cowardly!\"\nHe bellowed it at me.\n{f:I|I} shrank back in spite of myself.\n\"I-I'm {f:sorry|sorry}...\"\n\"You'll tell me what you were up to, won't you?\"\nThere was no way I could lie to this teacher.\n{f:I|I} decided to tell the truth.{p}"
+  },
+  {
+   "id": "28:73d4",
+   "op": "text",
+   "follows_choice": [
+    "28:21e8"
+   ],
+   "en": "\"No... I'll pass.\"\n{f:I|I} shook my head.\nHe might be understanding, but he was still a teacher{f:.|.}\nScolding {f:us|us} was one thing, but actually joining in with us?\nWasn't he getting a little too carried away{f:?|?}\nBesides, I had a bad feeling about this{f:.|.}\nSo much had already happened today{f:.|.}\nIt was more than enough for one day's worth of experience, {f:wasn't it|wasn't it}?\nI'd had enough{f:.|.}\n\"{f:Sorry|Sorry}... {f:We're|We're} going home now.\"{p}"
+  },
+  {
+   "id": "28:75b4",
+   "op": "text",
+   "en": "As {f:I|I} bowed my head and said so, the teacher looked at me with disappointment.\n\"I see... It's an interesting story, though.\"{p}"
+  },
+  {
+   "id": "28:7624",
+   "op": "text",
+   "en": "\"Is it more interesting than Hanako-san?\"\nHosoda asked.\nHe must {f:really|really} love this kind of story.\nHis eyes were sparkling with anticipation.\n\"Sure it is.\nAfter all, it really happened.\"\nThe teacher nodded.{p}"
+  },
+  {
+   "id": "28:7710",
+   "op": "text",
+   "en": "\"I want to hear it.\nHey, {a}{f:|}, why don't we listen to his story?\nIt's a rare chance, after all.\"\n\"Uh...\"\n{f:I|I} hesitated.{p}What should I do?\n"
+  },
+  {
+   "id": "28:77a4",
+   "op": "choice",
+   "en": "I don't want to hear it"
+  },
+  {
+   "id": "28:77b4",
+   "op": "choice",
+   "en": "I don't mind hearing it"
+  },
+  {
+   "id": "28:77c4",
+   "op": "text",
+   "follows_choice": [
+    "28:77a4"
+   ],
+   "en": "\"But it's already late. Let's leave it for tomorrow after all.\"{p}"
+  },
+  {
+   "id": "28:7804",
+   "op": "text",
+   "en": "\"What, you're such a buzzkill.\"\nHosoda sulked.\n\"Then you can go home by yourself, {a}{f:|}.\nPlease tell us, sir.\"\n\"Sure, why not.\"\nThe teacher nodded casually.\nHosoda turned to {f:me|me}.{p}"
+  },
+  {
+   "id": "28:78e0",
+   "op": "text",
+   "en": "\"Bye then, {a}{f:|}. See ya.\"\nEasy for him to say...{p}Was it really okay for me to go home alone{f:?|?}\n"
+  },
+  {
+   "id": "28:795c",
+   "op": "choice",
+   "en": "He said I can, so go home"
+  },
+  {
+   "id": "28:7978",
+   "op": "choice",
+   "en": "Stay and listen after all"
+  },
+  {
+   "id": "28:798c",
+   "op": "text",
+   "follows_choice": [
+    "28:795c"
+   ],
+   "en": "{f:I|I} decided to go home.{p}"
+  },
+  {
+   "id": "28:79b0",
+   "op": "text",
+   "en": "It was a shame to miss the story, but I had a feeling it was for the best{f:.|.}{p}"
+  },
+  {
+   "id": "28:7a0c",
+   "op": "text",
+   "en": "Once I got home, that premonition grew more and more certain.\nSomething bad was going to happen.\nSomething evil was lurking in that school.\n{f:I told myself it was ridiculous.|Maybe I was being ridiculous.}\nA lot had happened today{f:.|.}\nThat was why my nerves were on edge{f:.|.}\nBut even telling myself that, the unease wouldn't go away.\nWhat was wrong with me{f:?|?}{p}"
+  },
+  {
+   "id": "28:7b54",
+   "op": "text",
+   "en": "Carrying that nameless unease, {f:I|I} didn't sleep a wink until morning came.\nIgnoring my family, who were surprised to see {f:me|me} up on my own, I dashed out of the house.\nEven in the morning sun, the unease didn't fade.\nSomething must have happened.\n{f:I|I} just knew it.{p}"
+  },
+  {
+   "id": "28:7c70",
+   "op": "text",
+   "en": "...The school was just as usual, almost disappointingly so.\nNo students making a fuss, no police cars.\nSeeing that, {f:I|I} felt a little embarrassed.\nWhat had I expected to happen{f:?|?}\nI felt as if I'd only just woken from a long, long dream.\nYesterday must have shocked me more than I'd realized{f:.|.}\nThat was why I'd made such a fuss over {f:nothing|nothing}.\nI had to apologize to Hosoda and the others.{p}"
+  },
+  {
+   "id": "28:7e34",
+   "op": "text",
+   "en": "{f:I|I} went to the second-year classroom.\nBut Hosoda hadn't come in.\nThe second-year who told me so looked puzzled.\n\"Weird. He was always so proud of never being late or absent.\"\nMaybe he'd stayed at the old school building late last night and was short on sleep{f:?|?}\nMr. Kuroki had seemed like a pretty fun-loving guy, too.\nWhen {f:I|I} said that, the senior frowned.\n\"Kuroki? Who's that? He's not a teacher here.\"\n\"Huh? But... wasn't he on night duty?\"\n\"Never heard of him.\nI'm pretty sure there's no teacher called Kuroki at our school.\"\n{f:I|I} had no idea what was going on.{p}"
+  },
+  {
+   "id": "28:8058",
+   "op": "text",
+   "en": "...In the end, Hosoda never came.\nNow I couldn't stop wondering about Mr. Kuroki.\nAfter school, {f:I|I} worked up my nerve and went looking for my homeroom teacher.{p}"
+  },
+  {
+   "id": "28:80f8",
+   "op": "text",
+   "en": "The teacher was in the connecting corridor.\n\"Mr. Kuroki?\"\nAs the teacher heard {f:my|my} story, the teacher's expression clouded over.\n\"Nobody's seen Hosoda since last night, either... I feel like something bad is happening.\"\nIn answer to {f:my|my} plea, the teacher spoke.\n\"Just forget about it...\"\nFor a moment, I couldn't believe my ears.{p}"
+  },
+  {
+   "id": "28:8210",
+   "op": "text",
+   "en": "\"Maybe you have a strong sixth sense, {a}.\nYou've found out something an ordinary student wouldn't notice.\nTake my advice and forget it.\"{p}"
+  },
+  {
+   "id": "28:828c",
+   "op": "text",
+   "en": "What was the teacher {f:saying|saying}?\nForget it?\nWhen Hosoda might have been dragged into something terrible?{p}"
+  },
+  {
+   "id": "28:82f8",
+   "op": "text",
+   "en": "It wasn't just Hosoda.\nThere were the people who had disappeared, too.\nAnd yet...\nThe teacher didn't seem the least bit surprised.{p}"
+  },
+  {
+   "id": "28:836c",
+   "op": "text",
+   "en": "As {f:I|I} stood there stunned, the teacher went on.\n\"There's no teacher named Kuroki at this school.\nBut Mr. Kuroki definitely exists.\"\n\"...What do you mean?\"\n\"Mr. Kuroki is... a {g}'Thing' that has lived in this school since long ago.\"\nWith that, the teacher explained.{p}"
+  },
+  {
+   "id": "28:849c",
+   "op": "text",
+   "en": "That since long before the new school building was built, strange incidents had been happening at this school.\nAnd that a person called {g}\"Mr. Kuroki\" was always involved in those incidents.\nBut Mr. Kuroki was not human.\nHe was a mysterious being who spirited students and teachers away to who knows where.{p}"
+  },
+  {
+   "id": "28:85a4",
+   "op": "text",
+   "en": "\"Something that infests this school, or the school's own will... That's what I suspect it is, anyway.\"\nThe teacher gave {f:me|me} a pat on the shoulder.\n\"That can't be...\"\nI couldn't believe it.\nBut in a way, it also made a strange kind of sense.{p}"
+  },
+  {
+   "id": "28:8698",
+   "op": "text",
+   "en": "They say the seven wonders handed down at this school come in dozens of versions, depending on who tells them.\nEven for an old school, I'd thought that was far too many.\nBut if that was the case, I could understand it.\nAll those incidents had been Mr. Kuroki's doing{f:.|.}\nBeing told they were one connected chain of events felt more right than being told they were dozens of unrelated happenings.{p}"
+  },
+  {
+   "id": "28:87fc",
+   "op": "text",
+   "en": "But...\n{f:Wait a minute|Hold on}.\n{f:I|I} realized something.{p}"
+  },
+  {
+   "id": "28:8860",
+   "op": "text",
+   "en": "\"Sir... So does the school know about Mr. Kuroki?\"\n\"No, most of the teachers probably don't.\nI'm a graduate of this school, you see.\nI found out about Mr. Kuroki while I was a student here.\nThat's why I came back as a teacher.\"\nI couldn't accept that explanation.\nI mean, there were just far too many incidents{f:.|.}\nI couldn't believe the other teachers {f:hadn't|hadn't} noticed.\nSo {f:I|I} asked.\n\"Hasn't the principal noticed either?\"\nAt that, the teacher held a finger to the lips.\n{f:That must have meant|It meant} 'Be quiet.'\nA small voice, almost a whisper.\n\"Several incidents happen every year, but the number of new students never drops, right?\nApparently, if we look the other way while Mr. Kuroki takes a few, hundreds of times that many students enroll.\"\n\"So... that's why you leave Mr. Kuroki alone?\"\nThe teacher nodded.\nWas it something like a zashiki-warashi, the spirit said to make a house prosper{f:?|?}\nBut I'd never heard of a zashiki-warashi that wanted sacrifices{f:.|.}\nWas it really okay not to tell the police{f:?|?}\nI suddenly noticed the teacher was standing right next to me.\nAs if reading {f:my|my} thoughts, the teacher gave a quiet shake of the head.\n\"You must not go against this school.\nI don't know what happened to the people who vanished... but this is something that can cover up incidents like that without batting an eye.\"{p}"
+  },
+  {
+   "id": "28:8d1c",
+   "op": "text",
+   "en": "The moment those words were spoken, the windowpane beside us gave a sharp crack.{p}"
+  },
+  {
+   "id": "28:8d60",
+   "op": "text",
+   "en": "When I looked, a crack had appeared in it.\nWhat {f:timing|timing}.\nIt was as if the school were threatening {f:me|me}.{p}"
+  },
+  {
+   "id": "28:8dec",
+   "op": "text",
+   "en": "\"{a}, stop this pointless prying.\"\nThe teacher hurriedly grabbed {f:my|my} shoulder.\nThe teacher's face had gone pale.\n\"B-but...\"\n\"Do you want to die★\"{p}"
+  },
+  {
+   "id": "28:8e9c",
+   "op": "text",
+   "en": "Crack-crack!\nThe crack grew.\nFine cracks ran across the entire pane.\nIt was a wonder it didn't shatter to pieces{f:.|.}\nThe evening sun glinted off the glass, now white and opaque, in every direction.\nFor an instant, it made me think of a fierce stare that pinned me where I stood.{p}"
+  },
+  {
+   "id": "28:8f8c",
+   "op": "text",
+   "en": "And then I understood.\nThe teacher was right{f:.|.}{p}"
+  },
+  {
+   "id": "28:8fd4",
+   "op": "text",
+   "en": "{f:I|I} nodded slowly.\n\"I understand... I'll forget all about this.\"\n\"Good.\"\nThe teacher smiled, looking relieved.{p}"
+  },
+  {
+   "id": "28:906c",
+   "op": "text",
+   "en": "The next instant, the glass shattered and spilled to the ground like a waterfall.\nThe high, clear sound of breaking rained down on {f:me|me}.\nAs if frozen time had suddenly started moving again.\nListening to it, {f:I|I} was overcome with a sense of defeat.\n{f:I|I} had lost{f:.|.}\nTo this school.\nTo Mr. Kuroki, lurking in that darkness... no, to something even more evil.\nBut maybe I should be glad that at least I hadn't been swallowed by the darkness like Hosoda.\nForcing myself to believe that, {f:I|I} set off walking with the teacher.\n...Behind my back, I heard someone's mocking laughter.{p}"
+  },
+  {
+   "id": "28:9258",
+   "op": "text",
+   "follows_choice": [
+    "28:77b4",
+    "28:7978"
+   ],
+   "en": "\"All right. Let's hear it.\"\n{f:I|I} nodded.{p}"
+  },
+  {
+   "id": "28:92a8",
+   "op": "text",
+   "en": "\"That's our {a}{f:|}!\"\nHosoda looked {f:pleased|pleased}.{p}"
+  },
+  {
+   "id": "28:92f4",
+   "op": "text",
+   "en": "\"I see, so you want to hear it... Then maybe I'll tell you.\"\nAs Mr. Kuroki said that, his eyes seemed to flash darkly for an instant.\nBut before I could be sure, he spun around and turned his back to us.{p}"
+  },
+  {
+   "id": "28:93b0",
+   "op": "text",
+   "follows_choice": [
+    "28:28c8"
+   ],
+   "en": "That's right, there was a classroom back there.\nJust an ordinary classroom, you ask?\n...No, of course not.\nIn the middle of the classroom floor, there was a trapdoor.{p}"
+  },
+  {
+   "id": "28:9444",
+   "op": "text",
+   "en": "Beneath it was an air-raid shelter.\nA small one, only big enough for five or six people at most.\nMaybe nobody ever seriously meant to use it.\nEven at thirty to a class, by the numbers five out of six wouldn't make it.\nApparently there was a proper shelter for the students somewhere else.\nSo even though it was wartime, it had never actually been used.\nYes... not until that day...{p}"
+  },
+  {
+   "id": "28:95d4",
+   "op": "text",
+   "en": "During the war, there were often air raids around here too.\nWhat did people do at times like that, you ask?\nThere was nothing they could do.\nThe enemy was in airplanes.\nAll they could do was hide in a shelter and wait for them to pass.{p}"
+  },
+  {
+   "id": "28:9694",
+   "op": "text",
+   "en": "One day, the students were at work making ammunition.\nIt may have been a school, but during the war they were apparently made to do nothing but that kind of work instead of studying.\nThen the air-raid siren went off.\nEveryone hurried to the shelter as usual.{p}"
+  },
+  {
+   "id": "28:9774",
+   "op": "text",
+   "en": "But just then, there was an explosion nearby.\nA bomb had scored a direct hit on the school building.{p}"
+  },
+  {
+   "id": "28:97e0",
+   "op": "text",
+   "en": "When they came to, most of their classmates were no longer moving.\nFewer than ten had survived.\nWorse, the way out of the building was buried in rubble and impassable.\nThey were trapped inside the school.\nAnd enemy planes were still overhead.\nWere they just going to wait for the next bomb to fall...? Just as they were thinking that, someone said something.{p}"
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "slice": "S186",
+ "scene": "47",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S185",
+ "next": "S187",
+ "todo": [
+  "- SCE46/SCE47 have zero {f}/{c} codes, so they are male-only routes. S184 avoided pronouns for {a}; revise it to \"he\" to match S185."
+ ],
+ "rows": [
+  {
+   "id": "47:7080",
+   "op": "text",
+   "follows_choice": [
+    "47:6cf0"
+   ],
+   "en": "Okay, okay.\nDon't get so mad.\nI'll tell you about the old school building.{p}"
+  },
+  {
+   "id": "47:70c8",
+   "op": "text",
+   "follows_choice": [
+    "47:1d64"
+   ],
+   "en": "\"There you go again, just saying any old thing...\"\nOops, now he's fed up with me.\nAnd it was only a joke.{p}"
+  },
+  {
+   "id": "47:7138",
+   "op": "text",
+   "en": "\"The flower bed's still there, isn't it?\nEvery year the hydrangeas bloom so beautifully.\nBright red hydrangeas...\nDid you know?\nThose flowers bloom red by sucking up human blood.\"\nHeh, that's such a common story.\nHuh? Wait, wasn't it cherry trees that have corpses buried under them?\n\"You don't seem to take me seriously, but a lot of people really have died there.\nEven members of the gardening club have died, you know.\"{p}"
+  },
+  {
+   "id": "47:72bc",
+   "op": "text",
+   "en": "Even when he tells me that, it just doesn't click for me.\nThat flower bed isn't very big, and it's well tended but totally ordinary. It doesn't seem like a place with that kind of dark history at all.\n\"Hmm, I can tell from your face you don't believe me.\nForget it.\nI was going to ask you to do a certain interview, but at this rate, there's no way it'd make a good article.\"\nWhaaat★\nIf that's the case, you should've said so first!\nThen I would've answered more seriously...\nIs it too late now?\nBut just as I thought that, {a} was already packing up to go home.\n\"Sorry for making you come all this way today.\nWell, good work.\"{p}"
+  },
+  {
+   "id": "47:751c",
+   "op": "text",
+   "en": "With that, he shut the club room door like he was throwing me out.\nUgh, if I'd known, I would've gone to cram school.\nIf I get home this early, they'll find out I skipped!{p}"
+  },
+  {
+   "id": "47:75d0",
+   "op": "text",
+   "en": "Let's see, maybe I'll take a walk on the way home...\nIt might be fun to have a look at that flower bed everyone talks about.\nUm, I'm pretty sure it was behind the gym...{p}"
+  },
+  {
+   "id": "47:7660",
+   "op": "text",
+   "en": "Yep, I was right.\nThe hydrangea season's almost over, but the red flowers are in full bloom.\nThe color of hydrangea flowers changes with the soil they grow in, you know.\nBlue if it's alkaline, and if it's acidic... red.\nSaying they suck up human blood... As a story, that's way too common. Nobody could expect me to believe it.\nOh?\nThere's something under the flowers.\nIt looks like a red umbrella.\nDid someone forget it? It still looks brand new.\nI'll just touch it a little.\nI pick up the umbrella ever so gently...\nWhat a vivid red.\nOh, there's a name written on the handle.\nUm... Yukari Tachibana...?\nIs that how you read it?\nI've never heard the name. Is she in the gardening club?{p}"
+  },
+  {
+   "id": "47:78a8",
+   "op": "text",
+   "en": "(...Hateful.){p}"
+  },
+  {
+   "id": "47:78c8",
+   "op": "text",
+   "en": "Wh-what?\nDid I just hear a voice...?{p}"
+  },
+  {
+   "id": "47:78f8",
+   "op": "text",
+   "en": "(...Hateful.){p}"
+  },
+  {
+   "id": "47:7918",
+   "op": "text",
+   "en": "S-see, I knew it!\nBut why... it's starting to sound more and more like my own voice.{p}"
+  },
+  {
+   "id": "47:7964",
+   "op": "text",
+   "en": "(...Hateful, ...hateful! ...Hateful☆){p}"
+  },
+  {
+   "id": "47:79a4",
+   "op": "text",
+   "en": "I'm getting really irritated.\nI won't stand for it anymore!\nThat person doesn't understand how I feel at all!\nI hate them!\nI hate them so much!{p}"
+  },
+  {
+   "id": "47:7a24",
+   "op": "text",
+   "en": "(I want to kill them!)\nYes, I hate them so much I want to kill them!{p}"
+  },
+  {
+   "id": "47:7a78",
+   "op": "text",
+   "en": "Just then!\n\"Oh, Taguchi, so you were here after all.\nAfter that story, right?\nI figured you'd come here.\"\nIt was {a}.\n\"The thing is... um... hmm, how do I put this...\"\nWhat is he trying to say?\nHe's fidgeting and can't keep still.{p}"
+  },
+  {
+   "id": "47:7b80",
+   "op": "text",
+   "en": "Can't he look me in the eye when he talks?\nI knew it. He doesn't care how I feel at all...\nThe moment I thought that!{p}"
+  },
+  {
+   "id": "47:7be0",
+   "op": "text",
+   "en": "\"I'll kill you☆\"\nI...\nI brought the umbrella down at {a}'s throat.\nAgain and again...\nWhen I came to, I was in a sea of blood.\nHe was lying there beside me...\n(Heh heh. Now then, it's your turn to die.){p}"
+  },
+  {
+   "id": "47:7cb8",
+   "op": "text",
+   "en": "That's not my voice!\nBut it was different from the voice I heard before, too.\nWhose voice was that?\nWhy should I have to die?\nOh, but my hands are gripping the umbrella on their own.\nThey press its tip right up against my throat...\nIt's not me doing this.\nI don't want to die!\nBut... I killed {a}, didn't I?\nMaybe I have to die after all.\nWhy did I kill him?\nWhat was he trying to tell me back then?\nAll sorts of things are spinning around in my head.\nSo it's true that right before you die, your whole life flashes before your eyes like a revolving lantern.{p}"
+  },
+  {
+   "id": "47:7ea8",
+   "op": "text",
+   "en": "It hurts☆\nMy throat burns with pain!\nThe sound of bones shattering echoes deep inside my ears.\nIt seems the tip of the umbrella went right through my neck.\nLukewarm liquid is gushing down my back.\nSo you can still be conscious even like this.\nBut somehow I feel sleepy.\nI'm going to fall asleep like this forever.\nAnd the last voice I heard was...{p}"
+  },
+  {
+   "id": "47:7fd4",
+   "op": "text",
+   "en": "(Hee hee hee... I'm so happy. Now beautiful flowers will bloom again. Lots and lots of beautiful, beautiful red flowers will bloom. Just like when I died...)\nSo it was the ghost of someone from the gardening club.{p}"
+  },
+  {
+   "id": "47:8088",
+   "op": "text",
+   "follows_choice": [
+    "47:1df0"
+   ],
+   "en": "\"Oh, yes.\nI know about it.\"\nA teacher told me about it before.\nWhen they tore down the old school building, human skeletons turned up and it caused a huge uproar.\nBut I don't know the details very well.\n\"Um, you mean the skeletons turning up?\"\n\"Right.\nThat story's famous, isn't it?\nPeople said all sorts of things, like there was an air-raid shelter under the old school building, or that there were lots of bodies of war dead around there.\"\nHe seems kind of excited.\nHe's talking with sweat on his nose.{p}"
+  },
+  {
+   "id": "47:8220",
+   "op": "text",
+   "en": "...Taguchi, do you know about this?{p}"
+  },
+  {
+   "id": "47:8244",
+   "op": "text",
+   "en": "When they tore down the old school building, a lot of accidents happened.\nPeople said it was the curse of the skeletons, and some pretty large-scale purification rites were held.\nBack then, I'd been assigned to write an article about the school's seven wonders.\nAt the time, I had my own senior, a guy named Hino, gather people who knew a lot about the school's seven wonders.{p}"
+  },
+  {
+   "id": "47:8358",
+   "op": "text",
+   "follows_choice": [
+    "47:2160"
+   ],
+   "en": "Don't say that.{p}"
+  },
+  {
+   "id": "47:8374",
+   "op": "text",
+   "follows_choice": [
+    "47:289c"
+   ],
+   "en": "I see.\nI knew you'd say that.\nThen I'll gather seven people who know a lot about the school's seven wonders.\n...Let's see, the day after tomorrow would be good.\nCould you come to the club room again the day after tomorrow?\nI'll have everything settled with the seven of them by then.{p}"
+  },
+  {
+   "id": "47:8464",
+   "op": "text",
+   "en": "\"...All right.\"\nHe's sure well prepared.\nHad he been planning this from the start, assuming I'd accept?{p}"
+  },
+  {
+   "id": "47:84cc",
+   "op": "text",
+   "follows_choice": [
+    "47:28a8",
+    "47:2bc4"
+   ],
+   "en": "\"What★\nNo, that won't do.\nThis is an order from your senior.\"{p}"
+  },
+  {
+   "id": "47:8518",
+   "op": "text",
+   "en": "Geez, he only acts like my senior at times like this...\nBut I absolutely don't want to!\nI'm no good with scary stuff.\n\"I don't want to.\"\n\"Don't say that.\nThis is all for your own good.\nOh, I know, have this.\nDon't be shy, drink up.\"{p}"
+  },
+  {
+   "id": "47:85e0",
+   "op": "text",
+   "en": "With that, he brought out some juice for me.\n\"Is it really okay to use the newspaper club's equipment for something like that?\"\nHe'd been hiding juice in the newspaper club's fridge for storing film.\n\"Aw, don't be so uptight. Look, it's nice and cold.\nWhich one do you want?\"\nThe juice wasn't in cans, but in mini plastic bottles.{p}"
+  },
+  {
+   "id": "47:8730",
+   "op": "text",
+   "en": "Well, I am thirsty...\nMaybe I'll have one?\nOh, it's tea.\nBut it's awfully grassy-smelling tea.\nIs this that Sanbura tea he told me about before?\n\"Huh, you know that tea, Taguchi?\nIt's a sister product of a tea called Sanbura tea. It just came out.\"\nIt's true, the label says Yonbura tea.\nWhat a lazy name.\nI take a sip...{p}"
+  },
+  {
+   "id": "47:88a4",
+   "op": "text",
+   "en": "Oh, it's actually pretty good.\nThe smell's a little hard to take, but the taste isn't bad.\n\"How is it?\nGood?\"\n\"Yes. I don't know how to describe it, but it tastes pretty good.\"\n\"I see, glad to hear it.\nWhen I drank it, it was so foul it couldn't have been of this world.\"\nAre his taste buds and mine really that different?\nCome to think of it, he's happily drinking orange juice.\nIt's way too sweet for me, but he seems to think it tastes good.\nSomehow, that makes sense to me.\nI gulped down the rest of the tea in one go.{p}"
+  },
+  {
+   "id": "47:8ab0",
+   "op": "text",
+   "en": "Hmm, how should I put it?\nThis refreshing feeling.\nMy head feels clear, like my memory's gotten better.\nIf I concentrate, I can remember all sorts of things.\nFrom what happened just now all the way back to before I started kindergarten...\nIf I really tried, I could probably remember being in my mother's womb.{p}"
+  },
+  {
+   "id": "47:8bbc",
+   "op": "text",
+   "en": "Huh, what was that scene just now?\nA girl is lying there, bleeding.\nIt looks like she was in an accident, but did something like that ever happen?\nWait a minute, the face of the girl lying there...★\nNo way, what kind of joke is this!\nIt's my face☆\n\"That's right, that girl is you.\nMayumi Taguchi.\"{p}"
+  },
+  {
+   "id": "47:8cd4",
+   "op": "text",
+   "en": "\"{a}...?\"\nCan he see my memories?\nIf that's me lying there, I must have been hurt.\nBut I don't have a single injury anywhere...\n\"You died in an accident on the day of the entrance ceremony.\nIt was just so sudden that you didn't notice you'd died.\nAnd you had lingering attachments too, so you've ended up wandering like this.\nThat drink just now, you see, tastes awful to the living.\nBecause it's a drink for the dead.\"{p}"
+  },
+  {
+   "id": "47:8e6c",
+   "op": "text",
+   "en": "Oh, I see...\nListening to his voice, I remembered everything.\nThat day, on my way to the entrance ceremony, I was in an accident on the street in front of this school.\nA car came plowing into me at a terrifying speed.\nI must have died instantly.\nBut to think I kept going to school without even noticing I was dead...\n\"Now, you understand, don't you?\nIf you wander too long, you'll be absorbed by the evil spirits that infest this school.\nYou'd better pass on soon.\nNow, these six will guide you to the spirit world.\"{p}"
+  },
+  {
+   "id": "47:9034",
+   "op": "text",
+   "en": "Before I knew it, six men and women in white robes were standing beside me.\nThey were all smiling warmly, wrapped in white light.\n\"Thank you, {a}.\nBut who are you, really...?\"\n\"I'm just an ordinary person.\nIt's only that I went through something out of the ordinary once, and ended up knowing far too much about this world.\"\nBut he seems to be shining the brightest of all...\nAnd then I was wrapped in white light too...\nEven far away, I could still see his light, tiny.\nWhen that light disappears, the person called Mayumi Taguchi will be completely dead.\nIf I can be reborn, I want to meet him again...{p}"
+  },
+  {
+   "id": "47:9260",
+   "op": "text",
+   "follows_choice": [
+    "47:2e94"
+   ],
+   "en": "Actually, I think I won't go after all.\nI'm just not in the mood.\nThe sky looks strange too. On a day like this, it's best to hurry home and relax.\nI slipped out of the classroom so my senior wouldn't spot me.\n\"Oh, Taguchi, off to the seven wonders meeting now?\"\nThe moment I stepped into the hallway, someone called out to me.{p}"
+  },
+  {
+   "id": "47:938c",
+   "op": "text",
+   "en": "Oh no, I've been caught already.\n\"Y-yes...\"\nI timidly looked toward the voice.{p}"
+  },
+  {
+   "id": "47:93f8",
+   "op": "text",
+   "en": "What? There's nobody here.\nWas I hearing things?\nI keep thinking 'don't get caught, don't get caught,' so I'm hearing things that aren't there.\nCome on, if I just hurry home and get a nice, looong rest, I'll be fine.\nThinking that, I started walking...{p}"
+  },
+  {
+   "id": "47:94d8",
+   "op": "text",
+   "en": "\"Being in the newspaper club sure is tough.\nYou've got the seven wonders meeting now, right?\"\nThe one who'd called out to me was a fat guy.\n\"Um...\"{p}\"Well, good luck.\"{p}"
+  },
+  {
+   "id": "47:9560",
+   "op": "text",
+   "en": "Saying only that, he walked briskly away.\nOh, he just went into the restroom.\nBut have I met him somewhere before?\nI don't remember.\nOh well.\nI've got to get home before my senior finds me.{p}"
+  },
+  {
+   "id": "47:9630",
+   "op": "text",
+   "en": "Still, is this seven wonders meeting really that famous?\nThinking about that, I walked past the restroom as fast as I could.\nAt the bottom of the stairs, this time a woman stopped me.{p}"
+  },
+  {
+   "id": "47:9700",
+   "op": "text",
+   "en": "\"The seven wonders, I hear.\nHeh heh heh, liars get killed, you know.\nBe careful you don't get killed.\"\nThis woman's a little scary.\nI wish she wouldn't say things like getting killed.\nOr is she trying to say I'm a liar?{p}"
+  },
+  {
+   "id": "47:97cc",
+   "op": "text",
+   "en": "She flashed an eerie smile and walked off down the hall without a sound.\nI've got a really bad feeling about this...{p}What should I do? Should I go to the newspaper club after all?\n"
+  },
+  {
+   "id": "47:9878",
+   "op": "choice",
+   "en": "Go to the newspaper club"
+  },
+  {
+   "id": "47:9888",
+   "op": "choice",
+   "en": "Go home"
+  },
+  {
+   "id": "47:98a0",
+   "op": "text",
+   "follows_choice": [
+    "47:9888"
+   ],
+   "en": "I'm completely worn out just getting this far.\nI really want to go home now.{p}"
+  },
+  {
+   "id": "47:9908",
+   "op": "text",
+   "en": "\"Well, well, you look tired, young lady.\"\nSigh, here comes somebody else.\nIt was a man with a smirk on his face.\n\"I may not look it, but I'm a spirit medium.\nShall I read your future for you?\nMm-hm, you're on your way to the seven wonders meeting.\nOh, you don't have to answer.\nI already know everything.\"\nWhat kind of day is this?!\nOne weirdo after another!{p}"
+  },
+  {
+   "id": "47:9a4c",
+   "op": "text",
+   "en": "Without answering him at all, I changed my shoes and left the school building.\nHe seemed to be yelling something behind me, but I'm not going to care. Not going to care.{p}"
+  },
+  {
+   "id": "47:9adc",
+   "op": "text",
+   "en": "There were a few people dotted around the sports field.\nIt's a long way to the school gate, too.\nI hurried toward the gate.\nWhat's going on?\nThe people scattered around the field seem to be slowly closing in on me...\n\"Do you think you'd die instantly if you jumped off the roof?\"\n\"Have you seen my Rubelize?\"\n\"Here, missy, have some candy.\"\n\"I'm looking for someone to play poker with...\"{p}"
+  },
+  {
+   "id": "47:9c48",
+   "op": "text",
+   "en": "W-wait... wait a minute!\nWhat is with these people★\nThere are even people here who aren't students!\nI want to go home!\nPlease! Everybody, get out of the way☆{p}"
+  },
+  {
+   "id": "47:9ce4",
+   "op": "text",
+   "en": "...In the end, my wish was in vain, and I wound up in front of the newspaper club room.\nAre all the members here already?{p}"
+  },
+  {
+   "id": "47:9d68",
+   "op": "text",
+   "en": "Timidly, I opened the club room door, and★{p}"
+  },
+  {
+   "id": "47:9dac",
+   "op": "text",
+   "en": "The one there was a girl who looked exactly like me.\nThe color of her indoor shoes was for third-years, so she's my senior.\nYes, she's a lovely person with a calm, mature air.\nShe's staring hard at my face.\nIs she surprised because we look so alike?\nOr so I thought, when\n\"No waaay, to think I'd run into you in a place like this!\"\nshe said, and burst out laughing.\nMy image of her as 'calm and mature' crumbled a little.\nBut she pulled me into her arms and kept laughing, patting me on the back.\nWhat on earth is going on?\n\"Ahaha, sorry for laughing all of a sudden.\nI never dreamed I'd run into you in a place like this.\"\nPhew, she finally let me go.\n\"Um, who are you...?\"\n\"Hee hee, the time will come when you'll find out.\nLet's see, all I can tell you right now is... this school's a weird place, but hang in there. That's about it.\"\n\"Um...\"\n\"Now, go on home.\nIt's dangerous to stay here too late.\"{p}"
+  },
+  {
+   "id": "47:a0f4",
+   "op": "text",
+   "en": "And so I left the club room as if I'd been thrown out.\nWhat was that?\nHonestly...!\nI tried to open the club room door one more time.{p}"
+  },
+  {
+   "id": "47:a184",
+   "op": "text",
+   "en": "Huh? It's locked.\nWhaaat?\n\"Hey, Taguchi, you're early.\"\nWhat? {a}?\n\"Nobody's here yet, right?\"{p}"
+  },
+  {
+   "id": "47:a200",
+   "op": "text",
+   "en": "With that, he unlocked the door and went into the club room.{p}"
+  },
+  {
+   "id": "47:a244",
+   "op": "text",
+   "en": "There's nobody in the club room.\nHmm, what was that just now?\n\"Well then, I've got some business to take care of, so I'll be leaving once I've set things up. You'll be all right, won't you?\"{p}"
+  },
+  {
+   "id": "47:a2dc",
+   "op": "text",
+   "en": "Then, after {a} left, six men and women gathered.\nJust one more member to go...{p}"
+  },
+  {
+   "id": "47:a344",
+   "op": "text",
+   "follows_choice": [
+    "47:1380"
+   ],
+   "en": "I think he's an unpleasant person.\nI mean, he's always kind of playing dumb.\nHe says his life changed after he met someone called Kazama.\nHe's just trying to blame someone else for how weird he is.{p}"
+  },
+  {
+   "id": "47:a40c",
+   "op": "text",
+   "en": "But what could this talk be about?\nA really important talk...\nDon't tell me he wants to make me club president someday.\nOh, that would be such a problem.\nI'd have no idea what kind of articles to make from then on.{p}"
+  },
+  {
+   "id": "47:a4e4",
+   "op": "text",
+   "en": "Maybe I'll do an article on that dreamy senior from the basketball team.\nI'll say 'I'm here for an interview!' and we'll have a nice friendly chat.\nOoh, what a dilemma.\nBut... I can't help hoping a little.\nHee hee.{p}"
+  },
+  {
+   "id": "47:a5a0",
+   "op": "text",
+   "en": "Really, what should I do?\nShould I go hear what {a} has to say?\n"
+  },
+  {
+   "id": "47:a5e0",
+   "op": "choice",
+   "en": "Go hear what he has to say"
+  },
+  {
+   "id": "47:a5ec",
+   "op": "choice",
+   "en": "Turn him down"
+  },
+  {
+   "id": "47:a5fc",
+   "op": "text",
+   "follows_choice": [
+    "47:a5e0"
+   ],
+   "en": "If he says it's important, then I've definitely got to hear it.\nOkay, off to the club room.\nHee hee...\nI hope it's good news.{p}"
+  }
+ ]
+}

@@ -1,0 +1,454 @@
+{
+ "slice": "S025",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S024",
+ "next": "S026",
+ "todo": [
+  "- 07:105f4 report title \"Hundred-Day Trends Concerning Human Life and Death\" (S025) must match S021's rendering of the same title.",
+  "- Restroom wording: 'Boys'/Girls' restroom' (S024, S034) vs 'bathroom' (S025) — standard: restroom."
+ ],
+ "rows": [
+  {
+   "id": "07:fbd8",
+   "op": "choice",
+   "en": "Boys' restroom"
+  },
+  {
+   "id": "07:fbe4",
+   "op": "choice",
+   "en": "Girls' restroom"
+  },
+  {
+   "id": "07:fbf0",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:fc08",
+   "op": "text",
+   "follows_choice": [
+    "07:fbd8"
+   ],
+   "en": "I decided to search the first-floor boys' restroom.\nWhat a filthy restroom, though.\nThe boys' restroom had four urinals and two stalls.\n...I didn't really want to search in here, but my life was on the line.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:fcdc",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:fcec",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:fd00",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:fd14",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:fd20",
+   "op": "text",
+   "follows_choice": [
+    "07:fcdc"
+   ],
+   "en": "I shone the light on the row of four urinals.\nUgh...!\nThey were crawling with cockroaches.\nThe moment the light hit them, they all scattered at once.\nI searched carefully, but it didn't seem to be here.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:fde0",
+   "op": "text",
+   "follows_choice": [
+    "07:fcec"
+   ],
+   "en": "I decided to check the stall at the back.{p}"
+  },
+  {
+   "id": "07:fe20",
+   "op": "text",
+   "en": "...Surely it wouldn't be inside the toilet bowl itself.\nI searched every inch.{p}"
+  },
+  {
+   "id": "07:fe70",
+   "op": "text",
+   "en": "...Nothing.{p}"
+  },
+  {
+   "id": "07:fe8c",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:fea8",
+   "op": "text",
+   "follows_choice": [
+    "07:fd14"
+   ],
+   "en": "I decided to search somewhere else.{p}"
+  },
+  {
+   "id": "07:fecc",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:fedc",
+   "op": "text",
+   "follows_choice": [
+    "07:fbf0",
+    "07:ff78",
+    "07:10080"
+   ],
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:fef8",
+   "op": "text",
+   "follows_choice": [
+    "07:f4e0"
+   ],
+   "en": "I decided to go to the third-floor restrooms.\nThere was a boys' restroom and a girls' restroom.{p}Which one should I check?\n"
+  },
+  {
+   "id": "07:ff60",
+   "op": "choice",
+   "en": "Boys' restroom"
+  },
+  {
+   "id": "07:ff6c",
+   "op": "choice",
+   "en": "Girls' restroom"
+  },
+  {
+   "id": "07:ff78",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:ff90",
+   "op": "text",
+   "follows_choice": [
+    "07:ff6c"
+   ],
+   "en": "The girls' restroom had four stalls.\nI remembered hearing a rumor that Hanako-san haunted the girls' restroom in the old school building.\nBut right now, nothing could scare me.\nTime was slipping away fast.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:1004c",
+   "op": "choice",
+   "en": "The back stall"
+  },
+  {
+   "id": "07:10054",
+   "op": "choice",
+   "en": "Second from the back"
+  },
+  {
+   "id": "07:10064",
+   "op": "choice",
+   "en": "Third from the back"
+  },
+  {
+   "id": "07:10074",
+   "op": "choice",
+   "en": "The front stall"
+  },
+  {
+   "id": "07:10080",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:1008c",
+   "op": "text",
+   "follows_choice": [
+    "07:1004c"
+   ],
+   "en": "I decided to search the stall at the very back.{p}"
+  },
+  {
+   "id": "07:100c4",
+   "op": "text",
+   "en": "I shone the light.\nThen I searched every inch of the back stall.\n...Nothing.\nNo good.\nI'd better search somewhere else.{p}"
+  },
+  {
+   "id": "07:10134",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:10144",
+   "op": "text",
+   "follows_choice": [
+    "07:10054"
+   ],
+   "en": "I decided to search the second stall from the back.{p}"
+  },
+  {
+   "id": "07:10180",
+   "op": "text",
+   "en": "I shone the light.\nThen I searched every inch of the second stall from the back.\n...Nothing.\nNo good.\nNo, wait!\nSomething was sitting on the ledge of the stall's frame.\nI shone my flashlight on it.{p}"
+  },
+  {
+   "id": "07:10244",
+   "op": "text",
+   "en": "It was an ampoule filled with a yellow liquid.\nI found it!\nThat's it!\nI finally found it!\nI reached out for it.{p}"
+  },
+  {
+   "id": "07:102c0",
+   "op": "text",
+   "en": "\"Kyeeeeeeeee!\"\nA shrill scream suddenly rang out, and the next instant something slammed into my back.\n\"Aaagh!\"\nSomething was stuck in my shoulder.\nI pulled it out. It was a mechanical pencil.\n\"Die! Just die!\"\nSomeone was strangling me.\nThe flashlight had slipped from my hand and rolled away, and its beam lit up my attacker's face.{p}"
+  },
+  {
+   "id": "07:10410",
+   "op": "text",
+   "en": "It was Fukuzawa.\n\"Let go!\"\nI shoved Fukuzawa away.\nBut she wouldn't let go.\n\"Aaagh!\"\nA searing pain shot across my face.\nFukuzawa had clawed me with her sharp nails.\nI covered my face without thinking.\nFukuzawa sank her teeth into my hand.\n...Damn it!\nI was just one step away!{p}What do I do?!\n"
+  },
+  {
+   "id": "07:10504",
+   "op": "choice",
+   "en": "Strangle Fukuzawa back"
+  },
+  {
+   "id": "07:10518",
+   "op": "choice",
+   "en": "Use that report"
+  },
+  {
+   "id": "07:10530",
+   "op": "choice",
+   "en": "Pick up the mechanical pencil"
+  },
+  {
+   "id": "07:10544",
+   "op": "choice",
+   "en": "Run away for now"
+  },
+  {
+   "id": "07:10558",
+   "op": "text",
+   "follows_choice": [
+    "07:10518"
+   ],
+   "en": "I read out the title of that report.{p}If I remember right, the title was...\n"
+  },
+  {
+   "id": "07:105a4",
+   "op": "choice",
+   "en": "A Hundred Days Concerning Human Life and Death"
+  },
+  {
+   "id": "07:105c0",
+   "op": "choice",
+   "en": "A Hundred-Day Period of Human Life and Death"
+  },
+  {
+   "id": "07:105d8",
+   "op": "choice",
+   "en": "Trends of Human Life and Death over a Hundred-Day Period"
+  },
+  {
+   "id": "07:105f4",
+   "op": "choice",
+   "en": "Hundred-Day Trends Concerning Human Life and Death"
+  },
+  {
+   "id": "07:10614",
+   "op": "choice",
+   "en": "Trends Concerning Human Life and Death over a Hundred-Day Period"
+  },
+  {
+   "id": "07:10638",
+   "op": "text",
+   "follows_choice": [
+    "07:105f4"
+   ],
+   "en": "\"Hundred-Day Trends Concerning Human Life and Death!\"\nI shouted the report's title at Fukuzawa as she lunged at me.\nSuddenly, Fukuzawa froze.{p}"
+  },
+  {
+   "id": "07:106dc",
+   "op": "text",
+   "en": "\"How do you know that★\"\nIt was too dark to read, but I thrust the report in my hand out in front of Fukuzawa.\n\"I found this in the chemistry lab! You're a horrible girl.\nThough any teacher who'd accept something like this is just as bad.\"\n\"Give it back!\"\nFukuzawa tried to snatch the report away.\nBut I wasn't going to hand it over that easily.\n\"Whoa there! Is this so important to you?!\"\nI slipped out of Fukuzawa's grasp and held the report up high.\n\"Give it back to me!\"\nThat report must have meant the world to Fukuzawa.\nOf course it did.\nIt was an outrageous report that set out to record a human being's life right up until the moment of death.\n\"Ah!\"\nFukuzawa clawed me, and the report fell from my hand.\nCaught by the wind, the report fluttered up and flew out the window.{p}"
+  },
+  {
+   "id": "07:1096c",
+   "op": "text",
+   "en": "\"My report!\"\n\"Look out!\"{p}"
+  },
+  {
+   "id": "07:109a4",
+   "op": "text",
+   "en": "\"Kyaaaaaaaaah☆\"{p}"
+  },
+  {
+   "id": "07:109dc",
+   "op": "text",
+   "en": "Just as Fukuzawa reached out the window, the window frame snapped.\nThe wood of the frame had rotted through.\nAlong with dozens of pure white sheets of paper, Fukuzawa's body flew out into the air.\nEven as she fell, Fukuzawa glared up at me, spitting out some kind of curse.\nA sickening thud rang out, the sound of something heavy smashing into the ground, and I leaned out the window.\nCarefully, so I wouldn't fall...{p}"
+  },
+  {
+   "id": "07:10b44",
+   "op": "text",
+   "en": "Below, Fukuzawa lay spread-eagled on the ground.\nHer neck was twisted at an impossible angle.\nIt was broken clean through.\nIn the moonlight, the report pages fluttered down onto her white sailor uniform like confetti.\nThe report chronicling life and death, never to be finished, kept piling up on top of Fukuzawa.\nPerhaps Fukuzawa had completed her report with her own death.\n...That's right.\nI couldn't just stand around like this.{p}"
+  },
+  {
+   "id": "07:10cdc",
+   "op": "text",
+   "en": "I hurriedly reached up to the ledge of the stall and grabbed the ampoule.\nSlowly, so I wouldn't drop it, and so I wouldn't crush it in my grip.\nI took the cap off the ampoule and drank it down in one gulp.{p}"
+  },
+  {
+   "id": "07:10db0",
+   "op": "text",
+   "en": "...Phew. It looked like I'd made it in time.\nDid this mean I was saved?\nI'd wait here until the time came.{p}"
+  },
+  {
+   "id": "07:10e20",
+   "op": "text",
+   "en": "I took deep breath after deep breath, then checked my watch again.\nThe appointed time had already passed.\n...I was alive.\nI was saved!\nTears spilled down my cheeks on their own.\nSo this was how wonderful it was to be alive.\nFor the first time in my life, I savored the joy of being alive.\n...Thank God.\nI let out another sigh.{p}What should I do?\nWait here until morning?\nOr go home?\n"
+  },
+  {
+   "id": "07:10f90",
+   "op": "choice",
+   "en": "Wait here until morning"
+  },
+  {
+   "id": "07:10fa4",
+   "op": "choice",
+   "en": "Go home"
+  },
+  {
+   "id": "07:10fb0",
+   "op": "text",
+   "en": "Once I knew I was saved, the fear suddenly came flooding back stronger than before.\nThis was the old school building, in the dead of night.\nI was far too frightened to wait in a place like this until morning.\nI picked up the flashlight that had been knocked out of my hand and stood up.\nThen, without really thinking, my eyes fell on the broken window frame.\nRotten, crumbling wood.\nBut it still seemed fairly sturdy.\nAn idea came to me.\n...This might come in handy.\nI picked up the broken piece of window frame.\nPerhaps that was nothing less than a warning from God.{p}"
+  },
+  {
+   "id": "07:1117c",
+   "op": "text",
+   "en": "...I felt dizzy.\nExhaustion crashed down on me all at once.\nStill, I couldn't believe how much I'd managed to do.\nI was impressed by my own stamina.\nStaggering, I slowly put one leaden leg in front of the other.{p}"
+  },
+  {
+   "id": "07:11240",
+   "op": "text",
+   "en": "Going down the stairs was agony.\nWith every step, I felt like my foot was about to slip.\nThere was no strength left in my legs at all.\nBy the time I finally made it down to the first floor, the sky was about to start turning pale.{p}"
+  },
+  {
+   "id": "07:11304",
+   "op": "text",
+   "en": "\"...Let's go home. ...I'm going home.\"\nI muttered it over and over to keep my spirits up.\nThe school gate was right in front of me.{p}"
+  },
+  {
+   "id": "07:1138c",
+   "op": "text",
+   "en": "...And then.\nThere he stood, in front of the school gate.\nArms folded, he seemed to have been lying in wait for me.\n\"...Hino.\"\n\"You've really put up a fight, {a}.\nI've played this human-hunting game plenty of times, but this is a first.\nWhat do you say? Why don't you run the Murder Club with me?\"\nHino smiled, his face perfectly pleasant.{p}"
+  },
+  {
+   "id": "07:114b8",
+   "op": "text",
+   "en": "\"..........Don't be stupid. I'd sooner die.\"\n\"...I see. That's a shame.\nI thought you'd make a good partner.\nI've disposed of everyone who betrayed us.\nKazama, Shindo, Hosoda too. There's no one left.\nAnd I'm graduating soon.\nI thought you could take over after me and make a fine club president.\nWell? Won't you reconsider?\"\n\"No way.\"\n\"So stubborn. Well, it can't be helped. Then I'll give up on you.\nThe Murder Club ends with me.\"{p}"
+  },
+  {
+   "id": "07:11668",
+   "op": "text",
+   "en": "As we talked, I moved step by step toward the school gate where Hino was waiting.\n\"Hino. There's one thing I want to ask you.\"\n\"What is it?\"\n\"What is a Murder Club even for?\"\n\"I'm so glad you asked.\nYou see, people build up this thing called stress. But the elite must never let stress build up.\nSo what do you do about it?\nThat's right. You eliminate anything that might cause you stress.\nYou kill every last person who makes you angry.\nThat way, stress never builds up, and whatever stress you have just naturally melts away.\nIt's fun. Is there any other method as wonderful as this?\"\n\"You're out of your mind.\"\n\"...Thank you. I'll take that as a compliment.\nIn every age, ordinary people never understand what a genius thinks.\nNow, let's bring this to an end.\"{p}"
+  },
+  {
+   "id": "07:1191c",
+   "op": "text",
+   "en": "Hino pulled out a knife.\nI probably didn't even have the strength left to dodge.\nWithout a word, I thrust my hand into my pocket.\nIn my pocket was...{p}"
+  },
+  {
+   "id": "07:119b8",
+   "op": "text",
+   "en": "\"Ahaha... You can barely even walk.\nMe, on the other hand, I'm in perfect shape. There's no need for a contest at all.\nNow, die for me. And become the killer who murdered six losers and one teacher.\"{p}"
+  },
+  {
+   "id": "07:11a84",
+   "op": "text",
+   "en": "Then Hino charged at me, swinging the knife.\nThere was only one path left to me...{p}What do I do?\n"
+  },
+  {
+   "id": "07:11aec",
+   "op": "choice",
+   "en": "Fall down on purpose"
+  },
+  {
+   "id": "07:11afc",
+   "op": "choice",
+   "en": "Deliberately let Hino stab me with his knife"
+  },
+  {
+   "id": "07:11b1c",
+   "op": "choice",
+   "en": "Take out the screwdriver in my pocket"
+  },
+  {
+   "id": "07:11b40",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "07:11b48",
+   "op": "choice",
+   "en": "Say I'll join the Murder Club"
+  },
+  {
+   "id": "07:11b60",
+   "op": "text",
+   "follows_choice": [
+    "07:11afc"
+   ],
+   "en": "\"Come on, Hino! Don't miss! Drive that knife into my gut as hard as you can!\"\nI shouted.\n\"Heh, giving up, are you?!\"\nHino charged at me, laughing.\nI focused every nerve I had on Hino's knife.\nThis was my last gamble.\nIf my luck held, it was sure to work.\nIt mustn't miss.\nI had to take Hino's knife in exactly the right spot.{p}"
+  },
+  {
+   "id": "07:11ca8",
+   "op": "text",
+   "en": "If it missed... I'd die!\n\"Let me put you out of your misery!\"{p}"
+  },
+  {
+   "id": "07:11cd8",
+   "op": "text",
+   "en": "\"Ngh!\"\nA dull pain throbbed through my stomach.{p}"
+  },
+  {
+   "id": "07:11d1c",
+   "op": "text",
+   "en": "The next moment, a look of dismay spread across Hino's face.\nFor Hino, this was something that should never have happened.\n\"You bastard... You tricked me.\"\n\"What's wrong, Hino? You've gone deathly pale.\"\nWith my left hand, I gripped Hino's hand, knife and all, where it was thrust into my stomach.\nAnd with my right, I fumbled the screwdriver out of my pocket.{p}There wasn't a moment to lose.\nWhat do I do?\n"
+  },
+  {
+   "id": "07:11e58",
+   "op": "choice",
+   "en": "Drive the screwdriver into Hino's throat"
+  },
+  {
+   "id": "07:11e78",
+   "op": "choice",
+   "en": "Drive the screwdriver into Hino's heart"
+  },
+  {
+   "id": "07:11e9c",
+   "op": "choice",
+   "en": "Drive the screwdriver into Hino's shoulder"
+  },
+  {
+   "id": "07:11ec8",
+   "op": "text",
+   "follows_choice": [
+    "07:11e9c"
+   ],
+   "en": "Without hesitating, I drove the screwdriver into Hino's shoulder.{p}"
+  },
+  {
+   "id": "07:11f14",
+   "op": "text",
+   "en": "\"Gyaah!\"\nHino went tumbling to the ground.{p}"
+  },
+  {
+   "id": "07:11f44",
+   "op": "text",
+   "en": "Hino's knife was still sticking out of my stomach.\nI pulled the knife out.\n...There wasn't a single drop of blood on it.\nBecause I had hidden the broken window frame from the old school building's restroom inside my dress shirt. The screwdriver was buried in Hino's shoulder.\nHe was clutching his stabbed shoulder, shielding it.\nBlood was faintly seeping through.{p}"
+  }
+ ]
+}

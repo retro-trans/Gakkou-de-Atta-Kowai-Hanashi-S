@@ -1,0 +1,325 @@
+{
+ "slice": "S233",
+ "scene": "67",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S232",
+ "next": "S234",
+ "todo": [],
+ "rows": [
+  {
+   "id": "67:065c",
+   "op": "text",
+   "en": "...A pitch-black void stretched out all around me.\nEven with my eyes open...\nEven with my eyes closed...\nAll I could see in front of me was darkness...\nWhat on earth had happened?{p}...Oh.\nI could see a light, far off in the distance.\n"
+  },
+  {
+   "id": "67:0714",
+   "op": "choice",
+   "en": "Walk toward the light"
+  },
+  {
+   "id": "67:072c",
+   "op": "choice",
+   "en": "Walk away from the light"
+  },
+  {
+   "id": "67:0750",
+   "op": "choice",
+   "en": "Stay where I am"
+  },
+  {
+   "id": "67:0764",
+   "op": "text",
+   "follows_choice": [
+    "67:0714"
+   ],
+   "en": "...I'll try going over there.\nI started walking through the darkness toward the light.\nThen the light, which had been just a dot at first, grew bigger and bigger...{p}"
+  },
+  {
+   "id": "67:0818",
+   "op": "text",
+   "en": "Before I knew it, I was bathed in a yellow-green light.{p}"
+  },
+  {
+   "id": "67:0858",
+   "op": "text",
+   "en": "A lush green meadow spread out beneath my feet.\nWhere on earth was I...?\nMy body felt light, and the soft grass felt so pleasant somehow.\nWhen I took a deep breath, the smell of sun-warmed grass made my head go hazy.\n...It's nice to just relax like this once in a while.\nAs I was thinking that...\n\"You...\nYou like plants, don't you...?\"\nSuddenly, someone spoke to me.{p}"
+  },
+  {
+   "id": "67:09bc",
+   "op": "text",
+   "en": "Startled, I looked around, and there was a man standing a little way off.\nIt was a face I'd never seen before.\nWho could he be...?\n\"Plants are wonderful, aren't they?\nIf you pour your love into them, they always return it.\nThey never betray you the way people do...\"\nWith that, the man smiled.\nHis smile was dazzling.\n\"What do you say?\nMeeting in a place like this must be some kind of fate...\nWon't you have some tea with me?\"\n...Huh.\nIs this some new kind of pickup line?\nBut where exactly does he plan to have tea in a meadow like this...?{p}"
+  },
+  {
+   "id": "67:0b8c",
+   "op": "text",
+   "en": "I looked all the way around, but all I could see was the vast, vast meadow.\nThere was nothing else.\n\"Um...\nTea...?\"\nAfter looking all around, I turned back to the man.{p}"
+  },
+  {
+   "id": "67:0c2c",
+   "op": "text",
+   "en": "...Huh?\nBefore I knew it, a small table had appeared between the man and me.\nOn it were two white teacups...\nI couldn't see clearly what was inside, but it was a color kind of like coffee.\n...Where on earth did he get all this?{p}"
+  },
+  {
+   "id": "67:0d14",
+   "op": "text",
+   "en": "\"Here, please, help yourself.\"\nThe man smiled cheerfully as he offered it to me.{p}...What should I do?\n"
+  },
+  {
+   "id": "67:0d70",
+   "op": "choice",
+   "en": "Drink it"
+  },
+  {
+   "id": "67:0d78",
+   "op": "choice",
+   "en": "Don't drink it"
+  },
+  {
+   "id": "67:0d90",
+   "op": "text",
+   "follows_choice": [
+    "67:0d78"
+   ],
+   "en": "\"...Um.\nThank you, I'll have some...\"\nThat's what I said, but I didn't reach for the cup.\nI mean...\nIt didn't look very tasty at all.{p}"
+  },
+  {
+   "id": "67:0e20",
+   "op": "text",
+   "en": "\"This tea is made from a special plant, you see.\nIt's very good for your health.\nI make a point of drinking it every single day.\"\nWith that, the man drank the tea down in one go, his throat gulping.\nAnd then,{p}"
+  },
+  {
+   "id": "67:0efc",
+   "op": "text",
+   "en": "\"Do you know the name of this tea?\"\nhe asked, with a big smile.\n\"The name of this tea is.........\"{p}"
+  },
+  {
+   "id": "67:0f68",
+   "op": "text",
+   "en": "At that moment, a wind came whooshing in, and a green mist blocked my view.\n\"...nbu.........ra...\"\nI couldn't make out the voice over the rustling of the wind.\nNot only that: the man, the table, the teacups, all of it turned green, melted into the mist and vanished.\n\"Wh-what...★\"\nI strained my eyes desperately and looked all around.{p}"
+  },
+  {
+   "id": "67:10a4",
+   "op": "text",
+   "en": "Then, suddenly, a girl I'd never seen appeared right in front of me.\nThe girl gave a spiteful smile and,{p}"
+  },
+  {
+   "id": "67:1108",
+   "op": "text",
+   "en": "\"You're in the way!\"\n...she said, and shoved me as hard as she could.{p}"
+  },
+  {
+   "id": "67:1160",
+   "op": "text",
+   "en": "Instantly everything went dark before my eyes.\nThrough that darkness, my body was plummeting at a terrifying speed.\n...I'm falling!\nIt felt like a bare hand had grabbed my heart, and every hair on my body stood on end.\nEven though I was in darkness, I could tell the ground was rushing up toward me.\nIf I keep falling like this...★\n\"...I'm going to hit!\"{p}"
+  },
+  {
+   "id": "67:1274",
+   "op": "text",
+   "en": "The moment I screamed that, my body slammed into the ground.\nA sharp pain shot up from the tips of my feet.{p}"
+  },
+  {
+   "id": "67:12dc",
+   "op": "text",
+   "en": "\"Eeeeeek!\"\nStartled by the pain, I jumped up...\n\"{a}, {a}...!\"{p}"
+  },
+  {
+   "id": "67:1340",
+   "op": "text",
+   "en": "Through my blurry vision, I saw Hosoda's face.{p}"
+  },
+  {
+   "id": "67:1390",
+   "op": "text",
+   "en": "...Is this the newspaper club?\n...Hmm, what was I doing?\nMy head is throbbing...\nThere was a blackout a little while ago, wasn't there?\nI think I hit my head when it happened...\nDid I pass out because of that?{p}"
+  },
+  {
+   "id": "67:1478",
+   "op": "text",
+   "en": "\"{a}, are you all right...?\"\nSaying that, Hosoda peered into my face.\n...Ugh.\nI know he's worried about me, but I really don't want to see him in close-up...\n\"I-I'm fine.\nDon't worry about me...\"\nPretending to look around the room, I turned my face away.{p}"
+  },
+  {
+   "id": "67:1570",
+   "op": "text",
+   "en": "None of the other members were in the room.\nIt was just Hosoda and me, the two of us, all alone.\n\"Where did everyone else go...?\"{p}"
+  },
+  {
+   "id": "67:15fc",
+   "op": "text",
+   "en": "\"Oh, I had them go home.\nBecause...\nIf everyone were here, it'd be too cramped for the seventh one to fit in, see?\"\nHosoda answered with a big smile.\n...The seventh one?\nIs the seventh one coming now?\nBut a seventh one who couldn't fit in the room if everyone were here, because it'd be too cramped...\nCould it be someone even fatter than Hosoda...★\n\"Um, Hosoda...?\"\nI got worried and asked him.\n\"Do you know who the seventh one is?\"\n\"What are you talking about?\nOh, come on, {a}...\nThe seventh one is...........\"{p}"
+  },
+  {
+   "id": "67:17ec",
+   "op": "text",
+   "en": "Just then, the door suddenly opened.\n\"Hello there! I'm terribly sorry to be late.\"\nI looked toward the voice, and...?{p}"
+  },
+  {
+   "id": "67:1868",
+   "op": "text",
+   "en": "A man was standing in the doorway.\nIs he the seventh one?\nThere's something familiar about his face...\nBut I couldn't remember at all where I'd met him.\n\"Takeuchi!\"\nIt was Hosoda who jumped up happily.{p}Takeuchi... If I remember right, he's...\n"
+  },
+  {
+   "id": "67:1958",
+   "op": "choice",
+   "en": "I remember Takeuchi"
+  },
+  {
+   "id": "67:196c",
+   "op": "choice",
+   "en": "Who was Takeuchi again...?"
+  },
+  {
+   "id": "67:1990",
+   "op": "text",
+   "follows_choice": [
+    "67:1958"
+   ],
+   "en": "Takeuchi is the man from Hosoda's story who never goes to the toilet.\nSupposedly he drank some mysterious tea, and his body changed so he no longer needed to go...\nBut I'm pretty sure that person transferred to another school.\n...What!\nTea...★\nThat's it!\nThe man I met in the dream I had a moment ago, while I was passed out...\nHe looks exactly like that man!\nNo.\n...It's more like Takeuchi appeared in my dream.{p}"
+  },
+  {
+   "id": "67:1b0c",
+   "op": "text",
+   "en": "\"Sorry for being so late.\nThe transfer paperwork took a bit longer than I expected.\"\n\"Huh?\nTransfer...?\"\n...The math doesn't add up.\nI mean, he's two years older than Hosoda, isn't he?\nThen he should have graduated this past March.\n\"Ha ha ha...\nDo you find it strange that I'm a third-year?\nYou want to say I should have graduated already, don't you?\nThe truth is...\nI went abroad and took almost a year off from school.\nSo now I'm doing my third year over again.\nHa ha ha...\"{p}"
+  },
+  {
+   "id": "67:1ccc",
+   "op": "text",
+   "en": "\"Then we'll be able to go to school together until next spring!\"\n...Hosoda seems strangely happy.\nI see...\nIf this man is Takeuchi, that means Hosoda can finally get that whatever-it-was tea he wanted so badly.{p}"
+  },
+  {
+   "id": "67:1db4",
+   "op": "text",
+   "en": "\"Well then, allow me to introduce myself properly.\nMy name is Kiyoshi Takeuchi.\nAs of today, I'm a student in Class 3-G.\nPleased to meet you...\nNow then, shall I tell you the scary story I know?\"\nAnd with that, the seventh story, the finale of the seven wonders, finally began.{p}"
+  },
+  {
+   "id": "67:1ea0",
+   "op": "text",
+   "en": "\"Maybe because this school has been standing for such a long time, it has lots of magnificent trees.\nA lot of them have been cut down or moved, but the big ginkgo tree beside the new school building is still there, right?\nWhen it comes to the flavors of autumn, you just can't leave out ginkgo nuts.\nThey smell a bit, but you can't talk about the flavors of autumn without the taste of ginkgo nuts.{p}{a}, have you ever eaten the ginkgo nuts from that tree?\"\n"
+  },
+  {
+   "id": "67:1ffc",
+   "op": "choice",
+   "en": "Yes, I have"
+  },
+  {
+   "id": "67:2004",
+   "op": "choice",
+   "en": "No, I haven't"
+  },
+  {
+   "id": "67:200c",
+   "op": "text",
+   "follows_choice": [
+    "67:2004"
+   ],
+   "en": "\"I see, you haven't.\nThat's good.\nYou see, {a}...\nThat tree has another name: the Suicide Tree.\nWhy...?\nIt's simple.\nBecause so many students kill themselves under that tree.\nHanging themselves, taking sleeping pills... the ways they die vary.\nBut every body found under that tree is a suicide.\nAnd every one of them is a girl.{p}"
+  },
+  {
+   "id": "67:2170",
+   "op": "text",
+   "en": "...See? Strange, isn't it?\nThat's the scary story I know.\"\n\"That's all?\"\nIsn't that a bit too weak to be the finale of the seven wonders?{p}"
+  },
+  {
+   "id": "67:2218",
+   "op": "text",
+   "en": "...Hmm, I feel like it needs a little something more.{p}"
+  },
+  {
+   "id": "67:2260",
+   "op": "text",
+   "en": "\"{a}...\nNow, hold on.\nDon't be in such a hurry to reach a conclusion.\nI heard this story when I was a first-year...\nBack then, I had no idea at all why only girls killed themselves.\nI only found the answer very recently.\n...Mind you, it's not as if I'd been searching for that answer the whole time.\nThe way I arrived at the answer was nothing but pure chance.\n...Hosoda, you knew about Sanbura tea, didn't you?\"\n\"Y-yes!\"\n\"The truth is...\nThe reason I went abroad was that I wanted to research Sanbura tea in more detail.\nI thought, if only it could be grown in Japan too...{p}"
+  },
+  {
+   "id": "67:24c8",
+   "op": "text",
+   "en": "The Sanbura tea we drank at my house was always something my father bought in India.\nSo I thought researching Sanbura tea would be easy once I went to India.\nBut it turned out to be far harder work than I'd imagined.\nNo matter where I went, I couldn't find any Sanbura tea.{p}"
+  },
+  {
+   "id": "67:25d8",
+   "op": "text",
+   "en": "When I asked the locals, they told me that the plant Sanbura tea is made from, called the Sanbura tree, had declined sharply over the past few years and was now nearly extinct.\nI panicked.\nI'd come all the way from Japan, and now I couldn't find any Sanbura tea? You've got to be kidding!\nI searched desperately.\nI must have wandered through the primeval forest for over half a year, looking for a wild Sanbura tree.\nAnd at last, I managed to find the plant.{p}"
+  },
+  {
+   "id": "67:2778",
+   "op": "text",
+   "en": "It was truly a sight out of a dream.\nA gigantic tree was growing in the middle of the tropical primeval forest.\nIt really was a magnificent tree.\nAt first, I didn't even realize it was a single tree.\nEarth-colored roots and vines stretched out in every direction, and the whole area was like a jungle.\nBut...\nThe vines that covered everything were completely withered, and every time the wind blew, they crumbled away from the tips.\nThe thick roots crawling over the ground were rotted to mush, and if you stepped on one carelessly, a thick yellow-green sap oozed out and gave off a foul stench.{p}"
+  },
+  {
+   "id": "67:2974",
+   "op": "text",
+   "en": "...The tree was already dead.\nEven plants have a life span, after all.\nI examined that tree down to every last corner.\nAnd as a result, I found out why the Sanbura tree is on the verge of extinction.{p}"
+  },
+  {
+   "id": "67:2a30",
+   "op": "text",
+   "en": "And that also turned out to be the key to solving the mystery of the strange incidents caused by that ginkgo beside the new school building.\nSay, {a}...\nEarlier, I asked if you'd ever eaten the nuts from the ginkgo tree beside the new school building.\nYou said you hadn't.\n...Naturally.{p}"
+  },
+  {
+   "id": "67:2b18",
+   "op": "text",
+   "en": "Because that tree doesn't bear any fruit.\nThat ginkgo is a male tree.\nYou know about that, don't you?\nGinkgo trees come in male trees and female trees...\nIn other words, what we'd call men and women in humans.\nApparently, before the new school building went up, there was a row of ginkgo trees around there.\nBut when the new school building was built, they were all cut down except that one.\nPlants have feelings too, you know...\nI'd guess that ginkgo is lonely.\nIt's all alone and lonely, so it calls all sorts of people to it.\n...Come.\nCome here...\nGive up being human, and live with me...\nWhispers like that ride on the wind and beckon people.\nI think the reason only girls get called is, after all, that the ginkgo is a male tree.{p}"
+  },
+  {
+   "id": "67:2dcc",
+   "op": "text",
+   "en": "...That's why girls kill themselves under the ginkgo.\nThe Sanbura tree, like the ginkgo and the cycad, is a plant with separate male and female trees.\nIt's facing extinction because there are overwhelmingly too few female trees compared to male ones.\nAt this rate, no one will ever be able to drink Sanbura tea again!\nThinking that, I studied the Sanbura tree's ecology with all my might, determined to protect it somehow.\nAnd at last, I succeeded in a certain kind of selective breeding.\"\nWith that, Takeuchi twisted the corner of his mouth into a smile.\n\"And the tea that came of it is... this.\"{p}"
+  },
+  {
+   "id": "67:2fcc",
+   "op": "text",
+   "en": "When he said that, I glanced at the table, and before I knew it, a white teacup had been set there.\nInside the cup was a blackish liquid that looked like coffee at first glance.\nThe grassy smell seemed to be drifting up from this cup.{p}"
+  },
+  {
+   "id": "67:30c0",
+   "op": "text",
+   "en": "\"S-Sanbura tea...☆\"\nHosoda gulped.\n...He's been dying to drink it, after all.\n\"Takeuchi.........\"\nHosoda gazed at Takeuchi with pleading eyes.\nBut...{p}"
+  },
+  {
+   "id": "67:3180",
+   "op": "text",
+   "en": "\"No, Hosoda.\nYou spat it out last time, didn't you?\nI can't let someone like that drink precious Sanbura tea.\nBesides, I blended this cup especially for {a}, and no one else.\"{p}"
+  },
+  {
+   "id": "67:325c",
+   "op": "text",
+   "en": "\"...........Oh.\"\nFlatly turned down, Hosoda was utterly crestfallen.{p}"
+  },
+  {
+   "id": "67:32cc",
+   "op": "text",
+   "en": "\"{a}...\nGo on, drink it.\"\nTakeuchi smiled cheerfully as he offered me the tea.{p}...It's exactly like my dream.\n"
+  },
+  {
+   "id": "67:3348",
+   "op": "choice",
+   "en": "Drink it"
+  },
+  {
+   "id": "67:3350",
+   "op": "choice",
+   "en": "Don't drink it"
+  },
+  {
+   "id": "67:3378",
+   "op": "text",
+   "follows_choice": [
+    "67:3350"
+   ],
+   "en": "\"..........\"\nI didn't drink the tea.\nI mean, if what Hosoda said is true, drinking this tea turns you into a human-plant hybrid, right?\nEven if it didn't, it doesn't look very tasty at all.\nI don't even want to put my lips to it.\n\"What's wrong, {a}...?\nThere's no need to be shy.\nThis is a cup I'm offering up to you.\"\nSlowly, Takeuchi's face drew closer to mine.{p}"
+  },
+  {
+   "id": "67:34fc",
+   "op": "text",
+   "en": "\"{a}...\nJust drink this one cup down, and your whole life will become wonderful.\nListen to me.\nYou're the first woman I've ever offered this tea to.\nThat's how much I like you.\"\nUnder Takeuchi's skin, small green things were squirming around.\nOn his forehead...\nOn his cheeks...\nOn the tip of his nose, even in his eyeballs...\n\"Come now, {a}...\"\nEvery time Takeuchi opened his mouth, his grassy breath blew over me.\nThe same smell as the sun-warmed grass I'd breathed in the dream...{p}"
+  },
+  {
+   "id": "67:369c",
+   "op": "text",
+   "en": "...My head was going hazy, deep inside.\nJust then...{p}"
+  },
+  {
+   "id": "67:36f8",
+   "op": "text",
+   "en": "\"Do wait just a moment!\"\nThe door flew open, and a girl appeared.\nShe had her arms folded, and her attitude was somehow haughty.\nI felt like I'd seen her somewhere before.\n...Who on earth is she?\nThose defiant eyes, that strong-willed mouth...\nI'm sure I've met her somewhere.\nBut where.........?\n...It's no use.\nI just can't remember.\nThe girl strode right up to me and looked me over from the top of my head to the tips of my toes, as if licking me with her eyes.\nAnd then,\n\"So you're {b} {a} of Class 1-E.\"\nshe said, with a little snort.\n...Hmph!\nWhat a nasty attitude.\nShe certainly seems like an upperclassman, but hasn't anyone taught her any manners★\n\"Yes.\nI'm {a}, but who are you?\"\nI asked curtly.{p}"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "rows": {
+  "16:3860": "......................................\n",
+  "16:3fa0": "..................................................................Kazama started scratching his belly, scritch-scratch.\n\"H-hey, what do you think you're doing?!★\"\n{f:I|I} hurriedly stopped him.\nRolling up his shirt so openly like that...\n{f:And with girls in the room, too|Ugh, gross}...{p}",
+  "16:4220": "\"{f:Sorry, sorry|Whoops}.\n{f:I farted.|Do you smell something?}\"\nK-Kazama...\nA horribly dangerous scent was drifting from his raised rear.\n..............................................................{p}",
+  "16:5aa8": "The food at that cafeteria... is awful.\nThe awful story. The end.\n....................................................................................\nI-I wish I hadn't listened.\n\"That cafeteria really is awful, isn't it?{p}",
+  "16:5f3c": "I was beaten.\nTruly beaten...\nThen and there, I resolved to put a line like this in the feature article on the school's seven wonders:\n\"Let me tell you of the greatest of this school's seven wonders: the story of a terrifying human being.\nAt this school there is a terrifyingly flippant guy named Nozomu Kazama.\nThe end.\"\n.............................................................................\nI'd made up my mind, but somehow it felt hollow...{p}",
+  "16:5144": "{f:I|I} began to think about his life, love and death.......................................let's not.\nI don't want to think about that.\nSomehow, I'd lost all my motivation.\nWe're only on the second of the seven wonders, so why do I feel like this{f:?|?}\nSo sluggish.\nI just don't feel like doing anything...\nIs this the work of a spirit{f:?|?}\n.........\n{f:No|No}, it's Kazama's fault{f:.|.}\nKazama's fault alone{f:.|.}\n{f:Honestly|Geez}.\nWhat on earth is this guy{f:?|?}\n...Better not to get too involved with him{f:.|.}\nPulling myself together, {f:I|I} decided to hear the next story.\n\"Well then, let's go on to the next story.\nThe next person is...\"{p}",
+  "16:4dcc": "\"Well then, the next person...\"\n\"Hold {f:on|on} a sec.\nMy story isn't over yet.\"\nKazama started {f:complaining|saying that}.\n\"But you just said, 'The statue moves on its own at night... The end'!\"\n\"{f:Quit nagging|Now, just listen}.\n{f:I'm saying I'll tell you a bit more|I've gotten the urge to tell a bit more}{f:, so quit resisting|, okay}.\nI just thought up a new documentary{f:, see|}.\"\n\"Kazama, a documentary isn't something you just 'think up'...\"\n\"The principal's statue which was erected on March 14, 1990 is made of bronze and its surface is polished to a gleaming shine and moreover it is smooth and firm so that you feel the breath of life in it as if it were alive and furthermore......mutter mutter mutter.........\"\nKazama was muttering away.\n{f:I|I} left him to it and decided to go on to the next story.\n\"Well then, let's go on to the next story.\nNext person, please...\"{p}",
+  "16:35d8": "The club room was so quiet it seemed you could hear each person's heartbeat.\nHot...\nIt was so {f:hot|hot}.\nStreak after streak of sweat ran between my shirt and my skin.\nAfter a spell of silence, Kazama lowered his eyes and began to tell the story of the statue.{p}",
+  "16:64d8": "\"{c}{f:|}... you see, it pains me, {f:how utterly hopeless your attitude is|the way you go about} when you listen to a story.\nA moment ago, you tried to wrap up my story so curtly.\nYou're a member of the newspaper club, aren't you?\n{f:If you can't express|You could have shown} at least the feeling of 'Thank you for that wonderful story...'{f:, what good are you|, couldn't you}?\n{f:Unless you're more sensitive|I think that way}{f:, you'll never make it big.| we'd both feel good.}\"\n...{f:Oh|Oh}, so in the end he's just saying I didn't thank him enough{f:.|.}\nNormally, I don't think that's the sort of thing you go demanding...\nIt can't be helped{f:.|.}\n\"Why, thank you so very much for that truly wonderful story.\nAnd not only that, I'm truly delighted that you even gave me such wonderful advice.\"\n...Ugh, he really is an exhausting person{f:.|.}{p}",
+  "16:7184": "Listen to the story in silence"
+ },
+ "notes": [
+  "16:3860: TODO/FIX dots - standalone silence is 25 ellipsis chars + full stop; English had 29 ellipsis glyphs, now 38 periods (3 per 2, rounded up, full stop absorbed; S067 precedent).",
+  "16:3fa0: FIX dots - opening silence is 44 ellipsis chars; English had 24 glyphs, now 66 periods, no space before Kazama (as source).",
+  "16:4220: TODO - dot run restored: source 41 ellipsis chars + full stop, English had 15 glyphs; now 62 periods.",
+  "16:5aa8: FIX dots - 56-char silence (+ full stop) restored to 84 periods (English had 24 glyphs).",
+  "16:5f3c: FIX dots - 51-char silence (+ full stop) restored to 77 periods (English had 24 glyphs).",
+  "16:5144: FIX dots - trailing-off run is 26 chars; restored to 39 dots (was 30).",
+  "16:4dcc: FIX dots - final run in Kazama's mutter is 6 chars; set to 9 dots (was 6).",
+  "16:3120: RETURN - similar choice to 16:080c (Stay quiet and see what happens); both are accurate, editorial may align wording.",
+  "16:5aa8: UNSURE - opening lines have no quote marks in the source, so kept as narration summarising Kazama's story.",
+  "16:48a8: UNSURE - Because...... uses 6 dots for a 2-char run; longer than the convention, not shortened per brief.",
+  "16:36c8: KEPT - 12-char run inside the statue description already has 30 dots (rule gives 18); not shortened."
+ ]
+}

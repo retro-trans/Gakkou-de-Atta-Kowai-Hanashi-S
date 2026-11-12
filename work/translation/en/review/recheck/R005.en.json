@@ -1,0 +1,1065 @@
+{
+ "unit": "R005",
+ "scenes": [
+  "20",
+  "21",
+  "22",
+  "23",
+  "24",
+  "25",
+  "26"
+ ],
+ "todo": [],
+ "rows": [
+  {
+   "id": "20:1200",
+   "op": "text",
+   "before": "Oh!\nMy dear customer, splendid.\nPicking the Special Course... you really do have a discerning eye.\nThe fee for the Special Course is 10,000 yen.\n10,000 yen is a bargain.\nIt'll show me exactly what you were before you were born into this world.{p}Now then, I'll have you pay that 10,000 yen.\n",
+   "en": "Oh!\nSplendid, my dear customer.\nPicking the Special Course... you really do have a discerning eye.\nThe fee for the Special Course is 10,000 yen.\n10,000 yen is a bargain.\nIt'll show me exactly what you were before you were born into this world.{p}Now then, I'll have you pay that 10,000 yen.\n",
+   "edit_notes": [
+    "20:1200: EDIT - awkward 'My dear customer, splendid.' -> 'Splendid, my dear customer.'"
+   ]
+  },
+  {
+   "id": "20:1b74",
+   "op": "text",
+   "before": "Say this charm, and you'll get a more accurate picture of your past life.\nAnd that's not all.\nYou'll get smarter, and a wonderful romance will come true for you too.\nYou should chant it at least three times a day.\nReady?\nSay it in unison now.\n\"Kazama is magnificent.\"{p}Go on, say it.\n",
+   "en": "Say this charm, and you'll get a more accurate picture of your past life.\nAnd that's not all.\nYou'll get smarter, and a wonderful romance will come true for you too.\nYou should chant it at least three times a day.\nReady?\nAll together now.\n\"Kazama is magnificent.\"{p}Go on, say it.\n",
+   "edit_notes": [
+    "20:1b74: EDIT - 'Say it in unison now' (only the player speaks) -> idiomatic 'All together now'"
+   ]
+  },
+  {
+   "id": "20:1d9c",
+   "op": "choice",
+   "before": "You've had enough and get angry",
+   "en": "Get fed up and angry",
+   "edit_notes": [
+    "20:1d9c: EDIT - choice 'You've had enough and get angry' mixed second person into a command-style choice -> 'Get fed up and angry'"
+   ]
+  },
+  {
+   "id": "20:20f8",
+   "op": "choice",
+   "before": "A sea slug",
+   "en": "Sea slug",
+   "edit_notes": [
+    "20:20f8: EDIT - 'A sea slug' -> 'Sea slug' so it matches the other five candidates (no article)"
+   ]
+  },
+  {
+   "id": "20:2170",
+   "op": "text",
+   "before": "...Ding-dong-diiing!\n...Sad to say, that's the reality.\nBefore you were born into this world, you were actually a giant salamander!\n...Shocked?\nBut don't let it get you down.\nGiant salamanders are living creatures too.\nThey say they're delicious to eat, you know.\nIt doesn't just live, it makes good food too. Quite a great guy, isn't it?\nYou should be proud that a giant salamander like that was your past life.\n",
+   "en": "...Ding-dong-diiing!\n...Sad to say, that's the reality.\nBefore you were born into this world, you were actually a giant salamander!\n...Shocked?\nBut don't let it get you down.\nGiant salamanders are living creatures too.\nThey say they're delicious to eat, you know.\nNot only does it live, it makes good eating too. That's a pretty great guy, isn't it?\nYou should be proud that a giant salamander like that was your past life.\n",
+   "edit_notes": [
+    "20:2170: EDIT - stiff 'It doesn't just live, it makes good food too. Quite a great guy' -> natural phrasing, same meaning"
+   ]
+  },
+  {
+   "id": "20:34dc",
+   "op": "text",
+   "before": "What nerve, saying something like that.\nEven someone as good-natured as me is going to get angry.\nYou were not a human.\nIt's true the personality you have now is something you inherited from your past life.\nBut it's not that the personality of some human in a past life is showing through.\n...I'll tell you plainly.\n",
+   "en": "What nerve, saying something like that.\nEven someone as good-natured as me is going to get angry.\nYou were not a human.\nIt's true the personality you have now is something you inherited from your past life.\nBut that doesn't mean it's the personality of a human past life showing through.\n...I'll tell you plainly.\n",
+   "edit_notes": [
+    "20:34dc: EDIT - tangled 'But it's not that the personality of some human in a past life is showing through' -> clearer"
+   ]
+  },
+  {
+   "id": "20:48e8",
+   "op": "text",
+   "before": "I see...\nSo the time has finally come...\nI really didn't want to do this reading...\nOh well.\nI'll do it for you.\nThis reading uses a warty toad.\nYou know Kokkuri-san, right?\nThe Warty Toad Course is something like Kokkuri-san...\nOnly instead of a ten-yen coin, you use a warty toad.\nA live warty toad, mind you.\nYou hypnotize it and put it to sleep so it won't move.\nThen you call down into that toad the god of warty toads, who rules over every warty toad in the world.\nTo tell the truth, I had a feeling someone would beg me for this course today.\nSo I came properly prepared.{p}",
+   "en": "I see...\nSo the time has finally come...\nI really didn't want to do this reading...\nOh well.\nI'll do it for you.\nThis reading uses a warty toad.\nYou know Kokkuri-san, right?\nThe Warty Toad Course is something like Kokkuri-san...\nOnly instead of a ten-yen coin, you use a warty toad.\nA live warty toad, mind you.\nYou hypnotize it and put it to sleep so it won't move.\nThen you call down into that toad the god of warty toads, ruler of every warty toad in the world.\nTo tell the truth, I had a feeling someone would beg me for this course today.\nSo I came properly prepared.{p}",
+   "edit_notes": [
+    "20:48e8: EDIT - awkward trailing clause -> 'the god of warty toads, ruler of every warty toad in the world'"
+   ]
+  },
+  {
+   "id": "20:51ec",
+   "op": "text",
+   "before": "I see.\nThen I'll take ten thousand yen.\nCome along, {a}.{p}Hand over the ten thousand yen.\n",
+   "en": "I see.\nThen I'll take 10,000 yen.\nCome now, {a}.{p}Kindly hand over the 10,000 yen.\n",
+   "edit_notes": [
+    "20:51ec: EDIT - returns note settled: lofty 'Kindly hand over' for dashita-mae; 'Come along' (= follow me) -> 'Come now'",
+    "20:51ec/5f98/6fc0: EDIT - amounts written '10,000 yen' as in the choices and the Special Course lines (chunk mixed 'ten thousand yen'); '10,300 yen' easier to read; 'ten-thousand-yen bill' kept"
+   ]
+  },
+  {
+   "id": "20:5f98",
+   "op": "text",
+   "before": "Kazama's eyes gleamed.\n\"Heh heh heh.\nNormally, ten thousand yen plus consumption tax should have come to ten thousand three hundred yen.\nBut as a special favor, I'll make it ten thousand yen, tax included...\"\nHmph.\nWh-what a guy.{p}",
+   "en": "Kazama's eyes gleamed.\n\"Heh heh heh.\nNormally, 10,000 yen plus consumption tax would come to 10,300 yen.\nBut as a special favor, I'll make it 10,000 yen, tax included...\"\nHmph.\nWh-what a guy.{p}"
+  },
+  {
+   "id": "20:6fc0",
+   "op": "text",
+   "before": "Katsudon, huh...\nThat feeling of the meat juices sizzling and spreading through your mouth.\nThat's the real joy of katsudon, isn't it?\nI got ten thousand yen, so maybe I'll swing by the cafeteria later...\nOoh-hoo-hoo-hoo...\nNow, let's continue the reading.\nYour past life is gradually coming into view.\nNobody who likes katsudon is a bad person.\nSo you can't have been all that bad.\n...That much I can already see at this point.{p}",
+   "en": "Katsudon, huh...\nThat feeling of the meat juices sizzling and spreading through your mouth.\nThat's the real joy of katsudon, isn't it?\nI got 10,000 yen, so maybe I'll swing by the cafeteria later...\nOoh-hoo-hoo-hoo...\nNow, let's continue the reading.\nYour past life is gradually coming into view.\nNobody who likes katsudon is a bad person.\nSo you can't have been all that bad.\n...That much I can already see at this point.{p}"
+  },
+  {
+   "id": "20:7484",
+   "op": "text",
+   "before": "...Hm?\nIs this a message from your past life?\nMaybe your cheekiness is a fact that hasn't changed since your past life.\nHmmm...\nA cheeky man...\n",
+   "en": "...Hm?\nIs this a message from your past life?\nMaybe you've been cheeky ever since your past life.\nHmmm...\nA cheeky man...\n",
+   "edit_notes": [
+    "20:7484: EDIT - clumsy 'your cheekiness is a fact that hasn't changed since your past life' -> 'you've been cheeky ever since your past life'"
+   ]
+  },
+  {
+   "id": "20:7520",
+   "op": "text",
+   "before": "Maybe you were a prince of some country...\n...No, nothing's been settled that clearly yet.\nBut that might be close...\nEven supposing you weren't a prince.\nYou could've been a prince's aide, or his pet...\nOr an ingredient in a dish served at the prince's table...\nThose possibilities are all still open.\n...You don't believe me?\nRight!\nThen I'll read your fortune in even more detail☆{p}",
+   "en": "Maybe you were a prince of some country...\n...No, it hasn't been settled that clearly yet.\nBut it might be close...\nEven if you weren't a prince, though.\nYou could've been a prince's aide, or his pet...\nOr an ingredient in a dish served at the prince's table...\nThose possibilities are all still open.\n...You don't believe me?\nAll right!\nThen I'll read your fortune in even more detail☆{p}",
+   "edit_notes": [
+    "20:7520: EDIT - 'nothing's been settled' -> 'it hasn't been settled'; fragment 'Even supposing you weren't a prince.' -> 'Even if you weren't a prince, though.'; 'Right!' (yoshi) -> 'All right!'"
+   ]
+  },
+  {
+   "id": "20:799c",
+   "op": "text",
+   "before": "Traveling, huh?\nYou do love that sort of thing, don't you?\n...You're out to pick up girls, right?\nI know all about it.\nNo, you don't have to hide it.\nI think I've got your personality figured out.\nYou seem like a simple guy.\nThe fortune says so too.\nYour past life must have been a pretty simple fellow too.\nWell, don't let it get you down.\nEven if your past life was nothing special, you can just try hard from now on.\nOf course, some people never get rewarded however hard they try.\n...Why the sulky face?\nAre you feeling gloomy now?\nThen how about I blow that mood away for you?\nAs a special treat, just for you, since you chose the Special Course, I'll teach you a marvelous charm.{p}",
+   "en": "Traveling, huh?\nYou do love that sort of thing, don't you?\n...You're out to pick up girls, right?\nI know all about it.\nNo, you don't have to hide it.\nI think I've got your personality figured out.\nYou seem like a simple guy.\nThe fortune says so too.\nIn your past life, you must have been a pretty simple fellow too.\nWell, don't let it get you down.\nEven if your past life was nothing special, you can just try hard from now on.\nOf course, some people never get rewarded however hard they try.\n...Why the sulky face?\nAre you feeling gloomy now?\nThen how about I blow that mood away for you?\nAs a special treat, just for you, since you chose the Special Course, I'll teach you a marvelous charm.{p}",
+   "edit_notes": [
+    "20:799c: EDIT - 'Your past life must have been a pretty simple fellow' (a past life is not a fellow) -> 'In your past life, you must have been...'"
+   ]
+  },
+  {
+   "id": "20:80ec",
+   "op": "text",
+   "before": "\"No way... I wouldn't say that even if you tore my mouth open!\"\nWhen I stood my ground...{p}",
+   "en": "\"No way... I'd never say that, not even if you tore my mouth open!\"\nWhen I stood my ground...{p}",
+   "edit_notes": [
+    "20:80ec: EDIT - player's spoken line matched to its choice echo 20:1d78 ('I'd never say that, not even if you tore my mouth open')"
+   ]
+  },
+  {
+   "id": "20:8488",
+   "op": "text",
+   "before": "...Or so I thought, but suddenly he grinned and started saying this:\n\"{a}... I can see your past life clearly now.\nIt's really hard to say, but...\"\nKazama wore a nasty smile.\nWhat is with this guy?\nHe's not going to say something nasty because he's mad I ignored him, is he?{p}",
+   "en": "...Or so I thought, but then he suddenly grinned and said this:\n\"{a}... I can see your past life clearly now.\nIt's really hard to say, but...\"\nKazama wore a spiteful smile.\nWhat is with this guy?\nHe's not going to say something nasty because he's mad I ignored him, is he?{p}",
+   "edit_notes": [
+    "20:8488: EDIT - smoother 'then he suddenly grinned and said this:'; 'nasty smile' -> 'spiteful smile' to avoid repeating 'nasty' two lines later"
+   ]
+  },
+  {
+   "id": "20:8780",
+   "op": "text",
+   "before": "Whoa!\nYou've got pretty sharp intuition!\nYour past life was a sea slug.\nPhew, what a relief!\nThat you guessed it, I mean.\nIt would've been a bit hard to say that with my own mouth.{p}",
+   "en": "Whoa!\nYou've got pretty sharp intuition!\nYour past life was a sea slug.\nPhew, I'm so glad\nyou guessed it.\nIt would've been a bit hard to say something like that myself.{p}",
+   "edit_notes": [
+    "20:8780: EDIT - disjointed 'Phew, what a relief! / That you guessed it, I mean.' -> 'Phew, I'm so glad / you guessed it.' (keeps the source's two-line split); 'with my own mouth' -> 'myself'"
+   ]
+  },
+  {
+   "id": "20:89e4",
+   "op": "text",
+   "before": "...Actually, you're exactly right.\nYou were a sea anemone drifting in swarms in a certain sea.\nI even know your name.\nYou were called Anemone Jack.\nYou were a really cute sea anemone.\nAfter you died, you became beautiful coral and ended up as the necklace of a queen of a certain country.\nYou played a starring role, you know.\n...That's a lie.\nThe Anemone Jack part is true, though.\nThe coral necklace and the starring role are the big lies.\nHa ha ha...\nFrom birth to death, you were just Anemone Jack.\n",
+   "en": "...Actually, you're exactly right.\nYou were a sea anemone drifting in swarms in a certain sea.\nI even know your name.\nYou were called Anemone Jack.\nYou were a really cute sea anemone.\nAfter you died, you became beautiful coral and ended up as a necklace for the queen of a certain country.\nYou played a starring role, you know.\n...That's a lie.\nThe Anemone Jack part is true, though.\nThe coral necklace and the starring role are the big lies.\nHa ha ha...\nFrom birth to death, you were just Anemone Jack.\n",
+   "edit_notes": [
+    "20:89e4: EDIT - 'the necklace of a queen of a certain country' -> 'a necklace for the queen of a certain country'"
+   ]
+  },
+  {
+   "id": "20:8eac",
+   "op": "text",
+   "before": "Hmmmmm?\nWhat are you talking about?\nI read your past life correctly, you know.\nJust because you didn't like the result, it's not nice to take that attitude.{p}",
+   "en": "Hmmmmm?\nWhat are you talking about?\nI read your past life correctly, you know.\nIt's not nice to take that attitude just because you didn't like the result.{p}",
+   "edit_notes": [
+    "20:8eac: EDIT - reordered awkward 'Just because you didn't like the result, it's not nice...' into natural order"
+   ]
+  },
+  {
+   "id": "21:0118",
+   "op": "text",
+   "before": "...What on earth is with this Kazama guy?\nThis is supposed to be a meeting to hear about the school's seven wonders.\nBut this way, it's like we're at the rakugo comedy club.\nKazama is looking over at me, grinning away.\nWhat a hopeless guy.\nWe'd been having such a great time with scary stories up to now, and at the very end, I have to sit through this nonsense...\nUgh, what a miserable day this has been.\nEveryone else looks completely deflated, too.\nAnd the seventh one never showed up, no matter how long we waited...\nForget it. I'm done, I'm done.{p}",
+   "en": "...What on earth is with this Kazama guy?\nThis is supposed to be a meeting to hear about the school's seven wonders.\nBut the way things are going, you'd think this was the rakugo comedy club.\nKazama is looking over at me, grinning away.\nWhat a hopeless guy.\nWe'd been having such a great time with scary stories up to now, and at the very end, I have to sit through this nonsense...\nUgh, what a miserable day this has been.\nEveryone else looks completely deflated, too.\nAnd the seventh one never showed up, no matter how long we waited...\nForget it. I'm done, I'm done.{p}",
+   "edit_notes": [
+    "21:0118: EDIT - clumsy 'But this way, it's like we're at the rakugo comedy club' -> 'But the way things are going, you'd think this was the rakugo comedy club'"
+   ]
+  },
+  {
+   "id": "21:0484",
+   "op": "text",
+   "before": "\"Oh, Hino!\"\nMy eyes went wide.\nThe door had opened, and there was Hino peeking in: Hino, who had set up this meeting and gathered the six of them for me.\n\"Hey, {a}.\nYou're working pretty late.\nI could still hear people talking in here.\nSo I figured I'd stop by.\"\nHino glanced around the room as he said this to me.\nHe'd said he was too busy to come today, but he must have gotten worried and come by after all.\nHe's a senior I can really count on.\n\"Oh, Hino.\nThank you for coming all this way.\nIn the end one person never came, but we somehow got through the seven wonders meeting.\nI'm just about to send everyone home.\"{p}",
+   "en": "\"Oh, Hino!\"\nMy eyes went wide.\nThe door had opened, and there was Hino peeking in: Hino, who had set up this meeting and gathered the six of them for me.\n\"Hey, {a}.\nYou're working pretty late.\nI could still hear people talking in here.\nSo I figured I'd stop by.\"\nHino said this to me, glancing around the room.\nHe'd said he was too busy to come today, but he must have gotten worried and come by after all.\nHe's a senior I can really count on.\n\"Oh, Hino.\nThank you for coming all this way.\nIn the end one person never came, but we somehow got through the seven wonders meeting.\nI'm just about to send everyone home.\"{p}",
+   "edit_notes": [
+    "21:0484: EDIT - stiff 'Hino glanced around the room as he said this to me' -> 'Hino said this to me, glancing around the room'"
+   ]
+  },
+  {
+   "id": "21:0884",
+   "op": "text",
+   "before": "\"...What's wrong with you? You look like you've seen a ghost.\nWeren't you here today getting ready for tomorrow?\nTomorrow's the real thing, after all. Go home early today and get ready for tomorrow.\"\nHino gave my shoulder a couple of pats.\nA voice echoed inside my head.{p}",
+   "en": "\"...What's wrong with you? You look like you've seen a ghost.\nWeren't you here today getting ready for tomorrow?\nTomorrow's the real thing, after all. Go home early and get yourself ready.\"\nHino gave my shoulder a couple of pats.\nA voice echoed inside my head.{p}",
+   "edit_notes": [
+    "21:0884: EDIT - 'tomorrow' three times in two lines; 'Go home early today and get ready for tomorrow' -> 'Go home early and get yourself ready' (meaning unchanged)"
+   ]
+  },
+  {
+   "id": "21:0a78",
+   "op": "text",
+   "before": "\"What's gotten into you, shouting all of a sudden?\"\n\"Hino, please!\nI can't handle a job this big after all.\nSomeone... please get someone else to do it tomorrow instead!\nI can't take any more of this!\"\nWhat kind of face was I making then?\nBut judging from Hino's expression as he listened to me... I must have looked like I'd seen a real ghost.{p}",
+   "en": "\"What's gotten into you, shouting all of a sudden?\"\n\"Hino, please!\nI can't handle a job this big after all.\nSomeone... please get someone else to do it tomorrow instead!\nI can't take any more of this!\"\nI wonder what kind of face I was making just then.\nBut judging from Hino's expression as he listened to me... I must have looked like I'd seen a real ghost.{p}",
+   "edit_notes": [
+    "21:0a78: EDIT - 'What kind of face was I making then?' -> 'I wonder what kind of face I was making just then.' (reflective narration, smoother lead-in to the next sentence)"
+   ]
+  },
+  {
+   "id": "22:3338",
+   "op": "text",
+   "before": "Apparently, in that restroom, hands come out of the toilet.\nAnd if the hands take a liking to you, you get taken away to the spirit world.\nOf course, they only come out of the toilet bowl; there don't seem to be any rumors of anyone seeing hands filling the whole doorway like I did back then.{p}",
+   "en": "Apparently, in that restroom, hands come out of the toilet.\nAnd if the hands take a liking to you, you get taken away to the spirit world.\nMind you, they only come out of the toilet bowl; there don't seem to be any rumors of anyone seeing hands filling the whole doorway like I did back then.{p}",
+   "edit_notes": [
+    "22:3338: EDIT - concessive 'Of course,' read as agreement; -> 'Mind you,' so the contrast with what he saw is clear"
+   ]
+  },
+  {
+   "id": "22:3db8",
+   "op": "text",
+   "before": "He flinched for a second, and I shook off his hand and ran.\nI figured if I could get back to the exam room, I'd be okay.\nOne more turn and I'd be right at the exam room... and that's when I noticed a strange noise behind me.\n",
+   "en": "He flinched for a second, and I shook off his hand and ran.\nI figured if I could get back to the exam room, I'd be okay.\nJust around the next corner was the exam room... and that's when I noticed a strange noise behind me.\n",
+   "edit_notes": [
+    "22:3db8: EDIT - clumsy 'One more turn and I'd be right at the exam room' -> 'Just around the next corner was the exam room'"
+   ]
+  },
+  {
+   "id": "22:5144",
+   "op": "text",
+   "before": "Even I'm not that much of a soft touch.\nBesides, if Nakano hadn't gone and let his foot get grabbed, none of this would have happened.{p}",
+   "en": "I may be a soft touch, but not that much of one.\nBesides, if Nakano hadn't gone and let his foot get grabbed, none of this would have happened.{p}",
+   "edit_notes": [
+    "22:5144: EDIT - 'Even I'm not that much of a soft touch' is ambiguous; -> 'I may be a soft touch, but not that much of one' (keeps the self-deprecating sense of the source)"
+   ]
+  },
+  {
+   "id": "22:6ab8",
+   "op": "text",
+   "before": "And I saw Nakano with his mouth stretched wide open in an unnatural shape, tears spilling from his eyes.\nNo matter how I looked at it, the only explanation was that fingers had been shoved into his mouth and were prying it open.\nI had no idea why they were doing that.\nBut I think they were probably doing it so the prey they'd finally caught wouldn't get away again.\nThey must have figured it'd be trouble if he yelled loud like I had and escaped.\nNakano was thrashing desperately to get away too, but it barely looked like he was even squirming.\nThen again, he was up against a dozen or so people's worth of hands, so I guess it couldn't be helped.\nI couldn't do anything; I just sat there, shaking all over.\nYou're impressed I didn't run away?\nNo, that's not it. I wanted to run more than anything, but I guess my legs had given out on me.\nMy lower body wouldn't listen to me.\nEven when I tried to stand up, I had no strength.\nEven when I tried to look away, I couldn't take my eyes off what was happening in there.\nEven though I was scared out of my mind.\nMaybe I was frozen by some kind of spell.{p}",
+   "en": "And I saw Nakano with his mouth stretched wide open in an unnatural shape, tears spilling from his eyes.\nNo matter how I looked at it, the only explanation was that fingers had been shoved into his mouth and were prying it open.\nI had no idea why they were doing that.\nBut I think they were probably doing it so the prey they'd finally caught wouldn't get away again.\nThey must have figured it'd be trouble if he yelled loud like I had and escaped.\nNakano was thrashing desperately to get away too, but it barely looked like he was even squirming.\nThen again, he was up against a dozen or so people's worth of hands, so I guess it couldn't be helped.\nI couldn't do anything; I just sat there, shaking all over.\nYou're impressed I didn't run away?\nNo, that's not it. I wanted to run more than anything, but I guess my legs had given out on me.\nMy lower body wouldn't listen to me.\nEven when I tried to stand up, I had no strength.\nEven when I tried to look away, I couldn't take my eyes off what was happening in there.\nEven though I was scared out of my mind.\nMaybe I'd been struck by some kind of paralysis.{p}",
+   "edit_notes": [
+    "22:6ab8: EDIT - returns note settled: 'frozen by some kind of spell' -> 'struck by some kind of paralysis' (terms_live: kanashibari = paralysis)"
+   ]
+  },
+  {
+   "id": "22:96ec",
+   "op": "text",
+   "before": "That voice itself felt like a ghost, and it scared me so much.\nI raced desperately up the stairs, and at long last I made it to the floor where the exam rooms were.{p}",
+   "en": "That voice itself seemed like a ghost's, and it scared me so much.\nI raced desperately up the stairs, and at long last I made it to the floor where the exam rooms were.{p}",
+   "edit_notes": [
+    "22:96ec: EDIT - 'felt like a ghost' -> 'seemed like a ghost's' (the voice seemed ghostly, clearer)"
+   ]
+  },
+  {
+   "id": "22:9c38",
+   "op": "text",
+   "before": "The exam period finally ended, and it was break time.\nLunch break came after third period, so I hurried through my lunch and then went to check that restroom.\nSure, I was really scared.\nIf it weren't for Nakano, I'd never have wanted to go near that place again.\nBut even if I'd only just met him, a guy I'd been talking with had gone through something like that.\nAnd on top of that, he hadn't even shown up for the exam.{p}",
+   "en": "The exam was finally over, and it was break time.\nLunch break came after third period, so I hurried through my lunch and then went to check that restroom.\nSure, I was really scared.\nIf it weren't for Nakano, I'd never have wanted to go near that place again.\nBut even if I'd only just met him, a guy I'd been talking with had gone through something like that.\nAnd on top of that, he hadn't even shown up for the exam.{p}",
+   "edit_notes": [
+    "22:9c38: EDIT - 'exam period' read as the whole exam season; source is that one exam's time -> 'The exam was finally over'"
+   ]
+  },
+  {
+   "id": "22:9f50",
+   "op": "text",
+   "before": "I couldn't sense any ghostly aura from it at all.\nIt looked like a perfectly ordinary restroom.\nI worked up my nerve, went inside, and decided to look for Nakano.\nI stepped in, but no invisible hands grabbed me like before.\nI mean, there are only so many places to look in a restroom, right?\nUnless someone's hiding in a stall or in the cleaning closet, you can see the whole place from the entrance.\nI went around peeking into the stalls, one by one.\nAnd finally, it was time to look in the last stall.\nIt was the one closest to the hallway, a dark, damp stall.{p}",
+   "en": "I couldn't sense any ghostly aura from it at all.\nIt looked like a perfectly ordinary restroom.\nI worked up my nerve and decided to go inside and look for Nakano.\nI stepped in, but no invisible hands grabbed me like before.\nI mean, there are only so many places to look in a restroom, right?\nUnless someone's hiding in a stall or in the cleaning closet, you can see the whole place from the entrance.\nI went around peeking into the stalls, one by one.\nAnd finally, it was time to look in the last stall.\nIt was the one closest to the hallway, a dark, damp stall.{p}",
+   "edit_notes": [
+    "22:9f50: EDIT - illogical order 'went inside, and decided to look' -> 'decided to go inside and look'"
+   ]
+  },
+  {
+   "id": "22:a178",
+   "op": "text",
+   "before": "It gave me the creeps, but when I peeked in, something was lying beside the toilet.\nI went over and picked it up: it was a button off a school uniform.\nI couldn't tell which school it was from, but I could tell it wasn't from this high school's uniform, at least.\n\"Ah!\"\nIn a flash, it came to me.\nThat it might be a button that had fallen off Nakano's uniform.\nThere was nothing to back that up, but I was sure this had to be Nakano's button.\n\"Nakano...\"\nThe moment I murmured that...{p}",
+   "en": "It gave me the creeps, but when I peeked in, something was lying beside the toilet.\nI went over and picked it up: it was a button off a school uniform.\nI couldn't tell which school it was from, but at least I could tell it wasn't from this high school.\n\"Ah!\"\nIn a flash, it came to me.\nThat it might be a button that had fallen off Nakano's uniform.\nThere was nothing to back that up, but I was sure this had to be Nakano's button.\n\"Nakano...\"\nThe moment I murmured that...{p}",
+   "edit_notes": [
+    "22:a178: EDIT - clumsy 'wasn't from this high school's uniform, at least' -> 'at least I could tell it wasn't from this high school'"
+   ]
+  },
+  {
+   "id": "22:a5d4",
+   "op": "text",
+   "before": "There was no telling when those hands from before would come out.\nSobbing and screaming, I kept pounding on the door with my fists.\nEven so, nobody came, and the door didn't open.\nWhile I was doing that, I felt like I could hear something mixed in with the pounding.\nI stopped pounding on the door and listened closely.\n...I couldn't hear a thing.\nBut even though my ears couldn't hear it, I was sure I could hear something.\nIt felt like it was coming from the door.\nI got scared to be near the door, so I pressed myself against the back wall to get as far from it as I could, and stared at the door.\nAnd then I noticed something.\nYou know how restroom doors are always covered in graffiti, right?\nDirty drawings, or\n\"Love you, So-and-so! From Such-and-such, Class 2-B\"\nand messages like that.\nAt first I figured it was more of that and didn't pay it any mind, but then I noticed one piece of graffiti that said something different.\nI thought it was written in pencil, but when I looked closely, it looked like it had been scratched in with a fingernail or something.\nThis is what the graffiti said.{p}",
+   "en": "There was no telling when those hands from before would come out.\nSobbing and screaming, I kept pounding on the door with my fists.\nEven so, nobody came, and the door didn't open.\nWhile I was doing that, I felt like I could hear something mixed in with the pounding.\nI stopped pounding on the door and listened closely.\n...I couldn't hear a thing.\nBut even though my ears couldn't hear it, I was sure I could hear something.\nIt felt like it was coming from the door.\nI got scared to be near the door, so I pressed myself against the back wall to get as far from it as I could, and stared at the door.\nAnd then I noticed something.\nYou know how restroom doors often have graffiti on them, right?\nDirty drawings, or\n\"Love you, So-and-so! From Such-and-such, Class 2-B\"\nand messages like that.\nAt first I figured it was more of that and didn't pay it any mind, but then I noticed one piece of graffiti that said something different.\nI thought it was written in pencil, but when I looked closely, it looked like it had been scratched in with a fingernail or something.\nThis is what the graffiti said.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "22:b528",
+   "op": "text",
+   "before": "(That's it, I'll go get a teacher.)\nThat's what I thought, and I ran off to get a teacher.\nI knew bringing a teacher wouldn't really solve anything, but I figured it was better than going in to help all by myself.\nPart of it was that I was scared to go into that restroom alone again, too...\n",
+   "en": "(That's it, I'll go get a teacher.)\nThat's what I thought, so I ran off to find one.\nI knew bringing a teacher wouldn't really solve anything, but I figured it was better than going in to help all by myself.\nPart of it was that I was scared to go into that restroom alone again, too...\n",
+   "edit_notes": [
+    "22:b528: EDIT - repeated 'get a teacher' twice in a row -> 'so I ran off to find one'"
+   ]
+  },
+  {
+   "id": "22:bd08",
+   "op": "text",
+   "before": "When I looked closer, it seemed Nakano was being tickled too.\nHe must have laughed so hard he couldn't breathe.\n\"Nakano! Nakano!\"\nI called his name, but there was no response at all.\n{a}{f:|}, just imagine it.\nBeing tickled by invisible hands.\nI couldn't stand it.\nEven if you try to escape, dozens of hands hold you down, and you can't move.\nAnd in that state, they tickle you.\nRather than have that done to you, you'd start thinking how much happier you'd be if they just killed you in one go.\nAfter writhing and staggering around for a while, the teacher collapsed onto the floor.\nNakano was convulsing, foaming at the mouth, snot running from his nose.\nI couldn't bear the sight anymore, and I ran away.{p}",
+   "en": "When I looked closer, it seemed Nakano was being tickled too.\nHe must have laughed so hard he couldn't breathe.\n\"Nakano! Nakano!\"\nI called his name, but there was no response at all.\n{a}{f:|}, just imagine it.\nBeing tickled by invisible hands.\nI could never stand that.\nEven if you try to escape, dozens of hands hold you down, and you can't move.\nAnd in that state, they tickle you.\nRather than have that done to you, you'd start thinking how much happier you'd be if they just killed you in one go.\nAfter writhing and staggering around for a while, the teacher collapsed onto the floor.\nNakano was convulsing, foaming at the mouth, snot running from his nose.\nI couldn't bear the sight anymore, and I ran away.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "22:c08c",
+   "op": "text",
+   "before": "...The next thing I knew, I was shaking at a desk in the classroom.\nI didn't remember at all which way I'd come to get back there.\nMy legs were trembling, and I was breaking out in a greasy sweat.\nApparently I looked pretty awful at the time.\nI mean, a total stranger, another examinee sitting nearby, got worried and spoke to me.\nI thought about what to do.\nI knew I had to tell someone and call for help.\nBut when I thought I might get dragged in by the invisible hands again like before, I couldn't tell anyone.\n",
+   "en": "...The next thing I knew, I was shaking at a desk in the classroom.\nI had no memory at all of how I'd gotten back there.\nMy legs were trembling, and I was breaking out in a greasy sweat.\nApparently I looked pretty awful at the time.\nI mean, a total stranger, another examinee sitting nearby, got worried and spoke to me.\nI thought about what to do.\nI knew I had to tell someone and call for help.\nBut when I thought I might get dragged in by the invisible hands again like before, I couldn't tell anyone.\n",
+   "edit_notes": [
+    "22:c08c: EDIT - clumsy 'didn't remember at all which way I'd come to get back there' -> 'had no memory at all of how I'd gotten back there'"
+   ]
+  },
+  {
+   "id": "22:c638",
+   "op": "text",
+   "before": "I did think about it, but that was the one thing I just couldn't do.\nThose invisible hands might still be crowding around in there...\n\"It's fine. Nakano must have gotten away, I'm sure of it.\nThen he got scared and went home.\nEven I want to blow off the exams and go home.\nYeah, that has to be it.\"{p}",
+   "en": "I did think about it, but that was the one thing I just couldn't do.\nThose invisible hands might still be crowding around in there...\n\"It's fine. Nakano must have gotten away, I'm sure of it.\nThen he got scared and went home.\nI kind of want to blow off the exams and go home myself.\nYeah, that has to be it.\"{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "22:c84c",
+   "op": "text",
+   "before": "\"N-Nakano!\"\nThat's right, standing there was Nakano, changed into blue clothes.\n\"That was awful of you, Hosoda.\nLeaving me behind all alone.\"\nHe seemed genuinely angry.\n\"Where have you been all this time?\nI was looking for you.\"\nWhen I asked him that, he glanced around and told me in a low voice.\n\"Actually, back then I got so scared I wet myself.\nI'm only telling you because I trust you.\nDon't tell anyone, okay?\nSo I talked to a teacher, borrowed a change of clothes, and took the exam in the conference room.\nThere wasn't time to get to the exam room, so I got special permission.\nOnce time's up, you can't get into the classroom.\"\n\"So that's what happened...\"\nI suddenly felt terrible, and I apologized to Nakano.\n\"I'm sorry.\nI was panicking too back then, and I couldn't spare a thought for helping you.\nI'm really sorry.\"\n\"Well, it's fine.\nBut in exchange, I want you to come with me for a bit once all the exams are over.\"\nThat's what Nakano said.\nI felt really bad too, so I just said sure, without a second thought.\nLooking back now, I wish I hadn't agreed so easily.{p}",
+   "en": "\"N-Nakano!\"\nThat's right, standing there was Nakano, who had changed into blue clothes.\n\"That was awful of you, Hosoda.\nLeaving me behind all alone.\"\nHe seemed genuinely angry.\n\"Where have you been all this time?\nI was looking for you.\"\nWhen I asked him that, he glanced around and told me in a low voice.\n\"Actually, back then I got so scared I wet myself.\nI'm only telling you because I trust you.\nDon't tell anyone, okay?\nSo I talked to a teacher, borrowed a change of clothes, and took the exam in the conference room.\nThere wasn't time to get to the exam room, so I got special permission.\nOnce time's up, you can't get into the classroom.\"\n\"So that's what happened...\"\nI suddenly felt terrible, and I apologized to Nakano.\n\"I'm sorry.\nI was panicking too back then, and I couldn't spare a thought for helping you.\nI'm really sorry.\"\n\"Well, it's fine.\nBut in exchange, I want you to come with me for a bit once all the exams are over.\"\nThat's what Nakano said.\nI felt really bad too, so I just said sure, without a second thought.\nLooking back now, I wish I hadn't agreed so easily.{p}",
+   "edit_notes": [
+    "22:c84c: EDIT - stiff 'Nakano, changed into blue clothes' -> 'Nakano, who had changed into blue clothes'"
+   ]
+  },
+  {
+   "id": "22:d634",
+   "op": "text",
+   "before": "Wondering what he'd left behind, I searched under the sinks and around the urinals.\nBut thinking back, I had a feeling that Nakano hadn't been carrying anything when we first came to this restroom.\nNo matter how hard I tried to remember, I felt sure he'd had nothing with him.\n(What on earth did he leave behind...?)\nAs I was thinking that, Nakano called out.\n\"Found it. I found it, Hosoda.\"\nHe said it in a voice that didn't sound very happy.\nWhen I turned around, Nakano was standing at the door of a stall, looking inside.\n\"That's great, Nakano.\nLet's hurry up and take it back.\nWe'd better get out of this creepy place fast.\"\nI was worried those hands might come out again at any moment, so I wanted to get out of there quickly.\nNakano was staring intently into the toilet...\n\"What's wrong?\"\nI called to Nakano and looked into the stall over his shoulder as he stood at the door.{p}",
+   "en": "Wondering what he'd left behind, I searched under the sinks and around the urinals.\nBut thinking back, I had a feeling that Nakano hadn't been carrying anything when we first came to this restroom.\nNo matter how hard I tried to remember, I felt sure he'd had nothing with him.\n(What on earth did he leave behind...?)\nAs I was thinking that, Nakano called out.\n\"Found it. I found it, Hosoda.\"\nHe said it in a voice that didn't sound very happy.\nWhen I turned around, Nakano was standing at the door of a stall, looking inside.\n\"That's great, Nakano.\nLet's hurry up and take it home.\nWe'd better get out of this creepy place fast.\"\nI was worried those hands might come out again at any moment, so I wanted to get out of there quickly.\nNakano was staring intently into the toilet...\n\"What's wrong?\"\nI called to Nakano and looked into the stall over his shoulder as he stood at the door.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "23:0dd8",
+   "op": "text",
+   "before": "Honestly, I didn't really want to come.\nBut Hino kept insisting I join.\nHino had a reason for inviting me, you see.\nI don't know many scary stories, and if anything, I'm not much good with that kind of thing.\nBut I've had lots of scary experiences.\nI guess you'd call it a constitution that sees spirits.\nOr maybe I have something about me that spirits take a liking to.\nAnyway, I see them, way more than I'd ever want to.{p}",
+   "en": "Honestly, I didn't really want to come.\nBut Hino kept insisting I join.\nHino had a reason for inviting me, you see.\nI don't know many scary stories, and if anything, I'm not much good with that kind of thing.\nBut I've had lots of scary experiences.\nI guess you could say I'm just the type who sees spirits.\nOr maybe I have something about me that spirits take a liking to.\nAnyway, I see them, way more than I'd ever want to.{p}",
+   "edit_notes": [
+    "23:0dd8: EDIT - stiff 'a constitution that sees spirits' -> natural spoken phrasing"
+   ]
+  },
+  {
+   "id": "23:0f68",
+   "op": "text",
+   "before": "Have you ever heard that spirits are everywhere?\nIt's true, actually.\nThey really are in every kind of place.\nThey just drift around here and there, floating along.\nThere are lots of them around you, too.\nYou just can't see them.\nYou sometimes get a chill for no reason, right?\nThat's what you feel when a spirit happens to pass right through your body and falls into sync with you.\nMost of the time they're harmless, though.\nSo even if the place is swarming with spirits, there's nothing in particular to worry about.\nIt might sound strange, but that's just how it is for people who can see them.\nThat said, I can't see every kind of spirit.\nI can't see every last wandering spirit floating around, obviously.\nIf I could see that much, I'd go out of my mind.\nSpirits give off an aura, you see.\nI can only see the ones giving off a strong aura.\nThat's about the extent of my ability.\nAlso, even if they aren't giving off a strong aura, they're easier to see if something sets it off.\nFor example... let's see.{p}",
+   "en": "Have you ever heard that spirits are everywhere?\nIt's true, actually.\nThey really are in every kind of place.\nThey just drift around here and there, floating along.\nThere are lots of them around you, too.\nYou just can't see them.\nYou sometimes get a chill for no reason, right?\nThat's what you feel when a spirit happens to pass right through your body and falls into sync with you.\nMost of the time they're harmless, though.\nSo even if the place is swarming with spirits, there's nothing in particular to worry about.\nIt might sound strange, but that's just how it is for people who can see them.\nThat said, I can't see every kind of spirit.\nI can't see every last wandering spirit floating around, obviously.\nIf I could see that much, I'd go out of my mind.\nSpirits give off an aura, you see.\nI can only see the ones giving off a strong aura.\nThat's about the extent of my ability.\nAlso, even the ones without a strong aura are easier to see when there's some kind of trigger.\nFor example... let's see.{p}",
+   "edit_notes": [
+    "23:0f68: EDIT - unclear 'if something sets it off' -> clear 'when there's some kind of trigger'"
+   ]
+  },
+  {
+   "id": "23:164c",
+   "op": "text",
+   "before": "So, spirits lurking in the grain of a ceiling or a stain on a wall.\nHave I got you interested?\nNaturally, this school has things like that too.\nNot stains that just happen to look like faces, but stains that look like faces because a spirit really is there.\nDidn't you notice?\nAnd you seem like you'd have such a strong sixth sense, too.\nYou should keep your senses sharper day to day.\nDo that, and I think you'd be able to pick up on it.\nAbout those stains here at our school - there are quite a few of them.\nIn lots of places.\nThere are especially many in the old school building.\nWood grain left in strange shapes on the floorboards.\nStains soaked sharply into the walls, as if something had been pressed against them.\nQuite a few spirits are mixed in among them.\nI don't sense anything very evil in them, though.\nBut the one I sense most clearly and strongly is actually in the new school building.\nDo you know it?{p}",
+   "en": "So, spirits lurking in the grain of a ceiling or a stain on a wall.\nHave I got you interested?\nNaturally, this school has things like that too.\nNot stains that just happen to look like faces, but stains that look like faces because a spirit really is there.\nDidn't you notice?\nAnd you seem like you'd have such a strong sixth sense, too.\nYou should keep your senses sharper day to day.\nDo that, and I think you'd be able to pick up on it.\nAbout those stains here at our school - there are quite a few of them.\nIn lots of places.\nThere are especially many in the old school building.\nWood grain left in strange shapes on the floorboards.\nStains soaked into the walls in sharp outline, as if something had been pressed against them.\nQuite a few spirits are mixed in among them.\nI don't sense anything very evil in them, though.\nBut the one I sense most clearly and strongly is actually in the new school building.\nDo you know it?{p}",
+   "edit_notes": [
+    "23:164c: EDIT - odd 'soaked sharply' -> 'soaked into the walls in sharp outline'"
+   ]
+  },
+  {
+   "id": "23:2e54",
+   "op": "text",
+   "before": "Even back then, she said, that stain was in the restroom.\nThere was bullying at school in those days too.\nA student named Yoko Saijo was the leader of a gang of bullies.\nThey were always dragging timid-looking kids into the restroom and laying into them - for being cheeky, for not talking properly, for all sorts of things.\nThey'd twist things around, saying the kid's attitude hadn't improved no matter how many times they'd warned them, and bully them.\nBullies don't care what the reason is.\nThey just pick on people they don't like, to blow off steam.{p}",
+   "en": "Even back then, she said, that stain was in the restroom.\nThere was bullying at school in those days too.\nA student named Yoko Saijo was the leader of a gang of bullies.\nThey were always dragging timid-looking kids into the restroom and laying into them - for being cheeky, for not talking properly, for all sorts of things.\nThey'd twist things around - saying the kid's attitude still hadn't improved no matter how many times they'd been warned - and bully them.\nBullies don't care what the reason is.\nThey just pick on people they don't like, to blow off steam.{p}",
+   "edit_notes": [
+    "23:2e54: EDIT - tangled clause order; set off the bullies' pretext with dashes"
+   ]
+  },
+  {
+   "id": "23:3190",
+   "op": "text",
+   "before": "She cried as she did what she was told.\n\"Gross!\nThis one's actually licking a toilet wall!\nHey, doesn't this stain kind of look like your face?\nAhahahaha!\"\nAfter making her do a thing like that, Saijo laughed at her and said all that.\nStarting the very next day...{p}",
+   "en": "She cried as she did what she was told.\n\"Gross!\nThis one's actually licking a toilet wall!\nHey, doesn't this stain kind of look like your face?\nAhahahaha!\"\nAfter making her do something like that, Saijo laughed and mocked her.\nStarting the very next day...{p}",
+   "edit_notes": [
+    "23:3190: EDIT - clumsy 'laughed at her and said all that' -> 'laughed and mocked her'",
+    "23:3190: KEEP - returns note: 'toilet wall' stays in Saijo's taunt; crude spoken register, the stain is in the stall; narration keeps 'restroom'"
+   ]
+  },
+  {
+   "id": "23:7cb4",
+   "op": "text",
+   "before": "\"Hosoda, Hosoda!\nSomething awful's happened!\"\n\"What's wrong?\nI can't understand unless you calm down and tell me.\"\nThis is what she told me.\n\"Mr. Wakatsuki's been acting weird since yesterday.\"\n\"Huh? Mr. Wakatsuki has★\"{p}",
+   "en": "\"Hosoda, Hosoda!\nSomething awful's happened!\"\n\"What's wrong?\nI can't understand unless you calm down and tell me.\"\nThis is what she told me.\n\"Mr. Wakatsuki's been acting weird since yesterday.\"\n\"Huh? Mr. Wakatsuki?★\"{p}",
+   "edit_notes": [
+    "23:7cb4: EDIT - returns note: echo 'Huh? Mr. Wakatsuki has' -> 'Huh? Mr. Wakatsuki?'"
+   ]
+  },
+  {
+   "id": "23:98e0",
+   "op": "text",
+   "before": "And would you believe it, the air around where the stain was was shimmering, like a rising mirage.\nNow and then, the same expression as the face-shaped stain would surface in that mirage.\nI watched the scene with bated breath.\nThen, all of a sudden!\nI felt something stroke the nape of my neck.\n\"Aah!\"\nI couldn't help crying out.{p}",
+   "en": "And would you believe it, the air around the stain was shimmering, like a rising heat haze.\nNow and then, the same expression as the face-shaped stain would surface in that haze.\nI watched the scene with bated breath.\nThen, all of a sudden!\nI felt something stroke the nape of my neck.\n\"Aah!\"\nI couldn't help crying out.{p}",
+   "edit_notes": [
+    "23:98e0: EDIT - 'around where the stain was was' -> 'around the stain'; 'rising mirage' -> 'rising heat haze' (kagero imagery kept)"
+   ]
+  },
+  {
+   "id": "23:9a28",
+   "op": "text",
+   "before": "He looked at me and said,\n\"You idiot!\nWhat are you doing standing there?!\"\nMr. Wakatsuki, normally so mild-mannered, yelled at me with an unbelievably fierce look on his face.\nThat was the moment.\nMaybe his concentration had broken, because I felt the spiritual aura suddenly grow stronger.{p}",
+   "en": "He looked at me and said,\n\"You stupid idiot!\nWhat are you doing standing there?!\"\nMr. Wakatsuki, normally so mild-mannered, yelled at me with an unbelievably fierce look on his face.\nThat was the moment.\nMaybe his concentration had broken, because I felt the spiritual aura suddenly grow stronger.{p}",
+   "edit_notes": [
+    "23:9a28: EDIT - returns note: 'You idiot!' -> 'You stupid idiot!' for the force of baka yaro from a normally mild man; no profanity added"
+   ]
+  },
+  {
+   "id": "23:9c24",
+   "op": "text",
+   "before": "\"GYAAAAAAAGH!\"\nTo my horror, Mr. Wakatsuki was surrounded by countless things like spirits, and he was shrieking.\nAll I could do was stand outside the restroom, shaking.\nHe was gradually losing his life force, as if the aura were sucking out his soul.\nHis skin dried out and cracked, his eyes sank in, and his whole face became covered in wrinkles.\nOn top of that, his hair turned white and fell out in clumps...\nIn the end, he was all withered and crumbling, just like a mummy.{p}",
+   "en": "\"GYAAAAAAAGH!\"\nTo my horror, Mr. Wakatsuki was surrounded by countless spirit-like things, and he was shrieking.\nAll I could do was stand outside the restroom, shaking.\nHe was gradually losing his life force, as if the aura were sucking out his soul.\nHis skin dried out and cracked, his eyes sank in, and his whole face became covered in wrinkles.\nOn top of that, his hair turned white and fell out in clumps...\nIn the end, he was all withered and crumbling, just like a mummy.{p}",
+   "edit_notes": [
+    "23:9c24: EDIT - 'countless things like spirits' -> 'countless spirit-like things'"
+   ]
+  },
+  {
+   "id": "23:a794",
+   "op": "text",
+   "before": "He took me to the student guidance room.\nIt was my first time in there, so I couldn't help getting nervous.\nHe told me not to be so nervous, and made me some tea.\nOnce I'd calmed down, he began.\n\"Hosoda, can you guess how old I am?\"\nHe asked out of nowhere.\nWithout thinking much, I said about thirty.\nHe really does look about that age.\n\"Everyone says that.\nBut actually, I'm fifty-three.\"\nI couldn't laugh at the joke.\nI mean, no matter how you looked at him, he couldn't have been much more than thirty.\nWhile I was wondering how to react, he put on a serious face and said,\n\"It's no wonder you can't believe it.\nYou see, I've obtained eternal youth.\"\nAs he said that, he took his driver's license out of his wallet and showed it to me.{p}",
+   "en": "He took me to the guidance office.\nIt was my first time in there, so I couldn't help getting nervous.\nHe told me not to be so nervous, and made me some tea.\nOnce I'd calmed down, he began.\n\"Hosoda, can you guess how old I am?\"\nHe asked out of nowhere.\nWithout thinking much, I said about thirty.\nHe really does look about that age.\n\"Everyone says that.\nBut actually, I'm fifty-three.\"\nI couldn't laugh at the joke.\nI mean, no matter how you looked at him, he couldn't have been much more than thirty.\nWhile I was wondering how to react, he put on a serious face and said,\n\"It's no wonder you can't believe it.\nYou see, I've obtained eternal youth.\"\nAs he said that, he took his driver's license out of his wallet and showed it to me.{p}",
+   "edit_notes": [
+    "23:a794, 23:c268: EDIT - 'student guidance room'/'guidance room' -> 'the guidance office', same room as in the Hida route (terms_live)"
+   ]
+  },
+  {
+   "id": "23:c268",
+   "op": "text",
+   "before": "Saying \"I'm counting on you,\" he left the guidance room.\nWith a parting request that I keep all this a secret.\nThe truth is, besides Mr. Wakatsuki, there are three more teachers at this school who don't age.\nMr. Wakatsuki told me.\n{a}, you're in Class 1-E, right?\nIf I remember right, your homeroom teacher is supposed to be one of them, too...{p}Well, that's the end of my story.\nWho's next?{p}",
+   "en": "Saying \"I'm counting on you,\" he left the guidance office.\nWith a parting request that I keep all this a secret.\nThe truth is, besides Mr. Wakatsuki, there are three more teachers at this school who don't age.\nMr. Wakatsuki told me.\n{a}, you're in Class 1-E, right?\nIf I remember right, your homeroom teacher is supposed to be one of them, too...{p}Well, that's the end of my story.\nWho's next?{p}",
+   "edit_notes": [
+    "23:a794, 23:c268: EDIT - 'student guidance room'/'guidance room' -> 'the guidance office', same room as in the Hida route (terms_live)"
+   ]
+  },
+  {
+   "id": "23:c51c",
+   "op": "text",
+   "before": "..................\n..................\nI wonder how long I waited.\nIt felt like I'd been waiting for dozens of minutes.\nBut actually, it was only about ten minutes.\nWhile I was looking out the hallway window, he came out of the restroom.{p}",
+   "en": "..................\n..................\nI wonder how long I waited.\nIt felt like I'd been waiting for ages.\nBut actually, it was only about ten minutes.\nWhile I was looking out the hallway window, he came out of the restroom.{p}",
+   "edit_notes": [
+    "23:c51c: EDIT - returns note: stiff 'dozens of minutes' -> 'for ages', contrasting with 'only about ten minutes'"
+   ]
+  },
+  {
+   "id": "23:ce2c",
+   "op": "text",
+   "before": "\"You're right. The exorcism failed that time...\"\nI was so shocked I couldn't even make a sound.\n\"...I guess amateurs really shouldn't mess with this kind of thing.\nThat damn stain latched onto me, happy as could be.\"\nWith that, he spun around to face me.{p}",
+   "en": "\"You're right. The exorcism failed that time...\"\nI was so shocked I couldn't even make a sound.\n\"...I guess amateurs really shouldn't mess with this kind of thing.\nThat damn stain latched onto me with glee.\"\nWith that, he spun around to face me.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "23:d214",
+   "op": "text",
+   "before": "\"Eek...\"\nI let out a little scream.\nHe brought his face close to mine and grinned.\nHe was panting, huff, huff, like he was excited.\nHis warm breath hit my face, and it was disgusting.\nThen, licking his lips, he said:\n\"...Those girls who came with you were very tasty.\nI can't taste anything myself, mind you.\nBut I can tell.\nBecause this thing... this stain ate them so happily.\nThat day, even it ate too much.\nIt ate four of them at once.\nIt got sick and threw them back up.\nBlehhh, just like that.\nAnd out they came.\nPieces of their bodies, mashed to a pulp...\nWith their hair all tangled up in them.\nHee-hee-hee-hee... What a waste, huh?\nAnd it was a feast you hardly ever get to eat...\nThis thing loves young girls.\nSince then, I've tried feeding it all sorts of things, but it still seems to like young girls best.\nI wonder how it feels about boys...\nYou're fat, so you look like you'd make a hearty meal...\"\nCold sweat ran down my back.\nLike a frog stared down by a snake, I couldn't move a muscle.\n\"Whenever I come into this restroom, I get my appetite.\nI wonder why.\nThis is the place where I can eat with the most peace of mind.\"{p}",
+   "en": "\"Eek...\"\nI let out a little scream.\nHe brought his face close to mine and grinned.\nHe was panting, huff, huff, like he was excited.\nHis warm breath hit my face, and it was disgusting.\nThen, licking his lips, he said:\n\"...Those girls who came with you were very tasty.\nI can't taste anything myself, mind you.\nBut I can tell.\nBecause this thing... this stain ate them so happily.\nIt ate too much that day, even for it.\nIt ate four of them at once.\nIt got sick and threw them back up.\nBlehhh, just like that.\nAnd out they came.\nPieces of their bodies, mashed to a pulp...\nWith their hair all tangled up in them.\nHee-hee-hee-hee... What a waste, huh?\nAnd it was a feast you hardly ever get to eat...\nThis thing loves young girls.\nSince then, I've tried feeding it all sorts of things, but it still seems to like young girls best.\nI wonder how it feels about boys...\nYou're fat, so you look like you'd make a hearty meal...\"\nCold sweat ran down my back.\nLike a frog stared down by a snake, I couldn't move a muscle.\n\"Whenever I come into this restroom, I get my appetite.\nI wonder why.\nThis is where I can eat with the most peace of mind.\"{p}",
+   "edit_notes": [
+    "23:d214: EDIT - clumsy 'That day, even it ate too much' -> 'It ate too much that day, even for it'; trimmed 'the place where' in last line for spoken flow"
+   ]
+  },
+  {
+   "id": "23:de9c",
+   "op": "text",
+   "before": "The moment Yoneyama saw the stain on the wall, a frown appeared.\nThe teacher probably had a sixth sense for spirits too.\n\"Something about this feels wrong...\"\nYoneyama kept saying things like that while touching the stain.\nBut after a while, the teacher said something outrageous.{p}",
+   "en": "The moment the teacher saw the stain on the wall, Yoneyama frowned.\nThe teacher probably had a sixth sense for spirits too.\n\"Something about this feels wrong...\"\nYoneyama kept saying things like that while touching the stain.\nBut after a while, the teacher said something outrageous.{p}",
+   "edit_notes": [
+    "23:de9c: EDIT - dangling 'a frown appeared' -> 'Yoneyama frowned' (teacher's gender unknown, no pronoun added)"
+   ]
+  },
+  {
+   "id": "23:10350",
+   "op": "text",
+   "before": "When I fearfully opened my eyes, in front of me was the lower half of a body in a skirt, hanging limply.\nFollowing it upward with my eyes, I saw that the upper half had smashed through the glass of the door and was sticking out the other side.\nDrip... drip... Warm blood fell onto my face.\nEven when I peered at her, Ms. Hida didn't move, her eyes rolled back, her face full of resentment.\nApparently she'd cut her carotid artery on a shard of glass.{p}",
+   "en": "When I fearfully opened my eyes, in front of me was the lower half of a body in a skirt, hanging limply.\nFollowing it upward with my eyes, I saw that the upper half had smashed through the glass of the door and was sticking out the other side.\nDrip... drip... Warm blood fell onto my face.\nWhen I peered at her, Ms. Hida didn't move. Her eyes had rolled back, and her face was full of resentment.\nApparently she'd cut her carotid artery on a shard of glass.{p}",
+   "edit_notes": [
+    "23:10350: EDIT - run-on comma chain split for clarity ('her eyes had rolled back, and her face was full of resentment')"
+   ]
+  },
+  {
+   "id": "23:10c14",
+   "op": "text",
+   "before": "Because right then, the stain twitched, as if it were reacting to her voice.\n\"Heh heh... My little one is happy too.\nIt seems to have taken a liking to you, Hosoda.\"\nThe stain had taken a liking to me...\nI knew what that meant, and why the stain was happy.\nLying there on the floor, I tried to crawl away.\nBut she caught me right away.{p}",
+   "en": "Because right then, the stain twitched, as if it were reacting to her voice.\n\"Heh heh... This little one is happy too.\nIt seems to have taken a liking to you, Hosoda.\"\nThe stain had taken a liking to me...\nI knew what that meant, and why the stain was happy.\nLying there on the floor, I tried to crawl away.\nBut she caught me right away.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "24:1190",
+   "op": "text",
+   "before": "Holding it in is bad for anybody's body.\nSo during the few hours you spend at school, you're bound to go to the restroom a few times.{p}",
+   "en": "Holding it in is bad for your body, whoever you are.\nSo during the few hours you spend at school, you're bound to go to the restroom a few times.{p}",
+   "edit_notes": [
+    "24:1190: EDIT - clumsy 'bad for anybody's body' -> 'bad for your body, whoever you are' (also echoes 24:9b80 in E047)"
+   ]
+  },
+  {
+   "id": "24:1208",
+   "op": "text",
+   "before": "{f:You always go too|That's just normal}, {f:don't you|isn't it}?\nEveryone relies on the school restrooms.\nBut as far as I know, there was just one person who never used the school restrooms.\nIt wasn't that he was constipated, or had some strange illness.\nNo matter what happened, he never, ever went to the toilet.\nIn other words, he didn't excrete.\nCan you believe a person like that exists?\nWell, he did.\nHis name was Kiyoshi Takeuchi.\nHe was a third-year when I was a first-year, so he was two years older than me.\nSo, when you hear about someone who's never once gone to the toilet, don't you picture some huge fatso?\nBut no, he was skin and bones.\nLike a piece of wire.{p}",
+   "en": "{f:You always go too|That's just normal}, {f:don't you|isn't it}?\nEveryone relies on the school restrooms.\nBut as far as I know, there was just one person who never used the school restrooms.\nIt wasn't that he was constipated, or had some strange illness.\nNo matter what happened, he never, ever went to the toilet.\nIn other words, he didn't excrete.\nCan you believe a person like that exists?\nWell, there is one.\nHis name was Kiyoshi Takeuchi.\nHe was a third-year when I was a first-year, so he was two years older than me.\nSo, when you hear about someone who's never once gone to the toilet, don't you picture some huge fatso?\nBut no, he was skin and bones.\nLike a piece of wire.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "24:1710",
+   "op": "text",
+   "before": "But still, you can't believe in a person who never excretes, can you?\n",
+   "en": "But still, you can't believe there's a person who never excretes, can you?\n",
+   "edit_notes": [
+    "24:1710: EDIT - 'believe in a person' read as trusting him -> 'believe there's a person'"
+   ]
+  },
+  {
+   "id": "24:178c",
+   "op": "text",
+   "before": "Right?\nI think you're right.\nIn the end, nobody really believed it either, whatever they said.\nDeep down, everyone thought he must be sneaking off to the toilet when no one was looking.\nOr else that maybe he was just someone who needed to go abnormally rarely.\nAs for me, honestly, I just thought Takeuchi was pretty amazing, and I wasn't interested in him beyond that.\nI never really wished I didn't have to go to the toilet, or even thought about it.\nIf anything, I liked that unique feeling of release you get in the toilet.\nMaybe I just lack delicacy?\nSo I knew about Takeuchi, but only one way; he didn't even know I existed.\nThere was no way our paths would ever cross.\nBut then.\nOne day, believe it or not, Takeuchi came up and talked to me.\nI was totally shocked.{p}",
+   "en": "Right?\nI think you're right.\nIn the end, nobody really believed it either, whatever they said.\nDeep down, everyone thought he must be sneaking off to the toilet when no one was looking.\nOr else that maybe he was just someone who needed to go abnormally rarely.\nAs for me, honestly, I just thought Takeuchi was pretty amazing, and I wasn't interested in him beyond that.\nI never really wished I didn't have to go to the toilet, or even thought about it.\nIf anything, I liked that unique feeling of release you get in the toilet.\nMaybe I just lack delicacy?\nSo I knew about Takeuchi, but it was all one-sided; he didn't even know I existed.\nThere was no way our paths would ever cross.\nBut then.\nOne day, believe it or not, Takeuchi came up and talked to me.\nI was totally shocked.{p}",
+   "edit_notes": [
+    "24:178c: EDIT - clumsy 'but only one way' -> 'but it was all one-sided'"
+   ]
+  },
+  {
+   "id": "24:2940",
+   "op": "text",
+   "before": "\"Hosoda, are you free today?\"\nHe asked me that out of the blue.\nI was thrown.\nWhile I was fumbling for words,\n\"If you're free, why don't you come over to my place?\"\nhe went so far as to say.\nWhy would Takeuchi invite me to his house? The mystery only got deeper.\nNo matter how I thought about it, I couldn't find a reason.\nWhy me?\nWhy would he need to invite someone like me to his home?\nMaybe there was no need to think so hard about it, but that's just how I am.\nI can't help thinking about things.\nI didn't know how to answer him.{p}Takeuchi seemed to be waiting for my answer...\n",
+   "en": "\"Hosoda, are you free today?\"\nHe asked me that out of the blue.\nI was thrown.\nWhile I was fumbling for words,\n\"If you're free, why don't you come over to my place?\"\nhe even asked.\nWhy would Takeuchi invite me to his house? The mystery only got deeper.\nNo matter how I thought about it, I couldn't find a reason.\nWhy me?\nWhy would he need to invite someone like me to his home?\nMaybe there was no need to think so hard about it, but that's just how I am.\nI can't help thinking about things.\nI didn't know how to answer him.{p}Takeuchi seemed to be waiting for my answer...\n",
+   "edit_notes": [
+    "24:2940: EDIT - stiff 'he went so far as to say' -> 'he even asked'"
+   ]
+  },
+  {
+   "id": "24:2ee0",
+   "op": "text",
+   "before": "The inside was amazing too.\nMaybe that's what hotels abroad are like?\nWell, I've never seen one, so I wouldn't know.\n\"Make yourself at home.\nYou don't have to be careful around me.\nDon't hold back, okay?\"\nHe said it with a laugh, but... easier said than done.\nWe lived in completely different worlds.\nEverything I saw and touched was new to me.{p}",
+   "en": "The inside was amazing too.\nMaybe that's what hotels abroad are like?\nWell, I've never seen one, so I wouldn't know.\n\"Make yourself at home.\nYou don't have to tiptoe around me.\nDon't hold back, okay?\"\nHe said it with a laugh, but... easier said than done.\nWe lived in completely different worlds.\nEverything I saw and touched was new to me.{p}",
+   "edit_notes": [
+    "24:2ee0: EDIT - unidiomatic 'You don't have to be careful around me' -> 'tiptoe around me' (host putting guest at ease)"
+   ]
+  },
+  {
+   "id": "24:38a4",
+   "op": "text",
+   "before": "Then he pointed his chin at that Sanbura tea.\nNo toilet in the house?\nCan you believe that?\nWhat's more, he was saying it wasn't just Takeuchi who never went; it was everyone in the house.\nI was so shocked I couldn't speak.\n\"That tea is really good for your health.\nIt removes all the impurities from your body.\nIt turns what would normally become waste into sweat, and pushes it out through every pore of your body.\nSo no matter how much you eat, you never get fat.\nAnd it's good for you, too.\nIsn't that wonderful?\"\nThat's what he started saying.\nWhat would you do?{p}Should I try drinking the tea?\n",
+   "en": "Then he jerked his chin toward the Sanbura tea.\nNo toilet in the house?\nCan you believe that?\nWhat's more, he was saying it wasn't just Takeuchi who never went; it was everyone in the house.\nI was so shocked I couldn't speak.\n\"That tea is really good for your health.\nIt removes all the impurities from your body.\nIt turns what would normally become waste into sweat, and pushes it out through every pore of your body.\nSo no matter how much you eat, you never get fat.\nAnd it's good for you, too.\nIsn't that wonderful?\"\nThat's what he started saying.\nWhat would you do?{p}Should I try drinking the tea?\n",
+   "edit_notes": [
+    "24:38a4: EDIT - 'pointed his chin at' -> 'jerked his chin toward'"
+   ]
+  },
+  {
+   "id": "24:3b04",
+   "op": "text",
+   "before": "Takeuchi edged closer to me.\nHis face was still smiling, but there was something really frightening about him.\n\"Come on, there's no need to be shy.\nDrink that tea and right away you won't need to go to the toilet anymore.\nAnd your body's whole constitution changes, amazingly.\nIt feels fantastic.\nCome on, just humor me and drink it.\"{p}",
+   "en": "Takeuchi edged closer to me.\nHis face was still smiling, but there was something really frightening about him.\n\"Come on, there's no need to be shy.\nDrink that tea and right away you won't need to go to the toilet anymore.\nAnd it changes your body's whole constitution. It's amazing.\nIt feels fantastic.\nCome on, just humor me and drink it.\"{p}",
+   "edit_notes": [
+    "24:3b04: EDIT - clumsy trailing 'amazingly' -> 'And it changes your body's whole constitution. It's amazing.'"
+   ]
+  },
+  {
+   "id": "24:3c40",
+   "op": "text",
+   "before": "Takeuchi had come so close his breath was on my cheek.\nTakeuchi's breath had a strong grassy smell.\nThat was when it happened.{p}",
+   "en": "Takeuchi had come so close his breath was on my cheek.\nHis breath had a strong grassy smell.\nThat was when it happened.{p}",
+   "edit_notes": [
+    "24:3c40: EDIT - repeated 'Takeuchi's breath' on consecutive lines -> 'His breath'"
+   ]
+  },
+  {
+   "id": "24:540c",
+   "op": "text",
+   "before": "Actually, I tried it myself.\nNot going to the toilet at school, I mean.\nBut I couldn't do it.\nSure, for two or three days I can tough it out somehow.\nBut you have to keep it up until the people around you notice.\nThere's no way I could keep it up that long.\nI was really impressed by how amazing Takeuchi was.\nAnd then I discovered that this Takeuchi had an interesting hobby.{p}",
+   "en": "Actually, I tried it myself.\nNot going to the toilet at school, I mean.\nBut I couldn't do it.\nSure, for two or three days I can tough it out somehow.\nBut you have to keep it up until the people around you notice.\nThere's no way I could keep it up that long.\nI was really impressed by how amazing Takeuchi was.\nAnd then I discovered that Takeuchi had an interesting hobby.{p}",
+   "edit_notes": [
+    "24:540c: EDIT - odd 'this Takeuchi' -> 'Takeuchi'"
+   ]
+  },
+  {
+   "id": "24:80c0",
+   "op": "text",
+   "before": "Maybe that's what saved me.\nEven now, my body is still normal.\nIf I hadn't thrown up back then, I wonder if my body would have turned out like his by now.\nTakeuchi was rumored never to go to the toilet, but of course he didn't.\nHe's a plant, after all.\nYou guys are the first people I've ever told this story to.\nI haven't turned into anything like that.\nThat's why I told you all this story.\nIf I had turned into that, there's no way I'd tell a story like this.\nIt's true.\nI'm a normal human being...\n{a}{f:|}, you believe me, right? Right?\n..............................\n..............................\nThat's the end of what happened to me.\nI wonder who's next.{p}",
+   "en": "Maybe that's what saved me.\nEven now, my body is still normal.\nIf I hadn't thrown up back then, I wonder if my body would have turned out like his by now.\nRumor had it that Takeuchi never went to the toilet, and of course he didn't.\nHe's a plant, after all.\nYou guys are the first people I've ever told this story to.\nI haven't turned into anything like that.\nThat's why I told you all this story.\nIf I had turned into that, there's no way I'd tell a story like this.\nIt's true.\nI'm a normal human being...\n{a}{f:|}, you believe me, right? Right?\n..............................\n..............................\nThat's the end of what happened to me.\nI wonder who's next.{p}",
+   "edit_notes": [
+    "24:80c0: EDIT - illogical 'but of course he didn't' -> 'Rumor had it that Takeuchi never went to the toilet, and of course he didn't.'"
+   ]
+  },
+  {
+   "id": "24:968c",
+   "op": "text",
+   "before": "A plant.\nNo, can I even call it a plant?\nThe toilets in the old school building are the old pit kind, right?\nA big plant with a man's face was growing out of the toilet.\nThe thing was green all over, with red mottled spots here and there.\nIts main body had lots of horizontal wrinkles, and it looked soft and flabby.\nIts roots stuck out over the edge of the toilet.\nThere were two thick roots, with lots of thin roots growing off them.\nAnd they were shaped like human legs.\nAnd below its face grew branches shaped like arms.\nAnd that plant...\nhad the very same face as Takeuchi.\nWas Takeuchi raising that plant in the toilet?\nWas this his secret?\nThe plant with Takeuchi's face slithered back down into the toilet with a rustling hiss.\nIt moved so very supplely.{p}",
+   "en": "A plant.\nNo, can I even call it a plant?\nThe toilets in the old school building are the old pit kind, right?\nA big plant with a man's face was growing out of the toilet.\nThe thing was green all over, with red mottled spots here and there.\nIts main body had lots of horizontal wrinkles, and it looked soft and flabby.\nIts roots stuck out over the edge of the toilet.\nThere were two thick roots, with lots of thin roots growing off them.\nAnd they were shaped like human legs.\nAnd below its face grew branches shaped like arms.\nAnd that plant...\nhad the very same face as Takeuchi.\nWas Takeuchi raising that plant in the toilet?\nWas this his secret?\nThe plant with Takeuchi's face slithered back down into the toilet with a rustling hiss.\nIts movements were so very supple.{p}",
+   "edit_notes": [
+    "24:968c: EDIT - returns note settled: 'It moved so very supplely' -> 'Its movements were so very supple.'"
+   ]
+  },
+  {
+   "id": "24:9a60",
+   "op": "text",
+   "before": "I ran along the edge of the back courtyard, and when I got near the new school building, I could see a few students heading home.\nI'd be safe this far.\n...And that's when it happened.\nNow that I'd relaxed, I suddenly needed to go to the toilet.{p}What do you think I did?\n",
+   "en": "I ran along the edge of the back courtyard, and when I got near the new school building, I could see a few students heading home.\nNow that I'd come this far, I'd be safe.\n...And that's when it happened.\nNow that I'd relaxed, I suddenly needed to go to the toilet.{p}What do you think I did?\n",
+   "edit_notes": [
+    "24:9a60: EDIT - returns note settled: stiff 'I'd be safe this far' -> 'Now that I'd come this far, I'd be safe.'"
+   ]
+  },
+  {
+   "id": "24:9b48",
+   "op": "choice",
+   "before": "Went to the old school building restroom from before",
+   "en": "Went to the old school building restroom from earlier",
+   "edit_notes": [
+    "24:9b48: EDIT - choice 'restroom from before' -> 'from earlier' (sakki no = the one from earlier); clearer"
+   ]
+  },
+  {
+   "id": "24:a630",
+   "op": "text",
+   "before": "Takeuchi had been tricked.\nThe plant had told him, apparently, that by absorbing his waste it would take on his exact shape, until in the end it couldn't be told apart from a human.\nTakeuchi wanted to make a clone of himself.\nI guess he wanted to do sci-fi stuff, like the two of them taking turns going to class or going out to have fun.\nThat's why he'd been dutifully making trips there.\nBut the idea that it could make a clone was a lie.\nThe plant's real goal was to make a human into its food...\nI just ran from that place.\nThere was no way I had the power to save Takeuchi.\nAnd I swore I'd never go there again.\nEven after I got out of the restroom and was running down the hallway, I could hear Takeuchi screaming.\nHe cried out again and again, in agony.\nI can still hear it now.\nTakeuchi's screams.\nHis voice calling for help...\n...\nI've told you everything I saw.\nNow, shall we move on to the next story...{p}",
+   "en": "Takeuchi had been tricked.\nThe plant had told him, apparently, that by absorbing his waste it would take on his exact shape, until in the end it couldn't be told apart from a human.\nTakeuchi wanted to make a clone of himself.\nI guess he wanted to do sci-fi stuff, like the two of them taking turns going to class or going out to have fun.\nThat's why he'd been dutifully making trips there.\nBut the idea that it could make a clone was a lie.\nThe plant's real goal was to make a human into its food...\nI just ran out of there.\nThere was no way I had the power to save Takeuchi.\nAnd I swore I'd never go there again.\nEven after I got out of the restroom and was running down the hallway, I could hear Takeuchi screaming.\nHe cried out again and again, in agony.\nI can still hear it now.\nTakeuchi's screams.\nHis voice calling for help...\n...\nI've told you everything I saw.\nNow, shall we move on to the next story...{p}",
+   "edit_notes": [
+    "24:a630: EDIT - stiff 'I just ran from that place' -> 'I just ran out of there' (spoken Hosoda)"
+   ]
+  },
+  {
+   "id": "24:acc4",
+   "op": "text",
+   "before": "When I looked inside, the plant...\nThe plant with Takeuchi's face was crying.\nThe Takeuchi in human form wasn't there anymore.\nAnd the plant was saying something like this:\n\"Help me...!\nI'm Takeuchi.\nAn evil spirit turned me into this.\nHelp me... please... help me...\"\nHe told me the whole story.\nOn the first day Takeuchi came to this school, he snuck into the old school building as a prank.\nWhile he was there, he needed to use the restroom...\nWhen he used that toilet, an evil spirit's hand came out of the bowl and grabbed his leg, it seems.\nThe evil spirit sucked the life energy out of Takeuchi's body.\nAnd Takeuchi was turned into a plant, he said.\nAfter that, the evil spirit took on Takeuchi's exact form...\nAnd started coming to school in his place, he told me.\nEvery so often, the evil spirit would come to Takeuchi and suck out his life energy.\nIt drained the energy out of Takeuchi, that shriveled-up plant, like it was wringing him dry.\nI guess evil spirits don't relieve themselves at all.\nThat's why Takeuchi got the reputation of never going to the restroom.\nNobody must have known he'd been making trips to the old school building's restroom.\nTakeuchi, now a plant, was wailing.\nBut there was nothing I could do.\nI apologized to him over and over, and left the old school building's restroom behind...{p}",
+   "en": "When I looked inside, the plant...\nThe plant with Takeuchi's face was crying.\nThe Takeuchi in human form wasn't there anymore.\nAnd the plant was saying something like this:\n\"Help me...!\nI'm Takeuchi.\nAn evil spirit turned me into this.\nHelp me... please... help me...\"\nHe told me the whole story.\nOn the first day Takeuchi came to this school, he snuck into the old school building as a prank.\nWhile he was there, he needed to use the restroom...\nWhen he used that toilet, an evil spirit's hand came out of the bowl and grabbed his leg, it seems.\nThe evil spirit sucked the life energy out of Takeuchi's body.\nAnd Takeuchi was turned into a plant, he said.\nAfter that, the evil spirit took on Takeuchi's exact form...\nAnd started coming to school in his place, he told me.\nEvery so often, the evil spirit would come to Takeuchi and suck out his life energy.\nIt drained the energy out of Takeuchi, that shriveled-up plant, like it was wringing him dry.\nI guess evil spirits don't relieve themselves at all.\nThat's why Takeuchi got the reputation of never going to the restroom.\nI bet nobody knew he'd been making trips to the old school building's restroom.\nTakeuchi, now a plant, was wailing.\nBut there was nothing I could do.\nI apologized to him over and over, and left the old school building's restroom behind...{p}",
+   "edit_notes": [
+    "24:acc4: EDIT - ungrammatical-sounding 'Nobody must have known' -> 'I bet nobody knew'"
+   ]
+  },
+  {
+   "id": "24:c258",
+   "op": "text",
+   "before": "It was a murky, pitch-black color.\nIt had a grassy smell, like bitter medicinal herbs.\n\"It has an unusual taste, so people might either love it or hate it, but once you get used to it, it's irresistible.\nGo on, try it.\"\n...What would you do in a moment like this?{p}",
+   "en": "It was a murky, pitch-black color.\nIt had a grassy smell, like bitter medicinal herbs.\n\"It has an unusual taste, so people either love it or hate it, but once you get used to it, it's irresistible.\nGo on, try it.\"\n...What would you do in a moment like this?{p}",
+   "edit_notes": [
+    "24:c258: EDIT - 'people might either love it or hate it' -> 'people either love it or hate it' (natural idiom)"
+   ]
+  },
+  {
+   "id": "24:d1b8",
+   "op": "text",
+   "before": "\"{a}{f:|}, I'm sorry.\nI couldn't let you taste the Sanbura tea.\nNext time, I'll make it properly and bring it in.\nThen you won't have to go to the restroom either...\"\nEvery time Hosoda spoke, the grassy smell stung {f:my|my} nose.\n{f:No way|No way}.\nThere's no way {f:I could|I'd ever} drink something that creepy.\nTime to have him wrap up his story, so we could hurry on to the next one...{p}",
+   "en": "\"{a}{f:|}, I'm sorry.\nI couldn't let you taste the Sanbura tea.\nNext time, I'll make it properly and bring it in.\nThen you won't have to go to the restroom either...\"\nEvery time Hosoda spoke, the grassy smell stung {f:my|my} nose.\n{f:No way|No way}.\nThere's no way {f:I could|I'd ever} drink something that creepy.\nTime to have him wrap up his story, so we can hurry on to the next one...{p}",
+   "edit_notes": [
+    "24:d1b8: EDIT - tense clash 'so we could hurry on' in a present-tense inner thought -> 'so we can'"
+   ]
+  },
+  {
+   "id": "24:d340",
+   "op": "text",
+   "before": "Something pricked me at my feet.\nWhat was that...?{p}",
+   "en": "Something pricked my foot.\nWhat was that...?{p}",
+   "edit_notes": [
+    "24:d340: EDIT - clumsy 'pricked me at my feet' -> 'pricked my foot' (next row: bug on my foot)"
+   ]
+  },
+  {
+   "id": "24:d778",
+   "op": "text",
+   "before": "Sure, I was scared, but I couldn't beat my curiosity.\nI finally drank the tea.\nBut the taste was...{p}",
+   "en": "Sure, I was scared, but my curiosity won out.\nI finally drank the tea.\nBut the taste was...{p}",
+   "edit_notes": [
+    "24:d778: EDIT - 'I couldn't beat my curiosity' -> 'my curiosity won out' (idiomatic)"
+   ]
+  },
+  {
+   "id": "24:e0e4",
+   "op": "text",
+   "before": "I was a little relieved.\nWhy, you ask?\nIn my mind, Takeuchi was a superman who never went to the restroom, or a hero, or something...\nAnyway, I'd finally gotten close to someone like that, so finding out he was just an ordinary person would have been a letdown.\nI think I didn't want my image of an 'amazing person' right near me to be shattered.\nSo I followed Takeuchi into the old school building.{p}",
+   "en": "I was a little relieved.\nWhy, you ask?\nIn my mind, Takeuchi was a superman who never went to the restroom, or a hero, or something...\nAnyway, I'd finally gotten close to someone like that, so finding out he was just an ordinary person would have been a letdown.\nI guess I didn't want my image of the 'amazing person' right beside me to be shattered.\nSo I followed Takeuchi into the old school building.{p}",
+   "edit_notes": [
+    "24:e0e4: EDIT - smoothed tangled 'my image of an amazing person right near me to be shattered'; meaning unchanged"
+   ]
+  },
+  {
+   "id": "24:f1dc",
+   "op": "text",
+   "before": "With that, he thrust the flowerpot toward me, looking really, really happy.\nOn the flowerpot, that flower was writhing and squirming, hungry for prey.\nI was scared, but I wanted to taste the pleasure Takeuchi talked about.\nI took the plunge and held out my right arm.{p}",
+   "en": "With that, he thrust the flowerpot toward me, looking really, really happy.\nIn the flowerpot, that flower was writhing and squirming, hungry for prey.\nI was scared, but I wanted to taste the pleasure Takeuchi talked about.\nI took the plunge and held out my right arm.{p}",
+   "edit_notes": [
+    "24:f1dc: EDIT - 'On the flowerpot' -> 'In the flowerpot'"
+   ]
+  },
+  {
+   "id": "24:10fb0",
+   "op": "text",
+   "before": "I decided to accept Takeuchi's kindness at face value.\nTakeuchi asked if I'd come with him behind the old school building, and walked there together with me.{p}",
+   "en": "I decided to accept Takeuchi's kindness at face value.\nTakeuchi asked me to come with him behind the old school building, and we walked there together.{p}",
+   "edit_notes": [
+    "24:10fb0: EDIT - clumsy 'asked if I'd come with him..., and walked there together with me' -> 'asked me to come..., and we walked there together'"
+   ]
+  },
+  {
+   "id": "24:11a50",
+   "op": "text",
+   "before": "Inside the swollen part, lots of soft-looking red berries were lined up.\nThey were a slightly translucent red, about the size of salmon roe.\nThey were crammed in, with no room to spare.\nDo you know 'sujiko'?\nIt was just like something packed full of that.\nTakeuchi bit into it, devouring it greedily.\nSquish, squish... I could hear the berries bursting.\nThe way he ate was really abnormal; he was like a different person from the Takeuchi of a moment ago.\nWhen he'd finished eating, Takeuchi turned to face me.\nFor a second, my blood ran cold.{p}",
+   "en": "Inside the swollen part, lots of soft-looking red berries were lined up.\nThey were a slightly translucent red, about the size of salmon roe.\nThey were crammed in, with no room to spare.\nDo you know 'sujiko'?\nIt looked like it was stuffed full of that.\nTakeuchi bit into it, devouring it greedily.\nSquish, squish... I could hear the berries bursting.\nThe way he ate was really abnormal; he was like a different person from the Takeuchi of a moment ago.\nWhen he'd finished eating, Takeuchi turned to face me.\nFor a second, my blood ran cold.{p}",
+   "edit_notes": [
+    "24:11a50: EDIT - returns note: kept bare 'sujiko' with no gloss (salmon roe named two lines up, source asks if listener knows it); fixed clumsy follow-up 'It was just like something packed full of that' -> 'It looked like it was stuffed full of that'"
+   ]
+  },
+  {
+   "id": "25:1610",
+   "op": "text",
+   "before": "You'd want to scream before you knew it, right?\nI think psychology like that is at work, and that's how so many scary stories came about naturally.\nBut you know, lots of scary things really do happen in restrooms.\nSo, I'm going to tell you a story about those restrooms.\nAnd so, I want to test you now.\n...No, it's nothing weird.\nPeople often tell me I have a strong sixth sense.\nI end up seeing a lot of strange things.\nAnd, well, I sense something in you that's the same as in me.\nHow should I put it... an aura, I guess?\nCall it a signal, or a wavelength, but anyway, you and I seem like the same kind of person to me.\nSo I think if I'm with you, the spiritual aura will get even stronger.\nSo, um, would you go out with me for a bit?\nWhen I ask you to go out with me, I don't mean it like that.\nI mean there's somewhere I want you to go with me.\nWhat do you say?{p}Won't you go out with me for a bit?\n",
+   "en": "You'd want to scream before you knew it, right?\nI think that kind of psychology is at work, and that's how so many scary stories naturally came about.\nBut you know, lots of scary things really do happen in restrooms.\nSo, I'm going to tell you a story about those restrooms.\nAnd so, I want to test you now.\n...No, it's nothing weird.\nPeople often tell me I have a strong sixth sense.\nI end up seeing a lot of strange things.\nAnd, well, I sense something in you that's the same as in me.\nHow should I put it... an aura, I guess?\nCall it a signal, or a wavelength, but anyway, you and I seem like the same kind of person to me.\nSo I think if I'm with you, the spiritual aura will get even stronger.\nSo, um, would you go out with me for a bit?\nWhen I ask you to go out with me, I don't mean it like that.\nI mean there's somewhere I want you to go with me.\nWhat do you say?{p}Won't you go out with me for a bit?\n",
+   "edit_notes": [
+    "25:1610: EDIT - clumsy 'psychology like that is at work... came about naturally' -> 'that kind of psychology... naturally came about'"
+   ]
+  },
+  {
+   "id": "25:1920",
+   "op": "choice",
+   "before": "Go with him",
+   "en": "Go out with him",
+   "edit_notes": []
+  },
+  {
+   "id": "25:192c",
+   "op": "choice",
+   "before": "Don't go with him",
+   "en": "Don't go out with him",
+   "edit_notes": []
+  },
+  {
+   "id": "25:1cfc",
+   "op": "text",
+   "before": "...I see.\nYou don't feel anything here either?\nHmm... I've decided I'll trust your sixth sense.\nWell then, let's try the second floor.{p}",
+   "en": "...I see.\nYou don't feel anything here either?\nHmm... I've decided to trust your sixth sense.\nWell then, let's try the second floor.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "25:1e60",
+   "op": "text",
+   "before": "This is the restroom on the south side of the new building's second floor.\n...What do you think?\nI want to hear your honest opinion.\nLook really carefully.\nWell?{p}Do you feel anything?\n",
+   "en": "This is the restroom on the south side of the new building's second floor.\n...What do you think?\nGive me your honest opinion.\nTake a really good look.\nWell?{p}Do you feel anything?\n",
+   "edit_notes": []
+  },
+  {
+   "id": "25:25a8",
+   "op": "text",
+   "before": "Well then, shall we go?\nThere's only one restroom left in the new building.\nIf you don't feel anything in that one either, then... maybe it means there really is nothing there after all.\nWe're almost there.\nTo tell you the truth, I can feel a tremendous aura coming from that restroom.\nIf it's you, there's no doubt about it.\nYou're absolutely sure to feel it.{p}",
+   "en": "Well then, shall we go?\nThere's only one restroom left in the new building.\nIf you don't feel anything in that one either, then... maybe it means there really is nothing there after all.\nWe're almost there.\nTo tell you the truth, I can feel a tremendous aura coming from that restroom.\nFor someone like you, there's no doubt about it.\nYou're absolutely sure to feel it.{p}",
+   "edit_notes": [
+    "25:25a8: EDIT - awkward 'If it's you, there's no doubt' -> 'For someone like you, there's no doubt about it'"
+   ]
+  },
+  {
+   "id": "25:28c4",
+   "op": "text",
+   "before": "...I see.\nOh well.\nThen let's head back.\nIt wouldn't be fair to drag our seniors around any more than this.\nLet's go back to the newspaper club and continue the stories.\n\"Please wait a moment.\n...I suddenly really need to use the restroom.\"\n\"Oh, okay.\nThen we'll head back to the newspaper club, so come join us later.\"{p}",
+   "en": "...I see.\nOh well.\nThen let's head back.\nIt wouldn't be fair to drag our seniors around any more than this.\nLet's go back to the newspaper club and continue the stories.\n\"Um, wait a moment, please.\n...I suddenly really need to use the restroom.\"\n\"Oh, okay.\nThen we'll head back to the newspaper club, so come join us later.\"{p}",
+   "edit_notes": [
+    "25:28c4: EDIT - player's stiff 'Please wait a moment.' -> 'Um, wait a moment, please.'"
+   ]
+  },
+  {
+   "id": "25:2c78",
+   "op": "text",
+   "before": "There it was again.\nThe sound came again.\nThis was strange.\nIt wasn't my imagination.\nI turned around once more.{p}",
+   "en": "There it was again.\nThat sound, again.\nThis was strange.\nIt wasn't my imagination.\nI turned around once more.{p}",
+   "edit_notes": [
+    "25:2c78: EDIT - repetitive 'There it was again. The sound came again.' -> 'That sound, again.'"
+   ]
+  },
+  {
+   "id": "25:31a8",
+   "op": "text",
+   "before": "...What, there's nobody in here.\nI breathed a sigh of relief.\nI'd been so worried there might be some monster inside that all the tension I'd been holding until then drained away at once.{p}",
+   "en": "...Oh, there's nobody in here.\nI breathed a sigh of relief.\nI'd been so worried there might be some monster inside that all the tension I'd been holding until then drained away at once.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "25:3b80",
+   "op": "text",
+   "before": "...The sound had stopped.\nAs if all that noise had been a lie, now silence came flooding in.{p}",
+   "en": "...The sound had stopped.\nAs if all that noise had never happened, silence came flooding in.{p}",
+   "edit_notes": [
+    "25:3b80: EDIT - calque 'as if all that noise had been a lie' -> 'as if all that noise had never happened'"
+   ]
+  },
+  {
+   "id": "25:4a00",
+   "op": "text",
+   "before": "The restroom door was open.\nThe door that had been shut so tight now stood open as if it were nothing.\nIf I was going to escape, it was now.\nWith Hosoda holding me up by the shoulder, I staggered out on unsteady legs and finally made it out of the restroom.\nHosoda murmured under his breath.{p}",
+   "en": "The restroom door was open.\nThe door that had been shut so tight now stood open, just like that.\nIf I was going to escape, it had to be now.\nWith Hosoda holding me up by the shoulder, I staggered out on unsteady legs and finally made it out of the restroom.\nHosoda murmured under his breath.{p}",
+   "edit_notes": [
+    "25:4a00: EDIT - 'stood open as if it were nothing' -> 'stood open, just like that'; 'it was now' -> 'it had to be now'"
+   ]
+  },
+  {
+   "id": "25:4bb4",
+   "op": "text",
+   "before": "Just then, the restroom door suddenly slammed shut.\nIt sounded like someone had angrily slammed it with all their strength.\nHosoda stared hard at my face.{p}",
+   "en": "Just then, the restroom door suddenly banged shut.\nIt sounded like someone had angrily slammed it with all their strength.\nHosoda stared hard at my face.{p}",
+   "edit_notes": [
+    "25:4bb4: EDIT - slammed/slammed repetition: first one -> 'banged shut'"
+   ]
+  },
+  {
+   "id": "25:5080",
+   "op": "text",
+   "before": "Don't say that.\nMy story will end right here.\nPlease, I guarantee it'll make a really interesting article.\nIf I just tell it here, it'll only be half as scary, right?\nShow a little curiosity, like a real newspaper club member.{p}",
+   "en": "Don't say that.\nThen my story ends right here.\nPlease, I guarantee it'll make a really interesting article.\nIf I just tell it here, it'll only be half as scary, right?\nShow a little curiosity, like a real newspaper club member.{p}",
+   "edit_notes": [
+    "25:5080: EDIT - 'My story will end right here' -> 'Then my story ends right here' (conditional on refusing)"
+   ]
+  },
+  {
+   "id": "25:5eb8",
+   "op": "text",
+   "before": "Okay, this is the restroom on the south side of the new building's first floor.\nWell?\nDo you sense anything here too?{p}",
+   "en": "Okay, this is the restroom on the south side of the new building's first floor.\nWell?\nDo you feel anything here too?{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "25:5f14",
+   "op": "text",
+   "before": "...I see.\nSo you don't sense anything here.\nHmm... I've decided to trust your sixth sense.\nWell then, let's try the second floor.{p}",
+   "en": "...I see.\nSo you don't feel anything here.\nHmm... I've decided to trust your sixth sense.\nWell then, let's try the second floor.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "25:5fbc",
+   "op": "text",
+   "before": "Well, actually, there's a weird rumor about that last restroom.\nWhen you said you sensed a spirit back there, for a moment I got my hopes up, wondering what was about to happen.\n...Here we are.{p}",
+   "en": "Actually, you know, there's a strange rumor about that last restroom.\nWhen you said you sensed a spirit back there, for a moment I got my hopes up, wondering what was about to happen.\n...Okay, here we are.{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "25:60a4",
+   "op": "text",
+   "before": "This is the restroom on the south side of the new building's second floor.\n...What do you think?\nGive me your honest opinion.\nTake a really good look.\nWell?\nDo you sense anything?{p}",
+   "en": "This is the restroom on the south side of the new building's second floor.\n...What do you think?\nGive me your honest opinion.\nTake a really good look.\nWell?\nDo you feel anything?{p}",
+   "edit_notes": []
+  },
+  {
+   "id": "25:6760",
+   "op": "text",
+   "before": "A huge swarm of bugs {f:was swarming|was crawling} all over the vomit she'd thrown up.\n\"Shield bugs★\"\nThe shield bugs were squirming out of the toilet tank and welling up out of the bowl.\nShield bugs give off such an awful smell that they're also called stinkbugs{f:.|, you know.}\nThe foul stench of the shield bugs mixed with the smell of her vomit, and {f:I|I} was about to pass out{f:.|...}{p}",
+   "en": "A huge swarm of bugs {f:was teeming|was crawling} all over the vomit she'd thrown up.\n\"Shield bugs★\"\nThe shield bugs were squirming out of the toilet tank and welling up out of the bowl.\nShield bugs give off such an awful smell that they're also called stinkbugs{f:.|, you know.}\nThe foul stench of the shield bugs mixed with the smell of her vomit, and {f:I|I} was about to pass out{f:.|...}{p}",
+   "edit_notes": [
+    "25:6760: EDIT - returns note: male branch 'swarm of bugs was swarming' -> 'was teeming'"
+   ]
+  },
+  {
+   "id": "25:7efc",
+   "op": "text",
+   "before": "We all rushed out into the hallway and slammed the restroom door shut as hard as we could.\nHaving lost their target, the cockroaches rustled and scrabbled on the other side of the door.\n\"Let's hurry back to the club room!☆\"\n{f:We|We} ran off in a blind frenzy.\nAt that moment, {f:I|I} felt my mission as a member of the newspaper club.\nTelling myself that this was exactly how a scary story should be...\nTo an onlooker, {f:I|I} might seem like someone with unbelievable nerves.\nAfter this, I can hardly go calling other people weird{f:, can I|, can I}.\n\"Of course, we're still going to keep the scary stories going.\nSo be ready for it!\"\nThat's what {f:I|I} was telling everyone as I ran.{p}",
+   "en": "We all rushed out into the hallway and slammed the restroom door shut as hard as we could.\nHaving lost their target, the cockroaches rustled and scrabbled on the other side of the door.\n\"Let's hurry back to the club room!☆\"\n{f:We|We} ran off in a blind frenzy.\nAt that moment, {f:I|I} felt a sense of mission as a member of the newspaper club.\nTelling myself that this was exactly how a scary story should be...\nTo an onlooker, {f:I|I} might seem like someone with unbelievable nerves.\nAfter this, I can hardly go calling other people weird{f:, can I|, can I}?\n\"Of course, we're still going to keep the scary stories going.\nSo be ready for it!\"\nThat's what {f:I|I} was telling everyone as I ran.{p}",
+   "edit_notes": [
+    "25:7efc: EDIT - 'felt my mission' -> 'felt a sense of mission' (clumsy); rhetorical 'can I' ends with '?'"
+   ]
+  },
+  {
+   "id": "25:9298",
+   "op": "text",
+   "before": "But no matter how much we called or screamed, there was no sign of the seniors, who were supposed to be in the hallway, coming to help us.\n",
+   "en": "But no matter how much we called and screamed, the seniors who were supposed to be in the hallway showed no sign of coming to help us.\n",
+   "edit_notes": [
+    "25:9298: EDIT - untangled 'no sign of the seniors, who..., coming to help us' into a clear sentence"
+   ]
+  },
+  {
+   "id": "25:bd30",
+   "op": "text",
+   "before": "\"Oh, sorry, sorry.\nIt's nothing. Nothing at all.\"\nHosoda said it with a look as if he had caught himself.\nThen he turned his face away so he wouldn't have to look at me.\n...Could Hosoda see someone standing behind me?\nI turned around one more time.{p}",
+   "en": "\"Oh, sorry, sorry.\nIt's nothing. Nothing at all.\"\nHosoda said, looking as if he had caught himself.\nThen he turned his face away so he wouldn't have to look at me.\n...Could Hosoda see someone standing behind me?\nI turned around one more time.{p}",
+   "edit_notes": [
+    "25:bd30: EDIT - stiff 'said it with a look as if' -> 'said, looking as if'"
+   ]
+  },
+  {
+   "id": "25:c664",
+   "op": "text",
+   "before": "Just then, an upside-down human silhouette appeared on the frosted glass.\n\"Eek!\"\nI leapt back without thinking.\nFrosted glass or not, the shadow was showing its expressions.\nIt laughed, raged, grieved, cycling through expressions like that, and then the shadow vanished.{p}",
+   "en": "Just then, an upside-down human silhouette appeared on the frosted glass.\n\"Eek!\"\nI leapt back without thinking.\nEven through the frosted glass, I could make out the shadow's expressions.\nIt laughed, raged, grieved, cycling from one to the next, and then the shadow vanished.{p}",
+   "edit_notes": [
+    "25:c664: EDIT - 'Frosted glass or not, the shadow was showing its expressions' -> 'Even through the frosted glass, I could make out...'; 'cycling through expressions like that' smoothed"
+   ]
+  },
+  {
+   "id": "25:cc4c",
+   "op": "text",
+   "before": "\"It's that restroom on both sides...\"\nI could feel all the strength draining out of my body.\nAnd I sank to my knees right there.{p}",
+   "en": "\"Both sides lead into that restroom...\"\nI could feel all the strength draining out of my body.\nAnd I sank to my knees right there.{p}",
+   "edit_notes": [
+    "25:cc4c: EDIT - unclear 'It's that restroom on both sides' (both ways out are the same restroom) -> 'Both sides lead into that restroom'"
+   ]
+  },
+  {
+   "id": "25:ccdc",
+   "op": "text",
+   "before": "\"Bang☆\"\nThen the door slammed shut.\n\"Damn, not again!\"\nI grabbed the knob to open the door, but it wouldn't open.\nI was right back where I had been before.\n\"For now, I have to calm down...\"{p}",
+   "en": "\"Bang☆\"\nThen the door slammed shut.\n\"Oh no, not again!\"\nI grabbed the knob to open the door, but it wouldn't open.\nI was right back where I had been before.\n\"For now, I have to calm down...\"{p}",
+   "edit_notes": [
+    "25:ccdc: EDIT - 'Damn' for shimatta was added profanity -> 'Oh no, not again!'"
+   ]
+  },
+  {
+   "id": "25:d0f0",
+   "op": "text",
+   "before": "Then a gurgling sound came from the toilet.\n\"★\"\nPathetically, my legs had given out under me.\n\"Hosoda!\nThis is bad!\n...Hosoda★\"\nHe had already gotten back up long ago.\nSomething about him was off.\n\"...I told you not to come out yet.\nYou're so impatient.\"\nHe started walking toward the toilet.\nThen he stuck his face into the toilet and was mumbling something.\nWhatever happens, I have to get out of here☆\nMy legs had given out, and I couldn't move the way I wanted.\nNow Hosoda had plunged his hand into the toilet.\nWith a squelching, sucking sound, he seemed to pull out something black.{p}",
+   "en": "Then a gurgling sound came from the toilet.\n\"★\"\nPathetically, my legs had given out under me.\n\"Hosoda!\nThis is bad!\n...Hosoda★\"\nHe had long since gotten back up.\nSomething about him was off.\n\"...I told you not to come out yet.\nYou're so impatient.\"\nHe started walking toward the toilet.\nThen he stuck his face into the toilet and began mumbling something.\nWhatever happens, I have to get out of here☆\nMy legs had given out, and I couldn't move the way I wanted.\nNow Hosoda had plunged his hand into the toilet.\nWith a squelching, sucking sound, he seemed to pull out something black.{p}",
+   "edit_notes": [
+    "25:d0f0: EDIT - 'gotten back up long ago' -> 'long since gotten back up'; 'stuck his face... and was mumbling' -> 'began mumbling'"
+   ]
+  },
+  {
+   "id": "25:d8bc",
+   "op": "text",
+   "before": "\"Now then, {a}{f:|}.\nWhereabouts do you feel the aura coming from?\"\nHosoda came closer to {f:me|me} than he needed to and asked.{p}",
+   "en": "\"Now then, {a}{f:|}.\nWhereabouts do you feel the aura coming from?\"\nHosoda asked, coming closer to {f:me|me} than he needed to.{p}",
+   "edit_notes": [
+    "25:d8bc: EDIT - reordered awkward 'came closer than he needed to and asked'",
+    "25:10588: KEEP - returns note: 'aura' matches this chunk's other reiki rows (25:d780, 25:d8bc) and terms_live ('(spiritual) aura'); 'That powerful aura' left as is"
+   ]
+  },
+  {
+   "id": "25:e7d0",
+   "op": "text",
+   "before": "Wriggling its half-shattered, twisted jaw, it {f:seemed|seemed} to be desperately trying to tell me something.\n\"Help me... help me... it hurts, my head hurts...\"\n\"{f:Waaaaaaaaah|Nooooooooo}☆\"\nThe scream I had tried so hard to let out and couldn't now burst out of me without my even realizing it.{p}",
+   "en": "Wriggling its half-shattered, twisted jaw, it {f:seemed|seemed} to be desperately trying to tell me something.\n\"Help me... help me... it hurts, my head hurts...\"\n\"{f:Waaaaaaaaah|Nooooooooo}☆\"\nThe scream I had tried so hard to let out, and couldn't, now burst out of me before I even realized it.{p}",
+   "edit_notes": [
+    "25:e7d0: EDIT - tangled 'scream I had tried so hard to let out and couldn't now burst out' punctuated for readability"
+   ]
+  },
+  {
+   "id": "26:1b70",
+   "op": "text",
+   "before": "Oh, everyone, I should have mentioned this sooner, but I have a very strong sixth sense.\nEspecially when it comes to restrooms.\nI find it strange myself, but whenever I get near a restroom, I pick up a strange aura.{p}",
+   "en": "Oh, everyone, I should have mentioned this sooner, but I have a very strong sixth sense.\nEspecially when it comes to restrooms.\nI find it odd myself, but whenever I get near a restroom, I pick up a strange aura.{p}",
+   "edit_notes": [
+    "26:1b70: EDIT - 'strange' used twice in one line"
+   ]
+  },
+  {
+   "id": "26:2144",
+   "op": "text",
+   "before": "Back then, that restroom beside the gym could still be used normally.\nApparently everyone used it a lot after P.E. class.\nAnd he used that restroom too.\nThen he happened to look over and, what do you know, a house centipede was crawling along the restroom wall.\n\"Gross!\"\nHe kicked the wall with his shoe and squashed that house centipede flat.\nIt was after that that he made a discovery.\nThat restroom, you see, maybe because it was so humid, was always damp, and full of bugs.{p}",
+   "en": "Back then, that restroom beside the gym could still be used normally.\nApparently everyone used it a lot after P.E. class.\nAnd he used that restroom too.\nThen he happened to look over and, what do you know, a house centipede was crawling along the restroom wall.\n\"Gross!\"\nHe kicked the wall with his shoe and squashed that house centipede flat.\nThat was when he made a discovery.\nThat restroom, you see, maybe because it was so humid, was always damp, and full of bugs.{p}",
+   "edit_notes": [
+    "26:2144: EDIT - clumsy 'It was after that that'"
+   ]
+  },
+  {
+   "id": "26:2520",
+   "op": "text",
+   "before": "Eventually, just killing bugs wasn't enough for him anymore.\nUntil then, he'd been satisfied just squashing them, but no matter how long he kept at it, the number of bugs never went down.\nA day later, they'd gather in that restroom again from who knows where.\nWell, of course they would.\nThere's no end of bugs, after all.\nHim trying hard all by himself was a truly wasted effort.\nSo he thought about it.\nWhy did the bugs keep gathering?{p}",
+   "en": "Eventually, just killing bugs wasn't enough for him anymore.\nUntil then, he'd been satisfied just squashing them, but no matter how long he kept at it, the number of bugs never went down.\nA day later, they'd gather in that restroom again from who knows where.\nWell, of course they would.\nThere's no end of bugs, after all.\nNo matter how hard he tried all by himself, it was a complete waste of effort.\nSo he thought about it.\nWhy did the bugs keep gathering?{p}",
+   "edit_notes": [
+    "26:2520: EDIT - clumsy 'Him trying hard ... was a truly wasted effort'"
+   ]
+  },
+  {
+   "id": "26:2830",
+   "op": "text",
+   "before": "Tearing the legs and bodies off house centipedes and centipedes was a given.\nHe burned them with matches, poured strange liquids on them, stabbed them with thumbtacks and needles...\nThat restroom became something like a torture chamber for bugs.\nEven his friends finally told him to stop, but he wouldn't listen to a word.\nAnd he began to study even crueler ways of killing them.{p}",
+   "en": "Tearing the legs off house centipedes and centipedes and ripping their bodies apart went without saying.\nHe burned them with matches, poured strange liquids on them, stabbed them with thumbtacks and needles...\nThat restroom became something like a torture chamber for bugs.\nEven his friends finally told him to stop, but he wouldn't listen to a word.\nAnd he began to study even crueler ways of killing them.{p}",
+   "edit_notes": [
+    "26:2830: EDIT - 'tearing the bodies off' did not parse"
+   ]
+  },
+  {
+   "id": "26:3100",
+   "op": "text",
+   "before": "\"...Making a fool of me.\n...I'll kill you!\n...Every last one of you, I'll kill you all!\"\nHe kept muttering things like that, over and over.\nThe school at night is very dark.\nThat restroom especially, since its fluorescent light was broken.\nIt was dim even in the daytime.\nAt night, you couldn't see a thing.\nAs he got close to the restroom, what do you know, there was a rustling sound.\nA rustling, scraping sound, like things rubbing their bodies together, was coming from the restroom.\nHe held his breath and stepped into the restroom.\nAnd then... it felt different under his feet than usual.{p}",
+   "en": "\"...Making a fool of me.\n...I'll kill you!\n...Every last one of you, I'll wipe you all out!\"\nHe kept muttering things like that, over and over.\nThe school at night is very dark.\nThat restroom especially, since its fluorescent light was broken.\nIt was dim even in the daytime.\nAt night, you couldn't see a thing.\nAs he got close to the restroom, what do you know, there was a rustling sound.\nA scratchy, scraping sound, like things rubbing their bodies together, was coming from the restroom.\nHe held his breath and stepped into the restroom.\nAnd then... it felt different under his feet than usual.{p}",
+   "edit_notes": [
+    "26:3100: EDIT - unified with identical source line in 26:70f8; avoids kill/kill repetition",
+    "26:3100: EDIT - unified with 26:70f8; avoids 'rustling' twice in a row",
+    "26:70f8: EDIT - lines 3-11 unified with the identical source passage in 26:3100 (fluorescent light, rustling-sound lines)"
+   ]
+  },
+  {
+   "id": "26:457c",
+   "op": "text",
+   "before": "Outside the restroom was a whole different world.\nThen, just as he stretched out big and took a deep breath...{p}",
+   "en": "Outside the restroom was a whole different world.\nThen, just as he gave a big stretch and took a deep breath...{p}",
+   "edit_notes": [
+    "26:457c: EDIT - awkward 'stretched out big'"
+   ]
+  },
+  {
+   "id": "26:6784",
+   "op": "text",
+   "before": "Bugs came welling up, as if overflowing, out of the toilets, the cleaning closet and the sinks.\nGradually the sun went down, and he turned on the restroom light and kept on searching.\nThe place felt less like a restroom than the inside of some unknown creature's stomach.\nThe floor, the walls and the ceiling were all rustling and squirming, as if they themselves were alive.\nFor the first time, he felt fear.\nThe bugs had been waiting, you see.\nWaiting for him to come.{p}",
+   "en": "Bugs came welling up, as if overflowing, out of the toilets, the cleaning closet and the sinks.\nGradually the sun went down, and he turned on the restroom light and kept on searching.\nIt was less a restroom than the inside of the stomach of some unknown creature.\nThe floor, the walls, the ceiling, all of it was rustling and writhing as if it were alive itself.\nFor the first time, he felt afraid.\nThe bugs had been waiting, you see.\nWaiting for him to come.{p}",
+   "edit_notes": [
+    "26:6784: EDIT - returns note settled: lines 3-5 unified with the identical source passage in 26:3404/26:74b0",
+    "26:74b0, 26:3404: KEEP - returns note: already identical to each other; 26:6784 brought in line with them"
+   ]
+  },
+  {
+   "id": "26:6904",
+   "op": "text",
+   "before": "He stood frozen.\nHe felt he finally understood how truly frightening the enemy he'd been trying to fight was.\nBut having come this far, he couldn't back down a single step.\nBy then he was half doing it out of sheer stubbornness.\n\"Wh-where's the boss of these things☆\"\nUnable to take it anymore, he shouted.{p}",
+   "en": "He froze in place.\nHe felt as if he finally understood how terrifying the enemy he'd been trying to fight really was.\nBut having come this far, he couldn't back down a single step.\nBy then he was half doing it out of sheer stubbornness.\n\"Wh-where's the boss of these things☆\"\nUnable to take it anymore, he shouted.{p}",
+   "edit_notes": [
+    "26:6904: EDIT - opening two lines unified with identical source in 26:355c"
+   ]
+  },
+  {
+   "id": "26:70f8",
+   "op": "text",
+   "before": "He took mosquito coils and marched into the school in the middle of the night.\n\"...Making a fool of me.\n...I'll kill you!\n...Every last one of you, I'll wipe you all out!\"\nHe kept muttering things like that, over and over.\nThe school at night is very dark.\nAnd the fluorescent light in that restroom was broken, too.\nIt was dim even in the daytime.\nAt night, you couldn't see a thing.\nAs he got close to the restroom, he heard a rustling noise.\nA scratchy, scraping sound, like things rubbing their bodies together, was coming from the restroom.\nHe left only the one exit he'd use to get out at the end, and sealed all the other windows from the outside with duct tape.\nSo the smoke couldn't escape.{p}",
+   "en": "He took mosquito coils and marched into the school in the middle of the night.\n\"...Making a fool of me.\n...I'll kill you!\n...Every last one of you, I'll wipe you all out!\"\nHe kept muttering things like that, over and over.\nThe school at night is very dark.\nThat restroom especially, since its fluorescent light was broken.\nIt was dim even in the daytime.\nAt night, you couldn't see a thing.\nAs he got close to the restroom, what do you know, there was a rustling sound.\nA scratchy, scraping sound, like things rubbing their bodies together, was coming from the restroom.\nHe left only the one exit he'd use to get out at the end, and sealed all the other windows from the outside with duct tape.\nSo the smoke couldn't escape.{p}",
+   "edit_notes": [
+    "26:3100: EDIT - unified with identical source line in 26:70f8; avoids kill/kill repetition",
+    "26:3100: EDIT - unified with 26:70f8; avoids 'rustling' twice in a row",
+    "26:70f8: EDIT - lines 3-11 unified with the identical source passage in 26:3100 (fluorescent light, rustling-sound lines)"
+   ]
+  },
+  {
+   "id": "26:7370",
+   "op": "text",
+   "before": "And then... it felt different from usual.\nThere was no hard floor; his footing felt unsteady somehow, squishy.\nWhen he pushed down and put his weight on his foot, it felt like stepping on a thick, fluffy carpet.{p}",
+   "en": "And then... it felt different from usual.\nThere was no hard floor; the footing felt somehow unsteady and squishy.\nWhen he pressed down and put his weight on his foot, it felt like stepping on a thick, fluffy carpet.{p}",
+   "edit_notes": [
+    "26:7370: EDIT - unified with identical source in 26:32e8"
+   ]
+  },
+  {
+   "id": "26:7614",
+   "op": "text",
+   "before": "He stood frozen.\nHe felt he finally understood how truly frightening the enemy he'd been trying to fight was.\nBut having come this far, he couldn't back down a single step.\nBy then he was half doing it out of sheer stubbornness.{p}",
+   "en": "He froze in place.\nHe felt as if he finally understood how terrifying the enemy he'd been trying to fight really was.\nBut having come this far, he couldn't back down a single step.\nBy then he was half doing it out of sheer stubbornness.{p}",
+   "edit_notes": [
+    "26:7614: EDIT - opening two lines unified with identical source in 26:355c"
+   ]
+  },
+  {
+   "id": "26:7fa4",
+   "op": "text",
+   "before": "\"...Hosoda, haven't you been avoiding me lately?\nDo you hate me?\"\nTsuda muttered it to me quietly.\nHonestly, I never should have made that prayer to God.\n\"Huh? No, of course not.\nWhat's this silly stuff you're saying?\nLet's hurry up and get to the prep room.\"\nI said it in a fluster.{p}",
+   "en": "\"...Hosoda, haven't you been avoiding me lately?\nDo you hate me?\"\nTsuda muttered it to me quietly.\nHonestly, I never should have made that prayer to God.\n\"Huh? No, of course not.\nWhat kind of silly talk is that?\nLet's hurry up and get to the prep room.\"\nI said it in a fluster.{p}",
+   "edit_notes": [
+    "26:7fa4: EDIT - stiff phrasing in spoken line"
+   ]
+  },
+  {
+   "id": "26:a2c8",
+   "op": "text",
+   "before": "That friend's name was Keiichi Tsuda.\nTsuda didn't use that restroom on purpose or anything.\nHe did know the stories about that restroom, after all.{p}",
+   "en": "That friend's name was Keiichi Tsuda.\nIt's not like Tsuda used that restroom on purpose or anything.\nHe knew the stories about it, after all.{p}",
+   "edit_notes": [
+    "26:a2c8: EDIT - clumsy 'didn't use ... / He did know the stories about that restroom' -> natural 'It's not like...' + less repetition"
+   ]
+  },
+  {
+   "id": "26:a370",
+   "op": "text",
+   "before": "One day, after P.E. class ended, he suddenly needed to go.\nIt beat wetting himself, so he went there, since he had no choice.{p}",
+   "en": "One day, after P.E. class ended, he suddenly needed to go.\nIt beat wetting himself, so he had no choice but to go there.{p}",
+   "edit_notes": [
+    "26:a370: EDIT - doubled cause ('so ... since he had no choice') -> 'had no choice but to go there'"
+   ]
+  },
+  {
+   "id": "26:a480",
+   "op": "text",
+   "before": "The letters on the board stood out more clearly than he'd expected.\nHe tried his best not to look at it, but it bothered him all the same.\nFor the time being, he did his business quickly and went outside.{p}",
+   "en": "The letters on the board stood out more clearly than he'd expected.\nHe tried his best not to look at it, but it bothered him all the same.\nAnyway, he did his business quickly and went outside.{p}",
+   "edit_notes": [
+    "26:a480: EDIT - stiff 'For the time being' -> 'Anyway'"
+   ]
+  }
+ ]
+}

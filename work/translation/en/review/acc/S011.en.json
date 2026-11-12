@@ -1,0 +1,335 @@
+{
+ "slice": "S011",
+ "scene": "04",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S010",
+ "next": "S012",
+ "todo": [],
+ "rows": [
+  {
+   "id": "04:3808",
+   "op": "text",
+   "follows_choice": [
+    "04:37f0"
+   ],
+   "en": "\"I'm going.\nWhat, you guys chickening out? Morons.\"\nHatanaka forced himself to act tough.\nHe was really scared, but he pretended it was nothing.\nOnce Hatanaka said that, the others had no choice but to join the camp too.\nThey were scared of what would be done to them if they didn't.\nIf anyone betrayed him, there was no telling what Hatanaka would do, and they all knew that better than anyone.{p}"
+  },
+  {
+   "id": "04:3968",
+   "op": "text",
+   "en": "And so the hell camp began.{p}"
+  },
+  {
+   "id": "04:3984",
+   "op": "text",
+   "en": "None of Hatanaka's bunch ever went near that place.\nWell, of course they couldn't.\nThey didn't want to go there and have something happen.{p}"
+  },
+  {
+   "id": "04:3a04",
+   "op": "text",
+   "en": "Hatanaka and his bunch hazed the first-years without mercy.\nEven when somebody collapsed, they never let up.\nAnd one after another, guys ran away.\nEven so, the ones who made it through this camp would be the ones to build the club's next era. Thinking that way, they could fully justify what they were doing, and they felt no guilt at all.{p}"
+  },
+  {
+   "id": "04:3b20",
+   "op": "text",
+   "en": "\"Huh?\nThese gloves...\"{p}"
+  },
+  {
+   "id": "04:3b44",
+   "op": "text",
+   "en": "After practice that day, he went to wipe off his sweat, and what do you know: lying there by his towel was a pair of really grimy gloves.\nHe didn't know whose they were, but they sure weren't his.\nWho on earth...{p}"
+  },
+  {
+   "id": "04:3c04",
+   "op": "text",
+   "en": "\"Aaagh!\"\nHatanaka yelled as he picked them up.\nThe moment he grabbed those gloves, he felt something slimy and lukewarm.\nThat's right, what he felt was blood.\n\"Th-these... these are Akasaka's!\"\nHatanaka couldn't stop shaking.\nAnd he ran from the spot.{p}"
+  },
+  {
+   "id": "04:3d10",
+   "op": "text",
+   "en": "Later, once he'd calmed down, he thought it over.\nWere those really Akasaka's gloves?\nOr was it somebody's prank?\nNo, maybe he'd just seen wrong.{p}What do you think Hatanaka did?\n"
+  },
+  {
+   "id": "04:3db8",
+   "op": "choice",
+   "en": "Went back to check"
+  },
+  {
+   "id": "04:3dc8",
+   "op": "choice",
+   "en": "Went to the burial spot"
+  },
+  {
+   "id": "04:3de8",
+   "op": "choice",
+   "en": "Told the others"
+  },
+  {
+   "id": "04:3e10",
+   "op": "text",
+   "follows_choice": [
+    "04:3de8"
+   ],
+   "en": "That night, Hatanaka told the others.\nAll the guys who'd taken part in that little game back then.\n\"Don't be stupid, Toru.\nNo way that happened.\"\n\"Weren't you just dreaming?\"\nThey all laughed it off.\nBut their eyes weren't laughing.\nDeep down, every one of them was trembling with fear.{p}"
+  },
+  {
+   "id": "04:3f2c",
+   "op": "text",
+   "en": "\"...Did you guys bury Akasaka's gloves with him back then?\"\nAs they all sat in silence, Hatanaka looked around at each of them and asked.\nThey looked at each other.\nNow that he asked, they couldn't really remember.\nAfter all, it had happened a year ago.\nThey'd buried the body, sure, but had they buried the gloves along with it?{p}"
+  },
+  {
+   "id": "04:405c",
+   "op": "text",
+   "en": "They'd been so caught up in burying the body... maybe they'd forgotten to bury the gloves?\nNo, that couldn't be.\nIf they'd forgotten them, the search party would have found those gloves.\nThen... was it someone's prank?{p}"
+  },
+  {
+   "id": "04:4158",
+   "op": "text",
+   "en": "\"Should we go check it out?\"\nEveryone was stunned by Hatanaka's words.\nWhy would they go back on their own to the one place they never wanted to see again?\n\"...Just kidding.\"\nHatanaka laughed, taking back what he'd said.\nThey all seemed relieved to hear that.\nAnd that was the end of the day.\nEvery one of them fell asleep thinking about Akasaka.{p}"
+  },
+  {
+   "id": "04:42b4",
+   "op": "text",
+   "en": "The next day.\nAfter morning practice and lunch, Hatanaka and the others waited eagerly for the afternoon hazing.\nThey went to the makeshift ring and focused their minds on the hazing to come, trying to shake off all thoughts of Akasaka.\n\"...That's weird.\nNobody's coming.\nWhat are the seniors and the first-years doing?\"\nPractice time came, and still nobody showed.\n\"Hey, here comes one!\"\nWhile they were wondering what was going on, a single figure came toward them with a towel draped over his head.\nThey couldn't tell who it was, but it didn't seem to be one of the seniors.\n\"You're late!\nGet over here, now!\"\nItching to get started, Hatanaka couldn't hold himself back and shouted roughly.{p}"
+  },
+  {
+   "id": "04:44dc",
+   "op": "text",
+   "en": "The guy didn't answer.\nHe had bright red gloves on his hands, and he came slowly, so slowly, swaying as he walked, as if his feet weren't touching the ground.\n\"...Sorry to keep you waiting.\"\nIt was a weak little voice you could barely hear.\n\"Hurry up and get in the ring.\nI'll whip you into shape myself.\"\nWith that, it was Hatanaka who climbed into the ring.\n\"...I'm in your hands.\"\nThe guy climbed into the ring, slow and stiff.\nHis body was like a skeleton's.\n\"Come on, get that damn towel off!\"{p}"
+  },
+  {
+   "id": "04:46d4",
+   "op": "text",
+   "en": "Hatanaka snatched the towel off the guy's head and couldn't believe his eyes.\nThat's right... it was Akasaka, no doubt about it.\n\"...A-Akasaka.\"\nThat was all Hatanaka could manage to say.{p}"
+  },
+  {
+   "id": "04:4794",
+   "op": "text",
+   "en": "\"...Now, put on these gloves and hit me, will you?\"\nWith that, Akasaka pulled the gloves off his own hands.\nThey really were like a skeleton's hands.\nOnly the tendons of his fingers bulged out; it was as if skin alone were stuck to the bone.\n\"D-don't, Akasaka... I'm sorry, it was my fault.\"\nHatanaka couldn't move.\nIt was as if roots had sprouted from his feet; he couldn't take a single step.\nAnd it wasn't just Hatanaka.\nNot one of the guys there who had killed Akasaka could move.\n\"......\"\nAkasaka didn't answer.\nThen he pulled off Hatanaka's gloves and put his own gloves on him instead.{p}"
+  },
+  {
+   "id": "04:49f8",
+   "op": "text",
+   "en": "\"Gyaaah!\"\nThe moment the gloves were on him, Hatanaka's face twisted in agony and he screamed.{p}"
+  },
+  {
+   "id": "04:4a5c",
+   "op": "text",
+   "en": "\"...Now, hit me with them, please.\"\nEveryone was dumbfounded.\nThey were terrified by both things at once: Akasaka, who was supposed to be dead, standing right there, and Hatanaka, screaming just from having the gloves put on him.{p}"
+  },
+  {
+   "id": "04:4b28",
+   "op": "text",
+   "en": "Hatanaka weakly raised his fists and pounded on Akasaka with them.\nIt was more like stroking him than hitting him.\nAnd yet, for some reason, Hatanaka, the one doing the hitting, was the one who looked like he was in pain.\nThen red blood began to trickle out of the gaps in the gloves.\n\"F-forgive me, Akasaka.\nIt hurts! Please, stop it!\"\n\"Being made to hit him\" was exactly the right way to put it.\nAkasaka told him to, and it was as if Hatanaka were being controlled.{p}"
+  },
+  {
+   "id": "04:4cd4",
+   "op": "text",
+   "en": "\"...Now, it's your turn.\"\nOnce Hatanaka had finished his round of hitting, Akasaka's eyes came to rest on someone else.\nThat guy screamed and struggled, but his legs wouldn't obey him, and they carried him up into the ring on their own.\nAkasaka slowly pulled the gloves off Hatanaka's hands.{p}"
+  },
+  {
+   "id": "04:4dd4",
+   "op": "text",
+   "en": "Hatanaka's hands were stained bright red with blood.\nAnd out of the gloves came tumbling old, blood-soaked nails.\nAkasaka's gloves had been crammed full of nails.\nThe moment they came off, Hatanaka collapsed on the spot, shuddered two or three times, and then lay still.\nHe'd passed out from the shock.{p}"
+  },
+  {
+   "id": "04:4f14",
+   "op": "text",
+   "en": "\"...Go on, it's your turn.\"\nAnd he pulled the nail-filled gloves on tight onto the guy who'd just climbed into the ring.{p}"
+  },
+  {
+   "id": "04:4fa0",
+   "op": "text",
+   "en": "Nobody could get away.\nEvery one of them was at Akasaka's mercy.\nOne by one, Akasaka carried out his bloody punishment.\n"
+  },
+  {
+   "id": "04:5008",
+   "op": "text",
+   "en": "Without sparing a single one.{p}"
+  },
+  {
+   "id": "04:5030",
+   "op": "text",
+   "en": "They were found not long after that.\nThe seniors went looking for Hatanaka and the others when they never showed up at the makeshift ring.\nHatanaka and the others weren't at the makeshift ring at all.{p}"
+  },
+  {
+   "id": "04:50f4",
+   "op": "text",
+   "en": "They were found behind the camp lodge.\n...That's right, the place where they'd buried Akasaka.\nMaybe they'd been seeing things.\nAnd maybe Akasaka's ghost had lured them there.\nWhen they were found, Hatanaka and the others were all dead.\nWith their hands soaked in blood.{p}"
+  },
+  {
+   "id": "04:51e0",
+   "op": "text",
+   "en": "Every one of them died of shock, apparently.\nThey say a single pair of mud-caked gloves was lying nearby.\nUnusually heavy gloves, stuffed with old nails.\nAfter that incident, the boxing club went downhill in no time.\nNobody joined anymore, and everybody quit like they were running away.{p}"
+  },
+  {
+   "id": "04:5308",
+   "op": "text",
+   "en": "That's the end of my story.\n...How do I know a story like this?\nYou think it's strange that I know all this, when there's no way I could've been there?\nYou think I made it up, right?\nIf you want to think that, go ahead.\nOnly a handful of people know the truth.\nWell, you can take it as a funny joke if you like.\nAll right, who's talking next?\nHurry up and get on with it.{p}"
+  },
+  {
+   "id": "04:5488",
+   "op": "text",
+   "en": "...Hey, {a}.{p}Don't you want to know what Akasaka looked like?\n"
+  },
+  {
+   "id": "04:54d0",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "04:54dc",
+   "op": "choice",
+   "en": "I don't want to know"
+  },
+  {
+   "id": "04:54ec",
+   "op": "text",
+   "follows_choice": [
+    "04:54d0"
+   ],
+   "en": "So you want to know, huh?{p}"
+  },
+  {
+   "id": "04:5510",
+   "op": "text",
+   "en": "Heh... The newspaper club keeps the graduation album from every year, right?\nLook for the album from thirteen years ago.\nThe photo of Class F from that year.\nAkasaka's in it.{p}"
+  },
+  {
+   "id": "04:55b4",
+   "op": "text",
+   "en": "After Shindo said that, I decided to look for it.\n...If I remembered right, the graduation albums were kept on this shelf.\n...This is the one.\nI opened it to the group photo of Class F.{p}"
+  },
+  {
+   "id": "04:5664",
+   "op": "text",
+   "en": "In the corner of the group photo, set apart in a frame, was a picture of Akasaka.\n...So this is what he looked like.\nBut next to it was one more person, also set in a frame.\n...Toru Hatanaka.\nI see... if Shindo's story was true, Hatanaka had died too, so of course he'd be framed.{p}"
+  },
+  {
+   "id": "04:5764",
+   "op": "text",
+   "en": "Huh?\nI took a closer look at Hatanaka's photo, and my eyes were nailed to it.{p}"
+  },
+  {
+   "id": "04:57bc",
+   "op": "text",
+   "en": "...No way.\n...No way, this face...\nI was at a loss for words.\nHe looked just like Shindo.\nNo, \"just like\" didn't begin to cover it.\nIt was him, in the flesh.\n\"Shindo!\"\nI tore my eyes from the album and turned around.{p}"
+  },
+  {
+   "id": "04:5894",
+   "op": "text",
+   "en": "...He was gone.\nShindo was nowhere to be seen.\n\"Where's Shindo?\"\nI asked the two who were left.\nThey were both startled.\nThey'd both been looking at the album with me, so maybe they hadn't noticed Shindo leave.\nOr... was he a ghost?{p}"
+  },
+  {
+   "id": "04:5998",
+   "op": "text",
+   "en": "\"This Hatanaka guy looks just like Shindo, doesn't he?\"\nOne of the two who were left said it in a shaking voice.{p}"
+  },
+  {
+   "id": "04:5a0c",
+   "op": "text",
+   "en": "\"...Hey, what are we going to do?\nI'm starting to get really scared.\nCan't we just stop?\"\nOne of the two who were left was a girl.\nShe peered anxiously into my face.\nIt was creepy, no question.\nThe people who told stories were disappearing, one by one.\nWhatever the reason, they were disappearing.\nIf we kept going like this, what on earth would happen?\n...I agonized over it.\nShould I keep going, or should I stop now?{p}What should I do?\n"
+  },
+  {
+   "id": "04:5ba4",
+   "op": "choice",
+   "en": "Keep going"
+  },
+  {
+   "id": "04:5bac",
+   "op": "choice",
+   "en": "Stop now"
+  },
+  {
+   "id": "04:5bc4",
+   "op": "text",
+   "follows_choice": [
+    "04:5ba4"
+   ],
+   "en": "...I couldn't stop.\nNot after coming this far, I couldn't.\nWhatever ending might be waiting for us, there was no turning back now.\nMaybe by then something already had its hold on me.\n\"...Let's keep going.\nI feel like it would be wrong to stop here.\"\nNeither of them objected.\nI looked from one face to the other.\nNow, who should I ask to tell the next story?{p}"
+  },
+  {
+   "id": "04:5d48",
+   "op": "text",
+   "follows_choice": [
+    "04:09f8"
+   ],
+   "en": "You want to quit, but you can't... is that it?\nOh well. Can't be helped.{p}"
+  },
+  {
+   "id": "04:5d8c",
+   "op": "text",
+   "follows_choice": [
+    "04:11d0"
+   ],
+   "en": "That's right, a thousand bunny hops.\nNow that is some brutal training.\nLet me tell you how it works.\nYou make the first-years do bunny hops around the schoolyard.\nBunny hops are rough, right?\nSome guys drop to their knees before they've even made it once around.\nWhen that happens, the upperclassmen scream at them with faces like demons.{p}"
+  },
+  {
+   "id": "04:5ea8",
+   "op": "text",
+   "en": "\"Hop to it! A thou-sand times!☆\"{p}"
+  },
+  {
+   "id": "04:5ee0",
+   "op": "text",
+   "en": "...Just kidding.\n......\nMy bad.\nBack to the story.\nThe traditional hazing happens at the training camp.{p}"
+  },
+  {
+   "id": "04:5f5c",
+   "op": "text",
+   "follows_choice": [
+    "04:11e0"
+   ],
+   "en": "Well, they did do that kind of thing, too.\nBut there's hazing that's way worse.\nIt's the one they call the hell camp.\nWhen summer vacation comes, they hole up in the mountains for three whole weeks.\nOf course, there's brutal training before that, too.\nLike the runs to the shrine you just mentioned, or the alumni's brutal training.{p}"
+  },
+  {
+   "id": "04:6074",
+   "op": "text",
+   "follows_choice": [
+    "04:11f8"
+   ],
+   "en": "Well, they did do that kind of thing, too.\nBut there's hazing that's way worse.\nIt's the one they call the hell camp.\nWhen summer vacation comes, they hole up in the mountains for three whole weeks.\nOf course, there's hazing before that, too.\nLike the alumni's brutal training you just mentioned, or the runs to the shrine.{p}"
+  },
+  {
+   "id": "04:6184",
+   "op": "text",
+   "follows_choice": [
+    "04:14e0"
+   ],
+   "en": "Don't say that.\nI'm telling it, like it or not.{p}"
+  },
+  {
+   "id": "04:61b0",
+   "op": "text",
+   "follows_choice": [
+    "04:2210"
+   ],
+   "en": "Turns out Akasaka was only human after all.\nIt seems even he'd had about enough of that hazing.\nHe listened to them in silence for a while, then lowered his eyes like he'd made up his mind, and finally agreed to their idea of running away together.\nWell, of course he did.\nThe boxing club's hazing really was insane.\nBut that guy was something else.\nHe said that if they were going to run away anyway, they should get revenge on the seniors first.\nHere was his plan.{p}"
+  },
+  {
+   "id": "04:6360",
+   "op": "text",
+   "en": "Mix sleeping pills and a paralytic drug into dinner, then tie those guys up once they couldn't move.\nThen, as payback for everything, use them as punching bags, beat them to a pulp, and skip out just like that......{p}"
+  },
+  {
+   "id": "04:6420",
+   "op": "text",
+   "en": "Everyone stared at Akasaka in shock.\nBut his eyes didn't show the slightest doubt or hesitation.\nIt's always the ones who seem quiet day to day who are scary at times like this, right?\nOf course, everyone was against Akasaka's plan.\nJust running away made them feel guilty enough; nobody wanted any part in something that terrifying.\nBut Akasaka was different.\nHe stubbornly kept insisting on actually carrying out that crazy idea.\nAnd finally, he said that if they wouldn't help, he'd tell the seniors all about their escape.\nThen it would all be for nothing.\nSo everyone reluctantly went along with Akasaka's plan.{p}"
+  },
+  {
+   "id": "04:664c",
+   "op": "text",
+   "en": "In the end, they decided to mix the paralytic into that day's dinner.\nOnly into the seniors' plates, of course.\nThe seniors happily gulped down the soup laced with sleeping pills and paralytic.\nAnd then the lynching plan was carried out.\nFirst, Akasaka made sure the seniors were out cold, then punched them in the gut as hard as he could.\nMaybe that was the signal...\nEveryone punched and kicked the seniors, like they were working off all their pent-up frustration.\nEven the guys who'd been scared at first started getting into it.\nThey kept beating the seniors until their faces were swollen blue and a mess of nosebleeds.\n...And in the middle of all that, it happened.{p}"
+  },
+  {
+   "id": "04:685c",
+   "op": "text",
+   "en": "One of the seniors foamed at the mouth and collapsed, then went limp and stopped moving.\n\"Hey, Akasaka, this senior... he isn't dead, is he...?\"\nBy the time one of them noticed, it was too late.{p}"
+  },
+  {
+   "id": "04:6918",
+   "op": "text",
+   "en": "\"H-he's... dead☆\"\n\"Hey, you were really laying into this guy, weren't you?\"\n"
+  }
+ ]
+}

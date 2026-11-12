@@ -1,0 +1,426 @@
+{
+ "slice": "S130",
+ "scene": "33",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S129",
+ "next": "S131",
+ "todo": [],
+ "rows": [
+  {
+   "id": "33:ad7c",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:ad98",
+   "op": "text",
+   "follows_choice": [
+    "33:ad40"
+   ],
+   "en": "\"Let me check inside.\"\nWith that, Yaguchi slipped her hand into the mailbox.{p}"
+  },
+  {
+   "id": "33:ae08",
+   "op": "text",
+   "en": "\"There doesn't seem to be anything...\"\nShe said that and went to pull her hand out, and then...\n\"I-It... It won't come out★\"\nThat's right. Her hand was stuck.\nEven though the mailbox slot was bigger than her hand.\nYaguchi was on the verge of tears.\n\"Yaguchi!\"\nDate pulled on her, but she wouldn't budge at all.{p}"
+  },
+  {
+   "id": "33:af18",
+   "op": "text",
+   "en": "Worse still, the mailbox began swallowing her arm instead.\nIt swallowed more and more of her, until in the end her whole body had slipped right inside the mailbox.\nAnd so, Yaguchi vanished.{p}"
+  },
+  {
+   "id": "33:afd8",
+   "op": "text",
+   "en": "At Date's frantic pleading, the mailbox was opened.\nBut there was nothing inside except ordinary mail.\nIn the end, it seems Yaguchi was treated as a runaway.\nI hear Date was questioned pretty harshly too, but even if he told the truth, there was no way anyone would believe him.{p}"
+  },
+  {
+   "id": "33:b0c4",
+   "op": "text",
+   "en": "And that's the end of my story.\nBut the power of love is amazing, isn't it?\nIt can give that kind of power even to an inanimate object.{p}"
+  },
+  {
+   "id": "33:b13c",
+   "op": "text",
+   "follows_choice": [
+    "33:10d7c"
+   ],
+   "en": "...I see. What a shame.\nAnd I really did like you, {a}.\nIt's sad, but it can't be helped.{p}"
+  },
+  {
+   "id": "33:b1a8",
+   "op": "text",
+   "en": "But don't forget this.\nYou trampled on a girl's feelings.\nThat is a sin that deserves death.\nHeh heh... Well then, on to the sixth story.{p}"
+  },
+  {
+   "id": "33:b230",
+   "op": "text",
+   "follows_choice": [
+    "33:ad60"
+   ],
+   "en": "\"Let me take a look.\"\nWith that, Date shoved his hand into the mailbox.{p}"
+  },
+  {
+   "id": "33:b288",
+   "op": "text",
+   "en": "The next moment, a scream rang out.\nIt was Date.\n\"Agh, it hurts! Let go of me☆\"{p}"
+  },
+  {
+   "id": "33:b2dc",
+   "op": "text",
+   "en": "She looked, and the mailbox's slot had clamped tightly shut.\nAs if the mailbox had closed its mouth.\nThen hot blood ran down Date's arm.\nYaguchi frantically grabbed hold of him.\nBut it was too late.{p}"
+  },
+  {
+   "id": "33:b3ac",
+   "op": "text",
+   "en": "There was a dull sound, like something snapping, and his arm was bitten clean off.\nAs Date rolled around on the ground, the mailbox seemed to look down on him in triumph, they say.{p}"
+  },
+  {
+   "id": "33:b448",
+   "op": "text",
+   "en": "The incident was treated as a simple accident.\nRidiculous, isn't it?\nNot long after that, Date's family moved away.\nThen Yaguchi's family did too.\nThey must not have been able to bear all the people spreading stories about them, true or not.{p}"
+  },
+  {
+   "id": "33:b520",
+   "op": "text",
+   "en": "...Come to think of it, that mailbox is right on the way to school, you know.\nThere's just one thing I don't understand.\nThat arm that was bitten off... they say when they opened the mailbox, it wasn't inside.\nThen where on earth did it disappear to?\nAnother dimension, I wonder...\nAnyway, that's the end of my story.{p}"
+  },
+  {
+   "id": "33:b644",
+   "op": "text",
+   "follows_choice": [
+    "33:192c"
+   ],
+   "en": "I suppose the two of them started feeling like Romeo and Juliet.\nOf all things, they tried to sneak out in the middle of the night to meet.\nBut unluckily, they were caught.\nYou can't imagine how furious both families were.\nEach side claimed their child had been led astray by the other, so things kept getting uglier and uglier...{p}"
+  },
+  {
+   "id": "33:b788",
+   "op": "text",
+   "en": "The two of them had become just like the real Romeo and Juliet.\nBut that wasn't enough to make their love cool.\nThis time, they decided to try a telephone strategy.\nIf a parent answered, the call would just get cut off, so they had to be very careful.\nThey studied each family's routines and worked out the time that seemed safest.{p}"
+  },
+  {
+   "id": "33:b8ac",
+   "op": "text",
+   "follows_choice": [
+    "33:2ccc"
+   ],
+   "en": "This is what Yaguchi thought.\nShe wasn't the one in the wrong.\nDate was the one who was mistaken.\nSo if anyone should apologize, it should be Date... that's how she felt.{p}"
+  },
+  {
+   "id": "33:b948",
+   "op": "text",
+   "en": "But as if someone had known that, the phone rang the very instant it turned nine.\n"
+  },
+  {
+   "id": "33:b994",
+   "op": "text",
+   "en": "She picked up the receiver at once.\nDate had called her after all.\nThe moment she thought that, she forgot all about the resolve she'd had just a moment ago.{p}"
+  },
+  {
+   "id": "33:ba14",
+   "op": "text",
+   "en": "\"I'm sorry.\nIt's because I didn't explain properly...\"\nShe started to say that without even checking who it was.{p}"
+  },
+  {
+   "id": "33:ba78",
+   "op": "text",
+   "en": "Just then, she heard a little giggle from the other end of the line.\nAs Yaguchi stiffened with a start, the voice spoke to her.{p}"
+  },
+  {
+   "id": "33:bb10",
+   "op": "text",
+   "en": "\"Date says he can't stand you anymore, you cheater.\nHe said he doesn't want you calling him, either.\"\nIt was a woman's voice she didn't know.\n\"Who are you★\"\n\"Date's new girlfriend.\nUnlike you, I'm not hated by his parents.\"\nThe voice laughed scornfully at Yaguchi.{p}"
+  },
+  {
+   "id": "33:bc1c",
+   "op": "text",
+   "en": "Unable to bear it, Yaguchi slammed down the receiver.\nDate, of all people, would never cheat on her over a single misunderstanding.\nShe told herself that, but her anxiety wouldn't go away.\nSo the next day, when they met, she lit into him right away.{p}"
+  },
+  {
+   "id": "33:bd18",
+   "op": "text",
+   "en": "\"Who was that woman yesterday★\"\nBut instead, Date got angry with her.\n\"What are you talking about★\nDon't think you can talk your way out of this.\nYou're the one who's got a new boyfriend, aren't you☆\"{p}"
+  },
+  {
+   "id": "33:bdc8",
+   "op": "text",
+   "en": "Yaguchi was stunned.\nSo they decided to calm down and talk it over properly.\nAnd then they discovered something unbelievable.\nSomeone had been interfering with their calls.\nTwo people, in fact: a man pretending to be Date, and a woman pretending to be Date's girlfriend.{p}"
+  },
+  {
+   "id": "33:beb8",
+   "op": "text",
+   "en": "\"What scum.\nI swear I'll find them and beat the hell out of them!\"\nDate was never the kind of person who resorted to violence without good reason.\nBut he couldn't forgive the people who had tormented his beloved Yaguchi.{p}"
+  },
+  {
+   "id": "33:bf78",
+   "op": "text",
+   "follows_choice": [
+    "33:378c"
+   ],
+   "en": "Yes, that's a good idea.\nWhoever is interfering knows the two of them call each other at nine p.m.\nSo if they change the time, it's sure to work.{p}"
+  },
+  {
+   "id": "33:c008",
+   "op": "text",
+   "en": "\"Then I'll call thirty minutes early.\"\n\"Eight-thirty, huh?\nGot it. I'll be waiting right by the phone the whole time.\"\nThey made a pinky promise and went their separate ways.{p}"
+  },
+  {
+   "id": "33:c098",
+   "op": "text",
+   "en": "And that night, at exactly eight-thirty, Yaguchi made the call.\n"
+  },
+  {
+   "id": "33:c0ec",
+   "op": "text",
+   "en": "\"Hello...\"\nAs Yaguchi spoke, a woman's voice shrieked in her ear.\n\"You're that Yaguchi girl, aren't you!\nBecause of you, something terrible has happened to our Mamoru☆\"\n"
+  },
+  {
+   "id": "33:c1a8",
+   "op": "text",
+   "en": "Mamoru is Date's given name.\nWhile Yaguchi stood there dumbfounded, a different voice came on the line.\n\"...I'm sorry. My wife is very upset right now.\nYou're Yaguchi, aren't you?\nI'm Mamoru Date's father.\"\nThis time it was the calm voice of a middle-aged man.\nSo the voice before had been his mother.\nYaguchi asked fearfully.{p}"
+  },
+  {
+   "id": "33:c2d0",
+   "op": "text",
+   "en": "\"Um... has something happened to Mamoru?\"\n\"He was late because of club activities... He was hurrying home to make it in time for your call, and on the way he had an accident.\"\n"
+  },
+  {
+   "id": "33:c364",
+   "op": "text",
+   "en": "Date, in an accident★\nYaguchi nearly dropped the receiver.\n\"It seems he's unconscious.\nWe were just about to leave for the hospital ourselves.\"\n\"I-I'll come too!\"\nYaguchi had cried out before she knew it.\n\"I see. Thank you.\nThen let's meet somewhere.\"{p}"
+  },
+  {
+   "id": "33:c474",
+   "op": "text",
+   "en": "Where do you think Date's father told her to meet them?\n"
+  },
+  {
+   "id": "33:c4b8",
+   "op": "choice",
+   "en": "In front of the school's back gate"
+  },
+  {
+   "id": "33:c4c8",
+   "op": "choice",
+   "en": "At the intersection near her house"
+  },
+  {
+   "id": "33:c4dc",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:c4f8",
+   "op": "text",
+   "follows_choice": [
+    "33:c4b8"
+   ],
+   "en": "Date's father named the school's back gate.\nApparently it was convenient for getting to the hospital.{p}"
+  },
+  {
+   "id": "33:c56c",
+   "op": "text",
+   "en": "So Yaguchi sneaked out of the house.\nIf she got caught, they would drag her back for sure, no questions asked.\nThinking that, she naturally moved with caution.\nBecause of that, she was a little late getting to the meeting place.{p}"
+  },
+  {
+   "id": "33:c640",
+   "op": "text",
+   "en": "When she got there, there was no one at the back gate anymore.\nShe hadn't made it in time.\nThey must have gone on ahead.\nJust as Yaguchi gave up and was about to head home...\n"
+  },
+  {
+   "id": "33:c6e0",
+   "op": "text",
+   "en": "Suddenly, a phone began to ring.\nIt was the ringing of the pay phone, which had no reason to ring at all.\nWho could be calling?\nSomehow, it seemed as if the bell was ringing just for her.\nWhat should she do?{p}In a situation like this, would you pick up the receiver?\n"
+  },
+  {
+   "id": "33:c7bc",
+   "op": "choice",
+   "en": "Pick it up"
+  },
+  {
+   "id": "33:c7c4",
+   "op": "choice",
+   "en": "Wait and watch a little longer"
+  },
+  {
+   "id": "33:c7d8",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:c7f4",
+   "op": "text",
+   "follows_choice": [
+    "33:c4c8"
+   ],
+   "en": "Date's father named the intersection near her house.\nI suppose they couldn't spare the time to go the long way around.{p}"
+  },
+  {
+   "id": "33:c878",
+   "op": "text",
+   "en": "Yaguchi sneaked out of the house.\nThat intersection was a desolate spot where hardly a soul passed by once night fell.{p}"
+  },
+  {
+   "id": "33:c8fc",
+   "op": "text",
+   "en": "There was nothing there but a phone booth, standing all alone under a dim streetlight as if someone had left it behind and forgotten it.\nYaguchi waited there for a while.\nBut Date's parents didn't come.{p}"
+  },
+  {
+   "id": "33:c9b4",
+   "op": "text",
+   "en": "She couldn't go on ahead, either, because she had forgotten to ask the name of the hospital.\nAs she stood there at a loss, she saw someone walking toward her from the other direction.{p}"
+  },
+  {
+   "id": "33:ca5c",
+   "op": "text",
+   "en": "Yaguchi took a few steps forward without thinking.\nBecause it was Date's parents.\nBut both of them looked terribly pale.\nWas Date's condition really that bad?\nThat's how worried they made Yaguchi.\n\"Um, how is Date...\"\nWhen she spoke to them, his father glared at her.\n\"Ah... he wants to see you.\nHurry up and go to him.\"\nAs he said that, he grabbed Yaguchi's arm.\nHis grip was so strong that Yaguchi winced.{p}"
+  },
+  {
+   "id": "33:cc20",
+   "op": "text",
+   "en": "\"Ow!\"\nBut his father paid no attention.\nHe just kept dragging Yaguchi along.\nSomething wasn't right.\nThinking that, Yaguchi resisted.\n\"Please let go of me.\nWhere is Date?!\"{p}"
+  },
+  {
+   "id": "33:ccf0",
+   "op": "text",
+   "en": "\"I told you, we're taking you to see him!\"\nHis mother screamed and pulled a knife from her pocket.{p}"
+  },
+  {
+   "id": "33:cd6c",
+   "op": "text",
+   "en": "His father tightened his grip on her arm, too.\n\"Mamoru always studies in his room, but today he wouldn't budge from in front of the phone.\nWhen I asked him why, he said he was waiting for your call!\"\nHis father's face had become like a demon's.\n\"I told him to go back to his room, but he wouldn't listen.\nI lost my temper and hit him, and he fell... and his head... there was blood...!\"\n"
+  },
+  {
+   "id": "33:ce88",
+   "op": "text",
+   "en": "\"You killed Date★\"\nForgetting even her fear, Yaguchi screamed.{p}"
+  },
+  {
+   "id": "33:cee0",
+   "op": "text",
+   "en": "\"This is your fault!\nGoing out with you turned Mamoru into a delinquent!\nSo you die too☆\"\nThe knife came stabbing at her.{p}"
+  },
+  {
+   "id": "33:cf6c",
+   "op": "text",
+   "en": "Yaguchi desperately dodged it.\nAnd she shouted,\n\"So you two were also the ones who made those fake calls to break us up★\"\n\"I don't know anything about that!\"\nDate's mother raised the knife again.{p}"
+  },
+  {
+   "id": "33:d044",
+   "op": "text",
+   "en": "Just then, the beam of a flashlight flooded over the three of them.\n\"What's going on here★\"\nIt was a police officer on patrol.\nShe was saved...\nIt happened just as Yaguchi let out a sigh of relief.{p}"
+  },
+  {
+   "id": "33:d10c",
+   "op": "text",
+   "en": "His mother plunged the knife she'd raised into her own stomach.\nWhoosh... they say a tremendous spray of blood shot out.\n\"If Mamoru dies... there's nothing left to live for...\"\nMurmuring that, Date's mother collapsed, I'm told.{p}"
+  },
+  {
+   "id": "33:d1f4",
+   "op": "text",
+   "en": "His father was arrested on the spot, of course.\nHis mother somehow survived, but I hear she's still in the hospital.\nI heard this story from Yaguchi herself, after she graduated... but don't you notice something strange?\n...That's right. If it wasn't Date's father and mother who made the fake calls, then who on earth was it?\nEven though those calls are what tore Date's family apart...\nAnd that's the end of my story.{p}"
+  },
+  {
+   "id": "33:d368",
+   "op": "text",
+   "follows_choice": [
+    "33:37d4"
+   ],
+   "en": "Oh, that won't do.\nDo you really think their strict parents would allow something like that?\nWhat the two of them did was hang up the moment it started ringing, then call right back.\nSimple, but reliable, isn't it?{p}"
+  },
+  {
+   "id": "33:d430",
+   "op": "text",
+   "follows_choice": [
+    "33:4328"
+   ],
+   "en": "\"But... that's... I can't go.\"\nThat's what she said.\n\"What the hell?\nYou're the one who called me out here.\nAre you messing with me★\"\nOn the other end of the line, Date seemed to be getting really angry.\nThey might end up fighting again.{p}What should she do?\n"
+  },
+  {
+   "id": "33:d524",
+   "op": "choice",
+   "en": "Say she won't go"
+  },
+  {
+   "id": "33:d534",
+   "op": "choice",
+   "en": "Correct herself and say she can go"
+  },
+  {
+   "id": "33:d548",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:d564",
+   "op": "text",
+   "follows_choice": [
+    "33:d524"
+   ],
+   "en": "\"I hate sneaking around to meet at night like this.\nAnd besides, I never called you out anywhere, Date.\"\nYaguchi pleaded desperately.\nShe must have felt that if she didn't clear up the misunderstanding now, they could never make up.\n\"...Fine. I get it.\nForget it!\"\nThere was the sound of the receiver being slammed down.\nDate had hung up on her.{p}"
+  },
+  {
+   "id": "33:d6ac",
+   "op": "text",
+   "en": "Yaguchi agonized over it.\nMaybe she should go after all... she thought.\nBut she hadn't asked where Date was waiting.\nYaguchi agonized and agonized, and the night gave way to dawn without her getting a wink of sleep.{p}"
+  },
+  {
+   "id": "33:d784",
+   "op": "text",
+   "en": "She couldn't wait to get to school.\nShe practically ran the whole way.\nBecause she wanted to see Date as soon as she possibly could.{p}"
+  },
+  {
+   "id": "33:d7f8",
+   "op": "text",
+   "en": "In front of the school gate, she spotted Date running toward her.\nTo her surprise, Date, who should have been angry, came running straight up to her.{p}"
+  },
+  {
+   "id": "33:d884",
+   "op": "text",
+   "en": "\"Thank goodness you're okay!\"\nAt Date's words, Yaguchi's eyes went wide.\n\"Date, weren't you angry?\nAbout the call last night...\"\n\"Right, right, the phone, yeah.\nI waited and you never called, and when I tried calling you, the line was busy.\nI couldn't get through at all, so I figured that creep was messing with us again.\"\nDate seemed relieved.{p}"
+  },
+  {
+   "id": "33:d9c8",
+   "op": "text",
+   "en": "\"Huh... then what was that call?\"\nJust as Yaguchi murmured that,\nthings suddenly got noisy over in the distance.\nThere were even girls running toward them in tears, and the whole area was thrown into an uproar.{p}"
+  },
+  {
+   "id": "33:da84",
+   "op": "text",
+   "en": "Apparently, a dog's carcass had been stuffed inside the pay phone booth by the back gate.\nAnd it was a gruesome one, burned raw by some chemical or something, I hear.\nFrom that day on, the fake calls to Yaguchi's house stopped.{p}"
+  },
+  {
+   "id": "33:db6c",
+   "op": "text",
+   "en": "She and Date went back to being close, just like before.\nBut you know, Yaguchi says she sometimes thinks about it.\nWhat would have happened back then if she'd believed that fake call and gone out?\nWhat if the person on the phone had named the school's back gate as the meeting place...\nShe says it might have been her who died inside that phone booth.\nMaybe she's just overthinking it.\nTell me, what do you think...?\nAnyway, that's the end of my story.{p}"
+  },
+  {
+   "id": "33:dcec",
+   "op": "text",
+   "follows_choice": [
+    "33:4618"
+   ],
+   "en": "Something about this felt wrong.\nThat must have been what Yaguchi thought.\nSo she didn't go to the school.\nIf that call had really been from Date, he would surely be furious.\nBut her fear was stronger.\nA while later, the phone rang again.{p}"
+  },
+  {
+   "id": "33:dde8",
+   "op": "text",
+   "en": "When Yaguchi picked up, the voice on the other end said,\n\"Why... aren't you coming...\"\nJust like that.\n"
+  },
+  {
+   "id": "33:de48",
+   "op": "text",
+   "en": "But it didn't sound like Date's voice.\n\"Who is this?\"\nIgnoring Yaguchi's question, the voice on the phone kept on saying it, full of resentment.\n\"Why didn't you come... I was waiting for you...\"\nCreepy, isn't it?\nSo Yaguchi tried to put the receiver down.\nBut she couldn't.\nThe receiver was stuck to her hand.{p}"
+  },
+  {
+   "id": "33:df94",
+   "op": "text",
+   "en": "When she looked closely, countless tentacles, fine as threads, were growing out of the receiver.\n"
+  },
+  {
+   "id": "33:dfdc",
+   "op": "text",
+   "en": "They were wound around her hand.\nThe needle-sharp tips of the tentacles pricked her fingers.\n\"Ow!\"\nBlood slowly welled up.\nThen the tentacles all reared up their heads at once, like snakes, as if they were delighted!\nAnd they stabbed into her hand, trying to burrow under her skin.\nShe tried to get away, but the receiver itself just wouldn't come off her hand.{p}"
+  }
+ ]
+}

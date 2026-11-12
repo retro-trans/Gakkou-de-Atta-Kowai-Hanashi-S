@@ -1,0 +1,372 @@
+{
+ "slice": "S094",
+ "scene": "25",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S093",
+ "next": "S095",
+ "todo": [],
+ "rows": [
+  {
+   "id": "25:1348",
+   "op": "text",
+   "en": "Hello.\nI'm Tomoharu Hosoda, Class 2-C.\nNice to meet you all.\nI'll get right to the scary story, then... {a}{f:|}?\nYou go to the restroom, don't you?\nRestrooms are scary, aren't they?\nEven among scary stories about schools, the ones about restrooms are the most common.\nI mean, in the restroom, the girls all use stalls, right?\nAnd even boys use a stall when it's number two.{p}"
+  },
+  {
+   "id": "25:14a8",
+   "op": "text",
+   "en": "That cramped, suffocating little space.\nIt's seriously scary.\nEspecially a restroom in the evening, when no one's around.\nIt's lonely, and a draft or something comes creeping in, whoosh... whoosh..., and it just feels wrong.\nThe door creaks open, and someone comes in.\nBut you can't tell who it is.\nAnd then only their footsteps echo, clack... clack..., coming closer to you.\nWhat if it were a killer...?{p}"
+  },
+  {
+   "id": "25:1610",
+   "op": "text",
+   "en": "You'd want to scream before you knew it, right?\nI think psychology like that is at work, and that's how so many scary stories came about naturally.\nBut you know, lots of scary things really do happen in restrooms.\nSo, I'm going to tell you a story about those restrooms.\nAnd so, I want to test you now.\n...No, it's nothing weird.\nPeople often tell me I have a strong sixth sense.\nI end up seeing a lot of strange things.\nAnd, well, I sense the same thing in you.\nHow should I put it... an aura, I guess?\nCall it a signal, or a wavelength, but anyway, you and I seem like the same kind of person to me.\nSo I think if I'm with you, the spiritual aura will get even stronger.\nSo, um, would you go out with me for a bit?\nWhen I ask you to go out with me, I don't mean it like that.\nI mean there's somewhere I want you to go with me.\nWhat do you say?{p}Won't you go out with me for a bit?\n"
+  },
+  {
+   "id": "25:1920",
+   "op": "choice",
+   "en": "Go with him"
+  },
+  {
+   "id": "25:192c",
+   "op": "choice",
+   "en": "Don't go with him"
+  },
+  {
+   "id": "25:1944",
+   "op": "text",
+   "follows_choice": [
+    "25:1920"
+   ],
+   "en": "Really?\nThat makes me happy.\nI knew you'd say that.\nWell then, let's go right away.\nOf course, I'd like all of you to come along too.\nOh, it's nowhere special.\nThe restroom. The restroom.\nI was thinking we'd go on a little rest-{g}room tour of the new school building.\nYou see, there's a rumor that something strange appears in the new building's restrooms.\nI'd really like to check it out together with {a}{f:|}.\nIf {a}{f:|} senses a spiritual aura from a restroom, let's all go inside together.\nWell then, everyone, shall we go?{p}"
+  },
+  {
+   "id": "25:1b78",
+   "op": "text",
+   "en": "...{a}{f:|}, first up is the restroom on the north side of the new building's first floor.\nWell?\nDo you feel anything?{p}If you do, tell me honestly.\n"
+  },
+  {
+   "id": "25:1c04",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:1c0c",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:1c18",
+   "op": "text",
+   "follows_choice": [
+    "25:1c0c"
+   ],
+   "en": "...I see.\nYou don't feel anything at all here?\nThen let's try the next one.{p}"
+  },
+  {
+   "id": "25:1c94",
+   "op": "text",
+   "en": "...This is the restroom on the south side of the new building's first floor.\nWell?{p}Do you feel it this time?\n"
+  },
+  {
+   "id": "25:1ce8",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:1cf0",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:1cfc",
+   "op": "text",
+   "follows_choice": [
+    "25:1cf0"
+   ],
+   "en": "...I see.\nYou don't feel anything here either?\nHmm... I've decided I'll trust your sixth sense.\nWell then, let's try the second floor.{p}"
+  },
+  {
+   "id": "25:1da4",
+   "op": "text",
+   "en": "Actually, you know, there's a strange rumor about that last restroom.\nI don't really feel much from it myself, though.\nWell, it's just a rumor. Just a rumor.\n...Okay, here we are.{p}"
+  },
+  {
+   "id": "25:1e60",
+   "op": "text",
+   "en": "This is the restroom on the south side of the new building's second floor.\n...What do you think?\nI want to hear your honest opinion.\nLook really carefully.\nWell?{p}Do you feel anything?\n"
+  },
+  {
+   "id": "25:1ef0",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:1ef8",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:1f04",
+   "op": "text",
+   "follows_choice": [
+    "25:1ef8"
+   ],
+   "en": "...I see.\nYou don't feel anything.\nThen let's go on to the next one.\nIt can't be helped, after all.{p}"
+  },
+  {
+   "id": "25:1f7c",
+   "op": "text",
+   "en": "...No, it's not like I'm disappointed or anything.\nIt's just that I get a strange sensation from that restroom, even if it's only the tiniest bit.\nI thought maybe... that's all.\nMy sixth sense isn't all that reliable anyway.\nI think the mysterious aura you give off is far greater than mine, you see.{p}"
+  },
+  {
+   "id": "25:20bc",
+   "op": "text",
+   "en": "...Okay, here we are.\nThis is the restroom on the north side of the new building's second floor.\nHow about it?\nCan you see anything?\nIsn't there some murky air hanging around in there?{p}I'd like to hear your straight opinion.\n"
+  },
+  {
+   "id": "25:216c",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:2174",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:2180",
+   "op": "text",
+   "follows_choice": [
+    "25:2174"
+   ],
+   "en": "...I see.\nOf course not.\nSo there really is nothing in this restroom.\nThat's good.\nWhat a relief.{p}"
+  },
+  {
+   "id": "25:220c",
+   "op": "text",
+   "en": "Well then, let's go to the third floor.\nThe third floor, you see, is overflowing with spiritual aura for some reason.\nSee, you feel it too, right?\nThe closer we get to the roof, the stronger the aura gets, for some reason.\nThat kind of phenomenon is supposed to be pretty rare, though. I wonder why.\n...Still, this school sure is big.\nEven though I go here myself, I get thoroughly sick of it.\n...Hup, there we go.\nOkay, here we are.{p}"
+  },
+  {
+   "id": "25:2390",
+   "op": "text",
+   "en": "This is the restroom on the north side of the new building's third floor.\nSee?\nYou feel it too, don't you?\nThe aura, swirling all around.\nWhat do you think?\nYou don't have to be scared.\nAs long as you and I are together, the spirits won't attack us.\nCome on, tell me.\nTell me how you really feel.\nWell?{p}You clearly feel something, don't you?\n"
+  },
+  {
+   "id": "25:24ac",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:24b4",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:24c0",
+   "op": "text",
+   "follows_choice": [
+    "25:24b4"
+   ],
+   "en": "..................I see.\nYou don't feel it.\n...I see.\nNo, don't worry about it.\nMaybe you're the one who's right.\nMaybe I'm the only one who feels a strong aura here.{p}"
+  },
+  {
+   "id": "25:25a8",
+   "op": "text",
+   "en": "Well then, shall we go?\nThere's only one restroom left in the new building.\nIf you don't feel anything in that one either, then... maybe it means there really is nothing there after all.\nWe're almost there.\nTo tell you the truth, I can feel a tremendous aura coming from that restroom.\nIf it's you, there's no doubt about it.\nYou're absolutely sure to feel it.{p}"
+  },
+  {
+   "id": "25:26f4",
+   "op": "text",
+   "en": "Here it is.\nYou've used this one too, haven't you?\nOh, or maybe you've stayed away from this restroom because it's creepy.{p}"
+  },
+  {
+   "id": "25:2770",
+   "op": "text",
+   "en": "I feel like with you here, I might get to see whatever is lurking in this restroom.\nCome on, how about it?\nYou feel it, right?{p}You can feel that something is definitely lurking in this restroom, can't you?\n"
+  },
+  {
+   "id": "25:2814",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:281c",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:2828",
+   "op": "text",
+   "follows_choice": [
+    "25:281c"
+   ],
+   "en": "...You don't feel it?\nYou really don't feel it?\nYou're kidding, right?\nTell me honestly.{p}You really do feel it, don't you?\n"
+  },
+  {
+   "id": "25:288c",
+   "op": "choice",
+   "en": "I feel something"
+  },
+  {
+   "id": "25:2894",
+   "op": "choice",
+   "en": "I don't feel anything"
+  },
+  {
+   "id": "25:28c4",
+   "op": "text",
+   "follows_choice": [
+    "25:2894"
+   ],
+   "en": "...I see.\nOh well.\nThen let's head back.\nIt wouldn't be fair to drag our seniors around any more than this.\nLet's go back to the newspaper club and continue the stories.\n\"Please wait a moment.\n...I suddenly really need to use the restroom.\"\n\"Oh, okay.\nThen we'll head back to the newspaper club, so come join us later.\"{p}"
+  },
+  {
+   "id": "25:29dc",
+   "op": "text",
+   "en": "With that, Hosoda and the others went back to the newspaper club.\nHosoda was still tilting his head, looking puzzled.\nWas it really so strange that I hadn't felt anything?\n...Whoops, no time to be thinking about that.\nI dashed into the restroom.{p}"
+  },
+  {
+   "id": "25:2ae0",
+   "op": "text",
+   "en": "Inside, the stifling smell of ammonia stung my nose.\nSchool restrooms stink.\nHolding my breath, I decided to do my business quickly.\nI went to the nearest urinal and unzipped.\n...Ahh, that feels good.{p}"
+  },
+  {
+   "id": "25:2ba0",
+   "op": "text",
+   "en": "Huh?\nI heard a sound behind me.\nWhat was that?\nI turned around.{p}"
+  },
+  {
+   "id": "25:2bf4",
+   "op": "text",
+   "en": "...But no one was there.\nMaybe it was the wind.\nOr just my imagination.\nThinking so, I went to wash my hands.{p}"
+  },
+  {
+   "id": "25:2c78",
+   "op": "text",
+   "en": "There it was again.\nThe sound came again.\nThis was strange.\nIt wasn't my imagination.\nI turned around once more.{p}"
+  },
+  {
+   "id": "25:2cd8",
+   "op": "text",
+   "en": "...And I waited for the sound to come.\n"
+  },
+  {
+   "id": "25:2d08",
+   "op": "text",
+   "en": "I hadn't misheard it.\nI could definitely hear a sound.{p}"
+  },
+  {
+   "id": "25:2d38",
+   "op": "text",
+   "en": "It came from inside the second stall from the right.\nPeople often knock on a stall door from outside to check whether someone's in there.{p}"
+  },
+  {
+   "id": "25:2dbc",
+   "op": "text",
+   "en": "But a sound coming from inside a stall...\nWhat was it?\nWhy would a sound like that be coming from in there?\nIt definitely wasn't my imagination.\nI could hear it for sure.{p}"
+  },
+  {
+   "id": "25:2e78",
+   "op": "text",
+   "en": "As if lured by something, I stood in front of the door the sound was coming from.{p}"
+  },
+  {
+   "id": "25:2eb4",
+   "op": "text",
+   "en": "Was someone knocking on it as a prank?\nI could clearly feel my whole body trembling.\nMy teeth were chattering so hard I could hear them myself.\nWas someone in there?\nWas this what it meant to sense a spiritual aura?\nI slowly reached out for the knob.\nWhat should I do?\nOpen it?{p}Or run away?\n"
+  },
+  {
+   "id": "25:2fdc",
+   "op": "choice",
+   "en": "Open it"
+  },
+  {
+   "id": "25:2fe4",
+   "op": "choice",
+   "en": "Don't open it, just wait and see what happens"
+  },
+  {
+   "id": "25:3004",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "25:301c",
+   "op": "text",
+   "follows_choice": [
+    "25:2fdc"
+   ],
+   "en": "Even the hand gripping the knob was shaking badly.\nThe trembling that seized my whole body showed no sign of stopping.\nI made up my mind to open the door.\nI slowly turned the knob.{p}"
+  },
+  {
+   "id": "25:30b0",
+   "op": "text",
+   "en": "There was a click, and when I pulled the door toward me, it moved slowly.\nIt wasn't locked...{p}"
+  },
+  {
+   "id": "25:311c",
+   "op": "text",
+   "en": "After that, the door opened on its own without my putting any strength into it.\nSlowly, ever so slowly, the door swung open, laying bare the inside of the stall.{p}"
+  },
+  {
+   "id": "25:31a8",
+   "op": "text",
+   "en": "...What, there's nobody in here.\nI breathed a sigh of relief.\nI'd been so worried there might be some monster inside that all the tension I'd been holding until then drained away at once.{p}"
+  },
+  {
+   "id": "25:3258",
+   "op": "text",
+   "en": "...Huh?\nThere's nobody in here?\nShould I really be relieved?\nIf there's nobody in here, then who was knocking on the door just now?\nWhat was that sound coming from the inside?\nWho on earth was knocking?{p}"
+  },
+  {
+   "id": "25:3320",
+   "op": "text",
+   "en": "\"Whoa!\"\nI jumped back without thinking.\nWhat's going on?!\nWhat is this sound?!{p}"
+  },
+  {
+   "id": "25:3390",
+   "op": "text",
+   "en": "The doors of all the other stalls began to rattle at once with a tremendous noise.\n"
+  },
+  {
+   "id": "25:33cc",
+   "op": "text",
+   "en": "The doors were shaking so violently they seemed about to break at any moment.\n"
+  },
+  {
+   "id": "25:3424",
+   "op": "text",
+   "en": "It was the sound of someone trapped inside, kicking wildly at the door in sheer terror.{p}"
+  },
+  {
+   "id": "25:3480",
+   "op": "text",
+   "en": "The sound of someone slamming their body against the door, desperate to get out somehow, echoed all through the restroom.\n\"Stop it!\"\nI had screamed before I knew it.\nHow wonderful it would have been if that had made the noise stop.\nAs if defying me, the noise only seemed to grow even more violent.{p}"
+  },
+  {
+   "id": "25:3594",
+   "op": "text",
+   "en": "It felt as if every drop of moisture in my body was gushing out as sweat.\nHad I ever tasted terror like this before?\nAn unseen terror.\nThe terror of not being able to imagine what would happen next.\nThere was definitely something in this restroom.\nBut I didn't know what that something was.\nThe indescribable dread of coming face to face with a completely unknown, unfathomable presence.{p}"
+  },
+  {
+   "id": "25:36fc",
+   "op": "text",
+   "en": "I felt dizzy.\nI felt sick.\nIt was as if the air had solidified; I couldn't breathe properly.\nIt felt like being forced to swallow a lump the size of a golf ball.\nI never knew breathing could be this hard...\nMy heart pounded, and I couldn't pull my thoughts together about what to do.\nWhat should I do?{p}What can I do?\n"
+  },
+  {
+   "id": "25:3838",
+   "op": "choice",
+   "en": "Scream"
+  },
+  {
+   "id": "25:3840",
+   "op": "choice",
+   "en": "Knock back on the door"
+  },
+  {
+   "id": "25:3854",
+   "op": "choice",
+   "en": "Run away"
+  }
+ ]
+}

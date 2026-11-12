@@ -1,0 +1,450 @@
+{
+ "slice": "S119",
+ "scene": "30",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S118",
+ "next": "S120",
+ "todo": [],
+ "rows": [
+  {
+   "id": "30:3860",
+   "op": "text",
+   "follows_choice": [
+    "30:3850"
+   ],
+   "en": "Right.\nYou're someone who listens to advice, aren't you?\nYes, you have to listen to her advice.\nYou must not look back.\nNo matter what happens.\nYou told me so yourself, after all.\nThat you listen to advice.\nDon't lie to me.\nIf you lie, I'll kill you.\nI hate it.\nI can't forgive liars.\nUnderstood?\n...You didn't look back.\nEven so, the fear didn't go away.\nWith every step you took, the fear soaked deeper into every inch of you.{p}"
+  },
+  {
+   "id": "30:3a34",
+   "op": "text",
+   "en": "And then the girl's hands, wrapped around your neck, began to feel as if they were squeezing.\nSomehow, it was very hard to breathe.\nWith each jolt of your steps, her hands were without a doubt tightening around your neck.\nThin, cold, hard fingers were coiled firmly around your throat.\nIf you looked back, she might vanish.\nIf you shook her off, you might get away from her.{p}What will you do?\n"
+  },
+  {
+   "id": "30:3b90",
+   "op": "choice",
+   "en": "Turn around"
+  },
+  {
+   "id": "30:3b9c",
+   "op": "choice",
+   "en": "Shake her off"
+  },
+  {
+   "id": "30:3ba8",
+   "op": "choice",
+   "en": "Do nothing"
+  },
+  {
+   "id": "30:3bb4",
+   "op": "text",
+   "follows_choice": [
+    "30:3ba8"
+   ],
+   "en": "My, how admirable of you.\nIf you turned around, you'd be ignoring her advice.\nIf you shook her off, you'd be breaking your promise to her.\nYou endured it desperately.\nYes, shielding a heart that felt ready to freeze solid with fear, you endured.{p}"
+  },
+  {
+   "id": "30:3ca0",
+   "op": "text",
+   "en": "\"...What a long hallway, isn't it?\n...I wonder when this hallway will ever end.\nWas there ever a hallway this long at school...?\"\nHer voice, spoken to no one in particular, melted away into the darkness.\n\"...It's awfully cold, isn't it?\"{p}"
+  },
+  {
+   "id": "30:3d7c",
+   "op": "text",
+   "en": "The moment she said that, a cold wind blew at you from behind.\nAnd riding on the wind came a groaning voice, as if wrung from the pit of someone's belly.\nA dank, hateful voice, like the dead of hell cursing and reviling the living from the depths of the earth.\nIt might have been the sound of the wind.\nBut then again, it might not have been the wind at all.\nHer voice whispered at your ear again.\n\"...Scared, aren't ya?\nWanna try looking back?\nLook back, and you can rest easy. You won't have to be scared anymore.\"{p}"
+  },
+  {
+   "id": "30:3f30",
+   "op": "text",
+   "en": "A sweet, beckoning voice.\nWhat will you do?\nWill you look back?{p}If you don't look back, you might die.\n"
+  },
+  {
+   "id": "30:3f94",
+   "op": "choice",
+   "en": "Look back"
+  },
+  {
+   "id": "30:3fa0",
+   "op": "choice",
+   "en": "Don't look back"
+  },
+  {
+   "id": "30:3fb0",
+   "op": "text",
+   "follows_choice": [
+    "30:3fa0"
+   ],
+   "en": "Even so, you didn't look back.\nBecause you listened to her advice.\nBecause you kept your promise to her.{p}"
+  },
+  {
+   "id": "30:4008",
+   "op": "text",
+   "en": "\"Eeeeeeeeeek!\"\nSuddenly an ear-splitting, high-pitched shriek rang out, and the thin fingers wrapped around your neck clenched tight.\n\"Stop it!\"\nThat was all you could manage to scream.\n...And then, you slipped away into unconsciousness.{p}"
+  },
+  {
+   "id": "30:40e4",
+   "op": "text",
+   "en": "..........I'm sorry.\nIt wasn't you, was it?\nIt was the other {a}.\nYes, this was the story of the other you.\nIt was the next morning when he came to.\nA student from his class helped him up.{p}"
+  },
+  {
+   "id": "30:41ac",
+   "op": "text",
+   "en": "\"What happened to you?\nWhy are you sleeping in a place like this?\"\nEven when asked that, he didn't know how to answer.\nAs his head cleared, he hurriedly looked up and down the hallway.{p}"
+  },
+  {
+   "id": "30:4268",
+   "op": "text",
+   "en": "The hallway was plainly visible in the morning light.\nThe usual hallway was there.\nThe usual hallway, where you could see from one end to the other.\nAnd he had been lying in front of his classroom.\n\"...I made it.\"\nThat was all he could murmur.\nMaybe it had been a dream.\nMaybe he'd been worn out from studying and had a bad dream.\nThe classmate was giving him a strange look.\nAnd then said:\n\"What's with you?\nYou've got a weird bruise on your neck.\"\nAt that, he checked in a mirror.{p}"
+  },
+  {
+   "id": "30:4428",
+   "op": "text",
+   "en": "On his neck were distinct finger marks, as if he had been strangled.\nIn the end, he never found out why the hallway had been so long.\nOr what it was he had been carrying on his back.\nIf he had looked behind him, he might have learned what it really was.\nThough he might have lost his life in exchange.{p}"
+  },
+  {
+   "id": "30:4548",
+   "op": "text",
+   "en": "The bruise on his neck didn't fade for about a month.\nEven so, he survived.\nMaybe it was thanks to keeping his promise to the very end.\nYou said you were in Class 1-E, didn't you?\nIf I remember right, that classroom is on the third floor.\nIsn't Class 1-E that classroom at the end of the long hallway?{p}"
+  },
+  {
+   "id": "30:463c",
+   "op": "text",
+   "en": "But don't worry.\nYou're a kind person who keeps promises and listens to advice.\nI'll pray that never changes.\nHumans are creatures who change their minds so easily, after all.\n...Heh heh heh heh, do be careful.\nAnd that's the end of my story.\nNow, who's speaking next?{p}"
+  },
+  {
+   "id": "30:4740",
+   "op": "text",
+   "follows_choice": [
+    "30:0c44"
+   ],
+   "en": "What a thing to say, out of nowhere.\nDon't say such sad things.\nThen I'm asking you, please.\nBecome a kind person from now on.\nOtherwise, I can't talk with you.\nI like kind people.\nNow, give me your answer.{p}Are you a kind person?\n"
+  },
+  {
+   "id": "30:481c",
+   "op": "choice",
+   "en": "I'm kind"
+  },
+  {
+   "id": "30:4824",
+   "op": "choice",
+   "en": "I'm not kind"
+  },
+  {
+   "id": "30:4838",
+   "op": "text",
+   "follows_choice": [
+    "30:481c"
+   ],
+   "en": "Thank you.\nActually, there's something else I want to ask you.\nSomething very important.{p}"
+  },
+  {
+   "id": "30:4890",
+   "op": "text",
+   "follows_choice": [
+    "30:0c50"
+   ],
+   "en": "You're not confident in your own kindness?\nIt's all right.\nI can tell.\nYou're a kind person.\nAren't you?\nI want you to be able to say that you are.\nI like kind people, you see.\nNow, give me your answer.{p}Are you a kind person?\n"
+  },
+  {
+   "id": "30:4968",
+   "op": "choice",
+   "en": "I'm kind"
+  },
+  {
+   "id": "30:4970",
+   "op": "choice",
+   "en": "I'm not kind"
+  },
+  {
+   "id": "30:497c",
+   "op": "text",
+   "follows_choice": [
+    "30:4968"
+   ],
+   "en": "Thank you.\nActually, there's something else I want to ask you.\nSomething very important.{p}"
+  },
+  {
+   "id": "30:49d4",
+   "op": "text",
+   "follows_choice": [
+    "30:0d54"
+   ],
+   "en": "I see...\nSo that's the kind of person you are.\nFine. Then promise me.\nPromise that from now on, you'll be someone who keeps promises.\nPlease.\nNow, I'll ask you once more.{p}Are you someone who can keep a promise?\n"
+  },
+  {
+   "id": "30:4a8c",
+   "op": "choice",
+   "en": "I can keep my promises"
+  },
+  {
+   "id": "30:4a94",
+   "op": "choice",
+   "en": "I can't keep my promises"
+  },
+  {
+   "id": "30:4aa8",
+   "op": "text",
+   "follows_choice": [
+    "30:4a8c"
+   ],
+   "en": "Thank you.\nYou're a good person, aren't you?\nThen I'll ask you my last question.{p}"
+  },
+  {
+   "id": "30:4b00",
+   "op": "text",
+   "follows_choice": [
+    "30:0d60"
+   ],
+   "en": "Don't put it like that.\nWhenever you make a promise to someone, be the kind of person who always keeps it.\nPlease.\nIf you agree, give me your answer.\n{a}...{p}You can keep a promise, can't you?\n"
+  },
+  {
+   "id": "30:4bac",
+   "op": "choice",
+   "en": "I can keep my promises"
+  },
+  {
+   "id": "30:4bb4",
+   "op": "choice",
+   "en": "I can't keep my promises"
+  },
+  {
+   "id": "30:4bc8",
+   "op": "text",
+   "follows_choice": [
+    "30:4bac"
+   ],
+   "en": "Thank you.\nYou're a good person, aren't you?{p}"
+  },
+  {
+   "id": "30:4bfc",
+   "op": "text",
+   "en": "Then I'll ask you my last question.{p}"
+  },
+  {
+   "id": "30:4c2c",
+   "op": "text",
+   "follows_choice": [
+    "30:0ec8"
+   ],
+   "en": "That won't do.\nYou see, I want you to be someone who can listen to other people's advice.\nWhy would I say that to you, when we've only just met?{p}"
+  },
+  {
+   "id": "30:4ccc",
+   "op": "text",
+   "en": "Heh heh...\nBecause this school is far too dangerous.\nA tremendous spiritual aura swirls all through it.\nMeeting you here, right now, must be some kind of fate.{p}"
+  },
+  {
+   "id": "30:4d58",
+   "op": "text",
+   "en": "Listen, {a}.\nMake sure you listen to other people's advice.\nOtherwise...\nI won't answer for whatever happens to you.\nNow, give me your answer.{p}Do you listen to other people's advice?\n"
+  },
+  {
+   "id": "30:4de8",
+   "op": "choice",
+   "en": "I take people's advice to heart"
+  },
+  {
+   "id": "30:4e00",
+   "op": "choice",
+   "en": "I can't do that"
+  },
+  {
+   "id": "30:4e14",
+   "op": "text",
+   "follows_choice": [
+    "30:4de8"
+   ],
+   "en": "I thought you'd answer that way.\nHeh heh...\nThen I'll begin my story.{p}"
+  },
+  {
+   "id": "30:4e6c",
+   "op": "text",
+   "follows_choice": [
+    "30:0ed4"
+   ],
+   "en": "I see...\nThat's one way to think, too.\nBut that won't get you anywhere at this school.\nIf you don't listen to all sorts of people's advice, you'll regret it later.\nThis school is far too dangerous.\nA tremendous spiritual aura swirls all through it.\nMeeting you here, right now, must be some kind of fate.\nListen, {a}.\nMake sure you listen to other people's advice.\nOtherwise...\nI won't answer for whatever happens to you.\nNow, give me your answer once more.{p}Do you listen to other people's advice?\n"
+  },
+  {
+   "id": "30:4ff8",
+   "op": "choice",
+   "en": "I take people's advice to heart"
+  },
+  {
+   "id": "30:5010",
+   "op": "choice",
+   "en": "I can't do that"
+  },
+  {
+   "id": "30:5024",
+   "op": "text",
+   "follows_choice": [
+    "30:4ff8"
+   ],
+   "en": "I thought you'd answer that way.\nHeh heh...\nThen I'll begin my story.{p}"
+  },
+  {
+   "id": "30:5084",
+   "op": "text",
+   "follows_choice": [
+    "30:4824",
+    "30:4970"
+   ],
+   "en": "I see...\nWhat a shame.\nI thought that if you were a kind person, you might be able to break the curse of the girl I'm about to tell you about...\nThis is the story of a pitiful girl.\nI don't know how you'll feel about it, but that's how I see her.\nThis is the story of a pitiful girl.{p}"
+  },
+  {
+   "id": "30:51b0",
+   "op": "text",
+   "en": "Long ago, there was a girl at this school named Natsumi Kitajima.\nThere was a boy she liked.\nHis name was... what was it, now?\nI can't remember.\nLet's see, suppose we call him {a}.\nI'll borrow your name.\nHis name was {b} {a}.{p}"
+  },
+  {
+   "id": "30:52a4",
+   "op": "text",
+   "en": "Kitajima just couldn't bring herself to confess.\nShe was in the same class as {a}, but day after day went by with her doing nothing but gazing at him from afar.{p}"
+  },
+  {
+   "id": "30:5328",
+   "op": "text",
+   "en": "And then, one hot summer day...\nShe was gazing at {a}, the way she always did.{p}"
+  },
+  {
+   "id": "30:5384",
+   "op": "text",
+   "en": "{a}'s face, {a}'s hair, {a}'s arms peeking out of his shirt...\nShe had extremely sharp eyes; they say she could even see the beads of sweat running down his arm.\nAnd then a mosquito landed there.\nHe slapped the mosquito with his hand.\nAnd a tiny smear of blood was left on {a}'s arm.\nWhen she saw it, she felt a little strange.{p}"
+  },
+  {
+   "id": "30:54b4",
+   "op": "text",
+   "en": "Outside the window, the cicadas were shrilling almost deafeningly.\nA hot, hot summer day...\nLooking at the mosquito that had sucked {a}'s blood, she found herself feeling somehow envious.\nThat mosquito could land on {a}'s arm and even drink his blood, and she envied it terribly.\nShe was so far away from him, and yet that mosquito.........{p}"
+  },
+  {
+   "id": "30:55d0",
+   "op": "text",
+   "en": "Day after day, mosquito after mosquito landed on his arm.\nIt made her feel sick inside.\nShe couldn't even speak to {a}, and yet those mosquitoes...\nShe brooded over it until she even came to think that if she could drink {a}'s blood, she wouldn't mind being swatted dead like a mosquito.\nKitajima was terrified of herself for feeling that way.\nSo she decided to confess to {a}.\nShe gathered every ounce of courage and decided to tell him how she felt.{p}...How will you answer her?\n"
+  },
+  {
+   "id": "30:5770",
+   "op": "choice",
+   "en": "Go out with her"
+  },
+  {
+   "id": "30:577c",
+   "op": "choice",
+   "en": "Turn her down"
+  },
+  {
+   "id": "30:5790",
+   "op": "text",
+   "follows_choice": [
+    "30:5770"
+   ],
+   "en": "You decided to go out with her.\nAfter all, as you'd expect of a girl who had watched you from afar all that time, she was very modest and sweet.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}"
+  },
+  {
+   "id": "30:5878",
+   "op": "text",
+   "en": "The next day, the two of you decided to eat lunch together on the roof.\nA boxed lunch, eaten together with her...\nShe looked so happy.\nFor a while, it was a fun time.\nBut...{p}"
+  },
+  {
+   "id": "30:5934",
+   "op": "text",
+   "en": "While you were eating your rolled omelet, she suddenly slapped your arm.\n\"I'm sorry.\nThere was a mosquito just now...\"\nThat's what Kitajima said.{p}After that, she began slapping your arms and face at every chance she got.\n"
+  },
+  {
+   "id": "30:5a00",
+   "op": "choice",
+   "en": "Keep going out with her"
+  },
+  {
+   "id": "30:5a10",
+   "op": "choice",
+   "en": "Get away from her"
+  },
+  {
+   "id": "30:5a20",
+   "op": "text",
+   "follows_choice": [
+    "30:5a00"
+   ],
+   "en": "Even so, you kept going out with her.\nBecause she was a really good girl.\n...Except that she killed every mosquito that sucked your blood, one by one.{p}"
+  },
+  {
+   "id": "30:5ac0",
+   "op": "text",
+   "en": "And her behavior escalated more and more.\nShe simply could not forgive the mosquitoes for sucking your blood.\n{a} is mine.\nAnd yet the mosquitoes are still sucking {a}'s blood...\nWhenever she thought about it, she couldn't stand still.\nShe couldn't forgive the mosquitoes that drank your blood, but she also grew unable to forgive you, for letting them drink it so easily.\nAnd she became even more violent toward you than before.\nWhen you scolded her for it, she burst into tears.{p}"
+  },
+  {
+   "id": "30:5c98",
+   "op": "text",
+   "en": "She thought:\nRather than let the mosquitoes keep sucking my {a}'s blood like this...\nI might as well, I might as well just...{p}"
+  },
+  {
+   "id": "30:5d14",
+   "op": "text",
+   "en": "After that, she couldn't stop thinking about your windpipe.\nEvery time you talked, she couldn't stop thinking about the way the flesh of your throat moved.\nI might as well just...\nShe thought that, over and over again.\nAnd then, one day...{p}"
+  },
+  {
+   "id": "30:5dfc",
+   "op": "text",
+   "en": "As you were eating lunch on the roof as usual, she suddenly sank her teeth into your windpipe...\nIt seems she was ready to die right then and there.\nIf she could drink your blood, she didn't care if she died.\nThat's how determined she was.\nShe bit into you with all her might.{p}"
+  },
+  {
+   "id": "30:5f04",
+   "op": "text",
+   "en": "So hard that your throat could have torn right off...\n.........\nYou fought back desperately and pinned her down.\nWord of it spread around the school, and she transferred away.\nAnd then...{p}"
+  },
+  {
+   "id": "30:5fc4",
+   "op": "text",
+   "en": "From then on, swarms of mosquitoes began breeding in the class she had been in.\nAnd their target was... {a}, it was you.\nNo, it wasn't you, was it?\nIt was the {a} in this story.\nThe mosquitoes in that class didn't drink the blood of any other student.\nThey say they drank only {a}'s blood, every day, day after day.\nThey say that every day, day after day, they fed on his flesh all over his body...\nA rumor went around the school that it was Kitajima's curse.\nAnd they say that curse still hangs over that class today.{p}"
+  },
+  {
+   "id": "30:6190",
+   "op": "text",
+   "en": "That class was... Class 1-E.\nYour class.\nThe curse, it seems, is that something speaks into the ear of a girl with an unrequited crush.\nThey say the voice says this:\n\"Make the one you love yours and yours alone.\nTo do that, you must drink their blood.\nIf you can't do it, I'll do it for you.\nWell? Shall I send the mosquitoes under my command to drink their blood for you?\"\nAnd depending on how the girl answers, mosquitoes swarm through the class.{p}"
+  },
+  {
+   "id": "30:6360",
+   "op": "text",
+   "en": "...I feel sorry for Kitajima.\nI'm sure she was led astray by whoever owns that voice.\nI don't think the mosquito swarms were her curse.\nI'm sure something in this school...\nwas what led her astray, I think.\n{a}.\nIf a girl who fell for you heard that voice, what would you do?\nI wonder if you could break the curse of that voice's owner...\nThat's the end of my story.\nWhose turn is it next?{p}"
+  },
+  {
+   "id": "30:64e4",
+   "op": "text",
+   "follows_choice": [
+    "30:577c"
+   ],
+   "en": "Why would you have to turn her down?\nShe was so very sweet and modest.\nSo {a} was overjoyed to be confessed to.\nAnd he decided to go out with her.\nListen.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}"
+  },
+  {
+   "id": "30:65e8",
+   "op": "text",
+   "follows_choice": [
+    "30:5a10"
+   ],
+   "en": "You started to think there was something strange about the way she acted.\nSo one day, after some time had passed, you brought up breaking up with her.{p}"
+  },
+  {
+   "id": "30:6668",
+   "op": "text",
+   "en": "Then she burst into tears and clung to your chest.\nShe thought:\nI'd finally gotten to be close enough to talk to him.\nIf I break up with {a}, the days of watching him from afar will start all over again.\nI can't bear that...\nAs she was thinking that, her eyes fell on your throat.{p}"
+  },
+  {
+   "id": "30:67a0",
+   "op": "text",
+   "en": "She remembered the mosquitoes that drank your blood, and an aching feeling came over her.\nAnd then she did something even she could hardly believe.{p}"
+  },
+  {
+   "id": "30:6830",
+   "op": "text",
+   "en": "Yes, she sank her teeth into your windpipe.\nShe bit down with all her might.{p}"
+  },
+  {
+   "id": "30:6888",
+   "op": "text",
+   "follows_choice": [
+    "30:4a94",
+    "30:4bb4"
+   ],
+   "en": "You'd say a thing like that?\nThat's a problem. There was something I wanted you to promise me...\nI have a favor to ask of you, since you're so kind.\nI want you to break the curse I'm about to tell you about.\n...It may be an impossible thing to ask.\nBut I can't help telling you about it.\nBecause I feel so very sorry for the girl in this story.\n...Listen carefully.{p}"
+  }
+ ]
+}

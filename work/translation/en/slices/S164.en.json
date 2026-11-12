@@ -1,0 +1,306 @@
+{
+ "slice": "S164",
+ "scene": "43",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S163",
+ "next": "S165",
+ "rows": [
+  {
+   "id": "43:3f50",
+   "op": "text"
+  },
+  {
+   "id": "43:409c",
+   "op": "choice"
+  },
+  {
+   "id": "43:40a4",
+   "op": "choice"
+  },
+  {
+   "id": "43:40c0",
+   "op": "choice"
+  },
+  {
+   "id": "43:40e4",
+   "op": "choice"
+  },
+  {
+   "id": "43:4100",
+   "op": "choice"
+  },
+  {
+   "id": "43:4110",
+   "op": "text",
+   "follows_choice": [
+    "43:40a4"
+   ]
+  },
+  {
+   "id": "43:41e4",
+   "op": "text"
+  },
+  {
+   "id": "43:4300",
+   "op": "text"
+  },
+  {
+   "id": "43:4370",
+   "op": "text"
+  },
+  {
+   "id": "43:4414",
+   "op": "text"
+  },
+  {
+   "id": "43:4524",
+   "op": "text"
+  },
+  {
+   "id": "43:46d8",
+   "op": "text"
+  },
+  {
+   "id": "43:47e4",
+   "op": "text"
+  },
+  {
+   "id": "43:48c8",
+   "op": "text"
+  },
+  {
+   "id": "43:4a3c",
+   "op": "text"
+  },
+  {
+   "id": "43:4aa0",
+   "op": "text"
+  },
+  {
+   "id": "43:4ae4",
+   "op": "text"
+  },
+  {
+   "id": "43:4bb0",
+   "op": "text"
+  },
+  {
+   "id": "43:4d44",
+   "op": "text"
+  },
+  {
+   "id": "43:4e84",
+   "op": "text"
+  },
+  {
+   "id": "43:4fc0",
+   "op": "text"
+  },
+  {
+   "id": "43:5114",
+   "op": "text"
+  },
+  {
+   "id": "43:5184",
+   "op": "text"
+  },
+  {
+   "id": "43:52c4",
+   "op": "text"
+  },
+  {
+   "id": "43:53f4",
+   "op": "text"
+  },
+  {
+   "id": "43:5480",
+   "op": "text"
+  },
+  {
+   "id": "43:5514",
+   "op": "choice"
+  },
+  {
+   "id": "43:5524",
+   "op": "choice"
+  },
+  {
+   "id": "43:5544",
+   "op": "choice"
+  },
+  {
+   "id": "43:556c",
+   "op": "text",
+   "follows_choice": [
+    "43:5514"
+   ]
+  },
+  {
+   "id": "43:5670",
+   "op": "text"
+  },
+  {
+   "id": "43:56f0",
+   "op": "text"
+  },
+  {
+   "id": "43:57fc",
+   "op": "text"
+  },
+  {
+   "id": "43:5900",
+   "op": "text"
+  },
+  {
+   "id": "43:5968",
+   "op": "text"
+  },
+  {
+   "id": "43:5a1c",
+   "op": "text"
+  },
+  {
+   "id": "43:5acc",
+   "op": "text"
+  },
+  {
+   "id": "43:5b88",
+   "op": "text"
+  },
+  {
+   "id": "43:5c44",
+   "op": "text"
+  },
+  {
+   "id": "43:5d58",
+   "op": "text"
+  },
+  {
+   "id": "43:5ed8",
+   "op": "text"
+  },
+  {
+   "id": "43:5f28",
+   "op": "text"
+  },
+  {
+   "id": "43:5f94",
+   "op": "text"
+  },
+  {
+   "id": "43:602c",
+   "op": "text"
+  },
+  {
+   "id": "43:6138",
+   "op": "text"
+  },
+  {
+   "id": "43:61d8",
+   "op": "text"
+  },
+  {
+   "id": "43:62ac",
+   "op": "text"
+  },
+  {
+   "id": "43:63d4",
+   "op": "text"
+  },
+  {
+   "id": "43:651c",
+   "op": "text"
+  },
+  {
+   "id": "43:657c",
+   "op": "text"
+  },
+  {
+   "id": "43:66ac",
+   "op": "text"
+  },
+  {
+   "id": "43:6794",
+   "op": "text"
+  },
+  {
+   "id": "43:686c",
+   "op": "text"
+  },
+  {
+   "id": "43:6900",
+   "op": "choice"
+  },
+  {
+   "id": "43:690c",
+   "op": "choice"
+  },
+  {
+   "id": "43:6914",
+   "op": "choice"
+  },
+  {
+   "id": "43:691c",
+   "op": "choice"
+  },
+  {
+   "id": "43:6928",
+   "op": "choice"
+  },
+  {
+   "id": "43:6934",
+   "op": "choice"
+  },
+  {
+   "id": "43:6940",
+   "op": "choice"
+  },
+  {
+   "id": "43:6948",
+   "op": "choice"
+  },
+  {
+   "id": "43:6954",
+   "op": "text",
+   "follows_choice": [
+    "43:6940"
+   ]
+  },
+  {
+   "id": "43:6ac4",
+   "op": "text"
+  },
+  {
+   "id": "43:6b14",
+   "op": "text"
+  },
+  {
+   "id": "43:6b94",
+   "op": "text"
+  },
+  {
+   "id": "43:6c74",
+   "op": "text"
+  },
+  {
+   "id": "43:6ce0",
+   "op": "text"
+  },
+  {
+   "id": "43:6d80",
+   "op": "text"
+  },
+  {
+   "id": "43:6dbc",
+   "op": "text"
+  },
+  {
+   "id": "43:6e34",
+   "op": "text"
+  },
+  {
+   "id": "43:6f1c",
+   "op": "text"
+  }
+ ]
+}

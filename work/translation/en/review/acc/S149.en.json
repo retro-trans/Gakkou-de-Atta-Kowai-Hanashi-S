@@ -1,0 +1,343 @@
+{
+ "slice": "S149",
+ "scene": "39",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S148",
+ "next": "S150",
+ "todo": [],
+ "rows": [
+  {
+   "id": "39:0cb0",
+   "op": "text",
+   "en": "Hello.\nMy name is Reiko Fukuzawa.\nI'm just a first-year, same as {c}{f:|}.\nNice to meet you, everyone.\nUmm, the scary story I'm going to tell is about the old school building.\nIt's a pretty famous story, so you might all know it already.\nIt's about the stairs in the old school building.\n{c}{f:|}, have you heard the story of the thirteen steps?\nEven with stairs, you know, some numbers of steps are creepy.\nPeople always say thirteen is an unlucky number in the West, right?\nEven you know Friday the thirteenth is bad luck, right, {c}{f:|}?\nWell, stairs with thirteen steps are bad news too.{p}"
+  },
+  {
+   "id": "39:0ecc",
+   "op": "text",
+   "en": "Do you know why?\nThirteen steps are the stairs up to the gallows.\nOne kind of death penalty is hanging, right?\nHanging. Hanging by the neck.\nThe stairs you climb to get up on the gallows have exactly thirteen steps.\nSo when people say thirteen steps, they mean the stairs up to the gallows.\nAnd that's why people normally don't build stairs with thirteen steps, apparently.\n{c}{f:|}, is your house two stories?\nHave you ever counted the steps on the stairs at home?\nMaybe yours have thirteen steps.\nThey say thirteen steps will put a curse on you, so you'd better be carefuuul.{p}"
+  },
+  {
+   "id": "39:10a8",
+   "op": "text",
+   "en": "Ahahahaha...\nAnyway, about the old school building.{p}"
+  },
+  {
+   "id": "39:10d8",
+   "op": "text",
+   "en": "Of course, the old school building doesn't have any stairs with thirteen steps either.\nThey all have fourteen steps.\n...But, you know, on Friday the thirteenth, at the far right end of the old school building... the south side, was it?\nIf you count the stairs there, the ones that should have fourteen steps only have thirteen, apparently.\nAnd if you try to check whether it's true, something bad happens to you, they say.{p}Had you heard that rumor?\n"
+  },
+  {
+   "id": "39:1210",
+   "op": "choice",
+   "en": "I'd heard it"
+  },
+  {
+   "id": "39:121c",
+   "op": "choice",
+   "en": "I hadn't heard it"
+  },
+  {
+   "id": "39:1228",
+   "op": "text",
+   "follows_choice": [
+    "39:1210"
+   ],
+   "en": "Oh, so you'd heard it.\nWell, it is a famous story.\nThere are all kinds of versions of the story about those stairs.\nLike, you count fourteen steps going up, but when you count them going down, there are thirteen.\nBut, you know, don't you sometimes mess up when you count stairs?\nDo you count the very top step, or are you not supposed to count it?\nHaven't you ever been unsure?\nWell, that one's not actually a step, see.\nIt's the floor.\nSo you don't include it in the count.\nSo when you count steps, you only count the part sandwiched between one floor and the next.{p}"
+  },
+  {
+   "id": "39:13fc",
+   "op": "text",
+   "en": "Did you learn something?\nAhahahaha...\nOr did you know that much already?\n...Sorry, sorry.\nSo, the story of the old school building's thirteen steps.\n{c}{f:|}, if you knew the rumor, didn't you want to try it out?{p}You did, didn't you?\n"
+  },
+  {
+   "id": "39:14e4",
+   "op": "choice",
+   "en": "I wanted to"
+  },
+  {
+   "id": "39:14ec",
+   "op": "choice",
+   "en": "I didn't want to"
+  },
+  {
+   "id": "39:14fc",
+   "op": "text",
+   "follows_choice": [
+    "39:14e4"
+   ],
+   "en": "Oh, so you did want to.{p}So, did you actually try it?\n"
+  },
+  {
+   "id": "39:1530",
+   "op": "choice",
+   "en": "I tried it"
+  },
+  {
+   "id": "39:1538",
+   "op": "choice",
+   "en": "I didn't try it"
+  },
+  {
+   "id": "39:1548",
+   "op": "choice",
+   "en": "There hasn't been a Friday the 13th since I started at this school"
+  },
+  {
+   "id": "39:1574",
+   "op": "text",
+   "follows_choice": [
+    "39:1548"
+   ],
+   "en": "Oh, that's right.\nYou're right about that.\nThere hasn't been a single Friday the thirteenth since we started at this school.\n...Eheheheh.\nBut you know, there's a way to check even when it isn't Friday the thirteenth.{p}"
+  },
+  {
+   "id": "39:1650",
+   "op": "text",
+   "en": "I know how.\nYou know those tear-off calendars?\nYou set one to Friday the thirteenth.\nThen you hang it on the wall by the thirteen steps from the rumor.\nIf you do that, the same thing happens, they say.\nBet you didn't know that.\nBut I guess it's still weaker that way.\nThey say that unless you've got a really strong sixth sense, the stairs won't turn into thirteen steps.\nBut if they do turn into thirteen, that's awful too, right?\n\"Yaaay!\nIt's thirteen steps!\"\nEven if you say that, in the end nothing but bad things happen, right?\nBut still, you're curious, aren't you?\nDon't rumors like that just make you really want to try them?\nAnd you said you wanted to try it too, {c}{f:|}.\nSo, well, I went and tried it.{p}"
+  },
+  {
+   "id": "39:18d8",
+   "op": "text",
+   "en": "Not by myself, of course.\nThere were three of us.\nNo way I'd go alone.\nIt'd be way too scary.\nGirls from my class.{p}"
+  },
+  {
+   "id": "39:194c",
+   "op": "text",
+   "en": "A girl named Sanae Motoki, and Yoko Someya.\nThey're both weird girls.\nThey're not exactly normal, you know?\nWell, Yoko isn't as weird as Sanae.\nHonestly, Sanae is a seriously weird girl.\n...Oh, that has nothing to do with this, does it?\nI'll tell you just how weird Sanae is some other time.\nActually, it was Sanae who told me about the tear-off calendar thing, too.\nShe's got a special informant, you see.{p}"
+  },
+  {
+   "id": "39:1afc",
+   "op": "text",
+   "en": "So the three of us went.\nTo the old school building, to check it out.\nWhen was that, again?\nI think it was the thirteenth of last month... yes, the thirteenth.\nIt wasn't a Friday, so we brought the tear-off calendar.\nWe figured that if at least the date was the same, it'd be easier to check.\nAnd if nothing happened, we were planning to go again on a real Friday the thirteenth.\nSo after school, we snuck into the old school building, which is off-limits.{p}"
+  },
+  {
+   "id": "39:1c84",
+   "op": "text",
+   "en": "As a girl bursting with curiosity, I wanted a little taste of adventure, you know?\nMy heart was really pounding.\nIt was my first time ever going into the old school building.\nThe old school building is scary, isn't it?\nIt's really scary even in broad daylight.\nWe went there to have a scary experience, right?\nSo our frame of mind was different.\nFrom the very start we'd convinced ourselves, something scary's going to happen, something scary's going to happen.\nSo even a perfectly ordinary old school building starts giving you the chills.{p}"
+  },
+  {
+   "id": "39:1e18",
+   "op": "text",
+   "en": "The smell of old wood seemed like some kind of nasty, rotten stink.\nEven the graffiti carved into the pillars seemed weirdly scary.\nIt was dead silent, and that alone made it feel like something was there.\nYour state of mind at the time really matters, doesn't it?\nIf we'd gone there to do something really fun, it wouldn't have been scary at all, and the smell of old wood would have felt nostalgic, and the graffiti would have been funny, and we'd have been thinking about other things, I bet.{p}"
+  },
+  {
+   "id": "39:1fb4",
+   "op": "text",
+   "en": "By the way, {c}{f:|}.{p}Have you ever been to the old school building?\n"
+  },
+  {
+   "id": "39:2004",
+   "op": "choice",
+   "en": "I have"
+  },
+  {
+   "id": "39:200c",
+   "op": "choice",
+   "en": "I haven't"
+  },
+  {
+   "id": "39:2014",
+   "op": "text",
+   "follows_choice": [
+    "39:2004"
+   ],
+   "en": "Oh, really.\nSo you have.\nHow were you feeling when you went there, {c}{f:|}?\nWas it fun?{p}Or was it scary?\n"
+  },
+  {
+   "id": "39:2090",
+   "op": "choice",
+   "en": "It was fun"
+  },
+  {
+   "id": "39:209c",
+   "op": "choice",
+   "en": "It was scary"
+  },
+  {
+   "id": "39:20a8",
+   "op": "choice",
+   "en": "I didn't feel anything in particular"
+  },
+  {
+   "id": "39:20c0",
+   "op": "text",
+   "follows_choice": [
+    "39:209c"
+   ],
+   "en": "Oh, really.\nSo it was scary.\nNot that there was any point in asking.\nI just wanted to hear how you felt, {c}{f:|}.\nNo matter how you answer that question, it's not like the story I'm telling is going to change.{p}"
+  },
+  {
+   "id": "39:217c",
+   "op": "text",
+   "en": "What are you agonizing over?\nAhahahaha... you're so weird.\nSo anyway, we snuck over to those stairs, careful not to get caught by any teachers.{p}"
+  },
+  {
+   "id": "39:2214",
+   "op": "text",
+   "en": "We hung the tear-off calendar firmly on the wall.\n\"Ow!\"\nRight then, Yoko caught her hand on a nail.\nShe cut her finger.\nWhen she squeezed her finger, blood swelled up in a fat little bead on the pad of her index finger.{p}"
+  },
+  {
+   "id": "39:22e0",
+   "op": "text",
+   "en": "And Sanae, she went and licked it right off, and said,\n\"Yummy,\"\nor something like that.\nFunny, right?\nNormally she's the kind of girl who bursts into tears at the sight of blood.\nThe scary mood got blown away, and we all laughed a little.\n\"Okay, I'll start counting.\"{p}"
+  },
+  {
+   "id": "39:23c8",
+   "op": "text",
+   "en": "Saying that, Yoko started climbing the stairs.\nWe started climbing with her.{p}"
+  },
+  {
+   "id": "39:2430",
+   "op": "text",
+   "en": "One... two... three...\nIt makes you pretty nervous, you know.{p}"
+  },
+  {
+   "id": "39:2478",
+   "op": "text",
+   "en": "Normally, you go up stairs without thinking about anything, right?\nBut there we were, testing our footing with every step, slowly treading our way up the stairs.{p}"
+  },
+  {
+   "id": "39:2510",
+   "op": "text",
+   "en": "And when you go like that, the creak of the wood comes slowly too.\nIt goes creeeeeeeak, long and dull, and it echoes.{p}"
+  },
+  {
+   "id": "39:257c",
+   "op": "text",
+   "en": "And that was really, really scary.\nIf it had been at night, I'd definitely have burst into tears.\nSo we wouldn't miscount, we counted out loud together, all at once.{p}"
+  },
+  {
+   "id": "39:2610",
+   "op": "text",
+   "en": "\"Ten... eleven... twelve... thirteen.................. fourteen!\nIt's fourteen!\"{p}"
+  },
+  {
+   "id": "39:2668",
+   "op": "text",
+   "en": "The stairs had fourteen steps.\nBecause our fifteenth step landed on the landing.\n\"Aww, it's just fourteen.\"\nWe looked at each other and laughed.\nIt was kind of a letdown.\nWe'd been so scared our hearts were pounding, so it was even more of a disappointment.\n\"But, you know, we're not at the second floor yet.\nThis is the halfway point between the first and second floors, so there's still half left.\"\nSaying that, Yoko started up the stairs again.\nShe was right.\nSanae and I climbed with her.{p}"
+  },
+  {
+   "id": "39:2824",
+   "op": "text",
+   "en": "One... two... three...\nWe started counting over from the beginning.{p}"
+  },
+  {
+   "id": "39:2870",
+   "op": "text",
+   "en": "Nervously, we counted each step carefully, one by one, so we wouldn't make a mistake.{p}"
+  },
+  {
+   "id": "39:28c0",
+   "op": "text",
+   "en": "\"Ten... eleven... twelve... thirteen.................. fourteen.\"\nFourteen steps again.{p}"
+  },
+  {
+   "id": "39:2920",
+   "op": "text",
+   "en": "\"It's fourteen after all.\nMaybe just hanging up a tear-off calendar like that isn't enough.\"\n\"That's not true.\nThat'll work just fine.\"\nSanae flatly shot down what I said.{p}"
+  },
+  {
+   "id": "39:29e0",
+   "op": "text",
+   "en": "\"But we've still got the way down, right?\"\nYoko looked happy.\nMaybe she wanted to keep that scared feeling going a little longer.\nYou know how sometimes you just want to see something scary?\nThat's actually kind of fun, right?\nWhen you're going, so scary, so scary, it's actually pretty fun sometimes.\nIt was probably that feeling.\nThat's why Yoko was smiling, I think.\nWe nodded.{p}"
+  },
+  {
+   "id": "39:2b28",
+   "op": "text",
+   "en": "That's right, we still had the way down.\nWe didn't know how many steps there'd be going down.\nSo we started counting.\nFull of anticipation.{p}"
+  },
+  {
+   "id": "39:2bac",
+   "op": "text",
+   "en": "Hey, {c}{f:|}.{p}Do you think we're weird, acting like that?\n"
+  },
+  {
+   "id": "39:2bec",
+   "op": "choice",
+   "en": "I think you're weird"
+  },
+  {
+   "id": "39:2bf8",
+   "op": "choice",
+   "en": "You're not weird at all"
+  },
+  {
+   "id": "39:2c0c",
+   "op": "choice",
+   "en": "I was at a loss for words"
+  },
+  {
+   "id": "39:2c2c",
+   "op": "text",
+   "follows_choice": [
+    "39:2bec"
+   ],
+   "en": "Hey, that's meaaan!\nSo that's the kind of person you are, {c}{f:|}.\n...You'll pay for this later, just you wait.\nWell, for now I'll keep going with the story.\nSo, we started counting again.{p}"
+  },
+  {
+   "id": "39:2cf0",
+   "op": "text",
+   "en": "One... two... three...\nKind of like Okiku, huh?\nFrom Bancho Sarayashiki, you know.{p}"
+  },
+  {
+   "id": "39:2d4c",
+   "op": "text",
+   "en": "Do you know Bancho Sarayashiki?\nWell, whatever, it doesn't matter either way.{p}"
+  },
+  {
+   "id": "39:2d9c",
+   "op": "text",
+   "en": "\"Ah!\"\nRight as we were counting the steps.\nYoko missed her footing and fell down the stairs.\nWe were totally shocked.{p}"
+  },
+  {
+   "id": "39:2e38",
+   "op": "text",
+   "en": "We forgot all about counting the stairs and rushed over to her.\nI mean, Yoko had stopped moving.\nWe ran over and lifted her up.\nShe wasn't bleeding, though.\nShe seemed to have passed out.\n\"Yoko!\nYoko!\"\n\"..........Mm...nn.\"\nYoko was alive.\nWell, of course, if she'd been dead, that wouldn't have been funny at all.{p}"
+  },
+  {
+   "id": "39:2f80",
+   "op": "text",
+   "en": "When Yoko opened her eyes, she started looking all around.\nFor a moment, it seemed like she didn't know what had happened, or where she was.\nI got worried she had amnesia.\nBut she was okay.\n\"...I fell down the stairs, didn't I?\"\nshe said, and laughed.\n\"Come on, let's stop.\nThe stairs don't have thirteen steps.\"\nThat's what I said.\n\"Yeah.\nLet's go.\"\nYoko agreed with me.{p}"
+  },
+  {
+   "id": "39:313c",
+   "op": "text",
+   "en": "\"...What a waste of a tear-off calendar.\"\nOnly Sanae looked a little disappointed.{p}"
+  },
+  {
+   "id": "39:31a8",
+   "op": "text",
+   "en": "So we decided to leave the old school building.\nI was kind of worried about Yoko.\nShe seemed to be dragging her foot, too, maybe because she twisted it when she fell down the stairs.{p}"
+  },
+  {
+   "id": "39:3254",
+   "op": "text",
+   "en": "So we went down the stairs.\nNot thinking about anything in particular.\nAnd then...{p}"
+  },
+  {
+   "id": "39:32bc",
+   "op": "text",
+   "en": "\"...Thirteen steps.\"\nYoko muttered it under her breath.\nI froze and couldn't help staring at her.{p}"
+  },
+  {
+   "id": "39:333c",
+   "op": "text",
+   "en": "Yoko stopped at the bottom of the stairs, turned around, and looked up.\nAnd she was following the stairs with her eyes.\nAnd then she tilted her head, puzzled, all by herself.{p}"
+  },
+  {
+   "id": "39:33e8",
+   "op": "text",
+   "en": "\"...That's weird.\nThere were only thirteen steps.\"\nAnd then, all of a sudden, she ran back up the stairs.{p}"
+  },
+  {
+   "id": "39:345c",
+   "op": "text",
+   "en": "It was like we didn't even exist to her.\n\"Yoko!\"\nI called her, but she completely ignored me.\nSanae and I stood at the bottom of the stairs, watching Yoko closely.\nSomething was wrong with her.{p}"
+  },
+  {
+   "id": "39:3540",
+   "op": "text",
+   "en": "\"...It really is thirteen steps.\nThere are only thirteen steps!\nWhat do I do, Reiko?!\"\nSaying that, she clung to me, crying.{p}"
+  }
+ ]
+}

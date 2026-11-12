@@ -1,0 +1,754 @@
+{
+ "chunk": "E086",
+ "scene": "44",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S168",
+  "S169"
+ ],
+ "prev": "E085",
+ "next": "E087",
+ "todo": [],
+ "rows": [
+  {
+   "id": "44:167c",
+   "op": "text",
+   "en": "All six of them had finished their stories.\n...It {f:seemed|looked like} the seventh one wasn't coming, no matter how long we waited.\nEven so, {f:I|I} couldn't help hoping for something.\nHoping that maybe, just maybe, the seventh one would come after all...{p}"
+  },
+  {
+   "id": "44:1760",
+   "op": "text",
+   "en": "\"Hey.\nThere's no point in waiting any longer, is there?\nIt's late, too. Maybe we should just go home.\"\nPerhaps because everyone had fallen silent, Fukuzawa suggested it.{p}"
+  },
+  {
+   "id": "44:17f4",
+   "op": "text",
+   "en": "\"Yeah. Good idea.\nWe've got something important to talk about after this, after all.\"\nIt was Kazama{f:|}.\nKazama was looking at {f:me|me} with a big, meaningful grin.\n...No way.\n{f:Could he|Could he} still remember what we'd talked about earlier?\nThat Kazama and {f:I|I} were aliens, and were going to conquer the Earth together.\nThis guy seemed a little off in the head, so I didn't want to get too mixed up with him{f:|}.\n{f:I|I} looked away, trying my best not to meet his eyes.{p}"
+  },
+  {
+   "id": "44:19b4",
+   "op": "text",
+   "en": "\"R-Right. Let's call it a night, then.\nWell then, everyone...\"\nAs {f:I|I} tried to stand, Kazama gripped my hand hard.\nHe was incredibly strong{f:|}.\nI couldn't move!\nWhen had this guy gotten next to {f:me|me}{f:|}?\n\"Okay, all of you can go home now.\nLeave the rest to us.\"\nSmiling, Kazama urged everyone to leave.\nAt this rate, everyone would go home{f:|}.\n{f:No|No}!\nIt felt like something unbelievably horrible was about to happen, and I really, really didn't want this{f:|...}!{p}What {f:do I do|do I do}, {c}!\n"
+  },
+  {
+   "id": "44:1bac",
+   "op": "choice",
+   "en": "Don't let everyone go home"
+  },
+  {
+   "id": "44:1bc0",
+   "op": "choice",
+   "en": "No choice: talk it all the way out with Kazama"
+  },
+  {
+   "id": "44:1bec",
+   "op": "choice",
+   "en": "Punch Kazama's lights out"
+  },
+  {
+   "id": "44:1c18",
+   "op": "text",
+   "en": "\"Everyone, don't go!\nPlease! Don't leave {f:us|us} alone together!\"\n{f:I|I} shouted.\nWhatever happened, I didn't want to be left alone with Kazama.\nI had to avoid that, no matter what.{p}",
+   "follows_choice": [
+    "44:1bac"
+   ]
+  },
+  {
+   "id": "44:1ce8",
+   "op": "text",
+   "en": "\"Hey, {a}.\nIf you and Kazama know each other, you should've just said so from the start.\nWe're not gonna get in your way. See ya.\"\nIt was Shindo{f:|}.\nShindo had the wrong idea about something.\nHe had this leering grin on his face...\nNo!\nThat's not {f:it|it}!\n\"Shindo! {f:I|I} only just met Kazama for the first time today!\nPlease! Don't go!\"\n\"Don't be shy. Us third wheels'll clear out right now.\nC'mon, everybody, let's head home.\"\nEveryone was smirking.{p}"
+  },
+  {
+   "id": "44:1ed0",
+   "op": "text",
+   "en": "And one after another, they all left the club room.\n\"Ah...\"\nA crushing despair seized {f:my|my} heart.{p}"
+  },
+  {
+   "id": "44:1f58",
+   "op": "text",
+   "en": "Once everyone was gone, the hand Kazama had clamped on {f:me|me} suddenly loosened.\n\"...That was some pretty good acting.\nIt'd be a problem if our mission got found out, after all.\nYou're smarter than you look.\nNow then, comrade. Let's start our briefing.\"\nKazama smiled happily.\nI might be able to get away now.\nBut if I tried to run and failed, who knew what he'd do to me{f:|}.\nKazama seemed dangerous on a level that was anything but normal{f:|}.{p}What {f:should I do|should I do}?\n"
+  },
+  {
+   "id": "44:2124",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "44:212c",
+   "op": "choice",
+   "en": "Give up and talk with him"
+  },
+  {
+   "id": "44:2140",
+   "op": "text",
+   "en": "...No, running now would be a bad idea{f:|}.\nI'd {f:probably|surely} do better to watch a little longer and run once Kazama let his guard down.\nThat way my chances would be better, and it would be {f:safer|safer, surely}.{p}",
+   "follows_choice": [
+    "44:212c"
+   ]
+  },
+  {
+   "id": "44:2208",
+   "op": "text",
+   "en": "\"...K-Kazama. Could you let go of {f:my|my} hand?\nIt kind of hurts.\"\n\"...Oops, sorry about that.\"\nKazama's hand let go of {f:mine|mine}.\nThat was a bit of a relief{f:|}.\nI'd watch a little longer, then make a break for it all at once.{p}"
+  },
+  {
+   "id": "44:22f4",
+   "op": "text",
+   "en": "\"Do you still want to speak Japanese? This country's language is tough, after all.\"\n...He'd finally started babbling nonsense{f:|}.\n{f:Was he|Was he} going to start spouting that meaningless gibberish from before again?\nWhat {f:should I do|should I do}?\nIt would be bad if he got suspicious of me{f:|}.\nBut it wasn't like I could just speak a language like that{f:|}.{p}{f:I|I} couldn't afford to give a careless answer {f:here|here}.\n"
+  },
+  {
+   "id": "44:2474",
+   "op": "choice",
+   "en": "Let's speak Japanese"
+  },
+  {
+   "id": "44:2490",
+   "op": "choice",
+   "en": "Let's switch to our native tongue now"
+  },
+  {
+   "id": "44:24b4",
+   "op": "choice",
+   "en": "Smile silently"
+  },
+  {
+   "id": "44:24cc",
+   "op": "text",
+   "en": "\"Japanese is better. We're in Japan, after all.\nIf we speak a different language, people will get suspicious.\"\n{f:I|I} fudged it as best I could.\nKazama {f:seemed|seemed} convinced.{p}",
+   "follows_choice": [
+    "44:2474"
+   ]
+  },
+  {
+   "id": "44:2580",
+   "op": "text",
+   "en": "\"You're right. It's just as you say.\nJapanese is difficult, but it'd be a problem if our true identities got out.\nI'm sorry I blurted it out so carelessly earlier.\nI was just so happy to meet a comrade that it slipped out.\nI'll be careful. From now on, we'll carry on in Japanese.\"\n...Thank goodness.\n"
+  },
+  {
+   "id": "44:2690",
+   "op": "text",
+   "en": "{f:For now|For now}, I could breathe a little easier.{p}"
+  },
+  {
+   "id": "44:26b8",
+   "op": "text",
+   "en": "\"...Come to think of it, I still haven't heard your real name.\nAt least tell me your true name.\"\nMy name★\n{f:My real name, he says|My real name}★\nEven if he asked, {f:my|my} one and only name was {b} {a}{f:|}.\nAny other name...\nThis was bad{f:|}.\nKazama was staring right at {f:me|me}.{p}I {f:had to|had to} do something.\n"
+  },
+  {
+   "id": "44:2804",
+   "op": "choice",
+   "en": "Laugh it off"
+  },
+  {
+   "id": "44:2814",
+   "op": "choice",
+   "en": "Ask Kazama his name"
+  },
+  {
+   "id": "44:2830",
+   "op": "choice",
+   "en": "Switch to another topic"
+  },
+  {
+   "id": "44:2844",
+   "op": "choice",
+   "en": "Just try dancing"
+  },
+  {
+   "id": "44:285c",
+   "op": "text",
+   "en": "\"...Um, what's your real name, Kazama?\"\nFor the moment, I decided to turn the question back on him.{p}",
+   "follows_choice": [
+    "44:2814"
+   ]
+  },
+  {
+   "id": "44:28c8",
+   "op": "text",
+   "en": "\"Oh, me?\nRight. It's only polite to give your own name before asking someone else's.\nMy name is ☆☆·☆★.\nNow, what's yours?\"{p}"
+  },
+  {
+   "id": "44:2954",
+   "op": "text",
+   "en": "...I couldn't make it out.\n{f:Was|Was} that really a person's name?{p}"
+  },
+  {
+   "id": "44:29a4",
+   "op": "text",
+   "en": "Kazama might be dangerous, but if I apologized, he might understand.\nHe only thought he was an alien; really, he was just a guy who was a little off in the head{f:|, right}.\nWhen I thought his eyes looked gold earlier, that had to be {f:my|my} eyes playing tricks on me.\nThere was no way aliens existed in this world.{p}"
+  },
+  {
+   "id": "44:2adc",
+   "op": "text",
+   "en": "...But {f:was|was} that really true?\nLittle by little, I was losing confidence in myself.{p}Did {f:I|I} really believe there were no aliens{f:|}?\n"
+  },
+  {
+   "id": "44:2b84",
+   "op": "choice",
+   "en": "Aliens exist"
+  },
+  {
+   "id": "44:2b94",
+   "op": "choice",
+   "en": "There's no such thing as aliens"
+  },
+  {
+   "id": "44:2ba8",
+   "op": "text",
+   "en": "...Maybe aliens really {f:do|do} exist after all.\nLooking at Kazama, I somehow couldn't help starting to think so.\n{f:Uh-oh.|Ugh, no...}\nIf I stayed with him too long, it felt like even {f:I|I}'d start going strange{f:|}.{p}",
+   "follows_choice": [
+    "44:2b84"
+   ]
+  },
+  {
+   "id": "44:2c8c",
+   "op": "text",
+   "en": "\"Come on, your name, your name.\"\nKazama peered into {f:my|my} face.\nThat's right.\nI {f:still had to|still had to} tell him a name.{p}What should I do?\n"
+  },
+  {
+   "id": "44:2d28",
+   "op": "choice",
+   "en": "Just make something up"
+  },
+  {
+   "id": "44:2d3c",
+   "op": "choice",
+   "en": "Let's just try dancing"
+  },
+  {
+   "id": "44:2d54",
+   "op": "choice",
+   "en": "Talk my way around it"
+  },
+  {
+   "id": "44:2d64",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "44:2d6c",
+   "op": "text",
+   "en": "\"I'm sorry!\"\n{f:I|I} meekly bowed my head.\nPlaying along with Kazama any longer was too hard.\n...Way too hard{f:|}.\nI'd apologize and ask him to forgive me.\nThen Kazama would surely let {f:me|me} go{f:|}.\n...There was a long silence.\n{f:I|I} stayed bowed, frozen in place.\nKazama might actually be angry.{p}",
+   "follows_choice": [
+    "44:2d64"
+   ]
+  },
+  {
+   "id": "44:2ecc",
+   "op": "text",
+   "en": "\"...What are you apologizing for?\n"
+  },
+  {
+   "id": "44:2ef8",
+   "op": "text",
+   "en": "There's no reason you can't tell me your name... Ah★ Don't tell me you're the ☆☆··★·☆, sent here on a special mission★\"{p}"
+  },
+  {
+   "id": "44:2f8c",
+   "op": "text",
+   "en": "Suddenly Kazama put his hand on {f:my|my} shoulder and brought his dead-serious face close to mine.\n...Kazama had dragged the conversation off in some complicated direction again.{p}...What do I do?\n"
+  },
+  {
+   "id": "44:3030",
+   "op": "choice",
+   "en": "Nod along with Kazama's story"
+  },
+  {
+   "id": "44:304c",
+   "op": "choice",
+   "en": "Try laughing for now"
+  },
+  {
+   "id": "44:3064",
+   "op": "choice",
+   "en": "Try asking to go home now"
+  },
+  {
+   "id": "44:3084",
+   "op": "text",
+   "en": "I'd had enough of this getting any more tangled{f:|}.\nWhy did {f:I|I} have to go along with Kazama's stupid nonsense{f:|}?\n{f:I|I}'d come to hear scary stories from school{f:|}.\nNot to forge friendly relations with aliens{f:|}.\n{f:I|I} just wanted to go home.\nSomehow, I felt like crying.{p}",
+   "follows_choice": [
+    "44:3064"
+   ]
+  },
+  {
+   "id": "44:31d0",
+   "op": "text",
+   "en": "\"Kazama, please.\n{f:I|I} want to go home now.\nPlease. Have mercy on me.\nLet {f:me|me} go.\"\nKazama listened to {f:me|me} earnestly.\nThen he slowly nodded.{p}"
+  },
+  {
+   "id": "44:32a4",
+   "op": "text",
+   "en": "...Thank goodness.\nIt {f:seemed|seemed} {f:my|my} sincerity had gotten through to Kazama too.\n\"...I understand. I've heard the rumors of how hard your mission has been.\nIt's only natural that you'd wish to go home.\n...That grueling battle on planet Untamaru.\nAnd the moment it ended, orders to invade Earth, with no time to rest.{p}"
+  },
+  {
+   "id": "44:33bc",
+   "op": "text",
+   "en": "...I thought I'd be the first one here, but you're a battle-hardened hero, as expected.\nYou'd already started the invasion of Earth before me, after all.\n...I know. I know all about the special mission you were given.\nYou are a battle-hardened hero, after all.\nYou're a model for all Sunbararians.{p}"
+  },
+  {
+   "id": "44:34b8",
+   "op": "text",
+   "en": "...But even a battle-hardened hero gets homesick, I see.\nI'm a little relieved. Somehow, it makes me happy.\nAll right. I'll see what I can do.\nLet's go home to Sunbararia!\"\n\"Huh...?\"\nLeaving {f:me|me} there dumbfounded, Kazama went and stood by the window.\nThen he took something like a toy patch out of his pocket and held it up to the sky.{p}"
+  },
+  {
+   "id": "44:3618",
+   "op": "text",
+   "en": "\"Emergency transmission to the mothership! Emergency transmission to the mothership!\nRequest immediate response! Request immediate response!\n☆★·☆··☆~☆\"{p}"
+  },
+  {
+   "id": "44:3684",
+   "op": "text",
+   "en": "Suddenly, the sky flashed.\nThe sky, already pitch-dark, became as bright as day for just an instant.{p}"
+  },
+  {
+   "id": "44:36fc",
+   "op": "text",
+   "en": "\"...You're safe now.\nYou must have been scared. Earth is a scary place, after all.\"\nSaying that, Kazama gave {f:my|my} back a couple of pats.\n...I'd run.\nRunning was the best thing to do.{p}{f:It looked like that was the only way I'd ever get away from Kazama|There was no other way, was there}.\n",
+   "returns": []
+  },
+  {
+   "id": "44:3804",
+   "op": "choice",
+   "en": "Make a run for it"
+  },
+  {
+   "id": "44:3810",
+   "op": "choice",
+   "en": "Watch a little longer"
+  },
+  {
+   "id": "44:3828",
+   "op": "text",
+   "en": "Kazama looked up at the sky again.\nThen, waving the patch, he struck strange poses like morning radio calisthenics and began to dance.\n...Kazama was dangerous.\n",
+   "follows_choice": [
+    "44:3804"
+   ]
+  },
+  {
+   "id": "44:38b4",
+   "op": "text",
+   "en": "{f:I|I} slowly got up from my seat.{p}"
+  },
+  {
+   "id": "44:38f4",
+   "op": "text",
+   "en": "\"Where are you going?\"\nKazama's voice stabbed into {f:my|my} back.\n...Escape: failed.\n\"Oh, just to the restroom for a sec...\"\n\"What are you talking about? Our ride will be here any minute.\nYou heard my transmission just now, didn't you?\"{p}"
+  },
+  {
+   "id": "44:39bc",
+   "op": "text",
+   "en": "\"...Oh, right. Ahahahaha...\"\nOur ride's coming?\nJust what was supposed to be coming for us{f:|}?{p}"
+  },
+  {
+   "id": "44:3a34",
+   "op": "text",
+   "en": "\"Oh, here they are, here they are.\"\nSuddenly Kazama turned toward the club room doorway and waved happily.\n?????\n{f:I|I} turned around.{p}"
+  },
+  {
+   "id": "44:3ac0",
+   "op": "text",
+   "en": "\"{f:Gyah|Eek}★\"\n{f:I must have|I might have} jumped a good meter into the air{f:|}.\nThat's how startled I {f:was|was}.{p}"
+  },
+  {
+   "id": "44:3b74",
+   "op": "text",
+   "en": "In the club room doorway stood a monster that looked like it had an ammonite in place of a head.\n...What {f:the hell|on earth} is this thing☆\n\"Commander! It is an honor that you would come here in person, Commander!\"\nKazama was saluting.\n...What an elaborate prank{f:|}.\nYou can put on a toy-looking mask like that, but {f:I|I}'m not going to flinch{f:, got it|, you know}.{p}",
+   "returns": []
+  },
+  {
+   "id": "44:3cdc",
+   "op": "text",
+   "en": "...That's {f:it|it}!\nThis has to be Hino's scheme{f:|}.\nHino and Kazama were in on it together{f:|}.\n{f:So|Honestly}, it was a trap set up from the very start{f:|}.\n...That's {f:low|cruel}.\nEveryone ganging up to scare {f:me|me}, just for fun.{p}I can't forgive this!\n"
+  },
+  {
+   "id": "44:3e0c",
+   "op": "choice",
+   "en": "Try to rip the ammonite mask off"
+  },
+  {
+   "id": "44:3e38",
+   "op": "choice",
+   "en": "Lunge at Kazama"
+  },
+  {
+   "id": "44:3e50",
+   "op": "choice",
+   "en": "If it's come to this, play along with them totally: play, play, play along!"
+  },
+  {
+   "id": "44:3e9c",
+   "op": "text",
+   "en": "\"Quit messing with me!\"\n{f:I|I} grabbed the ammonite {f:bastard|monster} in the doorway and yanked on its mask as hard as I could.\n...But it wouldn't come off.{p}",
+   "follows_choice": [
+    "44:3e0c"
+   ]
+  },
+  {
+   "id": "44:3f4c",
+   "op": "text",
+   "en": "\"·★·☆☆·☆·☆\"\nThe thing shrieked something incomprehensible, spewed a clear, fishy liquid like seawater from between the squirming, writhing tentacles where its mouth should have been, and {f:keeled right over|collapsed hard}.{p}"
+  },
+  {
+   "id": "44:4018",
+   "op": "text",
+   "en": "...And then it lay there, not moving.\nIt isn't a mask?\nIf it isn't a mask... could it actually be real?{p}"
+  },
+  {
+   "id": "44:4094",
+   "op": "text",
+   "en": "\"Commander!\"\nKazama rushed over to the ammonite {f:bastard|monster} and shook it.{p}"
+  },
+  {
+   "id": "44:4104",
+   "op": "text",
+   "en": "\"...It's no use. The Commander is dead...\"\nHe muttered that, then glared at {f:me|me}.\n\"...You tricked me.\nYou're from the Earth Defense Force, sent here to stop us Sunbararians from invading Earth!\nDon't you dare deny it. You tried to worm your way into our ranks, but you failed.\nI'm going to kill you!\"{p}"
+  },
+  {
+   "id": "44:4228",
+   "op": "text",
+   "en": "...Kazama, help me.\n{f:I|I} had no idea you were a real alien!\nAnd what is this Earth Defense Force, anyway?\nI never even knew such a thing existed.\nCome on, this isn't some TV show...!\nThe scream in {f:my|my} heart wouldn't come out as a voice.\n{f:I|I} {f:could only|could only} tremble, my mouth gaping open and shut.\nKazama came toward {f:me|me} one step at a time, his face terrifying.{p}Wh-what do I do...?!\n"
+  },
+  {
+   "id": "44:43f0",
+   "op": "choice",
+   "en": "It's come to this. I have no choice but to fight"
+  },
+  {
+   "id": "44:440c",
+   "op": "choice",
+   "en": "Try apologizing, at least"
+  },
+  {
+   "id": "44:4424",
+   "op": "choice",
+   "en": "Try to bluff my way out of this somehow"
+  },
+  {
+   "id": "44:4444",
+   "op": "choice",
+   "en": "Running is the only option"
+  },
+  {
+   "id": "44:4478",
+   "op": "text",
+   "en": "\"Kazama! You've {f:got it wrong|got it all wrong}! That's no Commander!\n{f:That guy|That monster} is the real enemy spy{f:!|, you know!}\n{f:It's|It's} a Deberondattan{f:, I tell you|, I'm telling you}!\"\n\"A Deberondattan...?\"\nKazama froze.\nHe looked puzzled.\nThe lie I'd blurted out on the spot might actually work.\n{f:I|I} rattled on without stopping for breath.{p}",
+   "follows_choice": [
+    "44:4424"
+   ]
+  },
+  {
+   "id": "44:45f0",
+   "op": "text",
+   "en": "\"That's right! Didn't you know★\nBesides {f:us|us} Sunbararians, there's another race of aliens out to invade Earth.\nThey're called the Deberondattans. They're terrifying aliens.\nThey're trying to wipe out every last human on Earth.\"{p}"
+  },
+  {
+   "id": "44:46dc",
+   "op": "text",
+   "en": "Kazama frowned slightly.\nThen his eyes fell on the Commander's corpse.\n\"...How horrible.\nAll we wanted was to use the humans as food... Wiping them all out is going too far.\"\n{f:You're|You're} both as bad as each other!\n...No, that doesn't matter right now{f:.|.}\n\"Right?! It'd be an absolute waste not to use the humans as food!\nSo we have to crush the Deberondattans' ambitions!\"{p}"
+  },
+  {
+   "id": "44:486c",
+   "op": "text",
+   "en": "{f:I|I} was desperate.\n{f:I|I} must have been dozens of times more brilliant than any candidate's speech for student council president{f:.|.}\nThat's how well I think I pulled it off.{p}"
+  },
+  {
+   "id": "44:491c",
+   "op": "text",
+   "en": "Kazama put a hand to his chin and thought it over.\nThen he looked at {f:me|me}.\n\"...Proof?\"\n\"You want... proof?\"\n\"That's right. Let's see some proof.\nProof that this Commander is a Deberondattan, or proof that you're a genuine Sunbararian, either one will do.\nIn any case, show me proof that you're not a spy for the Earth Defense Force.\"\n...What a turn of events.\nI thought Kazama was an idiot, but I never dreamed he'd demand proof...{p}"
+  },
+  {
+   "id": "44:4ad0",
+   "op": "text",
+   "en": "What now?\nWhat {f:are you gonna do|are you going to do}, {b} {a}?{p}This is the moment of truth{f:!|!}\n"
+  },
+  {
+   "id": "44:4b24",
+   "op": "choice",
+   "en": "Show proof that I'm a Sunbararian"
+  },
+  {
+   "id": "44:4b50",
+   "op": "choice",
+   "en": "Show proof that the Commander is a Deberondattan"
+  },
+  {
+   "id": "44:4b84",
+   "op": "choice",
+   "en": "Just try dancing"
+  },
+  {
+   "id": "44:4b9c",
+   "op": "text",
+   "en": "...For now, I'll do my best to show proof that I'm a Sunbararian.\n...But how?\nThat's it{f:!|!}{p}",
+   "follows_choice": [
+    "44:4b24"
+   ]
+  },
+  {
+   "id": "44:4c24",
+   "op": "text",
+   "en": "If I remember right, earlier, when {f:I|I} asked Kazama a similar question, he asked me whether I could drop a ten-yen coin sitting on a piece of paper into a cup{f:.|...}\nThat's more than enough proof{f:!|!}{p}"
+  },
+  {
+   "id": "44:4cf8",
+   "op": "text",
+   "en": "\"Kazama! Earlier, {f:I|I} showed you how to drop the ten-yen coin on the paper into the cup, didn't I?!\nThat's solid proof that {f:I'm|I'm} a Sunbararian, isn't it?!\"\n\"...No good. Now that I think about it, even an Earthling might be able to do that.\"\n...That's just too cruel.\nIt was Kazama who got it into his head that {f:I|I} was an alien in the first place{f:!|!}\nHe jumped to conclusions all on his own and brought this whole mess about{f:.|.}\nCome to think of it, {f:I'm|I'm} the one being wronged here{f:!|!}{p}"
+  },
+  {
+   "id": "44:4ef0",
+   "op": "text",
+   "en": "\"Well? {f:Hurry up and show me the proof|Show me the proof, quick}.\"\nKazama's eyes turned cold again.\nHe looked ready to kill {f:me|me} at any second{f:.|.}\n...What do I do?\n\"Showing proof that {f:you're|you're} a Sunbararian is simple.\n...All you have to do is take off your mask like this.\"\n\"{f:Gyaah|Kyaah}!\"\nK-Kazama...{p}"
+  },
+  {
+   "id": "44:5054",
+   "op": "text",
+   "en": "Kazama hooked his fingers into the skin of his neck and dragged the skin off his face, slowly peeling it away.\nUnder the human skin was an ammonite-like head, exactly like the Commander's.{p}"
+  },
+  {
+   "id": "44:50e0",
+   "op": "text",
+   "en": "\"...Now. You peel yours off too.\"\nWith that, Kazama pointed at {f:me|me} and closed in.\nThe tentacles around his mouth wriggled and squirmed...\nEven if {f:I|I} peeled off my face, there'd be nothing under it but muscle{f:!|!}\nAre you kidding me{f:?!|?!}\nWhat do I do?{p}What {f:the hell am I supposed to do|am I supposed to do}?!\n"
+  },
+  {
+   "id": "44:520c",
+   "op": "choice",
+   "en": "Run"
+  },
+  {
+   "id": "44:5214",
+   "op": "choice",
+   "en": "Fight"
+  },
+  {
+   "id": "44:521c",
+   "op": "choice",
+   "en": "Apologize"
+  },
+  {
+   "id": "44:5224",
+   "op": "choice",
+   "en": "No choice. Try dancing"
+  },
+  {
+   "id": "44:526c",
+   "op": "text",
+   "en": "\"{f:Raaagh|Nooooo}!\"\n{f:I|I} slammed into Kazama with all my might.\nThen I shut my eyes and flailed my arms around wildly.{p}",
+   "follows_choice": [
+    "44:5214"
+   ]
+  },
+  {
+   "id": "44:52fc",
+   "op": "text",
+   "en": "\"··★☆☆··★☆☆\"{p}"
+  },
+  {
+   "id": "44:532c",
+   "op": "text",
+   "en": "Suddenly Kazama let out a bizarre, incomprehensible shriek and toppled over with a thud.\nApparently {f:I'd|I'd} yanked on one of those tentacles.\nSo those weird tentacles sprouting from the mouth were the Sunbararians' weak spot{f:.|.}\n...Even so, they're way too weak.\n{f:These guys|These monsters} are this weak and {f:they|they} want to invade Earth? They must really look down on us Earthlings{f:.|.}{p}"
+  },
+  {
+   "id": "44:54a0",
+   "op": "text",
+   "en": "{f:But|Still}, the danger has passed{f:.|.}\nAll I came here for was to hear scary stories from school, and before I knew it, {f:I'd|I'd} become a {f:hero|hero} who saved the Earth{f:.|.}\n...But nobody will ever know.\n{f:I|I} {f:am a lonely hero|am a lonely hero}.\n{f:No|Yes}, in the end, that's all a {f:hero|hero} ever is{f:.|, isn't it?}{p}"
+  },
+  {
+   "id": "44:5618",
+   "op": "text",
+   "en": "Still, somehow I can't help feeling a little happy.\n...Thinking back, the strange atmosphere hanging in the club room when I first walked in must have been coming from this Sunbararian{f:.|.}\nI don't know if anyone will believe me, but I'll make this experience the seventh of the seven wonders.\nAnyway, all's well that ends well.{p}"
+  },
+  {
+   "id": "44:574c",
+   "op": "text",
+   "en": "Well then, {f:guess I'll head home|I think I'll go home}.\nJust as {f:I|I} was about to leave the club room...!{p}"
+  },
+  {
+   "id": "44:57c0",
+   "op": "text",
+   "en": "\"{f:Whoa|Eek}!\"\nWithout thinking, {f:I|I} ducked into the shadows of the club room.{p}"
+  },
+  {
+   "id": "44:581c",
+   "op": "text",
+   "en": "...What {f:the...|is it}...\n...{f:What the hell|What}, {f:what the hell|what is this}...\nThere was something out there just now{f:!|!}\nWasn't that a pack of Sunbararians walking down the hallway toward here{f:?|?}\nWas I {f:seeing things|seeing things}?\n...No, that's impossible.\nEverything was supposed to work out, and there'd be peace...\nWhat do I do?{p}What should I do?\n"
+  },
+  {
+   "id": "44:5960",
+   "op": "choice",
+   "en": "Check one more time"
+  },
+  {
+   "id": "44:5974",
+   "op": "choice",
+   "en": "Hide"
+  },
+  {
+   "id": "44:597c",
+   "op": "choice",
+   "en": "Make clever use of Kazama's corpse"
+  },
+  {
+   "id": "44:59a4",
+   "op": "text",
+   "en": "That's it!\n{f:I'll make good use of|Let's make good use of} Kazama's corpse.\nIt's a little gross, but...{p}",
+   "follows_choice": [
+    "44:597c"
+   ]
+  },
+  {
+   "id": "44:5a08",
+   "op": "text",
+   "en": "{f:I|I} ripped the ammonite-like head off Kazama's corpse.\nA seawater-like fluid came oozing thickly out of the body.{p}"
+  },
+  {
+   "id": "44:5a9c",
+   "op": "text",
+   "en": "{f:Ugh|Eww}, gross...\n{f:I|I} stared hard at Kazama's head.{p}...Should I {f:try wearing it|try putting it on}?\n"
+  },
+  {
+   "id": "44:5b20",
+   "op": "choice",
+   "en": "Put it on"
+  },
+  {
+   "id": "44:5b28",
+   "op": "choice",
+   "en": "No, forget it"
+  },
+  {
+   "id": "44:5b38",
+   "op": "text",
+   "en": "Oh, to hell with it, whatever happens, happens!\n{f:I|I} shoved my own head into that head.\nThere was a squelch, and its insides oozed out through the gaps.\n...How utterly disgusting.\nAnd that fishy stench.\nBut I can't afford to be picky{f:.|.}\nMy life is on the line{f:.|, after all.}\nI can't see very well, but I can just make out what's going on through the gaps between the tentacles.\nOh, right{f:!|!} I'll take that patch-like thing Kazama had, too.{p}",
+   "follows_choice": [
+    "44:5b20"
+   ]
+  },
+  {
+   "id": "44:5ce4",
+   "op": "text",
+   "en": "\"☆★··☆☆★?\"\nRight after that, a group of Sunbararians came into the club room and threw some unintelligible words at {f:me|me}.\nI had no idea what they were saying.{p}What {f:do I do|should I do}?\n"
+  },
+  {
+   "id": "44:5d98",
+   "op": "choice",
+   "en": "Try babbling some gibberish"
+  },
+  {
+   "id": "44:5dc0",
+   "op": "choice",
+   "en": "Silently point at Kazama's corpse"
+  },
+  {
+   "id": "44:5de0",
+   "op": "choice",
+   "en": "Try showing them the patch-like thing"
+  },
+  {
+   "id": "44:5e04",
+   "op": "choice",
+   "en": "Just try dancing"
+  },
+  {
+   "id": "44:5e1c",
+   "op": "text",
+   "en": "{f:I|I} silently pointed at Kazama's headless corpse.\nThe Sunbararians all let out unintelligible shrieks and began examining Kazama's body.\nAnd the Commander's body, too.\n...Now's my chance{f:!|!}{p}",
+   "follows_choice": [
+    "44:5dc0"
+   ]
+  },
+  {
+   "id": "44:5ef8",
+   "op": "text",
+   "en": "{f:I|I} seized the opening and dashed outside.\nNo matter what, {f:run|just run}!{p}"
+  },
+  {
+   "id": "44:5f50",
+   "op": "text",
+   "en": "Something like a line of white light shot past over {f:my|my} shoulder with tremendous force.\nIt hit the wall ahead and exploded.{p}"
+  },
+  {
+   "id": "44:5fd4",
+   "op": "text",
+   "en": "A laser gun{f:!|...}\n\"I'm gonna die!\"\nThis isn't some sci-fi movie, so why do {f:I|I} have to go through this{f:?!|?!}\nWhy are there Sunbararians in a place like this{f:?!|?!}\nThose were my thoughts as {f:I|I} ran with all my might.{p}"
+  },
+  {
+   "id": "44:60e0",
+   "op": "text",
+   "en": "Laser beam after laser beam shot past {f:me|me}.\nIf one hit, someone like {f:me|me} would be wiped out in an instant{f:.|.}\nI have to get out of the school, no matter what!{p}"
+  },
+  {
+   "id": "44:61a4",
+   "op": "text",
+   "en": "Once I was outside, the laser beams stopped chasing me.\nBut that didn't mean I could relax yet.\nBecause the schoolyard was crawling with Sunbararians too{f:.|...}\n...Had the school been taken over by the Sunbararians{f:?|?}\n{f:I|I} waved my hand and showed them the patch.\nThen I walked slowly toward the school gate.{p}"
+  },
+  {
+   "id": "44:6308",
+   "op": "text",
+   "en": "...{f:All right|Okay}, so far so good{f:.|.}\nKeep it up{f:.|.}{p}"
+  },
+  {
+   "id": "44:6350",
+   "op": "text",
+   "en": "{f:I|I} took one step out of the school grounds.{p}"
+  },
+  {
+   "id": "44:63a0",
+   "op": "text",
+   "en": "...{f:All right|Now}, {f:here goes|now's my chance}.\nRun!{p}"
+  },
+  {
+   "id": "44:63d8",
+   "op": "text",
+   "en": "{f:I|I} ran with all my might.{p}Where should I go?\n"
+  },
+  {
+   "id": "44:640c",
+   "op": "choice",
+   "en": "My house"
+  },
+  {
+   "id": "44:6418",
+   "op": "choice",
+   "en": "The police"
+  },
+  {
+   "id": "44:6420",
+   "op": "choice",
+   "en": "The hospital"
+  },
+  {
+   "id": "44:6428",
+   "op": "choice",
+   "en": "A TV station"
+  },
+  {
+   "id": "44:6434",
+   "op": "text",
+   "en": "First, I'll go to the police.\nI'll go to the police and tell them about the Sunbararians{f:.|.}\n{f:I|I} hurried to the nearby police box.{p}",
+   "follows_choice": [
+    "44:6418"
+   ]
+  },
+  {
+   "id": "44:64c0",
+   "op": "text",
+   "en": "\"Eeeeeeeek!\"\nThe street leading to the police box was crowded with people.\nSure enough, someone screamed.{p}"
+  },
+  {
+   "id": "44:6534",
+   "op": "text",
+   "en": "Come to think of it, {f:I|I} still had that disgusting head jammed on.\nI'd better take it off.\n...Huh?\nIt won't come off!\nI-it won't come off{f:!|!}{p}"
+  },
+  {
+   "id": "44:65c8",
+   "op": "text",
+   "en": "Ow, it hurts!\nFar from coming off, it hurts horribly when I pull on it.{p}"
+  },
+  {
+   "id": "44:6610",
+   "op": "text",
+   "en": "...Come to think of it, this is weird{f:.|.}\nAt first this head was fishy and creepy, but now it feels strangely natural.\nAs if it were {f:my|my} own head...\nAnd when I really think about it, it's strange{f:.|.}\nHow {f:did|could} {f:my|my} head fit inside something only the size of Kazama's head?\nIt's the wrong size{f:!|!}{p}"
+  }
+ ]
+}

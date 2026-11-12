@@ -1,0 +1,403 @@
+{
+ "slice": "S165",
+ "scene": "43",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S164",
+ "next": "S166",
+ "todo": [],
+ "rows": [
+  {
+   "id": "43:7008",
+   "op": "text",
+   "en": "But sometimes, finding the slightest gap in our self-control, the evil in our hearts shows itself.\n...In the end, I can't blame anyone.\nWhatever really happened between Kanda and whoever it was.\nIt's not my job to pursue it.\nIf they feel the pangs of a human conscience, then all that's left is for them to atone for their sins themselves.{p}"
+  },
+  {
+   "id": "43:7130",
+   "op": "text",
+   "en": "\"Heeey, {a}!\"\n...Oh, it's Sanae.\n"
+  },
+  {
+   "id": "43:716c",
+   "op": "text",
+   "en": "Sanae came running toward me, waving.{p}"
+  },
+  {
+   "id": "43:71c0",
+   "op": "text",
+   "en": "I looked at my watch.\n"
+  },
+  {
+   "id": "43:71d0",
+   "op": "text",
+   "en": "She was right on time.\nEver since that day, Sanae and I have talked a lot.\nI think she's an honest, good girl.\nI don't completely believe her stories about the grandma and grandpa who supposedly live inside her, but I'm sure she really does have some strange power.\nAnd meeting her made me able to believe in fate, in something that can't be written off as coincidence.{p}"
+  },
+  {
+   "id": "43:733c",
+   "op": "text",
+   "en": "Whether Sanae and I will really get married someday, I can't know yet; that's still a long way off.\nBut for now, I want to take good care of her.{p}"
+  },
+  {
+   "id": "43:73c0",
+   "op": "text",
+   "en": "...Come to think of it, yesterday I finished the manuscript for the special feature on the school's seven wonders.\nI agonized over what to do about the seventh story, but there was no way I could write about what happened in the club room.\nSo instead, I wrote: 'Something bad happens to whoever hears the seventh story. That is why it cannot be written here.'\nIf you hear all of a school's seven wonders, something bad will happen...\nIt seems every school has a rumor like that.\nI don't think I'll ever tell anyone about what happened that day...{p}"
+  },
+  {
+   "id": "43:7560",
+   "op": "text",
+   "follows_choice": [
+    "43:1300"
+   ],
+   "en": "\"Everyone, thank you so much for today.\nIt's a shame the seventh person never came, but I got to hear some really scary stories, so I think I can write a good article.\nIt's late, so please be careful on your way home...\"\nI bowed deeply to everyone.{p}"
+  },
+  {
+   "id": "43:7658",
+   "op": "text",
+   "en": "\"Took forever, but hey, it was fun.\"\nThat was Shindo.{p}"
+  },
+  {
+   "id": "43:7694",
+   "op": "text",
+   "en": "Kazama put on that peculiar grin of his and said,\n\"Admit it, everyone, my scary story was the scariest, wasn't it?\"\nWell, since the gathering was ending without incident, everyone just smiled even at Kazama's nonsense.{p}"
+  },
+  {
+   "id": "43:7758",
+   "op": "text",
+   "en": "Everyone here seemed perfectly satisfied, even without hearing a seventh story.\nGetting to tell scary stories was a kind of thank-you for coming in itself.\nAnd everyone was starting to get ready to leave.{p}"
+  },
+  {
+   "id": "43:7810",
+   "op": "text",
+   "en": "\"See ya.\"\nShindo was the first to open the club room door.{p}"
+  },
+  {
+   "id": "43:784c",
+   "op": "text",
+   "follows_choice": [
+    "43:16f4"
+   ],
+   "en": "\"You're right.\nI really can't keep you all here any longer.\nIt's late, too.\nThis uneasy feeling must just be my imagination.\nSorry for all the trouble, everyone.\nPlease be careful on your way home.\"\nI said it with my head down.\nBut my bad feeling didn't go away; it only grew stronger and stronger.\nIn that atmosphere, everyone was starting to get ready to leave.{p}"
+  },
+  {
+   "id": "43:79b8",
+   "op": "text",
+   "en": "\"See ya.\"\nShindo was the first to open the club room door.{p}"
+  },
+  {
+   "id": "43:79f4",
+   "op": "text",
+   "follows_choice": [
+    "43:1d30"
+   ],
+   "en": "...Um, who's Sanae?\nIs she someone I know?\nHave I met her somewhere?\nShe looks like a student at this school, but there are so many of us.\nI'm sure I've seen her at least once.\n...I can't remember.\nCould she be the seventh one?\nIgnoring Fukuzawa, she looked around at each of us in turn, as if sizing us up.\nAnd the moment she looked me in the eye, she froze.{p}"
+  },
+  {
+   "id": "43:7b7c",
+   "op": "text",
+   "en": "\"...Are you {a}?\"\nHow does this girl know who I am?\nWhat is it about her... she has a really mysterious air.\nThen she looked at my face and smiled sweetly.{p}"
+  },
+  {
+   "id": "43:7c3c",
+   "op": "text",
+   "en": "\"Ah!\"\nI cried out without meaning to.\nFor an instant, I thought something squirmed inside her mouth.\nWas it my imagination?\n...That's it!\nIt hit me.\nThis scene rings a bell.\nYes, she's Sanae Motoki, the girl from Fukuzawa's story.\nThat's why she gave me such a strange impression.{p}"
+  },
+  {
+   "id": "43:7d60",
+   "op": "text",
+   "en": "\"Hey, you're {b} {a}, aren't you?\"\nMotoki asked again.\n...Should I really just answer her honestly here?{p}"
+  },
+  {
+   "id": "43:7dd8",
+   "op": "text",
+   "follows_choice": [
+    "43:1f74"
+   ],
+   "en": "\"...Uh, no.\"\nThat's what I found myself answering.\n\"Why would you lie like that?\nI know perfectly well that you're {a}.\"\nMotoki said to me.\nWhy did I lie?\nIt's not as if I'd done anything to her that I'd need to lie about.\nI apologized to her.\n\"...Sorry, I didn't mean to lie.\nYes, I'm {b} {a}.\"\nShe came closer to me.{p}"
+  },
+  {
+   "id": "43:7f78",
+   "op": "text",
+   "en": "\"No, that doesn't matter.\nBut I'm so glad you're alive.\"{p}"
+  },
+  {
+   "id": "43:7fd4",
+   "op": "text",
+   "follows_choice": [
+    "43:2ba0"
+   ],
+   "en": "\"But if the seventh person is coming, let's wait for them.\"\nThat's what I said.\nIf it's true that the seventh person is coming, I really want to hear that person's story as the seventh one.{p}"
+  },
+  {
+   "id": "43:8068",
+   "op": "text",
+   "en": "\"No!\nThen there'd be no point in my coming here.\nI absolutely have to tell the seventh story before the seventh one arrives!\"{p}"
+  },
+  {
+   "id": "43:80e4",
+   "op": "text",
+   "en": "Just then, Arai cut in.\n\"Why not?\nWe could wait here forever and get nowhere...\nIn that case, I think we may as well hear her story.\nIt makes no difference who tells the seventh story.\"{p}"
+  },
+  {
+   "id": "43:81bc",
+   "op": "text",
+   "en": "He might have a point.\nIf we unexpectedly get to hear an interesting story out of this, that's a bonus.\nBut she's a girl with a dangerous air about her. Will it be all right?\nIs it really okay to leave the seventh story to someone like that?\nHope and anxiety mingled inside me.{p}"
+  },
+  {
+   "id": "43:8298",
+   "op": "text",
+   "follows_choice": [
+    "43:3168"
+   ],
+   "en": "...I can't hurt Motoki in front of everyone.\nIf I just say this for now, I can always talk my way out of it later.\nMotoki gives off a slightly dangerous vibe, but looking at her like this, she's actually pretty cute.\nEven if we did end up going out, it might work out pretty well.\nFor now, I'll let her save face.{p}"
+  },
+  {
+   "id": "43:83d4",
+   "op": "text",
+   "en": "\"Yeah, all right. If you'll have me.\"{p}"
+  },
+  {
+   "id": "43:840c",
+   "op": "text",
+   "follows_choice": [
+    "43:3188"
+   ],
+   "en": "\"Motoki.\nI'm sorry, but I want to find my life partner on my own.\nI don't know what your grandma told you, but I don't believe in that kind of thing at all.\"\nHonestly, I'd be in real trouble if I got roped into promising marriage over something like this.\nBesides, it's not like I don't have a girlfriend.\nMarriage isn't something you should bring up so lightly.\n\"Motoki, you don't have to tell the seventh story anymore, either.\n...Come on, everyone, let's go home.\"\nI said it a little angrily.{p}"
+  },
+  {
+   "id": "43:85e8",
+   "op": "text",
+   "en": "Motoki hung her head, biting her lip.\nThen big tears spilled from her eyes.{p}"
+  },
+  {
+   "id": "43:864c",
+   "op": "text",
+   "en": "\"I understand.\nI'll tell Grandma myself.\nThat I can't marry you, {a}...\"{p}"
+  },
+  {
+   "id": "43:86b8",
+   "op": "text",
+   "en": "Fukuzawa spoke up.\n\"{a}, you didn't have to make Sanae cry, did you?\nThat's awful of you.\nSanae, there are plenty of people who could take {a}'s place.\nSee? So don't cry.\"{p}"
+  },
+  {
+   "id": "43:8760",
+   "op": "text",
+   "en": "\"{a}, go easy on making girls cry, huh?\nWell, we're gonna head home ahead of you.\"{p}"
+  },
+  {
+   "id": "43:87c0",
+   "op": "text",
+   "en": "Following Shindo, everyone started getting ready to leave.\n\"Bye-bye!\"\nAnd one by one, they went home.\nThree of us were left in the club room: Fukuzawa, me and Motoki.\nFukuzawa was trying her hardest to cheer her up.\nMotoki was still crying.\nIt really is hard to have a girl crying in front of you.\n\"Hic... sniff, hey, Reiko.\nCould you leave the two of us alone? Hic...\"\nMotoki said through her tears.{p}"
+  },
+  {
+   "id": "43:894c",
+   "op": "text",
+   "en": "\"Sure. You two can talk it out as long as you need.\"{p}"
+  },
+  {
+   "id": "43:89b4",
+   "op": "text",
+   "en": "\"Wait, ah...\"\nI tried to stop her, but before I could say a word, she was already out of the club room.{p}"
+  },
+  {
+   "id": "43:8a40",
+   "op": "text",
+   "en": "Motoki had stopped crying, but the awkward atmosphere that had been hanging over us since earlier hadn't changed.\n\"...So I can't get married anymore, can I?\"\nShe gazed at me with teary eyes.\nI'm a sucker for this kind of thing.{p}"
+  },
+  {
+   "id": "43:8b08",
+   "op": "text",
+   "en": "\"It's okay. I don't mind if I can't get married.\nI'll try to forget about you.\nBut... won't you grant my last wish?\"\nShe looked me straight in the eye as she said it.\nStraight at me, as if her gaze were piercing my eyes...{p}Should I grant her wish?\n"
+  },
+  {
+   "id": "43:8c04",
+   "op": "choice",
+   "en": "Okay"
+  },
+  {
+   "id": "43:8c0c",
+   "op": "choice",
+   "en": "I can't do that"
+  },
+  {
+   "id": "43:8c18",
+   "op": "text",
+   "follows_choice": [
+    "43:8c04"
+   ],
+   "en": "\"Okay.\"\nI nodded, as if I'd been hypnotized.\nRight after, it hit me.\nThis girl is pretty weird, isn't she?\nShe isn't going to ask for something I can't do... is she?{p}"
+  },
+  {
+   "id": "43:8cd0",
+   "op": "text",
+   "en": "\"I'm so happy.\nUm, well,\nwould you kiss me?\nI want a nice memory of you, {a}.\"\nMotoki said, looking down.\nShe was tugging at the hem of my uniform.{p}"
+  },
+  {
+   "id": "43:8d78",
+   "op": "text",
+   "en": "..............So that's how she's going to come at me.\nMotoki is a pretty cute girl, so I guess it's fine.\nWhen she asks with a face like that, my resolve wavers a little.\nIt's not like it would be my first kiss, either.\nI'll just have to see it as no strings attached and go for it.\nI nodded and took her by the shoulders.{p}"
+  },
+  {
+   "id": "43:8e90",
+   "op": "text",
+   "en": "She closed her eyes, ready to receive me.{p}"
+  },
+  {
+   "id": "43:8ed4",
+   "op": "text",
+   "en": "And then I kissed her small lips.\nI felt as if her pulse and mine had become one.{p}"
+  },
+  {
+   "id": "43:8f5c",
+   "op": "text",
+   "en": "\"..........★\"\nI sensed something nasty and tried to pull away from her.\nBut she had her arms wrapped around me with incredible strength, so I couldn't get away.\nOr rather, my lips wouldn't come away from hers.\nAnd then something unidentifiable started pushing its way from her mouth into mine.\nMy mouth filled up with that unidentifiable thing.\nI couldn't hold it in any longer...\n\"Gulp...\"\nI ended up swallowing it.\nMotoki finally pulled away from me.{p}"
+  },
+  {
+   "id": "43:913c",
+   "op": "text",
+   "en": "Her tearful face had changed completely into a beaming smile.\n\"Hey, {a}.\nI guess I can't forget about you after all.\n...I just can't forget about you.\nSo I made you the same as me.\n...I shared the grandpa and grandma inside me with you, {a}.\nSo now we can never be separated.\n...No matter what happens.\nAnd so, from now on, I'd love to get to know you much better, {a}, is what I'm thinking...\"{p}"
+  },
+  {
+   "id": "43:9304",
+   "op": "text",
+   "en": "...This is horrible. What has she done to me!\nAm I going to have the spirits of Motoki's grandpa and grandma living inside my body for the rest of my life★\nI can't stand something that gross.\n\"Oh, look!\nJust now, Grandma peeked out of your mouth, {a}.\nLook, look, she's waving. Tee hee!\"\nMotoki was waving back toward my mouth.\nHow can this be happening...{p}"
+  },
+  {
+   "id": "43:9478",
+   "op": "text",
+   "en": "I heard footsteps from outside the club room.\nCould that be the seventh one?\nThe one coming to kill everyone here...\nWas Motoki's story true?{p}"
+  },
+  {
+   "id": "43:9518",
+   "op": "text",
+   "en": "\"It's okay. I'll protect you.\nThe Grandma who went into your mouth, {a}, will take care of it.\"\nMotoki gave me her most dazzling smile...{p}"
+  },
+  {
+   "id": "43:959c",
+   "op": "text",
+   "follows_choice": [
+    "43:8c0c"
+   ],
+   "en": "\"...I see, so you won't grant my last wish.\nOkay. Goodbye☆\"{p}"
+  },
+  {
+   "id": "43:9620",
+   "op": "text",
+   "en": "With that, Motoki left the club room.\nI could hear her running down the hallway.\nMotoki must be one of those emotionally unstable girls who get carried away by their own fantasies.\nThat stuff about the seventh one coming to kill us must be a lie too.\nI definitely never want to get caught by a girl like that.{p}"
+  },
+  {
+   "id": "43:9720",
+   "op": "text",
+   "en": "Then I looked around the club room.\nThe empty club room...\nI had meant to leave the club room together with everyone.\nBut her sudden intrusion had made that impossible.\nFrankly, the school building at night is scary.\nI have to go home by myself.\nSuddenly, I felt a chill.\nNo, I absolutely won't think about scary things here.\nI know that once I start, the scary thoughts will spread through me and won't go away.{p}"
+  },
+  {
+   "id": "43:98a8",
+   "op": "text",
+   "en": "Come to think of it, they say telling scary stories draws spirits. Is that true?\nOh no!\nRight after I told myself not to think about it...\nIf spirits really do gather, then this place must be full of them.{p}"
+  },
+  {
+   "id": "43:9960",
+   "op": "text",
+   "en": "...No, that's just superstition.\nBut maybe, right now, there's a spirit behind me.\nMaybe it's resting its chin on my shoulder, laughing.\nSee, if I turn around like this...{p}"
+  },
+  {
+   "id": "43:9a1c",
+   "op": "text",
+   "en": "\"AAAAAAAAAAH☆\"\nI screamed.{p}"
+  },
+  {
+   "id": "43:9a68",
+   "op": "text",
+   "en": "\"WAAAAAAAAH☆\nDon't scare me like that!\nYou startled me, you idiot.\nI thought my heart was gonna stop!\"\nHuh?\nH-Hino?\nAll the strength drained out of my body.{p}"
+  },
+  {
+   "id": "43:9b14",
+   "op": "text",
+   "en": "\"Huh, looks like everyone went home after all.\nMan, I couldn't find anybody to tell the seventh story.\nAnd here I rushed through my errands so I could tell the seventh story myself...\nOh well, can't be helped.\"\nHino, you being behind me without my noticing was scarier than any of the stories...{p}"
+  },
+  {
+   "id": "43:9c20",
+   "op": "text",
+   "en": "\"Well, no point hanging around here forever. Let's go home!\nOh, I know, let's grab something to eat at a diner.\nI'm starving.\"\nHino grabbed my bag and started to head off ahead of me.\n\"Ah, wait for me☆\"\nI'm lucky to have such a good senior...{p}"
+  },
+  {
+   "id": "43:9d24",
+   "op": "text",
+   "follows_choice": [
+    "43:409c"
+   ],
+   "en": "\"I don't think it was murder.\nI think it was suicide after all.\nI think he got tired of the relationships around him.\nThings were all ugly and tangled.\nMaybe he just suddenly wanted to escape from reality.\nIf it was suicide, though, I think he acted too hastily.\"\nWhen I answered, Motoki stared at me with an unconvinced look.{p}"
+  },
+  {
+   "id": "43:9e60",
+   "op": "text",
+   "en": "\"I see.\nSo that's what you think, {a}.\nBut you know, people don't commit suicide for no reason.\nThere's always a cause, right?\nAnd that cause is almost always something like relationships, isn't it?\nThen it's basically murder without doing it with your own hands.{p}"
+  },
+  {
+   "id": "43:9f58",
+   "op": "text",
+   "en": "So Kanda's death was a kind of murder too, one that goes by the name of suicide.\nI think he was murdered.\nOh, don't mind me... it doesn't really mean anything.\nEven my grandma won't tell me why he died.\nBut you know, the seventh one will be here soon.\nWho do you think the seventh one is?{p}"
+  },
+  {
+   "id": "43:a070",
+   "op": "text",
+   "en": "...That's right, it's Kanda.\nKanda is coming.\"{p}"
+  },
+  {
+   "id": "43:a0c0",
+   "op": "text",
+   "en": "\"Don't talk crap!\nWhy the hell would he come?!\"\nShindo suddenly raised his voice.{p}"
+  },
+  {
+   "id": "43:a130",
+   "op": "text",
+   "en": "\"...Oh?\nShindo, you know Kanda?\"\nMotoki put on a big show of surprise. Whether it was real or an act, I couldn't tell.{p}"
+  },
+  {
+   "id": "43:a1d0",
+   "op": "text",
+   "en": "Shindo looked a little uncomfortable.\n\"...Well, sure, it's not like I didn't know him.\nHe was in my class.\nBut I only knew him a little.\nIf it's Kanda you wanna know about, wouldn't Iwashita know more than me?\nThere was a rumor Iwashita was going out with Kanda.\"{p}"
+  },
+  {
+   "id": "43:a2e0",
+   "op": "text",
+   "en": "Huh?\nStartled, I turned my eyes to Iwashita.\nIwashita was smiling, her head still bowed.\n\"...Well, who knows.\nShindo, I don't think you should believe people's rumors so easily.\nDid you see it?\nDid you see something going on between me and Kanda?\nIf you haven't seen anything, you'd better not spread strange rumors, for your own good.\nI despise liars, you see.\nIf I really had been going out with a man named Kanda, I'm sure I would have wanted to kill him.{p}"
+  },
+  {
+   "id": "43:a4a4",
+   "op": "text",
+   "en": "...More to the point, it was Fukuzawa, wasn't it?\nI hear you secretly had feelings for Kanda.\nAnd I heard that Kanda had recently started going out with a new girl.\nThough, of course, that's nothing more than a rumor either.\nI believe her name was Reiko Fukuzawa...\"{p}"
+  },
+  {
+   "id": "43:a588",
+   "op": "text",
+   "en": "\"What are you talking about?!\"\nCutting Iwashita off, Fukuzawa slammed her hand down on the desk.\n\"Just because you're my senior doesn't mean you can say whatever you like!\nAre you saying Kanda killed himself because of me?\nSure, I admit I liked Kanda.\nBut there had to be some other reason.\nAre you saying I was the reason?\nI was the one who was saddest when he died!\nSaying something like that... I know the truth!\nTrying to pin your own crime on somebody else, you're unbelievable!\nKanda didn't kill himself.\nYou killed him!\"{p}"
+  },
+  {
+   "id": "43:a788",
+   "op": "text",
+   "follows_choice": [
+    "43:40c0"
+   ],
+   "en": "\"I think the girl who was secretly in love with Kanda killed him.\nShe probably got into an argument with him over whether or not he'd break up with his jealous girlfriend, right?\nKanda wanted to break up with his jealous girlfriend, but that's exactly why he was scared to...\nHe must have figured that if he brought up breaking up, it wouldn't end well.\nWatching him like that, she flew into a rage and killed him, don't you think?\"\nWhen I answered, Motoki nodded to herself over and over.{p}"
+  },
+  {
+   "id": "43:a934",
+   "op": "text",
+   "en": "\"I see.\nSo that's what you think, {a}.\n...Oh, it doesn't really mean anything.\nEven my grandma won't tell me who killed him.\nMaybe she really doesn't know.\nBut you know, the seventh one will be here soon.\nWho do you think the seventh one is?\n...That's right, it's Kanda.\nKanda is coming.\"{p}"
+  },
+  {
+   "id": "43:aa50",
+   "op": "text",
+   "en": "\"Don't talk crap!\nWhy the hell would he come?!\"\nShindo suddenly raised his voice.{p}"
+  },
+  {
+   "id": "43:aacc",
+   "op": "text",
+   "en": "\"...Oh?\nShindo, you know Kanda?\"\nMotoki put on a big show of surprise. Whether it was real or an act, I couldn't tell.{p}"
+  },
+  {
+   "id": "43:ab60",
+   "op": "text",
+   "en": "Shindo looked a little uncomfortable.\n\"...Well, sure, it's not like I didn't know him.\nHe was in my class.\nBut I only knew him a little.\nIf it's Kanda you wanna know about, wouldn't Iwashita know more than me?\nThere was a rumor Iwashita was going out with Kanda.\"{p}"
+  }
+ ]
+}

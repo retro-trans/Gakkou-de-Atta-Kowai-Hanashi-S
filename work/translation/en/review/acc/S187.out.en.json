@@ -1,0 +1,11 @@
+{
+ "rows": {
+  "47:a6f0": "What's this notebook?\n'Notebook of Grudges'\n.........?\nWhose notebook is this, I wonder?\nOh, I'll just take a peek.\n\"Mayumi Taguchi: looked at me funny.\"\n...That's {a}'s handwriting.\nWhat a weirdo.\nKeeping a notebook like this.\n\"Hey, Taguchi.\"\nOh, {a}...\n\"Senpai, what is this notebook?!\"\n\"...Oh, you saw that?\"\nSenpai's expression changed.\n\"...Well, it's the truth, isn't it? You're always looking at me funny.\"{p}",
+  "47:bdb0": "\"What's the matter?\nYou look pale.\nYou seem to be suffering. I don't think you'll make it.\nIf you were a friend, I'd put you out of your misery in one go, but you turned me down.\nDo savor the pain to the very end.\nWell then, I'll be taking my leave first.\"\nWith that, Senpai stood up from his chair and looked down at me.\nMy body was already numb; I couldn't even move my arms or legs.\n\"I... was... stab... bed?\"\nSeeing me unable to even make a sound anymore, Senpai smiled with delight.\n\"Oh, that's right. The ghosts of the previous Murder Club members haunt this club room, so you'd better be careful. They all lost their battles with me and died. Not that I killed them, mind you. ...What? They must hate me? No, no, they're all precious comrades who do exactly as I say. When I tell them to kill someone, they kill, and when I told them to stab you in the back with an ice pick, they did it properly, didn't they? Oh my, it seems you can't hear me anymore. Well then, I'll leave the door unlocked, so you can go home whenever you like. Not that it matters if your body is found here; I can deal with that one way or another.\"{p}"
+ },
+ "notes": [
+  "47:bdb0: TODO - restored the full wording of Senpai's last speech (had been squeezed to fit 12 lines): 'Oh, that's right', 'previous Murder Club members', 'battles with me', 'do exactly as I say', 'Oh my', 'go home whenever you like', and 'it doesn't matter if your body is found, I can deal with it' were all cut or compressed.",
+  "47:a6f0, 47:a870 and all {a} rows: TODO - he/him for {a} already used throughout this slice (SCE47 male-only); 'Senpai' kept in Taguchi's speech and narration per brief (Taguchi route keeps senpai).",
+  "47:bdb0: UNSURE - 'when I told them to stab you' keeps the source's unnamed attacker as the ghost comrades (plural 'them'); source does not say how many."
+ ]
+}

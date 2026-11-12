@@ -1,0 +1,896 @@
+{
+ "chunk": "E017",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S036",
+  "S037"
+ ],
+ "prev": "E016",
+ "next": "E018",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:27680",
+   "op": "text",
+   "en": "I took a mechanical pencil out of my pocket and pressed it against the portrait.{p}"
+  },
+  {
+   "id": "07:276c8",
+   "op": "text",
+   "en": "On instinct, I leapt aside.{p}",
+   "follows_choice": [
+    "07:c758"
+   ]
+  },
+  {
+   "id": "07:276f4",
+   "op": "text",
+   "en": "As I did, the portrait I was holding was slashed open.{p}"
+  },
+  {
+   "id": "07:27744",
+   "op": "text",
+   "en": "A carving knife★\nHad I really come that close to taking a blow from this?\nArai stood there, his eyes bloodshot.\nSo it was one against two!\nI might not be able to win...\nBut just then...{p}"
+  },
+  {
+   "id": "07:27818",
+   "op": "text",
+   "en": "\"Eeeeeeeek☆\"\nIwashita shrieked.{p}"
+  },
+  {
+   "id": "07:27854",
+   "op": "text",
+   "en": "I swung the knife around wildly.\n\"Gah!\"\nSomeone screamed.{p}",
+   "follows_choice": [
+    "07:c778"
+   ]
+  },
+  {
+   "id": "07:278bc",
+   "op": "text",
+   "en": "It was Arai!\nBlood was dripping between the fingers clutching his arm.\nThe carving knife fell from his hand.\nHad I really come that close to taking a blow from this?\nJust then...{p}"
+  },
+  {
+   "id": "07:27974",
+   "op": "text",
+   "en": "\"Eeeeeeeek☆\"\nIwashita shrieked.\n\"I'll kill you!\"\nShe flew at me.\nIn the blink of an eye, the knife was wrenched from my hand.\nThe next moment, that same knife was driven into my chest.\n\"Die! Die! Just drop dead!\"\nIwashita kept screaming.\nJust as she wished, I would soon be called up to Heaven.\n...No, maybe I wasn't a good enough person to go to Heaven.\nAs I thought that, Iwashita's portrait caught my eye.\nIt was slashed clean in two.\nHad my knife done that...?\nThat was my last conscious thought.{p}"
+  },
+  {
+   "id": "07:27b7c",
+   "op": "text",
+   "en": "...I was tired.\nThere was no way I could win against people like these.\nAll the strength drained out of my body.\nI didn't care anymore.\nI sat down on the floor.\nIf I stayed here, someone would come for sure.\nHino, or one of his friends...\nEven if they didn't find me, this time the Grim Reaper would come.\nBecause even now, the poison capsule had to be slowly dissolving inside my body.\nBut everything was just too much trouble now.\nI hugged my knees and waited for the time to come.{p}",
+   "follows_choice": [
+    "07:d864"
+   ]
+  },
+  {
+   "id": "07:27d10",
+   "op": "text",
+   "en": "I thought about punching Iwashita.\nBut...\nI just couldn't do it.\nI could never hit a girl.\nThere had to be some other way without resorting to that.{p}What should I do?\n",
+   "follows_choice": [
+    "07:c55c"
+   ]
+  },
+  {
+   "id": "07:27dc4",
+   "op": "text",
+   "en": "\"Why are you trying to kill me?!\"\nI asked.\nI couldn't think of anything I'd done to make someone I'd just met hate me that much.{p}",
+   "follows_choice": [
+    "07:c564"
+   ]
+  },
+  {
+   "id": "07:27e34",
+   "op": "text",
+   "en": "Iwashita grinned.\n\"You... You laughed when you looked at me, didn't you? That's why.\"\n\"What★\"\nWould anyone really want to kill someone over something like that★\nBesides, I didn't remember doing any such thing.\n\"Heh heh... It was the day of this year's entrance ceremony. You, a new first-year, smiled at me.\nBut don't misunderstand. It's not as if I'm angry.\"\nIwashita said.\nHad she read my mind?\nBut that only made it harder to understand.\nIf she wasn't angry, why kill me?\n\"Heh heh, you don't understand? When I saw your smile, I fell in love with you.\nThat's why I want you all to myself.\"\nIwashita was beaming at me.\nThat was insane.\nCould anyone really fall for someone like that?\nIwashita, standing in front of me, seemed like some eerie creature.\nAnd at that moment...{p}"
+  },
+  {
+   "id": "07:280f8",
+   "op": "text",
+   "en": "With a ripping slash, my back was cut open.\nDamn it!\nThere was another one hiding...{p}"
+  },
+  {
+   "id": "07:28178",
+   "op": "text",
+   "en": "As I fell, I turned around and saw Arai, carving knife in hand, staring at me.\nI could hear Iwashita's voice.{p}"
+  },
+  {
+   "id": "07:281e4",
+   "op": "text",
+   "en": "\"Once you're dead, I get to keep your body. That's the deal.\nI'll take such good care of it... Heh heh.\"\nAs my consciousness faded, an image of Iwashita hugging my corpse flickered up and vanished.{p}"
+  },
+  {
+   "id": "07:28294",
+   "op": "text",
+   "en": "\"Where's the ampoule★\"\nI asked Iwashita.\n\"I don't know. I'm not even interested in that sort of thing.\nWouldn't Lord Hino know?\"\nIwashita answered curtly.\nShe didn't seem to be lying.\nDid she really not know?{p}Then what should I do?\n",
+   "follows_choice": [
+    "07:c57c"
+   ]
+  },
+  {
+   "id": "07:28380",
+   "op": "text",
+   "en": "\"Where's the ampoule★\"\nI asked Iwashita.\n\"I told you I don't know, didn't I? Why do you keep asking me?\"\nThat's right.\nNo matter how many times I asked, it would be a waste of time.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28430",
+   "op": "text",
+   "en": "I thought about letting Iwashita go.\nBut... wait a minute.\nHino aside, I had a feeling the scariest of the whole lot was this Akemi Iwashita.\nShe was the one I absolutely couldn't let get away.{p}What should I do?\n",
+   "follows_choice": [
+    "07:c594"
+   ]
+  },
+  {
+   "id": "07:284ec",
+   "op": "text",
+   "en": "I was about to tie Iwashita up.\nBut to do that, I'd have to get her to hold still.\nMaybe I should scare her a little.{p}What should I say?\n",
+   "follows_choice": [
+    "07:c5a4"
+   ]
+  },
+  {
+   "id": "07:2856c",
+   "op": "choice",
+   "en": "Say I'll kill her"
+  },
+  {
+   "id": "07:28578",
+   "op": "choice",
+   "en": "Say I'll hurt her"
+  },
+  {
+   "id": "07:2858c",
+   "op": "choice",
+   "en": "Say I'll curse her"
+  },
+  {
+   "id": "07:285a0",
+   "op": "text",
+   "en": "\"How dare you try to kill me! I'll put a curse on you☆\"{p}",
+   "follows_choice": [
+    "07:2858c"
+   ]
+  },
+  {
+   "id": "07:285e4",
+   "op": "text",
+   "en": "Iwashita gasped and went pale.\n\"What did you say?\"\nEven her voice trembled as she asked.\n\"I said I'll put a curse on you. I'll set an evil spirit on you!\"\n...Of course, there was no way I knew how to do anything like that.\nBut Iwashita seemed to take it seriously.{p}"
+  },
+  {
+   "id": "07:286d4",
+   "op": "text",
+   "en": "\"Go ahead and try! I'll drag you down with me.\"\nHer eyes were blazing with fury.\nIt looked like she meant it.\nShe was too dangerous to go near like this.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28760",
+   "op": "text",
+   "en": "\"How dare you try to kill me! Maybe I should make you hurt☆\"{p}",
+   "follows_choice": [
+    "07:28578"
+   ]
+  },
+  {
+   "id": "07:287ac",
+   "op": "text",
+   "en": "But Iwashita just grinned.\n\"You mean to scar a girl?\nIf you do, you'll have to take responsibility for me.\"\n...What the hell is she talking about★{p}"
+  },
+  {
+   "id": "07:28844",
+   "op": "text",
+   "en": "Either way, this approach didn't seem to work.{p}What should I do?\n"
+  },
+  {
+   "id": "07:2887c",
+   "op": "text",
+   "en": "\"How dare you try to kill me! I'll kill you☆\"{p}",
+   "follows_choice": [
+    "07:2856c"
+   ]
+  },
+  {
+   "id": "07:288c0",
+   "op": "text",
+   "en": "But Iwashita just grinned.\n\"You can't kill me. Because I'm in love with you.\"\n...What the hell is she talking about★{p}"
+  },
+  {
+   "id": "07:28950",
+   "op": "text",
+   "en": "Either way, this approach didn't seem to work.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28988",
+   "op": "text",
+   "en": "I examined the table.\n...Nothing seemed out of the ordinary.{p}Now, what should I do?\n",
+   "follows_choice": [
+    "07:c220"
+   ]
+  },
+  {
+   "id": "07:289dc",
+   "op": "text",
+   "en": "I examined the table.\nNothing seemed out of the...\nJust then, someone grabbed my leg.\nIwashita had been hiding under the table!{p}"
+  },
+  {
+   "id": "07:28a70",
+   "op": "text",
+   "en": "\"Die! Die! Die!\"\nShe kept screaming.\nI was terrified.\nI tried to shake my leg free.\nBut my leg was locked in place, as if it were caught in a bear trap.\nThis was a girl's strength★\n\"Now☆\"\nIwashita shrieked.\nWhat★{p}"
+  },
+  {
+   "id": "07:28b68",
+   "op": "text",
+   "en": "\"Raaaaaaaagh☆\"\n"
+  },
+  {
+   "id": "07:28b88",
+   "op": "text",
+   "en": "I decided to go to the library.\nCome to think of it, going there was how all of this had started.{p}"
+  },
+  {
+   "id": "07:28bfc",
+   "op": "text",
+   "en": "When I tried to open the door, I realized it was locked.\nThat's right, I have to find the keys.\nWithout the keys, I can't get in anywhere.{p}"
+  },
+  {
+   "id": "07:28c8c",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:28ca0",
+   "op": "text",
+   "en": "I decided to go to the library.\nCome to think of it, going there was how all of this had started.{p}"
+  },
+  {
+   "id": "07:28d14",
+   "op": "text",
+   "en": "When I tried to open the door, I realized it was locked.\nThat's right, I have to find the keys.{p}"
+  },
+  {
+   "id": "07:28d7c",
+   "op": "text",
+   "en": "But where am I supposed to go?\n"
+  },
+  {
+   "id": "07:28d9c",
+   "op": "text",
+   "en": "I decided to go to the library.\nCome to think of it, going there was how all of this had started.{p}"
+  },
+  {
+   "id": "07:28e10",
+   "op": "text",
+   "en": "The door was locked.{p}"
+  },
+  {
+   "id": "07:28e3c",
+   "op": "text",
+   "en": "I used the keys I'd brought from the faculty room and went inside.{p}"
+  },
+  {
+   "id": "07:28e9c",
+   "op": "text",
+   "en": "The memory of that day came flooding back.\nIf only I had never come here, I wouldn't be running around the school at night like this.\nBut there was no use saying that now.\nI'd heard the library boasted quite a collection, and sure enough, there were a lot of books.\nSearching this place was bound to take a good while.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28fb4",
+   "op": "choice",
+   "en": "Search the desks"
+  },
+  {
+   "id": "07:28fc0",
+   "op": "choice",
+   "en": "Search the bookshelves"
+  },
+  {
+   "id": "07:28fcc",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:28fdc",
+   "op": "text",
+   "en": "I decided to search the desks.{p}",
+   "follows_choice": [
+    "07:28fb4"
+   ]
+  },
+  {
+   "id": "07:28ffc",
+   "op": "text",
+   "en": "That said, the desks here didn't even have drawers.\nI was done searching in no time.{p}What now?\n"
+  },
+  {
+   "id": "07:2905c",
+   "op": "text",
+   "en": "The bookshelves stood along the north, east and south sides of the library.{p}Where should I start?\n",
+   "follows_choice": [
+    "07:28fc0"
+   ]
+  },
+  {
+   "id": "07:290ac",
+   "op": "choice",
+   "en": "The north side"
+  },
+  {
+   "id": "07:290b4",
+   "op": "choice",
+   "en": "The east side"
+  },
+  {
+   "id": "07:290bc",
+   "op": "choice",
+   "en": "The south side"
+  },
+  {
+   "id": "07:290c4",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:290d0",
+   "op": "text",
+   "en": "Then what should I do?\n",
+   "follows_choice": [
+    "07:290c4"
+   ]
+  },
+  {
+   "id": "07:290ec",
+   "op": "text",
+   "en": "I decided to check the south side.\nThere were four bookshelves standing in a row.{p}Which one should I check?\n",
+   "follows_choice": [
+    "07:290bc"
+   ]
+  },
+  {
+   "id": "07:2913c",
+   "op": "choice",
+   "en": "Far right",
+   "returns": [
+    "07:2913c: RETURN - bookshelf choices here read 'Far right / Second from right / Search elsewhere' while S035/S037 use 'Second from the right / The one on the far left / Search somewhere else'; unify wording"
+   ]
+  },
+  {
+   "id": "07:29144",
+   "op": "choice",
+   "en": "Second from right"
+  },
+  {
+   "id": "07:29154",
+   "op": "choice",
+   "en": "Third from right"
+  },
+  {
+   "id": "07:29164",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:2916c",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:29178",
+   "op": "text",
+   "en": "Where should I check?\n",
+   "follows_choice": [
+    "07:2916c"
+   ]
+  },
+  {
+   "id": "07:29190",
+   "op": "text",
+   "en": "I checked the bookshelf.{p}",
+   "follows_choice": [
+    "07:2913c",
+    "07:29144",
+    "07:29154",
+    "07:29164"
+   ]
+  },
+  {
+   "id": "07:291b0",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.\n...In the end, there was nothing.{p}Where should I search next?\n"
+  },
+  {
+   "id": "07:29208",
+   "op": "text",
+   "en": "I decided to check the east side.\nThere were four bookshelves standing in a row.{p}Which one should I check?\n",
+   "follows_choice": [
+    "07:290b4"
+   ]
+  },
+  {
+   "id": "07:29258",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:29260",
+   "op": "choice",
+   "en": "Second from right"
+  },
+  {
+   "id": "07:29270",
+   "op": "choice",
+   "en": "Third from right"
+  },
+  {
+   "id": "07:29280",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:29288",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:29294",
+   "op": "text",
+   "en": "Where should I check?\n",
+   "follows_choice": [
+    "07:29288"
+   ]
+  },
+  {
+   "id": "07:292ac",
+   "op": "text",
+   "en": "I checked the bookshelf.{p}",
+   "follows_choice": [
+    "07:29260",
+    "07:29270",
+    "07:29280"
+   ]
+  },
+  {
+   "id": "07:292cc",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.\n...In the end, there was nothing.{p}Where should I search next?\n"
+  },
+  {
+   "id": "07:29324",
+   "op": "text",
+   "en": "I checked the bookshelf.{p}",
+   "follows_choice": [
+    "07:29258"
+   ]
+  },
+  {
+   "id": "07:29344",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.{p}"
+  },
+  {
+   "id": "07:29378",
+   "op": "text",
+   "en": "...Hm?\nThis one book was sticking out awfully far.\nWas there something behind it★\nI'd try pulling the book out...{p}",
+   "returns": []
+  },
+  {
+   "id": "07:293f0",
+   "op": "text",
+   "en": "Whoa★\nSomething small leapt out at me!\nThe thing squeaked as it scurried off into the darkness.\nIt left behind lots of tiny scraps, like bits of gnawed paper.\nA rat?\n...That gave me a scare.{p}Pulling myself together, I'd check somewhere else.\n",
+   "returns": []
+  },
+  {
+   "id": "07:294d4",
+   "op": "text",
+   "en": "I decided to check the north side.\nThere were four bookshelves standing in a row.{p}Which one should I check?\n",
+   "follows_choice": [
+    "07:290ac"
+   ]
+  },
+  {
+   "id": "07:29524",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:2952c",
+   "op": "choice",
+   "en": "Second from the right"
+  },
+  {
+   "id": "07:2953c",
+   "op": "choice",
+   "en": "Third from the right"
+  },
+  {
+   "id": "07:2954c",
+   "op": "choice",
+   "en": "The one on the far left"
+  },
+  {
+   "id": "07:29554",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:29560",
+   "op": "text",
+   "en": "Where should I look?\n",
+   "follows_choice": [
+    "07:29554"
+   ]
+  },
+  {
+   "id": "07:29578",
+   "op": "text",
+   "en": "I checked the bookshelf.{p}",
+   "follows_choice": [
+    "07:29524",
+    "07:2953c",
+    "07:2954c"
+   ]
+  },
+  {
+   "id": "07:29598",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.\n...In the end, there was nothing.{p}Where should I search next?\n"
+  },
+  {
+   "id": "07:295f0",
+   "op": "text",
+   "en": "I checked the bookshelf.{p}",
+   "follows_choice": [
+    "07:2952c"
+   ]
+  },
+  {
+   "id": "07:29610",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.\n...Hm?\nSomething was tucked between the books.\nIt looked like a note.\nLet's see...\n\"I'll be waiting at the back gate after school today.\"\n...Arranging a date, maybe.\nI found myself envying whoever wrote this note.\nPeople living plain, peaceful, ordinary lives.\nBy rights, I should have been one of them.\nWhy did it have to come to this...\n...No, I can't lose heart now.{p}I'll try searching somewhere else.\n"
+  },
+  {
+   "id": "07:2978c",
+   "op": "text",
+   "en": "I decided to go to the library.{p}"
+  },
+  {
+   "id": "07:297d8",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:29808",
+   "op": "text",
+   "en": "Where should I search?\n",
+   "follows_choice": [
+    "07:ac40",
+    "07:28fcc"
+   ]
+  },
+  {
+   "id": "07:2981c",
+   "op": "text",
+   "en": "\"Ugh...\"\nI twisted my face as if in agony.\nThen I collapsed to the ground.\nWith luck, he might think the poison had kicked in.{p}",
+   "follows_choice": [
+    "07:11aec"
+   ]
+  },
+  {
+   "id": "07:298ac",
+   "op": "text",
+   "en": "Hino came up close to me.\n\"What's this, you didn't take the antidote?\"\nHe crouched down and looked at me.\nNot yet.\nHe was still too far away for me to lunge in a single instant and snatch the knife.\n\"What a letdown you are.\"\nHino shrugged.{p}"
+  },
+  {
+   "id": "07:2998c",
+   "op": "text",
+   "en": "And the next instant, he was on top of me.\nBefore I could spring up, a knife was plunged into my chest.{p}"
+  },
+  {
+   "id": "07:299fc",
+   "op": "text",
+   "en": "A hot, numbing sensation sent my whole body into convulsions.{p}"
+  },
+  {
+   "id": "07:29a50",
+   "op": "text",
+   "en": "Hino was grinning with delight.\n\"I'm at least taking the finishing blow for myself. Call it the least punishment you deserve for robbing me of my fun.\"\n\"P-punishment...?\"\nI forced my voice out desperately.\n\"That's right. Why do you think I let the people I liked into the Murder Club?\"{p}"
+  },
+  {
+   "id": "07:29b40",
+   "op": "text",
+   "en": "Hino licked the bloody knife with a flick of his tongue.\n\"When you keep on killing, you gradually start to feel like a god.\nSo just imagine their faces when they're forced to realize they were nothing but worthless people after all.\"{p}"
+  },
+  {
+   "id": "07:29c10",
+   "op": "text",
+   "en": "What★\nThat means... he was planning to kill those six too, in the end★\n\"Watching them die in despair was going to be the greatest pleasure of all.\nAnyway, you're going to answer for this.\"\nBlood gushed from my chest, throb after throb.\n...I was cold.\nMy body wouldn't stop shaking.{p}"
+  },
+  {
+   "id": "07:29d24",
+   "op": "text",
+   "en": "\"But hey, you gave me a pretty good time yourself, {a}.\"\nHino kept on talking.\nBut I could hardly hear him anymore.\nI'd been so close...\nI never got to see the light of dawn.{p}"
+  },
+  {
+   "id": "07:29dd8",
+   "op": "text",
+   "en": "\"Come on, Hino! Don't miss! Drive that knife into my gut as hard as you can!\"\nI shouted.\n\"Heh, giving up, are you?!\"\nHino charged at me, laughing.\nI focused every nerve I had on Hino's knife.\nThis was my last gamble.\nIf my luck held, it was sure to work.\nIt mustn't miss.\nI had to take Hino's knife in exactly the right spot.{p}"
+  },
+  {
+   "id": "07:29f20",
+   "op": "text",
+   "en": "If it missed... I'd die!\n\"Let me put you out of your misery!\"{p}"
+  },
+  {
+   "id": "07:29f50",
+   "op": "text",
+   "en": "\"Ngh!\"\nA dull pain throbbed through my stomach.{p}"
+  },
+  {
+   "id": "07:29f94",
+   "op": "text",
+   "en": "The next instant, a look of dismay spread across Hino's face.\nFor Hino, this was something that should never have happened.\n\"You bastard... you tricked me.\"\n\"What's wrong, Hino? You've gone white as a sheet.\"\nWith my left hand, I gripped Hino's hand along with the knife stuck in my gut.\nMeanwhile, my right hand fumbled a mechanical pencil out of my pocket.\nThere wasn't a moment to lose.\nWithout hesitation, I thrust my right hand forward.{p}"
+  },
+  {
+   "id": "07:2a0fc",
+   "op": "text",
+   "en": "\"Gwah!\"\nThe mechanical pencil struck Hino square in the throat.{p}"
+  },
+  {
+   "id": "07:2a150",
+   "op": "text",
+   "en": "Bright red blood sprayed out in a burst.\n\"N... no way...\"\nBreath whistled out of the wound, wheeze, wheeze.\nThen Hino's eyes rolled back until only the whites showed.\nLike a marionette with its strings cut, he flopped to the ground.{p}"
+  },
+  {
+   "id": "07:2a224",
+   "op": "text",
+   "en": "...He was dead.\nI pulled the piece of window frame that had saved my life out from under my shirt.\nTo think that rotten wood like this, ready to snap at any moment, had saved me.\nI wiped my face with the back of my hand.\nIt came away smeared with Hino's blood.\n...If I went home like this, my family would be shocked for sure.\nI giggled.\nAt the same time, tears welled up and wouldn't stop.\nI'd won.\nSo why did I feel so wretched?\nI sobbed and hiccuped like a child.\n..............................I'm a murderer.\nI'm a murderer.{p}"
+  },
+  {
+   "id": "07:2a3e8",
+   "op": "text",
+   "en": "Just then, the morning sun shone in.\nAs if to accuse me of my crime.{p}"
+  },
+  {
+   "id": "07:2a438",
+   "op": "text",
+   "en": "Without hesitation, I drove the screwdriver into Hino's throat.{p}",
+   "follows_choice": [
+    "07:11e58"
+   ]
+  },
+  {
+   "id": "07:2a47c",
+   "op": "text",
+   "en": "Without hesitation, I drove the screwdriver into Hino's chest.\nThe screwdriver went in without any resistance at all.\nHino's body was as soft as a sponge.\nWhat the hell is this guy★{p}",
+   "follows_choice": [
+    "07:11e78"
+   ]
+  },
+  {
+   "id": "07:2a534",
+   "op": "text",
+   "en": "As I froze in terror, Hino grinned at me.\n\"Is that all you've got?\"\n\"Uh...\"\nI tried to scream.{p}"
+  },
+  {
+   "id": "07:2a5b0",
+   "op": "text",
+   "en": "In that instant, a chop from Hino's bare hand sent my head flying.{p}"
+  },
+  {
+   "id": "07:2a5f4",
+   "op": "text",
+   "en": "I pulled the screwdriver from my pocket and held it ready.\nHino grinned.\n\"Interesting. Prey's no fun unless it puts up a fight.\"\nI focused every nerve on Hino's knife.\n\"Die, {a}☆\"\nHere it comes!{p}",
+   "follows_choice": [
+    "07:11b1c"
+   ]
+  },
+  {
+   "id": "07:2a6c8",
+   "op": "text",
+   "en": "I dodged the thrusting knife by a hair.\nMy shirt tore.\nIt was a first try with no rehearsal, but it worked.\nStill, I had no time to celebrate.{p}"
+  },
+  {
+   "id": "07:2a778",
+   "op": "text",
+   "en": "Hino had swung at empty air and lost his balance.\nIt's now or never!{p}"
+  },
+  {
+   "id": "07:2a7b0",
+   "op": "text",
+   "en": "\"I'm sorry, Hino. Please forgive me.\"\nI bowed my head.\nHino was right.\nI didn't have the strength left to fight anymore.{p}",
+   "follows_choice": [
+    "07:11b40"
+   ],
+   "returns": []
+  },
+  {
+   "id": "07:2a834",
+   "op": "text",
+   "en": "Hino grinned.\n\"Huh, that's a sudden change of attitude. Are you plotting something?\"\n\"N-no, I'm not. I just can't take any more. I'll do anything, so please forgive me.\"{p}"
+  },
+  {
+   "id": "07:2a8cc",
+   "op": "text",
+   "en": "\"Then lick my shoes. You've done it before, so you can do it, right?\"\nWas he going to humiliate me even more than this?{p}What should I do?\n"
+  },
+  {
+   "id": "07:2a944",
+   "op": "choice",
+   "en": "Lick his shoes"
+  },
+  {
+   "id": "07:2a950",
+   "op": "choice",
+   "en": "Say no"
+  },
+  {
+   "id": "07:2a968",
+   "op": "text",
+   "en": "\"No!\"\nI said it flatly.{p}",
+   "follows_choice": [
+    "07:2a950"
+   ]
+  },
+  {
+   "id": "07:2a994",
+   "op": "text",
+   "en": "\"Figured you'd say that.\"\nHino's arm flashed out.{p}"
+  },
+  {
+   "id": "07:2a9e4",
+   "op": "text",
+   "en": "A moment later, my throat went burning hot.\nEverything before my eyes turned red.\nHe'd slit my throat!\nI had to call for help.\n...But no voice came out.\nOnly breath, leaking out in wheezes.\nI collapsed.{p}"
+  },
+  {
+   "id": "07:2aaa8",
+   "op": "text",
+   "en": "The last thing I saw was Hino, bathed in my spurting blood, laughing like a demon.{p}"
+  },
+  {
+   "id": "07:2aaf4",
+   "op": "text",
+   "en": "\"...All right.\"\nI knelt and brought my face close to Hino's shoes.\nIf I didn't do it, he'd kill me.\nWith tears of shame in my eyes, I licked his shoes.{p}",
+   "follows_choice": [
+    "07:2a944"
+   ]
+  },
+  {
+   "id": "07:2ab8c",
+   "op": "text",
+   "en": "\"Looks like you mean it. Get up.\"\nHino pulled me to my feet.\n\"In that case, I'll accept you as a fellow member of the Murder Club. Drink this.\"{p}"
+  },
+  {
+   "id": "07:2ac20",
+   "op": "text",
+   "en": "Before I could even feel relieved, I was handed an ampoule.\nThis one was smaller, and the liquid was a pale blue.\n\"This one's not poison.\"\nHino smirked as he said it.{p}Should I drink it?\n"
+  },
+  {
+   "id": "07:2acc4",
+   "op": "choice",
+   "en": "Drink it"
+  },
+  {
+   "id": "07:2acd0",
+   "op": "choice",
+   "en": "Don't drink it"
+  },
+  {
+   "id": "07:2acdc",
+   "op": "text",
+   "en": "\"I can't drink this.\"\nI shook my head.{p}",
+   "follows_choice": [
+    "07:2acd0"
+   ]
+  },
+  {
+   "id": "07:2ad14",
+   "op": "text",
+   "en": "Hino's eyes glinted.{p}"
+  },
+  {
+   "id": "07:2ad38",
+   "op": "text",
+   "en": "I gulped down the contents of the ampoule in one go.\nFor an instant the back of my throat felt cool, and then it flared up hot.{p}",
+   "follows_choice": [
+    "07:2acc4"
+   ]
+  },
+  {
+   "id": "07:2adb8",
+   "op": "text",
+   "en": "\"How is it?\"\nHino asked with a smirk.\n...I felt kind of hot.\nAnd I could feel strength welling up from somewhere deep inside my body.\n\"All right then, starting today we get right to work.\nYou must have someone you want to kill too, right?\"\nHino said.\nOf course I did.\nThe owner of the dog that always barks at me on my way to school.\nThe neighborhood lady who's always bragging that her son got into a better school than me.\nThe English teacher who always calls on me on exactly the days I haven't prepared.\nAnd...{p}"
+  },
+  {
+   "id": "07:2af70",
+   "op": "text",
+   "en": "Hino clapped me on the shoulder like an old pal.\n\"Well, let's take our time with it. The prey isn't going anywhere.\"\n...That's true.\nI thought for a moment, then nodded.\nWhat was that drug Hino made me drink, anyway?\nThe thought crossed my mind.\nBut who cares about that.\nI've got a mountain of things to do.\nRight now, I feel like I could do anything.\nHino was laughing.\nI bet he and I were going to be together for a long time to come.\nI smiled back at my new best friend.{p}"
+  },
+  {
+   "id": "07:2b124",
+   "op": "text",
+   "en": "\"W-wait! I'll join the Murder Club after all!\"\nI said loudly.\nOf course, I didn't mean it.\nI wanted to put him at ease, then look for an opening.{p}",
+   "follows_choice": [
+    "07:11b48"
+   ]
+  },
+  {
+   "id": "07:2b1d0",
+   "op": "text",
+   "en": "\"Huh, changed your mind, have you?\"\nHino grinned.{p}"
+  },
+  {
+   "id": "07:2b230",
+   "op": "text",
+   "en": "Suddenly, my head swam.\nI hurriedly looked at my watch.\nThe count was.................... zero☆\nThe strength was draining from my whole body.\nWas I going to die?\nI...{p}"
+  },
+  {
+   "id": "07:2b2d4",
+   "op": "text",
+   "en": "In the very last moment, I thought I heard Hino laughing.{p}"
+  },
+  {
+   "id": "07:2b30c",
+   "op": "text",
+   "en": "\"Fine, then put in a word for me with Hino.\nI'll join the Murder Club.\"\nI kicked Hosoda in the side.\nHe nodded exaggeratedly.\n\"You're letting me off★\nThank goodness. The ampoule's in the old school building.\nHey, call an ambulance for me...\"{p}",
+   "follows_choice": [
+    "07:edac"
+   ]
+  },
+  {
+   "id": "07:2b3f4",
+   "op": "text",
+   "en": "Maybe out of relief, he collapsed onto the floor the moment he said that.\nA loud crash rang out, like a wardrobe toppling over.\nHosoda was groaning in pain.\nLike this, he's in no shape to put in a word with Hino.\nI'll give up on joining the Murder Club.\nRight now, finding the ampoule comes first.{p}"
+  },
+  {
+   "id": "07:2b4ec",
+   "op": "text",
+   "en": "I left the old school building.{p}",
+   "follows_choice": [
+    "07:f4f0"
+   ]
+  },
+  {
+   "id": "07:2b514",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:2b544",
+   "op": "text",
+   "en": "He sent me flying, then came at me.{p}"
+  },
+  {
+   "id": "07:2b574",
+   "op": "text",
+   "en": "A screwdriver was stuck in Hino's shoulder.\nHe was clutching it, as if to shield the wounded shoulder.\nBlood was faintly seeping out.\n\"...Why didn't you kill me?!\"\nHino screamed.\nThen he glared at me and bit his lip in frustration.\nBlood dripped from the lip he bit so hard.\n\"...Because you're not even worth killing.\"\n\"Just watch! I'll curse you!\nI'll curse you to death!\"\nHino yanked the screwdriver out of his shoulder and stabbed it into his own ear.\n\"Gyah!\"\nHino let out a short groan.\nThen Hino's eyes rolled back until only the whites showed.\n\"...I...'ll... c...urse... y...ou... t...o... d...e...a......th...\"\nHe fell.\nIt wasn't as if I couldn't have foreseen Hino taking his own life.\nBut I wasn't able to stop him.\nI had no time to stop him, and even if I had, would I have stopped Hino?\n\"...If you want to curse me, go ahead. I'm not afraid of your curse.\nThanks to you, I've got the confidence to live strong.\"\nNo answer to my words came back from Hino.\nBy now, he must be riding the train to hell.{p}"
+  },
+  {
+   "id": "07:2b960",
+   "op": "text",
+   "en": "I stepped into the payphone outside the school gate.\nThe morning sun was already starting to show beyond the sky.{p}"
+  },
+  {
+   "id": "07:2b9c4",
+   "op": "text",
+   "en": "I dialed.\n\"...Hello, police? There's been a murder at the school. The school is at.........\"{p}"
+  },
+  {
+   "id": "07:2ba54",
+   "op": "text",
+   "en": "I told them everything and hung up.\nI was abnormally sleepy.\nIt was hard to stay awake any longer.\nI slumped down inside the phone booth as if collapsing.\n...Even keeping my eyes open was hard now.\nI closed my eyes.\nAnd I sank into a deep sleep.\nWhen I wake up, maybe I'll skip school, just for today.\n...As my consciousness faded, the wail of police sirens echoed through my head.{p}"
+  },
+  {
+   "id": "07:2bbb4",
+   "op": "text",
+   "en": "Where should I go?\n",
+   "follows_choice": [
+    "07:81fc",
+    "07:93d8",
+    "07:aefc",
+    "07:dfa8"
+   ]
+  },
+  {
+   "id": "07:2bbc4",
+   "op": "text",
+   "en": "The knife is gone!\nI must have dropped it somewhere.{p}"
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "slice": "S102",
+ "scene": "26",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S101",
+ "next": "S103",
+ "rows": [
+  {
+   "id": "26:dc3c",
+   "op": "text"
+  },
+  {
+   "id": "26:dd60",
+   "op": "text"
+  },
+  {
+   "id": "26:dec8",
+   "op": "text"
+  },
+  {
+   "id": "26:dfe0",
+   "op": "choice"
+  },
+  {
+   "id": "26:dff0",
+   "op": "choice"
+  },
+  {
+   "id": "26:e010",
+   "op": "text",
+   "follows_choice": [
+    "26:dfe0"
+   ]
+  },
+  {
+   "id": "26:e108",
+   "op": "text"
+  },
+  {
+   "id": "26:e164",
+   "op": "text",
+   "follows_choice": [
+    "26:c9f0"
+   ]
+  },
+  {
+   "id": "26:e184",
+   "op": "text"
+  },
+  {
+   "id": "26:e230",
+   "op": "text",
+   "follows_choice": [
+    "26:d58c"
+   ]
+  },
+  {
+   "id": "26:e2dc",
+   "op": "text"
+  },
+  {
+   "id": "26:e3b4",
+   "op": "text"
+  },
+  {
+   "id": "26:e4e0",
+   "op": "text"
+  },
+  {
+   "id": "26:e560",
+   "op": "text"
+  },
+  {
+   "id": "26:e5b0",
+   "op": "text"
+  },
+  {
+   "id": "26:e63c",
+   "op": "text",
+   "follows_choice": [
+    "26:dff0"
+   ]
+  },
+  {
+   "id": "26:e89c",
+   "op": "text"
+  },
+  {
+   "id": "26:e9d4",
+   "op": "text",
+   "follows_choice": [
+    "26:1d04"
+   ]
+  },
+  {
+   "id": "26:ea8c",
+   "op": "text"
+  },
+  {
+   "id": "26:ec30",
+   "op": "text"
+  },
+  {
+   "id": "26:ee50",
+   "op": "text"
+  },
+  {
+   "id": "26:eeec",
+   "op": "text"
+  },
+  {
+   "id": "26:f020",
+   "op": "text"
+  },
+  {
+   "id": "26:f090",
+   "op": "text"
+  },
+  {
+   "id": "26:f10c",
+   "op": "text"
+  },
+  {
+   "id": "26:f14c",
+   "op": "text"
+  },
+  {
+   "id": "26:f280",
+   "op": "text"
+  },
+  {
+   "id": "26:f3b8",
+   "op": "text"
+  },
+  {
+   "id": "26:f3e4",
+   "op": "text"
+  },
+  {
+   "id": "26:f500",
+   "op": "text"
+  },
+  {
+   "id": "26:f5b8",
+   "op": "choice"
+  },
+  {
+   "id": "26:f5c4",
+   "op": "choice"
+  },
+  {
+   "id": "26:f5d4",
+   "op": "choice"
+  },
+  {
+   "id": "26:f5e4",
+   "op": "choice"
+  },
+  {
+   "id": "26:f610",
+   "op": "text",
+   "follows_choice": [
+    "26:f5d4"
+   ]
+  },
+  {
+   "id": "26:f81c",
+   "op": "text"
+  },
+  {
+   "id": "26:f90c",
+   "op": "text"
+  },
+  {
+   "id": "26:fa94",
+   "op": "text"
+  },
+  {
+   "id": "26:fcf4",
+   "op": "text"
+  },
+  {
+   "id": "26:fdb8",
+   "op": "text"
+  },
+  {
+   "id": "26:fe24",
+   "op": "text"
+  },
+  {
+   "id": "26:ffd8",
+   "op": "text"
+  },
+  {
+   "id": "26:100d8",
+   "op": "text"
+  },
+  {
+   "id": "26:10180",
+   "op": "text"
+  },
+  {
+   "id": "26:102a4",
+   "op": "text"
+  },
+  {
+   "id": "26:103b4",
+   "op": "text"
+  },
+  {
+   "id": "26:10528",
+   "op": "text"
+  },
+  {
+   "id": "26:10568",
+   "op": "choice"
+  },
+  {
+   "id": "26:10578",
+   "op": "choice"
+  },
+  {
+   "id": "26:1058c",
+   "op": "text",
+   "follows_choice": [
+    "26:10578"
+   ]
+  },
+  {
+   "id": "26:105c8",
+   "op": "text"
+  },
+  {
+   "id": "26:10680",
+   "op": "text"
+  },
+  {
+   "id": "26:10738",
+   "op": "text"
+  },
+  {
+   "id": "26:107bc",
+   "op": "text"
+  },
+  {
+   "id": "26:108ac",
+   "op": "text"
+  },
+  {
+   "id": "26:10960",
+   "op": "text"
+  },
+  {
+   "id": "26:10a2c",
+   "op": "text"
+  },
+  {
+   "id": "26:10acc",
+   "op": "text"
+  },
+  {
+   "id": "26:10b48",
+   "op": "text"
+  },
+  {
+   "id": "26:10bf8",
+   "op": "text"
+  },
+  {
+   "id": "26:10d64",
+   "op": "text"
+  },
+  {
+   "id": "26:10e60",
+   "op": "text"
+  },
+  {
+   "id": "26:10f48",
+   "op": "text"
+  },
+  {
+   "id": "26:111d8",
+   "op": "text"
+  },
+  {
+   "id": "26:11280",
+   "op": "text"
+  },
+  {
+   "id": "26:11374",
+   "op": "text"
+  },
+  {
+   "id": "26:114d0",
+   "op": "text"
+  },
+  {
+   "id": "26:11710",
+   "op": "text",
+   "follows_choice": [
+    "26:f5b8"
+   ]
+  },
+  {
+   "id": "26:11744",
+   "op": "text"
+  },
+  {
+   "id": "26:11798",
+   "op": "text"
+  },
+  {
+   "id": "26:117ec",
+   "op": "text"
+  },
+  {
+   "id": "26:119fc",
+   "op": "text"
+  },
+  {
+   "id": "26:11a98",
+   "op": "text"
+  },
+  {
+   "id": "26:11b28",
+   "op": "text"
+  },
+  {
+   "id": "26:11bfc",
+   "op": "text"
+  }
+ ]
+}

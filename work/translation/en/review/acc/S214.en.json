@@ -1,0 +1,312 @@
+{
+ "slice": "S214",
+ "scene": "59",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S213",
+ "next": "S215",
+ "todo": [],
+ "rows": [
+  {
+   "id": "59:068c",
+   "op": "text",
+   "en": "I'm Tomoharu Hosoda, a second-year.\nYou're {a}, right?\nBefore we start, I have a favor to ask.\nI'd like you to keep my name out of the article.\nIf you can't promise me that, I can't tell this story.\nOkay?{p}Will you keep me anonymous?\n"
+  },
+  {
+   "id": "59:0750",
+   "op": "choice",
+   "en": "Keep him anonymous"
+  },
+  {
+   "id": "59:075c",
+   "op": "choice",
+   "en": "Publish his name"
+  },
+  {
+   "id": "59:0768",
+   "op": "choice",
+   "en": "Secretly name him in the article"
+  },
+  {
+   "id": "59:0784",
+   "op": "text",
+   "follows_choice": [
+    "59:0750"
+   ],
+   "en": "Good, I'm glad.\nThen I'll talk.\nFirst, let me ask all of you something.{p}"
+  },
+  {
+   "id": "59:07d8",
+   "op": "text",
+   "en": "Has anyone here ever explored the forbidden space in our school?\n...Looks like nobody's raising a hand.\nWell, I guess that's only natural.\nThat place is really bad news.\nHuh? Which place am I talking about?\nThat would be……………………………………a toilet.\nAnd not just any toilet.{p}"
+  },
+  {
+   "id": "59:08f4",
+   "op": "text",
+   "en": "It's the toilet that won't flush.{p}"
+  },
+  {
+   "id": "59:0928",
+   "op": "text",
+   "en": "Well...?\nJust hearing that, you can imagine how terrifying this toilet is.\nYou rush into a stall in a hurry.\nAnd then, once you've finished your business, the toilet won't flush...\nThat kind of panic is like nothing else, right?\nIt must feel exactly like seeing heaven and hell all at once.{p}"
+  },
+  {
+   "id": "59:0a30",
+   "op": "text",
+   "en": "Actually, I'm the type who sees spirits pretty easily.\nSo Hino was always asking me.\nHe wanted an article out of it, so he really wanted me to go do a report on the forbidden restroom.{p}"
+  },
+  {
+   "id": "59:0adc",
+   "op": "text",
+   "en": "That restroom is pretty famous, you know.\nIt's claimed a lot of victims in the past.\nMost people who go in there end up feeling sick and get sent to the nurse's office.\nAfter a while, once they're feeling better, they have to clean the toilet that won't flush themselves.\nWhy does everyone who uses that toilet get sick?\nAt first, I figured they felt sick from panicking when the toilet wouldn't flush.\nBut the reason wasn't that simple.{p}"
+  },
+  {
+   "id": "59:0c70",
+   "op": "text",
+   "en": "This was just the other day.\nHino came to me with his plan for this seven wonders meeting.\nHe said he wanted me to present that report on the forbidden restroom he'd been asking me for.\nHonestly, I wasn't too keen on it.\nA terrifying, unnatural aura always hung around that restroom.{p}"
+  },
+  {
+   "id": "59:0d88",
+   "op": "text",
+   "en": "Well, there are lots of ghost stories about restrooms, and plenty of restrooms have an aura.\nBut for some reason, that was the one restroom I didn't want to go to.\nAn aura that keeps you away... I guess you could call it that.\nI could feel it so strongly it hurt.\nBut it was Hino asking, of all people.\nSo I decided to explore the forbidden restroom.\nOf course, before I went there, I made sure to do my business in a different restroom.\nI didn't want to become a victim of the toilet that won't flush.{p}"
+  },
+  {
+   "id": "59:0f4c",
+   "op": "text",
+   "en": "And so, one day after school, I went to the toilet that won't flush.\nIt was filled with an overwhelming aura.\nFirst, I peeked into the stalls one by one.\nOne of the toilets was giving off an especially strong aura.{p}"
+  },
+  {
+   "id": "59:100c",
+   "op": "text",
+   "en": "...I was sure that bowl was the toilet that won't flush.\nI searched the stall all over, but there was nothing especially suspicious.\nI could feel an overwhelming aura, but I couldn't tell where it was coming from.\nSo I decided to try squatting down over the toilet for a bit.\n...Sorry, it's a weird thing to talk about.\nSuddenly, I felt an overwhelming aura behind me.\nIt felt like someone was staring right at me.{p}"
+  },
+  {
+   "id": "59:1180",
+   "op": "text",
+   "en": "\"Who's there?\"\nI muttered it without thinking, but nobody answered me.{p}"
+  },
+  {
+   "id": "59:11e0",
+   "op": "text",
+   "en": "I stayed there with my head down for a while, feeling that aura.\n...I see. So this is how everyone ended up feeling sick.\nThat's what I thought right away.\nEven so, an aura that strong, and I couldn't see anything?\nI couldn't believe it.\nJust then, I suddenly heard a voice from behind me.\n\"Wrong...\"\nWhat was wrong?{p}"
+  },
+  {
+   "id": "59:1320",
+   "op": "text",
+   "en": "I turned around one more time.\nBut sure enough, there was nobody there.\n\"You can't see me, can you?\n...Nobody can.\"\nI heard a sad voice.\n\"And when I touch people, nobody notices.\nIt's the same with you, right?\n...See, I'm touching your shoulder right now.\nYou can't tell, can you?\"{p}"
+  },
+  {
+   "id": "59:145c",
+   "op": "text",
+   "en": "A chilly sensation spread across my shoulder.\n\"I-I can tell...\"\nThat's what I answered.\nSo there really was a ghost in the forbidden toilet that won't flush.\nI decided to find out more about this ghost.\n\"This aura hanging in the restroom is yours, isn't it?\nWhy are you giving off such a powerful aura?\"\n\"...I can't leave this place.\nMore importantly, I have to find that guy.\"\n\"What guy?\"\n\"I don't even know his name.\nI don't know his face, either.\nBut I have to find him...\"\n\"Then how are you supposed to find him?\"{p}"
+  },
+  {
+   "id": "59:164c",
+   "op": "text",
+   "en": "\"I have to find him...\"\nAfter saying that, the voice went silent.{p}"
+  },
+  {
+   "id": "59:16ac",
+   "op": "text",
+   "en": "The next day after school, I reported to Hino.\nI told him there was the ghost of a man in the forbidden restroom.\n\"That's amazing, Hosoda.\nYou've got to find out who that man really is.\nMan, I knew you'd pull it off.\"\n\"Yes, I'm heading to that restroom again today.\"\nHino looked really pleased.\nWith that much riding on me, there was no backing out now, right?{p}"
+  },
+  {
+   "id": "59:1804",
+   "op": "text",
+   "en": "Besides, the ghost in the forbidden restroom sounded so lonely.\nI thought maybe I wouldn't mind being his friend.\nI mean, he didn't seem like a bad guy.{p}{a}, do you think that's strange?\n"
+  },
+  {
+   "id": "59:18d4",
+   "op": "choice",
+   "en": "Yes, I do"
+  },
+  {
+   "id": "59:18dc",
+   "op": "choice",
+   "en": "No, I don't"
+  },
+  {
+   "id": "59:18f0",
+   "op": "text",
+   "follows_choice": [
+    "59:18dc"
+   ],
+   "en": "...Thank you.\nI think you and I could be good friends, too.{p}"
+  },
+  {
+   "id": "59:1940",
+   "op": "text",
+   "en": "I headed for the forbidden restroom.\nWhen I went into that stall, I heard the voice again.{p}"
+  },
+  {
+   "id": "59:19a0",
+   "op": "text",
+   "en": "\"Wrong...\"\nThe ghost said the same thing again.\n\"What exactly is wrong?\"\nWhen I asked, he said this:\n\"You're not the man I'm looking for...\"{p}"
+  },
+  {
+   "id": "59:1a48",
+   "op": "text",
+   "en": "\"A man? Who are you looking for?\"\n\"......\"\n\"Why are you looking for this man?\"\n\"I don't know. I don't know. I don't know anything...\"{p}"
+  },
+  {
+   "id": "59:1b08",
+   "op": "text",
+   "en": "Suddenly, the stall door flew open.\nA strong wind blew through the restroom.\nMy legs gave out from under me.\nI couldn't move for a while.{p}"
+  },
+  {
+   "id": "59:1b90",
+   "op": "text",
+   "en": "\"I don't know, I don't know, I don't know...\"\nThe ghost said it like it was tearing him apart.\nI couldn't bear it.\nI wanted so badly to help him.{p}"
+  },
+  {
+   "id": "59:1c2c",
+   "op": "text",
+   "en": "\"Hey, isn't it impossible to find someone when you don't know who they are?\"\nI shouted as hard as I could so the wind wouldn't drown me out.{p}"
+  },
+  {
+   "id": "59:1ca4",
+   "op": "text",
+   "en": "\"It's not impossible. I'll never forget the sight of his back...\"\nThat's what he said.{p}"
+  },
+  {
+   "id": "59:1d08",
+   "op": "text",
+   "en": "...So here's what it came down to.\nThe ghost remembered a certain man from behind.\nAnd he was searching for that man.\nWhy, even he didn't know.\nI promised I'd help him look.{p}"
+  },
+  {
+   "id": "59:1df0",
+   "op": "text",
+   "en": "\"...Thank you.\nThen from now on, will you watch the backs of the people who come into this restroom, too?\"\n\"Hold on a second.\nI don't want to spy on people using the toilet.\nBesides, you might not know this, but this place is called the forbidden restroom.\nHardly anyone ever comes here, right?\nThis is a bad place to look for someone.\"\n\"But I can't leave here.\"\n\"Why not?\"\n\"I don't know...\"{p}"
+  },
+  {
+   "id": "59:1f68",
+   "op": "text",
+   "en": "Why couldn't he leave the restroom?\nI wanted to get to the bottom of it.\nSo I decided to look around a little.\nThere didn't seem to be anything unusual about the stall.\nThere was no graffiti on the walls, and there was water in the toilet bowl, the way there should be.{p}"
+  },
+  {
+   "id": "59:2068",
+   "op": "text",
+   "en": "...I stared at the toilet and thought.\n"
+  },
+  {
+   "id": "59:2098",
+   "op": "choice",
+   "en": "Examine the toilet more closely"
+  },
+  {
+   "id": "59:20b4",
+   "op": "choice",
+   "en": "Stick my hand in the toilet"
+  },
+  {
+   "id": "59:20d0",
+   "op": "choice",
+   "en": "Clean it"
+  },
+  {
+   "id": "59:20dc",
+   "op": "choice",
+   "en": "Pray to it"
+  },
+  {
+   "id": "59:20e4",
+   "op": "choice",
+   "en": "Check if something's clogging it"
+  },
+  {
+   "id": "59:2100",
+   "op": "text",
+   "follows_choice": [
+    "59:20e4"
+   ],
+   "en": "I took a plunger out of the cleaning closet.\nThen I probed deep down into the toilet.\nOut came a commuter pass case.{p}"
+  },
+  {
+   "id": "59:2190",
+   "op": "text",
+   "en": "There was a photo of a girl inside it.\n\"Hosoda...!\"\nA voice came from behind me.{p}"
+  },
+  {
+   "id": "59:21f0",
+   "op": "text",
+   "en": "\"I remember now.\nThat's my little sister...☆\"\n...Something cold touched me around the neck.\nHe had put his hand there.\nIt felt eerily real, and I spun around with a start.{p}"
+  },
+  {
+   "id": "59:22ac",
+   "op": "text",
+   "en": "...I could see his spirit body clearly.\nMaybe because he'd remembered what it was like when he was alive.\nThen a cold wind blew against the nape of my neck.\nIt seemed to be his breath.\nI heard him panting... hah... hah... like he was in pain.\nHe seemed terribly worked up.{p}"
+  },
+  {
+   "id": "59:23a0",
+   "op": "text",
+   "en": "\"I hate... I hate...\"\nHe started saying things like that.\n\"What do you hate?\nDo you hate your sister?\"\n\"I hate... I hate...☆\"\nThe voice got even louder.\nHis emotions must have been running really high.\nHe just kept saying \"I hate\" over and over, and he wouldn't answer me.{p}"
+  },
+  {
+   "id": "59:24b4",
+   "op": "text",
+   "en": "Then the restroom door and windows started to rattle.{p}Spirit rapping, I guess you'd call it.\nIt was incredibly violent.\n"
+  },
+  {
+   "id": "59:2518",
+   "op": "choice",
+   "en": "Talk it out"
+  },
+  {
+   "id": "59:2524",
+   "op": "choice",
+   "en": "Run away"
+  },
+  {
+   "id": "59:2560",
+   "op": "text",
+   "follows_choice": [
+    "59:2524"
+   ],
+   "en": "I decided to retreat for the time being.\nI left the stall right away and went out into the hallway.{p}"
+  },
+  {
+   "id": "59:25a8",
+   "op": "text",
+   "en": "The rapping echoed loudly even out there.\nAnd I could hear something like sobbing, too.\nI left the place for the time being.{p}"
+  },
+  {
+   "id": "59:2640",
+   "op": "text",
+   "en": "The next day, when I went to the forbidden restroom, there was no sign of the ghost.\nWhere could he have gone?\nI searched all kinds of restrooms around the school.\nBut I couldn't find out where he'd gone.\nThen a thought struck me.{p}"
+  },
+  {
+   "id": "59:271c",
+   "op": "text",
+   "en": "Maybe what had kept him tied to the forbidden restroom was that photo of the girl.\nMaybe since the photo had come out of the toilet, he didn't need to stay there anymore.\nIf that was it, there was no point searching other restrooms, right?{p}"
+  },
+  {
+   "id": "59:27f8",
+   "op": "text",
+   "en": "That meant the search area got a lot bigger.\nI searched all over the place during breaks and after school.{p}"
+  },
+  {
+   "id": "59:286c",
+   "op": "text",
+   "en": "...He wasn't anywhere.\nI was worn out from searching and thought I'd just go home.\nSo I decided to take one more look at the forbidden restroom before I left.{p}"
+  },
+  {
+   "id": "59:28f4",
+   "op": "text",
+   "en": "When I went into the forbidden restroom, I felt a chill touch me from behind.\n...It was him.\n\"Hosoda, I remember everything now.\"\nHis voice was quiet.\n\"So, I have a favor to ask...\"\nIf he'd still been alive, he would have been drenched in clammy sweat.\nThat was the feeling he gave off.\n\"You're the only one I can ask to do something like this.\"\nThat's what he said.\nAnd then he told me the whole story.\nIt was something that happened about two years ago.{p}"
+  },
+  {
+   "id": "59:2a8c",
+   "op": "text",
+   "en": "...His name was Yoshinori Inoue.\nHe said he'd been walking home from school with his little sister when a hit-and-run driver struck them.\nAnd his sister died.{p}"
+  },
+  {
+   "id": "59:2b20",
+   "op": "text",
+   "en": "The car that did it was one that drove a student from our school to and from school.\nIt seems some students got a ride to school by car now and then.\nWhat he saw as he was hit was the back of a student in our uniform, inside the car as it drove away.\nInoue decided he would find out who that student was.{p}"
+  },
+  {
+   "id": "59:2c44",
+   "op": "text",
+   "en": "Of course, it was the driver who did the hit-and-run.\nBut he couldn't forgive the student who'd been riding in that car for going to school like nothing had happened.\nHe said he'd been angry enough to want to kill him.{p}"
+  }
+ ]
+}

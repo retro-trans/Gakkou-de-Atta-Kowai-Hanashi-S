@@ -1,0 +1,28 @@
+{
+ "rows": {
+  "58:0c04": "At that moment, Kazama's eyes glinted.\n\"Oh, come on, you don't believe my story?\nThat won't do.\nBy the time something happens, it'll be too late.\nIf you absolutely insist on going home alone, then learn this charm before you go.\nIt goes 'Amazak, Amazak, Amazak...'\nYou shout it at the ghost over and over.\nGot it?{p}",
+  "58:0e10": "\"So long, then. Adieu.\"\nAdieu, my foot.\nHey, what do I do now?\nDo I really have to go home with this guy?\nEveryone came out of the club room one after another.\nThey each walked off down the dark hallway in different directions.\n\"Come on, let's go home.\nStill, that Hino... having a junior this cute. I'm jealous.\"\nKazama was beaming.\n\"If you like, I could walk you home every day, starting today.{p}Oh, that'd make us just like a couple, wouldn't it, ha ha ha ha...\"\n",
+  "58:3670": "\"Hmm...\"\nAt that, Kazama knit his brows.\n\"You're pretty good.\"\nWith that, he closed his eyes and started mumbling something.\nWhat's he going to say this time?\n\"Lovely, isn't it, hih hih hih hih...\"\n...What?\nWhat's lovely?\nAnd what's with the 'hih hih hih hih'?{p}",
+  "58:1030": "It's fine, I told you.\nI'll protect you, no matter what.\nOoh-hoo-hoo.\"\nHe's got completely the wrong idea.{p}",
+  "58:120c": "\"{b}, which way is your house?\"\nBefore I knew it, we had passed through the school gate.\nWhat should I do?\nTelling him where I live is a bit...{p}But I can't exactly say farewell right here, either...\n",
+  "58:38b8": "\"{b}, which way is your house?\"\nBefore I knew it, we'd reached the school gate.\nWhat should I do?\nThere's something weird about this guy.\nWill I be okay walking home with him?\nBut I can't exactly say farewell right here, either...{p}",
+  "58:13a4": "\"...The moon is lovely tonight, isn't it?\"\nAfter we had walked a while, Kazama suddenly came out with that.\n...Huh?\nHis eyes had gone completely glassy and fixed.\nThe mood was getting a little suspicious.{p}",
+  "58:1d70": "\"Oh, I feel bad.\nYou even treated me to tea.\"\nA few minutes later, I was serving Kazama tea and snacks.\nAll because he went and said to whoever in my family answered the door,\n\"How do you do.\nClub activities kept {b} late, so I've come to see her home,\"\nor something like that.\nMy family didn't know what was going on, so it turned into 'Oh, thank you so much, please come in and have some tea...'\nKazama took a breather and said,{p}",
+  "58:2230": "\"I've got a girl I've sworn to spend my future with.\nWhy, I've just come from greeting her parents, you know?\nThinking you could go after someone like me? How naive.\"\nHe was saying things that made no sense.\nWho on earth is this guy?\nRather than a saint, isn't he just wildly delusional?{p}",
+  "58:28b0": "Fine, if he'll protect me.\nWhen I leaned into him, I heard a whistle from somewhere.\n\"Who's that, teasing us... hm?\"{p}"
+ },
+ "notes": [
+  "58:0e10: EDIT - returns (rhyme): added tag 'wouldn't it' (= JP da ne) so the player's 'So it would' echoes it",
+  "58:0fd0: KEEP - returns (rhyme): 'So it would, hee hee hee hee...' already answers the new 'wouldn't it'; 58:3628 echo unchanged",
+  "58:3670: EDIT - returns (rhyme): 'How lovely' -> 'Lovely, isn't it' to complete the tag-plus-laugh pattern of 58:0e10/0fd0; 'What's lovely?' still follows",
+  "58:120c: EDIT - returns (pun): 'say goodbye' -> 'say farewell' so 58:396c 'I can't say farewell... Fart-well' lands on the echoed word",
+  "58:38b8: EDIT - same returns note: 'say goodbye' -> 'say farewell' for the 58:396c pun",
+  "58:396c: KEEP - returns note settled by the 120c/38b8 edits",
+  "58:1d70: EDIT - returns: 'took a breath' -> 'took a breather' (settling in after tea); also untangled 'to my family member who opened the door, he went and said' word order",
+  "58:1030: EDIT - Kazama's laugh (JP u-fufufu) was 'Heh heh heh', which is Iwashita's laugh; -> 'Ooh-hoo-hoo'. 'has got it badly wrong' -> clearer 'He's got completely the wrong idea'",
+  "58:0c04: EDIT - 'Once something happens, it'll be too late' -> 'By the time something happens...' (clarity)",
+  "58:13a4: EDIT - 'the mood felt shady' (clumsy) -> 'The mood was getting a little suspicious'",
+  "58:2230: EDIT - doubled 'you know' removed; 'You're way too naive' -> 'How naive.' to sound like Kazama's taunt",
+  "58:28b0: EDIT - echo now matches choice 58:0990 wording ('Fine, if he'll protect me'), like the other choice echoes in this scene"
+ ]
+}

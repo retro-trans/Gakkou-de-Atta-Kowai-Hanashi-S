@@ -1,0 +1,10 @@
+{
+ "rows": {
+  "65:07e8": ".........Not yet?\nHey, just look for it tomorrow.\nYou're going to lock the club room when we leave, right?\nThen there's no way it'll go missing, is there?\nLook, I'm turning off the lights.\nEveryone out.{p}"
+ },
+ "notes": [
+  "65:07e8: FIX dots - source has a 6-character silence run before \"not yet?\"; restored to 9 dots (was 6).",
+  "65:0990: TODO - slice already uses \"the reflection room\" (0990, 0a80, 0b1c sticker \"Reflection Room\") and \"apology letters\" (0b1c, 0cdc); nothing to unify here, the detention room / apology essay variants are in S235/S236.",
+  "65:1104: UNSURE - Miya Hashimoto gender left unstated in this slice (no pronoun used); S235/S236 treat her as female."
+ ]
+}

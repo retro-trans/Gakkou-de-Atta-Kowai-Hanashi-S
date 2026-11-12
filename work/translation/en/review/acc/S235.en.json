@@ -1,0 +1,423 @@
+{
+ "slice": "S235",
+ "scene": "68",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S234",
+ "next": "S236",
+ "todo": [],
+ "rows": [
+  {
+   "id": "68:0830",
+   "op": "text",
+   "en": "\"Help me.\"\nHe took hold of my hand.\n\"I've asked a lot of people for help before you.\nKazama, Iwashita, Shindo, Hosoda, Arai... I lured every one of them in with a vision of the textbook, and I talked to them.\nI was testing whether they would help me.\nBut not one of them could do it.\nThat's how it always goes, huh.\nThey call them ghost stories and turn other people's lives into material, while they go on living without a care in the world.\nLet me tell you something: you never know when misfortune's going to come crashing down on you.\nJust like it did on me...\"\n...Who on earth is this person?\nIf he showed them a vision of the textbook... is he Kawahara?\nWhen I asked, he nodded silently.\n\"Right now I'm testing Fukuzawa.\nIf she fails, I'll be testing you next.\"\nTesting me?\nWhat is he going to do?\n\"..........It's no good.\nDamn that Fukuzawa, she blew it.\nYou're next, {a}.\nPlease, help me........................\"{p}"
+  },
+  {
+   "id": "68:0b48",
+   "op": "text",
+   "en": "What is he talking about?\nHow am I supposed to help him?{p}"
+  },
+  {
+   "id": "68:0ba4",
+   "op": "text",
+   "en": "For an instant, a strong wind blew.\nAs if swept away by it, the darkness that had covered everything around me faded.{p}"
+  },
+  {
+   "id": "68:0c24",
+   "op": "text",
+   "en": "And then I was back in the reflection room.\n\"Are you all right, {a}?\"\nIwashita glanced at my face.{p}"
+  },
+  {
+   "id": "68:0c90",
+   "op": "text",
+   "en": "\"You collapsed all of a sudden, so I was wondering what happened.\"\nHosoda held out his hand.\nWith his help, I got to my feet.\n...Was it just my imagination that I saw Kawahara a moment ago?\nThen I noticed that Fukuzawa had come back.\nShe was slumped on the floor, completely limp.\n\"Um, what's wrong with Fukuzawa?\"{p}"
+  },
+  {
+   "id": "68:0db0",
+   "op": "text",
+   "en": "\"She came back a minute ago, and then she just dropped like that.\"\nShindo said it as if he couldn't care less.\nFukuzawa was clutching a textbook in her hand.\n\"Um, that thing Fukuzawa's holding...\"{p}"
+  },
+  {
+   "id": "68:0e70",
+   "op": "text",
+   "en": "\"Is something wrong with her hand?\nShe isn't holding anything, is she?\"\nArai muttered under his breath.{p}"
+  },
+  {
+   "id": "68:0eec",
+   "op": "text",
+   "en": "Could it be that what's in her hand is that textbook?\nWas everyone leaving their seats earlier because this textbook was calling them?\nMaybe only the people it's calling can see this textbook.\nHe said it was my turn next.\nI picked up the textbook and opened it.\nAnd once again, the world around me changed.{p}"
+  },
+  {
+   "id": "68:1014",
+   "op": "text",
+   "en": "..........The classroom was buzzing with voices.\nI didn't recognize a single face.\nWhich class is this?\nThen I noticed a girl sitting all alone at a desk off at the edge of the room.\nSomeone was gossiping.\n\"That's her, isn't it? The girl who sent Kawahara a letter.\"\n\"They say Kawahara kept carrying around the textbook with the letter in it.\nSo a teacher got the wrong idea and chased him, and he ended up falling down the stairs.\"\n\"A teacher chased him?\"\n\"You know, they said the exam questions were stolen.\nHe was a suspect.\"\n\"Whaaat? But why didn't he just say he didn't have them?\"\n\"Maybe he didn't want them saying, 'Then show us that textbook'?\"\n\"What do you mean?\"\n\"How should I know?\nMaybe he didn't want anyone to see Hashimoto's letter inside the textbook.\"\n\"You mean he was embarrassed?\nWhat is that? That makes me so mad.\"\nThe gossiping girls went over to the girl sitting at the desk at the edge.\n\"You're the worst.\"\nThat was all they said, and then they walked away.\nThe girl they'd said it to kept her eyes on the floor.\nSo she's the one who sent Kawahara the love letter.\n...Hashimoto, was it?\nOh, she's put her head down on the desk.\nIs she crying?\nAfter a while, she left the classroom.{p}"
+  },
+  {
+   "id": "68:1454",
+   "op": "text",
+   "en": "Hey, what about class?\nIs she planning to skip it?\n"
+  },
+  {
+   "id": "68:1484",
+   "op": "choice",
+   "en": "Call out to her"
+  },
+  {
+   "id": "68:1490",
+   "op": "choice",
+   "en": "Go after her"
+  },
+  {
+   "id": "68:14b8",
+   "op": "text",
+   "follows_choice": [
+    "68:1490"
+   ],
+   "en": "I'll go after her.{p}"
+  },
+  {
+   "id": "68:14d0",
+   "op": "text",
+   "en": "She ran off down the hallway.{p}"
+  },
+  {
+   "id": "68:1524",
+   "op": "text",
+   "en": "And then I came to the girls' restroom.\nShe was washing her face at the sink.\n\"Nooo, I'm in shock!\nI really liked Kawahara, too!\"\nA different group of girls from the one before came into the restroom.\nMore gossip about Kawahara...{p}"
+  },
+  {
+   "id": "68:15ec",
+   "op": "text",
+   "en": "Hashimoto fled and bumped into one of the girls.\n\"Eek!\"\n\"Owww, what's your problem?\"\n\"What's with her? She didn't even apologize.\"\nHashimoto ran off.\nWhat on earth am I looking at?\nIs this the world after Kawahara died?\nHe told me to help him, but if he brought me to the world after his own death, there's no way I can help him, is there?\n...For now, I'll try following Hashimoto.\nShe's definitely mixed up in all this.{p}"
+  },
+  {
+   "id": "68:17a4",
+   "op": "text",
+   "en": "When I stepped into the hallway, Hashimoto was nowhere to be seen.\nWhere did she go?\nMaybe I should try going back to the classroom.{p}"
+  },
+  {
+   "id": "68:1820",
+   "op": "text",
+   "en": "While I was thinking that, the bell rang for class to start.\nClass, huh...\nI can hardly sit in on a lesson at the school from back then.\nI'll stay in the hallway for a while.{p}..........Still, this is boring.\nI can't hang around in the hallway for almost a whole hour.\n"
+  },
+  {
+   "id": "68:1900",
+   "op": "choice",
+   "en": "Go to the nurse's office"
+  },
+  {
+   "id": "68:1910",
+   "op": "choice",
+   "en": "Go to the roof"
+  },
+  {
+   "id": "68:192c",
+   "op": "text",
+   "follows_choice": [
+    "68:1900"
+   ],
+   "en": "That's it, maybe I'll go to the nurse's office.\nI could pretend I'm sick and lie down on one of the beds.\nI'm tired, too.\n...Should I really be doing this?\nBut I can't do anything until class is over, so it can't be helped.{p}"
+  },
+  {
+   "id": "68:1a0c",
+   "op": "text",
+   "en": "When I got to the nurse's office, someone was already sleeping there.\nOh well, there are other beds... Huh?\nIt's Hashimoto!\nSo she didn't go back to the classroom after all.\nShe was sleeping quietly.\nI wonder if she's feeling sick...{p}"
+  },
+  {
+   "id": "68:1ad8",
+   "op": "text",
+   "en": "As I watched her, the chime for the end of class began to ring.\nI looked at the clock in the nurse's office.\nAt this hour, classes should be over for the day.\nI wonder if Hashimoto's going straight home.{p}"
+  },
+  {
+   "id": "68:1b88",
+   "op": "text",
+   "en": "The chime woke Hashimoto up.\n\"Hello.\"\n\"...?\"\nHashimoto couldn't say a word.\nShe seemed frightened.\n\"Um, my name's {a}.\"\n\"......\"\nShe stayed silent.\n\"Are you okay?\nAre you feeling sick?\"{p}"
+  },
+  {
+   "id": "68:1c84",
+   "op": "text",
+   "en": "\"......\"\nHashimoto hung her head.\n"
+  },
+  {
+   "id": "68:1cb8",
+   "op": "choice",
+   "en": "Ask her about Kawahara"
+  },
+  {
+   "id": "68:1cd0",
+   "op": "choice",
+   "en": "Leave"
+  },
+  {
+   "id": "68:1cdc",
+   "op": "text",
+   "follows_choice": [
+    "68:1cb8"
+   ],
+   "en": "\"Hey, I wanted to ask you about Kawahara.\"\n\"......\"\nShe sighed, still looking down.\nHer face looked utterly worn out.\n\"I'm sorry, but this is hard for me too.\"\nWith that, Hashimoto jumped down off the bed.{p}"
+  },
+  {
+   "id": "68:1dc8",
+   "op": "text",
+   "en": "\"Ah, wait a second!\"\nAs I reached out to catch her, the textbook fell from my hand.\nWhen she saw it, her face went rigid.{p}"
+  },
+  {
+   "id": "68:1e44",
+   "op": "text",
+   "en": "\"That's...\"\nShe pointed at the textbook on the floor.\nCan she tell it's Kawahara's textbook?{p}"
+  },
+  {
+   "id": "68:1eb0",
+   "op": "text",
+   "en": "Hashimoto picked it up and flipped through the pages.\n\"Why do you have this, {a}?\"\nThere was a letter inside the textbook.\nThis must be her love letter.\n\"Kawahara left it with me.\"\nI answered briefly.\n\"......\"{p}"
+  },
+  {
+   "id": "68:1fac",
+   "op": "text",
+   "en": "She stood there without a word for a while, then suddenly clutched the textbook to her chest and broke into a run.\n\"Hey, wai...\"\nI hurried after her.\nWhat's gotten into her?\nShe ran straight to the nearby stairs and tried to throw herself down them.\nOh no!\nIs Kawahara's grudge clinging to the textbook or something?\n...No way, did he want to kill Hashimoto?{p}It's true that if she hadn't slipped that letter in, he might not have died, but...\n"
+  },
+  {
+   "id": "68:2124",
+   "op": "choice",
+   "en": "Save Hashimoto"
+  },
+  {
+   "id": "68:2138",
+   "op": "choice",
+   "en": "Watch what happens"
+  },
+  {
+   "id": "68:2158",
+   "op": "text",
+   "follows_choice": [
+    "68:2124"
+   ],
+   "en": "\"Look out☆\"\nI yanked hard on Hashimoto's hand.{p}"
+  },
+  {
+   "id": "68:219c",
+   "op": "text",
+   "en": "She lost her balance and caught herself with her hands on the stairs.\n\"Aaah!\"\nShe seemed to have hit her palms hard.\nShe narrowed her eyes in pain.\n...A tear fell from those eyes.{p}"
+  },
+  {
+   "id": "68:2248",
+   "op": "text",
+   "en": "\"I just want to die.\"\nShe burst into tears.{p}What? So Hashimoto was trying to jump of her own free will?\n"
+  },
+  {
+   "id": "68:22c0",
+   "op": "choice",
+   "en": "You can't do something like that"
+  },
+  {
+   "id": "68:22dc",
+   "op": "choice",
+   "en": "Is something troubling you?"
+  },
+  {
+   "id": "68:22f0",
+   "op": "text",
+   "follows_choice": [
+    "68:22c0"
+   ],
+   "en": "\"You can't do something like that.\"{p}"
+  },
+  {
+   "id": "68:2314",
+   "op": "text",
+   "en": "\"......\"\nShe stayed silent.\nWas she the one Kawahara meant when he asked me to help him?\nBut if the rumor that she killed herself is true, then the past can't be changed, can it?{p}...What should I do?\n"
+  },
+  {
+   "id": "68:23d4",
+   "op": "choice",
+   "en": "Try to talk her out of it"
+  },
+  {
+   "id": "68:23e8",
+   "op": "choice",
+   "en": "Give up"
+  },
+  {
+   "id": "68:23f4",
+   "op": "text",
+   "follows_choice": [
+    "68:23d4"
+   ],
+   "en": "\"Um, Hashimoto.\"{p}"
+  },
+  {
+   "id": "68:2418",
+   "op": "text",
+   "en": "\"Huh? How do you know my name?\"\n\"Well... let's just say I do.\nMore importantly, Kawahara was worried about you.\"\n\"That's a lie... Why would he be?\"\n\"I met his ghost.\nHe asked me to help you.\nSo you mustn't kill yourself.\"\n\"Telling lies like that.\nSo you're making fun of me too.\nEveryone's like that.\nThey spread all kinds of rumors.{p}They even write horrible things on my desk, signed 'From Kawahara.'\"\n"
+  },
+  {
+   "id": "68:25b4",
+   "op": "choice",
+   "en": "That's terrible..."
+  },
+  {
+   "id": "68:25c0",
+   "op": "choice",
+   "en": "It can't be helped"
+  },
+  {
+   "id": "68:25d0",
+   "op": "choice",
+   "en": "But it's not your fault"
+  },
+  {
+   "id": "68:2608",
+   "op": "text",
+   "follows_choice": [
+    "68:25d0"
+   ],
+   "en": "\"...Even so, Kawahara died.{p}"
+  },
+  {
+   "id": "68:2638",
+   "op": "text",
+   "en": "So I'm going to die too.\nAnd I'll curse the people who blamed me.\"\n"
+  },
+  {
+   "id": "68:2674",
+   "op": "choice",
+   "en": "Is that how you really feel?"
+  },
+  {
+   "id": "68:2684",
+   "op": "choice",
+   "en": "You can't do that"
+  },
+  {
+   "id": "68:26a8",
+   "op": "text",
+   "follows_choice": [
+    "68:2674"
+   ],
+   "en": "\"It's not that I want to curse anyone.\nI did something terrible to Kawahara.\nI'm not allowed to go on living.\"{p}"
+  },
+  {
+   "id": "68:2704",
+   "op": "text",
+   "en": "...Behind her as she said it, a teacher I'd never seen before appeared.\n\"Hashimoto, what are you doing?\nYou were supposed to report to the reflection room today.\"{p}"
+  },
+  {
+   "id": "68:278c",
+   "op": "text",
+   "en": "\"Oh... yes.\"\nHashimoto was led away by the teacher.\nThe reflection room?\nCould it be she's going to write that piece I read?\nThen this is bad.\nHashimoto's going to kill herself today!\nI have to get to the reflection room!\nI went after them right away.\nI pressed my ear to the reflection room door and listened to what was going on inside.{p}"
+  },
+  {
+   "id": "68:28a4",
+   "op": "text",
+   "en": "Apparently she'd been called in for something that had nothing to do with Kawahara.\nShe was being told off about her uniform or something, and she was handing over her student handbook.\nMaybe she got caught in a surprise inspection or something like that.\n\"Well then, write up your apology.\"\nWith that, the teacher got up from the chair.{p}"
+  },
+  {
+   "id": "68:29a8",
+   "op": "text",
+   "en": "Oh, the teacher's coming out into the hallway.\nI have to hide.\nI shifted to a spot where the teacher couldn't see me.\nOnce the teacher was gone, I slipped into the reflection room.{p}"
+  },
+  {
+   "id": "68:2a44",
+   "op": "text",
+   "en": "She was writing the first line of her apology.\n\"It's my fault that Kawahara died.\"{p}...I knew it.\nNo, don't write something like that.\n"
+  },
+  {
+   "id": "68:2ac4",
+   "op": "choice",
+   "en": "Tear up the apology"
+  },
+  {
+   "id": "68:2ad4",
+   "op": "choice",
+   "en": "Talk her out of it"
+  },
+  {
+   "id": "68:2ae0",
+   "op": "text",
+   "follows_choice": [
+    "68:2ac4"
+   ],
+   "en": "\"Hashimoto!\"\nI tried to tear up the apology lying in front of her.\nThe moment I did, I was engulfed in a blinding light.{p}"
+  },
+  {
+   "id": "68:2b54",
+   "op": "text",
+   "en": "No, I can't get near her☆\nWhat's happening?\nMy head hurts☆{p}"
+  },
+  {
+   "id": "68:2bac",
+   "op": "text",
+   "en": "..................When the light died down and I opened my eyes, Fukuzawa was peering down at me.\n\"Thank goodness, {b}.\nI thought you were never going to wake up.\"{p}"
+  },
+  {
+   "id": "68:2c38",
+   "op": "text",
+   "en": "\"You certainly kept us waiting long enough.\"\nAh, Iwashita...\nEveryone else is here too.\nI see, I'm back in the present again.{p}"
+  },
+  {
+   "id": "68:2cac",
+   "op": "text",
+   "en": "\"It's no use after all. Hashimoto killed herself.\"\nJust then, Kawahara's voice came from somewhere.\nSo Hashimoto died in the end...?\n\"You ask other people to help you, but can't you do anything yourself, Kawahara?\"\nWhen I said that, he fell silent for a while, then murmured quietly.\n\"I did what I could, you know.\nI wrote a message on her desk.\nBut it never got through to her...\"\nWith only that, Kawahara's voice was gone.\nOh, now that I think about it...\nHashimoto said something, didn't she?\nThat things get written on her desk, signed 'From Kawahara.'{p}"
+  },
+  {
+   "id": "68:2eb0",
+   "op": "text",
+   "en": "\"Ah, {b}, where are you going?\"\nLeaving Fukuzawa behind, I ran out of the reflection room.{p}"
+  },
+  {
+   "id": "68:2f20",
+   "op": "text",
+   "en": "Hashimoto's desk.\nI'll go take a look.\nIt was... this classroom, I'm sure.\nI carefully examined the top of the desk where she'd been sitting.\nThere's nothing written on it.\nMaybe it's already been erased.{p}"
+  },
+  {
+   "id": "68:2fc8",
+   "op": "text",
+   "en": "\"{b}!\"\nFukuzawa and the others had come after me.\n\"What's wrong? Oh...\"\nShe said it looking at the desk.{p}"
+  },
+  {
+   "id": "68:304c",
+   "op": "text",
+   "en": "\"This is Hashimoto's desk, isn't it?\nDid you see the textbook too, {b}?\nI couldn't stop her from killing herself.\"\nShe ran her finger across the top of the desk.\n\"People said a lot of nasty things about Hashimoto behind her back, didn't they?\nYou know, I saw it.\nRight around here, someone had written something awful, under the name 'From Kawahara.'\"\n\"What? What did it say?\"\n\"Well, it said 'Don't die.'\"{p}"
+  },
+  {
+   "id": "68:3198",
+   "op": "text",
+   "en": "...It wasn't someone writing it out of spite.\nKawahara wrote it.\nI'm sure he meant it from the heart.\nWasn't he someone who had a hard time saying what he really felt?\nThose may have been words he'd thought over long and hard before he wrote them.\nBut they never got through to Hashimoto.\nWhat a terrible misunderstanding.{p}"
+  },
+  {
+   "id": "68:32bc",
+   "op": "text",
+   "en": "\"Hey, why don't we go home now?\"\nAt Fukuzawa's words, we left the classroom.\nEveryone looked worn out.\nKawahara said it, didn't he?\nThat none of the people here had helped him.\nIn other words, they couldn't stop Hashimoto's suicide.\nI don't know what each of them did when they met her.\nBut no matter who tried, it was bound to fail.{p}"
+  },
+  {
+   "id": "68:3418",
+   "op": "text",
+   "en": "But will Kawahara go on searching forever for someone who'll save Hashimoto?\nNo matter what anyone does, the past can't be undone...{p}"
+  },
+  {
+   "id": "68:349c",
+   "op": "text",
+   "en": "We went back to the reflection room and locked the door.{p}"
+  },
+  {
+   "id": "68:34c4",
+   "op": "text",
+   "follows_choice": [
+    "68:1484"
+   ],
+   "en": "\"Hashimoto!\"\nI called out to her, but she left anyway.\n"
+  },
+  {
+   "id": "68:351c",
+   "op": "text",
+   "en": "Oh well, I guess I'll go after her.{p}"
+  },
+  {
+   "id": "68:3540",
+   "op": "text",
+   "follows_choice": [
+    "68:1910"
+   ],
+   "en": "I'll go to the roof.{p}"
+  }
+ ]
+}

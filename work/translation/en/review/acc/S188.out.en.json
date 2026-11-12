@@ -1,0 +1,15 @@
+{
+ "rows": {
+  "47:e3d8": "\"Eeeeeek!☆\"\n{a}...\nStop tickling meee!☆\n\"Ahahaha...☆\"\nN-no, stop!\nWhat is this squirmy thing?\nIt feels like I'm being tickled by a mop of fuzzy strings...\n\"S-stop it, please!\"\n\"Heh heh heh.\nI'll let you off if you take on the seven wonders project.........\"\nAhahahaha...................................................{p}",
+  "47:e868": "I think he's an interesting person.\nOr, to put it another way...\nKind of lovely, I guess?\nApparently, when he was a first-year, he was a total scaredy-cat.\nIsn't that cute?\nActually, he's been on my mind lately.\nMy eyes keep following {a} around.\nSomehow I feel like I just can't leave him be.\nYou could say he tickles my maternal instinct.\nHee hee...{p}",
+  "47:1013c": "\"Um, is something wrong?\"\nI called out to her.\nSomehow I just can't ignore someone like that.\nIt looked like the girl had been crying.\nWhen I spoke to her, she peered up at me through the gaps in the hands covering her face, two big, goggling eyes staring out.\nAnd then,\n\"...Huh. Just a girl...\"\nShe spat out just those words, then faded away without a sound.\nW-what kind of attitude was that?!☆\nI wasn't scared so much as furious.\nThe first ghost I've ever seen in my life, and it's like this? That really ticks me off.\nThat's it, I'm taking it out on {a}!{p}",
+  "47:ef18": "Ah, I can finally see the club room.\nStanding in front of it... who's that girl?\nI've never seen her before.\nSomeone who wants to join?\nOr was she called here by Senpai, like me?\nOh, now that I look closer, she's not in uniform.\nHuh, so she's not a student.\n\"Excuse me, you there?\"\nAll of a sudden, she spoke to me.\n\"Y-yes?\"\nI answered without thinking.\nI hate to admit it, but she's prettier than me.{p}",
+  "47:10900": "\"Stop making fun of me already!\nYou know I can't stand stories like that, and you're trying to scare me anyway, aren't you?\nI didn't know you were such a mean person, Senpai.\nGoodbye.\nPlease pretend everything we talked about earlier never happened.\"{p}",
+  "47:10860": "\"Oh, come on, you guys can't take a joke at all!\nAnd here I was, put in charge of scaring you all, ah ha, ah ha ha ha ha......\"{p}"
+ },
+ "notes": [
+  "47:e3d8: TODO dot run - final laugh run is 34 characters in the source; restored as one continuous 51-dot run (was split into groups). The 3-character run before it keeps its 9 dots.",
+  "47:10860: FIX dots - 4-character run trailing the laugh restored to 6 dots (was 3).",
+  "47:e208: TODO - S184/he-him items (todo 1-2) concern S184, not this slice; every row here already uses he/him for {a}, and Senpai is kept per the Taguchi-route rule. No change."
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "rows": {
+  "61:4448": "…………Oh?\n………………………………………………………………………………………………………………………………………………{p}",
+  "61:5250": "Give up, you say...★{p}Do you really think that's all right?\n",
+  "61:4ef0": "\"I'm joking, just joking…………\nIt's more comforting to think so, isn't it?\n...Come, let's go back.\nI can't wait to hear the next story.\nHeh heh heh...\nIt's already the witching hour.\nBut no one can escape now.\nThe second story has only just ended...\nThe seven wonders have barely begun, after all...\"{p}",
+  "61:3a7c": "...His hair had turned completely white.\nWhen the teachers heard what had happened to Nanase, every one of them made a sour face.\nAnd then someone muttered,\n\"Not again...\"\n...That's what they said.{p}"
+ },
+ "notes": [
+  "61:4448: TODO - dot run restored to one run of 54 (same count as source); split_wide now cuts it, the source's closing period after the run is not carried over (English run ends on the dots)",
+  "61:5250: FIX dots - source has 2-character dot run before the star; restored '...' before the star",
+  "61:4ef0: UNSURE - 'the demon hour' changed to 'the witching hour' to match S220 (61:6ed8, 61:7a2c, 61:9344) for the same phrase; terms_live has both renderings for this term",
+  "61:3a7c: FIX meaning - closing quote marker means 'is what they said'; 'Just like that' did not say it",
+  "61:54b4: TODO - already reads 'Lazybonesina', same as S220 61:78cc; no change",
+  "61:5370: TODO - already identical to S218 61:16f0 (S218 output adopted this wording); 538c already matches 170c; no change",
+  "61:44cc: UNSURE - player's thought 'Is something there/did something happen?' kept as 'What's the matter with her?'; close enough, editorial may revisit",
+  "61:3888: UNSURE - player gender female for the whole scene: narration has feminine endings (worry, 'it's dangerous' lines) and Iwashita's nickname for the player is 'Little Miss'; no gendered word needed elsewhere",
+  "61:4944: KEPT OMISSION - speaker is an unnamed male club member; scene does not settle who, so no name added"
+ ]
+}

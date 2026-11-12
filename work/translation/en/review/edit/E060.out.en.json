@@ -1,0 +1,30 @@
+{
+ "rows": {
+  "30:0c6c": "Heh heh heh... Quite something, to say that about yourself.\nEither you're terribly sure of yourself, or you really are kind.\nWell, never mind.\nOne look in your eyes will tell me which it is.{p}",
+  "30:0d4c": "I can keep my promises",
+  "30:0d54": "I can't keep my promises",
+  "30:0ec8": "I can't do that",
+  "30:111c": "The make-up class went like this: they were handed a worksheet, and whoever solved the problems on it could go home.\nThere were quite a few hard problems on it.\nThey weren't the kind you could solve easily.\nAnd they were the sort of students who end up in make-up classes in the first place, you know.\nNot exactly the type who love to study.\nSo they scribbled down any old answers and went to show them to the teacher.\nThen they got the teacher's go-ahead and hurried off home.\nI suppose the teacher understood how it was, too.\nWell, it was a make-up class in name only.\nBut he was different.\nHe sat down to the worksheet in earnest.\nHe wasn't the kind of person who breaks a promise.\nEven if it's only a promise to a teacher, once you've made it, you have to keep it, don't you?\nJust like you, really.\nSo he stayed behind alone in the classroom, trying to solve it to the very end.\nProblems he couldn't find so much as a hint for, however hard he thought.\n\"What, you're still here?\nI forgot all about you. You can go home now, {a}.\"\nThe teacher had been sure everyone had already gone home.\nThe classroom light was on, so the teacher looked in, suspicious, and found one student still there.\nAwful, isn't it?\nWell, since the teacher had given permission, he got ready to go home, and when he happened to look around, it had already gone completely dark.{p}",
+  "30:25a8": "He felt sweat break out all over his body.\n...What's wrong?\nIsn't that sweat on your face?\nThis isn't about you, you know.\nThis is the story of the other {a}.{p}Will you turn around?\n",
+  "30:2de0": "What?\nWhat did you just say?{p}Say that once more for me.\n",
+  "30:2e58": "I hope I didn't hear you wrong...\nDid you just say you'd run away and leave an injured girl all alone?\nThat's what you said, isn't it?\nYou just told me yourself that you were kind.\nAm I wrong?\nOr have my ears gone funny?\nI'm sure I heard you say it.\nYou're kind, aren't you.\nSo go on, help her.\nI absolutely hate being lied to.\nWhen someone lies to me, it makes me want to kill them.\nUnderstand?\nIf you lie again, I'll kill you.\nDon't you dare lie.{p}",
+  "30:302c": "You're kind, after all.\nSo you will help her.{p}",
+  "30:306c": "\"Are you okay?\nI'll carry you on my back.\"\nYou gently helped her up and carried her on your back.\nAnd she said:\n\"...Thank you.\n...Don't let go of me.\"\nYou're kind, after all.{p}You know how you answered her, don't you?\n",
+  "30:3ca0": "\"...This hallway is so long, isn't it?\n...I wonder when this hallway will ever end.\nWas there ever a hallway this long at school...?\"\nHer voice, spoken to no one in particular, melted away into the darkness.\n\"...It's awfully cold, isn't it?\"{p}",
+  "30:55d0": "Day after day, mosquito after mosquito landed on his arm.\nIt made her feel awful.\nShe couldn't even speak to {a}, and yet those mosquitoes...\nShe brooded over it until she even came to think that if she could drink {a}'s blood, she wouldn't mind being swatted dead like a mosquito.\nKitajima was terrified of herself for feeling that way.\nSo she decided to confess to {a}.\nShe gathered every ounce of courage and decided to tell him how she felt.{p}...How will you answer her?\n",
+  "30:5878": "The next day, the two of you decided to eat lunch together on the roof.\nA boxed lunch, eaten together with her...\nShe looked so happy.\nA happy time went on for a while.\nBut...{p}",
+  "30:5ac0": "And her behavior escalated more and more.\nShe simply could not forgive the mosquitoes for sucking your blood.\n{a} is mine.\nAnd yet the mosquitoes are still sucking {a}'s blood...\nWhenever she thought about it, she was beside herself.\nShe couldn't forgive the mosquitoes that drank your blood, but she also grew unable to forgive you, for letting them drink it so easily.\nAnd she became even more violent toward you than before.\nWhen you scolded her for it, she burst into tears.{p}",
+  "30:6360": "...I feel sorry for Kitajima.\nI'm sure she was led astray by whoever owns that voice.\nI don't think the mosquito swarms were her curse.\nIt must have been something in this school...\nthat led her astray, I believe.\n{a}.\nIf a girl who fell for you heard that voice, what would you do?\nI wonder if you could break the curse of that voice's owner...\nThat's the end of my story.\nWhose turn is it next?{p}",
+  "30:64e4": "Why would you have to turn her down?\nShe was so very sweet and modest.\nSo {a} was overjoyed when she confessed to him.\nAnd he decided to go out with her.\nListen.\nYou knew nothing of the terrible feelings that had taken root in her heart.{p}"
+ },
+ "notes": [
+  "30:0d4c/0d54: EDIT - same JP as echo choices 4a8c/4a94/4bac/4bb4; worded 'I can keep my promises' / 'I can't keep my promises' to match",
+  "30:0ec8: EDIT - same JP as echo 4e00/5010; 'I can't' -> 'I can't do that' to match",
+  "30:25a8: EDIT - 'Isn't your face breaking out in sweat?' -> 'Isn't that sweat on your face?' (spoken)",
+  "30:3ca0: EDIT - returns note: tag on exclamation -> '...This hallway is so long, isn't it?'",
+  "30:5878: EDIT - clumsy 'it was a fun time' -> 'A happy time went on for a while.'",
+  "30:6360: EDIT - 'I'm sure ... was what led her astray, I think' double hedge -> 'It must have been ... that led her astray, I believe.'",
+  "30:64e4: EDIT - 'overjoyed to be confessed to' -> 'overjoyed when she confessed to him'",
+  "30:5084/6360/6888: VOICE - this chunk says 'break the curse'; next chunk 30:69cc (echo of 6888) says 'lift the curse'; one wording should be chosen across E060/E061 (left 'break' here)"
+ ]
+}

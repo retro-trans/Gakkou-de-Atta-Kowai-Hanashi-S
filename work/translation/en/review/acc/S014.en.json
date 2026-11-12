@@ -1,0 +1,364 @@
+{
+ "slice": "S014",
+ "scene": "05",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S013",
+ "next": "S015",
+ "todo": [
+  "- Choices trimmed to the old one-line limit (choices may now wrap to 3 lines): restore the full meaning in 03:1acc, 03:1ae8, 03:3038, 03:21b0, 03:300c, 03:37a8 (S007); 01:bd04 (S003); 05:4f6c, 05:4f80 (S014); 05:b704, 05:b738 (S015)."
+ ],
+ "rows": [
+  {
+   "id": "05:468c",
+   "op": "text",
+   "follows_choice": [
+    "05:0de8"
+   ],
+   "en": "That's no way to answer.\nHere I am, going to the trouble of telling you a story.\nEven just to be polite,\n\"I like them\"\nis that so hard to say?\nI'll ask you one more time.{p}{a}, do you like playing cards?\n"
+  },
+  {
+   "id": "05:473c",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "05:4744",
+   "op": "choice",
+   "en": "I don't like them"
+  },
+  {
+   "id": "05:4754",
+   "op": "text",
+   "follows_choice": [
+    "05:473c"
+   ],
+   "en": "Yeah?\nI like cards too.\nYou've gotta admit, they're a brilliant invention.{p}"
+  },
+  {
+   "id": "05:47b0",
+   "op": "text",
+   "follows_choice": [
+    "05:4744"
+   ],
+   "en": "\"You're a boring {f:guy|one}, you know that?\nI was going to tell you a story about cards, but forget it.\"\n{f:I|I} panicked.\n\"{f:I'm sorry|I'm sorry}, Shindo.\nPlease, go on with your story.\"\nShindo glared at {f:me|me}.{p}"
+  },
+  {
+   "id": "05:48a0",
+   "op": "text",
+   "en": "\"...Maybe I'll reconsider.\nBut just telling it the normal way is no fun.\nHow about we let these decide what I tell you?\"\nAs he said it, he pulled a deck of cards out of his pocket.\nCarrying those around with him... {f:did he really love cards that much?|he must really love cards.}{p}"
+  },
+  {
+   "id": "05:49a8",
+   "op": "text",
+   "en": "Shindo drew three cards from the deck.\n\"I've got three cards here: the ace, the king and the joker.\"\nAs he spoke, he laid them out face down.{p}"
+  },
+  {
+   "id": "05:4a48",
+   "op": "text",
+   "en": "\"{a}, pick one of these.\nIf it's the ace, I'll tell you the card story like I planned.\nIf it's the king, you get a different story.\nAnd if it's the joker...\"\nShindo's eyes seemed to glint.\n\"I'll tell you a story that's been passed down at this school, a seriously dangerous one.\nSo, which one are you gonna pick?\"{p}"
+  },
+  {
+   "id": "05:4b6c",
+   "op": "text",
+   "en": "Which card should I pick?\n"
+  },
+  {
+   "id": "05:4b88",
+   "op": "choice",
+   "en": "Left"
+  },
+  {
+   "id": "05:4b8c",
+   "op": "choice",
+   "en": "Middle"
+  },
+  {
+   "id": "05:4b94",
+   "op": "choice",
+   "en": "Right"
+  },
+  {
+   "id": "05:4ba4",
+   "op": "text",
+   "follows_choice": [
+    "05:4b88",
+    "05:4b8c",
+    "05:4b94"
+   ],
+   "en": "Heh, the ace, huh?\nLooks like you've got some pretty strong luck.{p}"
+  },
+  {
+   "id": "05:4bf8",
+   "op": "text",
+   "en": "All right then, I'll tell you.\nIt was the card story, right...?\nMan, they really are a clever little invention, you know?{p}"
+  },
+  {
+   "id": "05:4c68",
+   "op": "text",
+   "en": "Whoa, the king.\nAll right then, I'll tell you a different story.{p}"
+  },
+  {
+   "id": "05:4cb4",
+   "op": "text",
+   "en": "...Do you like going against what other people say, like you did a minute ago?\n"
+  },
+  {
+   "id": "05:4cfc",
+   "op": "choice",
+   "en": "I do"
+  },
+  {
+   "id": "05:4d04",
+   "op": "choice",
+   "en": "Not really"
+  },
+  {
+   "id": "05:4d14",
+   "op": "text",
+   "follows_choice": [
+    "05:4cfc"
+   ],
+   "en": "...I see.\nSo you're a pretty nasty piece of work.{p}"
+  },
+  {
+   "id": "05:4d48",
+   "op": "text",
+   "en": "But you'd better watch yourself.\nIf you're going to defy people, you'd better be ready for what comes with it.\nOne way or another, payback might come around someday.\nIs it weird, me saying something like that?\n...Yeah, I guess it is.\nBut there's a reason for it.\nI had a friend, a guy called Ishikawa.\n{f:Just like you, he was a real contrarian|That guy was a real contrarian}.{p}"
+  },
+  {
+   "id": "05:4e8c",
+   "op": "text",
+   "en": "Friends, parents, teachers, it didn't matter, he never once just went along with what anyone told him.\nNormally a guy like that gets shut out by everyone, right?\nBut not Ishikawa.\nThat was because he had a certain secret.{p}...What do you think it was?\n"
+  },
+  {
+   "id": "05:4f6c",
+   "op": "choice",
+   "en": "Knew when people'd die"
+  },
+  {
+   "id": "05:4f80",
+   "op": "choice",
+   "en": "Could conjure up anything"
+  },
+  {
+   "id": "05:4fb4",
+   "op": "text",
+   "follows_choice": [
+    "05:4f6c"
+   ],
+   "en": "That's right, he could tell when people were going to die.\nNobody wants to die, right?\nI guess they figured if they got friendly with him, he'd warn them when they were in danger.\nIf you know ahead of time, you can dodge it.\nI don't think you can blame them for that.\nThe one to blame was Ishikawa, no question.\nIf he says he won't tell you, or that he'll lie to you, you're gonna get scared, right?\nHe threatened people like that and did whatever the hell he wanted.\nBut there was one teacher who didn't believe what Ishikawa said.\nAnd what do you think the guy said then?\n\"You die instead of my grandma, teacher!\"\n...That's what he said.\nOf course, the teacher just laughed it off.{p}"
+  },
+  {
+   "id": "05:5204",
+   "op": "text",
+   "en": "But the next day, that teacher died.\nA sudden heart attack, or so I heard.\nAnd in exchange, Ishikawa's grandma, who'd been bedridden, got better.\nCan you believe it?\nIf that's true, then Ishikawa could even swap people's lifespans.\nA guy like him having a power like that... honestly, it was criminal.\nEveryone thought so, but nobody could say it out loud.\nThen one day, it happened.{p}"
+  },
+  {
+   "id": "05:5394",
+   "op": "text",
+   "en": "Ishikawa's face was paler than I'd ever seen it.\nOne of his hangers-on went over to ask him why.\nThe kid came back white as a sheet.\n\"I-Ishikawa says he's found out when he's going to die.\nHe says it's tonight.\"\nThat was a huge shock.\nThink about it, the guy could control people's lifespans★\nIf he knew he was about to die, who knows who he'd pick to die in his place.\nFor once, everybody pulled away from Ishikawa, like the tide going out.\nNobody wanted to get caught in the crossfire.{p}"
+  },
+  {
+   "id": "05:5578",
+   "op": "text",
+   "en": "We got through to the end of the day like that.\nBut when the final bell rang and everyone was about to leave the classroom,\nthe ones at the front of the crowd started murmuring.{p}"
+  },
+  {
+   "id": "05:5610",
+   "op": "text",
+   "en": "When I looked, there was Ishikawa, standing in the hallway.\nHis eyes were drawn up, wild and terrifying.\nHe was looking for someone to die in his place!\nEveryone knew it right away.\nSo nobody could leave the classroom.\nIf Ishikawa's eyes landed on you, you were done for.\nNo way was I having that either.{p}"
+  },
+  {
+   "id": "05:5720",
+   "op": "text",
+   "en": "So I slipped out through the window.\nOur classroom was on the second floor, after all.\nBut Ishikawa spotted me on the way.\n\"Shindo☆\"\nHe yelled and came after me.\nIt's embarrassing, but I was scared.\nScared out of my mind, I ran right out of the schoolyard.\nIshikawa kept coming after me.{p}"
+  },
+  {
+   "id": "05:5824",
+   "op": "text",
+   "en": "As I went out the school gate, I nearly crashed into someone walking toward me.\nI dodged at the last second, and just as we passed each other, Ishikawa came flying out.\nI guess he saw a figure and thought it was me.{p}"
+  },
+  {
+   "id": "05:58e4",
+   "op": "text",
+   "en": "\"Die instead of me☆\"\nHe screamed it out of nowhere.\nThe person's eyes went wide.\nIt was a man in work clothes.{p}"
+  },
+  {
+   "id": "05:5950",
+   "op": "text",
+   "en": "As I recall, the man eyed Ishikawa like he was some kind of nutcase and hurried off.{p}"
+  },
+  {
+   "id": "05:59a4",
+   "op": "text",
+   "en": "Ishikawa just stood there dumbfounded too.\nI guess he never meant to dump it on a total stranger.\nBut still, this meant he wasn't going to die anymore.\nHe got a little of his cool back and stood there glaring at me.{p}"
+  },
+  {
+   "id": "05:5a5c",
+   "op": "text",
+   "en": "But that night, Ishikawa died.\nThey say the worst people live the longest, but with Ishikawa, that turned out to be wrong.{p}"
+  },
+  {
+   "id": "05:5ae4",
+   "op": "text",
+   "en": "Shindo finished his story, looking satisfied.\n\"W-wait a minute.\nI mean, couldn't this Ishikawa guy swap lifespans{f:...?|...}★\"\n{f:I|I} asked, confused.\nIf he could, then why did he die{f:?|?}\nShindo watched {f:me|me}, grinning.\n\"Don't get it?\nThen here's a hint.\nThat stranger at the school gate... the work clothes he had on were from a well-known motorcycle courier company.\"\nWhat {f:was he getting at|did he mean}?\nI didn't get it at all.\nShindo shook his head at {f:me|me} as if he pitied me.{p}"
+  },
+  {
+   "id": "05:5cec",
+   "op": "text",
+   "en": "\"Jeez, you still don't get it?\nIshikawa died in a traffic accident.\nHe ran out into the road and got hit by a courier's motorcycle.\"\nA motorcycle courier★\n\"Th-then the person who swapped lifespans with Ishikawa was...\"{p}"
+  },
+  {
+   "id": "05:5dc4",
+   "op": "text",
+   "en": "\"That's right, it was the guy he crashed into.\nOf course, he died too.\nOf all people, Ishikawa swapped lifespans with the one guy who was going to die right along with him.\"\nShindo laughed, enjoying himself.\nThe story seemed a little too neat, but the way Shindo was delighting in it didn't look like an act.\nWell, {f:I guess these things happen|maybe these things do happen}.{p}\"Thank you very much.\"\n{f:I|I} bowed to Shindo.\nThen I turned to the sixth person.{p}"
+  },
+  {
+   "id": "05:5f60",
+   "op": "text",
+   "follows_choice": [
+    "05:4f80"
+   ],
+   "en": "Yeah, he could pull anything he wanted out of thin air.\nA kind of psychic power, right?\nSo there were always people crowded around him.\nEveryone trying to get him to conjure up the manga or CDs they wanted.\nPathetic, huh?\nMe, I wasn't about to go wagging my tail at him.\nI just watched from a distance.\nI'd be lying if I said I wasn't jealous at all, though.\nThere were a fair number of people besides me who kept away from him too.{p}"
+  },
+  {
+   "id": "05:60f4",
+   "op": "text",
+   "en": "One of them was a girl.\nUchida, I think her name was.\nThe quiet, pale type who sat out a lot of gym classes.\nApparently she really did have a weak heart.\nShe was kind of cute, and she drew people's eyes.\nHow do I know so much about her?\nWell, see, Ishikawa fell for her.\nFor Uchida.\nHe'd even go out of his way to use his powers right in front of her.\nIt was totally obvious.\nBut she didn't show the slightest interest.\nIshikawa got more and more frustrated.\nAnd finally, he made up his mind to talk to her directly.{p}"
+  },
+  {
+   "id": "05:62ec",
+   "op": "text",
+   "en": "But Ishikawa had never really gone out with a girl before.\nThe moment he opened his mouth, it was,\n\"If there's anything you want, I'll make it appear for you.\"\n...Right out of the blue, just like that.\nUchida must have been taken aback.\n\"No... I'm fine, thank you.\"\n\"Don't be like that, there must be something, right?\"\nIshikawa kept pressing her.\nBut Uchida kept turning him down.\nThat's when he lost his temper.\n\"You think I'm lying.\nYou think there's no way I could do something like that!\"\n\"N-no, that's not...\"\n\"If you don't believe me, I'll bring out whatever you treasure most!\nThen you'll have to believe me!\"\nUchida frowned.\nI guess he took that to mean she still doubted him.{p}"
+  },
+  {
+   "id": "05:655c",
+   "op": "text",
+   "en": "Ishikawa gripped his right wrist with his left hand and started to focus his mind.\nBeads of sweat broke out on his forehead.\nHe was desperate too.\nA guy wants to look good in front of the girl he likes.\n{f:You'd be the same, right?|You know how it is, right?}\n...And while he was doing that, Uchida started acting strange.\nHer face, always bloodless, went even paler, the color of paper.\nShe was breathing hard and dripping with greasy sweat.\nBut Ishikawa didn't notice.\nHe focused every nerve in his body on his right hand.\nAnd then, the moment his concentration hit its peak...{p}"
+  },
+  {
+   "id": "05:6738",
+   "op": "text",
+   "en": "There was a shrill scream.\nAt the same moment, he felt something strange in his right hand.\nOut of the corner of his eye he saw Uchida collapse, but Ishikawa couldn't tear his eyes from the thing sitting in his right hand.{p}"
+  },
+  {
+   "id": "05:67ec",
+   "op": "text",
+   "en": "A slimy, glistening red lump, just about the size of his palm.\nWas that fresh blood dripping from it★\nEvery time it gave a twitching jerk, warm red liquid gushed out of the torn, tube-like things sticking out of it.\nSomeone screamed again.\nHe could hear footsteps running up from all directions.\nIshikawa looked down at Uchida lying on the floor.\nShe was clutching the left side of her chest, her face twisted in pain, but she wasn't breathing anymore.\nOf course she wasn't.\nBy then, even Ishikawa was starting to understand what had happened.{p}"
+  },
+  {
+   "id": "05:69c4",
+   "op": "text",
+   "en": "Do you get it, {a}?\n...That's right.\nWith his psychic power, Ishikawa had pulled Uchida's heart right out of her.\nFor someone as frail as Uchida, the thing she treasured most was her own heart.\nSome psychic power, huh?\nNo, maybe I should call it a wonderful power, since it brought out exactly what he asked for.{p}"
+  },
+  {
+   "id": "05:6adc",
+   "op": "text",
+   "en": "...What happened to Ishikawa after that?\nHe moved away right after.\nSo I couldn't tell you.\nBut I did see him right before the teachers took him away.\nHe was in a daze, like his whole personality had fallen apart.\nHe'd held the heart of the girl he loved in his hand.\nThat'd be a shock.\nHe'll never forget it as long as he lives.\n...Yeah, I don't think I'll ever forget that sight either.{p}"
+  },
+  {
+   "id": "05:6c28",
+   "op": "text",
+   "en": "Shindo finished his story.\n{f:Had he been reminded of the scene from that day?|I wonder if he'd been reminded of that day.}\nHis face {f:looked|seemed} a little pale.\nNow that I thought about it, {f:I|I} felt a little sick too{f:.|.}{p}But the next one would be the sixth story{f:.|.}\n\"Please, go ahead.\"{p}"
+  },
+  {
+   "id": "05:6d24",
+   "op": "text",
+   "follows_choice": [
+    "05:4d04"
+   ],
+   "en": "Hmm, I see.\nWell, that's for the best.\nWhy, you ask?\nBecause if you're going to defy people, you'd better be ready for what comes with it.\nOne way or another, payback might come around someday.\nIs it weird, me saying something like that?\n...Yeah, I guess it is.\nBut there's a reason for it.\nI had a friend, a guy called Ishikawa.\nThat guy was a real contrarian.{p}"
+  },
+  {
+   "id": "05:6e78",
+   "op": "text",
+   "en": "Whoa, if it isn't the joker.\nThen I'll tell you the one I've been saving.{p}"
+  },
+  {
+   "id": "05:6ed8",
+   "op": "text",
+   "en": "A scary, creepy, seriously intense one.\nAre you ready for it?\n"
+  },
+  {
+   "id": "05:6f10",
+   "op": "choice",
+   "en": "I'm ready"
+  },
+  {
+   "id": "05:6f18",
+   "op": "choice",
+   "en": "I'm not ready"
+  },
+  {
+   "id": "05:6f20",
+   "op": "text",
+   "follows_choice": [
+    "05:6f10"
+   ],
+   "en": "Good, then I'll tell you.{p}"
+  },
+  {
+   "id": "05:6f4c",
+   "op": "text",
+   "en": "Have you all noticed what's here right now?\nI don't mean the ones sitting in their seats, quietly listening to the seven wonders.\nI mean the ones that snuck in while we've been sitting here talking.\n...Come on, don't make that weird face.\nYou say nobody came into this room?\nThat's right, not in any form you can see.\nBut they're here.\n{a}, you look like you've got a strong sense for spirits.\nYou can tell, can't you?\nTalk about stuff like this at this school, and of course they're going to gather.\nWell, most of them just drift around and can't lay a finger on people.\nBut some of them are powerful.\nWhat if I told you one of them was watching you... would you believe me?{p}"
+  },
+  {
+   "id": "05:7198",
+   "op": "text",
+   "en": "Hahaha, your face has gone stiff.\nYou're scared after all, huh?\nOf course you are.\nNah, sorry, sorry.\nShindo was grinning.{p}Had {f:I|I} just been {f:messed with|teased}?\n"
+  },
+  {
+   "id": "05:7248",
+   "op": "choice",
+   "en": "Protest that it's mean"
+  },
+  {
+   "id": "05:725c",
+   "op": "choice",
+   "en": "Quietly put up with it"
+  },
+  {
+   "id": "05:726c",
+   "op": "text",
+   "follows_choice": [
+    "05:7248"
+   ],
+   "en": "\"You were trying to scare me.\nThat's mean.\"\n{f:I|I} protested.\nThat was going too far, it was just bad taste{f:.|.}\nBut then Shindo's expression changed.\nHis smile vanished as if wiped away, and he looked at {f:me|me} with serious eyes.{p}"
+  },
+  {
+   "id": "05:7348",
+   "op": "text",
+   "en": "\"Trying to scare you...?\nYou thought that was a joke?\"\nHis voice was almost a whisper.{p}"
+  },
+  {
+   "id": "05:73a0",
+   "op": "text",
+   "en": "I had a bad feeling about this{f:.|.}\nIt wasn't because Shindo was angry.\nIf he'd been angry, I'd have felt {f:better.|better, at least.}\nShindo wasn't angry.\nHe was afraid{f:...!|...!}\nCold sweat trickled down my back.\nAs {f:I|I} sat there silent, Shindo spoke to me in a quiet voice.{p}"
+  },
+  {
+   "id": "05:74c8",
+   "op": "text",
+   "en": "\"If that's what you think... I'll show you proof it wasn't.\nGive me your hand.\"\n\"Huh...?\"\n{f:I|I} stared blankly at the hand Shindo held out, looking like an idiot.\nHe clicked his tongue at {f:me|me} in irritation.\n\"Give it here, I said.\nIf you go on not noticing, you're the one who's in danger.\nI'm lending you my power.\"\n{f:I|I} timidly held out my hand.{p}"
+  },
+  {
+   "id": "05:7630",
+   "op": "text",
+   "en": "\"Good, that's it.\nListen, {a}... no matter what you see, don't freak out.\"\nWith that, Shindo took {f:my|my} hand.{p}"
+  },
+  {
+   "id": "05:76d8",
+   "op": "text",
+   "en": "For an instant, my vision seemed to lurch and warp.\n...But that was all{f:.|.}\nThere was nothing dangerous like Shindo said, not anywhere...{p}"
+  },
+  {
+   "id": "05:7774",
+   "op": "text",
+   "en": "When I looked up, Shindo was silently staring at something.\nWas he looking at... {f:my|my} lap?\nCopying him, {f:I|I} lowered my gaze too.{p}"
+  },
+  {
+   "id": "05:7818",
+   "op": "text",
+   "en": "{f:What the hell is this|What is this}★\nShindo quickly clamped his hand over {f:my|my} mouth as I was about to scream.{p}"
+  }
+ ]
+}

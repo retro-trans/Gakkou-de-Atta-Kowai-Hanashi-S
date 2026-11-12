@@ -1,0 +1,754 @@
+{
+ "chunk": "E047",
+ "scene": "24",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "slices": [
+  "S092",
+  "S093"
+ ],
+ "prev": "E046",
+ "next": "E048",
+ "todo": [],
+ "rows": [
+  {
+   "id": "24:9b30",
+   "op": "choice",
+   "en": "Went into the restroom in the new school building"
+  },
+  {
+   "id": "24:9b48",
+   "op": "choice",
+   "en": "Went to the old school building restroom from before"
+  },
+  {
+   "id": "24:9b80",
+   "op": "text",
+   "en": "Holding it in isn't good for your body, after all.\nI decided to go to the restroom on the first floor of the new school building.\nBut at that moment, I'd forgotten.\nI'd forgotten that Takeuchi's classroom was on the first floor...\nI wanted to get home quickly, so I walked briskly toward the restroom.{p}",
+   "follows_choice": [
+    "24:9b30"
+   ]
+  },
+  {
+   "id": "24:9c64",
+   "op": "text",
+   "en": "I went into the new school building and hurried down the first-floor hallway, almost at a run.\nAnd then...{p}"
+  },
+  {
+   "id": "24:9cc0",
+   "op": "text",
+   "en": "I heard footsteps behind me.\nAt first I was rushing along in such a panic that I didn't notice the sound.\nThe footsteps came closer, and a chill ran through me.\nSomeone was following me.\nThat's what I thought.\nThe restroom was only a little farther.\nShould I make a run for it and hide in one of the stalls?\nThat crossed my mind too.\nThe footsteps kept coming closer and closer.\n...I had no choice but to run!\nI was just about to break into a run.\nAnd then...!{p}"
+  },
+  {
+   "id": "24:9e44",
+   "op": "text",
+   "en": "\"Hosoda. You saw what happened back there, didn't you?\"\nA voice came from behind me.{p}"
+  },
+  {
+   "id": "24:9ea8",
+   "op": "text",
+   "en": "It was Takeuchi.\n\"Now that you've seen that, I can't let you live.\nLet's see... Maybe I'll drop you into that toilet.\nI'll make you food for that thing.\"\nIt was a terrifying voice.\nI couldn't believe it belonged to Takeuchi, the guy everyone adored...\n\"I saw you running away from there.\nI was planning to deal with you tomorrow or so... but fancy you coming right up to my classroom.\nHow convenient.\nI'll get rid of you right now.\"\nHe lunged at me and grabbed hold of me.{p}"
+  },
+  {
+   "id": "24:a048",
+   "op": "text",
+   "en": "I fought back with everything I had.\nSomebody must have seen what was going on.\nAfter a while, a teacher came running.\nI was saved.\nTakeuchi clicked his tongue and went home.\n...After that, he ended up transferring to another school.{p}"
+  },
+  {
+   "id": "24:a12c",
+   "op": "text",
+   "en": "It must have been because of what happened.\nI never told anyone about it, though.\nI had a feeling he'd kill me if I did.\nOn his last day, you should have seen how sad everyone was.{p}"
+  },
+  {
+   "id": "24:a1e4",
+   "op": "text",
+   "en": "After all, he'd been in the girls' spotlight as the guy who never went to the restroom.\nHe went around saying his goodbyes, carrying paper bags stuffed with presents and letters from girls.{p}"
+  },
+  {
+   "id": "24:a284",
+   "op": "text",
+   "en": "And at the very end, he walked off toward the old school building.\nSomeone said they saw him.\nHad he gone to say goodbye to that plant, too?\nI couldn't stop wondering what had become of that restroom.\nSo the next day, I went to take a look.\nAnd then...\nHe was there.{p}"
+  },
+  {
+   "id": "24:a3b8",
+   "op": "text",
+   "en": "The plant growing out of the toilet had two of Takeuchi's faces on it.\nOne of the faces said this:\n\"Help me...\"\nTakeuchi had tried to get rid of that plant.\nBut the plant struck back, dragged him into the toilet, and made him its food, it seems.\nThat's what Takeuchi's face on the plant told me, weeping.\nApparently, when Takeuchi first came to this school, he explored the old school building.\nThat's how he found that plant.\nThe plant grew by feeding on his waste...\nMy hunch had been right.\nTakeuchi only ever used the old school building's restroom, so nobody ever saw him going to the restroom.\nBut...{p}"
+  },
+  {
+   "id": "24:a630",
+   "op": "text",
+   "en": "Takeuchi had been tricked.\nThe plant had told him, apparently, that by absorbing his waste it would take on his exact shape, until in the end it couldn't be told apart from a human.\nTakeuchi wanted to make a clone of himself.\nI guess he wanted to do sci-fi stuff, like the two of them taking turns going to class or going out to have fun.\nThat's why he'd been dutifully making trips there.\nBut the idea that it could make a clone was a lie.\nThe plant's real goal was to make a human into its food...\nI just ran from that place.\nThere was no way I had the power to save Takeuchi.\nAnd I swore I'd never go there again.\nEven after I got out of the restroom and was running down the hallway, I could hear Takeuchi screaming.\nHe cried out again and again, in agony.\nI can still hear it now.\nTakeuchi's screams.\nHis voice calling for help...\n...\nI've told you everything I saw.\nNow, shall we move on to the next story...{p}"
+  },
+  {
+   "id": "24:a998",
+   "op": "text",
+   "en": "Maybe I really should have used the new school building's restroom.\nBut I just couldn't stop thinking about what I'd seen back there.\nSo I decided to go to the old school building one more time.\nCan you believe I tried to use a restroom with that plant in it?\nNow that I think about it, maybe the plant was calling me.\nI headed for the old school building.{p}",
+   "follows_choice": [
+    "24:9b48"
+   ],
+   "returns": [
+    "24:a998: RETURN - \"Can you believe I tried...\" renders shinjirarenai kai (do you find it hard to believe); editorial may prefer \"Hard to believe..., isn't it?\""
+   ]
+  },
+  {
+   "id": "24:aaf4",
+   "op": "text",
+   "en": "When I went into the old school building, I heard someone crying.\nI had a really bad feeling.\nMaybe I shouldn't have come to a place like this after all.\nThat's what I thought, but my feet kept carrying me toward the restroom.\nThe closer I got to the restroom, the louder the crying became.\nAnd then, as if something were drawing me in, I opened the door to that restroom.{p}"
+  },
+  {
+   "id": "24:ac38",
+   "op": "text",
+   "en": "Then I heard crying coming from behind the stall door where the plant had been.\nWhat could it be?\nI opened the door.{p}"
+  },
+  {
+   "id": "24:acc4",
+   "op": "text",
+   "en": "When I looked inside, the plant...\nThe plant with Takeuchi's face was crying.\nThe Takeuchi in human form wasn't there anymore.\nAnd the plant was saying something like this:\n\"Help me...!\nI'm Takeuchi.\nAn evil spirit turned me into this.\nHelp me... please... help me...\"\nHe told me the whole story.\nOn the first day Takeuchi came to this school, he snuck into the old school building as a prank.\nWhile he was there, he needed to use the restroom...\nWhen he used that toilet, an evil spirit's hand came out of the bowl and grabbed his leg, it seems.\nThe evil spirit sucked the life energy out of Takeuchi's body.\nAnd Takeuchi was turned into a plant, he said.\nAfter that, the evil spirit took on Takeuchi's exact form...\nAnd started coming to school in his place, he told me.\nEvery so often, the evil spirit would come to Takeuchi and suck out his life energy.\nIt drained the energy out of Takeuchi, that shriveled-up plant, like it was wringing him dry.\nI guess evil spirits don't relieve themselves at all.\nThat's why Takeuchi got the reputation of never going to the restroom.\nNobody must have known he'd been making trips to the old school building's restroom.\nTakeuchi, now a plant, was wailing.\nBut there was nothing I could do.\nI apologized to him over and over, and left the old school building's restroom behind...{p}"
+  },
+  {
+   "id": "24:b194",
+   "op": "text",
+   "en": "{a}{f:|}.\nThe evil spirit that disguised itself as Takeuchi has already graduated, but...\nMaybe, even now, Takeuchi the plant is still in the old school building's restroom.\nWhat do you say?\nI'd like to go take a look right now...{p}"
+  },
+  {
+   "id": "24:b27c",
+   "op": "text",
+   "en": "\"Ah, Hosoda!\"\nWithout waiting for {f:my|my} answer, he walked out of the club room.\n{f:We|We} hurried after him.{p}"
+  },
+  {
+   "id": "24:b32c",
+   "op": "text",
+   "en": "The air in the old school building was terribly damp.\nThe creaking hallway floor put everyone more and more on edge.{p}"
+  },
+  {
+   "id": "24:b398",
+   "op": "text",
+   "en": "{f:We|We} came to the front of that restroom.\nAnd when we opened the stall door Hosoda pointed at...{p}"
+  },
+  {
+   "id": "24:b41c",
+   "op": "text",
+   "en": "\"...There's nothing here.\"\nThere was no plant {f:at all|or anything} in the toilet.\nEveryone looked relieved.\nBut Hosoda alone looked troubled.\nHe looked like he wanted to say something.\n\"Hosoda, what's wrong?\"\n{f:I|I} worked up the nerve to ask.{p}"
+  },
+  {
+   "id": "24:b550",
+   "op": "text",
+   "en": "\"{a}{f:|}, this is really hard to say, but...\"\nHosoda began to mumble.\n...Do you know why I brought you here?\nBecause there was one thing bothering me.\nAnd that hunch turned out to be right.\nTakeuchi, the one who became a plant, must be dead by now.\nAnd if so...\nThat means the evil spirit Takeuchi has no one left to give it life energy.\nSomeone else might get turned into a plant here.\n...{a}{f:|}.\nI'll tell you what I'm worried about.\nYou look like Takeuchi.\nHow do I put it... it's your aura... your eyes, things like that.\n{f:Being told this out of the blue|Being told you look like a guy} {f:probably puts you on the spot|might not mean much to you}, though.\nThe evil spirit disguised as Takeuchi might have already turned someone else into a plant.\nMaybe its prey doesn't even have to look like Takeuchi.\nBut I'm worried.\nThat you, with that same air as Takeuchi...\nMight become the next victim...\n...\nNow, let's go back to the club room.\nWe have to hear the next story, after all...{p}"
+  },
+  {
+   "id": "24:b938",
+   "op": "text",
+   "en": "\"Uh, um, I'd better not.\"\nI answered nervously.\nThen Takeuchi looked a little disappointed and went off somewhere.{p}",
+   "follows_choice": [
+    "24:2b90"
+   ]
+  },
+  {
+   "id": "24:b9d0",
+   "op": "text",
+   "en": "Later, I thought maybe I should have gone after all.\nTakeuchi had invited me, of all people.{p}"
+  },
+  {
+   "id": "24:ba54",
+   "op": "text",
+   "en": "So the next day, I went to his classroom.\nHis classroom was on the first floor, so on my way back from P.E., I peeked in through the window.\nTakeuchi wasn't there.{p}"
+  },
+  {
+   "id": "24:baf0",
+   "op": "text",
+   "en": "It couldn't be helped, so after school that day I went to see him again.\nJust then, Takeuchi happened to come out of the classroom.\nHe ran off down the hallway.\nWithout thinking, I went after him.{p}"
+  },
+  {
+   "id": "24:bbc0",
+   "op": "text",
+   "en": "Then Takeuchi headed for the old school building.\nWhy would he go to the old school building, of all places?\nHis suspicious behavior bothered me, so I kept following him.\nAnd he went straight to the restroom.{p}"
+  },
+  {
+   "id": "24:bc88",
+   "op": "text",
+   "en": "\"I have something to do today.\nCould we make it another day?\"\n\"I see. Then when's good for you?\"\nTakeuchi asked kindly.\nWe settled on a day for me to visit his house.\nAnd then that day came.{p}",
+   "follows_choice": [
+    "24:2ba8"
+   ]
+  },
+  {
+   "id": "24:bd54",
+   "op": "text",
+   "en": "\"Um... I like coffee.\"\nWhen I said it timidly, Takeuchi called the kitchen on the intercom for me.\nWhat an incredible house, right?{p}",
+   "follows_choice": [
+    "24:3178"
+   ]
+  },
+  {
+   "id": "24:bdf8",
+   "op": "text",
+   "en": "After a while, the coffee was brought in.\n...Or so I thought, but I got a shock.\nIt had a strange smell.\nThat drink wasn't coffee.\nIt looked exactly like coffee, though.\nAnd Takeuchi smiled and said this:\n\"I'll let you taste something rarer than coffee.\nTake a look.\nThis is called Sanbura tea.\nIt's from abroad.\nA souvenir from my father's travels.\nOnce you drink it, it's pretty addictive.\"\nA grassy smell, like bitter medicinal herbs, drifted from the cart carrying the Sanbura tea.\nThat choking smell...\nI felt like I was going to be sick.\nSo what do you think I did with the tea he offered me?{p}"
+  },
+  {
+   "id": "24:c044",
+   "op": "text",
+   "en": "\"Oh, anything.\nWhatever... juice or... no, anything's fine.\"\nI was really nervous.\nSo I didn't even know what I was saying myself.\nThen Takeuchi came out with this:\n\"Then how about tea?\nI've got a good one right now.\nIt's called Sanbura tea.\"\nSanbura tea?\n\"It's a souvenir my dad brought back from a trip abroad.\nApparently it's not something you can find on the open market.\nOnce you drink it, it's pretty addictive.\"\nSaying that, Takeuchi poured me some Sanbura tea.{p}",
+   "follows_choice": [
+    "24:3184"
+   ]
+  },
+  {
+   "id": "24:c258",
+   "op": "text",
+   "en": "It was a murky, pitch-black color.\nIt had a grassy smell, like bitter medicinal herbs.\n\"It has an unusual taste, so people might either love it or hate it, but once you get used to it, it's irresistible.\nGo on, try it.\"\n...What would you do in a moment like this?{p}"
+  },
+  {
+   "id": "24:c348",
+   "op": "text",
+   "en": "\"Then, tea, please...\"\nWhen I asked for it, he gave me a big smile.\n\"Hosoda, I have an interesting drink.\nIt's something my dad got when he went abroad.\nIt's called Sanbura tea, and once you drink it, it's pretty addictive.\"{p}",
+   "follows_choice": [
+    "24:3190"
+   ]
+  },
+  {
+   "id": "24:c438",
+   "op": "text",
+   "en": "\"Oh, then, I'll have some.\"\nI tried drinking the tea.\nAnd the taste...{p}",
+   "follows_choice": [
+    "24:3458"
+   ]
+  },
+  {
+   "id": "24:c4a0",
+   "op": "text",
+   "en": "It tasted sour, like a pickled plum dropped into flush-toilet water.\nAnd like someone had stuffed bugs into it...\nIt was a grassy, foul-tasting tea.\n...Well, that's just how it seemed to me.\nI've never actually drunk toilet water.\nBut it really was awful.\nStill, I couldn't exactly spit it out.\nI gulped down the tea in my mouth in one go.{p}"
+  },
+  {
+   "id": "24:c614",
+   "op": "text",
+   "en": "Then Takeuchi broke into a huge grin and said this:\n\"You drank it.\nThen I'll tell you my secret...\"\nMy heart was pounding.\nWhat was he going to say, I wondered...\n\"You've heard the rumor about me, right?\n...The one about me never going to the restroom.\"\nTakeuchi came closer to me.\n\"It's true.\"\nI swallowed hard.\n\"The secret is in this... Sanbura tea.\"\nTakeuchi put his hand on my shoulder.\n\"If you drink Sanbura tea, you won't need to go to the restroom anymore.\nAnd your body's whole constitution changes amazingly.\"\nTakeuchi peered into my face.\nHis lukewarm breath brushed my cheek...\nAnd that breath smelled very grassy.{p}"
+  },
+  {
+   "id": "24:c8a8",
+   "op": "text",
+   "en": "But for some reason, that grassy smell felt incredibly good.\nSo I leaned forward to breathe it in.\nAnd then...\nI saw it.{p}"
+  },
+  {
+   "id": "24:c958",
+   "op": "text",
+   "en": "Under the skin of Takeuchi's cheek, little green things were wriggling around.\nThey looked like the microorganisms you see when you peer through a microscope.\nTakeuchi may have caught the look on my face.\n\"There's no need to be afraid.\nThese are a kind of plant.\nThey become active once they get inside a human body.\nJust like animals.\nAnd they eat up all the impurities for you.\nSo there's no need to be afraid.\nThere's nothing scary about it at all.\"\nThat's what he started saying.{p}"
+  },
+  {
+   "id": "24:cb44",
+   "op": "text",
+   "en": "And as he said it, the inside of his mouth was completely covered with what looked like earth-colored plant vines, or roots.\nI'd already drunk the Sanbura tea.\nAt the time, I thought I'd end up like that too, and I was terrified, but...\n...{p}"
+  },
+  {
+   "id": "24:cc40",
+   "op": "text",
+   "en": "{a}{f:|}.\nSanbura tea is the best.\nI've actually drunk it myself, so you can take my word for it.\nHere, a present for you.\nI brought it here just for you.{p}"
+  },
+  {
+   "id": "24:cce8",
+   "op": "text",
+   "en": "Hosoda took out a drink container and set it on the desk.\nNo way, is this...!\nA grassy smell stung my nose.\n{f:I|I} fearfully took the container from him.\n\"So this is... Sanbura tea.\"\nWhen {f:I|I} opened the lid of the container...{p}"
+  },
+  {
+   "id": "24:cde8",
+   "op": "text",
+   "en": "A big black caterpillar was squirming around inside.\n\"Augh☆\"\n{f:I|I} flung the container away.{p}"
+  },
+  {
+   "id": "24:ce7c",
+   "op": "text",
+   "en": "\"Oh, sorry, sorry.\n{a}{f:|}, I forgot to squeeze this into juice.\"\nHosoda gave a mysterious smile and slowly began to explain.\n\"...This is what Sanbura tea is made from.\nA plant that feeds on impurities lives as a parasite in this bug's guts.\nIf you boil down the bug's body fluids, you can extract that plant's breeding essence.\nThat's what Sanbura tea is.\nOf course, this plant eats human impurities too.\nIt eats the impurities, breaks them down, and turns what would normally become waste into sweat.\nI'd heard this tea becomes addictive once you get used to it, and it's true.{p}"
+  },
+  {
+   "id": "24:d09c",
+   "op": "text",
+   "en": "These days, I always buy these bugs from Takeuchi...\"\nHosoda put his hand on {f:my|my} shoulder.\nHis breath smelled grassy.\nAnd the thing squirming in his mouth...!\nHosoda seemed to notice {f:my|my} gaze.\nHe hurriedly covered his mouth with his hand.{p}"
+  },
+  {
+   "id": "24:d1b8",
+   "op": "text",
+   "en": "\"{a}{f:|}, I'm sorry.\nI couldn't let you taste the Sanbura tea.\nNext time, I'll make it properly and bring it in.\nThen you won't have to go to the restroom either...\"\nEvery time Hosoda spoke, the grassy smell stung {f:my|my} nose.\n{f:No way|No way}.\nThere's no way {f:I could|I'd ever} drink something that creepy.\nTime to have him wrap up his story, so we could hurry on to the next one...{p}"
+  },
+  {
+   "id": "24:d340",
+   "op": "text",
+   "en": "Something pricked me at my feet.\nWhat was that...?{p}"
+  },
+  {
+   "id": "24:d388",
+   "op": "text",
+   "en": "When I looked, a bug that had crawled out of the dropped container was on {f:my|my} foot...!\n{f:Oh no|Oh no}.\n{f:I'd|I'd} been bitten by the bug Sanbura tea is made from{f:!|!}\nI hurriedly shook my foot and brushed the bug off.\nBut on {f:my|my} sock, little red specks of blood were welling up...{p}"
+  },
+  {
+   "id": "24:d4c4",
+   "op": "text",
+   "en": "Seeing that, Hosoda grinned.\n\"You just got bitten by the bug, didn't you?\"\nHe said it, his shoulders shaking with delight.\nWhat should I do?\nIf being bitten causes a change in {f:my|my} body...\n\"My story ends here...\"\nHosoda picked up the Sanbura tea bug and murmured, truly delighted.\n\"{a}{f:|}, whose story are you going to hear next?\"\n{f:Oh no|Oh no}.\nFor a while, {f:I|I} couldn't say anything.\n......\nBut...\n{f:I|I} {f:didn't drink|never drank} the Sanbura tea.\nNothing strange {f:should happen.|is going to happen, right?}\nIt's fine.\nI'm sure it's {f:fine|fine}...\n{f:I|I} decided to hear the next person's story, though a lump of unease stayed in my chest.\n\"Well then, the next story...\"{p}"
+  },
+  {
+   "id": "24:d778",
+   "op": "text",
+   "en": "Sure, I was scared, but I couldn't beat my curiosity.\nI finally drank the tea.\nBut the taste was...{p}",
+   "follows_choice": [
+    "24:3ac0"
+   ]
+  },
+  {
+   "id": "24:d804",
+   "op": "text",
+   "en": "It was like mashed-up maggots mixed with cake and white bean paste, then thinned with muddy water.\n...Maybe that's a bit of an exaggeration.\nBut anyway, it was disgusting.\nAnd it clung thickly to the inside of my mouth.\nTakeuchi smiled and said:{p}"
+  },
+  {
+   "id": "24:d8f8",
+   "op": "text",
+   "en": "\"Hosoda, that's my secret.\nIf you drink Sanbura tea, you instantly stop needing to go to the restroom.\nAnd your body's whole constitution changes amazingly.\"\nWith that, Takeuchi slowly crept closer.\nClose enough that his breath brushed my cheek.\n...That breath smelled very grassy.{p}"
+  },
+  {
+   "id": "24:da10",
+   "op": "text",
+   "en": "I went to Takeuchi's classroom.\nTakeuchi was inside.\nI could tell right away.\nI mean, there were tons of girls crowded around.\nBut even though I'd made it to the classroom door, I couldn't go in, or even ask someone to call Takeuchi out.\nI mean, it was a third-year classroom, and I didn't really know Takeuchi that well.\nI'd come all this way, but I didn't know what to do.\nThen...\nTo my surprise, Takeuchi spoke to me first.{p}",
+   "follows_choice": [
+    "24:5e00",
+    "24:609c"
+   ]
+  },
+  {
+   "id": "24:dbd8",
+   "op": "text",
+   "en": "\"Hey, Hosoda.\nThanks for the other day.\"\n\"Oh, uh, h-h-hi.\nHello.\"\nI stuttered so badly it was embarrassing.\n\"Hm? What's up?\nDid you need something from me?\"\nTakeuchi was all smiles, chatting with me in a friendly way, like a completely different person from the other day.\n\"Oh, no, it's not that I needed anything in particular...\"\n\"Perfect timing, Hosoda.\nIf you're free at lunch break today, could you come to the same place as before?\nI think we'd get along, and I'd like to talk with you.\"\nIt was a chance I couldn't have hoped for.\nI'd gone all the way there because I wanted to talk to Takeuchi.\nI promised I'd definitely come, and left.{p}"
+  },
+  {
+   "id": "24:de24",
+   "op": "text",
+   "en": "Then came lunch break.\nI wolfed down my lunch and went behind the old school building.{p}"
+  },
+  {
+   "id": "24:de7c",
+   "op": "text",
+   "en": "Takeuchi was already there.\n\"Oh, sorry I'm late.\"\n\"No, it's fine.\nI just got here myself.\"\nTakeuchi said it with a smile.\n\"More importantly, do you have a minute?\"\n\"Yes, what is it?\"\n\"I want to go to the restroom for a bit. Will you come with me?\"\nI was stunned.\nI mean, Takeuchi was famous for never going to the restroom, and here he was saying that.\nSeeing me gaping in astonishment, Takeuchi laughed and said this:\n\"Aren't you getting the wrong idea?\nI said I'm going to the restroom, but it's not to relieve myself.\nThere's something I want to go get.\"{p}"
+  },
+  {
+   "id": "24:e0e4",
+   "op": "text",
+   "en": "I was a little relieved.\nWhy, you ask?\nIn my mind, Takeuchi was a superman who never went to the restroom, or a hero, or something...\nAnyway, I'd finally gotten close to someone like that, so finding out he was just an ordinary person would have been a letdown.\nI think I didn't want my image of an 'amazing person' right near me to be shattered.\nSo I followed Takeuchi into the old school building.{p}"
+  },
+  {
+   "id": "24:e254",
+   "op": "text",
+   "en": "Takeuchi headed for the restroom at the very end of the old school building's first floor.\nI followed him in silence.\nWhen we got to the restroom, he took something out of one of the stalls.{p}"
+  },
+  {
+   "id": "24:e310",
+   "op": "text",
+   "en": "It was a flower growing in a flowerpot, some kind I'd never seen before.\n\"What is this?\"\nI asked him straight out.\n\"Heh heh.\nThis is my secret for never going to the restroom.\"\nTakeuchi said it just like that.\nI was a little surprised.\nI wondered why he'd tell me his secret so easily.\nI'd just assumed it had to be some incredible secret, like a secret technique passed down in his family and never revealed to outsiders.\n\"You mustn't tell anyone.\nI'm only telling you because it's you, Hosoda.\"\nWhen he said that, I was so happy.\nI promised I'd never tell anyone.{p}"
+  },
+  {
+   "id": "24:e574",
+   "op": "text",
+   "en": "Then Takeuchi carefully hugged the flowerpot and went back out to the yard behind the old school building.\n\"Hosoda, watch this.\"\nWith that, Takeuchi set the flowerpot down in a sunny spot.\n(Huh?)\nThe flower in the pot started writhing and moving!\nAt first I thought the parts that had shriveled up were just spreading out in the sun.\nBut I was wrong.{p}"
+  },
+  {
+   "id": "24:e6c8",
+   "op": "text",
+   "en": "When the sun hit it, the flower started moving as if it had a will of its own.\nThe petals snapped wide open, and inside were rows of what looked like tiny teeth.\nAnd it began moving, looking this way and that, as if searching for prey.\nTakeuchi gently stroked the petals, rolled up his shirt sleeve, and thrust his arm out in front of the flower.\nThe instant he did, the plant bit into Takeuchi's arm!\n\"T-Takeuchi☆\"\nI couldn't help screaming.{p}"
+  },
+  {
+   "id": "24:e888",
+   "op": "text",
+   "en": "\"It's okay, Hosoda...\nThis is how I have the flower suck out the things my body doesn't need.\nThat way, I don't have to go to the restroom.\"\nTakeuchi said it with a look of ecstasy.\nBlood oozed from where the flower had bitten him and dripped down.\n\"There, I'm done.\nNext, it's your turn, Hosoda.\"{p}"
+  },
+  {
+   "id": "24:e9c0",
+   "op": "text",
+   "en": "With that, Takeuchi thrust the flowerpot at me.\nI didn't know what to do.\nI mean, just watching it, it looked really painful.\nBesides, I didn't want to be bitten by something I didn't understand.\nI refused with everything I had.\nThen Takeuchi, disappointed, said to me:{p}"
+  },
+  {
+   "id": "24:eadc",
+   "op": "text",
+   "en": "\"Hosoda.\nI'm so disappointed.\nI went to the trouble of telling you a secret I've never told anyone.\nOnce you don't have to go to the restroom, all sorts of good things happen.\nFirst, you don't have to go to the restroom.\nThat way, you don't have to spend the precious time of your life on the restroom.\nTime you've lost never comes back, after all.\nNext, you get really popular with girls.\nEven if they're not actually into you, they flock around to ask how to stop needing the restroom.\nIt feels great.\nBeing surrounded by girls.\nBut those two things aren't really a big deal.\nThere's something even better.\nWant to know?\nI'll tell you.\nWhen the flower is sucking from you, it feels really good.\nIt's like having the toxins drawn out of your body...\nIt's a pleasure only people who've experienced it can understand.\nYou had the chance to taste it, and you're just going to let it slip away? I can't imagine that.\nYou might never get another chance to taste it.\"\nTakeuchi said it like he was truly disappointed.\nHearing that, I started to feel like I was throwing a once-in-a-lifetime chance down the drain.{p}"
+  },
+  {
+   "id": "24:ef00",
+   "op": "text",
+   "en": "(How good could it feel?\nIf Takeuchi recommends it that strongly, it must be amazing.\nIf I let this chance slip by now, I'll probably never get to taste it again...)\nThinking that, I couldn't shake the feeling that if I didn't try it now, I'd regret it for the rest of my life.\nSo I decided to let him do it.{p}"
+  },
+  {
+   "id": "24:f048",
+   "op": "text",
+   "en": "\"Takeuchi.\nI've changed my mind, and I want to give it a try.\nPlease.\nLet me give it a try.\"\nI asked him with a serious face.\nThen Takeuchi said,\n\"Oh, Hosoda.\nYou're up for it now?\nYou're just what I took you for.\nYou know, I was thinking it wasn't right for me to keep this all to myself.\nI thought you'd surely understand how I feel, Hosoda.\nMy eye for people didn't fail me.\"{p}"
+  },
+  {
+   "id": "24:f1dc",
+   "op": "text",
+   "en": "With that, he thrust the flowerpot toward me, looking really, really happy.\nOn the flowerpot, that flower was writhing and squirming, hungry for prey.\nI was scared, but I wanted to taste the pleasure Takeuchi talked about.\nI took the plunge and held out my right arm.{p}"
+  },
+  {
+   "id": "24:f2fc",
+   "op": "text",
+   "en": "The flower reared up as if it were roaring, then bit into my arm.\n\"Ow!\"\nWithout thinking, I swung my right arm around, the one it was biting, trying to shake it off.\nBut the flower kept its teeth firmly in my right arm and wouldn't let go.\nAnd it was sucking my blood.{p}"
+  },
+  {
+   "id": "24:f42c",
+   "op": "text",
+   "en": "It hurt the instant it bit me, but having my blood sucked felt really good.\nHow can I put it... it really was like having the dirt sucked out of my body; I felt refreshed, and it felt like my body was getting lighter and lighter.\nThe heaviness I'd always felt in my body vanished like it had never been there.\nFeeling completely fulfilled, I spoke to Takeuchi.{p}"
+  },
+  {
+   "id": "24:f58c",
+   "op": "text",
+   "en": "\"Takeuchi, this is amazing.\nIt's like the garbage in my body got sucked out...\nSomehow, I feel like my body's gotten lighter.\"{p}"
+  },
+  {
+   "id": "24:f614",
+   "op": "text",
+   "en": "Then Takeuchi started to laugh, eerily.\nHis twisted face looked like a completely different person's.\n\"Heh heh heh heh heh...\nHosoda, you really are a gullible fool, aren't you?\nIt took me two years to find an idiot like you, who'd believe anything anyone told him.\nLooks like I'm a good judge of people after all.\"\n\"Huh?\"\nTakeuchi was looking at me with an expression of utter contempt.\nI had no idea at all what had just happened.\n\"What's wrong, Takeuchi?\nPlease tell me!\nWhat's going on?\"\nAll of a sudden, I felt uneasy.\nIt seemed Takeuchi had set me up.\n\"Oh, I'll tell you.\nI've finally got a companion, so I'm in a good mood.{p}"
+  },
+  {
+   "id": "24:f8b8",
+   "op": "text",
+   "en": "Since it's come to this, I'll tell you.\nOnce this thing bites you, you no longer have to go to the restroom.\nYou think that's a good thing, don't you?\nBut it isn't.\nIt's a kind of suffering that only someone who's been through it can understand.\"\nI was confused.\nI didn't really understand what Takeuchi was saying.\nNot having to go to the restroom seemed like it could only be a good thing.\n\"What do you mean, Takeuchi?\"{p}"
+  },
+  {
+   "id": "24:fa48",
+   "op": "text",
+   "en": "\"Heh.\nWell, you'll find out soon enough, but I'll tell you now.\nIt's better to be prepared, after all.\nSaying I don't have to go to the restroom is misleading. The truth is, I don't go because there's no point in going.\nActually, I do get the urge to go, too.\nBut I don't go.\nBecause I know it'd be useless.\nHave I made myself clear yet?\nWhat I mean is, no matter how badly I need to go, nothing comes out.\nUnderstand?\nEven when I'm absolutely desperate to go, nothing comes out.\nIt's agony.\nBecause I have to keep holding it in, forever.\nNot that I really need to hold it in, since nothing's going to come out anyway.\nBut from experience, when you feel the urge, you just can't stay relaxed, can you?\nThat's why it's torture.\nThe only way to escape this torment is to rely on this flower.\nWhen this flower sucks it out of me, the urge goes away.\"{p}"
+  },
+  {
+   "id": "24:fd80",
+   "op": "text",
+   "en": "I thought, then why not just carry this flower around with you all the time?\nMaybe he sensed what I was thinking, because Takeuchi added this.\n\"You're thinking I could just keep this flower with me all the time, aren't you?\nBut that doesn't work.\nThis flower can only live in the foul air of a restroom.\nSo I can't carry it around for long.\nAnd unless it gets sunlight, it won't start moving.\nThink about it.\nThe rainy season is hell.\nWhen the sun doesn't come out for days, I have to hold it in the whole time.\nI feel like I'm going to pass out.{p}"
+  },
+  {
+   "id": "24:ff7c",
+   "op": "text",
+   "en": "But now, Hosoda, I can share that suffering with you.\nThat doesn't mean it'll get any easier for me, but having someone who understands this pain will be an emotional support.\"{p}"
+  },
+  {
+   "id": "24:1005c",
+   "op": "text",
+   "en": "When I heard that, I nearly fainted on the spot.\nI mean, you get it, right, {a}{f:|}?\nSay, for example, you're on a train and you need to go to the restroom.\nBut none of the cars has a toilet.\nAnd the next station is hours away.\nThat's how it's going to be for the rest of my life.\nI could never stand it... is what I'd say, but here I am, standing it.\nBecause I have no choice.{p}"
+  },
+  {
+   "id": "24:101c8",
+   "op": "text",
+   "en": "Actually, I figured none of you would believe me, so I've brought that 'flower' here with me.\nIt's all right.\nIt won't start moving unless it gets sunlight.\nSee, this is it, {a}{f:|}.{p}"
+  },
+  {
+   "id": "24:10298",
+   "op": "text",
+   "en": "With that, Hosoda set the flower down in front of {f:me|me}.\nIt was a truly grotesque flower{f:|}.\nAfter hearing that story, I felt it might start moving any second, and I had no intention of taking a closer look.\nThen Hosoda asked me, grinning.{p}"
+  },
+  {
+   "id": "24:103a4",
+   "op": "text",
+   "en": "\"{a}{f:|}, want to touch it?\nDon't worry, it absolutely won't move.\"\nWith that, he brought the flower right up in front of {f:me|me}.{p}"
+  },
+  {
+   "id": "24:10430",
+   "op": "text",
+   "en": "{f:I|I}...\n"
+  },
+  {
+   "id": "24:10448",
+   "op": "choice",
+   "en": "Touch it"
+  },
+  {
+   "id": "24:10454",
+   "op": "choice",
+   "en": "Absolutely won't touch it"
+  },
+  {
+   "id": "24:10464",
+   "op": "text",
+   "en": "{f:I|I} decided to take the plunge and touch it.\nI slowly reached my hand toward it and..........{p}",
+   "follows_choice": [
+    "24:10448"
+   ]
+  },
+  {
+   "id": "24:104cc",
+   "op": "text",
+   "en": "\"{f:Waaah|Eeek}☆\"\n{f:I|I} thought my heart was going to stop.\nAll of a sudden, the flower had started to sway{f:.|...}\nHosoda had shaken it on purpose to tease {f:me|me}{f:.|, hadn't he?}{p}"
+  },
+  {
+   "id": "24:105b8",
+   "op": "text",
+   "en": "\"Ha ha ha ha ha ha!\n'{f:Waaah|Eeek}!' you went.\nNo, sorry, sorry.\nYou've actually got quite a lot of guts.\nNormally, no {f:guy|one} would even try to touch it after hearing a story like that.\"\nHosoda said that with a laugh{f:, but|, but} the next instant, his face turned terrifying, and he said this.{p}"
+  },
+  {
+   "id": "24:106ec",
+   "op": "text",
+   "en": "\"Either you don't believe my story, or you don't understand my suffering... it's one or the other.\nDon't come crying to me. There's no telling when this misfortune might strike you.\"\nWith that, Hosoda put the flower away as if it were something precious.{p}"
+  },
+  {
+   "id": "24:107cc",
+   "op": "text",
+   "en": "\"That's the end of my story, {a}{f:|}.\nPlease bring on the next person.\"\nHosoda wrapped up like that, glaring at {f:me|me}.\nHe was the one who invited me to touch it, so what {f:is|is} with that attitude?\n{f:I|I} had no idea at all what Hosoda was thinking.\nNot that I particularly wanted to know.\n\"Well then, next person, please.\nNext is...........\"{p}"
+  },
+  {
+   "id": "24:10948",
+   "op": "text",
+   "en": "(Takeuchi must know something about that plant.)\nConvinced of that, I decided to look into the plant.\nOnce I'd made sure Takeuchi had gone inside the school building, I immediately doubled back.{p}",
+   "follows_choice": [
+    "24:6c8c"
+   ]
+  },
+  {
+   "id": "24:10a30",
+   "op": "text",
+   "en": "And the strange plant was gone.\nWhen I checked the spot where it had been growing, there were signs that it had been dug up.\nTakeuchi must have dug it up and moved it.\nJust as I thought, Takeuchi seemed to be hiding something about that plant.{p}"
+  },
+  {
+   "id": "24:10b18",
+   "op": "text",
+   "en": "I went around searching for the place he'd replanted it.\nBecause I wanted to find out more about that plant.\nI figured he must have replanted it somewhere that got lots of sun, so I went around searching all the sunny spots.\nI found it right away.\nYou probably know this too, but there aren't any hidden nooks behind the old school building, right?\nBesides, it needed a sunny spot, so anything around it casting shade would be bad.{p}"
+  },
+  {
+   "id": "24:10c90",
+   "op": "text",
+   "en": "When I went over to look, just as I thought, it seemed to have only just been replanted.\nI decided to hide and watch what Takeuchi was up to.{p}"
+  },
+  {
+   "id": "24:10d24",
+   "op": "text",
+   "en": "The next day, I ate lunch earlier than usual and was about to hurry over to the old school building.\nI got such a surprise.{p}"
+  },
+  {
+   "id": "24:10da4",
+   "op": "text",
+   "en": "Because when I dashed out of the classroom, there was Takeuchi, standing in the hallway.\n\"Oh, uh, Takeuchi!\"\nThe very person I'd been about to secretly spy on was standing right there, so of course I was surprised, right?\nTakeuchi came over to me, smiling.\n\"Hey, Hosoda.\nI said some nasty things yesterday.\nAfterward, I regretted it, wondering how I could have said something so cruel.\nSo I came to tell you something good, as a token of apology.\"\nTakeuchi said it quite casually.\nIt was unexpected. He seemed like a completely different person from the Takeuchi of yesterday.{p}"
+  },
+  {
+   "id": "24:10fb0",
+   "op": "text",
+   "en": "I decided to accept Takeuchi's kindness at face value.\nTakeuchi asked if I'd come with him behind the old school building, and walked there together with me.{p}"
+  },
+  {
+   "id": "24:11050",
+   "op": "text",
+   "en": "When we got behind the old school building, Takeuchi asked me a question, smiling.\n\"Hosoda, do you know the 'rumor' about me?\"\nIt was the hardest kind of question to answer.\nAnyone who goes to this school knows the rumor that Takeuchi never goes to the restroom.\nBut saying that to his face is a little awkward, right?\nI said,\n\"Uh, well...\"\nand dodged the question.\n\"I'll tell you the secret behind that rumor about me never going to the restroom.\nIt's a very special secret I haven't told anyone.\nIf you promise not to tell anyone, I'll tell you.\"\nI was stunned.\nI mean, he was offering to tell me a secret nobody had ever managed to get out of him.\nAnd only me, at that!\nI was so happy, I promised right away.\nTakeuchi made me swear to keep the promise, and started talking.{p}"
+  },
+  {
+   "id": "24:11338",
+   "op": "text",
+   "en": "\"That rumor about me not going to the restroom... it's true.\nBut that doesn't mean I'm an alien or anything.\nI'm a human being, same as you, Hosoda.\nObviously.\nI used to go to the restroom just like everyone else, too.\nIt was after I started at this school that I stopped going.\nSo it's only been three years since I stopped going to the restroom.\nThe secret is in what I eat.\"\nI was amazed.\nThat just changing your diet could mean you didn't have to go to the restroom.\nI'd never heard anything like that.\nI love eating too, so I'd read all sorts of books about food and studied it, you know.\nBut I'd never seen a book that said anything like that.{p}"
+  },
+  {
+   "id": "24:115cc",
+   "op": "text",
+   "en": "\"You look surprised.\nI don't blame you.\nNot having to go to the restroom, just from what you eat.\nAnd get this: it works as a diet, too.\nHosoda, I may be skin and bones now, but back in first year, I was about as fat as you.\nNo, maybe I was a little fatter than you?\nBut, well, look at me now.\nEver since I changed what I eat.\nAfter that, for some reason, girls started flocking to me, and I stopped having to go to the restroom.\nWell? Now you want to know, don't you?\"\nI nodded and nodded.\nWhen I heard that, I thought, how amazing, I'll eat it no matter how awful it tastes.\n\"All right, I'll tell you, Hosoda.\nThat food is actually right here.\"{p}"
+  },
+  {
+   "id": "24:11880",
+   "op": "text",
+   "en": "With that, Takeuchi pointed at that strange plant.\n\"Huh? You eat this plant?\"\nI couldn't believe it.\nThat this weird plant was something you could eat.\n\"Yeah, that's right.\nThis plant was already growing here before I came to this school, and strangely enough, it bears fruit every single day.\nYou eat that fruit.\"\nSaying that, Takeuchi rustled through the leaves and pulled out a spot where the tip of a stem was swollen.\nThen he started peeling the skin off the swollen part.{p}"
+  },
+  {
+   "id": "24:11a50",
+   "op": "text",
+   "en": "Inside the swollen part, lots of soft-looking red berries were lined up.\nThey were a slightly translucent red, about the size of salmon roe.\nThey were crammed in, with no room to spare.\nDo you know 'sujiko'?\nIt was just like something packed full of that.\nTakeuchi bit into it, devouring it greedily.\nSquish, squish... I could hear the berries bursting.\nThe way he ate was really abnormal; he was like a different person from the Takeuchi of a moment ago.\nWhen he'd finished eating, Takeuchi turned to face me.\nFor a second, my blood ran cold.{p}",
+   "returns": [
+    "24:11a50: FIX added gloss - source only asks whether the listener knows sujiko and says the pod looked packed with it; removed the explanation 'roe still packed in its sac' (salmon roe is already named two lines up). RETURN to editorial if the bare term reads too opaque"
+   ]
+  },
+  {
+   "id": "24:11c48",
+   "op": "text",
+   "en": "Takeuchi's face had changed.\nBurst red berries were smeared around his mouth like blood.\n\"Come on, Hosoda, try some.\"\nA sweet scent, like fresh fruit, drifted toward me.\nAs if lured by that sweet scent, I tried some.{p}"
+  },
+  {
+   "id": "24:11d3c",
+   "op": "text",
+   "en": "The feeling of them popping in my mouth was pleasant.\nAn indescribable flavor, unlike anything I'd ever tasted, spread through my mouth.\nSure, it didn't fill my stomach, but it gave me that feeling of \"Ah, now I've eaten.\"\nIt's a taste you can never forget once you've had it.{p}"
+  },
+  {
+   "id": "24:11e2c",
+   "op": "text",
+   "en": "\"Well, Hosoda?\nDelicious, isn't it?\"\nTakeuchi asked happily.\n\"Yes, it's really delicious.\nI've never eaten anything this delicious before.\"\nTakeuchi nodded over and over, looking pleased.\n\"The truth is, Hosoda,\nthese berries are poisonous.\nPoisonous enough that a single one could kill a person.\"{p}"
+  },
+  {
+   "id": "24:11f7c",
+   "op": "text",
+   "en": "(Huh...?)\nFor a moment, I couldn't understand what Takeuchi was saying.\nThat's right, there was poison in those berries.\nI don't know if it was because I'd heard that, but my heart started beating faster.\nAnd then my chest grew painfully tight, as if my heart were being squeezed.\nMy breathing grew ragged.{p}"
+  },
+  {
+   "id": "24:12098",
+   "op": "text",
+   "en": "\"What's the matter, Hosoda?\nYou look pale.\nI was the same at first.\nBut you'll get used to it soon.\nThese days, without this, I don't feel like I've eaten at all.\"\nTakeuchi said that, his face pale, swaying unsteadily.\n\"You don't need to worry, Hosoda.\nThere's an antidote, of course.\"{p}"
+  },
+  {
+   "id": "24:121a8",
+   "op": "text",
+   "en": "With that, Takeuchi started digging around the roots of the plant.\nI couldn't see what he was doing; his back was in the way.\n\"There it is, there it is.\"\nTakeuchi turned around and held out his right hand to me.{p}"
+  },
+  {
+   "id": "24:12268",
+   "op": "text",
+   "en": "\"Hosoda. Eat this.\nThen you won't have to die...\"\nTakeuchi said that as he put something squirming from his left hand into his mouth.\nIn Takeuchi's right hand...........{p}"
+  },
+  {
+   "id": "24:12344",
+   "op": "text",
+   "en": "Maggots were crawling all over it!\nHis left hand was swarming with maggots too, wriggling and squirming.\nTakeuchi was scooping them up with his tongue and munching them down.\n\"Come on, if you don't eat them quickly, it'll be too late.\"\nI felt everything before my eyes growing darker and darker.\nDid I have to eat maggots?\nNo, I knew I had to eat them.\nIf I didn't, I would die.{p}"
+  },
+  {
+   "id": "24:124cc",
+   "op": "text",
+   "en": "I grabbed one maggot from Takeuchi's right hand and brought it up to my mouth.\nIt was crawling along my index finger.\nThe slightly yellowish-white maggot was right in front of my mouth.\n(If I eat this, if I just eat this...)\nEven though I thought that, I couldn't bring myself to do it.\nBut if I didn't eat it, I would die.\nI steeled myself and shoved my index finger into my mouth.{p}"
+  },
+  {
+   "id": "24:12610",
+   "op": "text",
+   "en": "When I slowly pulled my index finger out of my mouth, I could feel the maggot crawling around on my tongue.{p}"
+  },
+  {
+   "id": "24:1267c",
+   "op": "text",
+   "en": "\"Hosoda, you have to chew it well.\nOtherwise, it won't work.\"\nTakeuchi said that just as I was about to swallow it whole.\nI didn't want to die, so I steeled myself and crushed it between my teeth...\nWhat do you think it tasted like?{p}"
+  },
+  {
+   "id": "24:1275c",
+   "op": "text",
+   "en": "Bitter juice spread out with a 'squish.'\nIt was such a small maggot, but the taste filled my whole mouth.\nIt was so disgusting that I forced myself to swallow it.\nThen the feeling of my heart being squeezed eased off, just a little.\n(If I don't eat more, I'll die...)\nI grabbed Takeuchi's right hand and licked the maggots straight off it.\nThis time, a huge mass of maggots came into my mouth.\nAnd around my lips, you know, the maggots that didn't fit were crawling around.\nChewing hard, I put the maggots crawling around my lips into my mouth too, without letting a single one escape, and crushed them between my teeth.\nAs I ate, the bitter taste gradually started to seem sweet, which was really strange.\n..................\nFinally freed from the agony, I looked over at Takeuchi.{p}"
+  },
+  {
+   "id": "24:12a3c",
+   "op": "text",
+   "en": "Takeuchi, too, seemed to have neutralized the poison; his face was back to normal.\nAnd he was starting to fill the dug-up ground back in.\nBut I wondered why there had been maggots in the soil, so I peeked over Takeuchi's back into the hole he'd dug.{p}"
+  },
+  {
+   "id": "24:12b30",
+   "op": "text",
+   "en": "\"Wh-WHAAAAAAH☆\"\nI let out a scream loud enough to echo through the whole school.\nBecause there was a corpse buried there.\nA schoolgirl's corpse.\nMaybe she'd been buried upright, because she was in the ground in a pose like she was looking up.\nOut of her gaping mouth, lots of the maggots I'd just eaten were crawling out.\nAnd that strange plant was growing out of the corpse's eye.{p}"
+  },
+  {
+   "id": "24:12ca0",
+   "op": "text",
+   "en": "\"H-hey, don't shout!\nSomeone'll find us!\"\nTakeuchi said that calmly.\nGive me a break.\nFeeling sick, I threw up everything in my stomach.{p}"
+  },
+  {
+   "id": "24:12d5c",
+   "op": "text",
+   "en": "\"Hosoda. Don't tell anyone.\nYou're one of us now. You've come to know that taste, same as me.\nFrom now on, nothing you eat is going to taste good to you.\nAnd to eat those berries, someone has to be sacrificed.\n...Don't worry.\nI'll raise this plant until I graduate.\nLuckily for me, lots of girls gather around me.\nAsking me to tell them the secret of not having to go to the restroom.\nSo I let them eat those berries.\nBut the girls can't bring themselves to eat those bugs for the antidote, so they die.\nAnd then I have those girls become nourishment for this plant.\nIt's not my fault.\nI properly teach them how to cure the poison, and they don't eat it and die anyway.\nIt's the same as suicide...\"\nSaying that, Takeuchi began filling in the hole again.{p}"
+  },
+  {
+   "id": "24:13034",
+   "op": "text",
+   "en": "..................{p}"
+  },
+  {
+   "id": "24:13078",
+   "op": "text",
+   "en": "Just as Takeuchi said, nothing I eat tastes good to me anymore.\nThat's why I look forward to it so much: the moment I get to eat those berries.\nI don't eat them every day, so it's not like I never have to go to the restroom, though.\nFor me, not having to go to the restroom isn't all that appealing.\nI just want to eat something delicious.\n{a}{f:|}, I'll treat you to some of those berries sometime.\nThey're so delicious, you'll get hooked too.\nBut you'll have to eat that antidote, okay?\nWell, if you can't eat it, I'll just turn you into fertilizer for that plant.\nI can't wait.\nWhen should we go eat some?\nWell, that's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "24:1331c",
+   "op": "text",
+   "en": "The next day, I went behind the old school building as usual.\nAfter what happened yesterday, I carefully checked the area so as not to be spotted, but it seemed nobody was there.\nTakeuchi might have been hiding, so I looked all around, but he was nowhere to be found.\nSo I was able to examine the strange plant without worrying.{p}",
+   "follows_choice": [
+    "24:6cdc"
+   ]
+  },
+  {
+   "id": "24:1345c",
+   "op": "text",
+   "en": "When I went to the plant, sure enough, it was growing in a spot slightly off from the mark I'd made yesterday.\n(I've got time today, so I can investigate as much as I want.)\nThinking that, I decided to start by examining the roots.\nLots of leaves were hanging down over the roots, so I tried to push them aside to look.\nJust then.{p}"
+  },
+  {
+   "id": "24:13598",
+   "op": "text",
+   "en": "I felt someone's gaze on me from somewhere.\nI hurriedly turned around.\nMaybe Takeuchi had come.\nHe'd told me never to come here again, so I kind of didn't want to run into him.{p}"
+  },
+  {
+   "id": "24:13678",
+   "op": "text",
+   "en": "But there was no one standing there.\nEven when I looked around, I couldn't sense anyone nearby.\nBut I had the feeling that someone was definitely watching me.\nJust then, I heard a 'rustle,' like leaves moving.\nAnd there wasn't any wind blowing, mind you.\nWhen I hurriedly looked at the plant, its big leaves were swaying back and forth.\nThe grass and trees around it weren't moving, but that plant alone was swaying.\nIt was so creepy, I got chills.\nThis was the back courtyard of the old school building, after all, so anything could appear at any moment.\nThe old school building is a gathering place for spirits.\nMidday or not, it doesn't make any difference at all.{p}"
+  },
+  {
+   "id": "24:138bc",
+   "op": "text",
+   "en": "(Isn't there something about this plant?)\nI even started to feel that.\nAnd if so, that only made me more curious about the plant.\nI couldn't rest until I'd examined it.\nPeople are like that, aren't they? When there's something scary, sometimes you can't rest until you've checked it out.\nFor example, say you hear a noise from inside the closet.\nThere's no reason for anything to make a sound in there.\n(What was that noise just now?\nCould the doll I put in the closet have started moving?)\nOnce you start thinking that, you can't rest until you open it and look, right?\nHaven't you ever had that happen?\nThat time too, I was so curious I couldn't stand it.\nI pushed the thick leaves aside.{p}"
+  },
+  {
+   "id": "24:13b58",
+   "op": "text",
+   "en": "\"Wh-whoaaa☆\"\nMy heart nearly stopped.\nBecause a person's head was sticking out of the ground.\n(It's a body!\nSomeone's body is buried here☆)\nThat's what I thought at the time.\nIts skin was a greenish color, and lines like leaf veins ran beneath it.\nI collapsed on the spot, as if my legs had given out.\nI was terrified, but I couldn't take my eyes off that head.\nAs if paralyzed, I stayed face-to-face with the head for a while.\n\"Eek...\"\nThen, all of a sudden.{p}"
+  },
+  {
+   "id": "24:13d2c",
+   "op": "text",
+   "en": "The head's eyes snapped open and glared at me.\nTerrified, I scrambled backward, still sitting.\nThe moment I tried to stand up and run, something grabbed my foot and I fell.\nI looked at what was wrapped around my ankle.{p}"
+  },
+  {
+   "id": "24:13e10",
+   "op": "text",
+   "en": "A hand jutting out of the ground was gripping my foot.\nI kicked at the hand with my other foot, trying to get away.\nBut that foot got grabbed too, and there was nothing I could do.{p}"
+  },
+  {
+   "id": "24:13ee4",
+   "op": "text",
+   "en": "The head looked at me and grinned, a long, slow grin.\nThat was when I realized.\nThe one buried there was Takeuchi.\n\"T-Takeuchi☆\"\nTakeuchi spoke to me in a wheezing voice, like air leaking out from somewhere.\n\"Hosoda, I told you yesterday, didn't I?\nNot to come to this place.\nEither you don't understand Japanese, or you've got a terrible memory.\nOr are you saying you won't listen to anything I tell you?\n...Well, whatever.\nI'll make you one of my kind, too.\nI'm a generous person, after all.\nThis body is wonderful.\nAs long as I'm in the sun, I don't need to eat, and since I don't eat anything, I don't need to go to the restroom, either.\nThere's nothing more wonderful than this.\"{p}"
+  },
+  {
+   "id": "24:14154",
+   "op": "text",
+   "en": "Several tentacle-like things came slithering out from around Takeuchi's neck.\nThey stretched toward my throat.\nI tried to swat them away with both hands, but the tentacles coiled around me and I couldn't move.\nThen the remaining tentacles reached for my neck and jabbed into it.{p}"
+  },
+  {
+   "id": "24:1427c",
+   "op": "text",
+   "en": "\"Ow☆\"\nA sharp pain shot through me, like being stuck with a needle.\nBut it only hurt for a moment; after that, I didn't feel any more pain.\nI felt the tentacles sink deep into my throat and stretch up toward my head.\nAs the tentacles advanced, I could feel the muscles of my face being pushed up toward the top of my head.\nShhhlurrrp... they crept upward, little by little.\nIt felt kind of itchy.\nA queasy, shivery feeling around my lower back went on for a while.\n...I think it was around when they'd reached my brain.{p}"
+  },
+  {
+   "id": "24:14450",
+   "op": "text",
+   "en": "Suddenly, I felt good.\nLike soaking in a lukewarm bath in a daze.\nIt felt like my body was floating, light as air.\nIn that hazy state, I slowly lost consciousness...{p}"
+  },
+  {
+   "id": "24:14530",
+   "op": "text",
+   "en": "I still can't forget how that felt.\nEven now, when I close my eyes and stretch toward the sun, my consciousness slips away and I feel so happy.\nAfter that, Takeuchi and I became really close, and we'd often stretch together in the back courtyard of the old school building.\nEven now that Takeuchi's graduated, on sunny days, I stretch toward the sun.\n{a}{f:|}.\nI'd love to teach you this feeling, too.\nIt really feels so good.\nLet's go behind the old school building together sometime.\nI'll teach you the greatest pleasure in this world...\nHeh heh heh heh heh...\nWell, that's the end of my story, {a}{f:|}.\nI'll come by your classroom to get you sometime.\nLook forward to it.\n..................\n...Just now, I thought I saw something like a tentacle stretch out from around Hosoda's neck...........{p}"
+  },
+  {
+   "id": "24:1480c",
+   "op": "text",
+   "en": "{f:I|I} thought, {f:there's no way I'm touching that|I am not touching that}, no matter what, and flatly refused.{p}",
+   "follows_choice": [
+    "24:10454"
+   ]
+  },
+  {
+   "id": "24:14880",
+   "op": "text",
+   "en": "\"My, my, {a}{f:|}.\nYou're {f:a real coward,|quite a}{f: despite how you look| scaredy-cat}, huh?\n{f:Ah|Heh}{f:... no|, heh heh}{f:, sorry|, oh}{f:, you're exactly what you look like|, that's hilarious}.\nAh ha ha ha ha!\"\nWhat {f:is|is} with this guy?!\nUpperclassman or not, there's a limit to how much he can make fun of people!\n{f:I|Ugh,}{f: felt like punching him right then and there, but| I want to go home already, but}{f: when I thought of| when I think of} the newspaper club's future{f:, I gritted my teeth and held back.|, I can't do that.}\n{f:But|Still}{f: I got worked up, too,|, this is so unpleasant...}{f: and the words just slipped out.| Ugh!}\n\"Fine.\nI just have to touch it, right?★\"\n{f:I|Fed up,}{f:| I} touched the petals in one quick motion.\nIn that instant☆{p}"
+  },
+  {
+   "id": "24:14b7c",
+   "op": "text",
+   "en": "\"Ow!\"\nIncredibly, the flower started moving and {f:bit my hand|bit down on my hand}.\n\"{f:Whoa|Eek}, {f:whoa|no}!\"\nNo matter how hard I shook my hand, it wouldn't let go.\nMaybe it was sucking my blood. The sluggish feeling spreading through my body felt good.{p}"
+  },
+  {
+   "id": "24:14c94",
+   "op": "text",
+   "en": "\"This is amazing, {a}{f:|}!\nThe flower moved without any sunlight.\nThis is a new discovery!\nMaybe it'll be able to suck it out of me even on rainy days☆\"\nHosoda was getting excited all by himself, not caring in the least that {f:I'd|I'd} been bitten.\nWhen I heard that, even {f:I|I} finally lost my temper.\n{f:I|I} grabbed the flowerpot of the flower biting my hand and {f:brought it down on Hosoda|swung it around wildly}.{p}"
+  },
+  {
+   "id": "24:14e50",
+   "op": "text",
+   "en": "\"Gyaah☆\"\n{f:Hosoda|It struck him, and}{f:| Hosoda} collapsed, blood spurting from his head.\nThe instant the flowerpot shattered, the flower that had been biting {f:my|my} hand withered away too.{p}"
+  },
+  {
+   "id": "24:14f0c",
+   "op": "text",
+   "en": "Everyone who'd gathered began to murmur and stir.\n(What have I done{f:|}?\n{f:Losing my temper and hitting him like that|Hitting him like that, even if I didn't mean to}...)\n{f:I|I} finally realized what I'd done, and nearly panicked.\nThe club room door opened, and someone ran out.\nThey must have gone for help{f:.|, I'm sure.}{p}"
+  },
+  {
+   "id": "24:1506c",
+   "op": "text",
+   "en": "Hosoda was lying there, blood streaming from his head, twitching.\n({f:I'm|I'm} definitely not getting off easy for this{f:|}.\nWith that much blood, Hosoda {f:won't make it|might not make it}.\nWhat's going to happen now{f:|}...?\n...More importantly, what am I supposed to do if I need to go to the restroom{f:|}...?\nIf what Hosoda said is true, then now that this flower has withered, {f:I|I}'ll have to hold it in for the rest of my life{f:|}.\nWhat do I do{f:|}...){p}"
+  },
+  {
+   "id": "24:1523c",
+   "op": "text",
+   "en": "I couldn't believe I was thinking such things with Hosoda right in front of me, his lips turned purple, not moving a muscle.\n(Maybe getting bitten by that flower turns you into an irresponsible person{f:|}.\nMaybe that's why Hosoda could only talk the way he did.\nWell, who cares{f:|} about {f:a guy|someone} who's already dead.\nMaybe Hosoda's happy.\nAfter all, he doesn't have to hold it in anymore.\nEven though {f:I|I}'ll have to hold it in for the rest of my life.\nSomehow, it's making me really angry{f:|}.)\n{f:I|I} {f:kicked the motionless Hosoda in the side of the head with all my strength|looked down at the motionless Hosoda's face}.\nIn the distance, I could hear police sirens.{p}",
+   "returns": []
+  }
+ ]
+}

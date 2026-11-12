@@ -1,0 +1,433 @@
+{
+ "slice": "S107",
+ "scene": "27",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S106",
+ "next": "S108",
+ "todo": [],
+ "rows": [
+  {
+   "id": "27:7db0",
+   "op": "text",
+   "en": "Because she was wearing something like a white Noh mask, you see.\nYou couldn't even read her expression.\nThe five stuck to the ceiling had been nailed up through various parts of their bodies with five-inch spikes.\nAnd the masked woman was clinging there, leaning her weight on their corpses.\nHe was struck speechless.\nHe couldn't even scream. He was transfixed by the eerie world that filled his vision.\nThat became his last memory.\nBecause the very next instant, the masked woman came skittering across the ceiling like a spider and was on him.\n...And at that moment, he wondered.{p}"
+  },
+  {
+   "id": "27:7f98",
+   "op": "text",
+   "en": "What were those small black creatures that had been carrying those three away...?{p}"
+  },
+  {
+   "id": "27:7fdc",
+   "op": "text",
+   "en": "It didn't matter one bit to him, since he was about to die.\nMaybe people think about pretty silly things right before they die.{p}"
+  },
+  {
+   "id": "27:8074",
+   "op": "text",
+   "en": "...So what became of those six, you ask?\n...They were never found.\nThe next day, the teacher who'd gone home and left them in the make-up class and the teacher who'd been asked to take over both searched the old school building before the problem could get any bigger.\nBut they didn't find their bodies, or even a single drop of blood.\nAnd those two teachers got their stories straight: they said they'd sent the students home properly.\nAwful, isn't it?\nAnd so the six were listed as missing.\nIn the end, no one ever saw any of them again.\nStill, their classmates knew the six who vanished had stayed behind at school for a make-up class.\nAnd since they disappeared right after that, strange rumors started going around.{p}"
+  },
+  {
+   "id": "27:82dc",
+   "op": "text",
+   "en": "All kinds of weird rumors spread, too: that strange groans could be heard from the girls' restroom on the third floor of the old school building, or that someone had seen the missing students there.\nSo people started saying it was Hanako-san's curse.\nThat Hanako-san had taken the six of them away.\nWhether those six wandered into another world, or whether it really was Hanako-san's curse, nobody knows.\n...And that's the end of the story about the old school building.\nOf course, nobody actually saw the six of them being killed, so it isn't very credible, is it?{p}"
+  },
+  {
+   "id": "27:84e4",
+   "op": "text",
+   "en": "But I just can't believe it was a lie.\n...How about it?\nLet's go to the girls' restroom on the third floor right now and try calling Hanako-san out.\n{a}{f:|}.\nYou said earlier that you'd go, didn't you?\nOr did hearing my story change your mind?{p}What'll it be?\nYou're coming, right?\n"
+  },
+  {
+   "id": "27:85ec",
+   "op": "choice",
+   "en": "Go to the third-floor girls' restroom"
+  },
+  {
+   "id": "27:8604",
+   "op": "choice",
+   "en": "I'm not going after all"
+  },
+  {
+   "id": "27:862c",
+   "op": "text",
+   "follows_choice": [
+    "27:85ec"
+   ],
+   "en": "I'm so happy.\nWe really are friends.\nNo, I already think of you as my best friend.\nYou've got to solve the mystery of Hanako-san and write a great article.\nThen I'll get to be proud, too.\n...Even if I end up dead.\nWell then, let's go.{p}"
+  },
+  {
+   "id": "27:8730",
+   "op": "text",
+   "en": "...{f:And that was when it happened|Just then}.\n\"{f:Whoa|Eek}!\"\nJust as {f:we|we} were about to get up from our seats, we were bathed in a blinding, intense light.\nIt was dazzling!\nWhat {f:the hell is|is} this light?{p}{f:What the...|No}!\nWhat {f:just happened|is happening}★{p}"
+  },
+  {
+   "id": "27:8840",
+   "op": "text",
+   "en": "We got up from our seats without a word.\nWhen I happened to glance at the classroom clock, it read 10:20.\nSo was the story from before true after all?\nAt the very least, that clock had stopped.\nWas there a skull-like stain on the back of it?\nMaybe my eyes had gotten used to the dark, because I could get around well enough by moonlight alone.\n...But if I'd known things would turn out like this, I would have brought a flashlight.\nHosoda and I left the classroom together.{p}"
+  },
+  {
+   "id": "27:89f4",
+   "op": "text",
+   "en": "Even though it was summer, the wind felt awfully cold.{p}"
+  },
+  {
+   "id": "27:8a30",
+   "op": "text",
+   "en": "Was that because I was scared?\nThis was the first floor.{p}"
+  },
+  {
+   "id": "27:8a84",
+   "op": "text",
+   "en": "We climbed the stairs.\nWhat a horrible sound they made.{p}"
+  },
+  {
+   "id": "27:8abc",
+   "op": "text",
+   "en": "It sounded like vengeful spirits laughing at us.\nWe passed the second floor and kept on climbing the stairs to the third.{p}"
+  },
+  {
+   "id": "27:8b3c",
+   "op": "text",
+   "en": "Once we reached the top of the stairs and turned the corner, the girls' restroom would be on the left.\nWe turned the corner, and the girls' restroom we were heading for...{p}"
+  },
+  {
+   "id": "27:8bd0",
+   "op": "text",
+   "en": "Its light was on.\nIn the old school building, where no light should ever come on, and in the very girls' restroom where Hanako-san was said to be, the light was on.\n\"What do we do?\nShould we go home after all?\"\nHosoda whispered in my ear.\nHis voice was shrill and hoarse.\nHe wasn't even touching me, yet I could clearly feel his body trembling.\nI couldn't stop myself from shaking, either.{p}"
+  },
+  {
+   "id": "27:8d34",
+   "op": "text",
+   "en": "What should I do?\nIf I was going to turn back, now was the time.\nAnd this was probably my last chance.\nWhat should I do?\nKeep going?\nOr just go home?{p}"
+  },
+  {
+   "id": "27:8db4",
+   "op": "choice",
+   "en": "Go to the girls' restroom"
+  },
+  {
+   "id": "27:8dc8",
+   "op": "choice",
+   "en": "Go home now"
+  },
+  {
+   "id": "27:8dd4",
+   "op": "text",
+   "follows_choice": [
+    "27:8db4"
+   ],
+   "en": "I had to go.\nFor some reason, I was burning with a sense of mission.\nThat girls' restroom was definitely calling to me.{p}"
+  },
+  {
+   "id": "27:8e50",
+   "op": "text",
+   "en": "\"Let's go.\"\nWhen I said that, Hosoda took hold of my hand.\n\"...You're brave.\nI'm scared.\nI know it's strange for me to say this when I'm the one who suggested coming...\nBut I'm so scared I can't stand it.\"{p}"
+  },
+  {
+   "id": "27:8f38",
+   "op": "text",
+   "en": "\"It'll be fine.\"\nThat's what I said, but there was no guarantee of anything.\nHow unconvincing my words sounded.{p}"
+  },
+  {
+   "id": "27:8fb0",
+   "op": "text",
+   "en": "\"Everyone who's told a story so far has disappeared.\nEvery time a story ends, something bad happens.\n...It's my turn now, isn't it?\nI'm the one who's going to disappear, aren't I?\"{p}"
+  },
+  {
+   "id": "27:9060",
+   "op": "text",
+   "en": "Hosoda's hand was clammy with sweat.\nAnd sweat was pouring from all over his face, glistening slickly.\n\"Please.\nPlease don't abandon me.\"\n\"I know.\"{p}"
+  },
+  {
+   "id": "27:9114",
+   "op": "text",
+   "en": "As I stepped forward, I could clearly feel Hosoda's hand tighten around mine.{p}"
+  },
+  {
+   "id": "27:9178",
+   "op": "text",
+   "en": "We stood in front of the girls' restroom.\n\"...We're going in.\"\nHosoda gave a small nod at my words.\nThere was nothing inside the restroom.\nMaybe because it hadn't been used in a long time, an indescribable sour stench hung over everything.\n...The second stall from the back.\nAccording to the rumor, that was where Hanako-san was.\nBut the others looked suspicious too.\nFor now, I stood in front of the second stall from the back.{p}What should I do?\nShould I try knocking?\n"
+  },
+  {
+   "id": "27:92f0",
+   "op": "choice",
+   "en": "Knock"
+  },
+  {
+   "id": "27:92fc",
+   "op": "choice",
+   "en": "Don't knock"
+  },
+  {
+   "id": "27:930c",
+   "op": "text",
+   "follows_choice": [
+    "27:92f0"
+   ],
+   "en": "I was supposed to knock three times, right?\nJust as I'd been told earlier, I knocked three times.{p}"
+  },
+  {
+   "id": "27:936c",
+   "op": "text",
+   "en": "Knock... knock... knock...\nWould there be an answer...?{p}"
+  },
+  {
+   "id": "27:93a8",
+   "op": "text",
+   "en": "Knock... knock... knock...\nAn answer came back.{p}"
+  },
+  {
+   "id": "27:93dc",
+   "op": "text",
+   "en": "There was no doubt about it.\n"
+  },
+  {
+   "id": "27:93f8",
+   "op": "text",
+   "en": "Something was in there!{p}"
+  },
+  {
+   "id": "27:9410",
+   "op": "text",
+   "en": "\"Let's stop! That's enough!\nLet's go home, {a}!\"{p}"
+  },
+  {
+   "id": "27:9448",
+   "op": "text",
+   "en": "Hosoda's face had gone white as a sheet.{p}"
+  },
+  {
+   "id": "27:9478",
+   "op": "text",
+   "en": "\"Gyaaaaaah!\"\nAt that moment...{p}"
+  },
+  {
+   "id": "27:94ac",
+   "op": "text",
+   "en": "Suddenly, Hosoda's body floated up into the air, and then it was slammed into the ceiling with tremendous force.\nAs if he were falling up onto the ceiling.{p}"
+  },
+  {
+   "id": "27:9550",
+   "op": "text",
+   "en": "\"I-it hurts.\n...It hurts... {a}...\"\nFor a moment, I couldn't understand what had happened.\nAs if only the space around Hosoda had turned into a vacuum, he was writhing in agony on the ceiling.\nIt looked like some invisible force was pressing him harder and harder against it.\n\"...Help... me...\"\nHosoda groaned in pain, but there was nothing I could do.{p}What should I do?\nTry to help him?\nOr... run?{p}"
+  },
+  {
+   "id": "27:96d4",
+   "op": "choice",
+   "en": "Try to help him"
+  },
+  {
+   "id": "27:96e8",
+   "op": "choice",
+   "en": "Run away from there"
+  },
+  {
+   "id": "27:96fc",
+   "op": "text",
+   "follows_choice": [
+    "27:96d4"
+   ],
+   "en": "I wanted to help him, but I didn't know how.\nEven if I stretched out my hand, I couldn't reach the ceiling.\n\"Uh... uaah...\"\nWhile I floundered, not knowing what to do, Hosoda's face slowly began to twist in terror.{p}"
+  },
+  {
+   "id": "27:97c0",
+   "op": "text",
+   "en": "What was it?\nI followed his gaze.\nHe was looking behind me.{p}"
+  },
+  {
+   "id": "27:9818",
+   "op": "text",
+   "en": "In that instant, terror hit me like ice water poured down my back.\nSomeone was behind me.\nI slowly turned around.{p}"
+  },
+  {
+   "id": "27:98ac",
+   "op": "text",
+   "en": "The door of the second stall from the back stood open, and a masked girl was standing there.\nSuddenly, her voice rang out directly inside my head.\n\"...Do you want to save him?\"\nShe slowly pointed at Hosoda, pinned to the ceiling.\nI nodded.\nThen her voice rang out again.\n\"...Then it will cost your parents' lives.\nIf you have no parents, I will take the life of the child you will someday have.\nDo you accept?\"\n...The masked girl was forcing the ultimate choice on me.\nSave Hosoda, or else my...\nYou've got to be kidding!{p}"
+  },
+  {
+   "id": "27:9ab4",
+   "op": "text",
+   "en": "\"Help me!\nWe're friends, aren't we?!\nPlease!\nIf you help me, I'll do anything!\"\nHosoda was crying, his face all crumpled up.\nCould Hosoda hear the voice that had rung out in my head, too?\nThat voice was pressing me to choose.{p}"
+  },
+  {
+   "id": "27:9bac",
+   "op": "text",
+   "en": "\"Well?\nWill you save him?\nOr...\"\nWhat should I do?\nWhat am I supposed to do?!{p}"
+  },
+  {
+   "id": "27:9c0c",
+   "op": "choice",
+   "en": "Save Hosoda"
+  },
+  {
+   "id": "27:9c20",
+   "op": "choice",
+   "en": "Leave Hosoda to die"
+  },
+  {
+   "id": "27:9c38",
+   "op": "text",
+   "follows_choice": [
+    "27:9c0c"
+   ],
+   "en": "\"...Please save Hosoda.\"\nIt wasn't that I'd abandoned my family.\nIf I could just smooth things over here, I was sure to find a way out.\nFor now, I had to save Hosoda.\nThat was what I thought, and I answered on the spot.\nIt seemed to me that she smiled behind her mask.\n\"No.\"{p}"
+  },
+  {
+   "id": "27:9d58",
+   "op": "text",
+   "en": "The instant that rang out in my head, Hosoda's body began sinking into the ceiling.\nLike someone sinking beneath the surface of water, the ceiling turned soft and squishy for a moment, and Hosoda was swallowed up into it.{p}"
+  },
+  {
+   "id": "27:9e0c",
+   "op": "text",
+   "en": "\"No! I don't want this!\nHelp me!\n"
+  },
+  {
+   "id": "27:9e40",
+   "op": "text",
+   "en": "Waaaaaaaaaah!\"{p}"
+  },
+  {
+   "id": "27:9e6c",
+   "op": "text",
+   "en": "In no time at all, Hosoda was gone from sight, and there was nothing left but an ordinary ceiling.\nEven if I told people this ceiling had swallowed Hosoda, no one would believe me.\nNo, before that, I didn't even know whether I'd make it home alive.{p}"
+  },
+  {
+   "id": "27:9f54",
+   "op": "text",
+   "en": "She just stood there, watching me in silence.\nWhat kind of eyes was she watching me with, behind that mask?\nWhat on earth was going to happen to me...?{p}Finally left all alone, I...\n"
+  },
+  {
+   "id": "27:a010",
+   "op": "text",
+   "follows_choice": [
+    "27:2898"
+   ],
+   "en": "Huh?\nThat's not like you.\nI can't believe that's coming from the person who planned this whole feature.\nThis is Hanako-san of the restroom we're talking about.\nI think she'd be perfect for a seven wonders feature.{p}You're actually interested, aren't you?\n"
+  },
+  {
+   "id": "27:a0c4",
+   "op": "choice",
+   "en": "Actually, I am"
+  },
+  {
+   "id": "27:a0d0",
+   "op": "choice",
+   "en": "No way, absolutely not"
+  },
+  {
+   "id": "27:a0e8",
+   "op": "text",
+   "follows_choice": [
+    "27:a0c4"
+   ],
+   "en": "I knew it.{p}"
+  },
+  {
+   "id": "27:a104",
+   "op": "text",
+   "follows_choice": [
+    "27:a0d0"
+   ],
+   "en": "No, you can't!\nWe're going to call Hanako-san out.\nThere's a reason we have to.{p}I'll tell you what it is, so please say you're on board.\n"
+  },
+  {
+   "id": "27:a180",
+   "op": "choice",
+   "en": "If that's the case, I'm on board"
+  },
+  {
+   "id": "27:a19c",
+   "op": "choice",
+   "en": "No means no"
+  },
+  {
+   "id": "27:a1b8",
+   "op": "text",
+   "follows_choice": [
+    "27:a180"
+   ],
+   "en": "Thank you.\nThen listen to my story.{p}"
+  },
+  {
+   "id": "27:a1f0",
+   "op": "text",
+   "follows_choice": [
+    "27:a19c"
+   ],
+   "en": "I see.\nYou're more of a coward than I thought.\nFine, then.\nWe'll go by ourselves.\nWith that, Hosoda and the others stood up.{p}"
+  },
+  {
+   "id": "27:a280",
+   "op": "text",
+   "en": "I see.\nYou're more of a coward than I thought.\nFine, then.\nI'll go, even if it's just me.\nWith that, Hosoda stood up.{p}"
+  },
+  {
+   "id": "27:a30c",
+   "op": "text",
+   "en": "He headed straight for the old door to leave.\n{f:I|I} panicked.\nJust as I was about to call him back, Hosoda suddenly turned around.{p}"
+  },
+  {
+   "id": "27:a3a8",
+   "op": "text",
+   "en": "\"I'm really going. Is that all right with you?\"\nI don't want to be left here alone!\n{f:I'm|I'm} coming with you.\n...That's what I meant to say.\nBut my tongue wouldn't move.\n{f:It was|It was} as if someone were holding it down.\n\"...I see. You're stubborn, too.\"\nHosoda sighed.\nThat's not it!\nI'm telling you, I want to go with you☆\n...But no voice came out.\nWorse, when I tried to stand up, my body wouldn't even move!\nA cold sweat slid down my spine.{p}"
+  },
+  {
+   "id": "27:a558",
+   "op": "text",
+   "en": "What {f:had|had} happened to {f:my|my} body★\n{f:My|My} face must have gone white as a sheet just then{f:|}.\nBut Hosoda turned his back on {f:me|me}.\n\"If you feel like it, you're welcome to come after me.\"{p}"
+  },
+  {
+   "id": "27:a660",
+   "op": "text",
+   "en": "With those parting words, the door slammed shut.\n{f:I|I} was left behind, all alone.\nHad he not noticed something was wrong with {f:me|me}{f:?|?}\nDid he think I was just some cheeky underclassman sulking and refusing to answer?\nI got mad at Hosoda for being so oblivious.\nBut I had bigger things to worry about right now{f:.|.}\n{f:I|I} took a deep breath.\nI had to calm down.\nA lot had happened today{f:.|.}\nMaybe I'd gone into paralysis from all the tension.{p}"
+  },
+  {
+   "id": "27:a810",
+   "op": "text",
+   "en": "I'd read about it somewhere{f:.|.}\nThat more than fifty percent of paralysis episodes in your teens have nothing to do with ghosts or anything.\nThat it usually happens when your body is tired or you're under stress.\nThat had to be {f:it|it}.\nIt had to be{f:.|.}\n{f:I|I} took another deep breath.\nThat was when it happened.{p}"
+  },
+  {
+   "id": "27:a950",
+   "op": "text",
+   "en": "I heard footsteps: tap... tap...\nThey were coming this way.{p}Who {f:was it|was it}?\nHad Hosoda come back for me{f:?|?}\n"
+  },
+  {
+   "id": "27:a9dc",
+   "op": "choice",
+   "en": "It's not Hosoda"
+  },
+  {
+   "id": "27:a9f0",
+   "op": "choice",
+   "en": "It has to be Hosoda"
+  },
+  {
+   "id": "27:aa24",
+   "op": "text",
+   "follows_choice": [
+    "27:a9dc"
+   ],
+   "en": "Who {f:could it be|could it be}?\nAs I wondered, {f:I|I} realized something important.\nThe floors of the old school building were half-rotten wood{f:.|, weren't they?}\nFootsteps couldn't possibly ring out like that{f:.|.}\nBut the footsteps kept getting louder: clack... clack...\nWere they trying to come in here{f:?|?}{p}"
+  },
+  {
+   "id": "27:ab58",
+   "op": "text",
+   "en": "I nearly screamed in terror.\nBut, again, no voice came out.\nIt started to feel like I couldn't breathe.\nThe footsteps grew louder.\nClack... clack... clack...\nAt last they reached the door.{p}"
+  },
+  {
+   "id": "27:ac18",
+   "op": "text",
+   "en": "{f:I|I} squeezed my eyes shut.\nWas this {f:the end|the end}★\n...But the door didn't open.{p}"
+  },
+  {
+   "id": "27:ac78",
+   "op": "text",
+   "en": "As if nothing had happened, the footsteps moved away.\nThat taut clack... faded off down the far end of the hallway{f:.|.}{p}"
+  },
+  {
+   "id": "27:ad14",
+   "op": "text",
+   "en": "I was saved.\nI didn't know what that thing just now was, but at least it hadn't been after {f:me|me}.\nThe moment my shoulders slumped in relief, I could suddenly move again.\nI tried moving both hands.\nFeeling had come back to my tongue, too, which had been like stiff rubber.\n{f:I|I} muttered without thinking.\n\"What {f:the hell was that|was that}...?\"\nI shook my head lightly and stood up.\nWithout thinking, I looked behind me.{p}"
+  }
+ ]
+}

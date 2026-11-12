@@ -1,0 +1,424 @@
+{
+ "slice": "S109",
+ "scene": "27",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S108",
+ "next": "S110",
+ "todo": [],
+ "rows": [
+  {
+   "id": "27:e948",
+   "op": "text",
+   "en": "You see it?\nIt's just an ordinary clock, nothing special about it.\nIt's pretty dusty, though.\nLet's open it up.{p}"
+  },
+  {
+   "id": "27:e9d0",
+   "op": "text",
+   "en": "...There's no battery in it anymore.\nThat's why it doesn't run.\nBut you know, this clock is strange.\nSay you move the hands, right?\nBefore you know it, they've gone back to 10:20.{p}"
+  },
+  {
+   "id": "27:ea9c",
+   "op": "text",
+   "en": "I don't know why, or whether someone is moving them, but this clock always ends up stuck at 10:20.\nEven with the battery out.\n...Now, I'll go on with the story.{p}"
+  },
+  {
+   "id": "27:eb48",
+   "op": "text",
+   "en": "The six left behind decided to examine the clock too.\nThey figured the clock had to be broken after all.\nAnd when one of them took the clock down off the wall...{p}"
+  },
+  {
+   "id": "27:ebec",
+   "op": "text",
+   "en": "\"Whoa!\"\nThe other five all screamed at once.\nThey looked, and on the wall where the clock had hung, there was a stain like a human face.\nFor an instant, it looked like a skull.\n...But when they looked closely, it was just a stain.{p}"
+  },
+  {
+   "id": "27:ece4",
+   "op": "text",
+   "en": "\"A skull-shaped stain★\"\n{f:I|I} hurriedly cut in.\nA stain that looked like a skull{f:, he said|...}?\nWasn't that the same thing I'd seen in the restroom earlier{f:|}?\nWas he telling me that same stain was behind that clock{f:|}?\nSomehow, I had a bad feeling about this.\nUnable to put it into words, I said nothing, and Hosoda gave {f:me|me} a puzzled look.\nAnd then the story went on.{p}"
+  },
+  {
+   "id": "27:ee44",
+   "op": "text",
+   "follows_choice": [
+    "27:4e80"
+   ],
+   "en": "...Why not?\nI just know you and I would get along great.\nCome on, be my friend.{p}You will, won't you? Please?\n"
+  },
+  {
+   "id": "27:eeb4",
+   "op": "choice",
+   "en": "I don't want to be your friend"
+  },
+  {
+   "id": "27:eec4",
+   "op": "choice",
+   "en": "Oh well, I'll be your friend"
+  },
+  {
+   "id": "27:eeec",
+   "op": "text",
+   "follows_choice": [
+    "27:eeb4"
+   ],
+   "en": "That's cruel.\nDo you really enjoy hurting me that much?\nWere you always such a mean person?\nHosoda looked at {f:me|me} reproachfully.\n...Oh well, I guess there's no helping it{f:|}.\n{f:I|I} nodded.\n\"{f:Sorry|I'm sorry}. {f:Fine, I'll be your friend|Let's be friends}.\"{p}"
+  },
+  {
+   "id": "27:f000",
+   "op": "text",
+   "follows_choice": [
+    "27:5390"
+   ],
+   "en": "Okay, got it.\nThen I'll tell you.\nAfter all, it's a request from you, my friend.\n...The three of them headed off together to the faculty room.\nYou go straight down the hallway, turn the corner, and the faculty room is right there.\nIt's not a long way at all.\nThey still looked fairly relaxed.\nBut when they turned the corner, there was no faculty room.\nIn front of them, the very hallway they should have just walked down stretched on and on.\nWhen they looked back, there was the classroom door.\nThey hadn't moved a single step.\nBut how could that be?\nJust to be sure, they started walking again.\nThey walked to the end of the hallway and turned the corner.\n...Sure enough, a long hallway stretched on in front of them.{p}"
+  },
+  {
+   "id": "27:f248",
+   "op": "text",
+   "en": "And behind them, the classroom door.\nThat settled it.\nThey were trapped.\nWho had trapped them, they didn't know.\nHow, they didn't know either.\nAll they knew was that space had twisted around into something like a Mobius strip.\nYou know, that loop you make from a ribbon with one twist in it, where if you trace it with your finger, you can't tell the back from the front anymore.\n\"I can't take this anymore☆\"\nThe girl who'd burst into tears earlier screamed.\nBut this time, the other girl didn't comfort her.\nI guess she was in no state to.\nShe was shaking like a leaf.\nAs the only guy left, he must have felt it was all on him.{p}{a}{f:, what would you do|, what would you do in his place}?\n"
+  },
+  {
+   "id": "27:f47c",
+   "op": "choice",
+   "en": "Search the classroom"
+  },
+  {
+   "id": "27:f490",
+   "op": "choice",
+   "en": "Search the hallway"
+  },
+  {
+   "id": "27:f4c8",
+   "op": "text",
+   "follows_choice": [
+    "27:f47c"
+   ],
+   "en": "Right.\nThey decided to search the classroom too.\nThere was no point in walking down that hallway forever.{p}"
+  },
+  {
+   "id": "27:f538",
+   "op": "text",
+   "en": "First, naturally, they checked the windows.\nIt had been a muggy day, so the windows were left open to let in even a little breeze.\nBut at some point, they'd been closed.\nWithout a word, the three of them tried to open them.\nBecause once you start wondering who closed them... you just keep imagining scarier and scarier things.\nBut the windows wouldn't open.\nIt was like they'd rusted shut.\nRidiculous, right?\nThose windows had been open just a moment ago.\nAfter a few tries, someone must have hit their limit.\n\"I'm going home! I'm going home, I said☆\"\nThe one shrieking wasn't the girl who'd been crying, but the one who'd been comforting her.{p}"
+  },
+  {
+   "id": "27:f748",
+   "op": "text",
+   "en": "She grabbed her bag and ran out of the classroom.\n\"Hey, wait!\"\nHe started to go after her, but then the other girl would be left all alone, and he couldn't do that to her.\nHe stayed put.\nAnd that turned out to be the right choice.\nBecause a few seconds later...{p}"
+  },
+  {
+   "id": "27:f848",
+   "op": "text",
+   "en": "\"Aaaaaaaaaagh!\"\nThey heard a scream that seemed to ring through the whole building.\nAnd at the same time, the sound of something snapping and cracking.{p}"
+  },
+  {
+   "id": "27:f8bc",
+   "op": "text",
+   "en": "The two of them went over to the door and saw something crawling in the hallway, where the lights had gone out.\nWhat was it?\nAs they strained their eyes, it inched a little closer.\nIt was the girl who had run off.\nStill lying face down, she was desperately lifting her head and reaching out her hand.{p}"
+  },
+  {
+   "id": "27:f9d4",
+   "op": "text",
+   "en": "\"Help... me...\"\nA hoarse voice begged for help.{p}"
+  },
+  {
+   "id": "27:fa08",
+   "op": "text",
+   "en": "The next instant, she was dragged into the darkness.\nIt was as if something lurking in the dark had yanked her in.\nCrack, crunch... A dull, sickening sound.{p}"
+  },
+  {
+   "id": "27:faa0",
+   "op": "text",
+   "en": "And then something big was flung down at the two of them, landing at their feet.{p}"
+  },
+  {
+   "id": "27:faf8",
+   "op": "text",
+   "en": "They jumped out of the way, and saw that it was an arm, still tightly clutching a school bag.{p}"
+  },
+  {
+   "id": "27:fb50",
+   "op": "text",
+   "en": "\"Eeeeeeeek☆\"\nThe girl screamed.\nAt the sound, the darkness in the hallway swelled.\nThe darkness itself was alive.{p}"
+  },
+  {
+   "id": "27:fbdc",
+   "op": "text",
+   "en": "Realizing that, he dragged the girl back and shut the door.\nAs if that would somehow keep the darkness out.\nBut that was when he saw it.{p}"
+  },
+  {
+   "id": "27:fc74",
+   "op": "text",
+   "en": "The endless darkness spreading outside the windows.\nAnd that darkness surging straight toward them.\nThe window glass was creaking.\nAny second now, the windows would break.\nAnd once that happened, there would be no way left for them to survive.\n...In that case.\nAn idea came to him.{p}What do you think it was?\n"
+  },
+  {
+   "id": "27:fd90",
+   "op": "choice",
+   "en": "Sacrifice the girl and escape himself"
+  },
+  {
+   "id": "27:fdb4",
+   "op": "choice",
+   "en": "Sacrifice himself and let the girl escape"
+  },
+  {
+   "id": "27:fdf0",
+   "op": "text",
+   "follows_choice": [
+    "27:fd90"
+   ],
+   "en": "He opened the door to the hallway.\nThe darkness was only a few meters away now.\nHe swallowed hard and shoved the girl standing next to him.\nShe had trusted him completely, so she stumbled out into the hallway without a struggle.\nThe darkness caught her by the legs.\nShe was dragged to the floor, and she looked up at him.\nWith eyes full of resentment, as if she couldn't believe it.{p}"
+  },
+  {
+   "id": "27:ff34",
+   "op": "text",
+   "en": "The next instant, she was swallowed by the darkness.\nWith a loud crunching, splintering sound.\nHe didn't let that opening slip by.{p}"
+  },
+  {
+   "id": "27:ffa4",
+   "op": "text",
+   "en": "He took off running in the opposite direction from the darkness.\nHe meant to get away from that thing and escape any way he could, even out a window.\nLuckily, this part of the hallway wasn't twisted.{p}"
+  },
+  {
+   "id": "27:10040",
+   "op": "text",
+   "en": "As he ran, he spotted an emergency exit.\nHe was saved!{p}"
+  },
+  {
+   "id": "27:10080",
+   "op": "text",
+   "en": "He took a run at the door and slammed into it.\nThe door shook, but it wouldn't open.{p}"
+  },
+  {
+   "id": "27:100d4",
+   "op": "text",
+   "en": "But there was no time left to try anywhere else.\nThe darkness could catch up with him at any moment, after all.{p}"
+  },
+  {
+   "id": "27:10144",
+   "op": "text",
+   "en": "He threw his body against the door again and again.\nAnd at last, the door opened.{p}"
+  },
+  {
+   "id": "27:101a0",
+   "op": "text",
+   "en": "As he burst through, stumbling, someone caught him.\nRelieved that he'd finally reached somewhere safe, he nearly sank to the ground.\nBut whoever had caught him kept pulling at him, trying to make him stand up.\n\"No, no, you mustn't rest in a place like this.\nYou're going this way...\"\nA voice he knew.{p}"
+  },
+  {
+   "id": "27:102bc",
+   "op": "text",
+   "en": "He looked up with a start. It was that girl.\nThe girl he'd shoved out and fed to the darkness.\nBetween her lashes there were no whites and no pupils, only spreading darkness.\nHe tried to run, but she held him tight and wouldn't let go.\nThe corners of her mouth curled into a small smile.\n\"Let's go... together...\"\nHe froze, and the next instant, the darkness wrapped around him.{p}"
+  },
+  {
+   "id": "27:10400",
+   "op": "text",
+   "en": "\"...And that's how it went.\nThe next day, the teachers searched for the six of them.\nBut not a single one was ever found.\nAs if they'd melted away.\"\nHosoda finished his story.\nIt seemed to have gotten a little darker than before{f:|}.{p}"
+  },
+  {
+   "id": "27:104e0",
+   "op": "text",
+   "en": "{f:I|I} found myself looking around.\nI didn't want to stay here much longer{f:|}.\n\"Thank you very much.\nWell then, shall we head back to the club room?\"\nAs {f:I|I} tried to wrap things up, Hosoda cut me off.{p}"
+  },
+  {
+   "id": "27:105dc",
+   "op": "text",
+   "en": "\"Hold on.\nThe story isn't over yet.\nWhy do you think I went to the trouble of coming all the way here?\"\n\"How would I know?\nIt's late, so maybe we should call it a day...\"\n\"The darkness here, you see, is still alive.\"\nHosoda whispered, out of nowhere.\n\"It's alive, and it still wants food... Look.\"\nHe pointed at a corner of the classroom.{p}"
+  },
+  {
+   "id": "27:10724",
+   "op": "text",
+   "en": "Maybe it was my imagination, but the darkness seemed to squirm on the old floorboards.\nMy mouth went dry in an instant.\nNo way... it had to be my imagination{f:|, right}.\nI only thought I saw something{f:|}.{p}"
+  },
+  {
+   "id": "27:107e8",
+   "op": "text",
+   "en": "...Hosoda was smiling from ear to ear.\n\"You don't want to believe it, huh?\nI can't blame you, but think about how I'd know a story like this.\"\nClowning around, he rolled both his eyes.{p}"
+  },
+  {
+   "id": "27:10894",
+   "op": "text",
+   "en": "Then his eyeballs bulged out.\nMore than halfway out of their lids.\nLooking closely, they weren't real eyeballs.\nThey were cloudy, round, opaque glass... just like marbles.{p}"
+  },
+  {
+   "id": "27:10948",
+   "op": "text",
+   "en": "With a hard clack, clack, the two marbles dropped to the floor and rolled away.\nAnd from behind them, an infinite darkness peered out, stretching on forever.\n\"It's very spacious inside the darkness.\nIf I don't bring in more of our kind, I get so lonely I can't stand it...\"\nHosoda, with eyes of darkness, came closer.\nWould {f:I|I}, too, stare into the darkness and wander around like this, looking for more of my kind{f:|}...?\nAs the darkness swallowed me from my hands and feet inward, {f:I|I} kept dazedly thinking about that.{p}"
+  },
+  {
+   "id": "27:10af8",
+   "op": "text",
+   "follows_choice": [
+    "27:fdb4"
+   ],
+   "en": "He turned to face the girl.\n\"I'm going to clear us a path somehow.\nWhile I do, you get away.\"\n\"But what about you?\"\n\"Once you're out, I'll be right behind you.\"\nThat's what he said, but he didn't really believe he'd get away too.\nI guess he thought, if only the girl could make it...\n{f:If it were me|I'm sure}, {f:I could never think like that|those two were good friends, just like us}.\nHe opened the door to the hallway.{p}"
+  },
+  {
+   "id": "27:10cb0",
+   "op": "text",
+   "en": "The darkness was only a few meters away now.{p}"
+  },
+  {
+   "id": "27:10cf4",
+   "op": "text",
+   "en": "He swallowed hard and flung his own bag out there.{p}"
+  },
+  {
+   "id": "27:10d3c",
+   "op": "text",
+   "en": "With a squelching crunch, the darkness swallowed the bag.\nJust how many victims were inside that pitch-black belly?\nHe shuddered in spite of himself.\nBut he couldn't stand there like that forever.{p}"
+  },
+  {
+   "id": "27:10e04",
+   "op": "text",
+   "en": "He shoved the girl away.\nShe stumbled off in the direction away from the darkness.\n\"Run, hurry!\"\nShouting that, he raised a chair over his head.\nAnd he hurled himself at the darkness.{p}"
+  },
+  {
+   "id": "27:10eb0",
+   "op": "text",
+   "en": "The darkness spread wide for an instant and engulfed him.\nFor a moment, he lost consciousness.\n...Maybe it was really a lot longer than that, though.\nBut when he came to, it didn't feel like that much time had passed.\nYeah, that's right.\nThe darkness didn't eat him.{p}"
+  },
+  {
+   "id": "27:10fc0",
+   "op": "text",
+   "en": "When he woke up, he was lying in a hallway of the old school building.\nWhy had he survived?\nWondering that, he walked out of the building.{p}"
+  },
+  {
+   "id": "27:11058",
+   "op": "text",
+   "en": "And then, what do you know, a monster came running at him from over there.\nAn ugly body thickly covered in purple scales, and huge, bulging eyes.\nDrool was streaming from its mouth, which was split all the way to its ears, and it was screaming words he couldn't make out.\nHe felt his life was in danger.\nLooking around, he saw a bat lying on the ground that the baseball team must have forgotten to put away.{p}"
+  },
+  {
+   "id": "27:11188",
+   "op": "text",
+   "en": "He picked it up and went at the monster, swinging.{p}"
+  },
+  {
+   "id": "27:111c8",
+   "op": "text",
+   "en": "Head, shoulders, arms, he didn't care where, he just beat it.{p}"
+  },
+  {
+   "id": "27:11208",
+   "op": "text",
+   "en": "Over and over again, until the monster fell and stopped moving.\nApparently he felt really triumphant.\nThen, out of nowhere, he heard someone's voice.{p}"
+  },
+  {
+   "id": "27:11298",
+   "op": "text",
+   "en": "At the same moment, someone grabbed him from behind and pinned his arms.\nIt was the janitor, with a rigid look.\n\"What are you doing?!\"\nWhat did it look like he was doing?\nHe'd been taking out this monster.\nHe was about to say so, and he looked down at the monster's corpse.{p}"
+  },
+  {
+   "id": "27:1139c",
+   "op": "text",
+   "en": "But the one lying there was the girl he was supposed to have saved from the darkness. Blood was running from her head, and she lay limp with her eyes shut.\nOne look told him she wasn't alive anymore.{p}"
+  },
+  {
+   "id": "27:11448",
+   "op": "text",
+   "en": "\"I heard a racket and came to see, and here you are beating this girl!\nWhy on earth would you do this to her★\"\nThe janitor asked him.\nThere was no way he could answer, right?\nWhat he'd been beating was supposed to be a monster.\nBut it wasn't, was it?\nWhich leaves only one possibility.\nIn his eyes, his friend, the girl, had looked like a monster.\nSo when she ran over to him because she was worried, he thought she was attacking him.\nInstead of eating him, the darkness warped his sight, I think.\nKnowing full well what it would lead to.{p}"
+  },
+  {
+   "id": "27:11648",
+   "op": "text",
+   "en": "If so, that's unbelievably cruel, isn't it?\nBecause his misfortune didn't end there.\nWhat do I mean?\nThe next day, the teachers searched the building.\nAnd... they found the bodies of the other four, one after another.\nThe darkness got all of them, I guess.\nApparently they were in a horrible state.\nAnd that got pinned on him too.\nNobody listened to his side of the story.\nAfter all, he'd been caught red-handed.{p}"
+  },
+  {
+   "id": "27:117d4",
+   "op": "text",
+   "en": "What happened to him after that?\n...Well, I don't know.\nI'd guess he got locked up somewhere, like a prison or a juvenile detention center.\nThe story was over.\n{f:I|I} raised my lowered head and looked at Hosoda.{p}"
+  },
+  {
+   "id": "27:118b4",
+   "op": "text",
+   "en": "...The one sitting there wasn't Hosoda.\nNo, it wasn't even human.\nSix eyes, like compound eyes, peered out through patchy tufts of hair.\nIts crooked, jagged teeth glinted.{p}"
+  },
+  {
+   "id": "27:1194c",
+   "op": "text",
+   "en": "\"A... a monster★\"\n{f:I|I} jumped back.\nThe monster was saying something as it came toward me.\nWasn't there anything{f:|}?\nA weapon, anything I could fight it with.\nI felt around in my pockets, and my fingertips touched something hard.\nA box cutter{f:|}.\nThe one I'd used for the club, when we were clipping articles for a scrapbook.\n{f:I|I} held it ready.\nThe monster's arm reached for the box cutter.\nI won't let you!\n{f:|Frantically, }I swung the cutter, and the blade slashed the monster's eye!{p}"
+  },
+  {
+   "id": "27:11b1c",
+   "op": "text",
+   "en": "Spurting green blood, the monster slowly collapsed.\nBreathing hard, {f:I|I} looked around.\nI felt like I'd been with someone until just a moment ago.\n...Had I?\n{f:I|I} {f:had been alone from the start, hadn't I|feel like I was alone from the start}?\n{f:That's right|Yes, that's it}.\n{f:I|I} {f:am|am} all alone.\nI defeated the monster, so the ruler of this world is {f:me|me}.\n...Still, I'm tired{f:|}.\n{f:I|I} yawned and curled up next to the monster's corpse.\nI'll sleep a little.\nAfter all, there's nothing left to threaten {f:me|me}.{p}"
+  },
+  {
+   "id": "27:11d44",
+   "op": "text",
+   "en": "Just then, I thought I heard the darkness that had crept up to my feet let out a laugh.{p}"
+  },
+  {
+   "id": "27:11d90",
+   "op": "text",
+   "follows_choice": [
+    "27:f490"
+   ],
+   "en": "Right, they searched the hallway too.\nIf they could find the spot where space was warped, they might be able to escape through it.\nWith their eyes peeled wide, they went along feeling over the walls and floor.\n\"Oh, look!\"\nOne of the girls pointed at a corner of the hallway.{p}"
+  },
+  {
+   "id": "27:11e74",
+   "op": "text",
+   "en": "There was a crack in the wall in front of them.\nAnd it wasn't just any crack in a wall.\nSomething like a thin mist was seeping in from the other side of it.{p}"
+  },
+  {
+   "id": "27:11f1c",
+   "op": "text",
+   "en": "When they peered through, they could see a green plain on the other side!\nThey tried scratching around the crack.\nBits crumbled away.\nThe wall fell apart almost absurdly easily.{p}"
+  },
+  {
+   "id": "27:11fd4",
+   "op": "text",
+   "en": "And spread out before them was, sure enough, a vast plain.\n\"We're saved!\"\nShouting that, the girls ran out onto the grass.\nThen they turned back to him.\n\"Hurry up, come on!\"\nBut he couldn't take that step.\nHe'd realized something was wrong.\nA grassland stretching as far as the eye could see didn't seem like it could be in Japan, for one thing.{p}"
+  },
+  {
+   "id": "27:12118",
+   "op": "text",
+   "en": "While he hesitated, the wall started to grow.\nThe part that had crumbled swelled back up all on its own.\nBefore his eyes, the hole in the wall shrank to about half its size.\nHe tried scratching at it, but the wall that had been so fragile a moment ago was now as hard as a steel plate.\n\"Hurry, come over here!\"\nThe girls started to panic.\nBut all the while, the hole kept closing.{p}"
+  },
+  {
+   "id": "27:1225c",
+   "op": "text",
+   "en": "And finally, it was back to being just the crack it had started as.\nHe'd been left behind alone, on this side of the world.\nIn warped space, no less.\nBut in the end, the girls stayed missing too.\nThey'd made it out, but maybe the other side of the crack was warped space as well.{p}"
+  },
+  {
+   "id": "27:12384",
+   "op": "text",
+   "en": "What did he do after that, you ask?\nHe's still missing.\nAnd so is everyone else, while we're at it.\nMaybe they're all still in here somewhere.{p}"
+  },
+  {
+   "id": "27:12408",
+   "op": "text",
+   "en": "...Just kidding.\nHosoda finished his story.\n{f:I|I} couldn't help speaking up.\n\"Going out of your way to tell a story like that here, of all places.\nThat's in bad taste.\"{p}"
+  },
+  {
+   "id": "27:124a0",
+   "op": "text",
+   "en": "And I stood up.{p}"
+  },
+  {
+   "id": "27:124c8",
+   "op": "text",
+   "en": "\"{f:I'm|I'm} going back to the club room.\"\nI meant it.\nI opened the door and stepped out into the hallway.{p}"
+  },
+  {
+   "id": "27:12544",
+   "op": "text",
+   "en": "Hosoda seemed to be saying something behind me{f:, but|, but} {f:I didn't care|I ignored him}.\nI walked to the end of the hallway and turned the corner.\n...A long hallway stretched on before me.{p}"
+  },
+  {
+   "id": "27:12604",
+   "op": "text",
+   "en": "When I looked back, an identical long hallway stretched on behind me.\nWhat was going on{f:|}?\nHad Hosoda's story come true{f:|}?\nBut in the story, the classroom door was supposed to be behind them{f:|}.\nAnd yet...\n{f:I|I} hurriedly ran back the way I'd come.\nNo matter how far I ran, the classroom door didn't appear.\nThis can't be!\nWhen I looked a moment ago, the hallway was only about ten meters long.\nHad {f:I|I}, too, wandered into the warped space{f:|}?\nI didn't want to admit it.\n{f:I|I} kept running.\nMaybe someday I'd find the door.\nSo I ran.\nRan.\nRan.\nRan.\nThen I noticed that at some point, a shadow had started running alongside {f:me|me}.\nI turned to look.{p}"
+  },
+  {
+   "id": "27:128a4",
+   "op": "text",
+   "en": "A half-skeletonized man was running with his teeth bared.\nHis eyes turned to {f:me|me}.\n{f:I|I} knew who he was.\nHe was the guy from the story just now{f:|}.\nHe'd kept on running for all those long years, even after dying and turning to bone{f:|}.\nHis eyes looked somehow happy.\nIt was only natural, now that he had {f:me|me} as a companion{f:|, I suppose}.{p}He and {f:I|I} would probably keep running forever down that endless hallway.\nThrough the warped world.{p}"
+  },
+  {
+   "id": "27:12a3c",
+   "op": "text",
+   "follows_choice": [
+    "27:54a4"
+   ],
+   "en": "Right.\nHe decided to start looking with the nearest restroom.{p}"
+  }
+ ]
+}

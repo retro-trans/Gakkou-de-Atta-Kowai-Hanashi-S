@@ -1,0 +1,676 @@
+{
+ "chunk": "E034",
+ "scene": "16",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "slices": [
+  "S067",
+  "S068"
+ ],
+ "prev": "E033",
+ "next": "E035",
+ "todo": [],
+ "rows": [
+  {
+   "id": "16:064c",
+   "op": "text",
+   "en": "I'm Nozomu Kazama.\nI'm a third-year.\nWell then, let me tell you my very best scary story.\nThe scariest of all the ghost stories passed down at this school.{p}"
+  },
+  {
+   "id": "16:06e8",
+   "op": "text",
+   "en": "You know there's a bronze statue of the principal next to the main gate, right?\nIn the middle of the night, it starts moving all by itself.\nThe end.{p}"
+  },
+  {
+   "id": "16:0774",
+   "op": "text",
+   "en": "......................................................................................\n"
+  },
+  {
+   "id": "16:07ec",
+   "op": "choice",
+   "en": "Ask if that's really the end"
+  },
+  {
+   "id": "16:080c",
+   "op": "choice",
+   "en": "Stay quiet and see what happens",
+   "returns": [
+    "16:3120: RETURN - similar choice to 16:080c (Stay quiet and see what happens); both are accurate, editorial may align wording."
+   ]
+  },
+  {
+   "id": "16:0828",
+   "op": "text",
+   "en": "................................................................................{p}",
+   "follows_choice": [
+    "16:080c"
+   ]
+  },
+  {
+   "id": "16:08a4",
+   "op": "text",
+   "en": "What's wrong?\nWhy is everybody so quiet?\nMy story's over, you know.{p}Why doesn't the next person go?\n"
+  },
+  {
+   "id": "16:0900",
+   "op": "choice",
+   "en": "Ask if that's really the end"
+  },
+  {
+   "id": "16:0920",
+   "op": "choice",
+   "en": "Move on to the next person's story"
+  },
+  {
+   "id": "16:0934",
+   "op": "text",
+   "en": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"\n\"Yeah, that's right.\"{p}",
+   "follows_choice": [
+    "16:0900"
+   ]
+  },
+  {
+   "id": "16:0a0c",
+   "op": "text",
+   "en": "\"...Um, it just feels kind of way too anticlimactic.\"{p}"
+  },
+  {
+   "id": "16:0a58",
+   "op": "text",
+   "en": "\"Can't be helped.\n{f:All right then|For a cutie like you}, I'll tell you {f:one more|one more} of my very best.\n{f:Don't fall over in shock on me, now|Try not to jump out of your skin, okay}.\"\nKazama glared around at everyone, cleared his throat once, and slowly went on.{p}"
+  },
+  {
+   "id": "16:0b6c",
+   "op": "text",
+   "en": "You all use the shoe lockers, right?\nOf course you do.\nThose shoe lockers.\nDid you know there's a story that ghost lights appear there?\nThe end.{p}"
+  },
+  {
+   "id": "16:0c14",
+   "op": "text",
+   "en": "..............................................................................\n"
+  },
+  {
+   "id": "16:0c84",
+   "op": "choice",
+   "en": "Ask if that's really the end"
+  },
+  {
+   "id": "16:0ca4",
+   "op": "choice",
+   "en": "Move on to the next person's story"
+  },
+  {
+   "id": "16:0cb8",
+   "op": "text",
+   "en": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"\n\"Yeah, that's right.\n{f:Got|If it's still not enough for you,} {f:some kind of complaint?|I could tell you more at my place, nice and slow...?}\"\n\"No... {f:|n-}{f:it's not that I'm complaining.|no, thank you.}\n{f:It's just that|If you'd just tell it} {f:it feels way too anticlimactic...|here and now...}\"\n{p}",
+   "follows_choice": [
+    "16:0c84"
+   ]
+  },
+  {
+   "id": "16:0ea0",
+   "op": "text",
+   "en": "\"{f:I've told you two whole stories, and|Heh heh,} {f:you're still not satisfied?|are you feeling shy?}\n...{f:Fine, then.|Aren't you adorable.}\n{f:All right then,|Okay, you got it,} I guess I'll tell one more.\nTruth is, this is one I didn't really want to tell...\"\nKazama fell silent, as though brooding over something.\nBut he soon raised his head and began to talk.{p}"
+  },
+  {
+   "id": "16:0fec",
+   "op": "text",
+   "en": "...Do you guys know someone in the third year named Teruo Koide?\nKoide's possessed by a tanuki.\nThe end.{p}"
+  },
+  {
+   "id": "16:1078",
+   "op": "text",
+   "en": "...............................................................................................\n"
+  },
+  {
+   "id": "16:10fc",
+   "op": "choice",
+   "en": "Ask if that's really the end"
+  },
+  {
+   "id": "16:111c",
+   "op": "choice",
+   "en": "Move on to the next person's story"
+  },
+  {
+   "id": "16:1140",
+   "op": "text",
+   "en": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"\n\"Yeah, that's right.\nI've gone and told three whole stories.\nWasn't the deal one story per person?\n{f:You must be|...Don't tell me you} {f:satisfied by now, right?|want to hear more?}\"\n\"...Well, {f:but|um,} {f:um,|you know,} how do I put it... {f:I'd like you to tell me something a bit more concrete.|I want to hear something a bit more concrete.}\"{p}",
+   "follows_choice": [
+    "16:10fc"
+   ]
+  },
+  {
+   "id": "16:1338",
+   "op": "text",
+   "en": "\"You're a demanding {f:one|little kitten}, aren't you?\nOh well, can't be helped. I never meant to tell four whole stories, though...\"\nKazama clutched his head as if agonizing over it.\nWould he finally tell me a really scary story this time{f:?|?}\nAfter a long sigh, Kazama slowly began.\n...Truth is, there's a girl in the third year named Tsukasa Sawami.{p}"
+  },
+  {
+   "id": "16:1498",
+   "op": "text",
+   "en": "She's a smart girl, with thin, upturned eyes.\nNot very cute, though.\nMaybe she's just too serious, but she never hangs out with anyone.\nNo matter who asks her, she never spends time with anybody.\nNot guys, not girls, nobody.\nShe always goes straight home.\nShe's not in any club, either.\nOne day, you see, I happened to stumble onto her secret.\nThere was a reason she couldn't hang out with anyone.\nBelieve it or not, she was going to eight different cram schools.{p}"
+  },
+  {
+   "id": "16:1648",
+   "op": "text",
+   "en": "The end.{p}"
+  },
+  {
+   "id": "16:167c",
+   "op": "text",
+   "en": ".......................................................................................\n"
+  },
+  {
+   "id": "16:16f8",
+   "op": "choice",
+   "en": "Ask if that's really the end"
+  },
+  {
+   "id": "16:1718",
+   "op": "choice",
+   "en": "Move on to the next person's story"
+  },
+  {
+   "id": "16:172c",
+   "op": "text",
+   "en": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that supposed to be a scary story?\"\nUp to now, however short, his stories had at least been scary{f:.|...}\n{f:But|And yet,} what was {f:that one|that one}?{p}",
+   "follows_choice": [
+    "16:16f8"
+   ]
+  },
+  {
+   "id": "16:1870",
+   "op": "text",
+   "en": "\"Yeah, it is.\nA girl who goes to eight cram schools is scarier than any ghost, isn't she?\n{f:Would you want to go out|Oh,} {f:with a girl like that?|but you're not that kind of girl, are you?}\"\n\"...Um, let's leave aside whether it's scary in real life.\nCouldn't you tell me a scary story that really fires up the imagination?\"{p}"
+  },
+  {
+   "id": "16:19a4",
+   "op": "text",
+   "en": "\"...{f:Guess there's no helping it.|I see.}\nYou're dead set on making me tell a truly scary story, aren't you?\n{f:All right.|Can't be helped.}\n{f:Don't blame me for what happens.|Brace yourself before you listen...}\"\nIt seemed to me that Kazama's face had gone a little pale.\nAnd his body seemed to be trembling slightly.\nKazama began to speak, hesitantly.{p}...Truth is.\nNo, I really think I'd better not tell this one after all.\nThis is a distasteful story.\nSo distasteful, it might make you feel sick to hear it.\nYou've eaten at the school cafeteria, right?{p}That place's...\n",
+   "returns": []
+  },
+  {
+   "id": "16:1bb0",
+   "op": "choice",
+   "en": "Wait a minute. I have a bad feeling about this"
+  },
+  {
+   "id": "16:1bd0",
+   "op": "choice",
+   "en": "Listen to the story in silence"
+  },
+  {
+   "id": "16:1be0",
+   "op": "text",
+   "en": "\"Um, could you hold on a second?\"{p}",
+   "follows_choice": [
+    "16:1bb0"
+   ]
+  },
+  {
+   "id": "16:1c14",
+   "op": "text",
+   "en": "\"...What is it?\nI was finally in the mood to tell it, so don't throw cold water on it, will you?\"\n\"This wouldn't be a story about how the school cafeteria food tastes awful, would it?\"\n\"...Oh, so you knew too?\nThat's right. That cafeteria's food is awful, isn't it?{p}",
+   "returns": []
+  },
+  {
+   "id": "16:1d0c",
+   "op": "text",
+   "en": "The only reason people eat there even though it's so awful is that it's cheap.\nJust thinking about that set meal really fires up my imagination.\nUgh, I feel sick.\"\nMaybe that was why Kazama had gone so pale.\nWhat should I do?\nEven if I let him keep going, I couldn't expect a scary story from this guy{f:.|.}{p}Should I just give up and pass the baton to the next person{f:?|?}\n"
+  },
+  {
+   "id": "16:1e68",
+   "op": "choice",
+   "en": "Try putting up with him one more time"
+  },
+  {
+   "id": "16:1e84",
+   "op": "choice",
+   "en": "Enough is enough. Hear the next person's story"
+  },
+  {
+   "id": "16:1eb0",
+   "op": "text",
+   "en": "\"Um, please, I'm begging you.\nThis is a special feature on scary stories.\nIt's not about whether the school cafeteria food is awful or whatever.\nI can't write an article with this.\nFor pity's sake{f:|}, think of it as helping {f:me|me} out and tell it seriously, won't you?\"\nKazama {f:looked displeased|gave me a slimy, lingering look}.\n{f:But|Ugh...} {f:there was no other way.|did I say that the wrong way?}\n{f:I|What if he started in with} {f:kept at him.|\"Oh, all right, for you, my lovey-dovey honey...\"?}\n{f:It seemed|Kazama} {f:he'd finally decided to talk.|silently lowered his eyes.}\n{f:This time,|Huh?} {f:I hoped for a real scary story.|Is he actually going to tell it seriously...?}\n...Oh, fine.\nI've already told five whole stories, you know.{p}",
+   "follows_choice": [
+    "16:1e68"
+   ]
+  },
+  {
+   "id": "16:2160",
+   "op": "text",
+   "en": "The first person told one, so if I tell one more, the seven wonders will be complete.\nEveryone, this is a mistake.\nMaking me tell the seventh story, of all things.\nYou don't understand what kind of calamity that will bring.\nFrankly, the seventh story itself doesn't matter at all.\nWhat matters is the fact that seven stories have been told.\nLet's see, the seventh story...\nSomeone at this school killed themselves five years ago.\nThe end.\nThere. That does it.\nNow the seven wonders are complete.\nDo you know what happens when the seven wonders are finished?\nOne person disappears.{p}"
+  },
+  {
+   "id": "16:2368",
+   "op": "text",
+   "en": "That's right.\nOne of the people who were here suddenly vanishes, just like that.\nGo on, count.\nOne... two... three... four... five... six.\n...There are only six.\n{c}{f:|}.\nIncluding you, there ought to be seven of us, right?\nBut now there are six.\n\"...Kazama.\nYou're not counting yourself.\"{p}"
+  },
+  {
+   "id": "16:24c0",
+   "op": "text",
+   "en": "\"......{f:You're no fun,|Oh, come on,} {f:you know that.|you mustn't poke holes in it so fast.}\n{f:Here I am going to all this trouble|I'm going to all this trouble} to build the mood{f:, and|, so} {f:why|come on,} {f:do you keep throwing cold water on it?|you've got to act a little scared.}\n{f:Honestly,|...Oh, well,} {f:I swear...|you're just so cute...} {f:mutter mutter mutter|I'd forgive you anything}......\"\nKazama was {f:muttering to himself|babbling nonsense}.\nWhy had Hino invited someone like this{f:?|?}\nMaybe he was trying to make this whole project fail{f:|}{f:?|?}\n{f:I|I} pulled myself together and decided to hear the third person's story.{p}"
+  },
+  {
+   "id": "16:2738",
+   "op": "text",
+   "en": "Iwashita told one a little while ago, so if I tell one more, the seven wonders will be complete.\nDo you all understand what's going to happen?{p}"
+  },
+  {
+   "id": "16:27d8",
+   "op": "text",
+   "en": "I hate to say it, but this gathering is cursed.\nDo you think what happened to Iwashita was a coincidence?\nIt was no coincidence.\nIt happened because it was bound to happen.\nI knew it all along.\nThat if we kept going with the seven wonders like this, something terrible would happen.\nNone of us will get off lightly.\nEspecially you, {a}.\nI'm afraid even to imagine what's going to happen to you.\n...Well, even with me warning you like this, I suppose you'll keep going with the seven wonders anyway.{p}"
+  },
+  {
+   "id": "16:299c",
+   "op": "text",
+   "en": "Can you see it?\nThe evil spirit that's after us.\nThe evil spirit swirling in the corner of this room.\nLook... over there!{p}"
+  },
+  {
+   "id": "16:2a18",
+   "op": "text",
+   "en": "\"Whoa!\"\nI jumped despite myself.\nThen I looked where Kazama was pointing.{p}"
+  },
+  {
+   "id": "16:2a80",
+   "op": "text",
+   "en": "...Nothing.\nOf course there was nothing there.\nKazama had just been trying to scare us.{p}"
+  },
+  {
+   "id": "16:2ad4",
+   "op": "text",
+   "en": "\"Cut it out, Kazama... Huh?\nKazama? Kazama?\"\n...At some point, Kazama had vanished from the club room.\nEveryone looked as if they'd been bewitched by a fox.{p}"
+  },
+  {
+   "id": "16:2b98",
+   "op": "text",
+   "en": "There was no sign of anyone leaving the room.\nI hadn't heard the door open, either.\nBesides, it all happened in an instant.\nA person just vanishing like that... it was unthinkable.\nA chill ran down my spine.\nMaybe this is what true terror really means.\nI was too stunned to move.{p}"
+  },
+  {
+   "id": "16:2cb0",
+   "op": "text",
+   "en": "\"What do we do?\nI know things have turned out like this, but are we going to keep going?\"\nSomeone's voice brought me back to my senses.\nSomething bad was definitely happening.\nShould we really keep going like this?\nOr would it be better to stop?\n"
+  },
+  {
+   "id": "16:2d8c",
+   "op": "choice",
+   "en": "Continue"
+  },
+  {
+   "id": "16:2d94",
+   "op": "choice",
+   "en": "Stop"
+  },
+  {
+   "id": "16:2d9c",
+   "op": "text",
+   "en": "That's right.\nIt was nothing.\nJust a string of coincidences, that's all.\nI mean, that's just how Kazama is.\nHe set it all up from the start to scare us.\nHe must have been ready to slip away at a moment's notice.\nThat had to be it.\nI pulled myself together and decided to carry on.\n\"Let's continue.\nNow then, the third story is...\"{p}",
+   "follows_choice": [
+    "16:2d8c"
+   ]
+  },
+  {
+   "id": "16:2ee0",
+   "op": "text",
+   "en": "A heavy silence fell over the club room.\nWas that really the end of Kazama's story{f:?|?}\n{f:I|I} asked him, uneasy.\n\"...Um.\nIs that really the end?\"{p}",
+   "follows_choice": [
+    "16:07ec"
+   ]
+  },
+  {
+   "id": "16:2fac",
+   "op": "text",
+   "en": "\"Yeah, that's right.\nWell? Pretty scary, huh?\"\n\"...............\"\nWhat on earth was with this guy{f:?|?}\nSure, if the story were true, you could say it was scary{f:, but|, but}...\nA moving statue is just the kind of thing you hear in any silly rumor{f:.|.}\nWas he making fun of {f:me|me}{f:?|...?}\n"
+  },
+  {
+   "id": "16:30e4",
+   "op": "choice",
+   "en": "Ask him what he's getting at"
+  },
+  {
+   "id": "16:3100",
+   "op": "choice",
+   "en": "Ask him to tell more about the statue"
+  },
+  {
+   "id": "16:3120",
+   "op": "choice",
+   "en": "Stay quiet and watch him for a while",
+   "returns": [
+    "16:3120: RETURN - similar choice to 16:080c (Stay quiet and see what happens); both are accurate, editorial may align wording."
+   ]
+  },
+  {
+   "id": "16:3140",
+   "op": "text",
+   "en": "\"...Um.\nWhat exactly are you playing at?\"\n\"Hm, what's that?\nWhy would you say a thing like that?\"{p}",
+   "follows_choice": [
+    "16:30e4"
+   ]
+  },
+  {
+   "id": "16:31d0",
+   "op": "text",
+   "en": "\"Um.\n...Could you, uh, tell us a little more about the statue?\"{p}",
+   "follows_choice": [
+    "16:3100"
+   ]
+  },
+  {
+   "id": "16:3228",
+   "op": "text",
+   "en": "Kazama looked away from {f:me|me}, made a troubled face, and swept his hair back.\n\"...Fine.\nAs long as you won't regret it.\nIf you swear right here and now that you'll never regret it, I'll tell you.\"\n.........\nHe {f:seemed|seemed} to be trying to avoid getting to the real point.\nDid he know a story that terrifying{f:?|?}{p}Should I really hear any more of this{f:?|...?}\n"
+  },
+  {
+   "id": "16:33a4",
+   "op": "choice",
+   "en": "Say I won't regret it, so tell me"
+  },
+  {
+   "id": "16:33c8",
+   "op": "choice",
+   "en": "Back out, since I might regret it"
+  },
+  {
+   "id": "16:33e4",
+   "op": "text",
+   "en": "\"Kazama, please tell me.\nI don't care how frightening the story is.\n{f:I|I} may be a lowly one, but I'm a member of the newspaper club.\nI can't abandon an interview halfway.\"{p}",
+   "follows_choice": [
+    "16:33a4"
+   ]
+  },
+  {
+   "id": "16:3488",
+   "op": "text",
+   "en": "Kazama stared at {f:me|me} as if his gaze could pierce my eyes.\n\"If you're that determined...\"\nHis eyes were colored with firm resolve.\nWhat kind of terrifying story {f:was|was} about to be told?\nHad the statue that walks on its own at night caused some unimaginable incident{f:?|...?}{p}"
+  },
+  {
+   "id": "16:35d8",
+   "op": "text",
+   "en": "The club room was so quiet it seemed you could hear each person's heartbeat.\nHot...\nIt was so {f:hot|hot}.\nStreak after streak of sweat ran between my shirt and my skin.\nAfter a spell of silence, Kazama lowered his eyes and began to tell the story of the statue.{p}"
+  },
+  {
+   "id": "16:36c8",
+   "op": "text",
+   "en": "\"Go in through the student gate and head right and from around the seventh shrub you can see the back garden over the flowerbed and from there you walk about one hundred seventeen steps north toward the new school building and turn left and just short of the gym there stands solemnly the statue of the principal...\nHis eyebrows are raised sharply and he gazes on the students with loving eyes and deep within those eyes lies a passion for education and this finest of statues which ought to be the pride of us all..............................moves on its own at night.\nThe end.\"{p}"
+  },
+  {
+   "id": "16:3860",
+   "op": "text",
+   "en": "......................................\n"
+  },
+  {
+   "id": "16:3898",
+   "op": "choice",
+   "en": "Ask if that's really the end"
+  },
+  {
+   "id": "16:38b8",
+   "op": "choice",
+   "en": "Move on to the next person's story"
+  },
+  {
+   "id": "16:38cc",
+   "op": "text",
+   "en": "\"Um...\"\n\"{f:What's with you|Hmm~}?\n{f:I told it to you in detail, didn't I|What's the matter}?\n{f:Everything from where the statue is to what it looks like.|Were you amazed at how detailed it was?}\n{f:If you're a lowly newspaper club member yourself|Did you get the idea of}{f:, you know how hard I worked to tell that story, right| recruiting me into the newspaper club}?\nThis {f:meticulous|precise} description.\nQuite a documentary, wasn't it?\n{f:Could a lowly thing like you|Oh}{f: tell a story like that|, save the autographs for later, okay}?{p}",
+   "follows_choice": [
+    "16:3898"
+   ]
+  },
+  {
+   "id": "16:3aa8",
+   "op": "text",
+   "en": "But... {f:'lowly,' huh|I wonder if I've gained another fan}.\n{f:Wahaha|Heh heh}!\n{f:'A lowly one!'|Heh heh heh heh...}{p}{f:Kid|...Man}, {f:if you go around using corny words like that|club activities with you}{f:, girls will never go for you.| would sure be fun...}\"{p}"
+  },
+  {
+   "id": "16:3bb4",
+   "op": "choice",
+   "en": "Why did Hino invite someone like this?"
+  },
+  {
+   "id": "16:3bd8",
+   "op": "choice",
+   "en": "Ponder why he was ever born into this world"
+  },
+  {
+   "id": "16:3c00",
+   "op": "choice",
+   "en": "Ponder his life, love and death"
+  },
+  {
+   "id": "16:3c24",
+   "op": "choice",
+   "en": "Think: \"Nozomu Kazama... what a lovely name\""
+  },
+  {
+   "id": "16:3c50",
+   "op": "text",
+   "en": "Why did Hino invite someone like this{f:?|?}\nWhat on earth {f:is with|is with} this guy{f:?|?}{p}",
+   "follows_choice": [
+    "16:3bb4"
+   ]
+  },
+  {
+   "id": "16:3cc0",
+   "op": "text",
+   "en": "\"Hey, {f:don't glare at me with that scary face.|you're in Class 1-E, right?}\n{f:I've|There, there}{f: carved precious time out of my last summer of high school| Next time}{f: to be here, you know.|, I'll come over to visit you.}\n{f:A ladies' man like me|Or}{f: blew off a date with some babe to come here.| would you rather hang out somewhere outside school?}\n...{f:The least you could do is serve some tea|How about it}?\"{p}"
+  },
+  {
+   "id": "16:3e0c",
+   "op": "text",
+   "en": ".........\n{f:I|I} sighed.\nI didn't want to talk to this person anymore{f:.|.}\nThe principal's statue moves on its own at night.\nThat would do for the second of the seven wonders.\nI surely wasn't going to get anything more out of him anyway{f:.|.}\nThere was nothing for it but to move on to the next story{f:.|.}\nTrying not to look at Kazama, {f:I|I} said this:\n\"That concludes Kazama's story.\nNow then, the next story...\"{p}"
+  },
+  {
+   "id": "16:3fa0",
+   "op": "text",
+   "en": "..................................................................Kazama started scratching his belly, scritch-scratch.\n\"H-hey, what do you think you're doing?!★\"\n{f:I|I} hurriedly stopped him.\nRolling up his shirt so openly like that...\n{f:And with girls in the room, too|Ugh, gross}...{p}",
+   "follows_choice": [
+    "16:3120"
+   ]
+  },
+  {
+   "id": "16:40f0",
+   "op": "text",
+   "en": "Kazama stopped scratching his belly, lifted his rear off the seat, and leaned forward.\nWhat was it?\nWhat on earth {f:was|was} this guy?\nHe had a strange, intimidating air about him.\nHe was no ordinary person{f:.|.}\nMaybe Hino had invited him for some deep reason{f:.|...}\nThis man gave off a dangerous scent...{p}"
+  },
+  {
+   "id": "16:4220",
+   "op": "text",
+   "en": "\"{f:Sorry, sorry|Whoops}.\n{f:I farted.|Do you smell something?}\"\nK-Kazama...\nA horribly dangerous scent was drifting from his raised rear.\n..............................................................{p}"
+  },
+  {
+   "id": "16:4324",
+   "op": "text",
+   "en": "The club room was engulfed in foul air.\nAgony.\nTo think that treatment this cruel could exist in this world.\nNow that I've known this agony, I can overcome any hardship the rest of my life may bring. So {f:I|I} believe.\n{f:It's no good|It's no good}, I'm about to {f:pass out|pass out}...\nAh.\nAhh.\nAhhh......{p}"
+  },
+  {
+   "id": "16:446c",
+   "op": "text",
+   "en": "\"{f:Hey|Mm}, {f:would you quit making such a show of being disgusted?|how awful.}\n{f:I'm a third-year|Somebody farted, didn't they}{f:, the top of the school, you know.|? That's so annoying.}\n{f:You mustn't forget your manners toward your seniors.|That's rude in front of a girl.}\"\n.........\n{f:Why on earth did Hino|Honestly, Kazama...}{f: invite someone like this?| when he's the one who farted...}\nKazama's attitude made up {f:my|my} mind.\n{f:Manners, my foot.|Senior or not...}\nI couldn't take any more of this{f:.|.}\nEven if he really did know some amazing ghost story, I wanted nothing more to do with him.\n{f:I|I} decided to hear the next person's story.\n\"Kazama, I'm terribly sorry.\nThank you for your wonderful story.\nPlease, take a nice long rest.\nOh, and you're welcome to go home, too.\nOh, I see, so you intend to stay here.\n...Understood.\nBut if you get bored, feel free to go home anytime.\n...Well then, let's move on to a different story. Next person, please...\"{p}"
+  },
+  {
+   "id": "16:4808",
+   "op": "text",
+   "en": "\"...I'm sorry.\nI think I'll pass after all.\nI have a bad feeling about it.\"\nI couldn't listen to any more of this story.{p}",
+   "follows_choice": [
+    "16:33c8"
+   ]
+  },
+  {
+   "id": "16:48a8",
+   "op": "text",
+   "en": "Or so it felt.\n{f:I|I} slowly looked around the room.\nEveryone looked dissatisfied.\nHuh?\nDidn't the others have a bad feeling about it{f:?|?}\nDid they want to hear the rest of Kazama's story{f:?|?}\n...True, \"The principal's statue moves at night. The end\" might be a bit much.\nBut I couldn't very well say \"On second thought, {f:tell me|tell me}\" now.\nBecause......{p}"
+  },
+  {
+   "id": "16:4a38",
+   "op": "text",
+   "en": "\"Zzz... zzz...\"\nKazama had fallen asleep at some point{f:.|.}\nWhat on earth {f:is|is} this guy?\n...Had he been sleepy all along{f:?|?}\nDid he join the seven wonders interview, get sleepy, and just toss off some short, half-baked story{f:?|?}\n{f:Still|But}... why did Hino invite someone like this?\n.........\nOh well.\nThere's no use thinking about it{f:.|.}\nI {f:have to|have to} move on.\nUnder everyone's cold stares, {f:I|I} timidly spoke up.\n\"Um.\nShall we move on to the next story...?\"{p}"
+  },
+  {
+   "id": "16:4c6c",
+   "op": "text",
+   "en": "Why was this person ever born into this world{f:?|?}\n{f:I|I} don't know.\nSurely the Tanakas who live next door to {f:me|me} don't know either.\nNor does Pochi, the dog my relatives keep.\n.........\nWhat is all this?\nWhy {f:do I|do I} {f:have to|have to} think about this?\nForget it, I'll hear the next person's story.{p}",
+   "follows_choice": [
+    "16:3bd8"
+   ]
+  },
+  {
+   "id": "16:4dcc",
+   "op": "text",
+   "en": "\"Well then, the next person...\"\n\"Hold {f:on|on} a sec.\nMy story isn't over yet.\"\nKazama started {f:complaining|saying that}.\n\"But you just said, 'The statue moves on its own at night... The end'!\"\n\"{f:Quit nagging|Now, just listen}.\n{f:I'm saying I'll tell you a bit more|I've gotten the urge to tell a bit more}{f:, so quit resisting|, okay}.\nI just thought up a new documentary{f:, see|}.\"\n\"Kazama, a documentary isn't something you just 'think up'...\"\n\"The principal's statue which was erected on March 14, 1990 is made of bronze and its surface is polished to a gleaming shine and moreover it is smooth and firm so that you feel the breath of life in it as if it were alive and furthermore......mutter mutter mutter.........\"\nKazama was muttering away.\n{f:I|I} left him to it and decided to go on to the next story.\n\"Well then, let's go on to the next story.\nNext person, please...\"{p}"
+  },
+  {
+   "id": "16:5144",
+   "op": "text",
+   "en": "{f:I|I} began to think about his life, love and death.......................................let's not.\nI don't want to think about that.\nSomehow, I'd lost all my motivation.\nWe're only on the second of the seven wonders, so why do I feel like this{f:?|?}\nSo sluggish.\nI just don't feel like doing anything...\nIs this the work of a spirit{f:?|?}\n.........\n{f:No|No}, it's Kazama's fault{f:.|.}\nKazama's fault alone{f:.|.}\n{f:Honestly|Geez}.\nWhat on earth is this guy{f:?|?}\n...Better not to get too involved with him{f:.|.}\nPulling myself together, {f:I|I} decided to hear the next story.\n\"Well then, let's go on to the next story.\nThe next person is...\"{p}",
+   "follows_choice": [
+    "16:3c00"
+   ]
+  },
+  {
+   "id": "16:53e8",
+   "op": "text",
+   "en": "Nozomu Kazama... what a lovely name.\n.........\n{f:Since|Because} this guy was so completely absurd, even {f:I|I} started thinking nonsense.\nThis is no good{f:.|.}\nAt this rate, the interview will be ruined.\nThe principal's statue moves on its own at night.\n...Is that {f:true|true}?\nI'll jot it down just in case{f:,|,} but there's no point in talking with this guy any further{f:.|.}\n\"{f:Hey, Mr. Lowly.|I'm so glad I met you.}\n{f:Come on|Hey}, {f:move on to the next story already.|isn't that right, baby?}\"\n.........\nHolding back the anger welling up inside, {f:I|I} decided to hear the next story.\n\"Well then, the next story, please.\nNext is......\"{p}",
+   "follows_choice": [
+    "16:3c24"
+   ]
+  },
+  {
+   "id": "16:566c",
+   "op": "text",
+   "en": "\"Well then, who's next...\"{p}",
+   "follows_choice": [
+    "16:0920",
+    "16:0ca4"
+   ]
+  },
+  {
+   "id": "16:5698",
+   "op": "text",
+   "en": "As {f:I|I} began to say that, Kazama lifted his chin and {f:shot me a quick, contemptuous look|knitted his brows}.\n\"Oh, moving on to the next person's story?\n{f:You're hopeless|What a shame}.\nAnd here I was, about to tell you a truly scary story.\"\nHmph...\nWhat {f:is|is} with this guy?\n\"...Kazama.\nYou said 'the end' at the end of your story just now, didn't you?\"{p}"
+  },
+  {
+   "id": "16:581c",
+   "op": "text",
+   "en": "\"{f:Look here|Heh heh}, {f:with an interview|you see, with an interview}, the key is how well you draw out the other person's story.\nYou can't just {f:sit there in a daze and |}listen to what they tell you.\n{f:Don't you understand even|Sorry, was}{f: that much| that a bit harsh}?\n...{f:Well|But}, {f:whatever|I'm not angry or anything, okay}.\n{f:If you don't want to hear it|If it's all right with you}, {f:that's fine by me|I'll tell you some other time}.\"\n...Grrr.\nWhile {f:I|I} was at a loss, Kazama began urging everyone to get on with the next story.\n\"My story ends here.\n{c}{f:|} said that's enough, after all.\nSo, whose turn is it next?\"{p}"
+  },
+  {
+   "id": "16:5aa8",
+   "op": "text",
+   "en": "The food at that cafeteria... is awful.\nThe awful story. The end.\n....................................................................................\nI-I wish I hadn't listened.\n\"That cafeteria really is awful, isn't it?{p}",
+   "follows_choice": [
+    "16:1bd0",
+    "16:7184"
+   ]
+  },
+  {
+   "id": "16:5b94",
+   "op": "text",
+   "en": "\"...I feel like this gathering is cursed by something.\nLet's stop for today.\nI'm terribly sorry, but could we continue this some other time?\"\nWhen I said that, everyone hurried out of the club room.{p}",
+   "follows_choice": [
+    "16:2d94"
+   ]
+  },
+  {
+   "id": "16:5c70",
+   "op": "text",
+   "en": "Everyone must have sensed that this gathering was dangerous.\nWe never should have done an interview on the seven wonders.\nAnd then, just as I was about to be the last to leave the deserted club room... something terrifying happened.{p}"
+  },
+  {
+   "id": "16:5d44",
+   "op": "text",
+   "en": "Lo and behold, Kazama... popped out from under a desk.\n\"Hahaha, I only hid for a second.\nWhat a bunch of scaredy-cats.\"\nWith that, Kazama looked at me with a big grin.\n\"And you, {a}. Honestly, {a}.\nYou're in the newspaper club, so what are you doing getting spooked by a little thing like this?\"\n...K-Kazama...!\nIf I'd looked carefully, I should have seen he was under the desk...\nThe others and I had let fear get the better of us, and we weren't paying attention.\nAh, I fell for Kazama's prank and ruined our seven wonders interview☆{p}"
+  },
+  {
+   "id": "16:5f3c",
+   "op": "text",
+   "en": "I was beaten.\nTruly beaten...\nThen and there, I resolved to put a line like this in the feature article on the school's seven wonders:\n\"Let me tell you of the greatest of this school's seven wonders: the story of a terrifying human being.\nAt this school there is a terrifyingly flippant guy named Nozomu Kazama.\nThe end.\"\n.............................................................................\nI'd made up my mind, but somehow it felt hollow...{p}"
+  },
+  {
+   "id": "16:60e0",
+   "op": "text",
+   "en": "\"Well then, I'd like to move on to the next story.\nSo, for the third one...\"\nTrying to rescue the mood, which had gone completely flat, {f:I|I} made an effort to respond calmly.\nThe best thing to do with people like this is ignore them{f:.|.}\nThen Kazama, perhaps angry at being ignored, turned a look of protest toward {f:me|me}.\n\"{f:Just as I thought|That's so mean}, {f:you don't take being a reporter seriously enough|you've hurt me}.\n{f:I'm disappointed in you|I'm so sad I can't stand it}.\"{p}",
+   "follows_choice": [
+    "16:111c",
+    "16:38b8"
+   ]
+  },
+  {
+   "id": "16:62ac",
+   "op": "text",
+   "en": "Then he shrugged theatrically and sighed.\n\"{f:I'd heard you were a capable newcomer|And here I'd been looking forward to this day}{f:, so I had high hopes for you...|...}\"\nAh, there he goes again, trying to get attention...\nOh well, I guess I'll {f:humor him|have to humor him}.\n\"Kazama, is there something you forgot to tell us...?\"{p}"
+  },
+  {
+   "id": "16:63f4",
+   "op": "text",
+   "en": "\"No. I said 'the end' properly a moment ago, didn't I?\"\n\"Huh?★ But just now...\"\n\"Oh, come on, all I said was {f:that I was disappointed in you|that I was hurt}.\"{p}"
+  },
+  {
+   "id": "16:64b0",
+   "op": "text",
+   "en": "\"W-well, that's true, but...\"\n"
+  },
+  {
+   "id": "16:64d8",
+   "op": "text",
+   "en": "\"{c}{f:|}... you see, it pains me, {f:how utterly hopeless your attitude is|the way you go about} when you listen to a story.\nA moment ago, you tried to wrap up my story so curtly.\nYou're a member of the newspaper club, aren't you?\n{f:If you can't express|You could have shown} at least the feeling of 'Thank you for that wonderful story...'{f:, what good are you|, couldn't you}?\n{f:Unless you're more sensitive|I think that way}{f:, you'll never make it big.| we'd both feel good.}\"\n...{f:Oh|Oh}, so in the end he's just saying I didn't thank him enough{f:.|.}\nNormally, I don't think that's the sort of thing you go demanding...\nIt can't be helped{f:.|.}\n\"Why, thank you so very much for that truly wonderful story.\nAnd not only that, I'm truly delighted that you even gave me such wonderful advice.\"\n...Ugh, he really is an exhausting person{f:.|.}{p}"
+  },
+  {
+   "id": "16:6804",
+   "op": "text",
+   "en": "\"No, as long as you understand.\nIt's all for your sake.\nYou should cultivate your sensitivity by looking at things that are beautiful and noble.\n...I know, I'll give you something nice.\"{p}"
+  },
+  {
+   "id": "16:68ac",
+   "op": "text",
+   "en": "With that, Kazama took a photograph out of his pocket.\nIt was a photo of Kazama himself{f:.|.}\nDoes this guy always carry around photos of himself{f:?|...?}\n\"I'll give this to you.\nIt's a photo of the most beautiful, most noble being in this world.\nWell? Aren't you happy?\"\n...That really made my head spin.{p}"
+  },
+  {
+   "id": "16:69f0",
+   "op": "text",
+   "en": "Kazama was looking at {f:me|me} with a smile at the corner of his mouth.\nI'm done getting involved with this person.\n\"Look how much I'm looking out for you.\nDon't you think there's no man as wonderful as me?\"\n...Yes, yes.\nGo ahead and talk to yourself all you like.\nTime to pull myself together and move on{f:.|, I guess.}\n\"Well then, the next story, please.\"{p}"
+  },
+  {
+   "id": "16:6b38",
+   "op": "text",
+   "en": "Just how far was he going to take this clowning around?\nWas he looking down on me just because I'm a first-year{f:?|?}\nEnough. I'll leave someone like him alone and move on to the next story.\n\"Well then, the next story...\"{p}",
+   "follows_choice": [
+    "16:1718",
+    "16:1e84"
+   ]
+  },
+  {
+   "id": "16:6c08",
+   "op": "text",
+   "en": "\"All right, then, I'll tell you my very best story.\"\nWait, that's Kazama{f:!|!}\n\"No, Kazama, your story's already over!\"\n\"Do you really think my story ended with just that?\nIf so, you're making a terrible mistake.\"\nKazama had an awfully serious look on his face.\n\"I wash my hands of this.\nThe important part was just about to start...\nIt's too late now, no matter how much you regret it.\"\n\"Wait a minute.\nThen why did you say 'the end'?!★\"{p}"
+  },
+  {
+   "id": "16:6de4",
+   "op": "text",
+   "en": "\"You poor thing, you didn't realize that was the keyword.\"\nKazama gazed at {f:me|me} with pitying eyes.\nBut soon that turned into a {f:contemptuous|strange} look...{p}"
+  },
+  {
+   "id": "16:6e9c",
+   "op": "text",
+   "en": "\"They say every end is a new beginning, right?\n{f:If you couldn't even notice that|I wanted you to notice that}, {f:maybe you're just not cut out to be a reporter|understand}?\n{f:I don't sense a shred of talent in you|I was testing you}.\nIn the first place, a reporter is......\"\n\"Leave me alone!\"\nThat was close, that was close.\nI'd almost gotten swept up in his pace again{f:.|.}\nHonestly, I can't tell whether his logic holds together or not...\nHanging around with Kazama any longer would be a waste of time{f:.|.}\n\"{f:Anyway|So anyway}..., your......rather than...\"\nKazama was still babbling about something.\nArgh, I'm ignoring him, period{f:!|!}\nIgnore☆\n\"Well then, next person.\nPlease, give us an amazing story to cleanse our palates.\"{p}"
+  },
+  {
+   "id": "16:7164",
+   "op": "choice",
+   "en": "Wait. I have a bad feeling about this"
+  },
+  {
+   "id": "16:7184",
+   "op": "choice",
+   "en": "Listen to the story in silence"
+  },
+  {
+   "id": "16:7194",
+   "op": "text",
+   "en": "\"Um, could you wait a moment?\"\n\"...Hm?\nWhat's wrong?\nLet's see, do you want to hear this story with just the two of us?\"\n\"That's not it...\nUm, Kazama, your story isn't something like 'the cafeteria food is awful'... is it?\"\n\"...Oh, so you knew too.\nThat's right.\nThat cafeteria's awful, isn't it?{p}",
+   "follows_choice": [
+    "16:7164"
+   ]
+  }
+ ]
+}

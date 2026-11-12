@@ -1,0 +1,322 @@
+{
+ "slice": "S090",
+ "scene": "24",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S089",
+ "next": "S091",
+ "rows": [
+  {
+   "id": "24:0ed4",
+   "op": "text"
+  },
+  {
+   "id": "24:10a8",
+   "op": "choice"
+  },
+  {
+   "id": "24:10b4",
+   "op": "choice"
+  },
+  {
+   "id": "24:10c8",
+   "op": "text",
+   "follows_choice": [
+    "24:10a8"
+   ]
+  },
+  {
+   "id": "24:10f8",
+   "op": "text"
+  },
+  {
+   "id": "24:110c",
+   "op": "choice"
+  },
+  {
+   "id": "24:1114",
+   "op": "choice"
+  },
+  {
+   "id": "24:111c",
+   "op": "choice"
+  },
+  {
+   "id": "24:1124",
+   "op": "choice"
+  },
+  {
+   "id": "24:1134",
+   "op": "text",
+   "follows_choice": [
+    "24:1114"
+   ]
+  },
+  {
+   "id": "24:1190",
+   "op": "text"
+  },
+  {
+   "id": "24:1208",
+   "op": "text"
+  },
+  {
+   "id": "24:14a4",
+   "op": "text"
+  },
+  {
+   "id": "24:1550",
+   "op": "text"
+  },
+  {
+   "id": "24:1710",
+   "op": "text"
+  },
+  {
+   "id": "24:1750",
+   "op": "choice"
+  },
+  {
+   "id": "24:175c",
+   "op": "choice"
+  },
+  {
+   "id": "24:176c",
+   "op": "choice"
+  },
+  {
+   "id": "24:178c",
+   "op": "text",
+   "follows_choice": [
+    "24:175c"
+   ]
+  },
+  {
+   "id": "24:1a98",
+   "op": "text"
+  },
+  {
+   "id": "24:1eec",
+   "op": "text"
+  },
+  {
+   "id": "24:20e4",
+   "op": "text"
+  },
+  {
+   "id": "24:2204",
+   "op": "text"
+  },
+  {
+   "id": "24:2438",
+   "op": "text"
+  },
+  {
+   "id": "24:24a8",
+   "op": "text"
+  },
+  {
+   "id": "24:25e0",
+   "op": "text"
+  },
+  {
+   "id": "24:2870",
+   "op": "text"
+  },
+  {
+   "id": "24:2940",
+   "op": "text"
+  },
+  {
+   "id": "24:2b7c",
+   "op": "choice"
+  },
+  {
+   "id": "24:2b90",
+   "op": "choice"
+  },
+  {
+   "id": "24:2ba8",
+   "op": "choice"
+  },
+  {
+   "id": "24:2bd8",
+   "op": "text",
+   "follows_choice": [
+    "24:2b7c"
+   ]
+  },
+  {
+   "id": "24:2c98",
+   "op": "text"
+  },
+  {
+   "id": "24:2ee0",
+   "op": "text"
+  },
+  {
+   "id": "24:3048",
+   "op": "text"
+  },
+  {
+   "id": "24:3178",
+   "op": "choice"
+  },
+  {
+   "id": "24:3184",
+   "op": "choice"
+  },
+  {
+   "id": "24:3190",
+   "op": "choice"
+  },
+  {
+   "id": "24:3198",
+   "op": "choice"
+  },
+  {
+   "id": "24:31a8",
+   "op": "text",
+   "follows_choice": [
+    "24:3198"
+   ]
+  },
+  {
+   "id": "24:32c8",
+   "op": "text"
+  },
+  {
+   "id": "24:3344",
+   "op": "text"
+  },
+  {
+   "id": "24:3458",
+   "op": "choice"
+  },
+  {
+   "id": "24:3460",
+   "op": "choice"
+  },
+  {
+   "id": "24:347c",
+   "op": "text",
+   "follows_choice": [
+    "24:3460"
+   ]
+  },
+  {
+   "id": "24:35d4",
+   "op": "text"
+  },
+  {
+   "id": "24:38a4",
+   "op": "text"
+  },
+  {
+   "id": "24:3ac0",
+   "op": "choice"
+  },
+  {
+   "id": "24:3ac8",
+   "op": "choice"
+  },
+  {
+   "id": "24:3ad4",
+   "op": "text",
+   "follows_choice": [
+    "24:3ac8"
+   ]
+  },
+  {
+   "id": "24:3b04",
+   "op": "text"
+  },
+  {
+   "id": "24:3c40",
+   "op": "text"
+  },
+  {
+   "id": "24:3cc0",
+   "op": "text"
+  },
+  {
+   "id": "24:3ef0",
+   "op": "text"
+  },
+  {
+   "id": "24:3fa8",
+   "op": "text"
+  },
+  {
+   "id": "24:4134",
+   "op": "text"
+  },
+  {
+   "id": "24:42cc",
+   "op": "text"
+  },
+  {
+   "id": "24:4384",
+   "op": "text"
+  },
+  {
+   "id": "24:4424",
+   "op": "text"
+  },
+  {
+   "id": "24:44c4",
+   "op": "text"
+  },
+  {
+   "id": "24:461c",
+   "op": "text"
+  },
+  {
+   "id": "24:485c",
+   "op": "text"
+  },
+  {
+   "id": "24:49b8",
+   "op": "text"
+  },
+  {
+   "id": "24:4b04",
+   "op": "text"
+  },
+  {
+   "id": "24:4c38",
+   "op": "text",
+   "follows_choice": [
+    "24:10b4"
+   ]
+  },
+  {
+   "id": "24:4c80",
+   "op": "text",
+   "follows_choice": [
+    "24:110c"
+   ]
+  },
+  {
+   "id": "24:4d1c",
+   "op": "text",
+   "follows_choice": [
+    "24:111c"
+   ]
+  },
+  {
+   "id": "24:4db8",
+   "op": "text"
+  },
+  {
+   "id": "24:4e0c",
+   "op": "text",
+   "follows_choice": [
+    "24:1124"
+   ]
+  },
+  {
+   "id": "24:4e68",
+   "op": "text"
+  }
+ ]
+}

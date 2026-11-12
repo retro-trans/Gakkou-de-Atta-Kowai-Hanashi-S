@@ -1,0 +1,382 @@
+{
+ "slice": "S171",
+ "scene": "44",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S170",
+ "next": "S172",
+ "todo": [
+  "- S171 44:e724: \"that special order\" refers to a line outside the visible branch; check against the 44:3030 branch.",
+  "- S171 44:c86c/ca14: gender tone carried with {f:pal|dear}; confirm it reads right."
+ ],
+ "rows": [
+  {
+   "id": "44:aeb0",
+   "op": "text",
+   "en": "...Oh no!\nHe's misunderstood something!\nSo he {f:is|is} angry after all.\n\"This is a formal duel.\nI may take it that way, yes?\nI never imagined that I, of all people, would be challenged to a duel on such a remote planet at the far edge of space.\"\nWh-what {f:is|is} he talking about...?\nDoes he really enjoy making {f:me|me} squirm that {f:much|much}?{p}"
+  },
+  {
+   "id": "44:aff4",
+   "op": "text",
+   "en": "\"Laughing loudly in someone's face is a formal challenge to a duel, and the more arrogant the laugh, the more formal it is.\nIt's an old ritual hardly anyone uses anymore, even on Sunbararia.\"\n...I didn't know!\nI had no {f:idea|idea} about anything like that.\nIf I'd known, I'd never have laughed like that.\n\"I've decided to accept this challenge.\nNow then, though I'm in the middle of my mission, let's return to Sunbararia for a while.\nBy tradition, a formal duel is held in the presence of the king.\"\nWhat do I do? At this rate I'll be dragged off to some unthinkable place!\nI'd run, but Kazama has a firm grip on {f:my|my} arm...\nStill, I have to do something.\n\"Um, isn't it bad to go back in the middle of your job?\"{p}"
+  },
+  {
+   "id": "44:b264",
+   "op": "text",
+   "en": "\"What are you saying?\nOn our planet, a duel is sacred and takes priority over everything, doesn't it?\nBesides, I'd heard that a Sunbararian candidate for the throne was on Earth right now.\nIsn't that you?\nSo this is a battle for the next crown.\nThe whole universe will be watching this match.\"\nB-but even if you tell me that...\n\"Come, let us return to our planet, Sunbararia!\nOnward, to the field of the duel☆\"\nThen Kazama... no, the Sunbararian took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:b43c",
+   "op": "text",
+   "en": "Wrapped in a dazzling light, {f:I|I} set off for a planet I had never seen...\nWill I become king there, or lose the duel and die?\nEither way, I {f:will|will} never come back again.\nDad, Mom, please forgive {f:me|me}, your undutiful child.{p}"
+  },
+  {
+   "id": "44:b530",
+   "op": "text",
+   "follows_choice": [
+    "44:2830"
+   ],
+   "en": "I have to steer this onto some other topic...\n\"You're really cool, Kazama. I bet you go out with lots of girls at once, don't you? Lucky you. You ladykiller☆ {f:I'm|I'm} so jealous. I bet you made plenty of girls cry on Sunbararia too.\"\nI just said whatever popped into my head.\nKazama's expression stiffened.\nHe was making a sour face.\nOh no, it looks like this plan {f:failed|failed}.\nOh, to hell with it.{p}"
+  },
+  {
+   "id": "44:b6b0",
+   "op": "text",
+   "follows_choice": [
+    "44:2844"
+   ],
+   "en": "Maybe all I can do is dance for now and gloss things over.\nUm, but I can't do any of the dances that are popular now.\nThe only dancing I've ever seen is my grandma practicing at home...\n{f:I|I} only know folk dances.\nOh, whatever happens, happens!\n\"Hey, heave-ho, heave-ho! Ah, there we go, there we go!\"{p}"
+  },
+  {
+   "id": "44:b7b4",
+   "op": "text",
+   "en": "I danced, lost in it.\nIt was my first time, yet even I thought my form was beautiful.\nMaybe {f:I|I} have a gift for folk dancing.{p}"
+  },
+  {
+   "id": "44:b840",
+   "op": "text",
+   "en": "But...\nKazama was still watching {f:my|my} dance with a sour face.\nHis brow was furrowed, and he didn't move a muscle.\nAnd he was staring intently at {f:my|my} dancing.\nThis was bad. If he didn't react somehow, I'd never be able to stop dancing.\nJust then, for an instant, Kazama's eyes seemed to glint.\nWas it just {f:my imagination|my imagination}?{p}"
+  },
+  {
+   "id": "44:b97c",
+   "op": "text",
+   "en": "\"Kazama, don't you feel anything, watching {f:my|my} dance?\"\n{f:I|I} finally lost patience and asked.\nAn unexpected answer came back from Kazama.\n\"On the contrary, I'm deeply moved. Truly... I never knew such a moving dance existed. What have I been looking at all this time on Earth? It's beautiful, utterly beautiful, {a}!\"\nGreat, the conversation {f:had|had} drifted off nicely.\n\"Huh, wh-what...? My body {f:won't|won't} listen to me★\"{p}"
+  },
+  {
+   "id": "44:bb3c",
+   "op": "text",
+   "en": "Kazama grinned.\n\"Actually, your dancing was just too moving. So I took the liberty of a little tinkering.\"\nTinkering...? Just what {f:did|did} Kazama do to {f:my|my} body★\n\"You're really an Earthling, aren't you? I've known since the moment you started dancing. Sunbararians can't dance, you see. Don't worry. I'm not going to blame you for it. Instead, I'm going to donate something to the museum on Sunbararia. You, that is.\"\n\"K-Kazama☆ My body's dancing on its own! I can't stop!\"\nThen Kazama took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:bd68",
+   "op": "text",
+   "en": "For an instant, the patch flashed.{p}"
+  },
+  {
+   "id": "44:bd94",
+   "op": "text",
+   "en": "\"Whoa☆ Hey, wait☆\"\nBefore I knew it, {f:I|I} was inside a glass pod.\n{f:I|I} was still dancing, just as before.{p}"
+  },
+  {
+   "id": "44:be28",
+   "op": "text",
+   "en": "Kazama laughed and said,\n\"My rotation is almost up; soon I'll be handing over to the next fellow Sunbararian. I'm glad. Now I've got a nice souvenir to take home.\"{p}"
+  },
+  {
+   "id": "44:bea8",
+   "op": "text",
+   "en": "No way... {f:Am I|Am I} going to end my life in a museum on Sunbararia{f:|}?\nDancing a dance I couldn't stop, I glanced at the window with teary eyes.{p}"
+  },
+  {
+   "id": "44:bf34",
+   "op": "text",
+   "en": "Countless stars were twinkling in the sky.\nSomewhere among those stars, {f:I guess|I suppose}, is Sunbararia...{p}"
+  },
+  {
+   "id": "44:bfac",
+   "op": "text",
+   "follows_choice": [
+    "44:2b94"
+   ],
+   "en": "...There's no such thing as aliens.\nThat's absolutely {f:impossible|impossible}.\nI {f:have to|have to} keep my head together.{p}"
+  },
+  {
+   "id": "44:c038",
+   "op": "text",
+   "en": "Kazama must simply have convinced himself that he's a Sunbararian.\nHe really is a hard person to {f:figure out|figure out}.{p}"
+  },
+  {
+   "id": "44:c0ac",
+   "op": "text",
+   "en": "The only choice {f:I|I} had left was to escape from this dangerous man.\n{f:Yes|Yes}, that's all I could do☆\n{f:I|I} dashed for the door, but Kazama grabbed {f:my|my} arm hard.{p}"
+  },
+  {
+   "id": "44:c178",
+   "op": "text",
+   "en": "\"What's wrong? ...Were you going to check whether anyone's outside? It's fine. There's no one there. Heh heh, just send out an ultrasonic pulse and you'd know in a second, wouldn't you?\"\nWhat {f:is|is} this guy talking about?\nWhat do I do?\nThis is getting worse and worse...{p}"
+  },
+  {
+   "id": "44:c278",
+   "op": "text",
+   "en": "\"By the way, is your mission going well?\"\nKazama's expression suddenly turned serious.\nM... mission?\nKazama's face was so close it nearly touched {f:my|my} cheek.\nHis breath on my ear was unpleasantly warm.\nAnd the words that came out of his mouth...{p}"
+  },
+  {
+   "id": "44:c374",
+   "op": "text",
+   "en": "\"The invasion of Earth, of course. Well, well, who'd have thought I'd meet a comrade in a place like this? I'm so happy. Oh, that's right, it's almost time for our regular report. I have to go home for a bit. Shall I call for a pickup right now?\"\nTalking away to himself, Kazama went and stood by the window.\nThen he took something like a toy patch out of his pocket and held it up to the sky.{p}"
+  },
+  {
+   "id": "44:c4a4",
+   "op": "text",
+   "en": "\"Calling the mothership! Calling the mothership!\nComing in to make my regular report!\n·☆☆★··~☆\"{p}"
+  },
+  {
+   "id": "44:c500",
+   "op": "text",
+   "en": "For an instant, there was a flash outside the window.\nA light like lightning shot across the darkened sky.{p}"
+  },
+  {
+   "id": "44:c560",
+   "op": "text",
+   "en": "Seeing that, Kazama smiled with satisfaction.\nThen, waving the patch, he struck strange poses like something out of radio calisthenics and began to dance.{p}"
+  },
+  {
+   "id": "44:c5e0",
+   "op": "text",
+   "en": "...This {f:guy|guy} is {f:dangerous|dangerous}.{p}"
+  },
+  {
+   "id": "44:c61c",
+   "op": "text",
+   "follows_choice": [
+    "44:2d28"
+   ],
+   "en": "If this works, it might just work.\n\"{f:My|My} real name, you see, {f:is|is} ·★☆☆·★·.\n{f:Got that|Got it}?\"{p}"
+  },
+  {
+   "id": "44:c6a8",
+   "op": "text",
+   "en": "{f:I|I} said it as naturally as I could.{p}"
+  },
+  {
+   "id": "44:c6fc",
+   "op": "text",
+   "en": "Kazama {f:seemed|seemed} extremely surprised.\nHis open mouth was flapping.\n\"N-no way. To think that one is here... {f:He|She}, the one they called the deadliest assassin in the history of the universe...\"\nSomehow, things {f:seemed|seemed} to be going my way.\nHmm, so {f:I'm|I'm} the deadliest assassin in the universe, {f:huh|huh}.\nI guess it {f:pays|pays} to say something, even if it's total nonsense.{p}"
+  },
+  {
+   "id": "44:c86c",
+   "op": "text",
+   "en": "\"{f:That's right|That's right}, {f:I'm|I'm} an assassin who works for whoever pays, {f:pal|dear}.\nAs long as I get paid, I always kill the target I'm hired for☆\"\nSaying that, {f:I|I} pointed my index finger at Kazama.\n\"Eek! Eeeek☆\"\nKazama was cowering in a corner of the club room, trembling.{p}"
+  },
+  {
+   "id": "44:c96c",
+   "op": "text",
+   "en": "Maybe I went a bit too far.\nBut {f:is|is} this assassin really that famous?\nI'm a little curious.{p}"
+  },
+  {
+   "id": "44:ca14",
+   "op": "text",
+   "en": "{f:I|I} looked down at him as he crouched there trembling, and said,{p}\"{f:Listen, Sunbararian|Listen, Mr. Sunbararian}, {f:take my advice|take my advice}. {f:Get off Earth, now|Please leave Earth quickly}.\n{f:I've|I've} got no grudge against {f:you|you}{f:, but|, but} my client ordered me to dispose of the aliens on this Earth{f:, see|, you see}.\nMy client?\n{f:The people of this Earth, that's who|The people of this Earth}.\nIt {f:looks like|seems} your invasion of Earth has been well and truly exposed.\n{f:What a bunch of idiots|How foolish of you}.\nIf you leave Earth without a word, I won't lay a {f:finger|finger} on you.\"{p}"
+  },
+  {
+   "id": "44:cc20",
+   "op": "text",
+   "en": "Trembling, Kazama tore the school badge off his chest.\n\"L-liar! Whatever you say, you're going to kill me anyway, aren't you, you bastard? I won't die for nothing. Rather than be killed by you... take this☆\"\nThen Kazama bit down on the school badge with his back teeth and crushed it with all his might.{p}"
+  },
+  {
+   "id": "44:cd10",
+   "op": "text",
+   "en": "For an instant, a tremendous flash ripped through the room.\n{f:I|I} couldn't keep my eyes open.\nI threw myself flat on the floor and covered my face with my hands.{p}"
+  },
+  {
+   "id": "44:cda0",
+   "op": "text",
+   "en": "When the light finally died down, {f:I|I} cautiously opened my eyes a crack.\nKazama was nowhere to be seen.\n{f:I|I} couldn't understand what on earth had happened.\n...What {f:was|was} that flash supposed to be?\nKazama had been right here with me a moment ago, and now he was gone, which meant...\n...Don't tell me he blew himself up★{p}"
+  },
+  {
+   "id": "44:cec4",
+   "op": "text",
+   "en": "So, in short, either it was all a dream, or {f:I|I} defeated Kazama the Sunbararian... {f:is that it|is that it}?\n{f:I|I} got up and took another good look around.\nThen {f:I|I} looked down at my feet.{p}"
+  },
+  {
+   "id": "44:cfac",
+   "op": "text",
+   "en": "\"★\"\nThere, {f:I|I} lay collapsed on the floor.\nThen {f:I|I}, standing here now... {f:am|am} I no longer of this world?\nSeeing my present self and my fallen self, {f:I|I} realized it for the first time.\nKazama... no, the Sunbararian had taken {f:me|me} down with him.\n{f:Me|Me}, the deadliest assassin in the universe...{p}"
+  },
+  {
+   "id": "44:d0e4",
+   "op": "text",
+   "follows_choice": [
+    "44:2d3c"
+   ],
+   "en": "For now, maybe I'll try dancing.\nIt might open up a new turn of events.\nRather than dither like this, it might be better to take some kind of action.\nWhat dances can {f:I|I} do...?\n{f:Oh, right|Oh, right}, there's that dance my mom recently started learning and practices a lot at home!\nYes, {f:flamenco|flamenco}.\n{f:I|I} put the artificial rose decorating the club room between my teeth.\nThen I wrapped the tablecloth around my waist.\nCan {f:I|I} really {f:pull it off|pull it off}?{p}"
+  },
+  {
+   "id": "44:d2ac",
+   "op": "text",
+   "en": "\"Olé☆\"\nWith a shout, {f:I|I} stamped out the steps.\nI had no castanets, so I clapped instead.\nMy steps were lighter than I'd expected.\nI can actually dance pretty well, {f:huh|huh}.\nMaybe {f:I|I} could become a flamenco dancer.\nHaving touched an unknown side of {f:myself|myself}, I felt a little happy.{p}"
+  },
+  {
+   "id": "44:d3f4",
+   "op": "text",
+   "en": "{f:I|I} glanced sideways at Kazama.\nKazama was watching {f:me|me} with a sour face.\n...{f:Is|Is} this going okay?\n{f:Did|Did} he not like {f:my|my} flamenco?\nStill, this dance might be pretty {f:addictive|addictive}.\nI'd been dancing like this for about five minutes now, but I hardly felt tired.\nSuddenly, Kazama clapped his hands loudly.{p}"
+  },
+  {
+   "id": "44:d56c",
+   "op": "text",
+   "en": "\"Mm, magnificent☆\nI had no idea you could dance such a magnificent dance.\nDancing like that, you're not from Sunbararia, are you?\nCould it be that you're an Earthling?{p}"
+  },
+  {
+   "id": "44:d608",
+   "op": "text",
+   "en": "But that's fine. To think there was such an amazing dancer on Earth.\nThe scales have fallen from my eyes.\"\nWith that, Kazama took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:d6b8",
+   "op": "text",
+   "en": "For an instant, the patch flashed.{p}"
+  },
+  {
+   "id": "44:d6e4",
+   "op": "text",
+   "en": "\"Whoa☆ Hey, wait☆\"\nBefore I knew it, {f:I|I} was inside a glass pod.\n{f:Maybe|Maybe} it was made of some special material...\nNo matter how hard {f:I|I} pounded and kicked it, it wouldn't break.{p}"
+  },
+  {
+   "id": "44:d7a4",
+   "op": "text",
+   "en": "Kazama laughed and said,\n\"On Sunbararia, there's a troupe of dancers famous throughout the universe.\nCollectively, they're called the Sunbararia Dancers.\nWith Sunbararia as their base, they tour all sorts of planets.\nI'd like you to perform as one of them.\nThere are people from all sorts of planets in it.\nThere are no Earthlings yet, though.\nThis planet's going to be invaded by the Sunbararians anyway.\nI think you'd be better off becoming a dancer and making a name for yourself.\"\n{f:Hold on|Wait a minute}.\nWhen did {f:I|I} ever say {f:OK|OK} to that?\n{f:Quit deciding|Don't go deciding} things on your own☆{p}"
+  },
+  {
+   "id": "44:d9bc",
+   "op": "text",
+   "en": "Kazama spoke into the patch.\n\"This is the Earth expeditionary unit.\nI'm about to transport a talented Earth dancer to Sunbararia.\nTake care of the paperwork for the Sunbararia Dancers.\nThis one's a great dancer, so don't be too shocked.\"{p}"
+  },
+  {
+   "id": "44:daa0",
+   "op": "text",
+   "en": "{f:This is|This is} hopeless now.\nThere's no way for {f:me|me} to be saved.\nMaybe I should just give in and make a name for myself as a dancer on Sunbararia.{p}"
+  },
+  {
+   "id": "44:db48",
+   "op": "text",
+   "en": "Then Kazama smiled and raised his right hand.\n\"Transport☆\"{p}"
+  },
+  {
+   "id": "44:db88",
+   "op": "text",
+   "en": "Wrapped in white light, {f:I|I} set off for Sunbararia...\n{f:That's right|That's right}, from now on {f:I'm|I'm} going to become a big-time dancer and {f:be|be} the star of the universe.{p}"
+  },
+  {
+   "id": "44:dc34",
+   "op": "text",
+   "follows_choice": [
+    "44:2d54"
+   ],
+   "en": "For now, I {f:have to|have to} dodge the subject somehow.\nNow, how {f:should|should} I dodge it?\n\"Mmm... mmmmmmmnnh.\"\n{f:I|I} groaned out loud without meaning to.{p}"
+  },
+  {
+   "id": "44:dd10",
+   "op": "text",
+   "en": "\"What's the matter, {a}? Are you all right?\"\nKazama peered at {f:me|me} with concern.\n{f:That's it|That's it}, I'll pretend to be {f:sick|sick}!\n\"My stomach hurts a little.\n{f:I'm|I'm} going to head home now and {f:sleep|sleep it off}.\nPlease don't worry about me.\"\n{f:I|I} grabbed the bag beside me.{p}"
+  },
+  {
+   "id": "44:de38",
+   "op": "text",
+   "en": "\"No, you mustn't. If you move now... Stay still.\"\nSaying that, he grabbed {f:my|my} arm tight.\nThen he put his hand on {f:my|my} stomach and started groping around.\n{f:I|I} shouted,\n\"Kazama, stop it! That tickles☆\"{p}"
+  },
+  {
+   "id": "44:df34",
+   "op": "text",
+   "en": "To my astonishment, Kazama had shoved his hand right inside {f:my|my} stomach.\nHe was churning my guts around with a wet squelching.\nStrangely, I felt no pain.\nBut it wasn't exactly a pleasant feeling.\n\"K-Kazama, this isn't psychic surgery, you know. Please don't do such gross things. I'm begging you.\"{p}"
+  },
+  {
+   "id": "44:e04c",
+   "op": "text",
+   "en": "{f:I|I} pleaded with him, half in tears.\nPeople talk about 'having your belly probed for no reason'... maybe this is what it really means.\nOnly an alien could do something like this. Kazama really {f:was|was} an alien after all.{p}"
+  },
+  {
+   "id": "44:e114",
+   "op": "text",
+   "en": "\"There, you're all right now. You might get a few side effects from the treatment later, though. And while I was feeling around in your stomach, I found out you're an Earthling. Sorry, sorry. I'm always jumping to conclusions. I mess up all the time. Sorry for deciding on my own that you were a Sunbararian.\"\nHe was strangely kind.{p}"
+  },
+  {
+   "id": "44:e224",
+   "op": "text",
+   "en": "\"The reason we planned to invade Earth was that we thought you Earthlings would make good food. But while I was feeling around in your stomach, I found out. If we Sunbararians eat you Earthlings, we get poisoned. The checker implanted in my right index finger showed a toxic reaction.\"\nThat's what Kazama told {f:me|me}.{p}"
+  },
+  {
+   "id": "44:e34c",
+   "op": "text",
+   "en": "Huh, food?\nTo think they'd been thinking of {f:us|us} as food...\nRuling over us would be one thing, but food...\nStill, whatever the reason, {f:we|we} Earthlings {f:were|were} saved☆\n\"You people were really lucky. I have to set off again in search of creatures to eat.\"\nKazama... no, the Sunbararian took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:e4c0",
+   "op": "text",
+   "en": "For an instant, the sky flashed.\nThe glare made me shut my eyes.\nIt was already dark outside, so everything lit up as bright as day.{p}"
+  },
+  {
+   "id": "44:e538",
+   "op": "text",
+   "en": "The light soon faded, and the darkness returned.\n{f:I|I} slowly opened my eyes.{p}"
+  },
+  {
+   "id": "44:e5b8",
+   "op": "text",
+   "en": "And the Sunbararian was no longer there.\nThen {f:I|I} noticed a change in my body.{p}"
+  },
+  {
+   "id": "44:e620",
+   "op": "text",
+   "en": "Something like a tentacle had slithered out of my mouth.\nThe tentacle squirmed, as if licking {f:my|my} lips.\nMaybe this was the side effect from the treatment the Sunbararian had mentioned.\n{f:Oh well|Oh well}.\nEither way, Earth had been saved from disaster.{p}"
+  },
+  {
+   "id": "44:e724",
+   "op": "text",
+   "follows_choice": [
+    "44:3030"
+   ],
+   "en": "{f:I|I} decided to put on a little act.{p}\"Mm-hm, mm-hm. {f:That's right|That's right}. Exactly.\nYou {f:figured it out|figured it out}, didn't you?\nSeeing through {f:my|my} true identity... {f:you're|you're} pretty {f:good|good}.\nIf you like, {f:will|would} {f:you|you} help {f:me|me}?\nSo, that special order is... {f:the|the} withdrawal of all Sunbararians from Earth.\nYou see, it's been discovered that this planet is turning into an environment {f:we|we} can't {f:live|live} in.\nThe main cause {f:is|is} the destruction of the ozone layer.\"\nKazama nodded and said,{p}"
+  },
+  {
+   "id": "44:e948",
+   "op": "text",
+   "en": "\"Right, right. We Sunbararians have sooo delicate skin.\nWhen the UV rays increase, our skin cells get destroyed in no time.\nI see, I had no idea Earth was in such a dangerous state.\nUnderstood. Let's arrange the withdrawal of all Sunbararians on Earth right away.\"\nKazama... no, the Sunbararian took out something like a patch and raised one hand.{p}"
+  },
+  {
+   "id": "44:ea9c",
+   "op": "text",
+   "en": "For an instant, the sky flashed.\n{f:I|I} shut my eyes against the glare.\nIt was already dark outside, so everything {f:must have|must have} lit up as bright as day.{p}"
+  },
+  {
+   "id": "44:eb38",
+   "op": "text",
+   "en": "The light soon faded, and the dusk returned.\n{f:I|I} slowly opened my eyes.{p}"
+  },
+  {
+   "id": "44:ebb8",
+   "op": "text",
+   "en": "The Sunbararian was no longer there.\nBy now, the former Kazama was probably rushing all over the place to evacuate his fellow Sunbararians.\nFor now, the smart move {f:is|is} to run.{p}"
+  },
+  {
+   "id": "44:ec80",
+   "op": "text",
+   "en": "{f:I|I} grabbed my bag and raced like the wind down the dark hallway.\n{f:Yes|Yes}, that {f:was|was} just a bad dream.\nThat's what I told myself...{p}"
+  },
+  {
+   "id": "44:ed34",
+   "op": "text",
+   "follows_choice": [
+    "44:3810"
+   ],
+   "en": "No, {f:hold on|wait a sec}.\nWhat if my escape fails...?\nI don't want to make a careless move here and end up in trouble.\nI'd better watch a little longer.{p}"
+  },
+  {
+   "id": "44:edc8",
+   "op": "text",
+   "en": "Kazama looked up at the sky again.\nThen he held the patch up to the sky and struck a pose like something out of tai chi.\n...Kazama was completely broken.\nEven {f:I|I} couldn't fix him.\nWith his eyes still closed, Kazama murmured,{p}"
+  },
+  {
+   "id": "44:eeb0",
+   "op": "text",
+   "en": "\"I can feel the power of the cosmos. You try it too. Take it in with your whole body. My telepathy got through. Look, our ride will be here any minute now.\"{p}"
+  }
+ ]
+}

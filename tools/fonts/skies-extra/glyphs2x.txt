@@ -1,0 +1,39 @@
+# Extra 2x-density glyphs for the Riot Stars / Skies text font (tools/skiesfont.py).
+# Our own drawings, so they can live in the repo (the Skies glyphs themselves cannot).
+#
+# Texel rows of the 24-row cell: 2 cap top, 7 x-height, 20 baseline. 2 texels = 1 px.
+# Levels as in Skies: '#' 255 and '+' 187 are solid ink, ':' 85 is the faint level
+# (drawn 50 % see-through), '.' blank.
+#
+# "@ <name> <top row>" then rows. Accents and dots are pieces that tools/skiesfont.py
+# puts on Skies' own e / i / u; whole glyphs are used as they are.
+
+@ acute 2
+......:##
+.....+#+:
+....+#+..
+...:#+...
+
+@ grave 2
+##:......
+:+#+.....
+..+#+....
+...:#+...
+
+@ diaeresis_i 3
+##....##
+##....##
+
+@ diaeresis_u 3
+##....##
+##....##
+
+@ middot 12
+++
+##
+##
+++
+
+@ endash 12
++##########+
++##########+

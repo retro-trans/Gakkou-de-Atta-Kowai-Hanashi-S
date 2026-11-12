@@ -1,0 +1,360 @@
+{
+ "slice": "S078",
+ "scene": "20",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S077",
+ "next": "S079",
+ "todo": [],
+ "rows": [
+  {
+   "id": "20:0c9c",
+   "op": "text",
+   "en": "Hey there, my name is Nozomu Kazama.\nI'm a third-year at this school, and a real nice guy.\n...Still, the seventh one never showed up after all, huh?\nThat means you can't put together your feature on the school's seven wonders.\nWell, it can't be helped.\nJust call it fate and settle for six wonders.\nTo finish things off, I'll tell you a story I've been saving.{p}"
+  },
+  {
+   "id": "20:0dc8",
+   "op": "text",
+   "en": "...Listen up, and prepare to be amazed.\nThe truth is, I can see guardian spirits.\nYou know what a guardian spirit is, right?\n"
+  },
+  {
+   "id": "20:0e28",
+   "op": "choice",
+   "en": "I know"
+  },
+  {
+   "id": "20:0e34",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "20:0e4c",
+   "op": "text",
+   "follows_choice": [
+    "20:0e34"
+   ],
+   "en": "You don't know?\nYou don't even know about guardian spirits?\nWell, this is a surprise.\nI didn't think there were still high schoolers like you around these days.\n...Well, it can't be helped.\nThere's no shame in not knowing.\nThough if it were me, I'd die of embarrassment.{p}"
+  },
+  {
+   "id": "20:0f28",
+   "op": "text",
+   "en": "Well, I'm one of the chosen, and you're just an ordinary person.\nYou don't have to die just because you didn't know.\nA guardian spirit, you see, is a spirit that protects you.\nThe more powerful the guardian spirit watching over you, the more blessed your life will be.{p}"
+  },
+  {
+   "id": "20:1010",
+   "op": "text",
+   "en": "But if the guardian spirit you've got is no good...\nyour life turns out the worst it possibly could.\nFrom a quick look, it seems like someone really amazing is watching over you as your guardian spirit, but...\nWell, before I look at your guardian spirit, I'll read your past life for you.{p}So, do you want me to read your past life?\n"
+  },
+  {
+   "id": "20:1114",
+   "op": "choice",
+   "en": "I want a reading"
+  },
+  {
+   "id": "20:1124",
+   "op": "choice",
+   "en": "I don't want a reading"
+  },
+  {
+   "id": "20:1138",
+   "op": "text",
+   "follows_choice": [
+    "20:1114"
+   ],
+   "en": "Good, good, so you want a reading.\nThen kindly choose your past-life reading course.{p}You get to choose from the following three courses.\n"
+  },
+  {
+   "id": "20:11c0",
+   "op": "choice",
+   "en": "The Special Course"
+  },
+  {
+   "id": "20:11d4",
+   "op": "choice",
+   "en": "The Ordinary Folk Course"
+  },
+  {
+   "id": "20:11e4",
+   "op": "choice",
+   "en": "The Warty Toad Course"
+  },
+  {
+   "id": "20:1200",
+   "op": "text",
+   "follows_choice": [
+    "20:11c0"
+   ],
+   "en": "Oh!\nMy dear customer, splendid.\nPicking the Special Course... you really do have a discerning eye.\nThe fee for the Special Course is 10,000 yen.\n10,000 yen is a bargain.\nIt'll show me exactly what you were before you were born into this world.{p}Now then, I'll have you pay that 10,000 yen.\n"
+  },
+  {
+   "id": "20:1304",
+   "op": "choice",
+   "en": "Pay the 10,000 yen"
+  },
+  {
+   "id": "20:1310",
+   "op": "choice",
+   "en": "Refuse to pay a whole 10,000 yen"
+  },
+  {
+   "id": "20:1324",
+   "op": "choice",
+   "en": "Say you don't have the money right now"
+  },
+  {
+   "id": "20:133c",
+   "op": "text",
+   "follows_choice": [
+    "20:1304"
+   ],
+   "en": "...You are a wonderful person.\nRight now my whole body is trembling with tremendous emotion.\nI'll follow you for the rest of my life.\nI'll never, ever let you go.\nHeh heh heh...\nAll right then, let me do your reading.{p}"
+  },
+  {
+   "id": "20:1418",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaaaah!\n...I see it.\n...I see a color.{p}Now, tell me your favorite color.\n"
+  },
+  {
+   "id": "20:14ac",
+   "op": "choice",
+   "en": "Red"
+  },
+  {
+   "id": "20:14b0",
+   "op": "choice",
+   "en": "Blue"
+  },
+  {
+   "id": "20:14b4",
+   "op": "choice",
+   "en": "Green"
+  },
+  {
+   "id": "20:14b8",
+   "op": "choice",
+   "en": "Yellow"
+  },
+  {
+   "id": "20:14c0",
+   "op": "choice",
+   "en": "White"
+  },
+  {
+   "id": "20:14c4",
+   "op": "choice",
+   "en": "Black"
+  },
+  {
+   "id": "20:14c8",
+   "op": "choice",
+   "en": "Something else"
+  },
+  {
+   "id": "20:14d8",
+   "op": "text",
+   "follows_choice": [
+    "20:14ac"
+   ],
+   "en": "Red!\nRed is the color of passion.\nAmazing.\nI feel like I'm starting to catch just a tiny glimpse of your past life.{p}"
+  },
+  {
+   "id": "20:153c",
+   "op": "text",
+   "en": "...Hmmmmm, hmmmmmmm.{p}"
+  },
+  {
+   "id": "20:1574",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaaaah!\n...I see it.\n...I see a food.{p}Now, tell me your favorite food.\n"
+  },
+  {
+   "id": "20:1610",
+   "op": "choice",
+   "en": "Hamburg steak"
+  },
+  {
+   "id": "20:161c",
+   "op": "choice",
+   "en": "Curry rice"
+  },
+  {
+   "id": "20:162c",
+   "op": "choice",
+   "en": "Ramen"
+  },
+  {
+   "id": "20:1638",
+   "op": "choice",
+   "en": "Katsudon"
+  },
+  {
+   "id": "20:1640",
+   "op": "choice",
+   "en": "Sushi"
+  },
+  {
+   "id": "20:1648",
+   "op": "choice",
+   "en": "Oden"
+  },
+  {
+   "id": "20:1650",
+   "op": "choice",
+   "en": "Something else"
+  },
+  {
+   "id": "20:1660",
+   "op": "text",
+   "follows_choice": [
+    "20:1640"
+   ],
+   "en": "Sushi!\nSushi, how extravagant.\nSushi is a special food only the chosen, like me, get to eat.\nIt's not something commoners can ever have, you know.\n...How extravagant.\nEven I hardly ever get to eat it.\nWell, it can't be helped.\nAfter all, I did take your 10,000 yen.\nIt's coming, it's coming.\nLittle by little, I'm starting to see you.\n...But it's not there yet.\n...Hmmmmm, hmmmmmmm.{p}"
+  },
+  {
+   "id": "20:17ec",
+   "op": "text",
+   "en": "Hannyara makka, honnyara makka, fundaba dadda, haaaaaaaah!\n...I see it.\n...I see a hobby.{p}Now, tell me your favorite hobby.\n"
+  },
+  {
+   "id": "20:1884",
+   "op": "choice",
+   "en": "Watching movies"
+  },
+  {
+   "id": "20:1890",
+   "op": "choice",
+   "en": "Sports"
+  },
+  {
+   "id": "20:189c",
+   "op": "choice",
+   "en": "Traveling"
+  },
+  {
+   "id": "20:18a4",
+   "op": "choice",
+   "en": "Reading"
+  },
+  {
+   "id": "20:18ac",
+   "op": "choice",
+   "en": "Listening to music"
+  },
+  {
+   "id": "20:18b8",
+   "op": "choice",
+   "en": "Stamp collecting"
+  },
+  {
+   "id": "20:18c4",
+   "op": "choice",
+   "en": "Something else"
+  },
+  {
+   "id": "20:18cc",
+   "op": "text",
+   "follows_choice": [
+    "20:18b8"
+   ],
+   "en": "Stamp collecting?\nYour hobby is collecting stamps?{p}"
+  },
+  {
+   "id": "20:190c",
+   "op": "text",
+   "en": "Ah ha ha ha ha...\nThat's gloomy.\nThat's one seriously gloomy hobby.\nNo, pardon me, pardon me.\nPeople can have whatever hobbies they like.\nIt was rude of me to laugh.\nAh ha ha.\nSomeone chosen like me shouldn't laugh at a thing like that.\nBy the way, I hear the 'Beauty Looking Back' stamp dropped in price?\n...Ah, no, I was just a little curious.\nIt's not like I collect stamps or anything.\nIf you've got the National Park stamp series, let's have a little talk later.{p}"
+  },
+  {
+   "id": "20:1abc",
+   "op": "text",
+   "en": "Well then, your past life is finally starting to come into clear view, so let's give it one more push.\nNow, just for you, since you chose the Special Course, I'll teach you a wonderful charm.{p}"
+  },
+  {
+   "id": "20:1b74",
+   "op": "text",
+   "en": "Say this charm, and you'll get a more accurate picture of your past life.\nAnd that's not all.\nYou'll get smarter, and your love life will start working out too.\nYou should chant it at least three times a day.\nReady?\nSay it in unison now.\n\"Kazama is magnificent.\"{p}Go on, say it.\n"
+  },
+  {
+   "id": "20:1c70",
+   "op": "choice",
+   "en": "Kazama is magnificent"
+  },
+  {
+   "id": "20:1c88",
+   "op": "choice",
+   "en": "I can't say something like that"
+  },
+  {
+   "id": "20:1c9c",
+   "op": "choice",
+   "en": "Ask what it's supposed to mean"
+  },
+  {
+   "id": "20:1cc4",
+   "op": "text",
+   "follows_choice": [
+    "20:1c70"
+   ],
+   "en": "Good, good.\nYou're an admirable sort.\nKeep it up and chant it every day.\nNow, on to the next one.\nSay this right after.\n\"I respect Kazama.\"{p}"
+  },
+  {
+   "id": "20:1d4c",
+   "op": "text",
+   "en": "Ready... go!\n"
+  },
+  {
+   "id": "20:1d5c",
+   "op": "choice",
+   "en": "I respect Kazama"
+  },
+  {
+   "id": "20:1d78",
+   "op": "choice",
+   "en": "I'd never say that, not even if you tore my mouth open"
+  },
+  {
+   "id": "20:1d9c",
+   "op": "choice",
+   "en": "You've had enough and get angry"
+  },
+  {
+   "id": "20:1dc0",
+   "op": "text",
+   "follows_choice": [
+    "20:1d5c"
+   ],
+   "en": "Ah ha ha.\nYou really are something.\nI'm sure you'll make it big, no doubt about it.\nOh yes, it's gradually coming into view.\nThere's no doubt now.\nAll right!\nNow I can see your past life clearly.\nJust now, the image of your past life took solid shape inside my head.{p}"
+  },
+  {
+   "id": "20:1ec0",
+   "op": "text",
+   "en": "...Hmmmmm.\nBut this is a problem.\nI mean, I don't know what to say.\nShould I offer my condolences?\n...It's really hard for me to say it.{p}...Do you still want to hear it?\n"
+  },
+  {
+   "id": "20:1f64",
+   "op": "choice",
+   "en": "I want to hear it"
+  },
+  {
+   "id": "20:1f70",
+   "op": "choice",
+   "en": "I'd rather not hear it"
+  },
+  {
+   "id": "20:1f84",
+   "op": "text",
+   "follows_choice": [
+    "20:1f64"
+   ],
+   "en": "...Oh well.\nNo matter what I tell you, don't get mad, okay?\nIt's not like I'm making things up, you know.\nAll right, here goes.\nYour past life was........................{p}"
+  },
+  {
+   "id": "20:2030",
+   "op": "text",
+   "en": "No, it's still hard to say.\nFor now, I'll give you a few candidates, so would you pick one of them?\nIf you pick the right one, well, I'm a man, after all.\nI'll give you an honest answer.{p}Now, pick one of these.\n"
+  },
+  {
+   "id": "20:20f8",
+   "op": "choice",
+   "en": "A sea slug"
+  }
+ ]
+}

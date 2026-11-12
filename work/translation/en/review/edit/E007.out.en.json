@@ -1,0 +1,18 @@
+{
+ "rows": {
+  "06:17b8": "I see.\nGood, then.\nAlright, I'll ask you the questions.\nAnswer them seriously.\n",
+  "06:19e8": "...You sure about that?\nIf you lied, I'll give you one chance. Just one.{p}Is what you just said the truth?\n",
+  "06:21d0": "I see.\nSo you went and did it, even knowing it was wrong.\nWhen was that?\nWhat kind of situation lets you do a thing like that?\nHey, that makes you a wicked person.\nI mean, it's true, isn't it?\nYou know it's wrong and you do it anyway, right?\n...Then maybe there's no helping it if you get cursed.\nThe questions aren't over yet.{p}",
+  "06:2c74": "So you're the type who can't take a mountain of print, huh?\nSame here.\nStill, our library's got a reputation for being something else.{p}",
+  "06:3330": "Apparently this book was in the room where the diva was killed.\nIt was a souvenir from some foreign country, a gift from one of her fans.\nBack then, it was supposed to be a kind of good-luck charm that granted wishes, but...\nNow it's a cursed book through and through.\nIt puts people to sleep, dropping them like flies.{p}"
+ },
+ "notes": [
+  "06:17b8: EDIT - returns note settled: stiff 'Is that right. / Then that's fine.' -> 'I see. / Good, then.' (spoken, Shindo's casual voice)",
+  "06:19e8: EDIT - textbook '...Is that really so?' -> '...You sure about that?' for blunt Shindo; follow-up question unchanged",
+  "06:21d0: EDIT - archaic 'Why, you're a wicked person.' -> 'Hey, that makes you a wicked person.' (same force, spoken)",
+  "06:2c74: EDIT - unclear 'not one for piles of print' -> 'the type who can't take a mountain of print' (keeps the source's mountain-of-print image)",
+  "06:3330: EDIT - returns note settled: 'knocks people out cold' -> 'puts people to sleep, dropping them like flies' to keep the sleep motif paid off in 06:3434/06:3ac4; keeps the dropping imagery",
+  "06:3ac4: KEEP - returns note (duplicate of 06:3330) resolved by the 06:3330 edit; 'eternal sleep' line already fine",
+  "06:3700: KEEP - 'get knocked out too' left as casual Shindo speech; reads fine next to the sleep motif"
+ ]
+}

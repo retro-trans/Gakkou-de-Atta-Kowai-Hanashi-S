@@ -1,0 +1,319 @@
+{
+ "slice": "S238",
+ "scene": "70",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S237",
+ "next": "S239",
+ "rows": [
+  {
+   "id": "70:06f0",
+   "op": "text"
+  },
+  {
+   "id": "70:08b4",
+   "op": "text"
+  },
+  {
+   "id": "70:0a14",
+   "op": "text"
+  },
+  {
+   "id": "70:0a5c",
+   "op": "text"
+  },
+  {
+   "id": "70:0a94",
+   "op": "text"
+  },
+  {
+   "id": "70:0b00",
+   "op": "text"
+  },
+  {
+   "id": "70:0bd0",
+   "op": "choice"
+  },
+  {
+   "id": "70:0be4",
+   "op": "choice"
+  },
+  {
+   "id": "70:0c00",
+   "op": "text",
+   "follows_choice": [
+    "70:0be4"
+   ]
+  },
+  {
+   "id": "70:0d00",
+   "op": "text"
+  },
+  {
+   "id": "70:0ed8",
+   "op": "text"
+  },
+  {
+   "id": "70:0fd4",
+   "op": "text"
+  },
+  {
+   "id": "70:1064",
+   "op": "text"
+  },
+  {
+   "id": "70:10b0",
+   "op": "text"
+  },
+  {
+   "id": "70:114c",
+   "op": "text"
+  },
+  {
+   "id": "70:12d4",
+   "op": "text"
+  },
+  {
+   "id": "70:13a4",
+   "op": "choice"
+  },
+  {
+   "id": "70:13c8",
+   "op": "choice"
+  },
+  {
+   "id": "70:13f0",
+   "op": "text",
+   "follows_choice": [
+    "70:13a4"
+   ]
+  },
+  {
+   "id": "70:1444",
+   "op": "text"
+  },
+  {
+   "id": "70:14a0",
+   "op": "text"
+  },
+  {
+   "id": "70:14f8",
+   "op": "text"
+  },
+  {
+   "id": "70:1588",
+   "op": "text"
+  },
+  {
+   "id": "70:15d4",
+   "op": "text"
+  },
+  {
+   "id": "70:1644",
+   "op": "text"
+  },
+  {
+   "id": "70:1684",
+   "op": "text"
+  },
+  {
+   "id": "70:16cc",
+   "op": "text"
+  },
+  {
+   "id": "70:1758",
+   "op": "text"
+  },
+  {
+   "id": "70:18a8",
+   "op": "text"
+  },
+  {
+   "id": "70:1990",
+   "op": "text"
+  },
+  {
+   "id": "70:1a14",
+   "op": "text"
+  },
+  {
+   "id": "70:1a98",
+   "op": "text"
+  },
+  {
+   "id": "70:1b80",
+   "op": "text"
+  },
+  {
+   "id": "70:1bf8",
+   "op": "choice"
+  },
+  {
+   "id": "70:1c0c",
+   "op": "choice"
+  },
+  {
+   "id": "70:1c1c",
+   "op": "choice"
+  },
+  {
+   "id": "70:1c4c",
+   "op": "text",
+   "follows_choice": [
+    "70:1c0c"
+   ]
+  },
+  {
+   "id": "70:1cd4",
+   "op": "text"
+  },
+  {
+   "id": "70:1d44",
+   "op": "text"
+  },
+  {
+   "id": "70:1d80",
+   "op": "text"
+  },
+  {
+   "id": "70:1de4",
+   "op": "text"
+  },
+  {
+   "id": "70:1e54",
+   "op": "text"
+  },
+  {
+   "id": "70:1ef8",
+   "op": "text"
+  },
+  {
+   "id": "70:1f48",
+   "op": "text"
+  },
+  {
+   "id": "70:2034",
+   "op": "text"
+  },
+  {
+   "id": "70:2084",
+   "op": "choice"
+  },
+  {
+   "id": "70:2098",
+   "op": "choice"
+  },
+  {
+   "id": "70:20ac",
+   "op": "text",
+   "follows_choice": [
+    "70:2084"
+   ]
+  },
+  {
+   "id": "70:20e4",
+   "op": "text"
+  },
+  {
+   "id": "70:21ec",
+   "op": "text"
+  },
+  {
+   "id": "70:22b0",
+   "op": "text"
+  },
+  {
+   "id": "70:231c",
+   "op": "text"
+  },
+  {
+   "id": "70:239c",
+   "op": "text"
+  },
+  {
+   "id": "70:24ac",
+   "op": "text"
+  },
+  {
+   "id": "70:262c",
+   "op": "text"
+  },
+  {
+   "id": "70:2724",
+   "op": "text"
+  },
+  {
+   "id": "70:2860",
+   "op": "text"
+  },
+  {
+   "id": "70:28c8",
+   "op": "text"
+  },
+  {
+   "id": "70:2914",
+   "op": "text"
+  },
+  {
+   "id": "70:2968",
+   "op": "text"
+  },
+  {
+   "id": "70:29c0",
+   "op": "choice"
+  },
+  {
+   "id": "70:29d0",
+   "op": "choice"
+  },
+  {
+   "id": "70:29dc",
+   "op": "text",
+   "follows_choice": [
+    "70:29c0"
+   ]
+  },
+  {
+   "id": "70:2a14",
+   "op": "text"
+  },
+  {
+   "id": "70:2a64",
+   "op": "text"
+  },
+  {
+   "id": "70:2b5c",
+   "op": "text"
+  },
+  {
+   "id": "70:2be0",
+   "op": "text"
+  },
+  {
+   "id": "70:2c94",
+   "op": "choice"
+  },
+  {
+   "id": "70:2ca8",
+   "op": "choice"
+  },
+  {
+   "id": "70:2cbc",
+   "op": "text",
+   "follows_choice": [
+    "70:2ca8"
+   ]
+  },
+  {
+   "id": "70:2d0c",
+   "op": "text"
+  },
+  {
+   "id": "70:2e10",
+   "op": "text"
+  },
+  {
+   "id": "70:2f08",
+   "op": "text"
+  }
+ ]
+}

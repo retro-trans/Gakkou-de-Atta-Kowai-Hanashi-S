@@ -1,0 +1,298 @@
+{
+ "slice": "S231",
+ "scene": "65",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S230",
+ "next": "S232",
+ "todo": [
+  "- S231 65:3a4c: Reiko says \"let's go home\" after the \"No, we can't\" choice 061c; kept as in the source."
+ ],
+ "rows": [
+  {
+   "id": "65:263c",
+   "op": "choice",
+   "en": "He's a pretty nasty person"
+  },
+  {
+   "id": "65:2648",
+   "op": "choice",
+   "en": "He's kind of scary"
+  },
+  {
+   "id": "65:2654",
+   "op": "text",
+   "follows_choice": [
+    "65:263c"
+   ],
+   "en": "Yeah, he is.{p}"
+  },
+  {
+   "id": "65:2664",
+   "op": "text",
+   "en": "The warp in his heart was way worse than any ordinary student's.\nA backlash, I guess you'd call it.\nApparently it's strongest in exactly the people who keep themselves held down.\nKawahara's heart was full of hatred for the guy.\nIf there really was a question sheet stuck in that textbook, why not sneak it into this guy's desk?\nAnd then go rat him out to the teacher...{p}"
+  },
+  {
+   "id": "65:27a4",
+   "op": "text",
+   "en": "\"What's the matter?\nYou look pale.\"\nThat snapped Kawahara back to himself.\n\"No... it's nothing.\"\nHe left that classroom.{p}"
+  },
+  {
+   "id": "65:2850",
+   "op": "text",
+   "en": "During the next class, Kawahara thought it over.\nThat's it, he'd just tell the teacher the truth.\nHe was normally a good student, so surely they'd believe him.\n...No, wait.\nWhat if they thought his grades were good because he was always cheating somehow...\nWhat if they thought he'd only come to return the question sheet because this time it happened to cause a fuss...\nHe kept thinking up all these needless things.{p}And this is the conclusion he came to.\n"
+  },
+  {
+   "id": "65:29ac",
+   "op": "choice",
+   "en": "Tell the truth after all"
+  },
+  {
+   "id": "65:29c0",
+   "op": "choice",
+   "en": "Throw out what's in the textbook"
+  },
+  {
+   "id": "65:29d8",
+   "op": "text",
+   "follows_choice": [
+    "65:29c0"
+   ],
+   "en": "...He could just secretly throw away whatever was stuck in the textbook.\nWhatever it was, if Koizumi put it there, it couldn't be anything good.\nThat's what he thought.{p}"
+  },
+  {
+   "id": "65:2a88",
+   "op": "text",
+   "en": "At the next break, Kawahara went up to the roof.\nAfter making sure nobody was around, he went to open the textbook he'd hidden under his uniform.\nIt was really windy that day.\nSo whatever was inside the textbook wouldn't blow away, he moved over into a corner, out of the wind.\nHe was just nervously trying to peek inside, when...\nThe door to the roof slowly opened, and he saw someone's shadow.\nThat silhouette wasn't a student's.\nFrom the necktie flapping in the wind, he knew right away it was a teacher.\nThe teacher was far off, but seemed to be watching Kawahara closely.\nYou see, someone had told on him for acting strange.\nSo the teacher had followed him up there.\nThe teacher came closer, one step at a time.\nThat mouth clearly looked like it wanted to say something.\nAnd the teacher's eyes were fixed on the textbook in Kawahara's hands.\nWith every step closer, the shadow grew bigger.\n"
+  },
+  {
+   "id": "65:2d8c",
+   "op": "text",
+   "en": "Kawahara felt like the shadow was going to swallow him, and before he knew it, he shoved the teacher away and ran.{p}"
+  },
+  {
+   "id": "65:2df4",
+   "op": "text",
+   "en": "\"Hold it☆\"\nAfter something like that, a teacher couldn't just let it slide, right?\nKawahara got chased.\nAnd while he was running, he tripped near the stairs.\nThe textbook fell out of his hands.\nIt tumbled all the way down to the bottom of the stairs.\nWhatever was inside must have fallen out down there.\nIf what was in the textbook was a question sheet, they'd never believe him, no matter what he said.\nKawahara stood at the top of the stairs, feeling hopeless.{p}"
+  },
+  {
+   "id": "65:2f9c",
+   "op": "text",
+   "en": "The teacher came closer, one step at a time.\nKawahara backed away.\nForgetting that he was standing at the top of the stairs.{p}"
+  },
+  {
+   "id": "65:301c",
+   "op": "text",
+   "en": "He swayed, and his body lost its balance.\nHe fell headfirst down the stairs.{p}"
+  },
+  {
+   "id": "65:3084",
+   "op": "text",
+   "en": "...Naturally, his neck broke.\nHe died.\n...They say next to Kawahara's body were the textbook and a letter that had been tucked inside it.\nWhat was in his textbook wasn't a question sheet at all.\nWhen the teacher picked it up and looked, it was a love letter.\nIt seems the guy who borrowed Kawahara's textbook didn't go return it himself.{p}"
+  },
+  {
+   "id": "65:31c8",
+   "op": "text",
+   "en": "I bet it was Hashimoto, who wrote this apology letter saying, 'It's my fault Kawahara died'... I bet she offered to return it for him, and tucked the love letter inside.\nThe reason Koizumi was messing with Kawahara's textbook was to look at that love letter.\nI don't know why he did it.\nMaybe he saw Hashimoto slip the letter in and got curious, or maybe there was some other reason.\nI think Kawahara's death was his own fault.\nThat's what he gets for thinking all those needless things.{p}"
+  },
+  {
+   "id": "65:33a8",
+   "op": "text",
+   "en": "Still, it was awful for Hashimoto too, the one who wrote the love letter.\nShe probably never imagined her letter would lead to something like this.\nEveryone around her made a big fuss, and I hear she had a really hard time.\nKawahara had other fans too, see, so she got harassed and stuff.\nThe rumor is that Hashimoto killed herself after writing this apology letter.\nAnd so, the textbook and the love letter in question were given a proper memorial service and burned.\nBut I guess some kind of lingering obsession latched onto them.\nApparently, even now, a phantom of that textbook sometimes appears in this school.{p}"
+  },
+  {
+   "id": "65:3594",
+   "op": "text",
+   "en": "Anyone who sees it is sure to meet with misfortune..........Ah!{p}"
+  },
+  {
+   "id": "65:35cc",
+   "op": "text",
+   "en": "{b}, behind you...☆\n"
+  },
+  {
+   "id": "65:35e8",
+   "op": "text",
+   "en": "Fukuzawa stood there trembling, still pointing behind me.\nWhat on earth was wrong?\nI fearfully turned around.{p}"
+  },
+  {
+   "id": "65:3658",
+   "op": "text",
+   "en": "...Huh?\nThere was nothing unusual there.\nAnd yet she ran off as if terrified.\n\"Fukuza...!\"\nShe opened the door and dashed out.\n\"Wait!\"\nAs I went to chase after her, someone grabbed my hand.{p}"
+  },
+  {
+   "id": "65:372c",
+   "op": "text",
+   "en": "When I looked, a stranger was standing beside me.\nWho is this boy?\nWhen did he get in here★\nHe pulled hard on my arm.\nWhat was happening to me?\nMy mind went completely blank.{p}"
+  },
+  {
+   "id": "65:37dc",
+   "op": "text",
+   "en": "Next, darkness spread out before my eyes.\nHere and there in the darkness, I could see glimmers of light.{p}"
+  },
+  {
+   "id": "65:382c",
+   "op": "text",
+   "en": "Now and then, a shaft of light lit up his face.\nCould this be... the Kawahara that Fukuzawa was talking about...?\nThere was no one else around anymore.\nSuch deep darkness...\nIt felt like it would swallow me and I'd melt away.\nHe turned toward me, looking like he wanted to say something.\nHis lips, redder than anyone else's, trembled slightly.\nAnd I silently waited for his words...{p}"
+  },
+  {
+   "id": "65:3954",
+   "op": "text",
+   "en": "They say anyone who sees it is sure to meet with misfortune...\nWhat kind of misfortune?\nWell, that part I don't know.{p}"
+  },
+  {
+   "id": "65:39c0",
+   "op": "text",
+   "en": "Okay, that's the end of my story.\nLet's head back to the club room.{p}Maybe the seventh one's already shown up, you know?\nRight, {b}...?{p}"
+  },
+  {
+   "id": "65:3a4c",
+   "op": "text",
+   "follows_choice": [
+    "65:061c"
+   ],
+   "en": "No good?\nBut doesn't everybody want to go home?\nThis is the first time I've ever stayed at school this late.\nLet's go home, okay? It's decided.\nI'll tell you my story some other time.\nI'm Reiko Fukuzawa.\nI'm in Class 1-G, okay?{p}"
+  },
+  {
+   "id": "65:3b10",
+   "op": "text",
+   "follows_choice": [
+    "65:092c"
+   ],
+   "en": "Hmm.\nSo you're actually pretty gutsy, {b}.\nWell, you are putting together a scary-story feature for the newspaper club.\nI guess you'd have to be, huh.\nBut still, even without scary stories, going to school is such a drag, right?{p}"
+  },
+  {
+   "id": "65:3bd8",
+   "op": "text",
+   "follows_choice": [
+    "65:0e4c"
+   ],
+   "en": "\"Fukuzawa, you look for one.\"\nI said it more or less on a whim.\n\"Mmm, okay, but you look too, {b}.\"\nAt that, I reluctantly glanced around.\nI opened some random file and looked inside.{p}"
+  },
+  {
+   "id": "65:3c8c",
+   "op": "text",
+   "en": "Let's see...\n\"I did not do any bullying like the teacher says.\nBut I got yelled at, so I am writing this.\nIt's true I hit the kid in the seat next to me, but only a little.\nI am very sorry.\nThe end.\"\nI don't know who wrote it, but what a ridiculous letter.{p}"
+  },
+  {
+   "id": "65:3d9c",
+   "op": "text",
+   "follows_choice": [
+    "65:0e64"
+   ],
+   "en": "I'm kind of tired.\nMaybe I'll take a little nap.\n..............................Ah!\nThis is no time to be saying that.\nI have to do this interview properly.\nThe seventh person hasn't even shown up, and if I miss this story too, we'll be down to five wonders.\nI don't want Hino yelling at me.\nUm, let me try reading one of these files lying around.{p}"
+  },
+  {
+   "id": "65:3eb8",
+   "op": "text",
+   "follows_choice": [
+    "65:11ec"
+   ],
+   "en": "I'll look for a different file.{p}"
+  },
+  {
+   "id": "65:3ee8",
+   "op": "text",
+   "en": "\"What's wrong, {b}?\nYou're making a funny face.\"\nFukuzawa came over.\n\"Was there something written in that file?\n...Oh.\"\nShe looked at the file in my hand and fell silent for a while.{p}"
+  },
+  {
+   "id": "65:3fa0",
+   "op": "text",
+   "follows_choice": [
+    "65:1584"
+   ],
+   "en": "I see.\nSo you've never had that kind of experience, {b}.\nI haven't really either.\nI mean, if I don't like something, I just say so, flat out.\nBut Kawahara was the kind of person who couldn't do that.\nHe'd be all smiles with his teachers and friends, while sticking his tongue out at them on the inside.{p}"
+  },
+  {
+   "id": "65:4090",
+   "op": "text",
+   "follows_choice": [
+    "65:1aa8"
+   ],
+   "en": "Can't guess?\nIt was a chemistry textbook.\nRemember, I said Kawahara had lent his textbook to someone?\nThat one.{p}"
+  },
+  {
+   "id": "65:410c",
+   "op": "text",
+   "follows_choice": [
+    "65:2068"
+   ],
+   "en": "Nope.{p}"
+  },
+  {
+   "id": "65:411c",
+   "op": "text",
+   "follows_choice": [
+    "65:2648"
+   ],
+   "en": "Right?\nI can't stand people like that either.\nIf you've got something to say, you should just come out and say it, right?{p}"
+  },
+  {
+   "id": "65:417c",
+   "op": "text",
+   "follows_choice": [
+    "65:29ac"
+   ],
+   "en": "...I'll tell the truth after all.\nThat's what Kawahara decided.\nIf there really was a question sheet in there, it'd be better not to keep quiet about it.{p}"
+  },
+  {
+   "id": "65:41fc",
+   "op": "text",
+   "en": "At the next break, he went to the teacher.\n\"It's about the missing question sheet.\"\nWhen he said that, the teacher showed him into this reflection room.\nWhen he opened the textbook in the reflection room, sure enough, there was a question sheet inside.\nThe one Koizumi had secretly slipped in.\nKawahara told the whole story, start to finish.\nBut the teacher didn't believe a word he said.\nThe teacher said there'd be no scolding, and told him to just write an apology letter right here.\nWhat a joke, right?\nIf he did that, he'd be admitting he was the culprit.\nMaybe the teacher meant to get that as proof and then do something to him.\nThat thought popped into his head.{p}"
+  },
+  {
+   "id": "65:4440",
+   "op": "text",
+   "en": "He ran.\nWhy wouldn't anyone believe him?\nCould it be they knew how he was always cursing everyone in his head?\nThat's what he was thinking as he went.\nHe just got more and more frantic.\n"
+  },
+  {
+   "id": "65:450c",
+   "op": "text",
+   "en": "\"Whoa!\"\nIn the hallway, he crashed into Koizumi.\n\"You☆\"\nKawahara went for Koizumi with his fists.\nHe screamed at him, demanding to know why he was trying to frame him.\nThey say Koizumi just laughed.\n\"What're you freaking out about? Just tell 'em it wasn't you, right?\nOr what, they didn't believe you?\nKawahara, that's your own fault, isn't it?\nAll you ever do is put on a nice front.\nThat's why nobody believes you when it counts!\"\nKawahara just snapped.\nHe shoved Koizumi to the floor and punched him over and over.\nRight then, the teacher caught up.\n\"Kawahara! What are you doing?\"{p}"
+  },
+  {
+   "id": "65:473c",
+   "op": "text",
+   "en": "He ran away again.\n"
+  },
+  {
+   "id": "65:4760",
+   "op": "text",
+   "en": "A girl in the hallway was screaming.\nWell, of course she was.\nKawahara, the model student, had suddenly started beating someone up.\n\"Kawahara! Get back here☆\"\nThe teacher was shouting.\nKawahara ran all the way home that day.{p}"
+  },
+  {
+   "id": "65:4848",
+   "op": "text",
+   "en": "...The next day.\nHe was absent from school.\nBut when his homeroom teacher called his house, they were told he'd left for school.\nHe must have run away from home.\nThe teachers looked for him.\nThey went to the police, and searched the school buildings too.\nIf he'd run away and was hiding, it might be the lodge at school, or the tatami room in the old school building...\nThey searched every place they could think of, but he was nowhere to be found.\nIn the end, they filed a missing person report with the police.\nHis parents were worried sick.\nBut he stayed missing.\nThen, about a week later...\nA student had to use the reflection room for some petty rule violation.\nWhen they went into the reflection room, someone was sitting there, facing the window, perfectly still.\n\"Hey, you. Mind stepping out for a bit?\"\nWhen the teacher reached out, the student by the window toppled over.{p}"
+  },
+  {
+   "id": "65:4b2c",
+   "op": "text",
+   "en": "...It was Kawahara.\nThey say his left wrist was covered in cuts.\nHe'd hidden in the reflection room and slit his wrist over and over, apparently.\nI heard that if you want to kill yourself by cutting your wrists, you have to cut really deep.\nApparently not much blood comes out.\nBut the cuts on Kawahara's wrist were really, really deep.\nThey say he filled some bowl he got from somewhere with water and kept his wrist soaking in it.\nWhen he was found, he'd apparently been dead for several days.{p}"
+  },
+  {
+   "id": "65:4cc8",
+   "op": "text",
+   "en": "And the last thing he wrote... should be in that file there.\n{b}, let me see that a sec.\nSee, it's filed down near the bottom.\n\"...Why won't anyone believe what I say?\nI can't trust the teacher.\nAnd I can't trust myself either, for agonizing over something like this.\"\nThey say Kawahara killed himself after writing this.{p}"
+  },
+  {
+   "id": "65:4e1c",
+   "op": "text",
+   "en": "Actually, after Kawahara, one more student died here.\nHashimoto, the one who wrote the apology letter saying it was her fault he died.\nYou see, the reason Koizumi slipped the question sheet into Kawahara's textbook was Hashimoto.\nKoizumi liked Hashimoto, apparently.\nAnd Hashimoto, well, she liked Kawahara.\nYou get it, right?\nKoizumi got jealous and played a nasty trick on Kawahara...\nThey say Hashimoto died in almost exactly the same way Kawahara did.\nAnd because that became such a big issue, the reflection room stopped being used.\nThey say the key was put away inside Kawahara's coffin, but...\nSo why was a key like that lying in the hallway?\nYou don't think a ghost or something lured us here...\nJust kidding. I'm overthinking it, right?\nI don't have anything to apologize for, anyway.\nAnd I've never let things eat at me like that, either.{p}"
+  },
+  {
+   "id": "65:50e8",
+   "op": "text",
+   "en": "Okay, let's head back to the club room soon.\nThis room is kind of creepy, don't you think?\nI don't want to stay in here too long.\nIf the seventh person hasn't come to the club room, let's just go home.{p}"
+  },
+  {
+   "id": "65:5188",
+   "op": "text",
+   "en": "Oh, but {b}, you said the people around you decide what you're like on their own, right?\nMaybe you've got something in common with Kawahara?\nHuh, not as bad as him?\nYou should still be careful, though.\nI think that means you've got a weak spot.\nAnd maybe it's not just people... ghosts might find it easy to get their hooks into you too.{p}"
+  },
+  {
+   "id": "65:52a0",
+   "op": "text",
+   "en": "Ahahaha...\nSorry, sorry, did I say something mean?\nHey, let's get back to the club room already.\nThe seventh one might be there by now.{p}Let's hurry.\nI'll lock this place up again, okay?{p}"
+  }
+ ]
+}

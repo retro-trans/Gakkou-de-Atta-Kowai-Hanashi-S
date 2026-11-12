@@ -1,0 +1,945 @@
+{
+ "chunk": "E074",
+ "scene": "38",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "slices": [
+  "S146",
+  "S147",
+  "S148"
+ ],
+ "prev": "E073",
+ "next": "E075",
+ "todo": [],
+ "rows": [
+  {
+   "id": "38:0900",
+   "op": "text",
+   "en": "Hi, everyone.\nI'm Reiko Fukuzawa.\nA first-yeeear!\nNice to meet you, and please be sweet to me-e-e-e!\nThis is out of nowhere, but do you all like flowers?{p}How about you, {c}{f:|}? Do you like them?\n"
+  },
+  {
+   "id": "38:09ac",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "38:09b4",
+   "op": "choice",
+   "en": "I hate them"
+  },
+  {
+   "id": "38:09bc",
+   "op": "choice",
+   "en": "I don't care either way"
+  },
+  {
+   "id": "38:09d0",
+   "op": "text",
+   "en": "Oh!\nYou said you like them.\nHee hee hee... Don't blame me for what happens to you later.\nSo, {c}{f:|}?\nWhat about cherry blossoms in particular?{p}I bet you just love cherry blossoms.\n",
+   "follows_choice": [
+    "38:09ac"
+   ]
+  },
+  {
+   "id": "38:0a6c",
+   "op": "choice",
+   "en": "I love them"
+  },
+  {
+   "id": "38:0a74",
+   "op": "choice",
+   "en": "I hate them"
+  },
+  {
+   "id": "38:0a7c",
+   "op": "choice",
+   "en": "I don't especially like them"
+  },
+  {
+   "id": "38:0a94",
+   "op": "text",
+   "en": "Aren't you panicking a little?\nYou actually like them, but you got worried and said you hate them, didn't you?\nHonestly, it's too late to say you hate them now.\nWhat you said about liking flowers was heard loud and clear.\nBy who?\nYou're asking who heard it?\nThe flower spirits.{p}",
+   "follows_choice": [
+    "38:0a74"
+   ]
+  },
+  {
+   "id": "38:0b90",
+   "op": "text",
+   "en": "Ah, you laughed just now, didn't you?\nYou've got a look on your face that says being overheard by something like that doesn't scare you one bit.\nWell, whatever.\nThe one who'll be in trouble later is you anyway, {c}{f:|}.\nBelieve it or don't, that's up to you...{p}"
+  },
+  {
+   "id": "38:0c68",
+   "op": "text",
+   "en": "Flowers and trees, you see, have spirits living in them.\nEspecially trees that are hundreds or thousands of years old.\nThey've seen all kinds of history, right?\nHow people lived, how towns changed over time... they've seen all sorts of things.\nThey're way greater than humans, you know.\nAre you making fun of me?\nYou think I'm weird, don't you?\nFlowers, you know, understand human words.\nAnd not just words.\nThey even understand feelings.\nIt's been proven in experiments with cacti, you know.\nCacti grow faster or slower depending on what people say to them, and they even bloom with more beautiful flowers.\nI keep little cactus pals too.\nTwo cactus cuties named Taro and Hanako.\nI talk to them every day.\nThat's what's important, you know.\nIf you talk to them gently and raise them with care, they grow into that much finer cactus pals.\nSo, the reverse is true too.\nIf you curse at them, show them nasty sights, neglect them, or treat them roughly... even plants get angry.\nEspecially trees like the ones I mentioned, that have lived for hundreds or thousands of years. They're scary when you make them angry.\nBecause spirits live in them.{p}"
+  },
+  {
+   "id": "38:1044",
+   "op": "text",
+   "en": "So, {c}{f:|}, you've seen it too, right?\nThe one big cherry tree behind the old school building.\nThat lone tree, standing all by itself, lonely, as if it's been forgotten for some reason.\nThey say that cherry tree is over a thousand years old.\nThat's why it's so huge.\nAnd to tell you the truth, the second athletic field behind the new school building was supposed to be built over there.\nBut it couldn't be, because of that cherry tree.\nDo you know why?{p}"
+  },
+  {
+   "id": "38:11bc",
+   "op": "text",
+   "en": "They say whenever someone tries to cut down that cherry tree or dig it up, accidents happen.\nApparently three people died during the construction.\nThe one who tried to chop the tree down was crushed to death under a steel beam.\nThe two who tried to dig it up each came down with a fever no one could explain, and after suffering for a week, hovering between life and death, they died.\nNobody can lay a hand on it.\nMoving it somewhere else doesn't work either, apparently.\nPurification rites, anything they tried, nothing worked at all.{p}"
+  },
+  {
+   "id": "38:1350",
+   "op": "text",
+   "en": "Scary, isn't it?\n"
+  },
+  {
+   "id": "38:1360",
+   "op": "choice",
+   "en": "It's scary"
+  },
+  {
+   "id": "38:1368",
+   "op": "choice",
+   "en": "It's not scary"
+  },
+  {
+   "id": "38:138c",
+   "op": "text",
+   "en": "Oh, they heard what you just said too, you know.{p}Then how about you try chopping down that cherry tree?\n",
+   "follows_choice": [
+    "38:1368"
+   ]
+  },
+  {
+   "id": "38:13d4",
+   "op": "choice",
+   "en": "Let's try chopping it down"
+  },
+  {
+   "id": "38:13e8",
+   "op": "choice",
+   "en": "I can't do something like that"
+  },
+  {
+   "id": "38:1418",
+   "op": "text",
+   "en": "Right.\nOf course you couldn't do something that terrifying.\nPhew, what a relief.\nIf you'd dragged out an axe from somewhere and said we should go chop it down right now, I don't know what I would have done.\nI might have run away.\nI'm glad you've got at least a shred of common sense, {c}{f:|}.{p}",
+   "follows_choice": [
+    "38:13e8"
+   ]
+  },
+  {
+   "id": "38:1544",
+   "op": "text",
+   "en": "But hey, aren't you curious?\nAbout that cherry tree.\nTrees are smart, so a tree that grew up normally won't get angry or get in the way, as long as you make it understand the situation.\nHaven't you heard other stories about trees that curse you when you try to cut them down?\nWith those, it's one or the other: either nobody properly explained the situation to the tree, or an evil spirit lives in it.\nThat's what I think.\nAnd with that cherry tree, they did properly explain the situation to it.\nThey even told it they were only moving it somewhere else, and they'd never hurt it.\nThat's what I heard, anyway.{p}"
+  },
+  {
+   "id": "38:171c",
+   "op": "text",
+   "en": "But since it wouldn't accept that, there really must be an evil spirit living in it.{p}Do you also think there's an evil spirit living in that cherry tree?\n"
+  },
+  {
+   "id": "38:17a0",
+   "op": "choice",
+   "en": "I think so"
+  },
+  {
+   "id": "38:17a8",
+   "op": "choice",
+   "en": "I don't think so"
+  },
+  {
+   "id": "38:17b4",
+   "op": "text",
+   "en": "I see.\nSo that's what you think.{p}",
+   "follows_choice": [
+    "38:17a8"
+   ]
+  },
+  {
+   "id": "38:17dc",
+   "op": "text",
+   "en": "Maybe you don't believe the stories about the people who had those accidents, either?\nIf so, that's scary.\nYou're definitely going to get cursed, {c}{f:|}.\nBut you know, there really are all kinds of bad rumors about that cherry tree.\nI'll tell you about them.\n...It's a story from decades and decades ago, though.{p}"
+  },
+  {
+   "id": "38:18f0",
+   "op": "text",
+   "en": "They say that during the war, the area around that cherry tree was used as a dumping ground for corpses.\nThe rumor is they dug a pit and threw the bodies into it. Scary story, right?\nAnd not just dead bodies, either. People who were still breathing but had no hope of being saved got thrown in too, without mercy.\nSo it was a picture of hell, literally.\nThey kept dumping bodies one after another, right?\nThey couldn't fill in the pit until it was full, so the stench of rotting flesh was unbelievable.\nThey say even if you only watched from far away, the smell came drifting over on the wind.\nAnd drifting along with it came the moans of the living, sorrowful and full of hatred and grudges.\n\"It hurts...\"\nand\n\"I'm in agony...\"\nand not only that, but voices so full of hatred they weren't even words anymore kept coming out of that pit without a break.\nTwenty-four hours a day, nonstop.{p}"
+  },
+  {
+   "id": "38:1bd4",
+   "op": "text",
+   "en": "That cherry tree watched that scene the whole time.\nI'm sure it was a sight it never wanted to see.\nI bet even if it wanted to look away, even if it wanted to shut off its mind, it couldn't.{p}"
+  },
+  {
+   "id": "38:1c6c",
+   "op": "text",
+   "en": "That's torture, isn't it?\nIn its thousand years of life, it was probably the most horrifying sight it had ever seen.\nJust try watching a sight like that, on and on.\nAny human would go mad, naturally.\nAnd this is a plant, full of emotions.\nWhen I think about how it must have felt, I can't help feeling sorry for it.\nAnd on top of that, it's been living by feeding on those people, right?{p}"
+  },
+  {
+   "id": "38:1dc0",
+   "op": "text",
+   "en": "The people who died cursing the war and cursing humanity slowly rotted away to nothing and became one with the soil.\nThat tree has been living by sucking up their juices.\nThe people dumped there must have returned not only their flesh but even their souls to the earth.\nSo that cherry tree has sucked up the grudges of hundreds of people.\nNext time, you should take a good look.\nIf you stare at it, faces of people writhing in agony will rise up on that great tree's trunk.\nThe knots in the wood look like that, you see.\nThat's no coincidence.\nWithout a doubt, it's the piled-up grudges of the countless dead.\nThose grudges get carved into the trunk like that, one after another.{p}"
+  },
+  {
+   "id": "38:2024",
+   "op": "text",
+   "en": "If you think I'm lying, shall we go check right now?\nI can see them, after all.\nYou should definitely be able to see them too.\nRight?{p}Won't you come?\n"
+  },
+  {
+   "id": "38:20a4",
+   "op": "choice",
+   "en": "I'll go"
+  },
+  {
+   "id": "38:20ac",
+   "op": "choice",
+   "en": "I won't go"
+  },
+  {
+   "id": "38:20b8",
+   "op": "text",
+   "en": "That's the spirit.\nI don't tell lies, you know.\nCome on, let's go take a look.{p}",
+   "follows_choice": [
+    "38:20a4"
+   ]
+  },
+  {
+   "id": "38:2114",
+   "op": "text",
+   "en": "...The area around the old school building really is creepy, isn't it?\nTo be honest, I can't stand the atmosphere around here.\nEvery time I come, it feels like something's about to show up.{p}"
+  },
+  {
+   "id": "38:21a0",
+   "op": "text",
+   "en": "Look, that tree.\nThat cherry tree.\nAfter hearing what I just told you, doesn't it look even creepier somehow?\nHey, you kind of get that feeling, right?\nCome on, get closer.\nGet right up next to it and take a good look.{p}"
+  },
+  {
+   "id": "38:2268",
+   "op": "text",
+   "en": "...That's it.\n...Like you're going to lick it.\nWell?\nCan you see them?\nThe faces of the people who died holding grudges.\nDon't you see lots of them?\nThese hollows around here are too perfect to be a coincidence, aren't they?\nAfter all, it sucked up the blood of so many people.\nAfter all, it sucked up the souls of so many people.\nEven now, their bones are buried right under here.\nCan you see them?{p}Did you see them?\n"
+  },
+  {
+   "id": "38:23a8",
+   "op": "choice",
+   "en": "I saw them"
+  },
+  {
+   "id": "38:23b0",
+   "op": "choice",
+   "en": "I can't see them"
+  },
+  {
+   "id": "38:23bc",
+   "op": "text",
+   "en": "That's strange.\nAnd you seem like you'd have a strong sixth sense, {c}{f:|}.\nGet even closer.\nSo close your body is pressed right up against it.{p}",
+   "follows_choice": [
+    "38:23b0"
+   ]
+  },
+  {
+   "id": "38:243c",
+   "op": "text",
+   "en": "Smell it too.\nMixed in with the fresh green smell of the tree, don't you smell something weird?\nSomething like sulfur.\nA smell like rotten eggs.\nA smell like burning corpses.\nRight?\nDon't you sense it?\nAre you starting to see them?{p}Still can't see them?\n"
+  },
+  {
+   "id": "38:2504",
+   "op": "choice",
+   "en": "I saw them"
+  },
+  {
+   "id": "38:250c",
+   "op": "choice",
+   "en": "I can't see them"
+  },
+  {
+   "id": "38:2518",
+   "op": "text",
+   "en": "That's strange...\nThere's no way you can't see them.\nPut your hand on the trunk.\n...That's it.\nYou'll definitely be able to see them, I know it.\nBring your face closer.\nCloser, closer...{p}",
+   "follows_choice": [
+    "38:250c"
+   ]
+  },
+  {
+   "id": "38:25f8",
+   "op": "text",
+   "en": "Well?\nDid you see them?\nYou saw them, didn't you?{p}"
+  },
+  {
+   "id": "38:2624",
+   "op": "text",
+   "en": "If you still can't see them after this, that proves your sixth sense is weak.\nAnd if you did see them...\nAhahahaha...\nWell then, shall we head back to the club room?\nWe have to hear the next person's story, too.{p}"
+  },
+  {
+   "id": "38:26d8",
+   "op": "text",
+   "en": "{f:Just as I thought|Whaaat}, {f:I knew you'd say that.|you hate them?}\n{f:I shouldn't have asked a boy.|You're no fun.}\nI don't think any living thing is as beautiful as they are, though.\nOf all flowers, I really love cherry blossoms.{p}",
+   "follows_choice": [
+    "38:09b4"
+   ]
+  },
+  {
+   "id": "38:27bc",
+   "op": "text",
+   "en": "My mom's family home is in a place famous for its cherry blossoms.\nIn mid-April, the rows of cherry trees that stretch for kilometers along the embankment all bloom at once.\nWhen the blossoms are falling, they're so beautiful there's just no way to describe it.\nWhen you walk through a storm of cherry petals, you get so elated it's like you're flying through the air.\nWhen I was little, standing in the middle of it all, I honestly used to believe that my body was made of cherry petals, and that I'd be blown away on the wind with the falling blossoms and vanish.{p}"
+  },
+  {
+   "id": "38:2968",
+   "op": "text",
+   "en": "It's not just flowers that I love.\nMy room is full of houseplants.\nLike a jungle.\nMaybe it's because plants really are alive.\nIf I look after them every day, talk to them and love them, they always give those feelings back to me.\nThey bloom with beautiful flowers, they ease my stress, and they grow up super healthy.\nAnd they sense my emotions really keenly and react to them, too.\nWhen I'm sick or worried about something, the flowers droop right away and lose their energy.{p}"
+  },
+  {
+   "id": "38:2b50",
+   "op": "text",
+   "en": "Aren't they cute?\nAren't they sweet?\nI'll say it straight: I think plants have feelings.\nSome people say that's because spirits live in them.\nThey say trees that have lived hundreds or thousands of years are scary when you make them angry, right?\nSo your answer to my question earlier was heard loud and clear by the spirits, too.\nFrom now on, if you say anything too weird, don't blame me for whatever happens to you later.{p}"
+  },
+  {
+   "id": "38:2cc0",
+   "op": "text",
+   "en": "Hmm, you don't seem very interested.\nWell, fine.\nThis is out of nowhere, but how do you feel when you look at cherry blossoms?\nHave you ever walked through that storm of petals when the cherry blossoms are falling?\nIt's spectacular, isn't it?{p}",
+   "follows_choice": [
+    "38:09bc"
+   ]
+  },
+  {
+   "id": "38:2d60",
+   "op": "text",
+   "en": "You say you neither like nor hate flowers, but what about that?\nDon't you ever feel good when you look at cherry blossoms?\nDon't you ever think, 'How beautiful'?\n{f:Geez|Hmm}, {f:you're so wishy-washy|you've got me stumped}.{p}"
+  },
+  {
+   "id": "38:2e50",
+   "op": "text",
+   "en": "Your answer to my question earlier was heard loud and clear{f:, you know|, though}.\nHuh?\nBy what, you ask?{p}"
+  },
+  {
+   "id": "38:2ec4",
+   "op": "text",
+   "en": "By the flower spirits.\nDidn't you know?{p}"
+  },
+  {
+   "id": "38:2ef0",
+   "op": "text",
+   "en": "{f:Wow|Well, well}, {f:for a boy, you're|you're quite} a romantic, aren't you?\nBut you've got good taste.\nHee hee, actually I love cherry blossoms too.{p}",
+   "follows_choice": [
+    "38:0a6c"
+   ],
+   "returns": []
+  },
+  {
+   "id": "38:2f7c",
+   "op": "text",
+   "en": "Once, when I went on a trip, I saw a famous old cherry tree.\nIt was mid-April, I think?\nFrom its huge, ancient trunk, far too big for one person to get their arms around, drooping branches hung down and spread out in every direction, and every single one of them was packed with blossoms, without a gap.\nIt was like a curtain of cherry blossoms.\nI just stood under the flowers, gazing up in a daze...\nThat was when I heard a voice.\nIt really did seem to come from the old cherry tree.\nI felt drawn to it, and when I went up to the old tree and put my ear against it...{p}"
+  },
+  {
+   "id": "38:3160",
+   "op": "text",
+   "en": "Mixed in with a sound like water and nutrients flowing through the inside of the trunk, there was a voice.\n\"I'm so tired now.\nPlease, won't you let me rest?\"\nThat's what I heard it say.\nI was startled and looked all around, but there was no one there.\nThen I looked down at the old tree's trunk, and there were countless nutrient injections jabbed into it.{p}"
+  },
+  {
+   "id": "38:32a8",
+   "op": "text",
+   "en": "Sure, that old tree has lived far, far longer than an ordinary cherry tree's lifespan.\nBut I think the tree had grown tired of having that much done to it just to keep it alive.\nFor a person, I think it'd be the same as not being able to live without drugs and life-support machines.\nI felt sorry for that tree, but there was nothing I could do...\nYou're saying I just imagined it?\nNo, that's not true.\nI heard it clearly, with my own ears.\nMaybe it wasn't so much the tree itself as the voice of the spirit dwelling in it, don't you think?\nEver since that happened, there's one thing I've been sure of.\nYes, that flowers and trees have spirits dwelling in them...\nSo if you insult them, show them horrible sights, treat them carelessly or handle them roughly... even plants get angry.\nWell, that old cherry tree was well cared for, so I don't think that would happen to it.{p}"
+  },
+  {
+   "id": "38:35b0",
+   "op": "text",
+   "en": "Hmm. But you do like flowers, right?\nAs a flower lover, I can't forgive anyone who doesn't like cherry blossoms.\nThat's practically heresy.\nMe, out of all the flowers, I really love cherry blossoms.{p}",
+   "follows_choice": [
+    "38:0a7c"
+   ]
+  },
+  {
+   "id": "38:3658",
+   "op": "text",
+   "en": "You're scared?\nSo you're quite the scaredy-cat, huh.\nBut you know, you see it a lot, right?\nTrees growing smack in the middle of a road, or buildings built to avoid one spot because the tree there couldn't be cut down...\nThat has to be because there's some reason behind it, right?\nThey all have in common that nobody can cut the tree down, but I think the story behind each one is different.{p}",
+   "follows_choice": [
+    "38:1360"
+   ]
+  },
+  {
+   "id": "38:3798",
+   "op": "text",
+   "en": "So, about that cherry tree, aren't you a little curious?\nTrees are smart, see, so a normally grown tree won't get angry or get in the way once you get it to understand the situation.\nWhen accidents happen, it's either because nobody properly explained the situation to the tree, or because an evil spirit dwells in it.\nThat's what I think.\nBut you know, they did properly explain the situation to that tree.\nThey even told it they were only moving it somewhere else, and would never hurt it.\nThat's what I heard.{p}"
+  },
+  {
+   "id": "38:394c",
+   "op": "text",
+   "en": "But if it still wouldn't accept that, then maybe an evil spirit really does dwell in it.\nThere are all kinds of rumors about that cherry tree.\nI'll tell you one.\nIt's from back when the old school building was still in use.\nThat said, I guess by then the tree was already pretty old...\nIt was an ordinary cherry tree that bloomed ordinary flowers.{p}"
+  },
+  {
+   "id": "38:3a94",
+   "op": "text",
+   "en": "Back then, there was a first-year named Miyuki Tojo, a quiet girl, the type who didn't have many friends.\nBut she wasn't gloomy at all.\nThere was a reason for that.\nShe had a close friend.{p}"
+  },
+  {
+   "id": "38:3b70",
+   "op": "text",
+   "en": "Her friend was that very cherry tree, they say.\nYou think that's ridiculous?\nYeah, it is ridiculous, but they were all kids from the old days, right?\nIt seems everyone just thought she was a romantic.\nBack then, even if a kid was a little different from everyone else, I don't think there was the kind of awful bullying there is now...\nIn the morning, when she got to school, she'd say good morning to the tree; at break she'd go to see it, she ate her lunch there, and after school she stayed by the tree until the school gate closed.\nWhether it rained or snowed, or on the hottest days of midsummer, always...\nThey say she'd sit at the foot of the tree, always happily murmuring to herself.\nI don't know if that was why, but they say it bloomed beautifully every year.\nMaybe her feelings got through to the tree...\nI hear a photographer even came once to take pictures of it.\nAnd so two peaceful years went by, until one day, not long before graduation.{p}"
+  },
+  {
+   "id": "38:3e88",
+   "op": "text",
+   "en": "A classmate saw her under that cherry tree with another figure, they say.\nAnd it was a boy, too.\n\"Who knew Tojo was so fast? You can't judge by looks.\nI wonder if she's been meeting him there in secret all along.\"\nThat rumor went around.\nBut the truth was different.\nThe classmate really had seen her with a boy, but right at that moment, he was confessing his feelings to her.{p}"
+  },
+  {
+   "id": "38:4008",
+   "op": "text",
+   "en": "She agonized over it.\nNot that there was anything wrong with him...\nWhy, you ask?\nShe and the cherry tree, through being together, had come to have feelings for each other beyond friendship.\nYou think that's crazy?\nI told you before, didn't I?\nPlants have feelings... spirits dwell in them...{p}"
+  },
+  {
+   "id": "38:4144",
+   "op": "text",
+   "en": "I bet people who love plants, or who are very sensitive, or who have a strong sixth sense, can talk to trees.\nWhen he confessed to her, I guess she finally realized, don't you think?\nThat she was a human, and the one she loved was a cherry tree...\nAfter that, there were classmates who said they'd seen her crying under the tree...\nYou know how there are girls who are huge{g}fans of some idol and follow him everywhere, but then they get a real boyfriend and wake up to reality?\nThe object was different, but it was the same for her.\nIt seems she told the tree that once she graduated, she wouldn't be able to stay by its side anymore.\nAnd that she'd fallen for someone, too...{p}"
+  },
+  {
+   "id": "38:4378",
+   "op": "text",
+   "en": "After that, she stopped going near the cherry tree.\nThen, the day before graduation, she must have been worried about it after all...\nAfter school, she quietly came to see how the tree was doing.{p}"
+  },
+  {
+   "id": "38:4424",
+   "op": "text",
+   "en": "\"So this really is goodbye...\nYou'll be all right without me now, won't you?\"\nThen she gently leaned against the tree's trunk.\nShe closed her eyes,{p}"
+  },
+  {
+   "id": "38:44c4",
+   "op": "text",
+   "en": "\"Was this tree always this warm?\nI can hear something flowing inside the trunk.\n...Just like a person.\nLike this, it's as if I'm wrapped in the scent of cherry blossoms,\"\nshe murmured.\nLittle by little, the western sky turned red, and in the east, stars came out...\nWas it just her imagination that the sky felt closer than usual?\nLittle by little, her mind drifted away...{p}"
+  },
+  {
+   "id": "38:461c",
+   "op": "text",
+   "en": "The next morning, they say a shoe with Tojo's name written on it was lying at the foot of the cherry tree.\nAnd strangely, the tree was in full bloom.\nTojo went missing after that, and her classmates all said she'd been swallowed up by that cherry tree...\nThat tree just had to keep her from leaving, no matter what.\nIt thought that if it came to that, they might as well just become one...\nHer consciousness, once it was taken in, was only a part of the tree at first, but before anyone knew it, it took over the whole tree, and in the end it became the tree itself, don't you think?{p}"
+  },
+  {
+   "id": "38:4838",
+   "op": "text",
+   "en": "If you go near that tree at dusk, you know,\n\"Notice me... I'm right here.\"\nThey say you can hear a whisper like that.\nThat's probably why it keeps refusing even to be moved.\nYeah, more than an evil spirit, I think it's her strong feelings at work, and that's one of the reasons nobody can persuade the tree.\nThat tree is behind the old school building, so not many people see it, but its blossoms are a deeper color than normal cherry blossoms.\nFrom far away, it looks like a red mist.\nThat's the end of my story.\nOkay, next person, go ahead...{p}"
+  },
+  {
+   "id": "38:4a28",
+   "op": "text",
+   "en": "You've got a death wish, huh?\nIf you cut that tree down now, something terrible would happen.{p}",
+   "follows_choice": [
+    "38:13d4"
+   ]
+  },
+  {
+   "id": "38:4a7c",
+   "op": "text",
+   "en": "Huh?\nYou're saying you just don't believe in that kind of thing?\nBut you actually see it around, right?\nTrees growing smack in the middle of a road, or buildings built to avoid one spot because the tree there couldn't be cut down...\nThat has to be because there's some reason behind it, right?\nI'm sure each one has its own story, but they're all the same in that nobody can cut the tree down.\nIn the case of that cherry tree...{p}"
+  },
+  {
+   "id": "38:4bc8",
+   "op": "text",
+   "en": "...This is from back when the old school building was still in use.\nOf course, there was no new school building yet, and I don't think the old building was so run-down back then.{p}"
+  },
+  {
+   "id": "38:4c6c",
+   "op": "text",
+   "en": "Back then, there was a boy at this school named Asakura.\nAsakura was cheerful, good at sports, and cool...\nIn other words, he was like every girl's dream guy, they say.\nNot that I saw him myself.\nAnd he was what you'd call the outdoorsy type these days, I guess; he loved the mountains and the sea.{p}"
+  },
+  {
+   "id": "38:4d78",
+   "op": "text",
+   "en": "Trees and flowers can tell when someone's like that.\nPlants loved him.\nDid you know?\nThey say people have compatibility with plants, too.\nHe seems to have been the type plants love unconditionally.\nLiked not just by his classmates and teachers but by plants too... I'm a little jealous.{p}"
+  },
+  {
+   "id": "38:4e84",
+   "op": "text",
+   "en": "Asakura apparently used to nap or read books under that cherry tree a lot.\nHe must have liked being near trees.\nAnd that cherry tree liked him too, just like the other plants did.\nIn spring it put out gorgeous blossoms, in summer it made cool shade... it did its best to make him happy like that.\n...But happiness never lasts long, does it?{p}"
+  },
+  {
+   "id": "38:4fcc",
+   "op": "text",
+   "en": "One day, Asakura got sick.\nAt first, everyone thought it was just a cold.\nHe'd always been really healthy until then, so he didn't worry about it much himself.\nBut that was the mistake.\nHe came down with a lung disease and moved away to the countryside, where the air was better, to recover.\nHe really hated leaving this place...\nBeing sick had made him weak-hearted, too; he must have been lonely.\nBut he and his classmates weren't the only ones who were sad.{p}"
+  },
+  {
+   "id": "38:5174",
+   "op": "text",
+   "en": "They say that cherry tree, too, scattered its petals as it watched the car drive away...\n...After that, the tree never saw Asakura again.\nThey say he died at the hospital where he went to recover...\n\"If I may wish, let me die in spring beneath the blossoms.\"\nIt's a famous line, right?\nThose were his last words.\nThe blossoms there mean cherry blossoms, right?\nHe really did want to come back, didn't he?{p}"
+  },
+  {
+   "id": "38:52a0",
+   "op": "text",
+   "en": "That day... the tree was scattering its petals, just like on the day it saw Asakura off...\nThey say it was just like tears.\nWhat's wrong, {c}{f:|}?\nAhahaha, you want to say it's not scary at all, right?\nI know.\nThe scary part starts here.\nYeah, up until then, the tree was just like any other gentle, ordinary tree.\nBut from the moment Asakura died, it changed.{p}"
+  },
+  {
+   "id": "38:5408",
+   "op": "text",
+   "en": "Right now, that cherry tree is calling for Asakura with all its heart and soul.\nBecause it knows perfectly well that he wanted to come back...\nYou know what spirit paths are, right?\nThey're the routes ghosts travel along, and they say they exist all over the place.\nThat cherry tree is pulling those spirit paths toward itself.\nWaiting for the day Asakura passes along one of them...\nAnd while it did that, before it knew it, lots of spirits ended up dwelling in the tree.\nJust like the roads we use every day have sidewalks, roadways and one-way streets, they say there are all kinds of spirit paths too.\nPaths that lead to heaven.\nPaths that lead to hell.\nPaths that loop around so you can never get out.\nPaths that good spirits travel.\nPaths that evil spirits travel.\nThat's about it, to keep it simple.{p}"
+  },
+  {
+   "id": "38:5698",
+   "op": "text",
+   "en": "Hey, {c}{f:|}.{p}Which spirit path do you think that tree is pulling in?\n"
+  },
+  {
+   "id": "38:56ec",
+   "op": "choice",
+   "en": "The path good spirits travel"
+  },
+  {
+   "id": "38:56fc",
+   "op": "choice",
+   "en": "The path evil spirits travel"
+  },
+  {
+   "id": "38:570c",
+   "op": "choice",
+   "en": "I'd like to believe no spirit path runs through there"
+  },
+  {
+   "id": "38:5738",
+   "op": "text",
+   "en": "Are you still saying that?\nSorry, but spirit paths do run through it.\nAnd not just one or two, either.\nI mean, Asakura died way off in the countryside, remember?\nEven that tree couldn't make a path connecting there to here.\nSo it's pulling in every spirit path around it, whatever it can get.\nThis school has creepy spots all over the place, right?\nSo many spirit paths have been warped that space itself has gone strange.\nBut where could Asakura's spirit be, I wonder?\nMaybe he still can't find his way to the tree?\nOr maybe...\nMaybe he forgot all about the tree and passed on...\nEven if Asakura could meet the tree now, I think it'd already be too late.{p}",
+   "follows_choice": [
+    "38:570c"
+   ]
+  },
+  {
+   "id": "38:599c",
+   "op": "text",
+   "en": "Because that tree is full of the grudges of all kinds of spirits.\nStrong spirits and weak spirits are all lumped in together.\nThe spirit world is survival of the fittest too, and weak spirits get eaten.\nThough apparently ordinary spirits don't do that, so the ones doing the eating would have to be powerful evil spirits.\nThat's how they keep getting stronger and stronger.{p}"
+  },
+  {
+   "id": "38:5ad8",
+   "op": "text",
+   "en": "Get it now?\nWhy that tree can't be moved...\nCutting it down? No way! Right?\nLeaving it like this is definitely dangerous too, but it'll hold out at least until we graduate.\nThat's only a guess, though...\nProbably.\nMaybe that's irresponsible, but I'm just a normal high school girl, not a psychic.\nThere's no way I could purify that tree with a half-baked sixth sense.\nI'd just end up getting swallowed by the grudges.\nOr do you still not believe it?\nThe grudges being carved into that tree...\nIf you want, we can go and look.{p}What do you say?\n"
+  },
+  {
+   "id": "38:5ce4",
+   "op": "choice",
+   "en": "I'll go see it"
+  },
+  {
+   "id": "38:5cf0",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "38:5d00",
+   "op": "text",
+   "en": "Oh, now you're just saying whatever suits you.\nBut, yeah, you're right.\nThe path that tree was pulling in was the one traveled by spirits trying to properly pass on.\nCalling them good or bad is kind of strange, but they say the most important thing a spirit needs is the will to move.\nNo matter how harmless a spirit is, if it just stays put and does nothing, it's beyond saving, they say.\nAnd I don't sense much malice from the spirit path itself, so I think it's just a normal, perfectly ordinary spirit path.{p}",
+   "follows_choice": [
+    "38:56ec"
+   ]
+  },
+  {
+   "id": "38:5ea8",
+   "op": "text",
+   "en": "What are you so relieved about?\nJust because they're all good spirits doesn't mean you can relax.\nWhy? Because the cherry tree is binding the spirits that are trying to pass on, trapping them inside itself...{p}"
+  },
+  {
+   "id": "38:5f54",
+   "op": "text",
+   "en": "All it can think about is calling Asakura, so it can't set the other spirits free.\nI wonder how the trapped spirits feel?\nSad, or bitter, I bet.\nIt wouldn't be strange if that slowly turned into resentment and hatred, would it?\nAnd those grudges are slowly taking over the tree...{p}"
+  },
+  {
+   "id": "38:6090",
+   "op": "text",
+   "en": "Hey, let's go look at it now.\nI'll prove to you that my story isn't a lie.{p}Come on, okay?\n"
+  },
+  {
+   "id": "38:60f0",
+   "op": "choice",
+   "en": "I'll go see it"
+  },
+  {
+   "id": "38:60fc",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "38:610c",
+   "op": "text",
+   "en": "That's more like it.\nI'm not lying, you know.\nCome on, let's go.{p}",
+   "follows_choice": [
+    "38:5ce4",
+    "38:60f0",
+    "38:898c",
+    "38:8bf4"
+   ]
+  },
+  {
+   "id": "38:6170",
+   "op": "text",
+   "en": "...The area around the old school building really is creepy, isn't it?\nEspecially out back here where this tree is; even in the daytime it's gloomy, and it feels damp, don't you think?\nIt's not like it doesn't get any sun, either.\nI guess it's the atmosphere.{p}"
+  },
+  {
+   "id": "38:6244",
+   "op": "text",
+   "en": "Look, there it is.\nThe white blossoms are in full bloom.\nIt's scary, though, isn't it?\nThis tree is in bloom all year round...\nHuh?\nThat's weird...?\nI thought this tree had redder blossoms than that...\nWell?\nAfter hearing the story, it's even creepier, right?\nYou know why they say there are dead bodies buried under cherry trees? It's because if you cut a cherry tree's trunk before it blooms, red sap flows out.\nCome on, don't stand so far away.\nTake a closer look.{p}"
+  },
+  {
+   "id": "38:63dc",
+   "op": "text",
+   "en": "That scar near the bottom of the trunk is from when they tried to cut it down before, and they say red sap came pouring out then too.\nI guess part of it was that it creeped them out, but I really don't think this tree is normal.{p}"
+  },
+  {
+   "id": "38:64b0",
+   "op": "text",
+   "en": "Hey, look closely at these blossoms.\nThey're white today, so it should be easy to tell, but in the middle of each flower, look...{p}"
+  },
+  {
+   "id": "38:6528",
+   "op": "text",
+   "en": "You can see a face, right?\nMore like a skull than a face, maybe?\nSee? Every blossom has a creepy stain on it.\nThese must be the grudges of the spirits this tree has absorbed.{p}"
+  },
+  {
+   "id": "38:65d0",
+   "op": "text",
+   "en": "What's wrong?\n{c}{f:|}, you're shaking.\nAre you scared?{p}Want to go back to the club room?\n"
+  },
+  {
+   "id": "38:6624",
+   "op": "choice",
+   "en": "I want to go back to the club room"
+  },
+  {
+   "id": "38:6634",
+   "op": "choice",
+   "en": "No, I want to stay here a while longer"
+  },
+  {
+   "id": "38:6654",
+   "op": "text",
+   "en": "Heh heh, you're just putting on a brave face.\nBut take responsibility for what you said, okay?\nI'm scared, so I'm going back to the club room.\nYou can look at the tree as long as you like, {c}{f:|}.\nSee you later, then.{p}If you take too long, I'll go home without you.\n",
+   "follows_choice": [
+    "38:6634"
+   ]
+  },
+  {
+   "id": "38:6724",
+   "op": "choice",
+   "en": "Ask her to stay"
+  },
+  {
+   "id": "38:6730",
+   "op": "choice",
+   "en": "Go back with everyone"
+  },
+  {
+   "id": "38:6748",
+   "op": "text",
+   "en": "Huh, what?\nYou're scared to be alone?\nOh, all right, just a little longer, then.\nIf you still want to stay here, that means you sensed something, right?\nThe grudges squirming inside this tree, maybe?\nI can't tell that much myself.\nAll I get is a vague sense of something hazy, some kind of unknowable presence.{p}So, so, did you see something?\n",
+   "follows_choice": [
+    "38:6724"
+   ]
+  },
+  {
+   "id": "38:6874",
+   "op": "choice",
+   "en": "I saw something"
+  },
+  {
+   "id": "38:687c",
+   "op": "choice",
+   "en": "I can't see anything"
+  },
+  {
+   "id": "38:6888",
+   "op": "text",
+   "en": "So you didn't actually see anything.\nBut you can tell this tree isn't just an ordinary cherry tree, right?\nYou can tell from the blossoms alone, but there's a lot more around it, things the eye can't see.\nThere might be loads of faces full of grudges showing up on that trunk, too...{p}",
+   "follows_choice": [
+    "38:687c"
+   ]
+  },
+  {
+   "id": "38:69a0",
+   "op": "text",
+   "en": "Heh heh, looks like you did see something, {c}{f:|}.\nIf you didn't see anything, I guess that means your sixth sense is weak.\n...You've had enough now, right?\nLet's go back to the club room.\nWe still have to hear everyone else's stories.\nWho are you picking next?{p}"
+  },
+  {
+   "id": "38:6a68",
+   "op": "text",
+   "en": "So you really are scared.\nYou know, around this tree, nothing comes near it. Not just animals, even birds and bugs stay away.\nEven the stray dogs you see in empty lots never go near it, and you don't see crows flying around here either, right?\nAnimal instinct, I guess.\nThey can sense the danger.\nHumans are the only ones who still want to go, even when they know better.{p}",
+   "follows_choice": [
+    "38:6624"
+   ]
+  },
+  {
+   "id": "38:6b88",
+   "op": "text",
+   "en": "Did you know?\nLots of people go missing around this tree.\nSometimes they get found, apparently, but every one of them is so weak it's like all the nourishment got sucked out of their bodies, and hardly any of them make it.\nEven the ones who finally pulled through get tormented by visions, and they're in the hospital, or so I hear...\nOne of them said they could see a human face on their arm, and tried to cut it off with a box cutter.\nAs if you could cut off an arm with something like that.\nThe people around them stopped them right away, so the wound wasn't too bad, apparently.\nBut then, the wound talked, they say.\nTwisting up hideously, it let out a shriek, 'Come quickly,' and laughed.\n...Are you even more scared now?\nOkay, okay, let's hurry back.\nWho are you going to ask next?{p}"
+  },
+  {
+   "id": "38:6e10",
+   "op": "text",
+   "en": "What's wrong?\nYou've had enough already?{p}",
+   "follows_choice": [
+    "38:6730"
+   ]
+  },
+  {
+   "id": "38:6e30",
+   "op": "text",
+   "en": "You're not going?{p}",
+   "follows_choice": [
+    "38:20ac",
+    "38:5cf0",
+    "38:60fc",
+    "38:8998",
+    "38:8c00"
+   ]
+  },
+  {
+   "id": "38:6e54",
+   "op": "text",
+   "en": "Hmm, you're no fun...\nWell, they do say it's better not to go near it carelessly, just out of curiosity.\nLike, say you touched that cherry tree, right?\nThey say the skin where you touched it breaks out in a rash.\nAt first it just puffs up a little, but nothing you put on it makes it heal, and in the end it festers into an oozing mess. That's what I've heard.\nThere was someone before who touched the tree out of curiosity, and their skin festered, and they couldn't stand it anymore and cut that spot off with a box cutter.{p}"
+  },
+  {
+   "id": "38:7010",
+   "op": "text",
+   "en": "Why couldn't they stand it?\nOther people couldn't see it like that, but it talked, they say, with a human face...\nAnd it was always looking up at them with resentment, apparently.\nThat blackened, festering skin they'd cut off twisted its lips and said this, they say.{p}"
+  },
+  {
+   "id": "38:711c",
+   "op": "text",
+   "en": "\"I want your body...\"\nThat's the end of my story.\nWell then, next person, go ahead...{p}"
+  },
+  {
+   "id": "38:7174",
+   "op": "text",
+   "en": "Do you really think so?\n\"Let's chop that tree down.\"\n...Weren't you the one saying stuff like that?{p}",
+   "follows_choice": [
+    "38:56fc"
+   ]
+  },
+  {
+   "id": "38:71d0",
+   "op": "text",
+   "en": "Ahaha, you're starting to get scared, huh.\nThat's a relief.\nI was starting to think I was the only scaredy-cat.{p}"
+  },
+  {
+   "id": "38:7248",
+   "op": "text",
+   "en": "But you can feel it, right?\nThat swirl of sinister energy wrapping itself around this school...\nAnd right at the center of it is that cherry tree.{p}"
+  },
+  {
+   "id": "38:72c4",
+   "op": "text",
+   "en": "They say schools are places where spirits gather easily.\nBecause that tree is pulling in the spirit paths, I think all the wandering spirits around here are gathering there too.\nThey say that with Kokkuri-san too, low-level spirits and animal spirits are easier to call, right?\nI can't tell what kind of spirit paths run through it, but I feel like I can kind of sense a swirl of psychic energy centered on the cherry tree.\nWhenever I look at that tree, I get goosebumps.\nSomewhere far off in the back of my mind, an alarm goes off.\nThat tree is dangerous!\nThey say it's still on the quiet side for now.\nBut one of these days... the grudges of the spirits, stored up to their limit, will burst into bloom.\nWith malice riding on every single petal...\nWhen that time comes, what's going to happen to this school, I wonder?\nIt might be tomorrow, or it might be a year from now.\nOr maybe it's already...{p}"
+  },
+  {
+   "id": "38:759c",
+   "op": "text",
+   "en": "Actually, before I came here, I went to look at that tree.\nIt was in bloom.\nIt seems kind of off-season, but they say that cherry tree is like this every year.\nMy big sister graduated from here too.\nShe told me it's the cherry tree that forgets the seasons.\nAnd so...\nWhat kind of blossoms do you think were blooming?\nCherry blossoms, of course.{p}Don't go answering roses or tulips or something.\n"
+  },
+  {
+   "id": "38:76e8",
+   "op": "choice",
+   "en": "Ordinary cherry blossoms"
+  },
+  {
+   "id": "38:76f8",
+   "op": "choice",
+   "en": "Cherry blossoms filled with grudges"
+  },
+  {
+   "id": "38:7728",
+   "op": "text",
+   "en": "Good for you.\nDon't worry, they were still ordinary blossoms.\nThough the cherry tree itself was creepy, like always.\nFrom now on, you'd better keep a careful eye on that tree too, {c}{f:|}.\nLike, keep an observation diary or something...\nOh, that's a good one!\nYou totally have to do it.\nAnd if it looks like something's about to happen, tell me, okay?\nOkay, that's as far as my story goes.\nWho's next?{p}",
+   "follows_choice": [
+    "38:76e8"
+   ]
+  },
+  {
+   "id": "38:786c",
+   "op": "text",
+   "en": "...Hmm.\nSo it really is like that, huh.\nYou know, that cherry tree's blossoms are usually a deeper color than ordinary cherry blossoms.\nFrom far away, it looks like a red mist.\nBut when I saw it just now, the blossoms were white.\nLike snow... is that how I'd put it?{p}",
+   "follows_choice": [
+    "38:76f8"
+   ]
+  },
+  {
+   "id": "38:795c",
+   "op": "text",
+   "en": "Pale, bluish-white blossoms without the slightest warmth were in full bloom.\nIt was beautiful, but it was a frightening sight...\nThe petals fluttering down felt like they were chasing me, so I hurried away from there.\nEven so, petals stuck to my hair and shoulders, and they just wouldn't come off.\nSee, there are still some stuck on me, right?{p}"
+  },
+  {
+   "id": "38:7a74",
+   "op": "text",
+   "en": "Eww, I just noticed something.\nLook.\nThese petals... can't you see faces on them★\nMore like skulls than faces, maybe.\nAnyway, these are blossoms full of grudges, aren't they!\nEek, I don't want them!{p}"
+  },
+  {
+   "id": "38:7b40",
+   "op": "text",
+   "en": "Here, they're yours, {c}{f:|}.{p}"
+  },
+  {
+   "id": "38:7b64",
+   "op": "text",
+   "en": "Hurry up and throw them away!\n……………\n……………{p}"
+  },
+  {
+   "id": "38:7bb8",
+   "op": "text",
+   "en": "...Did you throw them away?\n"
+  },
+  {
+   "id": "38:7bd0",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "38:7bd8",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "38:7bf4",
+   "op": "text",
+   "en": "Thank you.\nMore importantly, things have gotten really bad, huh.\nI mean, the grudge blossoms have bloomed.\nThis gathering isn't going to end safely.\nI don't know what's going to happen, but I hope we get to hear everyone's stories.\nOkay, that's the end of my story.\nLet's hurry on to the next person.{p}",
+   "follows_choice": [
+    "38:7bd0"
+   ]
+  },
+  {
+   "id": "38:7cf4",
+   "op": "text",
+   "en": "Meanie!{p}",
+   "follows_choice": [
+    "38:7bd8"
+   ]
+  },
+  {
+   "id": "38:7d04",
+   "op": "text",
+   "en": "Really?\nThat's great.\nTelling this story was worth it, then.\nOkay, try putting your hand on the tree trunk.\nTry to feel the spirits even more...{p}",
+   "follows_choice": [
+    "38:6874"
+   ]
+  },
+  {
+   "id": "38:7d8c",
+   "op": "text",
+   "en": "Close your eyes...\nOpen your heart...\nSee? Amazing, right?\nThey say people who see spirits here get bewitched by the cherry tree.\nThe spirits' grudges drag the living in, they say.\nAnd the ones who get pulled in try to escape their suffering by calling yet another person, they say.\nWhen they pull someone else in, they're freed from the suffering for just a little while, or so I hear...{p}"
+  },
+  {
+   "id": "38:7ef0",
+   "op": "text",
+   "en": "{c}{f:|}, you saw the spirits, didn't you?\nHeh heh, I didn't see a thing.\nBut you saw them, right?\nEver since I heard this story, I've brought all kinds of people here, but you're the first one who's ever seen the spirits, {c}{f:|}.\nSo I don't know what happens to people who get bewitched.\nSorry.\nYou'll probably get dragged in.\nScary, huh.\n...I see, so the rumor was true.\nWell, I'm satisfied now, so shall we head back to the club room?\nHeh heh, don't worry.\nIf anything happens to you, {c}{f:|}, I'll prove it for you.\nIt was the cherry tree's curse.\n...Like that.\nThat's as far as my story goes.\nWho's next...?{p}"
+  },
+  {
+   "id": "38:811c",
+   "op": "text",
+   "en": "I think so too.\nNo matter how you look at it, it's not normal.\nI'll tell you a story about that tree.\n...It's from before this school was built, so it was a really long time ago...{p}",
+   "follows_choice": [
+    "38:17a0"
+   ]
+  },
+  {
+   "id": "38:81d0",
+   "op": "text",
+   "en": "They say there used to be a small lake around here.\nThat cherry tree supposedly stood on the shore of that lake, so the old school building would have been completely underwater.\nNature worship, I guess you'd call it?\nIt's a faith that's been around in Japan since way back, and that lake and the cherry tree were worshipped by the people back then too.\nIt was a local folk faith, so I think it was something simple.\nPrayers for a good harvest, praying for rain, and festivals of thanks...\nOrdinary stuff you'd find anywhere, right?\nLoved by simple people, they must have spent their days in peace.\nYes, until that time came...{p}"
+  },
+  {
+   "id": "38:83a8",
+   "op": "text",
+   "en": "One year, a famine struck the village.\nThe drought went on and on, the crops withered, and even the river that flowed nearby was running low.\nEven so, the lake was still brimming with clear water, they say.\nThanks to that, the villagers could at least quench their thirst, apparently.\nSince it was a sacred place, they held back at first, but little by little, everyone seems to have gotten more shameless.\nThey were greedy, weren't they.\nBefore long, the villagers were fighting each other over the water, and it got fiercer day by day.\nAs if heaven were angry at people like that, there wasn't the slightest sign of rain.\nOn the contrary, even the lake's water started to shrink.{p}"
+  },
+  {
+   "id": "38:85c8",
+   "op": "text",
+   "en": "By then, the villagers' fighting had turned into killing each other, they say...\nWhen a traveler passing through saw it, the villagers' corpses were scattered across the bottom of the dried-up lake, and every body was shriveled bone-dry, without a single drop of blood left in it.{p}"
+  },
+  {
+   "id": "38:86a4",
+   "op": "text",
+   "en": "Right beside them, that cherry tree was apparently in magnificent full bloom.\nIt happened at the end of summer, too, when it wasn't blossom season at all.\nIt sucked up the villagers' blood and bloomed.\nThat's why the cherry tree here is a little deeper red.{p}"
+  },
+  {
+   "id": "38:8774",
+   "op": "text",
+   "en": "...So, scary story, right?{p}What part scared you?\n"
+  },
+  {
+   "id": "38:87a4",
+   "op": "choice",
+   "en": "Human greed"
+  },
+  {
+   "id": "38:87b0",
+   "op": "choice",
+   "en": "The power of nature"
+  },
+  {
+   "id": "38:87bc",
+   "op": "text",
+   "en": "You think the same way I do.\nGhosts and monsters are scary too, but people really are the scariest.\nEspecially people possessed by greed.\nThey don't know any limits, right?\nI'm not saying having no desires is a good thing, but hearing this story kind of makes you think, doesn't it?\nYou'd better remember that people can change into something else entirely.\nAnd also that, along with the villagers' blood, that vile greed flowed into that cherry tree.\nInside that tree lives a devil, made of greed and the grudges that always come with it.\nSo?\nWhy don't we go take a look right now?{p}Take a look at what? That cherry tree, of course.\n",
+   "follows_choice": [
+    "38:87a4"
+   ]
+  },
+  {
+   "id": "38:898c",
+   "op": "choice",
+   "en": "Let's go see it"
+  },
+  {
+   "id": "38:8998",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "38:89a8",
+   "op": "text",
+   "en": "Right?\nIn the face of nature's incredible power, humans are such tiny things.\nThere are huge powers like drought, and there are even mysterious powers, like flowers that bloom by sucking blood from corpses.\nThere may not be many people who can reach a plant's heart, but most plants understand what people say, you know.\nEven something humans spent long, long years building, nature can snatch away in an instant.\nYou've probably figured it out already, but hidden inside that cherry tree are nature's mysterious power and the bitter regret of the humans who lost to it...\nYou should take a good look at it sometime.\nIt'll overwhelm you.\nOh, I know, why don't we go see it now?{p}Come on, it can count as research for the interview too.\n",
+   "follows_choice": [
+    "38:87b0"
+   ]
+  },
+  {
+   "id": "38:8bf4",
+   "op": "choice",
+   "en": "Let's go see it"
+  },
+  {
+   "id": "38:8c00",
+   "op": "choice",
+   "en": "I don't want to go"
+  },
+  {
+   "id": "38:8c34",
+   "op": "text",
+   "en": "Really?\nTelling this story was worth it, then.\nOkay, try putting your hand on the tree trunk.\nTry to feel the spirits even more...\nAnd then, try closing your eyes.{p}",
+   "follows_choice": [
+    "38:23a8"
+   ]
+  },
+  {
+   "id": "38:8cdc",
+   "op": "text",
+   "en": "Now listen closely.\nSee, amazing, right?\nAnd you know, they say once someone has seen a spirit here, they'll see all kinds of things for a while afterward.\nIn this world, it's often happier not to see, isn't it?\nEspecially at this school...\nIf you're stuck in a place this full of ghosts, you'll go crazy.{p}"
+  },
+  {
+   "id": "38:8e04",
+   "op": "text",
+   "en": "{c}{f:|}?\nYou look pale.\nDon't tell me you're seeing something horrible?\nOh my, that's bad.\nWe'd better hurry back to the club room.\nHeh heh, but it's the same wherever you go, I guess...\nAnyway, my story ends here.\nNext person, go ahead.{p}"
+  },
+  {
+   "id": "38:8efc",
+   "op": "text",
+   "en": "Really?\nTelling this story was worth it, then.\nOkay, try putting your hand on the tree trunk.\nTry to feel the spirits even more...\nAnd then, try closing your eyes.{p}",
+   "follows_choice": [
+    "38:2504"
+   ]
+  },
+  {
+   "id": "38:8fa4",
+   "op": "text",
+   "en": "See, amazing, right?\nAnd you know, they say once someone has seen a spirit here, for a while afterward, whenever they close their eyes, what they saw will float up in front of them.\nGo on, try blinking...\nGo on, try closing your eyes...\nCan't you see it?{p}"
+  },
+  {
+   "id": "38:908c",
+   "op": "text",
+   "en": "Heh heh heh.\nThat's the end of my story.\nWell then, next person, go ahead...{p}"
+  },
+  {
+   "id": "38:90f8",
+   "op": "text",
+   "en": "It's a story that makes you want to cry, isn't it?\nBut she still clings to this world, so it seems she envies the people who are actually alive.\nThat's why they say it's better not to go near it carelessly, just out of curiosity.\nLike, say you touched that cherry tree, right?\nThey say the skin where you touched it breaks out in a rash.\nAt first it just puffs up a little, but nothing you put on it makes it heal, and in the end it festers into an oozing mess. That's what I've heard.\nThere was someone before who touched the tree out of curiosity, and their skin festered, and they couldn't stand it anymore and cut that spot off with a box cutter.{p}"
+  },
+  {
+   "id": "38:92fc",
+   "op": "text",
+   "en": "Why couldn't they stand it?\nOther people couldn't see it like that, but it talked, they say, with a human face...\nAnd it was always looking up at them with resentment, apparently.\nThat blackened, festering skin they'd cut off twisted its lips and said this, they say.\n\"Take me away from there...\"\nThat's the end of my story.\nWell then, next person, go ahead...{p}"
+  }
+ ]
+}

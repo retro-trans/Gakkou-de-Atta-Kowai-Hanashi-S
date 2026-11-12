@@ -1,0 +1,1094 @@
+{
+ "chunk": "E003",
+ "scene": "03",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "slices": [
+  "S007",
+  "S008",
+  "S009"
+ ],
+ "prev": "E002",
+ "next": "E004",
+ "todo": [],
+ "rows": [
+  {
+   "id": "03:09e0",
+   "op": "text",
+   "en": "All right, then, I guess I'll tell the third story.\nMy name's Makoto Shindo.\nClass 3-D.\nYou know our school's a big name in sports, right?\nWell, with this many students, of course we're strong.\nAnd it's not just sports, either.\nIt's not like we've got a lot of smart kids or anything, but the sheer numbers are on a whole other level from your average high school.\nThat's why a bunch of our guys end up getting into Tokyo University.\nMe, I'm not much for studying, so let's leave that side of things alone.\nLet me talk about sports instead.{p}"
+  },
+  {
+   "id": "03:0b9c",
+   "op": "text",
+   "en": "Sports are great.\nThere's only one championship.\nIt's not like college entrance exams, where it's just a choice between passing or failing.\nThere's only one top spot.\nAnd you fight each other for it.\nPlus, you don't hear about many people who study because they love it, right?\nBut sports are different.\nIt's nothing but people who love it, pitting their strength against each other.\nAnd they all aim for that one and only top spot.\nNow that's what youth is about, huh?\nSo, {a}.\nDon't spend all your time studying.\nTurn your eyes to sports a little, and burn up your youth on something besides studying.{p}Maybe you don't need me telling you that, though. Do you play any sports?\n"
+  },
+  {
+   "id": "03:0db4",
+   "op": "choice",
+   "en": "I do"
+  },
+  {
+   "id": "03:0dc0",
+   "op": "choice",
+   "en": "I don't"
+  },
+  {
+   "id": "03:0dd0",
+   "op": "choice",
+   "en": "I'm planning to start soon"
+  },
+  {
+   "id": "03:0df0",
+   "op": "text",
+   "en": "So you're into sports too, huh?\nI've dabbled in all kinds of stuff myself.\nI'm pretty good, if I say so myself.{p}",
+   "follows_choice": [
+    "03:0db4"
+   ]
+  },
+  {
+   "id": "03:0e58",
+   "op": "text",
+   "en": "...Anyway, that's enough of that.\nIt's fine to burn with obsession for a sport.\nBut don't get so into it that what you're burning with turns from obsession into a grudge.\nYou know how when a person dies holding a grudge, they become an earthbound spirit, right?\nWhen that happens, they say the spirit picks the place it was most attached to.\nMost of the time, people who die full of resentment and grudges are the ones who got murdered or killed themselves.\nSo they end up becoming earthbound spirits right where they died.\nEspecially spirits that got killed with a whole lot left undone in this world. They say those can't let go of their attachment to life, and they can't leave that spot.{p}"
+  },
+  {
+   "id": "03:1084",
+   "op": "text",
+   "en": "People who play sports have a strong drive to win, right?\nAnd the harder they work, the stronger it gets.\nSo imagine one of them suddenly dying in an accident.\nAnd imagine it happened just a few days before a big tournament.\nThey couldn't rest in peace even in death, right?\nSo they become an earthbound spirit.\nAnd not where they died, either. They become an earthbound spirit in the place where they practiced their hearts out.\nYou don't hear many stories about someone who studied themselves into a nervous breakdown and died, then showed up as a ghost in a classroom, right?\nThat's not because they loved studying more than anything. It's the opposite: they hated it more than anything.\nSo there's no way they'd become earthbound spirits.\nThe gym and the athletic field are different, though.\nThere's a good chance the people who died still hung up on their sport turn into earthbound spirits.\nEver heard about the crack of a bat from fielding practice on an empty field?{p}"
+  },
+  {
+   "id": "03:1384",
+   "op": "text",
+   "en": "Arai's story touched on this earlier, too.\n"
+  },
+  {
+   "id": "03:13ac",
+   "op": "text",
+   "en": "Stories about hearing a basketball bouncing in the gym in the dead of night, or shouts and cheering and footsteps echoing there... you must've heard one at least once, right?\nThose are all earthbound spirits who couldn't forget the sport they loved, coming back as ghosts.{p}"
+  },
+  {
+   "id": "03:14a0",
+   "op": "text",
+   "en": "Well, it's a sad story, isn't it?\nThey had something they could throw themselves into, and their short lives came to an end after barely ten-some years.\nBut listen, don't go feeling sorry for them.\nIf you sympathize, the spirit will take advantage of you.\nWhat I'm about to tell you is the story of a guy who went through hell just because he felt sorry for a spirit.\nThe captain of the basketball club is in my class.\nAnd our basketball club has a certain legend.\nBasketball's a popular sport these days, sure.\nBut about ten years ago, even getting enough members together was a struggle.{p}"
+  },
+  {
+   "id": "03:16a8",
+   "op": "text",
+   "en": "Back then, a guy named Yoshiki Tadokoro was the captain.\nThat year, too, they couldn't find any good new recruits, and he was racking his brains over how to make the team stronger.\nTadokoro wanted to make it to the national tournament somehow, and he was desperate.\nThat's when a much-hyped new recruit joined the track club.{p}"
+  },
+  {
+   "id": "03:179c",
+   "op": "text",
+   "en": "The new kid's name was Kawaguchi.\nIn junior high, Kawaguchi was a sprinter who got a fair bit of attention.\nWhat caught Tadokoro's eye was Kawaguchi's height.\nA full 185 centimeters.\nPretty impressive, right?\nAs a sprinter, Kawaguchi had explosive speed, and with some pretty solid marks in the long jump, had great leaping ability too.\nExactly the kind of talent you'd want to make a team stronger.{p}",
+   "returns": []
+  },
+  {
+   "id": "03:18ec",
+   "op": "text",
+   "en": "So Tadokoro tried to land Kawaguchi no matter what it took.\nBut the track club wasn't going to just sit back and let that happen, right?\nKawaguchi was the track club's great hope for an ace in the first place.\nHaving the basketball club steal their star would be a raw deal.\nEven when they warned him, Tadokoro's recruiting just kept escalating.{p}"
+  },
+  {
+   "id": "03:1a14",
+   "op": "text",
+   "en": "Finally fed up, the third-years in the track club called Tadokoro out and beat him up. It was practically a lynching.\nBut that Tadokoro guy had some real guts.{p}What do you think he did?\n"
+  },
+  {
+   "id": "03:1ab4",
+   "op": "choice",
+   "en": "Told a teacher about it"
+  },
+  {
+   "id": "03:1acc",
+   "op": "choice",
+   "en": "Told Kawaguchi what the track club was really like"
+  },
+  {
+   "id": "03:1ae8",
+   "op": "choice",
+   "en": "Photographed his own beating and blackmailed the track club with it"
+  },
+  {
+   "id": "03:1b28",
+   "op": "text",
+   "en": "That's right.\nTadokoro had somebody take pictures of him getting beaten, then turned the tables and used them to blackmail the track club.{p}",
+   "follows_choice": [
+    "03:1ae8"
+   ]
+  },
+  {
+   "id": "03:1b98",
+   "op": "text",
+   "en": "Even the track club guys had to throw in the towel on that one.\nThey stopped laying a hand on Tadokoro after that.{p}"
+  },
+  {
+   "id": "03:1c10",
+   "op": "text",
+   "en": "But the real problem was how Kawaguchi felt.\nNo matter how hard he recruited, if Kawaguchi had no interest in playing basketball, it was pointless.{p}So how do you think Kawaguchi actually felt?\n"
+  },
+  {
+   "id": "03:1ca8",
+   "op": "choice",
+   "en": "Didn't want to quit track"
+  },
+  {
+   "id": "03:1cc0",
+   "op": "choice",
+   "en": "Wanted to join basketball"
+  },
+  {
+   "id": "03:1cd4",
+   "op": "choice",
+   "en": "Actually didn't really want to do sports"
+  },
+  {
+   "id": "03:1cfc",
+   "op": "text",
+   "en": "Kawaguchi had been doing track ever since junior high.{p}",
+   "follows_choice": [
+    "03:1ca8"
+   ],
+   "returns": []
+  },
+  {
+   "id": "03:1d30",
+   "op": "text",
+   "en": "On top of that, Kawaguchi had set a string of records, and had the results and the confidence to show for it.\nWhat reason would there be to quit?\nNo way Kawaguchi would want to quit.\nThat's also why the track club guys decided to just leave Tadokoro alone.{p}"
+  },
+  {
+   "id": "03:1dec",
+   "op": "text",
+   "en": "Even so, Tadokoro clung on for dear life.\nHe stuck to Kawaguchi's side and wouldn't leave, almost like a lover.{p}"
+  },
+  {
+   "id": "03:1e64",
+   "op": "text",
+   "en": "Eventually, even the basketball club guys got fed up with Tadokoro's methods.\nThen, one or two at a time, members started quitting the club.\nMaybe they never liked basketball all that much to begin with.\nTadokoro didn't miss guys like that, either.\nHis head was already full of nothing but Kawaguchi.\nIt was like he thought landing Kawaguchi alone would clinch the championship.\nStill, that's not realistic, right?\nAnd then, little by little, rumors about Tadokoro started reaching the teachers' ears.\nI mean, members really were quitting one after another, and the captain never showed up to practice because he was off chasing after Kawaguchi.\nAnd finally, Tadokoro got kicked out as captain.\nWhich was only natural, but Tadokoro couldn't understand it.\nHe was pouring so much passion into basketball, so why didn't anybody understand that? He just couldn't figure it out.\nWell, I guess that's what you call twisted passion.\nGuys like that are seriously scary when you make 'em mad.{p}What do you think he did?\n"
+  },
+  {
+   "id": "03:21b0",
+   "op": "choice",
+   "en": "Went to complain to a teacher"
+  },
+  {
+   "id": "03:21cc",
+   "op": "choice",
+   "en": "Harassed the new captain"
+  },
+  {
+   "id": "03:21f8",
+   "op": "choice",
+   "en": "Decided to quit the basketball club"
+  },
+  {
+   "id": "03:2214",
+   "op": "text",
+   "en": "Believe it or not, Tadokoro quit the basketball club.\nHe loved basketball, loved it more than anything.{p}",
+   "follows_choice": [
+    "03:21f8"
+   ]
+  },
+  {
+   "id": "03:2278",
+   "op": "text",
+   "en": "But the school's basketball club didn't just fail to understand that, it even got in his way.\nHe figured they were jealous of his talent, or else it was harassment from the other, talentless members.\nHonestly, selfish people are selfish all the way down.\nThey only ever see things the way that suits them.\nThe guy was practically a psycho.\nSo he decided that sticking with basketball alongside such twisted people wasn't good for him.\nHonestly, who's the twisted one here?{p}"
+  },
+  {
+   "id": "03:2438",
+   "op": "text",
+   "en": "So in the end, he decided to quit the club.\nNobody objected.\nIf anything, they were glad.\nThe guy getting in the way would be gone, they figured.\nBoth sides thought the other one was in the way, so I guess in a way everybody was happy.\nIt all worked out in the end, after all.{p}"
+  },
+  {
+   "id": "03:2538",
+   "op": "text",
+   "en": "So he went to clear his stuff out of the club room.\nAnd not just his own locker, either. He tore through the whole room.\nHe figured if there was anything useful, he'd just help himself to it.\nWhat a total lowlife, huh?\nSo, like it was spring cleaning, he turned over everything from the desks to the lockers, rummaging around for this and that.\nIt was less like cleaning and more like he was rampaging through the club room, trashing the place.\nAnd when he dragged one of the lockers out, he found a single grimy notebook in the gap behind it.{p}"
+  },
+  {
+   "id": "03:26fc",
+   "op": "text",
+   "en": "The spot for the name was stained, so he couldn't make out whose it was.\nWhen he opened it, it was full of all kinds of stuff about the basketball club from back in the day.\nSome senior from generations back must've written down what happened in the club, like keeping a diary.\nAt first he was just idly flipping through it, but little by little, he got drawn into what it said.{p}So what do you think was written in it?\n"
+  },
+  {
+   "id": "03:2864",
+   "op": "choice",
+   "en": "Gripes and complaints about the basketball club"
+  },
+  {
+   "id": "03:2880",
+   "op": "choice",
+   "en": "Something about Tadokoro"
+  },
+  {
+   "id": "03:2890",
+   "op": "choice",
+   "en": "How to summon a demon"
+  },
+  {
+   "id": "03:28a4",
+   "op": "choice",
+   "en": "An incident that caused trouble years ago"
+  },
+  {
+   "id": "03:28bc",
+   "op": "text",
+   "en": "At first, it was all about how much the writer loved basketball.\nPassion for basketball, plus all kinds of research on effective practice methods and even diet.{p}",
+   "follows_choice": [
+    "03:2864"
+   ]
+  },
+  {
+   "id": "03:2970",
+   "op": "text",
+   "en": "Tadokoro was moved by it.\nBy the fact that there'd once been a senior in this very club room who loved basketball more than anything, just like he did.\nBut as he kept reading, wouldn't you know it, things started going in a strange direction.\nIt turned into gripes and complaints: the people around him didn't understand his love for basketball, the other members didn't share his commitment, that kind of thing.\nAnd then that turned into bitter words cursing the members and the teachers, and helpless rage.\nIt was exactly how Tadokoro felt right now.\n\"There was a senior who felt the same way I do...\"\nTadokoro lost all track of time, absorbed in that notebook.\nAnd the notebook ended with the writer saying he would kill himself in the gym and take revenge on everyone.\nAnd then...{p}"
+  },
+  {
+   "id": "03:2c2c",
+   "op": "text",
+   "en": "'P.S. To a kindred spirit who feels as I did.\nIf you should ever read this notebook, I want to help you.\nAt two in the morning, in the gym, call out that you want help.'\nThat's what it said.\nYou can't imagine how shocked Tadokoro was.{p}"
+  },
+  {
+   "id": "03:2d08",
+   "op": "text",
+   "en": "And at the same time, he was trembling with joy.\nHe wanted to meet the person who wrote this notebook so badly he couldn't stand it.\nAnd if he could meet him, his problems were sure to be solved.\nHe never stopped believing that.\nTadokoro was completely convinced that the notebook existed just for him.\nThe notebook was Tadokoro's now.\nSo he went to the gym.{p}"
+  },
+  {
+   "id": "03:2e44",
+   "op": "text",
+   "en": "Well, of course he did.\nBut can you believe it?\nThe guy he wanted to meet was dead.\nAnd a total stranger, to boot.\nSneaking into school in the middle of the night just to meet somebody like that? I sure wouldn't want to.\nThen again, maybe only a psycho like Tadokoro would.\nAt exactly two in the morning, Tadokoro went to the gym.\nAnd under the basketball backboard, he shouted.{p}"
+  },
+  {
+   "id": "03:2f9c",
+   "op": "text",
+   "en": "\"I need help!\nYou, my senior, who felt the same way I do!\nPlease, help me!\"{p}...What do you think happened?\n",
+   "returns": []
+  },
+  {
+   "id": "03:300c",
+   "op": "choice",
+   "en": "The senior's ghost appeared"
+  },
+  {
+   "id": "03:3020",
+   "op": "choice",
+   "en": "He heard only a voice"
+  },
+  {
+   "id": "03:3038",
+   "op": "choice",
+   "en": "It's too frightening for me to even imagine"
+  },
+  {
+   "id": "03:3058",
+   "op": "text",
+   "en": "...No voice answered.\nI mean, that notebook was fishy to begin with.\nIt could've been somebody's prank.\nThat's what anybody would normally think, right?\nBut Tadokoro didn't give up.\nAnd he shouted again.\n\"Please! I'm begging you!\nHelp me!\nI want to meet you!\"\nHe was grasping at straws.\nTadokoro wished from the bottom of his heart to meet him.{p}",
+   "follows_choice": [
+    "03:3020"
+   ],
+   "returns": []
+  },
+  {
+   "id": "03:31c4",
+   "op": "text",
+   "en": "And then, guess what?\n\"...I'm so happy.\nTo think someone would call me this soon...\"\nA voice actually answered!\nBut there was no one to be seen.\nTadokoro looked all around.\nMaybe it was because it was dark, but he couldn't see a thing.\nTadokoro reached for the switch to turn on the lights.\n\"Don't turn them on!\"\nThat's what the voice said.\nMaybe it didn't want to be seen.\nThinking that, Tadokoro pulled his hand back.\nThere was still no one to be seen.\nEven so, Tadokoro was happy.\nAfter all, he'd met a person who felt the same way he did.\n...Oops, not a person. A ghost.\nAfter that, the two of them talked for a while in the gym in the dead of night.\nAbout how much each of them loved basketball, and why other people couldn't understand that.{p}"
+  },
+  {
+   "id": "03:3470",
+   "op": "text",
+   "en": "\"I understand how you feel...\nI understand it so well it hurts.\nI can feel it like it's right in my hands.\"\nThe bodiless voice sympathized with Tadokoro.\nAnd it told him how bitter it had felt, too.\n\"I understand, I really do.\nIt must have been so frustrating.\nIf I'd been there back then, I definitely could have helped you.\nWhen I think that I couldn't help you, I'm so sad I can't stand it.\"\nThe two of them talked until dawn.\nAnd as the sun was coming up, the voice said:\n\"...Now, go on home for today.\nI have to go back too.\nIf you'd like, come anytime.\nThere's only so much I can do, but I want to help you, little by little.\"\n\"Thank you so much!\"\nAnd then the voice was gone.{p}",
+   "returns": []
+  },
+  {
+   "id": "03:36e4",
+   "op": "text",
+   "en": "Tadokoro was overjoyed.\nIt felt like he'd found a true friend.\nIt wouldn't be going too far to call him a mentor for life.{p}"
+  },
+  {
+   "id": "03:3774",
+   "op": "text",
+   "en": "And then night came again.{p}What do you think Tadokoro did?\n"
+  },
+  {
+   "id": "03:37a8",
+   "op": "choice",
+   "en": "Went to the gym again that night too"
+  },
+  {
+   "id": "03:37c0",
+   "op": "choice",
+   "en": "For no particular reason, didn't go that night"
+  },
+  {
+   "id": "03:37e0",
+   "op": "choice",
+   "en": "Something happened to come up that night, so he couldn't go"
+  },
+  {
+   "id": "03:3814",
+   "op": "text",
+   "en": "No way he wouldn't go.\nNo matter what came up, Tadokoro would've gone.\nHe could hardly wait for two in the morning.\nAfter that, for a while, their secret late-night meetings went on almost every day.{p}",
+   "follows_choice": [
+    "03:37a8"
+   ]
+  },
+  {
+   "id": "03:38c4",
+   "op": "text",
+   "en": "Even on Sundays.\nAs those days went on, Tadokoro gradually started getting frustrated.\nJust talking wasn't enough for him anymore.{p}"
+  },
+  {
+   "id": "03:3950",
+   "op": "text",
+   "en": "Here he had someone who understood him, and yet he couldn't do anything.\nThen he remembered what was written in that notebook.\nThe senior had said he would help.\nIf so, Tadokoro wanted that help right now.{p}"
+  },
+  {
+   "id": "03:3a14",
+   "op": "text",
+   "en": "So that night, Tadokoro asked the voice.\nHe asked it to help him.\n\"I see.\n...There's only so much I can do.\nBut you're just like me, aren't you?\nI suppose I could help you.\n...Yes, you're worth helping.\"\n\"Really?!\"\nTadokoro jumped for joy.\n\"...Yes, really.\nBut if I'm going to help you, I'll have to show myself.\nI'm going to appear in front of you now, so would you keep your eyes closed until I say it's okay?\"\n\"Okay. I will.\"{p}"
+  },
+  {
+   "id": "03:3bd8",
+   "op": "text",
+   "en": "Tadokoro closed his eyes.\nIt was pitch-dark either way.\nHe couldn't see a thing.\nBut, you know, you can still feel a presence.\nHe could feel it with his whole body: something had appeared right in front of him.\nYou could call it a chill, I guess.\nThat feeling where your whole body starts shaking even though it isn't cold.\nSomething had definitely appeared in front of him.\n\"...All right, you can look now.\"\nThe voice came right by his ear.\nNot the faint voice from before, the one he couldn't tell where it was coming from, but a voice clearly whispering right in his ear.{p}So, should he open his eyes?\n"
+  },
+  {
+   "id": "03:3d74",
+   "op": "choice",
+   "en": "Open his eyes"
+  },
+  {
+   "id": "03:3d80",
+   "op": "choice",
+   "en": "Keep them shut a bit longer"
+  },
+  {
+   "id": "03:3d98",
+   "op": "text",
+   "en": "Tadokoro swallowed hard.\nAnd then he opened his eyes all at once.{p}",
+   "follows_choice": [
+    "03:3d74"
+   ]
+  },
+  {
+   "id": "03:3df8",
+   "op": "text",
+   "en": "\"Aaaaaghh!\"{p}"
+  },
+  {
+   "id": "03:3e20",
+   "op": "text",
+   "en": "What stood before him was himself, rotted all the way through.\nHimself, so changed he looked like a corpse that had crawled out of its grave.\nYou know what a doppelganger is?\nIt's your other self.\nThey say if you meet it, you'll die before long.{p}"
+  },
+  {
+   "id": "03:3f20",
+   "op": "text",
+   "en": "...The next day, Tadokoro was found dead in the gym.\nThey say his face was frozen in terror, too hideous to look at twice.\nIn the end, they settled it as Tadokoro losing his mind and killing himself in the gym.\nThe cause of death is unknown.\nOfficially, they're calling it a heart attack.{p}"
+  },
+  {
+   "id": "03:4050",
+   "op": "text",
+   "en": "...That's the story they pass down in the basketball club.\nHow does anyone know it, if Tadokoro died, you ask?\nHeh heh heh... What do you think happened to that notebook?\nI hear it's still somewhere in the basketball club.\nThough they say it's not easy to find, even if you go looking.\nAnd what's more, there's a second volume.\nOf course, as for who wrote the second one... you know, don't you?\nAnd what was written in it, too.\nThe story goes that someone found it by chance and read it.\nThat's why this story keeps getting passed down.\nYou do sports, right?\nI don't know what you play, but don't overdo it.{p}",
+   "returns": []
+  },
+  {
+   "id": "03:4274",
+   "op": "text",
+   "en": "...By the way, do you have an older brother?\n"
+  },
+  {
+   "id": "03:429c",
+   "op": "choice",
+   "en": "Yes"
+  },
+  {
+   "id": "03:42a4",
+   "op": "choice",
+   "en": "No"
+  },
+  {
+   "id": "03:42ac",
+   "op": "text",
+   "en": "So you do, huh.\nThen let me tell you something interesting.\nThe one who took the photos of Tadokoro getting beaten up by the track team... I hear the name was {a}.{p}",
+   "follows_choice": [
+    "03:429c"
+   ]
+  },
+  {
+   "id": "03:4348",
+   "op": "text",
+   "en": "Could just be a coincidence, but that sounds a lot like you, doesn't it?\nMaybe your brother was...\nNext time, try asking your brother.{p}"
+  },
+  {
+   "id": "03:43c8",
+   "op": "text",
+   "en": "Ask whether he's got some secret he's hiding.\nAnd then, if your brother goes pale...\nHeh heh, you'd better watch yourself too.\nThat's the end of my story.\nLet's hear the next one.{p}",
+   "returns": []
+  },
+  {
+   "id": "03:4480",
+   "op": "text",
+   "en": "I see.\nBut there must be times you think you'd like to, right?\nListen, {a}.{p}",
+   "follows_choice": [
+    "03:0dc0"
+   ]
+  },
+  {
+   "id": "03:44c8",
+   "op": "text",
+   "en": "If you're thinking about starting a sport at this school... there's something I want to warn you about.\nAt our school, people who play sports have had all kinds of encounters with spirits.\nThere's a lot of dangerous stuff going on.\nSports are about pushing yourself to your limits, right?\nIt's an all-out, serious contest.\nSo the passion of people who play sports is something else.{p}"
+  },
+  {
+   "id": "03:4620",
+   "op": "text",
+   "en": "You know this?\nWhen a person's will is strong, spirits are more likely to go after them.\nThere are spirits that slip into the cracks in your heart, like wanting to get stronger or wanting to beat somebody, and do their dirty work.\nTo avoid that, you need a heart strong enough to throw spirits off.\n{a}, you'd better build up a heart like that too.\nIt'd be stupid to stay out of the sports clubs just because spirit stuff happens more there.{p}",
+   "returns": []
+  },
+  {
+   "id": "03:4778",
+   "op": "text",
+   "en": "Still, no matter how strong your heart is, there are plenty of ways to fall into a trap.\nSo on top of a strong heart, you need to keep your eyes open too...\nLet me tell you about a certain athlete.\nThe boys' volleyball team at our school went away to summer training camp.\nThe camp lodge is one of our school's facilities.{p}"
+  },
+  {
+   "id": "03:48a0",
+   "op": "text",
+   "en": "It's a building that came with some land the school bought, and they just use it as is.\nIt's up in the mountains, and apparently it used to be a school.\nIt's wooden, a shabby old building that looks like it could fall apart any minute.\nBut since it was a school, it's got a gym.\nSo the clubs use it a lot for training camps.{p}"
+  },
+  {
+   "id": "03:49ac",
+   "op": "text",
+   "en": "...If you join a sports club, you might end up going there for camp too.\nThe roof leaks and the walls are covered in stains. It's seriously creepy.\nAnd you lay out futons and sleep right there.\nMaybe it's the perfect place for some sweat-and-guts sports drama.\nBut I hear things show up a lot when you go there for camp.\nWhat shows up?\nSpirits, obviously.\nEveryone says you hear a woman crying, or moaning, or that there's a human-shaped stain on the wall.\nSo, about that boys' volleyball camp.\n.........{p}"
+  },
+  {
+   "id": "03:4b98",
+   "op": "text",
+   "en": "The camp ended without a hitch.\nBut when they got back to school, there was one more ball than before.\nThe first-year who was sorting the club's equipment noticed something was off.\nBut he thought it might just be his imagination, so he didn't tell anyone.\nThat's when it all started.{p}"
+  },
+  {
+   "id": "03:4ca0",
+   "op": "text",
+   "en": "Players started getting hurt, one after another, during practice.\nAt first it was just scrapes from falling, or twisted ankles.\nBut as time went on, there were accidents like torn Achilles tendons and broken bones.\nThat went on for about a month, and everyone started to think something was strange.\nSo the team members thought it over.\nThe injuries on the boys' volleyball team had started... right around when they... got back from camp.\nThen one day, there was a practice match against another school.\nThey invited the volleyball team from a nearby high school to play at our school...{p}"
+  },
+  {
+   "id": "03:4e88",
+   "op": "text",
+   "en": "During that match, a player from the other school got hurt.\nOne of our team members accidentally jabbed a finger into that player's eye during the game.\nWell, it only scratched the surface of the eye, so it didn't turn into anything serious.{p}"
+  },
+  {
+   "id": "03:4f64",
+   "op": "text",
+   "en": "After that, a first-year on the team started saying the ball was what was suspicious.\nWhen they got back from camp, there'd been one extra ball.\nEveryone scratched their heads, wondering if there had even been any balls at the camp lodge.\nBut if it was true, they decided they'd better do something about that ball.\nEveryone figured that if it came from that lodge, it being cursed made perfect sense.\nBut the club had about twenty balls in storage.\nThere was no way to tell which one was the extra.\nStill, they couldn't afford any more accidents.\nSo, just to be safe, they threw out every ball the boys' volleyball team had at the time.\nThen they went and bought twenty brand-new balls.\nAnd after that, the accidents at practice stopped dead.\nStrange things happen, huh?\nEveryone kept telling each other what a scary business that had been.\nBut then...\nOne day, about two weeks later, there was one extra ball in the club's stock again.\nThis time, they could tell exactly which one it was.{p}"
+  },
+  {
+   "id": "03:52fc",
+   "op": "text",
+   "en": "Because among the newly bought balls, there was one single ball that was old and filthy.{p}That's right, the cursed ball had come back...\n"
+  },
+  {
+   "id": "03:537c",
+   "op": "choice",
+   "en": "Have it exorcised"
+  },
+  {
+   "id": "03:538c",
+   "op": "choice",
+   "en": "Throw the ball out again"
+  },
+  {
+   "id": "03:53a0",
+   "op": "text",
+   "en": "They couldn't let there be any more victims.\nThat's what everyone thought, so they decided to have an exorcism done.\nOne of the members saw an ad tucked in the corner of a magazine and brought in an exorcist.\nAnd the exorcist started saying something like this:\n\"This ball is possessed by the spirit of a student who died in an accident.\nIt seems he was on a volleyball team, and was hit by a car on his way to an important match.\nIt's better to perform the exorcism at night.\nI'll come back here tonight, and I'd like one of you to come along with me then...\"\nSo a first-year on the team ended up going with the exorcist.{p}",
+   "follows_choice": [
+    "03:537c"
+   ]
+  },
+  {
+   "id": "03:55b4",
+   "op": "text",
+   "en": "He was the one who'd first noticed there was an extra ball after camp.\nHis name was... Matsumoto, I think.\nMatsumoto was the great hope of the boys' volleyball team.\nHe'd been playing volleyball since elementary school.\nHis father was a P.E. teacher, and apparently taught him all kinds of things.\nHe was tall, and his jumping ability was outstanding.\nPlus, in middle school, he'd been on the team that won the Tokyo tournament.\nMatsumoto had a good personality, too.\nNobody would want to go along to an exorcism at school at night, right?\nBut when it came up, he was the first to volunteer.\nAnd so Matsumoto arranged to meet the exorcist at the school that night.{p}",
+   "returns": []
+  },
+  {
+   "id": "03:57ec",
+   "op": "text",
+   "en": "It was a chilly day, right as autumn was setting in.\nMatsumoto showed up about twenty minutes before the agreed time.\nBut the exorcist was already standing at the school gate.\n\"I've been waiting for you...\"\nThe exorcist said that with a smile.\nSeeing it, Matsumoto shuddered.\nIt should have been nothing but a polite smile, but he couldn't help finding the exorcist creepy.\nHe only felt that way because the school was scary at night.\nThat's what Matsumoto told himself.\nThe exorcism was to be held in the gym.{p}"
+  },
+  {
+   "id": "03:59bc",
+   "op": "text",
+   "en": "The two of them crossed the schoolyard, one step at a time.\nHeading for the gym, Matsumoto felt a chill creeping up his spine, colder and colder.\nThere wasn't any wind, yet it felt like something was passing across his back.\nIt felt like something cold was licking at him from behind. Swish... swish...\nAnd then, when the two of them entered the gym...{p}"
+  },
+  {
+   "id": "03:5ae8",
+   "op": "text",
+   "en": "A ball was lying all alone on the floor.\nIt was that cursed ball.\nAt noon that day, they were sure they'd put the ball away in the gym storeroom.\nSo why was it here now...?\n"
+  },
+  {
+   "id": "03:5b9c",
+   "op": "text",
+   "en": "Matsumoto started shaking violently.\nBut he couldn't very well go home now.\n\"Well then, Matsumoto.\nLet's begin the exorcism.\"\nThe exorcist was grinning.\nWhy was the exorcist grinning?\nWhat was this person grinning about...?\n\"Matsumoto... I'm so happy.\nTo think you'd help someone like me.\nNow, pick up the ball over there.\nAnd hold it tight against your chest.\"{p}"
+  },
+  {
+   "id": "03:5d18",
+   "op": "text",
+   "en": "Matsumoto did as the exorcist said.\nOr rather, it felt like his body moved on its own.\nSomething was wrong with this exorcist.\nEven thinking that, he couldn't resist.\n\"Now, pray while you hold the ball.\nFor the spirit of the athlete who never got his due.\nSave him, with your pure heart that loves sports...\"\nMatsumoto prayed with all his might.\nIf he'd been killed in a car accident before a match, he might not be able to rest in peace either.\nMatsumoto could feel that athlete's bitterness as clearly as if it were his own.{p}"
+  },
+  {
+   "id": "03:5eec",
+   "op": "text",
+   "en": "\"Ah... Matsumoto.\nI'm so happy... thank you.\nThank you... You understand how I feel, don't you...\"\nBefore long, the exorcist started saying things like that.\n\"More... pray more...\nThen I can rest in peace... and the ball's curse will be lifted.\nIf I, if only I can rest in peace...\"\nThe exorcist's form changed into a boy in a gym uniform, blurred in a faint white haze.\nMatsumoto kept praying desperately.\n\"Thank you. Thank you.\nThank you...\"\nThe boy in the gym uniform faded into the haze and vanished...\nAt the same moment, the ball in Matsumoto's hands vanished too.{p}"
+  },
+  {
+   "id": "03:610c",
+   "op": "text",
+   "en": "All that was left was Matsumoto, alone in the gym at night...\nDo you get what that means?\nThe spirit of the athlete who'd cursed the ball had shown up disguised as the exorcist.\nAnd he'd gotten Matsumoto to pray his soul to rest.\nApparently the real exorcist who'd taken the job got into a car accident and never made it.\nThe whole thing had been set up by the athlete's spirit.{p}"
+  },
+  {
+   "id": "03:6270",
+   "op": "text",
+   "en": "...Whoa, the story doesn't end there.\nIt's about Matsumoto.\nThe moment the athlete's spirit passed on, Matsumoto felt a violent pain in his legs and arms.\nBut there was no calling for help in the gym at night, and they say he writhed all alone on the cold floor.\nMatsumoto couldn't stand.\nThe pain in his legs and arms was so bad he couldn't even crawl.\nBefore long, his eyes started to hurt too.\nAnd then Matsumoto passed out...\nThe next day, Matsumoto was found collapsed.\nThe bones in his legs and arms were broken.\nHis ankles had been twisted, and his Achilles tendons were torn.\nHe was covered in bruises and wounds, and the surface of his eyes was scratched...\nThat's right. It was everything that had happened to the people the ball's curse had hurt.\nAll of it hit Matsumoto at once.\nAnd the people hurt by the ball's curse all made a full recovery.\nAs the price for lifting the ball's curse, Matsumoto ended up sacrificing his own body...{p}"
+  },
+  {
+   "id": "03:65b0",
+   "op": "text",
+   "en": "How about that, {a}?\nSports are great.\nBut if you go to this school, you've got to stay careful even during club practice.\nDon't go sticking your nose into anything reckless.\nThough I'd say this seven wonders interview of yours is already pretty death-defying.\nThat's as far as my story goes.\nWant to hear the next one...?{p}"
+  },
+  {
+   "id": "03:66cc",
+   "op": "text",
+   "en": "The boys' volleyball team decided to throw the cursed ball out again.\nThey wrapped the ball in cloth, tied it up tight with string, and threw it into the incinerator.\nAnd then... the cursed ball came flying out of the blazing flames.{p}",
+   "follows_choice": [
+    "03:538c"
+   ]
+  },
+  {
+   "id": "03:67c0",
+   "op": "text",
+   "en": "The ball rolled by itself across the schoolyard, all the way to the volleyball club room.\nThe club room door was shut at the time.\nBut the ball slipped right through the door and got inside.\nThen it set the club room on fire, starting a small blaze.\nThe members scrambled to put it out.\nLuckily, the fire went out quickly.\nBut...{p}"
+  },
+  {
+   "id": "03:68e8",
+   "op": "text",
+   "en": "Black soot and scorch marks were left caked onto the charred club room wall.\nAnd those scorch marks...\nWere in the shape of a person.\nThey say the shape looked just like the stain on the wall at the camp lodge.\nWhat shape do you think it was?{p}"
+  },
+  {
+   "id": "03:69d8",
+   "op": "text",
+   "en": "...That's right, it was shaped like an athlete holding a ball.\n"
+  },
+  {
+   "id": "03:6a18",
+   "op": "text",
+   "en": "Long ago, when that camp lodge was still a school, a volleyball player apparently died in an accident.\nThat spirit must have seen our school's camp and envied them.\nIt turned itself into a ball and followed everyone back.\nIt hurt everyone because it wanted them to notice it was there.{p}"
+  },
+  {
+   "id": "03:6b54",
+   "op": "text",
+   "en": "And they did notice, all right.\nBut instead of laying the spirit to rest, they threw it into the incinerator...\nWell, I'd say the spirit went about it the wrong way too.\nIn the end, that spirit held a grudge over how the team treated it and became an earthbound spirit.\nApparently that club still gets a lot of injuries even now.\n.........{p}"
+  },
+  {
+   "id": "03:6c68",
+   "op": "text",
+   "en": "Listen, {a}.\nA strong heart and a watchful eye. That's what matters.\nIf you're going to start a sport, that is...\nThat's as far as my story goes.\nWho's telling the next one...?{p}"
+  },
+  {
+   "id": "03:6cec",
+   "op": "text",
+   "en": "I see...\nEveryone who doesn't play sports gives that answer.\nLike they're scrambling to cover it up.\nNobody's saying it's bad not to play sports.\nWell, whatever.{p}",
+   "follows_choice": [
+    "03:0dd0"
+   ]
+  },
+  {
+   "id": "03:6d9c",
+   "op": "text",
+   "en": "That's right.\nTadokoro got someone to take photos of him being beaten, and went to show them to a teacher.{p}",
+   "follows_choice": [
+    "03:1ab4"
+   ]
+  },
+  {
+   "id": "03:6e04",
+   "op": "text",
+   "en": "That's exactly it.\nTadokoro got someone to take photos of him being beaten, and went to show them to Kawaguchi.{p}",
+   "follows_choice": [
+    "03:1acc"
+   ]
+  },
+  {
+   "id": "03:6e8c",
+   "op": "text",
+   "en": "And he tried to talk Kawaguchi into quitting the track team and coming over to basketball.\nBut Kawaguchi figured the track seniors must have had some reason for doing this.\nAfter all, the track seniors had always been kind to Kawaguchi.\nThe way Kawaguchi saw it, they'd done what was in those photos to protect Kawaguchi from Tadokoro's clutches.\nSo this is what Kawaguchi told Tadokoro:\nKawaguchi wouldn't be joining basketball.\nBut Tadokoro didn't give up.\nAfter that, he kept coming around to see Kawaguchi, still pushing for the basketball team.{p}"
+  },
+  {
+   "id": "03:7044",
+   "op": "text",
+   "en": "You think so?\nKawaguchi had been doing track ever since middle school.{p}",
+   "follows_choice": [
+    "03:1cc0"
+   ],
+   "returns": []
+  },
+  {
+   "id": "03:7084",
+   "op": "text",
+   "en": "Well, it seems that was true at first.\nKawaguchi's old man used to hold a sprint record back in the day.\nKawaguchi got into track because of the old man.\nIt seems it was grudging at first, but the kid had talent.\nAfter setting record after record, Kawaguchi started taking sprinting seriously, the story goes.\nSo no matter how hard Tadokoro recruited, Kawaguchi's mind didn't change.{p}",
+   "follows_choice": [
+    "03:1cd4"
+   ]
+  },
+  {
+   "id": "03:71f0",
+   "op": "text",
+   "en": "Tadokoro went to complain to the club's advisor.\nBut that didn't change anything.\nHe was told the captain business had been decided by the members, so if he didn't like it, he should talk it over with all of them.{p}",
+   "follows_choice": [
+    "03:21b0"
+   ]
+  },
+  {
+   "id": "03:72a8",
+   "op": "text",
+   "en": "Tadokoro talked to the team members.\nHe asked them to make him captain again.\nBut everyone kept their mouths shut and said nothing.\nTadokoro was so frustrated he couldn't stand it.\nHe loved basketball, loved it more than he could bear.{p}"
+  },
+  {
+   "id": "03:736c",
+   "op": "text",
+   "en": "Tadokoro started harassing whoever had become the new captain.\nTripping the new captain during practice, deliberately passing on club notices wrong and then blaming the captain for it...\nAll kinds of nasty, underhanded tricks.{p}",
+   "follows_choice": [
+    "03:21cc"
+   ]
+  },
+  {
+   "id": "03:7434",
+   "op": "text",
+   "en": "Hey, {a}.\nYou know the word 'sportsmanship,' right?\nYou always hear it at the opening ceremonies of school sports days and track meets.\n\"We, the athletes, pledge to compete fair and square in the spirit of sportsmanship...\"\nThe athletes' oath, they call it.\nIf anything sums up a true sportsman, it's those words.\nAnyone who loves sports should face everything fair and square.{p}"
+  },
+  {
+   "id": "03:759c",
+   "op": "text",
+   "en": "Someone who pulls underhanded stuff like Tadokoro can't be called a sportsman.\nThe team members' resentment of Tadokoro grew even stronger...\nAnd without anyone in particular starting it, they began ignoring Tadokoro.\nBy the time Tadokoro noticed, nobody around him would have anything to do with him.\nHe must not have liked that.\nHe turned into an even nastier piece of work.\nAnd finally, he quit the basketball team.\nNobody objected.\nIf anything, I bet they were glad.\nIn basketball, teamwork matters more than anything.\nSomeone like Tadokoro, with skill but no team spirit, was nothing but dead weight.\nAnd that dead weight was going away.\nEveryone thought that would settle everything nicely.{p}"
+  },
+  {
+   "id": "03:77fc",
+   "op": "text",
+   "en": "So, about Tadokoro after he quit the basketball team...\nAfter quitting, I hear he secretly started a new club.{p}"
+  },
+  {
+   "id": "03:7888",
+   "op": "text",
+   "en": "And that club was no good at all.\nCalling it club activities, he harassed athletes from the sports clubs who were in the spotlight.\nLetting the air out of soccer balls, cutting the strings of tennis rackets, putting thumbtacks in spiked shoes...{p}"
+  },
+  {
+   "id": "03:798c",
+   "op": "text",
+   "en": "He went around saying,\n\"We save talented students the world doesn't understand!\"\nor some such, but talk about a brat with a twisted grudge.\nTeachers and the captains of the sports clubs warned him again and again, but Tadokoro's harassment just kept getting nastier.\nIt had no effect at all.\nWell, if he'd been the type to quietly listen to warnings, it would never have come to this.\nThe school couldn't keep quiet about it anymore.\nTadokoro was going to be forced to transfer, right before graduation.\nAnd he got furious.\n\"I'll never leave this school!\"\nHe said that and ran out of the classroom, and he still hadn't come back by the end of the school day.{p}"
+  },
+  {
+   "id": "03:7bd0",
+   "op": "text",
+   "en": "It was the next morning that Tadokoro was found in the gym, dead, hanging by the neck.\nA basketball team member who'd come in for morning practice found him.\nThey say next to him was a suicide note, filled line after line with sarcasm and spite.{p}"
+  },
+  {
+   "id": "03:7cbc",
+   "op": "text",
+   "en": "What a pain that guy was, right to the very end.\nYou think so too, don't you?\nAnd on top of that, Tadokoro kept causing nothing but trouble even after he died.\nHaven't you ever noticed how many people in our sports clubs get hurt?\nSure, if you train hard, a couple of injuries might be only natural.\nBut there are way too many unnatural accidents.\nLast year, a tennis player who won the singles title fell down the stairs the very next day and sprained an ankle.\nThat player swore,\n\"Somebody pushed me!\"\nand stuck to that story.\nEven though there was nobody around.\nThere was also someone who got locked in the gym storeroom.\nEven though... it doesn't even have a lock.{p}"
+  },
+  {
+   "id": "03:7ef0",
+   "op": "text",
+   "en": "Weird, right?\nThere are tons of incidents like that.\nAnd they only ever target the aces of the sports clubs.\nSo, without anyone in particular starting it, people began saying the whole string of accidents and incidents was Tadokoro's doing.\n\"I had talent, and nobody understood me.\"\nThat's the grudge he takes out on the other aces, they say, by getting them hurt.{p}"
+  },
+  {
+   "id": "03:8014",
+   "op": "text",
+   "en": "{a}, you do sports, right?\nI don't know what you play, but be careful.\nIf you're making too big a splash, Tadokoro will have his eye on you.\nWell then, let's hear the next person's story...{p}"
+  },
+  {
+   "id": "03:80d8",
+   "op": "text",
+   "en": "Close, but no.\nWhat was written there was the story of someone a lot like Tadokoro.{p}",
+   "follows_choice": [
+    "03:2880"
+   ]
+  },
+  {
+   "id": "03:8138",
+   "op": "text",
+   "en": "That's right. How to summon a demon.\nThe lined pages of the notebook were filled with basketball team data, training methods and so on.\nBut all over the margins, instructions for summoning a demon were scrawled.\nTadokoro turned the pages one by one, reading through how to perform the ritual.\nThen he copied it all out onto a separate sheet of paper.\nBut there was one item missing.\nYou needed four ingredients to summon the demon.\nA frog's heart, alcohol, laurel leaves, and...\nOne more.\nWhat that last ingredient was, it didn't say.\nTadokoro searched every corner of the notebook.\nThen he noticed that one page had been torn out and was missing.\nThe last ingredient must have been written on that page.\nAlong with how to summon the demon, the notebook also said this.{p}",
+   "follows_choice": [
+    "03:2890"
+   ]
+  },
+  {
+   "id": "03:8428",
+   "op": "text",
+   "en": "\"The demon summoned by this method has the power to erase people's memories.\nWhose memories, and which ones, are decided by the one who performs the summoning ritual.\nThis demon belongs to a race that feeds on human memories.\"\nReading that, Tadokoro got to thinking.\nIf he could erase the memories of everyone on the basketball team, and Kawaguchi's...\nMaybe he could wipe every bad memory of him out of their minds and become basketball captain again.\nBut summoning a demon has to be dangerous, right?\nAnd he didn't even know the last ingredient.\nSo Tadokoro tried to give up on it.{p}"
+  },
+  {
+   "id": "03:8628",
+   "op": "text",
+   "en": "And then, guess what?\nFrom somewhere, he heard a voice.\n\"Tadokoro, you read the notebook, didn't you...\"\nTadokoro looked around.\nBut no one was there.\n\"It's all right.\nYou only need to gather three of the ritual ingredients.\nI've already got my eye on the last one.\nI've tried that ritual myself, you see...\"{p}"
+  },
+  {
+   "id": "03:875c",
+   "op": "text",
+   "en": "Tadokoro's cheeks went stiff with nerves.\nThe voice went on.\n\"I used to be on this school's basketball team.\nI want to help you.\nBecause you've got real passion for basketball.\nI've really taken a liking to you for it.\nTruth is, I got into trouble with the other members back then too, and I tried this method to make them forget it...\nBut I died in an accident before I could make my mark on the team.\nIt's so frustrating.\nYou love basketball, so you understand how I feel, don't you...?\"\nTadokoro felt sorry for the former player's spirit.\nHe must have seen his own situation in the spirit's.\nAnd so he made up his mind.\nHe would summon the demon.\nAnd once he was captain again, he'd have the whole team hold a memorial for that spirit.{p}"
+  },
+  {
+   "id": "03:89d8",
+   "op": "text",
+   "en": "\"Thank you, Tadokoro.\nWell then, once you've gathered the ingredients, come back here again...\"\nWith that, the former player's spirit vanished.\nTadokoro got everything ready right away.\nAnd then he performed the ritual to summon the demon.{p}"
+  },
+  {
+   "id": "03:8aac",
+   "op": "text",
+   "en": "The ritual was held in the gym, at night.\nTadokoro and the ghost of the former member laid out the ritual ingredients on the floor beneath the basketball hoop.\nTadokoro had prepared three ingredients.\nAs for the last one...{p}"
+  },
+  {
+   "id": "03:8b5c",
+   "op": "text",
+   "en": "\"Don't worry.\nI've got it all ready.\nYou don't need to worry about a thing.\"\nThat's what the ghost said.\nAnd it was the ghost who chanted the spell to summon the demon.\n\"Rechirayoyaieumimuchi... Show thyself.\nO demon who feeds upon memories.\nCome forth to me☆\"{p}"
+  },
+  {
+   "id": "03:8c58",
+   "op": "text",
+   "en": "...Sure enough, the demon appeared.\nTadokoro poured his heart out to it, telling it everything he wanted.\nThe demon granted Tadokoro's wish.\nAnd then...{p}",
+   "returns": []
+  },
+  {
+   "id": "03:8cec",
+   "op": "text",
+   "en": "\"AAAAAAAAGH!\"{p}"
+  },
+  {
+   "id": "03:8d18",
+   "op": "text",
+   "en": "Tadokoro collapsed to the floor.\n\"My head, ah... my head...☆\"\nClutching his head, Tadokoro writhed in agony.\n\"...Tadokoro.\nThank you for providing the last ingredient.\nYou've met the same fate I did.\nI don't want to go to the spirit world alone, you see.\nCome on, let's go together...\"\n...It was the ghost's voice.\nThen, with a nasty smile on its face, the ghost vanished into the darkness.{p}"
+  },
+  {
+   "id": "03:8e8c",
+   "op": "text",
+   "en": "Do you know what that last ingredient was?\n...I'll tell you.\nIt was a human skull, that's what.\nThe demon tore the skull right out of Tadokoro, and he died.\nThat's why, they say, there was no skull among his remains.\nThe ghost had died the same way, with his skull torn out.\nWhen he was alive, the demon tricked him into trying the ritual with three ingredients, and it killed him.\nThat's what it really meant when they said that member died in an accident.{p}"
+  },
+  {
+   "id": "03:9024",
+   "op": "text",
+   "en": "Oh yeah, about the basketball guys and Kawaguchi.\nJust like the deal with the demon said, they've completely forgotten all the nasty stuff about Tadokoro.\nSo now they're grieving over his death, and supposedly they've put his picture up in the club room.\nIf you put up a picture like that, isn't something bound to happen all over again?{p}"
+  },
+  {
+   "id": "03:9128",
+   "op": "text",
+   "en": "...{a}, you play sports, right?\nWhich club are you in?\nIf you're in the basketball club... watch yourself.\nThey say the notebook about the demon ritual is still in the boys' basketball club room, even now.\nMake sure you don't end up as an ingredient in the ritual...\nWell then, let's hear the next one's story...{p}"
+  },
+  {
+   "id": "03:9244",
+   "op": "text",
+   "en": "Sure, that kind of stuff was written in it too.\nBut what moved Tadokoro was something else written there.\nThat notebook had all sorts of things in it: passion for basketball, effective ways to practice, even what to eat.{p}",
+   "follows_choice": [
+    "03:28a4"
+   ]
+  },
+  {
+   "id": "03:9308",
+   "op": "text",
+   "en": "You think so?\nWell, whatever, I'll keep going.\nTadokoro wished from the bottom of his heart that he could meet the upperclassman.{p}",
+   "follows_choice": [
+    "03:300c"
+   ]
+  },
+  {
+   "id": "03:936c",
+   "op": "text",
+   "en": "...Can't even imagine, huh?\nThen I'll tell you.\nListen up, and listen good.{p}",
+   "follows_choice": [
+    "03:3038"
+   ]
+  },
+  {
+   "id": "03:93b8",
+   "op": "text",
+   "en": "That's right, that night he just didn't go, for no particular reason.{p}",
+   "follows_choice": [
+    "03:37c0"
+   ]
+  },
+  {
+   "id": "03:93ec",
+   "op": "text",
+   "en": "But the next day, he regretted it and wished he'd gone after all.\nThe only one who could understand how he felt now was the upperclassman.\nHe wanted to go see the upperclassman again... no, as many times as he could.\nThat's what he thought.{p}"
+  },
+  {
+   "id": "03:94ac",
+   "op": "text",
+   "en": "After that, for a while, the two of them kept up their late-night meetings almost every day.{p}"
+  },
+  {
+   "id": "03:94f0",
+   "op": "text",
+   "en": "That's right, something happened to come up and he couldn't go.\nHe was really bitter about it, too.{p}",
+   "follows_choice": [
+    "03:37e0"
+   ]
+  },
+  {
+   "id": "03:9550",
+   "op": "text",
+   "en": "The next day, he filled that notebook with everything: his passion for basketball, how he was feeling at the time, all of it.{p}"
+  },
+  {
+   "id": "03:95b4",
+   "op": "text",
+   "en": "Then the upperclassman gave him all sorts of advice about what he'd written in the notebook.\nTadokoro was deeply moved.\nMy upperclassman understands everything about me, and really thinks things through for my sake...\nThat's what he thought.\nFrom then on, no matter what else he had to do, Tadokoro kept going back to see the upperclassman.{p}"
+  },
+  {
+   "id": "03:96b0",
+   "op": "text",
+   "en": "Tadokoro kept his eyes shut for a while.\nBut whoever had appeared tapped him on the shoulder, and he opened his eyes.\nAnd then...{p}",
+   "follows_choice": [
+    "03:3d80"
+   ]
+  },
+  {
+   "id": "03:9718",
+   "op": "text",
+   "en": "I see, you don't have one.\n...The guy who took the pictures of Tadokoro getting beaten up by the track team guys was supposedly named {a}.\nMight just be a coincidence, but you've got a bit of his look about you, so I figured you two might be brother and sister.\nSo you don't have an older brother...\n...You're not lying to me, are you?\nWell, whatever.{p}",
+   "follows_choice": [
+    "03:42a4"
+   ]
+  },
+  {
+   "id": "03:9820",
+   "op": "text",
+   "en": "If you really do have an older brother...\nYou should ask him about it sometime.{p}"
+  },
+  {
+   "id": "03:9884",
+   "op": "text",
+   "en": "He rounded up some new members from who knows where and formed his very own basketball team.\n\"My teammates all understand me. They're the best friends anyone could have.\nThey're worlds apart from those track team guys and the basketball club here.\"\nThat's what he said, they say, bragging about it nonstop.\nWith his eyes glittering.\nNot that anybody actually took what he said seriously...{p}"
+  },
+  {
+   "id": "03:99d0",
+   "op": "text",
+   "en": "Then, one morning...{p}"
+  },
+  {
+   "id": "03:9a04",
+   "op": "text",
+   "en": "Tadokoro was found dead under the basketball hoop in the gym.\nHe must have snuck in during the night to practice.\nThey say there were tons of basketballs lying around him.\nEveryone knew Tadokoro had made his own private basketball team, after all.{p}"
+  },
+  {
+   "id": "03:9af8",
+   "op": "text",
+   "en": "The police came and searched for these new members of his, but they couldn't find anyone who fit.\nIn the end, the whole thing was written off as Tadokoro's delusion.\nAnd the cause of death was put down as sudden death, brought on by the hard practice he'd been doing every night.{p}"
+  },
+  {
+   "id": "03:9bf0",
+   "op": "text",
+   "en": "...And ever since then.\nThey say you can sometimes hear the sound of a ball being bounced in the gym.\nMaybe Tadokoro's still in there practicing, even now?\nTogether with his teammates.\nNot that I've seen it myself yet, though.{p}"
+  },
+  {
+   "id": "03:9cc0",
+   "op": "text",
+   "en": "Hey, {a}.\nSince you're doing the interview anyway, how about we go take a look at the gym right now?\nIt's getting pretty dark out, too.\nWhat do you say?{p}We might get to meet Tadokoro's ghost.\n"
+  },
+  {
+   "id": "03:9d58",
+   "op": "choice",
+   "en": "Go"
+  },
+  {
+   "id": "03:9d60",
+   "op": "choice",
+   "en": "Don't go"
+  },
+  {
+   "id": "03:9d6c",
+   "op": "text",
+   "en": "That's what I like to hear.\nAll right then, let's head to the gym.{p}",
+   "follows_choice": [
+    "03:9d58"
+   ]
+  },
+  {
+   "id": "03:9dcc",
+   "op": "text",
+   "en": "Man, this gives me a bad feeling.\nThis hallway...\nIt's awfully quiet, isn't it?\nDid everybody go home already?\nStill, this school sure is huge.\nEven getting to the gym is a pain.{p}"
+  },
+  {
+   "id": "03:9e80",
+   "op": "text",
+   "en": "Well, whatever, we're here.\nHey, {a}.\nYou can still turn back now.\nWhat'll it be?{p}Are you going in?\n"
+  },
+  {
+   "id": "03:9edc",
+   "op": "choice",
+   "en": "Go in"
+  },
+  {
+   "id": "03:9ee4",
+   "op": "choice",
+   "en": "Actually, let's not"
+  },
+  {
+   "id": "03:9ef4",
+   "op": "text",
+   "en": "...Don't come crying to me later.\nAll right, I'm opening it.{p}",
+   "follows_choice": [
+    "03:9edc"
+   ],
+   "returns": []
+  },
+  {
+   "id": "03:9f38",
+   "op": "text",
+   "en": "I can't really see a thing.\nSomebody turn on the lights.{p}"
+  },
+  {
+   "id": "03:9f84",
+   "op": "text",
+   "en": "...Oh, they came on.\n"
+  },
+  {
+   "id": "03:9fa8",
+   "op": "text",
+   "en": "Huh?\nWhat the hell, where'd everybody else go?\n\"Oh, um...\"\nI looked around.\nThere was nobody in the gym but Shindo and me.{p}"
+  },
+  {
+   "id": "03:a048",
+   "op": "text",
+   "en": "Oh.\nEveryone is outside the entrance.\nAre they scared, I wonder?{p}"
+  },
+  {
+   "id": "03:a098",
+   "op": "text",
+   "en": "\"...{a}.\nWere you the one who turned on the lights?\"\nShindo was frowning.\nI hadn't turned on any lights.\nWhen I shook my head, Shindo lowered his voice.\n\"I didn't turn them on either.\nThen who did?\"{p}"
+  },
+  {
+   "id": "03:a16c",
+   "op": "text",
+   "en": "Everyone was watching us from outside the entrance.\nThey couldn't have turned on the lights from over there.\nThen who turned them on?{p}"
+  },
+  {
+   "id": "03:a1e8",
+   "op": "text",
+   "en": "Just then, the entrance doors suddenly slammed shut.\n"
+  },
+  {
+   "id": "03:a218",
+   "op": "text",
+   "en": "\"Eeeek!\"\n\"Calm down, {a}☆\"\nShindo grabbed my arm.{p}"
+  },
+  {
+   "id": "03:a284",
+   "op": "text",
+   "en": "\"Looks like we've gotten ourselves into a real mess...\"\nThere was no sign of anyone else in the gym.\nBut was that really true?\nMaybe someone was hiding and playing a prank on us...{p}"
+  },
+  {
+   "id": "03:a328",
+   "op": "text",
+   "en": "...What's that?\nI could hear footsteps.\nSqueak, squeak... footsteps on the gym floor.\nThey were coming closer and closer.\nNo...\nBut there's nobody else here...\nThe footsteps stopped dead, right beside us.{p}"
+  },
+  {
+   "id": "03:a40c",
+   "op": "text",
+   "en": "\"Tadokoro?\"\nShindo suddenly said something like that.\nNo way.\nCan Shindo see him?\nIs he talking to this Tadokoro person?\n\"What's that... huh? You're giving it to me?\"\nShindo held out his hand.\nIt looked like he was taking something.\nBut I couldn't see Tadokoro, or whatever it was Shindo had taken.\n\"Um, Shindo...\"\n\"Shh.\"\nShindo was staring intently at whatever he'd been given.\nFootsteps echoed nearby again.\nTadokoro, who had been beside us, seemed to have started walking.\nBefore long, the footsteps faded into the distance.{p}"
+  },
+  {
+   "id": "03:a5f8",
+   "op": "text",
+   "en": "\"Hey, what's going on?\"\nWith that voice, the entrance doors suddenly flew open.\nAs if I'd woken from a dream, all the tension drained out of me at once.\nEveryone who'd been outside came in.{p}"
+  },
+  {
+   "id": "03:a6a8",
+   "op": "text",
+   "en": "\"That gave me such a fright!\nThe doors just slammed shut all of a sudden!\nHey, are you all right?\"\n\"Honestly, that was dangerous.\nA girl shouldn't be left all alone with a guy in a place like a gym.\nI thought my heart was going to stop.\nYou're cute, after all, {b}.\"\n\"Heh heh heh...\nDid you get to meet this Tadokoro, or whatever his name was?\nOh dear, you're drenched in sweat.\"\nEveryone was saying all sorts of things at once.\n\"Let's go back to the club room...\"\nThat was all I could manage to say.{p}"
+  },
+  {
+   "id": "03:a850",
+   "op": "text",
+   "en": "\"Wait a moment.\nAre you leaving him behind?\"\nIwashita pointed.\nOh, that's right.\nShindo was still inside the gym.{p}"
+  },
+  {
+   "id": "03:a8e4",
+   "op": "text",
+   "en": "\"Um, Shin...\"\nShindo was looking at something and muttering to himself.\n...Oh no, what's happened to him?\nSomething about him makes it hard to even speak to him.{p}"
+  },
+  {
+   "id": "03:a980",
+   "op": "text",
+   "en": "\"Well, why not?\nLet's just leave him here.\"\nIwashita said something terribly cold.\n\"But...\"\n\"His story is finished.\nYou have other work to do, don't you?\"{p}"
+  },
+  {
+   "id": "03:aa3c",
+   "op": "text",
+   "en": "...What should I do?{p}Shindo was still looking at what he held in his hands, still muttering.\n"
+  },
+  {
+   "id": "03:aa88",
+   "op": "choice",
+   "en": "Leave him behind"
+  },
+  {
+   "id": "03:aa94",
+   "op": "choice",
+   "en": "Go and get him"
+  },
+  {
+   "id": "03:aaa0",
+   "op": "text",
+   "en": "Maybe I have no choice but to leave him.{p}",
+   "follows_choice": [
+    "03:aa88"
+   ]
+  },
+  {
+   "id": "03:aac8",
+   "op": "text",
+   "en": "I left the gym together with everyone else.{p}"
+  },
+  {
+   "id": "03:ab1c",
+   "op": "text",
+   "en": "Back in the club room, just as I'd caught my breath, Shindo came back.\n...Thank goodness.\nStill, what was that back there?\nIs Shindo really all right?\nAt a glance, he doesn't seem to have changed much...\nAnd he doesn't have that dazed look in his eyes like before.\nWell, there's no use dwelling on it.\nI have to hear the next story.\nNow, whose story should I hear next...?{p}"
+  },
+  {
+   "id": "03:ac90",
+   "op": "text",
+   "en": "What, you're no fun.\n...Well, if you don't want to, fine.{p}",
+   "follows_choice": [
+    "03:9d60"
+   ]
+  },
+  {
+   "id": "03:accc",
+   "op": "text",
+   "en": "Oh yeah, {a}, you play sports, right?\nIf you're in the basketball club... watch yourself.\nDon't let Tadokoro recruit you.\nLooks like it doesn't matter to him whether you're a guy or a girl.\nWell then, let's hear the next one's story...{p}"
+  },
+  {
+   "id": "03:adc4",
+   "op": "text",
+   "en": "We came all this way and you're calling it quits?\nWhat a letdown.\nThat was your chance at a scoop.{p}",
+   "follows_choice": [
+    "03:9ee4"
+   ]
+  },
+  {
+   "id": "03:ae24",
+   "op": "text",
+   "en": "Well, fine, you're the one writing the article.\nIt's not my place to butt in.\nCome on, let's head back to the club room.\n...Guess I'll pin my hopes on the next one's story.{p}"
+  },
+  {
+   "id": "03:aeac",
+   "op": "text",
+   "en": "\"I'll go get him.\"\nWith that, I went over to Shindo.\n\"Shindo.\"\nEven when I spoke to him, there was still no answer.\nWhat should I do...?{p}",
+   "follows_choice": [
+    "03:aa94"
+   ]
+  },
+  {
+   "id": "03:af3c",
+   "op": "text",
+   "en": "\"We'll go on ahead.\"\nOne of them said it, and everyone started to leave.\nNo, I can't stay in a place like this a moment longer.\n\"Please wait!\"{p}"
+  },
+  {
+   "id": "03:afc4",
+   "op": "text",
+   "en": "I went after everyone.\nFeeling guilty the whole time...{p}"
+  }
+ ]
+}

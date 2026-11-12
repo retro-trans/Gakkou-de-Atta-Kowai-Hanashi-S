@@ -1,0 +1,344 @@
+{
+ "slice": "S045",
+ "scene": "10",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S044",
+ "next": "S046",
+ "rows": [
+  {
+   "id": "10:4ed4",
+   "op": "text"
+  },
+  {
+   "id": "10:4f80",
+   "op": "text"
+  },
+  {
+   "id": "10:50f4",
+   "op": "choice"
+  },
+  {
+   "id": "10:5100",
+   "op": "choice"
+  },
+  {
+   "id": "10:5114",
+   "op": "text",
+   "follows_choice": [
+    "10:5100"
+   ]
+  },
+  {
+   "id": "10:5154",
+   "op": "text"
+  },
+  {
+   "id": "10:51ec",
+   "op": "choice"
+  },
+  {
+   "id": "10:5204",
+   "op": "choice"
+  },
+  {
+   "id": "10:5214",
+   "op": "text",
+   "follows_choice": [
+    "10:51ec"
+   ]
+  },
+  {
+   "id": "10:526c",
+   "op": "text"
+  },
+  {
+   "id": "10:5380",
+   "op": "text"
+  },
+  {
+   "id": "10:54dc",
+   "op": "text"
+  },
+  {
+   "id": "10:5578",
+   "op": "text"
+  },
+  {
+   "id": "10:55dc",
+   "op": "text"
+  },
+  {
+   "id": "10:56e4",
+   "op": "text"
+  },
+  {
+   "id": "10:57a0",
+   "op": "text"
+  },
+  {
+   "id": "10:59a0",
+   "op": "choice"
+  },
+  {
+   "id": "10:59a8",
+   "op": "choice"
+  },
+  {
+   "id": "10:59b0",
+   "op": "text",
+   "follows_choice": [
+    "10:59a0"
+   ]
+  },
+  {
+   "id": "10:5a34",
+   "op": "text"
+  },
+  {
+   "id": "10:5ad8",
+   "op": "text",
+   "follows_choice": [
+    "10:1c70"
+   ]
+  },
+  {
+   "id": "10:5bb8",
+   "op": "choice"
+  },
+  {
+   "id": "10:5bc0",
+   "op": "choice"
+  },
+  {
+   "id": "10:5bc8",
+   "op": "text",
+   "follows_choice": [
+    "10:5bb8"
+   ]
+  },
+  {
+   "id": "10:5cb4",
+   "op": "text"
+  },
+  {
+   "id": "10:5f00",
+   "op": "text"
+  },
+  {
+   "id": "10:60ac",
+   "op": "text"
+  },
+  {
+   "id": "10:61b8",
+   "op": "text"
+  },
+  {
+   "id": "10:630c",
+   "op": "text"
+  },
+  {
+   "id": "10:63b4",
+   "op": "text"
+  },
+  {
+   "id": "10:647c",
+   "op": "text"
+  },
+  {
+   "id": "10:6540",
+   "op": "text"
+  },
+  {
+   "id": "10:6710",
+   "op": "text",
+   "follows_choice": [
+    "10:5bc0"
+   ]
+  },
+  {
+   "id": "10:6798",
+   "op": "text"
+  },
+  {
+   "id": "10:6994",
+   "op": "text"
+  },
+  {
+   "id": "10:6b78",
+   "op": "text"
+  },
+  {
+   "id": "10:6c5c",
+   "op": "text"
+  },
+  {
+   "id": "10:6ca4",
+   "op": "text"
+  },
+  {
+   "id": "10:6d9c",
+   "op": "text"
+  },
+  {
+   "id": "10:6e8c",
+   "op": "text"
+  },
+  {
+   "id": "10:6f50",
+   "op": "text"
+  },
+  {
+   "id": "10:6fe8",
+   "op": "text"
+  },
+  {
+   "id": "10:7088",
+   "op": "choice"
+  },
+  {
+   "id": "10:7098",
+   "op": "choice"
+  },
+  {
+   "id": "10:70b0",
+   "op": "text",
+   "follows_choice": [
+    "10:7088"
+   ]
+  },
+  {
+   "id": "10:7140",
+   "op": "text"
+  },
+  {
+   "id": "10:72bc",
+   "op": "text"
+  },
+  {
+   "id": "10:7364",
+   "op": "text"
+  },
+  {
+   "id": "10:7470",
+   "op": "text"
+  },
+  {
+   "id": "10:7608",
+   "op": "text"
+  },
+  {
+   "id": "10:76f0",
+   "op": "text"
+  },
+  {
+   "id": "10:77c0",
+   "op": "choice"
+  },
+  {
+   "id": "10:77d0",
+   "op": "choice"
+  },
+  {
+   "id": "10:77e0",
+   "op": "choice"
+  },
+  {
+   "id": "10:77f4",
+   "op": "text",
+   "follows_choice": [
+    "10:77c0"
+   ]
+  },
+  {
+   "id": "10:78d0",
+   "op": "text"
+  },
+  {
+   "id": "10:7990",
+   "op": "text"
+  },
+  {
+   "id": "10:7a74",
+   "op": "text"
+  },
+  {
+   "id": "10:7bc4",
+   "op": "text"
+  },
+  {
+   "id": "10:7c40",
+   "op": "text"
+  },
+  {
+   "id": "10:7cd8",
+   "op": "text"
+  },
+  {
+   "id": "10:7e08",
+   "op": "text"
+  },
+  {
+   "id": "10:7f2c",
+   "op": "text"
+  },
+  {
+   "id": "10:7fa0",
+   "op": "text"
+  },
+  {
+   "id": "10:8024",
+   "op": "text"
+  },
+  {
+   "id": "10:80b0",
+   "op": "text"
+  },
+  {
+   "id": "10:813c",
+   "op": "text"
+  },
+  {
+   "id": "10:8174",
+   "op": "text"
+  },
+  {
+   "id": "10:8314",
+   "op": "text"
+  },
+  {
+   "id": "10:83e0",
+   "op": "text"
+  },
+  {
+   "id": "10:84b8",
+   "op": "text"
+  },
+  {
+   "id": "10:8690",
+   "op": "text"
+  },
+  {
+   "id": "10:8794",
+   "op": "text"
+  },
+  {
+   "id": "10:8860",
+   "op": "text",
+   "follows_choice": [
+    "10:77d0"
+   ]
+  },
+  {
+   "id": "10:8904",
+   "op": "text"
+  },
+  {
+   "id": "10:898c",
+   "op": "choice"
+  },
+  {
+   "id": "10:8998",
+   "op": "choice"
+  }
+ ]
+}

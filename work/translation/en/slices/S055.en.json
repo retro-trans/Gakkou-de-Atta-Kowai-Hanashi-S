@@ -1,0 +1,321 @@
+{
+ "slice": "S055",
+ "scene": "12",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S054",
+ "next": "S056",
+ "rows": [
+  {
+   "id": "12:c2f8",
+   "op": "text"
+  },
+  {
+   "id": "12:c508",
+   "op": "text"
+  },
+  {
+   "id": "12:c548",
+   "op": "text"
+  },
+  {
+   "id": "12:c5d8",
+   "op": "text"
+  },
+  {
+   "id": "12:c6b0",
+   "op": "text"
+  },
+  {
+   "id": "12:c774",
+   "op": "text"
+  },
+  {
+   "id": "12:c858",
+   "op": "text"
+  },
+  {
+   "id": "12:c9a4",
+   "op": "text"
+  },
+  {
+   "id": "12:cbd4",
+   "op": "text"
+  },
+  {
+   "id": "12:ccd4",
+   "op": "text"
+  },
+  {
+   "id": "12:cec8",
+   "op": "text"
+  },
+  {
+   "id": "12:cf68",
+   "op": "text"
+  },
+  {
+   "id": "12:d024",
+   "op": "text"
+  },
+  {
+   "id": "12:d154",
+   "op": "text"
+  },
+  {
+   "id": "12:d48c",
+   "op": "text",
+   "follows_choice": [
+    "12:2140"
+   ]
+  },
+  {
+   "id": "12:d5b0",
+   "op": "text",
+   "follows_choice": [
+    "12:21c0"
+   ]
+  },
+  {
+   "id": "12:d658",
+   "op": "text"
+  },
+  {
+   "id": "12:d774",
+   "op": "text",
+   "follows_choice": [
+    "12:21d0"
+   ]
+  },
+  {
+   "id": "12:da4c",
+   "op": "text",
+   "follows_choice": [
+    "12:21dc"
+   ]
+  },
+  {
+   "id": "12:dcc4",
+   "op": "text",
+   "follows_choice": [
+    "12:21ec"
+   ]
+  },
+  {
+   "id": "12:de70",
+   "op": "text",
+   "follows_choice": [
+    "12:21f4"
+   ]
+  },
+  {
+   "id": "12:e158",
+   "op": "text"
+  },
+  {
+   "id": "12:e2c8",
+   "op": "text"
+  },
+  {
+   "id": "12:e4e0",
+   "op": "text"
+  },
+  {
+   "id": "12:e59c",
+   "op": "text"
+  },
+  {
+   "id": "12:e6ec",
+   "op": "text"
+  },
+  {
+   "id": "12:e8bc",
+   "op": "text"
+  },
+  {
+   "id": "12:e9ec",
+   "op": "text"
+  },
+  {
+   "id": "12:ec60",
+   "op": "text"
+  },
+  {
+   "id": "12:ecc8",
+   "op": "choice"
+  },
+  {
+   "id": "12:ecd8",
+   "op": "choice"
+  },
+  {
+   "id": "12:ece8",
+   "op": "text",
+   "follows_choice": [
+    "12:ecc8"
+   ]
+  },
+  {
+   "id": "12:ee3c",
+   "op": "text"
+  },
+  {
+   "id": "12:eec8",
+   "op": "text"
+  },
+  {
+   "id": "12:f038",
+   "op": "text"
+  },
+  {
+   "id": "12:f120",
+   "op": "text"
+  },
+  {
+   "id": "12:f210",
+   "op": "choice"
+  },
+  {
+   "id": "12:f220",
+   "op": "choice"
+  },
+  {
+   "id": "12:f250",
+   "op": "text",
+   "follows_choice": [
+    "12:f210"
+   ]
+  },
+  {
+   "id": "12:f4c0",
+   "op": "text"
+  },
+  {
+   "id": "12:f568",
+   "op": "text"
+  },
+  {
+   "id": "12:f678",
+   "op": "choice"
+  },
+  {
+   "id": "12:f688",
+   "op": "choice"
+  },
+  {
+   "id": "12:f698",
+   "op": "text",
+   "follows_choice": [
+    "12:f678"
+   ]
+  },
+  {
+   "id": "12:f720",
+   "op": "text"
+  },
+  {
+   "id": "12:f7e0",
+   "op": "text"
+  },
+  {
+   "id": "12:f8c4",
+   "op": "text"
+  },
+  {
+   "id": "12:fabc",
+   "op": "text"
+  },
+  {
+   "id": "12:fc30",
+   "op": "text"
+  },
+  {
+   "id": "12:fcec",
+   "op": "text"
+  },
+  {
+   "id": "12:fe08",
+   "op": "text"
+  },
+  {
+   "id": "12:ffb0",
+   "op": "text"
+  },
+  {
+   "id": "12:1001c",
+   "op": "choice"
+  },
+  {
+   "id": "12:10034",
+   "op": "choice"
+  },
+  {
+   "id": "12:1003c",
+   "op": "text",
+   "follows_choice": [
+    "12:1001c"
+   ]
+  },
+  {
+   "id": "12:10254",
+   "op": "text"
+  },
+  {
+   "id": "12:1030c",
+   "op": "text"
+  },
+  {
+   "id": "12:10370",
+   "op": "text"
+  },
+  {
+   "id": "12:10414",
+   "op": "text"
+  },
+  {
+   "id": "12:10470",
+   "op": "text"
+  },
+  {
+   "id": "12:104c8",
+   "op": "text"
+  },
+  {
+   "id": "12:10514",
+   "op": "text"
+  },
+  {
+   "id": "12:10554",
+   "op": "text"
+  },
+  {
+   "id": "12:10618",
+   "op": "text"
+  },
+  {
+   "id": "12:107e8",
+   "op": "text"
+  },
+  {
+   "id": "12:108b0",
+   "op": "text",
+   "follows_choice": [
+    "12:3a1c"
+   ]
+  },
+  {
+   "id": "12:10a54",
+   "op": "text"
+  },
+  {
+   "id": "12:10b44",
+   "op": "text"
+  },
+  {
+   "id": "12:10d4c",
+   "op": "text",
+   "follows_choice": [
+    "12:460c"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "rows": {
+  "07:249d0": "I went into the classroom.\nRows of desks and chairs, neatly lined up.\nSeeing it like this, it was hard to believe students used it during the day.\nThe classroom felt colder than usual, too.\nAnyway, I had to search.\nFirst, I checked the teacher's lectern.\n...Nothing.\nNext, I checked the desks.\nOf course, I searched thoroughly inside them too.\n...Nothing.\nI searched every corner of the room.\nIt didn't look like it was in this classroom.{p}",
+  "07:24b58": "I went into the classroom.\nRows of desks and chairs, neatly lined up.\nSeeing it like this, it was hard to believe students used it during the day.\nThe classroom felt colder than usual, too.\nAnyway, I had to search.\nFirst, I checked the teacher's lectern.\nThere seemed to be something inside it.\nWhat could it be?\nI shoved my hand in.\nOw☆\nI yanked it back out.\nWhen I looked closely, I saw the inside of the lectern was thickly studded with thumbtacks.\nWas this the work of Hino and the others?\nHad they known I would shove my hand in here?\n...No, that couldn't be.\nIt was just a coincidence.\nIt had to be.\nThere didn't seem to be anything else in this classroom.{p}",
+  "07:2593c": "Boys' restroom",
+  "07:25948": "Girls' restroom",
+  "07:25954": "Search elsewhere",
+  "07:259f0": "The back stall",
+  "07:259f8": "Second from the back",
+  "07:25a08": "Third from the back",
+  "07:25a18": "The front stall",
+  "07:25a24": "Search elsewhere",
+  "07:25b28": "The back stall",
+  "07:25b3c": "The front stall",
+  "07:25b50": "Search elsewhere",
+  "07:25c6c": "I decided to search the toilet stall.\nI opened the door.{p}",
+  "07:2692c": "Not that there was much to it; there were just eight or so big desks in rows.\nI was finished with them almost at once.\nLooks like that was a waste of time.{p}Now, what should I do?\n",
+  "07:26c90": "\"I'll kill you!\"\nIwashita lunged at me, her hair flying wildly.\nShe was clutching a rope in her hands.\nWas that the rope that had bound my hands and feet?\nI had no time to get my footing back.\nAs I fell, the rope looped around my neck.\n\"Die!\"\nThen Iwashita pulled with all her strength.\n\"Gaaack!\"\nIn one jerk, the rope cinched tight around my throat.\nI tried to tear Iwashita's arms away.\nBut they wouldn't budge.\nI couldn't believe a girl could be that strong.\nLittle by little, my strength drained away.\nI could feel the blood vessels in my head pounding violently: thump, thump.\nIn a place like this... am I going to die?\nI...\nThe rope strangled me without mercy.\nEverything before my eyes was turning red.\nI collapsed to the floor.\n...Faintly, through the red darkness, I could see Iwashita's triumphant smile.{p}",
+  "07:26fac": "...There was a notebook.\nOn it were written the words \"Grudge Notebook.\"{p}Should I read it?\n",
+  "07:270ac": "I opened the notebook.\nInside were petty gripes written by Hino, Shindo and the others.\nSpilled coffee on me.\nGot barked at by a dog.\nHid my shoes.\nTold a stupid joke.\nTapped me on the shoulder out of nowhere.\nWas noisy when I was sleepy.\nHas a vulgar laugh.\nNever apologized.\nPaid back the money I lent them without any interest.\nWouldn't let me copy their notes.\n...Along with that petty nonsense, many people's names were written down.{p}",
+  "07:272c0": "Yo, {a}.\nI figured you'd come back to the newspaper club, so I'm leaving this notebook on the shelf for you.\nIf you find it, read it carefully.\nThese are the sinners we've killed so far.\nThere are plenty of reasons you're going to be killed.\nYou've committed crimes that would justify the death penalty.\nThe charges are as follows.{p}"
+ },
+ "notes": [
+  "07:249d0: EDIT - returns note settled: present tense -> past, matching the identical source paragraph at 07:24b58; 'teacher's platform' -> 'teacher's lectern' and 'Desks and chairs stood in neat rows' -> the 24b58 wording, so the shared opening reads the same both times. E015's 07:24784 (same paragraph, still present tense, 'platform') needs the same change; not editable here.",
+  "07:24b58: EDIT - returns note (shared with 249d0): already past tense, kept; only 'covered solid with thumbtacks' -> 'thickly studded with thumbtacks' (clumsy phrasing).",
+  "07:2593c/25948/25954/259f0/259f8/25a08/25a18/25a24/25b28/25b3c/25b50: EDIT - first-floor restroom menus had different wording ('The boys' restroom', 'Search somewhere else', 'The stall at the far end', 'The toilet in the far stall'...) for the same Japanese choices as the 2nd-4th floor menus; unified to the wording used on the other three floors.",
+  "07:25c6c: EDIT - 'check the toilet in the stall' -> 'search the toilet stall', the wording of the other stall rows for the same phrase.",
+  "07:2692c: EDIT - 'done searching them in no time' + 'a waste of time' repeated 'time' in consecutive lines -> 'finished with them almost at once'.",
+  "07:26c90: EDIT - 'pounding violently, throb, throb' -> 'pounding violently: thump, thump' (awkward onomatopoeia).",
+  "07:270ac: EDIT - 'Paid back the money I lent without interest' was ambiguous -> 'Paid back the money I lent them without any interest'.",
+  "07:272c0: EDIT - stiff 'The reasons you're going to be killed are many.' -> 'There are plenty of reasons you're going to be killed.' (Hino's note voice).",
+  "07:27560: KEEP - 'it said this: ... it said' repetition mirrors the source's framing; present-tense inner thoughts there, and in 265f0/266c8/26778/27038, are direct thought and stay."
+ ]
+}

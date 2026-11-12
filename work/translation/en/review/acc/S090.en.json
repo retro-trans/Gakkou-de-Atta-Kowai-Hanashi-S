@@ -1,0 +1,393 @@
+{
+ "slice": "S090",
+ "scene": "24",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S089",
+ "next": "S091",
+ "todo": [],
+ "rows": [
+  {
+   "id": "24:0ed4",
+   "op": "text",
+   "en": "Hello, everyone. Nice to meet you.\nMy name is Tomoharu Hosoda.\nI'm in Class 2-C.\nStill, this really is a big school, isn't it?\nThere are seven of us gathered here, and I don't recognize a single face.\nForget knowing anyone, I've never even seen any of you before.\n...Sorry, that was a rude thing to say.\nIt'd be nice if we could use this chance to become friends.\nSo, it's {a}{f:|}, right?\nSince we're here, I thought I'd tell you a story that'll do you some good.{p}Do you know which place at school, besides the classroom, people go in and out of the most?\n"
+  },
+  {
+   "id": "24:10a8",
+   "op": "choice",
+   "en": "I know"
+  },
+  {
+   "id": "24:10b4",
+   "op": "choice",
+   "en": "I don't know"
+  },
+  {
+   "id": "24:10c8",
+   "op": "text",
+   "follows_choice": [
+    "24:10a8"
+   ],
+   "en": "I see. You're a sharp one, just as I thought.{p}"
+  },
+  {
+   "id": "24:10f8",
+   "op": "text",
+   "en": "So, where is it?\n"
+  },
+  {
+   "id": "24:110c",
+   "op": "choice",
+   "en": "The faculty room"
+  },
+  {
+   "id": "24:1114",
+   "op": "choice",
+   "en": "The restroom"
+  },
+  {
+   "id": "24:111c",
+   "op": "choice",
+   "en": "The club room"
+  },
+  {
+   "id": "24:1124",
+   "op": "choice",
+   "en": "The school gate"
+  },
+  {
+   "id": "24:1134",
+   "op": "text",
+   "follows_choice": [
+    "24:1114"
+   ],
+   "en": "Ha ha ha.\nSorry for asking such a silly question.\nThat's right, it's the restroom.{p}"
+  },
+  {
+   "id": "24:1190",
+   "op": "text",
+   "en": "Holding it in is bad for anybody's body.\nSo during the few hours you spend at school, you're bound to go to the restroom a few times.{p}"
+  },
+  {
+   "id": "24:1208",
+   "op": "text",
+   "en": "{f:You always go too|That's just normal}, {f:don't you|isn't it}?\nEveryone relies on the school restrooms.\nBut as far as I know, there was just one person who never used the school restrooms.\nIt wasn't that he was constipated, or had some strange illness.\nNo matter what happened, he never, ever went to the toilet.\nIn other words, he didn't excrete.\nCan you believe a person like that exists?\nWell, he did.\nHis name was Kiyoshi Takeuchi.\nHe was a third-year when I was a first-year, so he was two years older than me.\nSo, when you hear about someone who's never once gone to the toilet, don't you picture some huge fatso?\nBut no, he was skin and bones.\nLike a piece of wire.{p}"
+  },
+  {
+   "id": "24:14a4",
+   "op": "text",
+   "en": "By the time I started at this school, he was already famous in certain circles as a legend.\nThe man who never went to the toilet.\nThe girls especially paid him a tremendous amount of attention.{p}"
+  },
+  {
+   "id": "24:1550",
+   "op": "text",
+   "en": "{f:Well, naturally|I don't know if you're one of them, though}.\nI think a lot of women are romantics who dream about how wonderful it'd be if they never had to go to the toilet.\nGirls determined to uncover Takeuchi's secret were always stalking him, their eyes glittering.\nAnyone who didn't know would've thought he was a real ladies' man.\nSeriously, I hear a TV station even asked to interview him.\nApparently Takeuchi flatly refused, though.{p}"
+  },
+  {
+   "id": "24:1710",
+   "op": "text",
+   "en": "But still, you can't believe in a person who never excretes, can you?\n"
+  },
+  {
+   "id": "24:1750",
+   "op": "choice",
+   "en": "I can believe it"
+  },
+  {
+   "id": "24:175c",
+   "op": "choice",
+   "en": "I can't believe it"
+  },
+  {
+   "id": "24:176c",
+   "op": "choice",
+   "en": "Maybe someone like that could exist"
+  },
+  {
+   "id": "24:178c",
+   "op": "text",
+   "follows_choice": [
+    "24:175c"
+   ],
+   "en": "Right?\nI think you're right.\nIn the end, nobody really believed it either, whatever they said.\nDeep down, everyone thought he must be sneaking off to the toilet when no one was looking.\nOr else that maybe he was just someone who needed to go abnormally rarely.\nAs for me, honestly, I just thought Takeuchi was pretty amazing, and I wasn't interested in him beyond that.\nI never really wished I didn't have to go to the toilet, or even thought about it.\nIf anything, I liked that unique feeling of release you get in the toilet.\nMaybe I just lack delicacy?\nSo I knew about Takeuchi, but only one way; he didn't even know I existed.\nThere was no way our paths would ever cross.\nBut then.\nOne day, believe it or not, Takeuchi came up and talked to me.\nI was totally shocked.{p}"
+  },
+  {
+   "id": "24:1a98",
+   "op": "text",
+   "en": "I was eating lunch in the cafeteria when all of a sudden he said,\n\"Hey, is the seat next to you free?\"\nand sat right down without waiting.\nI mean, Takeuchi was famous at school, and he was my senior, right?\nOn top of that, we'd never met.\nMy heart was pounding.\n\"Ah, y-yes, it's free, sir,\"\nI said, all tense.\nBut Takeuchi turned out to be a pretty easygoing guy.\nHe was always smiling, and he was easy to talk to.\nTakeuchi had a big tray with three plates of curry rice and a large bowl of udon on it.\nI figured someone must be joining him, but right before my eyes he polished off the whole lot.\nI eat a fair amount myself, but that surprised me.\nEven after he finished, he looked totally unfazed, without a flicker on his face.\nThey say skinny people are the biggest eaters, and it's true.\nI stared hard at Takeuchi's body, wondering where in that frame all that food could go.\nHe ate all that, and he still never went to the toilet, right?\nI was strangely impressed.\nHe must have noticed the way I was acting.\n\"It's strange that I eat so much, isn't it?\"\nhe suddenly said.\nI just scratched my head and kept bowing.\n\"Uh-huh,\"\nor,\n\"Well...\"\nI dodged it with vague things like that.{p}"
+  },
+  {
+   "id": "24:1eec",
+   "op": "text",
+   "en": "And that was the end of it that day.\nI forgot all about it after that.\nOr rather, I didn't really think anything of it.\nTakeuchi had just happened to sit next to me; it wasn't as if he'd wanted to talk to me.\nHe seemed to chat with anyone in a friendly way, so he'd casually talked to me too, since I happened to be next to him. That's what I figured.\nAnyone would think that, right?\nBut then.\nIt didn't stop at that one time.\nThe second time, we happened to pass each other in the hallway.\nTakeuchi had a crowd of girls trailing after him, as usual.{p}"
+  },
+  {
+   "id": "24:20e4",
+   "op": "text",
+   "en": "\"Hey!\"\nhe called out, greeting me.\nI was startled.\nI was impressed he even remembered the face of someone who'd just happened to sit next to him in the cafeteria.\nI hurriedly greeted him back, but Takeuchi just kept smiling like always and walked off.{p}"
+  },
+  {
+   "id": "24:2204",
+   "op": "text",
+   "en": "Not that I'm the starstruck type, or into guys or anything.\nBut it still gets your heart pounding.\nGetting to know someone famous, I mean.\nIt was around then.\nThat I started to really notice Takeuchi.\nI got it into my head that maybe he wanted to be friends with me.\nI had no grounds at all for thinking he'd want to be friends with someone like me.\nIt was just a feeling.\nEven so, I didn't have the nerve to talk to him first, and it'd be embarrassing if I'd got it wrong, right?\nSo I only imagined it and never acted on it.\nAnd then the third incident happened.{p}"
+  },
+  {
+   "id": "24:2438",
+   "op": "text",
+   "en": "It was on my way home from school.\nI was trudging along when I heard someone calling me from behind.{p}"
+  },
+  {
+   "id": "24:24a8",
+   "op": "text",
+   "en": "I turned around in surprise, and there was Takeuchi, running toward me and waving.\nI looked around.\nHe had to be waving at someone other than me, I thought.\nBut there was nobody around except me.\nNo matter how I looked at it, he was waving at me.\nWhile I was thinking all that, Takeuchi was suddenly right beside me.{p}"
+  },
+  {
+   "id": "24:25e0",
+   "op": "text",
+   "en": "\"Man, those girls are relentless.\nIt was a real pain shaking them off.\nThey won't get anything good out of hanging around someone like me,\"\nhe said, laughing as he caught his breath.\nAs usual, I just grinned awkwardly and kept bowing.\nMaybe I'm just bad with people.\n\"You're Hosoda, right?\"\nThat shocked me.\nTakeuchi actually knew my name.\nWhen I just stared blankly, he burst out laughing.\n\"What are you so surprised about?\nIs it really that surprising?\nIt's not strange that I'd know who you are, is it?\"\nHe said that like it was nothing.\nFrom where I stood, it was more than strange enough.\nI couldn't even begin to guess how he knew about someone like me.{p}"
+  },
+  {
+   "id": "24:2870",
+   "op": "text",
+   "en": "I didn't know what to talk about.\nI was nervous, you see.\nTakeuchi talked to me about all sorts of things, but, pathetically, I don't remember much of it.\nAnd I couldn't give him any decent answers.{p}"
+  },
+  {
+   "id": "24:2940",
+   "op": "text",
+   "en": "\"Hosoda, are you free today?\"\nHe asked me that out of the blue.\nI was thrown.\nWhile I was fumbling for words,\n\"If you're free, why don't you come over to my place?\"\nhe went so far as to say.\nWhy would Takeuchi invite me to his house? The mystery only got deeper.\nNo matter how I thought about it, I couldn't find a reason.\nWhy me?\nWhy would he need to invite someone like me to his home?\nMaybe there was no need to think so hard about it, but that's just how I am.\nI can't help thinking about things.\nI didn't know how to answer him.{p}Takeuchi seemed to be waiting for my answer...\n"
+  },
+  {
+   "id": "24:2b7c",
+   "op": "choice",
+   "en": "Say you'll come"
+  },
+  {
+   "id": "24:2b90",
+   "op": "choice",
+   "en": "Say you'll politely decline"
+  },
+  {
+   "id": "24:2ba8",
+   "op": "choice",
+   "en": "Say you have plans today and ask him to make it another day"
+  },
+  {
+   "id": "24:2bd8",
+   "op": "text",
+   "follows_choice": [
+    "24:2b7c"
+   ],
+   "en": "There was no reason to say no.\nBesides, I couldn't believe Takeuchi was a bad person.\nI didn't know why he was inviting me, but I answered,\n\"Ah, I'd be honored to come.\"{p}"
+  },
+  {
+   "id": "24:2c98",
+   "op": "text",
+   "en": "I hadn't known this, you see.\nTakeuchi's father was an airline pilot.\nAnd his mother was apparently a famous writer of poetry and essays.\nUnfortunately, I didn't know her name.\nIt was like a picture-perfect family, right?\nThe kind ordinary people can't understand, I guess.\nYou can't really picture it, can you?\nAnd their house was huge, too.\nI guess that's what you'd call a palace.\nI stopped in front of the gate and couldn't move for a while.\nSomeone like that inviting me? It just got stranger and stranger, right?\nI followed Takeuchi, pretty much doing whatever he told me.{p}"
+  },
+  {
+   "id": "24:2ee0",
+   "op": "text",
+   "en": "The inside was amazing too.\nMaybe that's what hotels abroad are like?\nWell, I've never seen one, so I wouldn't know.\n\"Make yourself at home.\nYou don't have to be careful around me.\nDon't hold back, okay?\"\nHe said it with a laugh, but... easier said than done.\nWe lived in completely different worlds.\nEverything I saw and touched was new to me.{p}"
+  },
+  {
+   "id": "24:3048",
+   "op": "text",
+   "en": "Before long I was shown to Takeuchi's room.\nIt's embarrassing to say, but I felt like Takeuchi's room alone was about as big as my whole house.\nMaybe that's an exaggeration, but that's how big it felt.\n\"Want something to drink?\"\nTakeuchi asked me as I gawked around the room.{p}What should I do?\n"
+  },
+  {
+   "id": "24:3178",
+   "op": "choice",
+   "en": "Coffee"
+  },
+  {
+   "id": "24:3184",
+   "op": "choice",
+   "en": "Juice"
+  },
+  {
+   "id": "24:3190",
+   "op": "choice",
+   "en": "Tea"
+  },
+  {
+   "id": "24:3198",
+   "op": "choice",
+   "en": "Nothing, thanks"
+  },
+  {
+   "id": "24:31a8",
+   "op": "text",
+   "follows_choice": [
+    "24:3198"
+   ],
+   "en": "\"...Ah, I'm fine, thanks.\"\nI quickly bowed my head.\n\"I told you not to hold back.\n...I know.\nI've got an interesting drink.\nMy dad picked it up when he went to India.\nIt's called Sanbura tea, and once you drink it, you get hooked.\nLet's have some of that.\"{p}"
+  },
+  {
+   "id": "24:32c8",
+   "op": "text",
+   "en": "Takeuchi was really kind.\nAfter a while, this Sanbura tea, as he called it, was set down in front of me.{p}"
+  },
+  {
+   "id": "24:3344",
+   "op": "text",
+   "en": "It was pitch black, more like coffee than tea.\nIt had a bitter, grassy smell, like medicinal herbs.\n\"It has an unusual taste, so people either love it or hate it, but once you get used to it, it's irresistible.\nGo on, try it.\"\nThat's what he said, pressing it on me.{p}Would you drink it, if it were you?\n"
+  },
+  {
+   "id": "24:3458",
+   "op": "choice",
+   "en": "Drink it"
+  },
+  {
+   "id": "24:3460",
+   "op": "choice",
+   "en": "Don't drink it"
+  },
+  {
+   "id": "24:347c",
+   "op": "text",
+   "follows_choice": [
+    "24:3460"
+   ],
+   "en": "\"...Uh.\nThank you.\"\nI just thanked him and didn't reach for it.\nIt might have been rude not to drink it, but something unknown like that is scary, after all.\nTakeuchi didn't push it any further, either.\nA long time passed after that, but my nerves didn't ease at all.\nIf anything, the more time passed, the tenser I got.{p}"
+  },
+  {
+   "id": "24:35d4",
+   "op": "text",
+   "en": "\"You've heard the rumor about me, haven't you, Hosoda?\"\nTakeuchi said that out of nowhere.\nIf it was a rumor, there was only one it could be.\nI nodded silently.\n\"To tell you the truth...\nThat rumor is true.\nI've never gone to the toilet.\nBecause I don't need to.\"\nWhen someone says something like it's the most natural thing in the world, you end up oddly convinced.\nSomehow, it started to seem natural to me, too.\nEven so, Takeuchi and I were different.\nMaybe because we were talking about it, I suddenly needed to go to the toilet.\n\"...Um.\nWhere's the toilet?\"\nThat's when Takeuchi gave a strange laugh.\n\"The toilet, huh? There isn't one in this house.\nNobody who lives here ever goes to the toilet.\nSorry.\n...If you can't hold it, you should drink that tea.\"{p}"
+  },
+  {
+   "id": "24:38a4",
+   "op": "text",
+   "en": "Then he pointed his chin at that Sanbura tea.\nNo toilet in the house?\nCan you believe that?\nWhat's more, he was saying it wasn't just Takeuchi who never went; it was everyone in the house.\nI was so shocked I couldn't speak.\n\"That tea is really good for your health.\nIt removes all the impurities from your body.\nIt turns what would normally become waste into sweat, and pushes it out through every pore of your body.\nSo no matter how much you eat, you never get fat.\nAnd it's good for you, too.\nIsn't that wonderful?\"\nThat's what he started saying.\nWhat should I do?{p}Should I try drinking the tea?\n"
+  },
+  {
+   "id": "24:3ac0",
+   "op": "choice",
+   "en": "Drink it"
+  },
+  {
+   "id": "24:3ac8",
+   "op": "choice",
+   "en": "Don't drink it"
+  },
+  {
+   "id": "24:3ad4",
+   "op": "text",
+   "follows_choice": [
+    "24:3ac8"
+   ],
+   "en": "Even so, I didn't drink it.{p}"
+  },
+  {
+   "id": "24:3b04",
+   "op": "text",
+   "en": "Takeuchi edged closer to me.\nHis face was still smiling, but there was something really frightening about him.\n\"Come on, there's no need to be shy.\nDrink that tea and right away you won't need to go to the toilet anymore.\nAnd your body's whole constitution changes, amazingly.\nIt feels fantastic.\nCome on, just humor me and drink it.\"{p}"
+  },
+  {
+   "id": "24:3c40",
+   "op": "text",
+   "en": "Takeuchi had come so close his breath was on my cheek.\nTakeuchi's breath smelled very rank and grassy.\nThat was when it happened.{p}"
+  },
+  {
+   "id": "24:3cc0",
+   "op": "text",
+   "en": "I saw it.\nUnder the skin of Takeuchi's cheek, tiny green things were squirming around.\nLike the microorganisms you see when you look through a microscope.\nYou'd never notice unless you looked really close.\nMaybe Takeuchi read the look on my face.\n\"There's nothing to be afraid of.\nThese are a kind of plant.\nThey become active once they get inside a human body.\nJust like animals.\nAnd they eat up all the impurities for you.\nSo there's nothing to be afraid of.\nIt's not scary at all.\"\nAs he said it, Takeuchi's eyes were not those of a normal person.\nAnd then I saw it.{p}"
+  },
+  {
+   "id": "24:3ef0",
+   "op": "text",
+   "en": "Tiny green bug-like things, writhing even inside Takeuchi's eyeballs.\nI was too scared to move.\nI'll never forget Takeuchi's face at that moment as long as I live.{p}"
+  },
+  {
+   "id": "24:3fa8",
+   "op": "text",
+   "en": "\"...It might itch a little at first.\nThey're active under the skin, you see.\nWhen they chew through your blood vessels and race all through your body with your blood, you might feel a little nauseous.\nBut hey, that's only at first.\nYou'll get used to it soon.\nThe important thing is getting used to drinking it.\nAfter that, you'll feel refreshed.\"\nAs he said that, Takeuchi pinned my body down.\nAnd then he forced the Sanbura tea down my throat.{p}"
+  },
+  {
+   "id": "24:4134",
+   "op": "text",
+   "en": "\"Ugh!\"\nI spat it out on reflex.\nHow foul it was... I can't even put it into words.\nLike crushing an insect between your teeth and using your tongue to spread the juices that ooze out of it all over your mouth...\nThe taste must have been something close to that.\nIn exchange for never having to go to the toilet, you stop being human.\nYou become a human-plant hybrid.\nNo, maybe drinking that tea lets the plants take you over.{p}"
+  },
+  {
+   "id": "24:42cc",
+   "op": "text",
+   "en": "Takeuchi breathed his grassy breath on me.\n\"I have a feeling you and I could be good friends.\nRight, Hosoda?\"\nAs he said it, his mouth opened wide.{p}"
+  },
+  {
+   "id": "24:4384",
+   "op": "text",
+   "en": "The inside of his mouth was completely covered in earth-colored plant vines, or roots, or something like that.\nThey had dug into the flesh of his mouth, and they were twitching and quivering.{p}"
+  },
+  {
+   "id": "24:4424",
+   "op": "text",
+   "en": "And from deep in his throat, a grublike creature thickly covered in something like moss was peeking out.\nWas it a plant, an animal, or an insect...?{p}"
+  },
+  {
+   "id": "24:44c4",
+   "op": "text",
+   "en": "\"Aaagh!\"\nI shoved Takeuchi away and ran out of the house as fast as I could.\nEven after I got home, I was shaking all over for a while.\nWorst of all, for two or three days that taste wouldn't leave my mouth.\nI couldn't eat anything.\nWhatever I ate, that taste would spread through my whole mouth...\nI stayed home from school for several days, too.{p}"
+  },
+  {
+   "id": "24:461c",
+   "op": "text",
+   "en": "When I finally felt better and went to school, I heard Takeuchi had suddenly transferred.\nI didn't tell anyone that I'd gone to Takeuchi's house, or about what happened there.\nEven if I told people what I went through, nobody would believe me anyway.\nToday is the first time I've ever told this story.\n{a}{f:|}.\nIf you'd been in my place back then, what would you have done?\nWould you stop being human in exchange for a comfortable body?\nIf someone somewhere ever offers you some mysterious tea, I think you'd better not touch it.\nThere are still lots of things in this world that people like us can't understand.{p}"
+  },
+  {
+   "id": "24:485c",
+   "op": "text",
+   "en": "...To tell you the truth, I'm looking for that Sanbura tea right now.\nI went to Takeuchi's house, but they'd already moved out, so I can't get any from him...\nLately, I keep strangely remembering what Takeuchi said back then: that once you drink it, you get used to it.\nIt tastes awful, but sometimes you want to taste something like that again anyway.\nNo, for some reason, I feel like this time I could actually enjoy it.{p}"
+  },
+  {
+   "id": "24:49b8",
+   "op": "text",
+   "en": "And, it's probably just my imagination, but lately my body's been strangely itchy.\nIt feels like something's under my skin, and I can't stand it.\nI spat it out right away back then, but maybe, without realizing it, I swallowed a little of the Sanbura tea.\nAnd maybe, over all these years, it's been settling into my body.{p}"
+  },
+  {
+   "id": "24:4b04",
+   "op": "text",
+   "en": "...I'm sure it's just my imagination.\nHere, take a look inside my mouth.\nYou don't see anything weird, do you?\n...It's okay.\nI'm still human.\nBut, {a}{f:|}.\nIf you ever hear any rumors about Sanbura tea somewhere, be sure to tell me.\nPlease, I'm begging you.\nThat's the end of my story, but... you promise, right, {a}{f:|}?{p}"
+  },
+  {
+   "id": "24:4c38",
+   "op": "text",
+   "follows_choice": [
+    "24:10b4"
+   ],
+   "en": "I see.\nThen take a guess.\nWhere do you think it is?{p}"
+  },
+  {
+   "id": "24:4c80",
+   "op": "text",
+   "follows_choice": [
+    "24:110c"
+   ],
+   "en": "Do you really think so?\nDon't tell me you get called to the faculty room a lot?\nWhen it comes to the place everyone goes in and out of at school, it's got to be the restroom.{p}"
+  },
+  {
+   "id": "24:4d1c",
+   "op": "text",
+   "follows_choice": [
+    "24:111c"
+   ],
+   "en": "The club room, huh...\nWell, clubs are certainly big at this school.\nI can see why you'd think that.\nBut I was hoping for a different answer.{p}"
+  },
+  {
+   "id": "24:4db8",
+   "op": "text",
+   "en": "...You don't know?\nOh well, I'll tell you.\nIt's the restroom.{p}"
+  },
+  {
+   "id": "24:4e0c",
+   "op": "text",
+   "follows_choice": [
+    "24:1124"
+   ],
+   "en": "No, no.\nYou don't get it.\nSure, everyone passes through the school gate a lot, but...{p}"
+  },
+  {
+   "id": "24:4e68",
+   "op": "text",
+   "en": "I think people go in and out of the restroom more.\nI mean, girls often go to the restroom together with their friends, right?\nSeveral times a day, even.\nAnd guys, if they're at school for hours, will use the restroom a few times too.\nSo it's the restroom after all.{p}"
+  }
+ ]
+}

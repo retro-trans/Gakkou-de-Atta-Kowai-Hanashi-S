@@ -1,0 +1,434 @@
+{
+ "slice": "S195",
+ "scene": "50",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S194",
+ "next": "S196",
+ "todo": [],
+ "rows": [
+  {
+   "id": "50:0c8c",
+   "op": "text",
+   "en": "Nice to meet you all.\nMy name is Shoji Arai, from Class 2-B.\n...Kazama.\nIt may not be my place as your junior to say this, but frankly, I dislike you.\nWhat was that flippant attitude just now?\nYou're making a mockery of this project.\nThis school, you see, truly is home to countless spirits.\nThe spirits must be more than a little angry at your attitude.\nPeople like you are called swindlers.\nCon men, that's what they're called.{p}"
+  },
+  {
+   "id": "50:0e30",
+   "op": "text",
+   "en": "...Do you feel even the slightest bit sorry?\nI suppose a person like you never feels sorry for anything.\nYou probably intend to spend your whole life cracking jokes.\n...That's fine, I suppose.\nIt's your life, after all.\nHowever, please do not drag me into it.\nIf you drag me into it, I won't hesitate to resort to retaliation.\n...Well then, let us begin.\nThanks to what you just did, Kazama, I have to change the story I prepared.\nYou see, the angry spirits must be appeased.\n...Allow me to turn off the lights.{p}"
+  },
+  {
+   "id": "50:1034",
+   "op": "text",
+   "en": "\"Hold it right there!\"{p}"
+  },
+  {
+   "id": "50:1064",
+   "op": "text",
+   "en": "Kazama suddenly turned the lights back on.\n{f:It seemed|Oh no, it looked like} he was really angry{f:.|!}\nKazama had it coming, but the barbed way Arai had just put it was pretty harsh too{f:, I thought.|, wasn't it?}\nMaybe it was no wonder he was angry.{p}"
+  },
+  {
+   "id": "50:1150",
+   "op": "text",
+   "en": "\"Now see here, isn't that a bit much?\nI'm not fond of resorting to violence, you see.\nSo I'll keep this civil, but...\nWasn't the way you said that just now uncalled for?\"{p}"
+  },
+  {
+   "id": "50:11ec",
+   "op": "text",
+   "en": "Arai shot back.\n\"...Why is that?\nI only said what I honestly felt.\nI came here in all seriousness.\nI thought this would be a more sacred gathering, you see.\nAnd yet you went and ruined it.\nIsn't it only natural that I'm angry?\nI'm sure everyone gathered here was offended as well.\"\nMuttering all this, Arai ran a slow, crawling gaze over Kazama.\nThe mood was turning really {f:ugly|ugly}.{p}"
+  },
+  {
+   "id": "50:1390",
+   "op": "text",
+   "en": "What should I do?\nShould I {f:step in|step in} and stop them?\n"
+  },
+  {
+   "id": "50:13cc",
+   "op": "choice",
+   "en": "Stop them"
+  },
+  {
+   "id": "50:13d4",
+   "op": "choice",
+   "en": "Watch a little longer"
+  },
+  {
+   "id": "50:13e8",
+   "op": "text",
+   "follows_choice": [
+    "50:13d4"
+   ],
+   "en": "The mood made it {f:hard|hard} to cut in.\n{f:I|I} decided to watch a little longer.{p}"
+  },
+  {
+   "id": "50:145c",
+   "op": "text",
+   "en": "\"Look here, you.\nYou're awfully cheeky for a junior.\nThere's a certain respect you owe your elders, isn't there?\nDid I cause you any trouble?\nAre you saying I caused you some kind of trouble?\"{p}"
+  },
+  {
+   "id": "50:1518",
+   "op": "text",
+   "en": "\"Yes.\nYou most certainly did.\"\nArai said it flatly.\nBut those words only seemed to make Kazama {f:angrier|even angrier}.{p}"
+  },
+  {
+   "id": "50:15bc",
+   "op": "text",
+   "en": "\"...Oh? Now that's interesting.\nYou've got quite a sense of humor yourself.\nSo you're saying I caused you trouble, are you?\nEven a gentleman like me will resort to violence if you push it too far.\"\nKazama's face was smiling{f:, but|, but} it was twitching, tight with strain.{p}"
+  },
+  {
+   "id": "50:16c8",
+   "op": "text",
+   "en": "\"Fine by me.\nIf you want to resort to barbarism, go right ahead.\"\nArai wasn't backing down either.\nEveryone was watching to see how it would play out.\nThe mood was getting uglier and {f:uglier|uglier}.{p}"
+  },
+  {
+   "id": "50:1788",
+   "op": "text",
+   "en": "What do I do?\nAt this rate, Kazama might really get violent.{p}What {f:will I do|should I do}?\nIs it time I stepped in to stop them{f:?|?}\n"
+  },
+  {
+   "id": "50:1828",
+   "op": "choice",
+   "en": "Stop them"
+  },
+  {
+   "id": "50:1830",
+   "op": "choice",
+   "en": "I want to watch a bit longer"
+  },
+  {
+   "id": "50:1848",
+   "op": "text",
+   "follows_choice": [
+    "50:1830"
+   ],
+   "en": "If {f:I|I} stop them now, it might only make things worse{f:.|.}\nBesides, {f:I'm|I'm} still just a first-year{f:.|.}\nIt might be odd for {f:me|me} to butt in.\nI'll just keep watching a little longer.{p}"
+  },
+  {
+   "id": "50:1930",
+   "op": "text",
+   "en": "\"...I see.\nSo you want me to resort to violence.\nWell then, I'll take you up on that kind offer.\nBut I'm a rational person, you know.\nBefore that, why don't you tell me exactly how I've caused you trouble?\"\nKazama's hands were shaking.\nI could tell he was clenching his fists hard.\n...This could be bad.\nMaybe Arai, as the junior, should just apologize.{p}"
+  },
+  {
+   "id": "50:1ac0",
+   "op": "text",
+   "en": "\"...I see.\nYou really are a complete idiot.\nSo you're telling me you can't understand how you've troubled me unless I go out of my way to spell it out?\"\nArai {f:stayed|stayed} spoiling for a fight to the very end.{p}"
+  },
+  {
+   "id": "50:1b84",
+   "op": "text",
+   "en": "\"...Yeah, that's right.\nBecause I'm an idiot.\"\nKazama's voice was shaking.\nHe was on the verge of {f:snapping|snapping}.{p}"
+  },
+  {
+   "id": "50:1bf8",
+   "op": "text",
+   "en": "\"Because the spirits are angry.\nYour stupid jokes have made the spirits angry.\nDo you understand?\nIf this goes on, it won't just be me. Everyone here will suffer for it.\nOf course, in your case, you'd only have yourself to blame.\"\nArai was deadly serious.\nHis words actually sent a chill through {f:me|me}.\nThat was how heavy they were.{p}"
+  },
+  {
+   "id": "50:1d44",
+   "op": "text",
+   "en": "Everyone was listening to Arai with wide eyes.\nIt wasn't so much that his words were persuasive. They made you feel that something truly bad was about to happen.{p}"
+  },
+  {
+   "id": "50:1dec",
+   "op": "text",
+   "en": "In the heavy silence, Kazama alone laughed.{p}"
+  },
+  {
+   "id": "50:1e28",
+   "op": "text",
+   "en": "\"Ahahahaha... how ridiculous.\nThe spirits are angry?\nI've been listening this whole time, and what is your deal?\nYou picking a fight with me?\nCome on, you're not a kid anymore.\nTry acting a little more grown-up.\nDo you seriously believe in stuff like ghosts?\"\nKazama was openly mocking him.\nThis could be bad.\n{f:I|I} had sensed something in this room too, and now I could somehow feel its presence growing stronger.\nMaybe the spirits really were angry.\n\"Don't talk nonsense. Ghosts, my foot.\nAll those stories you guys have been telling are made up anyway, right?\nNot one of you actually believes that stuff.\nAhahahaha...\"{p}"
+  },
+  {
+   "id": "50:206c",
+   "op": "text",
+   "en": "Every time Kazama spoke, I could feel the air that filled the room growing wilder.{p}"
+  },
+  {
+   "id": "50:20c0",
+   "op": "text",
+   "en": "At this rate, even {f:we|we} might not get out of this unharmed.\nBut if {f:I|I} butt in, won't it only make things more awkward{f:?|?}{p}What do I do?\n"
+  },
+  {
+   "id": "50:2164",
+   "op": "choice",
+   "en": "Stop them"
+  },
+  {
+   "id": "50:216c",
+   "op": "choice",
+   "en": "Watch a little longer"
+  },
+  {
+   "id": "50:2180",
+   "op": "text",
+   "follows_choice": [
+    "50:2164"
+   ],
+   "en": "That's {f:right|right}.\n{f:I'm|I'm} the one who has to keep this gathering together{f:.|.}\nI can't just {f:stand by and watch this|stand by and watch this}.{p}"
+  },
+  {
+   "id": "50:2240",
+   "op": "text",
+   "en": "\"Please stop it, both of you.\"\n{f:I|I} stood up.\nThen I looked at the two of them.\n\"Please, both of you, stop this already.\n{f:We|We} didn't get together to fight.\nWe asked you all to come here so we could put the school's seven wonders in the newspaper.\"{p}"
+  },
+  {
+   "id": "50:234c",
+   "op": "text",
+   "en": "\"{f:That's all well and good|Oh}, {f:but look|sorry, sorry}.\nI {f:want to settle this peacefully|don't want to make things hard for you}.\nBut isn't Arai the problem here{f:?|, hm?}\nHe's the one picking a fight with me{f:.|, after all.}\"\nKazama sighed, as if the whole thing were a bother.\nKazama had a point.{p}"
+  },
+  {
+   "id": "50:2494",
+   "op": "text",
+   "en": "\"...Don't you see, {a}{f:|}?\nI'm trying to help everyone here.\nWe have to make sure we don't get cursed because of one insolent fool.\"\nArai had a point too.\nKazama, who had made a joke of the whole thing, was to blame as well{f:.|, wasn't he?}{p}"
+  },
+  {
+   "id": "50:2588",
+   "op": "text",
+   "en": "What {f:am I|am I} supposed to do{f:?|?}\n"
+  },
+  {
+   "id": "50:25c0",
+   "op": "choice",
+   "en": "Side with Kazama"
+  },
+  {
+   "id": "50:25d4",
+   "op": "choice",
+   "en": "Side with Arai"
+  },
+  {
+   "id": "50:25fc",
+   "op": "text",
+   "follows_choice": [
+    "50:25d4"
+   ],
+   "en": "\"Kazama.\nWhy don't we leave this to Arai?\nAfter all, it's Arai's turn to tell a story.\nIf you have something to say, could it wait until after we've heard Arai's story?\"\nDid Kazama not like that {f:I'd|I'd} taken Arai's side{f:?|?}\nKazama turned away and spat out a curt reply.\n\"{f:...Suit yourself.|You're siding with this guy?}\n{f:If anything happens|Oh, the horror}, {f:don't blame me|I could just die of shock...}\"{p}"
+  },
+  {
+   "id": "50:27cc",
+   "op": "text",
+   "en": "{f:...It couldn't be helped.|He was sulking big-time.}\nIf I tried to soothe Kazama, things would only get more complicated{f:.|.}{p}"
+  },
+  {
+   "id": "50:2844",
+   "op": "text",
+   "en": "I decided to leave it to Arai.\n\"...All right then, Arai.\nGo ahead, please.\"\nArai gave a small nod.{p}"
+  },
+  {
+   "id": "50:28c4",
+   "op": "text",
+   "en": "\"I see.\nA wise choice.\nNow then, I'll turn off the lights.\nThe raging spirits must be appeased.\"{p}"
+  },
+  {
+   "id": "50:2958",
+   "op": "text",
+   "en": "Thank you all for your cooperation.\nLet me explain why I turned off the lights.\nThere's no need to be afraid.\nIn any case, the spirits are in an extremely dangerous state right now.\n...Strictly speaking, I wonder whether we can even call it a spirit.\nI have my doubts about that myself.\nRather than a spirit, it is a 'something' that is here.\nIt seems the people gathered here have a strong sixth sense.\nAll except one...\nSo I imagine you can all feel it too.\nThe presence of that something.\nAnd that it is angry, too.\nI turned off the lights so that the something would calm down, even a little.\nBecause if that presence is in a dangerous state, then we are in a very dangerous position ourselves.\nFrom now on, please do exactly as I say.\nIf you do, we should somehow be able to escape the danger.{p}Is that understood?\n"
+  },
+  {
+   "id": "50:2c18",
+   "op": "choice",
+   "en": "Answer yes"
+  },
+  {
+   "id": "50:2c28",
+   "op": "choice",
+   "en": "Answer no"
+  },
+  {
+   "id": "50:2c38",
+   "op": "text",
+   "follows_choice": [
+    "50:2c18"
+   ],
+   "en": "\"Yes.\"\n{f:I|I} answered right away.\nThere was nothing to do here but trust Arai{f:.|.}\nThe others gave their agreement too.\nThe only voice I didn't hear was Kazama's, though.\nArai went on.{p}"
+  },
+  {
+   "id": "50:2d20",
+   "op": "text",
+   "en": "...Thank you.\nNow then, listen carefully.\nEveryone, you must never turn around.\nNo matter what happens, you absolutely must not turn around.\nThey say humans are especially sensitive to spirits behind them.\nDo you know why?\nIt's because humans have no eyes in the back of their heads.\nThey say that because humans came to rely on their eyes, their sixth sense withered away.\nWhen you sense a spirit, you often feel it on your back, don't you?\nThat's because you have no eyes on your back.\nPeople often say a chill ran down their spine, don't they?\nThat's the same sort of thing.\nNow I'm going to have you all sense that 'something' with your backs.\nSo even in the dark, whatever you do, don't look behind you.\nYou may keep your eyes open.\nIn fact, it would be better to strain your eyes and stare straight ahead.\nInstead, focus every nerve you have on your back.\nAnd sense its presence.\nRight now, the 'something' should be circling this room.\nIt should be slowly circling behind each of you.\n...Even if you sense its presence, don't panic.\nAll we have to do is stay calm and keep still.{p}"
+  },
+  {
+   "id": "50:310c",
+   "op": "text",
+   "en": "Well?\nDid you sense a presence behind you?{p}"
+  },
+  {
+   "id": "50:3140",
+   "op": "text",
+   "en": "Don't let your guard down.\nEven if sweat runs down your face, don't wipe it away.\nDon't move...\nDon't move, focus every nerve...\nDon't be startled.\nWhatever happens, you mustn't be startled.\nHold your breath...\nFocus on your back...{p}"
+  },
+  {
+   "id": "50:3224",
+   "op": "text",
+   "en": "{a}{f:|}?\nI feel it's somewhere right behind you now.\nI'm sensing a powerful aura from your direction, {a}{f:|}.\nDon't you feel something on the back of your neck?\nDoesn't it feel like something is clinging to you, prickling your skin?\nDon't you feel a lukewarm breath of air blowing on your neck?\nDon't turn around.\nYou absolutely must not turn around...{p}"
+  },
+  {
+   "id": "50:3370",
+   "op": "text",
+   "en": "{f:It's|It's} Kazama!\nThat was Kazama's voice just now{f:!|!}\n\"Wait a minute!\nI'll turn on the lights right now!\"{p}"
+  },
+  {
+   "id": "50:3410",
+   "op": "text",
+   "en": "...Kazama was all right.\nBut...\nThere was something unspeakable on Kazama's back.\nA creature like a starving ghoul, with a skull-like face and huge, glaring eyeballs, had wrapped its arms around his neck from behind and was clinging to him, draped over his back.\nAs I stared in shock, {f:the thing|it} vanished in an instant.{p}"
+  },
+  {
+   "id": "50:3538",
+   "op": "text",
+   "en": "As if it had been sucked inside Kazama.{p}"
+  },
+  {
+   "id": "50:358c",
+   "op": "text",
+   "en": "\"...Kazama.\nYou turned around, didn't you?\nThe truth is, there was never anything behind {a}{f:|}.\nThat thing was after you from the start.\nIt was behind you the whole time.\nI was waiting for you to turn around.\"\nArai said this with a smile forming on his lips.\nBut his eyes weren't smiling.{p}"
+  },
+  {
+   "id": "50:36e8",
+   "op": "text",
+   "en": "...Kazama looked dazed.\nMaybe it was my imagination, but he looked pale{f:.|.}\n\"...Really?\nDid something happen?\nI don't really get it...\nThere's no such thing as ghosts in this world.\nI didn't see anything...\"\nHe seemed {f:terribly sluggish|terribly sluggish}.\nAll his energy from before was {f:gone|gone}.{p}"
+  },
+  {
+   "id": "50:3820",
+   "op": "text",
+   "en": "\"...Kazama.\nYou've been possessed.\nBut that doesn't mean it's over.\nThere are still all sorts of things in this room.\nIt seems we've drawn them here.\n{a}{f:|}.\nYou saw it clearly just now, didn't you?\"\nArai looked at {f:me|me}.{p}What should {f:I|I} say?\n"
+  },
+  {
+   "id": "50:3968",
+   "op": "choice",
+   "en": "I saw it"
+  },
+  {
+   "id": "50:3970",
+   "op": "choice",
+   "en": "I didn't see it"
+  },
+  {
+   "id": "50:397c",
+   "op": "text",
+   "follows_choice": [
+    "50:3968"
+   ],
+   "en": "Overwhelmed by Arai's intensity, {f:I|I} nodded as if prompted.\nArai looked satisfied.\n\"...You won't mind if I count what just happened in place of the seven wonders story I was going to tell, will you?\nAfter all, you've experienced something very few people ever get to.\"\n{f:I|I} nodded silently.\nArai's gaze drifted absently through the air, looking at who knows what.\n\"Ah... there are still so many.\nAll sorts of things are still here.\nI suppose they're after us.\nHeh heh... If we keep on with the seven wonders, I wonder if even we will make it home safely.\"{p}"
+  },
+  {
+   "id": "50:3bc4",
+   "op": "text",
+   "en": "With that, Arai turned his eyes to Kazama.\nKazama had a glazed, vacant look, with no sign of life in him.\nHad that monster really possessed him, just as Arai said{f:?|?}{p}"
+  },
+  {
+   "id": "50:3c8c",
+   "op": "text",
+   "en": "\"Now then, {a}{f:|}.\nShall we hear the next person's story?\nMine was the fifth, so the next one will be the last.\nIt doesn't look like a seventh person is going to show up...\"\nHe was right{f:.|.}\nIf the seventh person still hadn't come by this late, they probably weren't coming at all{f:.|.}{p}Just one left.\n{f:I|I} turned my eyes to the one who remained.\nTo hear the final story...{p}"
+  },
+  {
+   "id": "50:3e0c",
+   "op": "text",
+   "follows_choice": [
+    "50:13cc"
+   ],
+   "en": "\"Hey, come on, let's stop this.\"\n{f:I|I} stood up.\nAt this rate, it could turn into a real fight{f:.|.}{p}"
+  },
+  {
+   "id": "50:3e94",
+   "op": "text",
+   "en": "Kazama gave an exaggerated shrug.\n\"{f:Sure|Oh}, {f:I'd like to stop too|my honey}.\n{f:But|I'd like to stop too}{f: you saw what happened.|, but, well...}\nArai's the one who picked the fight first{f:.|, after all.}\n{f:It wasn't me.|Go tell him that.}\"\nArai said nothing, glaring up at Kazama from under his brows.\nKazama pointed rudely at Arai.\n\"If you want me to stop, {f:make this guy apologize|I'd like you to make Arai apologize}.\nI was humiliated in front of everyone.\nI demand an apology.\"{p}"
+  },
+  {
+   "id": "50:4098",
+   "op": "text",
+   "en": "Everyone looked at Arai.{p}"
+  },
+  {
+   "id": "50:40c0",
+   "op": "text",
+   "en": "Arai...\n"
+  },
+  {
+   "id": "50:40d4",
+   "op": "choice",
+   "en": "Apologized"
+  },
+  {
+   "id": "50:40dc",
+   "op": "choice",
+   "en": "Didn't apologize"
+  },
+  {
+   "id": "50:40ec",
+   "op": "text",
+   "follows_choice": [
+    "50:40d4"
+   ],
+   "en": "Arai bowed his head just slightly.\n\"...I'm sorry.\nThe blood rushed to my head, and I just...\"\nHe mumbled it under his breath.{p}"
+  },
+  {
+   "id": "50:4180",
+   "op": "text",
+   "en": "\"As long as you understand.\nI don't want to stir up trouble for no reason either, you know.\nRight?\"\nHis expression stayed stiff, but Kazama seemed to have gotten over it.\nThank goodness.\nFor a moment there, I didn't know what would happen.\nNow Arai could go on with his story.\nAs {f:I|I} turned to him, I caught my breath.{p}"
+  },
+  {
+   "id": "50:42a0",
+   "op": "text",
+   "en": "{f:Arai|Arai} wore an indescribably bitter, resentful look{f:.|...}\nHis head was lowered, so the others apparently couldn't see it{f:.|.}\nArai {f:must have|seemed to have} felt {f:my|my} gaze.\n{f:Only his|Only his} eyes rolled over to {f:look|look} at me.\nCold eyes.\nWas he angry that he'd had to apologize{f:?|?}\nHis expression all but said it was because {f:I|I} had stuck my nose in.\nBefore I had a chance to say anything, Arai went right ahead and began his story.{p}"
+  },
+  {
+   "id": "50:4484",
+   "op": "text",
+   "en": "...Well then, let us continue the story.\nPlease turn off the lights.{p}"
+  },
+  {
+   "id": "50:44dc",
+   "op": "text",
+   "en": "Thank you all for your cooperation.\nLet me explain why I turned off the lights.\nThe truth is, there's something dangerous here right now.\nAnd it is angry.\nAnyone with even a little sixth sense should be able to feel it.\nI turned off the lights so that the something would calm down, even a little.\nBecause if that presence is in a dangerous state, then we are in a very dangerous position ourselves.\nFrom now on, please do exactly as I say.\nIs that understood?\nEveryone, you must never turn around.\nNo matter what happens, you absolutely must not turn around.\nThey say humans are especially sensitive to spirits behind them.\nDo you know why?{p}"
+  },
+  {
+   "id": "50:4738",
+   "op": "text",
+   "en": "It's because humans have no eyes in the back of their heads.\nThey say that because humans came to rely on their eyes, their sixth sense withered away.\nWhen you sense a spirit, you often feel it on your back, don't you?\nThat's because you have no eyes on your back.\nPeople often say a chill ran down their spine, don't they?\nThat's the same sort of thing.\nNow I'm going to have you all sense that 'something' with your backs.\nSo even in the dark, whatever you do, don't look behind you.\nYou may keep your eyes open.\nIn fact, it would be better to strain your eyes and stare straight ahead.{p}"
+  },
+  {
+   "id": "50:491c",
+   "op": "text",
+   "en": "Instead, focus every nerve you have on your back.\nAnd sense its presence.\nRight now, the 'something' should be circling this room.\nIt should be slowly circling behind each of you.\n...Even if you sense its presence, don't panic.\nAll we have to do is stay calm and keep still.\nWell?\nDid you sense a presence behind you?\nDon't let your guard down.\nEven if sweat runs down your face, don't wipe it away.\nDon't move...\nDon't move, focus every nerve...\nDon't be startled.\nWhatever happens, you mustn't be startled.\nHold your breath...\nFocus on your back...{p}"
+  },
+  {
+   "id": "50:4b4c",
+   "op": "text",
+   "en": "{a}{f:|}?\nI feel it's somewhere right behind you now.\nI'm sensing a powerful aura from your direction, {a}{f:|}.\nDon't you feel something on the back of your neck?\nDoesn't it feel like something is clinging to you, prickling your skin?\nDon't you feel a lukewarm breath of air blowing on your neck?\nDon't turn around.\nYou absolutely must not turn around...\nJust then, I felt a lukewarm breath by my ear.\nI desperately held back the scream that rose in my throat.\nSomething was behind {f:me|me}☆\nSweat burst from every pore of my body.\nMy heart felt like it would leap out of my mouth{f:.|.}\nI mustn't turn around.\nArai had said so.\nSo I {f:can't|can't} turn around.\nI knew that.\nBut...{p}"
+  },
+  {
+   "id": "50:4dc0",
+   "op": "text",
+   "en": "{f:I|I} turned around.{p}"
+  },
+  {
+   "id": "50:4df8",
+   "op": "text",
+   "en": "There was something unspeakable there.\nA creature like a starving ghoul, with a skull-like face and huge, glaring eyeballs, was so close it looked ready to bite into me.\n...{f:I|I} may have screamed.\nAn instant later, the thing vanished.{p}"
+  },
+  {
+   "id": "50:4ee8",
+   "op": "text",
+   "en": "As if it had burrowed into {f:my|my} back.\nThe moment it did, my body suddenly turned heavy.{p}"
+  },
+  {
+   "id": "50:4f5c",
+   "op": "text",
+   "en": "At some point, the lights had come on.\nArai was peering down at {f:me|me}.{p}"
+  },
+  {
+   "id": "50:4fc8",
+   "op": "text",
+   "en": "\"{a}{f:|}, you saw it just now, didn't you?\"\nA whispering voice.\n\"I told you not to look.\nYou didn't listen to me, so you've been punished.\"\n{f:What|What}?\nWhat is he {f:talking about|talking about}?{p}"
+  },
+  {
+   "id": "50:50b4",
+   "op": "text",
+   "en": "\"But you know... the truth is, I knew you would turn around.\nYou look like the curious type, after all.\nSo I deliberately called that thing up behind you.\"\nArai laughed under his breath.\nIt felt utterly evil.\n\"You've been possessed............by It.\"{p}"
+  },
+  {
+   "id": "50:51c0",
+   "op": "text",
+   "en": "Possessed?\nWho on earth {f:is|is} this 'It'★\nQuestions whirled around and around in my head.\nBut I couldn't put them into words.\nIt was as if my tongue had turned to stone; I couldn't speak.\nWas this {f:because|because} I'd been possessed by the 'It' Arai talked about★{p}"
+  }
+ ]
+}

@@ -1,0 +1,469 @@
+{
+ "slice": "S035",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S034",
+ "next": "S036",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:258f0",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:2590c",
+   "op": "text",
+   "follows_choice": [
+    "07:24da8",
+    "07:25a24",
+    "07:25b50"
+   ],
+   "en": "Should I search the boys' restroom or the girls' restroom?\n"
+  },
+  {
+   "id": "07:2593c",
+   "op": "choice",
+   "en": "The boys' restroom"
+  },
+  {
+   "id": "07:25948",
+   "op": "choice",
+   "en": "The girls' restroom"
+  },
+  {
+   "id": "07:25954",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:25978",
+   "op": "text",
+   "follows_choice": [
+    "07:25948"
+   ],
+   "en": "The girls' restroom had four stalls.\nI felt a little guilty going in, but this was no time to worry about that.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:259f0",
+   "op": "choice",
+   "en": "The stall at the far end"
+  },
+  {
+   "id": "07:259f8",
+   "op": "choice",
+   "en": "Second stall from the far end"
+  },
+  {
+   "id": "07:25a08",
+   "op": "choice",
+   "en": "Third stall from the far end"
+  },
+  {
+   "id": "07:25a18",
+   "op": "choice",
+   "en": "The stall nearest the door"
+  },
+  {
+   "id": "07:25a24",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:25a3c",
+   "op": "text",
+   "follows_choice": [
+    "07:259f0",
+    "07:259f8",
+    "07:25a08",
+    "07:25a18"
+   ],
+   "en": "I'd try this one.\nI searched every inch of the stall.\n...Nothing.\nNo good.\nI'd have to search somewhere else.{p}"
+  },
+  {
+   "id": "07:25aa0",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25abc",
+   "op": "text",
+   "follows_choice": [
+    "07:2593c"
+   ],
+   "en": "The boys' restroom had four urinals and two toilet stalls.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25b18",
+   "op": "choice",
+   "en": "The urinals"
+  },
+  {
+   "id": "07:25b28",
+   "op": "choice",
+   "en": "The toilet in the far stall"
+  },
+  {
+   "id": "07:25b3c",
+   "op": "choice",
+   "en": "The toilet in the near stall"
+  },
+  {
+   "id": "07:25b50",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:25b5c",
+   "op": "text",
+   "follows_choice": [
+    "07:25b18"
+   ],
+   "en": "I looked over the row of four urinals.\n...Nothing seemed out of the ordinary.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:25bcc",
+   "op": "text",
+   "follows_choice": [
+    "07:25b28"
+   ],
+   "en": "I decided to search the toilet stall.\n...Surely it wouldn't be inside the toilet bowl itself, would it?\nI searched every inch.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:25c5c",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25c6c",
+   "op": "text",
+   "follows_choice": [
+    "07:25b3c"
+   ],
+   "en": "I decided to check the toilet in the stall.\nI opened the door.{p}"
+  },
+  {
+   "id": "07:25cc0",
+   "op": "text",
+   "en": "Suddenly, someone came at me!\nI threw my arms up to shield my head.\nSomething toppled against me with a clack.\nWhat the...?\n...A deck brush.{p}"
+  },
+  {
+   "id": "07:25d4c",
+   "op": "text",
+   "en": "Had someone propped it up in there as a prank?\nAnyway, there didn't seem to be anything here.{p}"
+  },
+  {
+   "id": "07:25db0",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25dcc",
+   "op": "text",
+   "en": "I decided to search the toilet stall.\n...Surely it wouldn't be inside the toilet bowl itself, would it?\nI searched every inch.\n...Nothing.{p}"
+  },
+  {
+   "id": "07:25e50",
+   "op": "text",
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:25e70",
+   "op": "text",
+   "follows_choice": [
+    "07:d9ec"
+   ],
+   "en": "I decided to try walking out through the school gate.\nWhat Hino had said might just be a bluff, after all.\nSlowly, I tried to step out past the gate.\n.........I couldn't.\nNo matter how often my reason told me it was fine, I was too scared to move my feet.\nWhat if they really did destroy the ampoule?\nI didn't know what kind of poison it was.\nI couldn't even explain it to a doctor.\nI gave up.{p}"
+  },
+  {
+   "id": "07:25fd8",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:26000",
+   "op": "text",
+   "follows_choice": [
+    "07:7734",
+    "07:f284"
+   ],
+   "en": "I came to the flower bed.\nFlowers were always blooming in profusion here.\nSo I'd always thought of it as a pretty place.\nBut seen like this, through the darkness of night, it felt somehow eerie.\nIt was as if something invisible were gathering here.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:260f4",
+   "op": "choice",
+   "en": "Dig up the flower bed"
+  },
+  {
+   "id": "07:26104",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:26130",
+   "op": "text",
+   "follows_choice": [
+    "07:26104"
+   ],
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:26144",
+   "op": "text",
+   "follows_choice": [
+    "07:260f4",
+    "07:264cc"
+   ],
+   "en": "I peered into the flower bed.\nIn one spot, the soil was heaped up unnaturally.\nCould it really be in a place like this?\nI began digging up the soil with my bare hands.\nThe damp, soft earth gave way without any resistance at all.\nAnd what turned up there was...\nA stick about the size of a sweet potato.\nIt was caked in mud, but when I looked closely, one end was rounded.\nIt bore a small pattern, like eyes and a nose.\nIn that case, was this a doll?\nJudging by its shape, it looked like a kokeshi.\nNow that I thought of it, I'd heard something once.\nThey say the word \"kokeshi\" comes from \"ko-keshi\" - \"erasing children.\"\nSupposedly, they were first made to mourn babies who couldn't be raised because their families were too poor.\nMaybe because it was so crudely made, this kokeshi brought that story to mind.\nPerhaps someone had made it by hand.\nBut why was it in a place like this?\nI had no idea.\n...There didn't seem to be anything else here.{p}"
+  },
+  {
+   "id": "07:2648c",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:264b8",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:264cc",
+   "op": "choice",
+   "en": "Dig up the flower bed"
+  },
+  {
+   "id": "07:264dc",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:26508",
+   "op": "text",
+   "follows_choice": [
+    "07:264dc"
+   ],
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:26534",
+   "op": "text",
+   "en": "I came back to the flower bed once more.\nI had a feeling there was nothing left worth looking at here.{p}"
+  },
+  {
+   "id": "07:265a8",
+   "op": "text",
+   "en": "What should I do?\n"
+  },
+  {
+   "id": "07:265bc",
+   "op": "text",
+   "en": "I decided to go to the home ec room.{p}"
+  },
+  {
+   "id": "07:265f0",
+   "op": "text",
+   "en": "When I tried to open the door, I realized it was locked.\nThat's right, I have to find the keys.\nWithout the keys, I can't get in anywhere.{p}"
+  },
+  {
+   "id": "07:26680",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:26694",
+   "op": "text",
+   "en": "I decided to go to the home ec room.{p}"
+  },
+  {
+   "id": "07:266c8",
+   "op": "text",
+   "en": "When I tried to open the door, I realized it was locked.\nThat's right, I have to find the keys.{p}"
+  },
+  {
+   "id": "07:26730",
+   "op": "text",
+   "en": "But where am I supposed to go?\n"
+  },
+  {
+   "id": "07:26750",
+   "op": "text",
+   "en": "I decided to go to the home ec room.{p}"
+  },
+  {
+   "id": "07:26778",
+   "op": "text",
+   "en": "I'll use the keys I brought from the staff room.{p}"
+  },
+  {
+   "id": "07:267b8",
+   "op": "text",
+   "en": "I wasn't very familiar with this room, so I hesitated a little over where to search.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:26810",
+   "op": "choice",
+   "en": "The desks"
+  },
+  {
+   "id": "07:26814",
+   "op": "choice",
+   "en": "The shelves"
+  },
+  {
+   "id": "07:26818",
+   "op": "choice",
+   "en": "Search somewhere else"
+  },
+  {
+   "id": "07:26830",
+   "op": "text",
+   "follows_choice": [
+    "07:26818"
+   ],
+   "en": "Where should I search?\n"
+  },
+  {
+   "id": "07:26844",
+   "op": "text",
+   "follows_choice": [
+    "07:26814"
+   ],
+   "en": "I decided to search the shelves.{p}"
+  },
+  {
+   "id": "07:26864",
+   "op": "text",
+   "en": "Bowls, cups and the like were neatly arranged.\nThe home ec teacher must be a really meticulous person.\nThere didn't seem to be any space here to hide an ampoule.{p}I'll search somewhere else.\n"
+  },
+  {
+   "id": "07:2690c",
+   "op": "text",
+   "follows_choice": [
+    "07:26810"
+   ],
+   "en": "I decided to search the desks.{p}"
+  },
+  {
+   "id": "07:2692c",
+   "op": "text",
+   "en": "Not that there was much to it; there were just eight or so big desks in rows.\nI was done searching them in no time.\nLooks like that was a waste of time.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:269b4",
+   "op": "text",
+   "en": "I decided to go to the home ec room.{p}"
+  },
+  {
+   "id": "07:269e8",
+   "op": "text",
+   "en": "I wasn't very familiar with this room, so I hesitated a little over where to search.{p}Where should I search?\n"
+  },
+  {
+   "id": "07:26a40",
+   "op": "text",
+   "en": "I went to the newspaper club room.\nI didn't want to go, thinking of the body lying in there, but I had no choice.{p}"
+  },
+  {
+   "id": "07:26ad0",
+   "op": "text",
+   "en": "...The body was still lying there.\nNot a pleasant sight.\nI'd better get this over with quickly.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:26b40",
+   "op": "text",
+   "en": "I'll try the newspaper club room one more time.{p}"
+  },
+  {
+   "id": "07:26b94",
+   "op": "text",
+   "en": "Now, what should I do?\n"
+  },
+  {
+   "id": "07:26ba8",
+   "op": "text",
+   "en": "I searched the shelves.\nThere was nothing in particular...{p}"
+  },
+  {
+   "id": "07:26be8",
+   "op": "text",
+   "en": "\"Aagh!\"\nSuddenly, a searing pain shot through my leg.\nI looked down and saw Iwashita sinking her teeth into my leg.\n...Had she been hiding under the table?{p}"
+  },
+  {
+   "id": "07:26c90",
+   "op": "text",
+   "en": "\"I'll kill you!\"\nIwashita lunged at me, her hair flying wildly.\nShe was clutching a rope in her hands.\nWas that the rope that had bound my hands and feet?\nI had no time to get my footing back.\nAs I fell, the rope looped around my neck.\n\"Die!\"\nThen Iwashita pulled with all her strength.\n\"Gaaack!\"\nIn one jerk, the rope cinched tight around my throat.\nI tried to tear Iwashita's arms away.\nBut they wouldn't budge.\nI couldn't believe a girl could be that strong.\nLittle by little, my strength drained away.\nI could feel the blood vessels in my head pounding violently, throb, throb.\nIn a place like this... am I going to die?\nI...\nThe rope strangled me without mercy.\nEverything before my eyes was turning red.\nI collapsed to the floor.\n...Faintly, through the red darkness, I could see Iwashita's triumphant smile.{p}"
+  },
+  {
+   "id": "07:26f38",
+   "op": "text",
+   "en": "I searched the shelves.\nThere didn't seem to be anything in particular.{p}What should I do?\n"
+  },
+  {
+   "id": "07:26f88",
+   "op": "text",
+   "en": "I searched the shelves.{p}"
+  },
+  {
+   "id": "07:26fac",
+   "op": "text",
+   "en": "...There's a notebook.\nOn it were written the words \"Grudge Notebook.\"{p}Should I read it?\n"
+  },
+  {
+   "id": "07:27008",
+   "op": "choice",
+   "en": "Read it"
+  },
+  {
+   "id": "07:27014",
+   "op": "choice",
+   "en": "Better not read it"
+  },
+  {
+   "id": "07:27038",
+   "op": "text",
+   "follows_choice": [
+    "07:d170",
+    "07:27014"
+   ],
+   "en": "Better not.\nI don't have time for that right now.\nI put the notebook back on the shelf.{p}What should I do?\n"
+  },
+  {
+   "id": "07:270ac",
+   "op": "text",
+   "follows_choice": [
+    "07:27008"
+   ],
+   "en": "I opened the notebook.\nInside were petty gripes written by Hino, Shindo and the others.\nSpilled coffee on me.\nGot barked at by a dog.\nHid my shoes.\nTold a stupid joke.\nSlapped me on the shoulder out of nowhere.\nWas noisy when I was sleepy.\nHas a vulgar laugh.\nNever apologized.\nPaid back the money I lent without interest.\nWouldn't let me copy their notes.\n...Along with that petty nonsense, many people's names were written down.{p}"
+  },
+  {
+   "id": "07:27234",
+   "op": "text",
+   "en": "An execution list...\nI caught my breath and read on.{p}"
+  },
+  {
+   "id": "07:27270",
+   "op": "text",
+   "en": "...There it was.\nMy name, at the very end.\nAnd written beside it was this...{p}"
+  },
+  {
+   "id": "07:272c0",
+   "op": "text",
+   "en": "Yo, {a}.\nI figured you'd come back to the newspaper club, so I'm leaving this notebook on the shelf for you.\nIf you find it, read it carefully.\nThese are the sinners we've killed so far.\nThe reasons you're going to be killed are many.\nYou've committed crimes that would justify the death penalty.\nThe charges are as follows.{p}"
+  },
+  {
+   "id": "07:273b4",
+   "op": "text",
+   "en": "You splashed water on Kazama's pants.\nYou ignored Shindo when he called out to you.\nArai was standing on the train, and you didn't give him your seat.\nYou looked at Iwashita and laughed.\nYou bought the last of the cafeteria curry, so Hosoda didn't get to eat any.\nFukuzawa stepped on gum you spat out.\nAnd my dad works at the same company as your dad.\nYour dad got promoted there, so my dad couldn't.\nThat's why you deserve to die.\nHino.{p}"
+  },
+  {
+   "id": "07:27560",
+   "op": "text",
+   "en": "...I turned to the last page.\nAt the very end of the notebook, it said this:\nA band of people chosen to make this world a paradise.\nThe Murder Club... it said.\nThe Murder Club?\nI've never heard of a club like that.\nAre all of these guys members of the Murder Club?{p}"
+  },
+  {
+   "id": "07:27660",
+   "op": "text",
+   "en": "I flung the notebook away.{p}"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "slice": "S191",
+ "scene": "48",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S190",
+ "next": "S192",
+ "todo": [],
+ "rows": [
+  {
+   "id": "48:5ea0",
+   "op": "text",
+   "follows_choice": [
+    "48:5b44"
+   ],
+   "en": "So you think so too!\nThen come with me to the art room!\nIf we go back there one more time, I know I'll hear her voice.\nI can hear out whatever it is she's trying to say.{p}"
+  },
+  {
+   "id": "48:5f3c",
+   "op": "text",
+   "en": "...You've got a look on your face like you're wondering why I'm so into this.\nI told you, didn't I? We were neighbors.\nBut that's not all.\nWell, I guess you could say I kind of had a crush on her...\nShe was someone special to me.\nTch, don't make me say dumb stuff like that.{p}"
+  },
+  {
+   "id": "48:603c",
+   "op": "text",
+   "en": "...Okay, we're here.\nI'm opening the door.{p}"
+  },
+  {
+   "id": "48:6080",
+   "op": "text",
+   "en": "...Good, the painting's just like it was before.\nGo on, get closer and take a look.\n...That's it.\nI don't know what it looks like to you.\nBut I can see bitter regret in her face.\nCome on, Shimizu!\nIf there's something you want to say, then say it!{p}"
+  },
+  {
+   "id": "48:6164",
+   "op": "text",
+   "en": "......I can hear a voice.\nIt's Shimizu's voice!\nYou understand me, don't you, Shimizu!\nThank god......{p}"
+  },
+  {
+   "id": "48:61f0",
+   "op": "text",
+   "en": "...See, {a}? Can you tell?\nThe painting's gone back to the beautiful Shimizu it used to be, right?\nShimizu says she was lonely.\nHer bitterness at being murdered and her anger at everyone who avoided her turned the painting into that thing.\nBut it's all right now.\nThe painting's back to normal, after all.\nI don't think you guys are going to die now either. Probably.{p}"
+  },
+  {
+   "id": "48:631c",
+   "op": "text",
+   "en": "...What did I do, you ask?\nI just told her that if she was lonely, she could come with me.\nShe was happy about it.\nCan't you see her?{p}"
+  },
+  {
+   "id": "48:63ac",
+   "op": "text",
+   "en": "Shimizu's right here on my shoulder now.\nYou look like you've got a strong sixth sense, so I figured you'd be able to see her.\nI don't care if she's an evil spirit.\nFrom now on, I'm going to be with Shimizu forever......\nWell then, let's head back to the newspaper club.\nWe've got to hear the next guy's story.{p}"
+  },
+  {
+   "id": "48:64ac",
+   "op": "text",
+   "follows_choice": [
+    "48:11c8"
+   ],
+   "en": "It was the smell of her room, see.\nSort of a sickly-sweet smell.\nBut that wasn't all.\nIf you paid attention, there was a faint stench too, kind of rank, the kind that makes the back of your throat sting.\nMaybe the sweet smell was perfume to cover up the stench.\nAnyway, it always bugged me.\nOne day, I'd gone over to her room to hang out like always.\nShe went out, saying she'd bring me some juice.{p}So there I was, left alone. What do you think I did?\n"
+  },
+  {
+   "id": "48:6674",
+   "op": "choice",
+   "en": "You sniffed the painting in her room"
+  },
+  {
+   "id": "48:6698",
+   "op": "choice",
+   "en": "You opened her desk drawer"
+  },
+  {
+   "id": "48:66bc",
+   "op": "text",
+   "follows_choice": [
+    "48:6674"
+   ],
+   "en": "There was a half-finished canvas in her room.\nI thought it might be the source of the stench, so I put my nose up close to it.\n......I thought I caught a faint whiff.\nBut I couldn't really tell.\nThe smell of the oil paint was too strong, that clammy, kerosene-like smell.\nJust then the door opened, and she came in carrying a tray.{p}"
+  },
+  {
+   "id": "48:67fc",
+   "op": "text",
+   "en": "So I never did find out what it was.{p}"
+  },
+  {
+   "id": "48:6850",
+   "op": "text",
+   "en": "But I'll never forget that smell.\nI know now: it smelled like tanned leather.\nI don't know why something like that would be in her room, though.\nSometimes I wonder if she was into black magic or something.{p}"
+  },
+  {
+   "id": "48:693c",
+   "op": "text",
+   "en": "Like maybe the four who died were killed by black magic too.\nAnybody know how to break a witch's curse?{p}"
+  },
+  {
+   "id": "48:69a4",
+   "op": "text",
+   "en": "...Of course you wouldn't know.\nLooks like my story was a waste of time.\nI thought maybe there was a chance of breaking her curse.\nWell, nothing we can do about it.\nWhich of us is gonna die first, you or me... or maybe we'll go together.\nEither way, you'd better hurry up and make your peace with it.\nThat's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "48:6ad4",
+   "op": "text",
+   "follows_choice": [
+    "48:6698"
+   ],
+   "en": "I had a feeling the stench was coming from her drawer.\nSo I quietly opened it.\nThe second I did, a foul reek hit my nose.\nThat smell.\nIt took everything I had not to throw up.\nThen I worked up the nerve and peered inside.{p}"
+  },
+  {
+   "id": "48:6bc0",
+   "op": "text",
+   "en": "What do you think was inside...?\nThin, tightly rolled-up things, kind of like paper.\nThere were tons and tons of them in there.\nI figured they had to be the stuff you paint on... canvas, right? That stuff.\nI knew she painted, after all.\nBut the stench seemed to be coming from those canvases.\nI reached out, scared stiff.\nThe instant I touched one, I knew what it was.\nIt wasn't cloth.\nAnd it sure as hell wasn't paper.\nIt was the skin of something.\nThat's where the stench was coming from.{p}"
+  },
+  {
+   "id": "48:6d90",
+   "op": "text",
+   "en": "Just then, a hand came down on my shoulder.\nShimizu had come back without me noticing, and she was standing there with a terrifying look on her face.\nHolding a tray with juice and an apple on it.\n\"So you've seen them.\"\nThat's what she murmured.\nHer usual gentle air had vanished without a trace.\n\"These are my treasures. The skins of the things I love most.\nWhen I use them as canvases and paint on them, the inspiration just wells up.\"{p}"
+  },
+  {
+   "id": "48:6f04",
+   "op": "text",
+   "en": "She had a paring knife clenched in her hand.\n\"I adore you too, you know. I meant to wait a little longer for the right time, but......\"\nThe knife glinted.\n\"Give me your skin!\"\nShe thrust the knife at me, and on instinct I rolled sideways and dodged it.{p}"
+  },
+  {
+   "id": "48:700c",
+   "op": "text",
+   "en": "Her face right then was just like a witch's.\nI got scared and shoved her as hard as I could.\nAnd while she was off balance, I bolted out of the room.\nEven after I'd run all the way home, my heart kept pounding for a good while.\nWas that who she really was?\nBehind all that kindness, had she been waiting for her chance to skin me?\nThinking about it scared me so bad that for a while I had nightmares every night.\nWe never got together again after that.\nI kept away from her, and whenever we ran into each other on the street, she'd ignore me.{p}"
+  },
+  {
+   "id": "48:71e4",
+   "op": "text",
+   "en": "...Looking back now, I wonder if that really happened.\nMaybe she was just messing with me.\nBut what if those things in the drawer really were skin?\nWhat if she really was trying to skin me......{p}"
+  },
+  {
+   "id": "48:72cc",
+   "op": "text",
+   "en": "That self-portrait of hers must have been painted on one of those canvases too.\nIsn't that why she kept trying to finish it even after she became a ghost? Because she didn't want anyone to find out?\nIf people learned where her inspiration really came from, they might come to loathe her work itself, and throw it out or burn it.\nI think that's what she feared most.\nBut a ghost's hands couldn't give it a proper finish.{p}"
+  },
+  {
+   "id": "48:744c",
+   "op": "text",
+   "en": "That painting turning into a horrifying face was meant to scare people so nobody would look at it.\nEven so, I bet the four who were killed were the ones who noticed something was off.{p}"
+  },
+  {
+   "id": "48:74f4",
+   "op": "text",
+   "en": "...Of course, that's just a guess.\nBut I'm pretty confident in this theory.\nAfter all, I actually saw those canvases with my own eyes.\nSo even if you've seen that face, I don't think you'll die, as long as you don't notice the canvas.\nFeel better?\n...Can't blame you if you don't.\nI mean, I just went and blabbed it all to you right now.\nShe might get angry, you know.{p}"
+  },
+  {
+   "id": "48:7674",
+   "op": "text",
+   "en": "But anyway, that's the end of my story.\nWho's going next?{p}"
+  },
+  {
+   "id": "48:76b0",
+   "op": "text",
+   "follows_choice": [
+    "48:11d4"
+   ],
+   "en": "Whoa, whoa, knock it off.\nDo I look like some creep who'd get obsessed with someone's photo album?\nI'm talking about the paintings she kept in her room.{p}"
+  },
+  {
+   "id": "48:7738",
+   "op": "text",
+   "follows_choice": [
+    "48:145c"
+   ],
+   "en": "She painted landscapes of the places she traveled to.\nAlways places she'd actually been.\nWhy, you ask?\nI think it was so she could paint herself into them too.\n...That's right, her landscapes always had her own figure painted in them.{p}"
+  },
+  {
+   "id": "48:7810",
+   "op": "text",
+   "en": "I think what she really wanted to paint was herself.\nThe proof is how much effort she put into the parts that showed her.\nShe did a lot of self-portraits too.\nAnd that self-portrait was the culmination of all her work.{p}"
+  },
+  {
+   "id": "48:7900",
+   "op": "text",
+   "en": "Oh yeah, right around the time she started working on that painting, the two of us stopped seeing each other.\nShe stopped inviting me over.\nWhy do you think that was?{p}"
+  },
+  {
+   "id": "48:79a4",
+   "op": "text",
+   "follows_choice": [
+    "48:1484"
+   ],
+   "en": "She painted her dead pets, over and over.\nHer story was that if you painted with all your heart and soul, a soul would come to dwell in the painting.\nWhether that's true or not, maybe she thought painting her pets was bringing them back to life.{p}"
+  },
+  {
+   "id": "48:7a90",
+   "op": "text",
+   "en": "So after she was murdered, when I heard her ghost was still painting her self-portrait, it scared me.\nI thought she might be planning to come back to life as a painting.{p}"
+  },
+  {
+   "id": "48:7b20",
+   "op": "text",
+   "en": "...Actually, when we went to the art room earlier, I became sure of it.\nThe moment I looked at that painting, she stared right back at me from inside it.\nIt felt like sparks were flickering in front of my eyes.\nHer eyes were saying,\n\"You're the fifth.\"\n...That's what they said.\nI felt like I sort of understood.\nFor her to go on living inside the painting, she needs sacrifices.\nThe four who died so far... either they were possessed and had their life force drained, or they killed themselves out of sheer terror...\nEither way, they were people she'd chosen, same as me.{p}"
+  },
+  {
+   "id": "48:7d14",
+   "op": "text",
+   "en": "You didn't hear the voice of her heart, did you?\nThen I think you can relax.\nThat means her next target is me.\n...Surprised I'm not scared?\nSee, I'm planning to talk to her when she comes for me.\nWe were so close, so if she remembers me, maybe she'll let me off.\nThen somebody else gets targeted, you say?\nCan't be helped.\nI don't want to die either, you know.\nWell, you be careful too.\nThat's the end of my story.\nWho's going next?{p}"
+  },
+  {
+   "id": "48:7ee4",
+   "op": "text",
+   "follows_choice": [
+    "48:1c68"
+   ],
+   "en": "She came to hate me.\nIt all started because she got herself a boyfriend.\nAnd he was this scrawny, lame guy.\nIf he'd been an athlete or had movie-star looks, I could've accepted it, but that guy wasn't good enough for her at all.\n...I had a crush on her, you know.\nSo it really ticked me off.\nWhile they were out walking together, I jumped out at him and slugged him.\nI hit him on the cheek with everything I had, so I figured my fist would take a pretty big jolt too.{p}"
+  },
+  {
+   "id": "48:80b4",
+   "op": "text",
+   "en": "But... it didn't come.\nIt was like he didn't have any bones.\nMy fist sank in with a squish, right up to the wrist... it felt like a rubber ball.\nAnd on top of that, the guy just stood there grinning, like it didn't hurt one bit.\nI was frozen there in shock, and she tore into me.\nBut I couldn't say anything back.\nI had way bigger things on my mind.\nAfter that, she started ignoring me.\nI tried to talk to her, to tell her that guy wasn't human.{p}"
+  },
+  {
+   "id": "48:8280",
+   "op": "text",
+   "en": "Some time after that, on a day off, I think it was.\nI heard this tremendous yelling coming from Shimizu's house.\nI looked out the window to see what was going on, and there was that guy, running out of Shimizu's house!{p}"
+  },
+  {
+   "id": "48:8340",
+   "op": "text",
+   "follows_choice": [
+    "48:1c84"
+   ],
+   "en": "Because I found out her secret.\nOne time I went over to play, and I let myself into her house without asking.\nI was still a kid, and I did that a lot.\nSo I went to her room, which I knew well.{p}"
+  },
+  {
+   "id": "48:8414",
+   "op": "text",
+   "en": "What I saw there... was her, sitting facing a painting.\nThat alone was nothing unusual.\nBut something about her was different.\nShe had her lips pursed, like she was sucking something in.\nNo, she really was sucking it in.\nWhen I strained my eyes, I could see something sparkly, like light or powder, flowing from the painting into her mouth.\nAfter a while, she let out a satisfied sigh.\n\"...I'll have to repaint it again.\"\nI heard her say that.\nWhat did that mean?{p}"
+  },
+  {
+   "id": "48:85d0",
+   "op": "text",
+   "en": "I wanted a better look at the painting, so I pushed the half-open door.\nAt the faint creak, she jumped.\nWhen she turned toward me, her face was stern in a way I'd never seen before.\nI apologized in a hurry.\nWhen I told her the door had been open, her expression softened a little.\nBut when I asked her to play, she turned me down flat.{p}"
+  },
+  {
+   "id": "48:8708",
+   "op": "text",
+   "en": "At the time, I thought that was all there was to it.\nBut after that, she started avoiding me.\nIt puzzled me, and as I thought it over, I remembered the painting she'd been holding.\nI only caught a glimpse when she turned around, but it looked really old, and the part with her in it was even cracked.\nBut I'd seen that same painting the day before.\nIt hadn't looked that old then.\nNow it looked as old as the paintings I'd seen in museums, easily a hundred or two hundred years old.\nCome to think of it, back then she'd been sucking something out of the painting.\nI started thinking maybe she'd been sucking the life force out of it.\nMaybe it's not exactly life force, but something like that, anyway.\n...So when I heard she'd become a ghost and was trying to finish her self-portrait, I thought, I knew it.{p}"
+  },
+  {
+   "id": "48:89d4",
+   "op": "text",
+   "en": "Maybe the painting's life force was her energy.\nThe life force of the person in the painting, at that.\nI don't know why a painting of anyone else wouldn't do, but I bet her narcissism was the key.\nSo I think she tried to finish her self-portrait so she could soak up plenty of life force.\nMaybe if she had, she could've come back to life.{p}"
+  },
+  {
+   "id": "48:8b0c",
+   "op": "text",
+   "en": "...But she hasn't come back to life.\nI guess it was impossible after all.\nDid the painting turn the tables on her?\nOr am I just imagining things?\nBut I can't shake the feeling that her grudge, her craving to come back to life, is wrapped around that painting.\nI think the four who died got caught by that grudge and had their life force sucked out.\nIf so... then as long as you stay away from that painting, your life's not in danger, anyway.\nIf you don't believe me, that's fine too.\nWell, that's the end of my story.\nWho's up next?{p}"
+  },
+  {
+   "id": "48:8ce0",
+   "op": "text",
+   "follows_choice": [
+    "48:211c"
+   ],
+   "en": "Are you serious★\nEven with your life on the line?\n...You know, you just don't take this seriously enough.\nMaybe you won't get it until you've had a few more scares.\nYou seem pretty dense about that kind of thing.\nWell, if you don't want to hear it, I'll stop.\nIf you start feeling like your life's in danger, come back and hear the rest.\nI'll tell you, as long as it isn't too late by then.\nNow then, whose story are we hearing next?{p}"
+  },
+  {
+   "id": "48:8e34",
+   "op": "text",
+   "follows_choice": [
+    "48:212c"
+   ],
+   "en": "Not interested, huh?\nWell, maybe so, but hear me out a little longer, okay?{p}"
+  },
+  {
+   "id": "48:8e90",
+   "op": "text",
+   "follows_choice": [
+    "48:2f64"
+   ],
+   "en": "I see. That's too bad.\nThere was just one thing about that painting that was bugging me.\nWell, whatever. I'll go check it out by myself later.\nOkay then, that's the end of my story.\nShindo's story was over.{p}"
+  },
+  {
+   "id": "48:8f60",
+   "op": "text",
+   "en": "While I was wondering who should go next, the club room door opened.\n\"Hey, you lot, what are you doing? It's already time to go home.\"\nIt was a teacher making the rounds{f:.|.}{p}"
+  },
+  {
+   "id": "48:9004",
+   "op": "text",
+   "en": "{f:We|We} were chased out of the club room.\nIt was a shame after all the planning, but with an interruption like that, there was nothing to be done{f:.|.}\nWe decided to pick it up next time, and {f:we|we} split up.{p}"
+  },
+  {
+   "id": "48:90c0",
+   "op": "text",
+   "en": "But even after everyone had gone home, {f:I|I} stayed behind.\nI couldn't stop thinking about what Shindo had said, that something about the painting was bugging him{f:.|.}\nCould Shindo have noticed something that {f:I|I} had missed{f:?|?}{p}"
+  },
+  {
+   "id": "48:91c0",
+   "op": "text",
+   "en": "When I opened the art room door, the painting was still in the same place.\nI crept closer to it.\nThe moment I peered into the painting, searching for anything strange...{p}"
+  },
+  {
+   "id": "48:924c",
+   "op": "text",
+   "en": "The eyes in the painting flashed.\nAt the same moment, my arms and legs went rigid.\n{f:Was I paralyzed|I was paralyzed}★{p}"
+  },
+  {
+   "id": "48:92ac",
+   "op": "text",
+   "en": "\"I knew you'd come, {a}.\"\nShindo's voice came from behind me.\n\"You seemed like the curious type, so I figured if I said that, you'd come for sure.\"{p}"
+  },
+  {
+   "id": "48:933c",
+   "op": "text",
+   "en": "Shindo circled around in front of {f:me|me}.\nHe gazed up lovingly at Shimizu's painting.\n\"She's inside this.\nBut every now and then she needs a fresh supply of life force.\nYou're going to be the fifth one.\n......For my Shimizu.\"{p}"
+  },
+  {
+   "id": "48:9424",
+   "op": "text",
+   "en": "{f:You tricked me|You tricked me, didn't you}!\nI tried to scream it, but even my tongue seemed numb; it wouldn't so much as twitch.\nInstead, my arms rose.\nNo matter how hard I tried to stop them, they reached for {f:my|my} own neck against my will.\nThey'd said the four before me had strangled themselves.\nSo this is what that meant{f:!|!}\nStrangled by my own hands, {f:I|I} felt my consciousness fading.{p}"
+  },
+  {
+   "id": "48:9588",
+   "op": "text",
+   "en": "\"They say a soul at the moment of death is the best energy there is. No hard feelings.\"\nAs I slowly crumpled to the floor, {f:I|I} heard Shindo's voice growing fainter and fainter...{p}"
+  },
+  {
+   "id": "48:9628",
+   "op": "text",
+   "follows_choice": [
+    "48:3550"
+   ],
+   "en": "...I see.\nTurns out you're more gutless than I thought.\nThen you can just sit there waiting to die.\nWhen the moment comes, it'll be too late for regrets.{p}You're really fine with that?\n"
+  },
+  {
+   "id": "48:96e0",
+   "op": "choice",
+   "en": "I'm fine with it"
+  },
+  {
+   "id": "48:96e8",
+   "op": "choice",
+   "en": "No, I'm not"
+  },
+  {
+   "id": "48:96f0",
+   "op": "text",
+   "follows_choice": [
+    "48:96e0"
+   ],
+   "en": "Hmph, is that so.\nThen let me tell you one last thing.{p}"
+  },
+  {
+   "id": "48:9734",
+   "op": "text",
+   "en": "Earlier I said her painting looked to me like her face when she was killed, right?\nThat was a lie.\nI figured you'd chicken out and not tell me the truth.\nTo me it just looked like an ordinary painting.\nSo if you saw a painting with a horrifying face...\nMaybe the fifth victim is you.{p}"
+  },
+  {
+   "id": "48:984c",
+   "op": "text",
+   "en": "Heh heh heh, look at the face you're making.{p}"
+  },
+  {
+   "id": "48:9870",
+   "op": "text",
+   "follows_choice": [
+    "48:96e8"
+   ],
+   "en": "That's right, that's the spirit!\nThen let's try scraping it off.{p}"
+  }
+ ]
+}

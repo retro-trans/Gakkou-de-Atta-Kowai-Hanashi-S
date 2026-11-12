@@ -1,0 +1,484 @@
+{
+ "slice": "S036",
+ "scene": "07",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S035",
+ "next": "S037",
+ "todo": [],
+ "rows": [
+  {
+   "id": "07:27680",
+   "op": "text",
+   "en": "I took a mechanical pencil out of my pocket and pressed it against the portrait.{p}"
+  },
+  {
+   "id": "07:276c8",
+   "op": "text",
+   "follows_choice": [
+    "07:c758"
+   ],
+   "en": "On instinct, I leapt aside.{p}"
+  },
+  {
+   "id": "07:276f4",
+   "op": "text",
+   "en": "In that instant, the portrait I was holding was slashed open.{p}"
+  },
+  {
+   "id": "07:27744",
+   "op": "text",
+   "en": "A carving knife★\nHad I really come that close to taking a blow from this?\nArai stood there, his eyes bloodshot.\nSo it was one against two!\nI might not be able to win...\nBut just then...{p}"
+  },
+  {
+   "id": "07:27818",
+   "op": "text",
+   "en": "\"Eeeeeeeek☆\"\nIwashita shrieked.{p}"
+  },
+  {
+   "id": "07:27854",
+   "op": "text",
+   "follows_choice": [
+    "07:c778"
+   ],
+   "en": "I swung the knife around wildly.\n\"Gah!\"\nSomeone screamed.{p}"
+  },
+  {
+   "id": "07:278bc",
+   "op": "text",
+   "en": "It was Arai!\nBlood was dripping between the fingers clutching his arm.\nThe carving knife fell from his hand.\nHad I really come that close to taking a blow from this?\nJust then...{p}"
+  },
+  {
+   "id": "07:27974",
+   "op": "text",
+   "en": "\"Eeeeeeeek☆\"\nIwashita shrieked.\n\"I'll kill you!\"\nShe flew at me.\nIn the blink of an eye, the knife was wrenched from my hand.\nThe next moment, that same knife was driven into my chest.\n\"Die! Die! Just drop dead!\"\nIwashita kept screaming.\nJust as she wished, I would soon be called up to Heaven.\n...No, maybe I wasn't a good enough person to go to Heaven.\nAs I thought that, Iwashita's portrait caught my eye.\nIt was slashed clean in two.\nHad my knife done that...?\nThat was my last conscious thought.{p}"
+  },
+  {
+   "id": "07:27b7c",
+   "op": "text",
+   "follows_choice": [
+    "07:d864"
+   ],
+   "en": "...I was tired.\nThere was no way I could win against people like these.\nAll the strength drained out of my body.\nI didn't care anymore.\nI sat down on the floor.\nIf I stayed here, someone would come for sure.\nHino, or one of his friends...\nEven if they didn't find me, this time the Grim Reaper would come.\nBecause even now, the poison capsule had to be slowly dissolving inside my body.\nBut everything was just too much trouble now.\nI hugged my knees and waited for the time to come.{p}"
+  },
+  {
+   "id": "07:27d10",
+   "op": "text",
+   "follows_choice": [
+    "07:c55c"
+   ],
+   "en": "I thought about punching Iwashita.\nBut...\nI just couldn't do it.\nI could never hit a girl.\nThere had to be some other way without resorting to that.{p}What should I do?\n"
+  },
+  {
+   "id": "07:27dc4",
+   "op": "text",
+   "follows_choice": [
+    "07:c564"
+   ],
+   "en": "\"Why are you trying to kill me?!\"\nI asked.\nI couldn't think of anything I'd done to make someone I'd just met hate me that much.{p}"
+  },
+  {
+   "id": "07:27e34",
+   "op": "text",
+   "en": "Iwashita grinned.\n\"You... You laughed when you looked at me, didn't you? That's why.\"\n\"What★\"\nWould anyone really want to kill someone over something like that★\nBesides, I didn't remember doing any such thing.\n\"Heh heh... It was the day of this year's entrance ceremony. You, a new first-year, smiled at me.\nBut don't misunderstand. It's not as if I'm angry.\"\nIwashita said.\nHad she read my mind?\nBut that only made it harder to understand.\nIf she wasn't angry, why kill me?\n\"Heh heh, you don't understand? When I saw your smile, I fell in love with you.\nThat's why I want you all to myself.\"\nIwashita was beaming at me.\nThat was insane.\nCould anyone really fall for someone like that?\nIwashita, standing in front of me, seemed like some eerie creature.\nAnd at that moment...{p}"
+  },
+  {
+   "id": "07:280f8",
+   "op": "text",
+   "en": "With a ripping slash, my back was cut open.\nDamn it!\nThere was another one hiding...{p}"
+  },
+  {
+   "id": "07:28178",
+   "op": "text",
+   "en": "As I fell, I turned around and saw Arai, carving knife in hand, staring at me.\nI could hear Iwashita's voice.{p}"
+  },
+  {
+   "id": "07:281e4",
+   "op": "text",
+   "en": "\"Once you're dead, I get to keep your body. That's the deal.\nI'll take such good care of it... Heh heh.\"\nAs my consciousness faded, an image of Iwashita hugging my corpse flickered up and vanished.{p}"
+  },
+  {
+   "id": "07:28294",
+   "op": "text",
+   "follows_choice": [
+    "07:c57c"
+   ],
+   "en": "\"Where's the ampoule★\"\nI asked Iwashita.\n\"I don't know. I'm not even interested in that sort of thing.\nWouldn't Lord Hino know?\"\nIwashita answered curtly.\nShe didn't seem to be lying.\nDid she really not know?{p}Then what should I do?\n"
+  },
+  {
+   "id": "07:28380",
+   "op": "text",
+   "en": "\"Where's the ampoule★\"\nI asked Iwashita.\n\"I told you I don't know, didn't I? Why do you keep asking me?\"\nThat's right.\nNo matter how many times I asked, it would be a waste of time.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28430",
+   "op": "text",
+   "follows_choice": [
+    "07:c594"
+   ],
+   "en": "I thought about letting Iwashita go.\nBut... wait a minute.\nHino aside, I had a feeling the scariest of the whole lot was this Akemi Iwashita.\nShe was the one I absolutely couldn't let get away.{p}What should I do?\n"
+  },
+  {
+   "id": "07:284ec",
+   "op": "text",
+   "follows_choice": [
+    "07:c5a4"
+   ],
+   "en": "I tried to tie Iwashita up.\nBut to do that, I'd have to get her to hold still.\nMaybe I should scare her a little.{p}What should I say?\n"
+  },
+  {
+   "id": "07:2856c",
+   "op": "choice",
+   "en": "Say I'll kill her"
+  },
+  {
+   "id": "07:28578",
+   "op": "choice",
+   "en": "Say I'll hurt her"
+  },
+  {
+   "id": "07:2858c",
+   "op": "choice",
+   "en": "Say I'll curse her"
+  },
+  {
+   "id": "07:285a0",
+   "op": "text",
+   "follows_choice": [
+    "07:2858c"
+   ],
+   "en": "\"How dare you try to kill me! I'll put a curse on you☆\"{p}"
+  },
+  {
+   "id": "07:285e4",
+   "op": "text",
+   "en": "Iwashita gasped and went pale.\n\"What did you say?\"\nEven her voice trembled as she asked.\n\"I said I'll put a curse on you. I'll set an evil spirit on you!\"\n...Of course, there was no way I knew how to do anything like that.\nBut Iwashita seemed to take it seriously.{p}"
+  },
+  {
+   "id": "07:286d4",
+   "op": "text",
+   "en": "\"Go ahead and try! I'll drag you down with me.\"\nHer eyes were blazing with fury.\nIt looked like she meant it.\nShe was too dangerous to go near like this.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28760",
+   "op": "text",
+   "follows_choice": [
+    "07:28578"
+   ],
+   "en": "\"How dare you try to kill me! Maybe I should make you hurt☆\"{p}"
+  },
+  {
+   "id": "07:287ac",
+   "op": "text",
+   "en": "But Iwashita just grinned.\n\"You mean to scar a girl?\nIf you do, you'll have to take responsibility for me.\"\n...What the hell is she talking about★{p}"
+  },
+  {
+   "id": "07:28844",
+   "op": "text",
+   "en": "Either way, this approach didn't seem to work.{p}What should I do?\n"
+  },
+  {
+   "id": "07:2887c",
+   "op": "text",
+   "follows_choice": [
+    "07:2856c"
+   ],
+   "en": "\"How dare you try to kill me! I'll kill you☆\"{p}"
+  },
+  {
+   "id": "07:288c0",
+   "op": "text",
+   "en": "But Iwashita just grinned.\n\"You can't kill me. Because I'm in love with you.\"\n...What the hell is she talking about★{p}"
+  },
+  {
+   "id": "07:28950",
+   "op": "text",
+   "en": "Either way, this approach didn't seem to work.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28988",
+   "op": "text",
+   "follows_choice": [
+    "07:c220"
+   ],
+   "en": "I examined the table.\n...Nothing seemed out of the ordinary.{p}Now, what should I do?\n"
+  },
+  {
+   "id": "07:289dc",
+   "op": "text",
+   "en": "I examined the table.\nNothing seemed out of the...\nJust then, someone grabbed my leg.\nIwashita had been hiding under the desk!{p}"
+  },
+  {
+   "id": "07:28a70",
+   "op": "text",
+   "en": "\"Die! Die! Die!\"\nShe kept screaming.\nI was terrified.\nI tried to shake my leg free.\nBut my leg was locked in place, as if it were caught in a bear trap.\nThis was a girl's strength★\n\"Now☆\"\nIwashita shrieked.\nWhat★{p}"
+  },
+  {
+   "id": "07:28b68",
+   "op": "text",
+   "en": "\"Raaaaaaaagh☆\"\n"
+  },
+  {
+   "id": "07:28b88",
+   "op": "text",
+   "en": "I decided to go to the library.\nCome to think of it, going there was how all of this had started.{p}"
+  },
+  {
+   "id": "07:28bfc",
+   "op": "text",
+   "en": "When I tried to open the door, I realized it was locked.\nThat's right, I have to find the keys.\nWithout the keys, I can't get in anywhere.{p}"
+  },
+  {
+   "id": "07:28c8c",
+   "op": "text",
+   "en": "Where should I go?\n"
+  },
+  {
+   "id": "07:28ca0",
+   "op": "text",
+   "en": "I decided to go to the library.\nCome to think of it, going there was how all of this had started.{p}"
+  },
+  {
+   "id": "07:28d14",
+   "op": "text",
+   "en": "When I tried to open the door, I realized it was locked.\nThat's right, I have to find the keys.{p}"
+  },
+  {
+   "id": "07:28d7c",
+   "op": "text",
+   "en": "But where am I supposed to go?\n"
+  },
+  {
+   "id": "07:28d9c",
+   "op": "text",
+   "en": "I decided to go to the library.\nCome to think of it, going there was how all of this had started.{p}"
+  },
+  {
+   "id": "07:28e10",
+   "op": "text",
+   "en": "The door was locked.{p}"
+  },
+  {
+   "id": "07:28e3c",
+   "op": "text",
+   "en": "I used the keys I'd brought from the staff room and went inside.{p}"
+  },
+  {
+   "id": "07:28e9c",
+   "op": "text",
+   "en": "The memory of that day came flooding back.\nIf only I had never come here, I wouldn't be running around the school at night like this.\nBut there was no use saying that now.\nI'd heard the library boasted quite a collection, and sure enough, there were a lot of books.\nSearching this place was bound to take a good while.{p}What should I do?\n"
+  },
+  {
+   "id": "07:28fb4",
+   "op": "choice",
+   "en": "Search the desks"
+  },
+  {
+   "id": "07:28fc0",
+   "op": "choice",
+   "en": "Search the bookshelves"
+  },
+  {
+   "id": "07:28fcc",
+   "op": "choice",
+   "en": "Go somewhere else"
+  },
+  {
+   "id": "07:28fdc",
+   "op": "text",
+   "follows_choice": [
+    "07:28fb4"
+   ],
+   "en": "I decided to search the desks.{p}"
+  },
+  {
+   "id": "07:28ffc",
+   "op": "text",
+   "en": "That said, the desks here didn't even have drawers.\nI was done searching in no time.{p}What now?\n"
+  },
+  {
+   "id": "07:2905c",
+   "op": "text",
+   "follows_choice": [
+    "07:28fc0"
+   ],
+   "en": "The bookshelves stood along the north, east and south sides of the library.{p}Where should I start?\n"
+  },
+  {
+   "id": "07:290ac",
+   "op": "choice",
+   "en": "The north side"
+  },
+  {
+   "id": "07:290b4",
+   "op": "choice",
+   "en": "The east side"
+  },
+  {
+   "id": "07:290bc",
+   "op": "choice",
+   "en": "The south side"
+  },
+  {
+   "id": "07:290c4",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:290d0",
+   "op": "text",
+   "follows_choice": [
+    "07:290c4"
+   ],
+   "en": "Then what should I do?\n"
+  },
+  {
+   "id": "07:290ec",
+   "op": "text",
+   "follows_choice": [
+    "07:290bc"
+   ],
+   "en": "I decided to check the south side.\nThere were four bookshelves standing in a row.{p}Which one should I check?\n"
+  },
+  {
+   "id": "07:2913c",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:29144",
+   "op": "choice",
+   "en": "Second from right"
+  },
+  {
+   "id": "07:29154",
+   "op": "choice",
+   "en": "Third from right"
+  },
+  {
+   "id": "07:29164",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:2916c",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:29178",
+   "op": "text",
+   "follows_choice": [
+    "07:2916c"
+   ],
+   "en": "Where should I check?\n"
+  },
+  {
+   "id": "07:29190",
+   "op": "text",
+   "follows_choice": [
+    "07:2913c",
+    "07:29144",
+    "07:29154",
+    "07:29164"
+   ],
+   "en": "I checked the bookshelf.{p}"
+  },
+  {
+   "id": "07:291b0",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.\n...In the end, there was nothing.{p}Where should I search next?\n"
+  },
+  {
+   "id": "07:29208",
+   "op": "text",
+   "follows_choice": [
+    "07:290b4"
+   ],
+   "en": "I decided to check the east side.\nThere were four bookshelves standing in a row.{p}Which one should I check?\n"
+  },
+  {
+   "id": "07:29258",
+   "op": "choice",
+   "en": "Far right"
+  },
+  {
+   "id": "07:29260",
+   "op": "choice",
+   "en": "Second from right"
+  },
+  {
+   "id": "07:29270",
+   "op": "choice",
+   "en": "Third from right"
+  },
+  {
+   "id": "07:29280",
+   "op": "choice",
+   "en": "Far left"
+  },
+  {
+   "id": "07:29288",
+   "op": "choice",
+   "en": "Search elsewhere"
+  },
+  {
+   "id": "07:29294",
+   "op": "text",
+   "follows_choice": [
+    "07:29288"
+   ],
+   "en": "Where should I check?\n"
+  },
+  {
+   "id": "07:292ac",
+   "op": "text",
+   "follows_choice": [
+    "07:29260",
+    "07:29270",
+    "07:29280"
+   ],
+   "en": "I checked the bookshelf.{p}"
+  },
+  {
+   "id": "07:292cc",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.\n...In the end, there was nothing.{p}Where should I search next?\n"
+  },
+  {
+   "id": "07:29324",
+   "op": "text",
+   "follows_choice": [
+    "07:29258"
+   ],
+   "en": "I checked the bookshelf.{p}"
+  },
+  {
+   "id": "07:29344",
+   "op": "text",
+   "en": "There were so many books that it took quite a while.{p}"
+  },
+  {
+   "id": "07:29378",
+   "op": "text",
+   "en": "...Hm?\nThis one book was sticking out awfully far.\nWas there something behind it★\nI'd try pulling the book out...{p}"
+  },
+  {
+   "id": "07:293f0",
+   "op": "text",
+   "en": "Whoa★\nSomething small leapt out at me!\nThe thing squeaked as it scurried off into the darkness.\nIt left behind lots of tiny scraps, like bits of gnawed paper.\nA rat?\n...That gave me a scare.{p}Pulling myself together, I'd check somewhere else.\n"
+  },
+  {
+   "id": "07:294d4",
+   "op": "text",
+   "follows_choice": [
+    "07:290ac"
+   ],
+   "en": "I decided to check the north side.\nThere were four bookshelves standing in a row.{p}Which one should I check?\n"
+  },
+  {
+   "id": "07:29524",
+   "op": "choice",
+   "en": "Far right"
+  }
+ ]
+}

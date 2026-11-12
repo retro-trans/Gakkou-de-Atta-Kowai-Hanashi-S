@@ -1,0 +1,411 @@
+{
+ "slice": "S127",
+ "scene": "33",
+ "narrator_hint": "Akemi Iwashita (storyteller)",
+ "prev": "S126",
+ "next": "S128",
+ "todo": [],
+ "rows": [
+  {
+   "id": "33:148c",
+   "op": "text",
+   "en": "My name is Akemi Iwashita.\nI'm a third-year.\nWell then, shall I tell you a story I know?\nIt's {a}, isn't it?{p}Do you have a sweetheart?\n"
+  },
+  {
+   "id": "33:1500",
+   "op": "choice",
+   "en": "I do"
+  },
+  {
+   "id": "33:1508",
+   "op": "choice",
+   "en": "I don't"
+  },
+  {
+   "id": "33:1510",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:152c",
+   "op": "text",
+   "follows_choice": [
+    "33:1508"
+   ],
+   "en": "...I see.\nYou don't.\nIn high school, and you don't have even one girlfriend? How lonely.{p}Do you dislike older women?\n"
+  },
+  {
+   "id": "33:159c",
+   "op": "choice",
+   "en": "I like them"
+  },
+  {
+   "id": "33:15a4",
+   "op": "choice",
+   "en": "I dislike them"
+  },
+  {
+   "id": "33:15ac",
+   "op": "choice",
+   "en": "I prefer someone my own age"
+  },
+  {
+   "id": "33:15bc",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:15e0",
+   "op": "text",
+   "follows_choice": [
+    "33:159c"
+   ],
+   "en": "Heh... I see.\nSo you like older women.{p}"
+  },
+  {
+   "id": "33:1614",
+   "op": "text",
+   "en": "...Tell me, are you the type who believes in love at first sight?\n"
+  },
+  {
+   "id": "33:164c",
+   "op": "choice",
+   "en": "I believe in it"
+  },
+  {
+   "id": "33:1654",
+   "op": "choice",
+   "en": "I don't believe in it"
+  },
+  {
+   "id": "33:1660",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:1684",
+   "op": "text",
+   "follows_choice": [
+    "33:164c"
+   ],
+   "en": "I see.\nYou're quite the romantic, aren't you?\nThen if I asked you to make me your sweetheart, would you do it?{p}"
+  },
+  {
+   "id": "33:16f8",
+   "op": "text",
+   "en": "Don't think I'm joking.\nI want you to answer me seriously.\nWell?{p}Will you make me your sweetheart?\n"
+  },
+  {
+   "id": "33:1750",
+   "op": "choice",
+   "en": "I will"
+  },
+  {
+   "id": "33:1758",
+   "op": "choice",
+   "en": "I won't"
+  },
+  {
+   "id": "33:1760",
+   "op": "choice",
+   "en": "I can't answer right now"
+  },
+  {
+   "id": "33:1774",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:1798",
+   "op": "text",
+   "follows_choice": [
+    "33:1750"
+   ],
+   "en": "Heh heh... What a lovely thing to say to me.{p}"
+  },
+  {
+   "id": "33:17c4",
+   "op": "text",
+   "en": "Don't forget what you just said.\nYou must never, ever forget it.\nBecause the story I'm about to tell you is about two lovers who loved each other.{p}"
+  },
+  {
+   "id": "33:183c",
+   "op": "text",
+   "en": "There was a girl in my class named Setsuko Yaguchi.\nShe had a boyfriend named Mamoru Date.\nThe two of them were very close.\nBut both their families were strict, so they hardly ever got to see each other.{p}What would you do in a situation like that, {a}?\n"
+  },
+  {
+   "id": "33:1914",
+   "op": "choice",
+   "en": "Call on the phone"
+  },
+  {
+   "id": "33:1920",
+   "op": "choice",
+   "en": "Write letters"
+  },
+  {
+   "id": "33:192c",
+   "op": "choice",
+   "en": "Meet in secret"
+  },
+  {
+   "id": "33:193c",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:196c",
+   "op": "text",
+   "follows_choice": [
+    "33:1914"
+   ],
+   "en": "That's the quickest way.\nAnd these days, everyone does it.\nBut don't you find phones frightening?\nYou can't see the other person's face, and you never know who might be listening.\nSuddenly, the phone rings.\nAnd what if you heard laughter you'd never heard before, or ragged breathing, coming from it...?\nAnd you were all alone, too.\nThen a low voice comes from the other end of the line.\n\"...I'll kill you.\"\nHave you ever gotten a call like that?\nI have, many times.\nPrank calls, of course.{p}"
+  },
+  {
+   "id": "33:1b24",
+   "op": "text",
+   "en": "When that happens, I curse them.\nYou just spit a curse at them and hang up.\nThe persistent ones will keep calling again and again, I suppose.\nAnd every time,\n\"Die... die...\"\nI will it at them with all my heart.\nThey're the ones in the wrong.\nMy heart doesn't ache one bit.{p}"
+  },
+  {
+   "id": "33:1c24",
+   "op": "text",
+   "en": "Phones are convenient, but they can be inconvenient in many ways too.\nAnyway, the two with the strict families kept in touch by phone.{p}"
+  },
+  {
+   "id": "33:1cac",
+   "op": "text",
+   "en": "Nine o'clock every night.\nThat was their promised time.\nThey took turns calling each other, one day after the other.\nAt nine, they'd sneak the phone into their rooms and talk in hushed voices.\nSometimes they talked all night long.\nEven when their parents scolded them for the long calls, this was the one thing they couldn't give up.\nAnd it went on without a break.\nEven on days off from school, even when one of them was away on a family trip.\nWithout missing a single day, the two of them reaffirmed their love.{p}"
+  },
+  {
+   "id": "33:1e4c",
+   "op": "text",
+   "en": "In our class, too, everyone knew how close they were.\nThey say the couples who fight are the closest, but those two must have been the exception.\nNo one had ever seen them fight.\nThen, one day...{p}"
+  },
+  {
+   "id": "33:1f38",
+   "op": "text",
+   "en": "Date had to stay late for club activities.\nEven if he went home now and called, he wouldn't make it in time.\nSo he called from school.{p}"
+  },
+  {
+   "id": "33:1fdc",
+   "op": "text",
+   "en": "The pay phone beside the school's back gate.\nYou know it, don't you?\nThat's where he called from.\nBut, you see, anyone who knows about that phone won't use it.\nWhy, you ask?\nBecause that phone is the devil's phone.\n...Funny?\nYou're not making fun of me, are you?\n...Well, I don't mind.\nYou're my sweetheart now, after all.{p}"
+  },
+  {
+   "id": "33:2148",
+   "op": "text",
+   "en": "And so he used that devil's phone.\nHe didn't know a thing about it.{p}"
+  },
+  {
+   "id": "33:2194",
+   "op": "text",
+   "en": "\"...Hello, it's me.\"\n\"Oh, Date.\nHuh?\nYou're not calling from home today?\"\n\"I told you I'd be late at school.\nAnd now it's gotten this late.\nI'm calling from school right now.\"{p}"
+  },
+  {
+   "id": "33:2254",
+   "op": "text",
+   "en": "\"I see.\nBe careful going home.\"\n\"Yeah, thanks.\nSorry I can't talk much today.\"\n\"...No, it's fine.\nSee you at school tomorrow.\"\n\"Yeah. Later.\"{p}"
+  },
+  {
+   "id": "33:2308",
+   "op": "text",
+   "en": "It was a much shorter call than usual.\nThey'd see each other at school tomorrow, and tomorrow night they'd talk to their hearts' content, making up for today.\nThinking of it that way, it wasn't lonely or painful at all.\nIt was the very next day.{p}"
+  },
+  {
+   "id": "33:23ec",
+   "op": "text",
+   "en": "Nine o'clock at night, as always.\nThe phone rang.\n"
+  },
+  {
+   "id": "33:2418",
+   "op": "text",
+   "en": "Though she thought it was strange, Yaguchi picked up the receiver by reflex.{p}"
+  },
+  {
+   "id": "33:2464",
+   "op": "text",
+   "en": "\"...Hello?\"\n\"Oh, Yaguchi. It's me.\"\n\"Oh, Date.\nWhat's up?\"\n\"What do you mean, what's up?\nIt's our usual time, isn't it?\"\n\"No, that's not what I mean.\nYesterday, it was you who called, right?\nSo today it was my turn to call.\"\n\"Oh, is that all?\n...I just couldn't wait.\nBecause of what happened yesterday, you know?\nI wanted to hear your voice as soon as I could.\"\n\"...Oh, come on, Date, you're making me blush.\nHey, you know what...\"\nThe two of them talked.\nOn and on, forgetting the passage of time.{p}"
+  },
+  {
+   "id": "33:2630",
+   "op": "text",
+   "en": "It was a more satisfying call than ever.\nFeeling content, Yaguchi fell asleep.{p}"
+  },
+  {
+   "id": "33:26a0",
+   "op": "text",
+   "en": "The next morning, Yaguchi spotted Date at school and waved.\n\"Daaaaaate!\"\nBut Date acted cold toward her.\nUsually he'd wave back and give her a big smile.\nHe seemed somehow distant.\nAs if he wasn't the usual Date at all...\nWorried she'd done something wrong, Yaguchi ran over to him.{p}"
+  },
+  {
+   "id": "33:2804",
+   "op": "text",
+   "en": "\"...What's wrong, Date?\nAre you angry about something?\"\nDate lowered his eyes and answered curtly.\n\"Why didn't you call me last night?\"\n\"Huh?\"\nYaguchi didn't understand what he meant.\nWhy, they'd talked on the phone for so long last night.\nThat had definitely been Date.\nThey talked on the phone every day, after all.\nThere was no way she'd mistake his voice.{p}"
+  },
+  {
+   "id": "33:2964",
+   "op": "text",
+   "en": "\"I called you over and over last night.\nBut the line was busy the whole time.\nJust who were you talking to?\"\nHe was sulking.\nHe was only jealous, that's all.\nBut his words were more than enough to shock Yaguchi.\n\"...No way.\nI was talking with you all night yesterday.\nYou called me, and...\"\n\"Don't give me a lie that's so easy to see through!\nForget it!\"{p}"
+  },
+  {
+   "id": "33:2af8",
+   "op": "text",
+   "en": "Brushing her off completely, he stormed away somewhere with the boys he hung out with.\nEveryone was surprised.\nAfter all, it was the first time those two had ever fought.\n"
+  },
+  {
+   "id": "33:2b98",
+   "op": "text",
+   "en": "That day, for the first time, everyone saw the two of them going their separate ways.{p}"
+  },
+  {
+   "id": "33:2be4",
+   "op": "text",
+   "en": "That night, Yaguchi was crying alone in her room.\nLittle by little, the usual time drew closer.\nThe usual time she spent sweet moments with Date...\nShe agonized over it.\nShould she call him, or should she not?{p}What do you think she did?\n"
+  },
+  {
+   "id": "33:2cc0",
+   "op": "choice",
+   "en": "She called him"
+  },
+  {
+   "id": "33:2ccc",
+   "op": "choice",
+   "en": "She waited for his call"
+  },
+  {
+   "id": "33:2cdc",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:2cf8",
+   "op": "text",
+   "follows_choice": [
+    "33:2cc0"
+   ],
+   "en": "Yaguchi thought to herself.\nShe wasn't the one at fault.\nDate was the one who was wrong.{p}"
+  },
+  {
+   "id": "33:2d58",
+   "op": "text",
+   "en": "...But she decided to apologize first.\nBecause she didn't want the fight to go on like this.\nAnd the moment it turned nine, she reached for the receiver.\nThat was when it happened.\n"
+  },
+  {
+   "id": "33:2e08",
+   "op": "text",
+   "en": "The phone rang.\n"
+  },
+  {
+   "id": "33:2e20",
+   "op": "text",
+   "en": "Without thinking, she picked up the receiver.{p}"
+  },
+  {
+   "id": "33:2e50",
+   "op": "text",
+   "en": "And without even checking who it was, she said in a rush,\n\"I'm sorry.\nIt's because I didn't explain properly...\"\n\"No, I'm the one who was wrong.\nI'm sorry I yelled at you like that.\nI've been thinking about what I did.\"\nBut his meek apology made Yaguchi uneasy instead.\nAnd she asked,\n\"...Hey, are you Date?\"\nLaughter came from the receiver.\n\"Ah ha ha... What are you talking about?\nDid you forget what my voice sounds like?\"{p}"
+  },
+  {
+   "id": "33:2fe8",
+   "op": "text",
+   "en": "That laugh was definitely his voice.\nHis voice, the same as always.\nYaguchi was relieved.\nAnd that night, too, they talked until the middle of the night.\nOnce you've felt uneasy, the bond grows deeper after you overcome it.\nYou'd do well to remember that, {a}.\nHeh heh heh...\nBut the next day...{p}"
+  },
+  {
+   "id": "33:3108",
+   "op": "text",
+   "en": "When she ran into Date on the way to school, he was even colder than the day before.\nOr rather, he was rough.\nWhen Yaguchi's eyes met Date's, this time he came over to her himself.\nBut his face was sullen, and he looked furious.\nAnd the moment he got close, he started yelling at her.\n\"If you're sick of me, just say so!\nYou've got a new boyfriend, haven't you!\"\nYaguchi was taken aback once again.\nAnd not knowing how to respond to his harsh words, she finally burst into tears.{p}"
+  },
+  {
+   "id": "33:32dc",
+   "op": "text",
+   "en": "Date had never imagined Yaguchi would cry, so he panicked.\nThen he regained his composure and began to apologize.\nAt last, the two of them could talk calmly.\nAnd they found out.\nSomething was passing itself off as Date.{p}"
+  },
+  {
+   "id": "33:33cc",
+   "op": "text",
+   "en": "\"What a creep.\nI'm going to find him no matter what and beat him to a pulp!\"\nDate was by no means the kind of person who resorted to violence recklessly.\nBut he couldn't forgive the man who had tormented his beloved Yaguchi.{p}"
+  },
+  {
+   "id": "33:348c",
+   "op": "text",
+   "en": "But to Yaguchi, that didn't matter.\nAll she wanted was for the usual gentle Date to come back.\nAnd she decided that tonight, for sure, the two of them would talk on the phone.{p}"
+  },
+  {
+   "id": "33:3558",
+   "op": "text",
+   "en": "\"Listen, I'll call you tonight.\nSo don't call me, no matter what.\nThat way, I'll be sure to get you, right?\"\nEven after hearing Yaguchi out, Date still looked uneasy.\nThere was no telling what tricks the man using his name might pull.\nAnd Yaguchi might be fooled again.\nSo they decided to make doubly sure.\n\"I know.\nLet's think of some way so that guy can't get in our way this time.\nIt looks like he's jealous of what we've got.\"\nYaguchi agreed with Date's suggestion.{p}"
+  },
+  {
+   "id": "33:3758",
+   "op": "text",
+   "en": "...Say, {a}.{p}What would you do?\n"
+  },
+  {
+   "id": "33:378c",
+   "op": "choice",
+   "en": "Change the time of the call"
+  },
+  {
+   "id": "33:37a0",
+   "op": "choice",
+   "en": "Hang up as soon as it rings once, then call back again"
+  },
+  {
+   "id": "33:37d4",
+   "op": "choice",
+   "en": "Have a parent answer the phone first"
+  },
+  {
+   "id": "33:37f0",
+   "op": "choice",
+   "en": "Scream, \"Stop it already!\""
+  },
+  {
+   "id": "33:3814",
+   "op": "text",
+   "follows_choice": [
+    "33:37a0"
+   ],
+   "en": "That's the best way.\nI use that trick often myself.\n{a}, let's decide on a code of our own too.\nHeh heh...\nAnd that's what they did.{p}"
+  },
+  {
+   "id": "33:38c0",
+   "op": "text",
+   "en": "\"Okay then, I'll let the phone ring three times and hang up.\nThen I'll call again right after.\nIf by any chance you have to call me, do the same, okay?\"\n\"Okay, got it.\nThen tonight I'll sit right by the phone and wait.\nMake sure you call me.\"\n\"Yes, of course.\"\n\"This has to stay a secret between the two of us.\nDon't tell anyone, okay?\"\n\"Okay.\"\nAnd the two of them hooked pinkies on it.{p}"
+  },
+  {
+   "id": "33:3a50",
+   "op": "text",
+   "en": "That night, Yaguchi sat on her bed hugging her knees, waiting for nine o'clock.\nShe set the phone at her feet and waited, her heart pounding.{p}"
+  },
+  {
+   "id": "33:3ae4",
+   "op": "text",
+   "en": "And the moment it turned nine, she made the call.{p}"
+  },
+  {
+   "id": "33:3b24",
+   "op": "text",
+   "en": "\"...Huh, it's busy.\"\nThe line was busy.\nShe'd been so keyed up that it felt like a taut string had snapped.\nSo she put down the receiver, and a little later she called again.{p}"
+  },
+  {
+   "id": "33:3be0",
+   "op": "text",
+   "en": "It was still busy.{p}"
+  },
+  {
+   "id": "33:3c04",
+   "op": "text",
+   "en": "She lost count of how many times she called after that.\nEven so, the line stayed busy the whole time.\nThen a thought suddenly struck Yaguchi.{p}"
+  },
+  {
+   "id": "33:3c94",
+   "op": "text",
+   "en": "Yesterday and the day before, she'd gotten calls from the man pretending to be Date.\nBoth times, Date said he'd called many times, but her line was busy the whole time.\nNow it was the exact opposite.\nWhat if the same thing was happening at his house...\nYaguchi suddenly felt afraid.\nWhat if there was a woman using her name, and she was calling Date right now?{p}"
+  },
+  {
+   "id": "33:3e00",
+   "op": "text",
+   "en": "Yaguchi dialed frantically, over and over.\nShe meant to keep calling until she finally heard it ring.\n...Even so, all she heard from the other end was that monotonous tone.\nWhen she glanced at the clock, it was already past ten.\nAnd then!{p}"
+  }
+ ]
+}

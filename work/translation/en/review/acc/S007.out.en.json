@@ -1,0 +1,32 @@
+{
+ "rows": {
+  "03:1acc": "Told Kawaguchi what the track club was really like",
+  "03:1ae8": "Photographed his own beating and blackmailed the track club with it",
+  "03:1cd4": "Actually didn't really want to do sports",
+  "03:21b0": "Went to complain to a teacher",
+  "03:21f8": "Decided to quit the basketball club",
+  "03:2864": "Gripes and complaints about the basketball club",
+  "03:28a4": "An incident that caused trouble years ago",
+  "03:2f9c": "\"I need help!\nYou, my senior, who felt the same way I do!\nPlease, help me!\"{p}...What do you think happened?\n",
+  "03:300c": "The senior's ghost appeared",
+  "03:3038": "It's too frightening for me to even imagine",
+  "03:3058": "...No voice answered.\nI mean, that notebook was fishy to begin with.\nIt could've been somebody's prank.\nThat's what anybody would normally think, right?\nBut Tadokoro didn't give up.\nAnd he shouted again.\n\"Please! I'm begging you!\nHelp me!\nI want to meet you!\"\nHe was grasping at straws.\nTadokoro wished from the bottom of his heart to meet him.{p}",
+  "03:3470": "\"I understand how you feel...\nI understand it so well it hurts.\nI can feel it like it's right in my hands.\"\nThe bodiless voice sympathized with Tadokoro.\nAnd it told him how bitter it had felt, too.\n\"I understand, I really do.\nIt must have been so frustrating.\nIf I'd been there back then, I definitely could have helped you.\nWhen I think that I couldn't help you, I'm so sad I can't stand it.\"\nThe two of them talked until dawn.\nAnd as the sun was coming up, the voice said:\n\"...Now, go on home for today.\nI have to go back too.\nIf you'd like, come anytime.\nThere's only so much I can do, but I want to help you, little by little.\"\n\"Thank you so much!\"\nAnd then the voice was gone.{p}",
+  "03:37a8": "Went to the gym again that night too",
+  "03:37c0": "For no particular reason, didn't go that night",
+  "03:37e0": "Something happened to come up that night, so he couldn't go",
+  "03:3a14": "So that night, Tadokoro asked the voice.\nHe asked it to help him.\n\"I see.\n...There's only so much I can do.\nBut you're just like me, aren't you?\nI suppose I could help you.\n...Yes, you're worth helping.\"\n\"Really?!\"\nTadokoro jumped for joy.\n\"...Yes, really.\nBut if I'm going to help you, I'll have to show myself.\nI'm going to appear in front of you now, so would you keep your eyes closed until I say it's okay?\"\n\"Okay. I will.\"{p}"
+ },
+ "notes": [
+  "03:1acc: TODO - choice restored: source says he told Kawaguchi the truth about the track club (what it was really like), old line dropped the track club",
+  "03:1ae8: TODO - choice restored: he photographed his own beating and blackmailed the track club with it; old 'Used photos to blackmail' dropped who/what",
+  "03:1cd4: FIX meaning - source is 'actually didn't really want to do sports' (fits S008 03:7084, track was grudging at first); old line said 'didn't much care for sports' and lost 'actually'",
+  "03:21f8: FIX - restored 'basketball' (club named in source)",
+  "03:2864: FIX - restored full choice: gripes and complaints about the basketball club",
+  "03:28a4: FIX meaning - source is an incident that became a problem long ago, not specifically a 'scandal'",
+  "03:300c: TODO - choice restored with article; meaning was intact",
+  "03:3a14: FIX term - 'Really, Senpai?!' -> 'Really?!' per senpai rule",
+  "03:1384: UNSURE - line references Arai's story; probably shown only if Arai's story was heard. Kept as is",
+  "03:179c: TODO - Kawaguchi gender still not shown in S007 or S008 (S008 uses 'the kid', 'Kawaguchi's old man'); S007 rows already pronoun-free, kept so"
+ ]
+}

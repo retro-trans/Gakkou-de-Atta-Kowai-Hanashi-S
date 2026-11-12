@@ -1,0 +1,417 @@
+{
+ "chunk": "E019",
+ "scene": "08",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "slices": [
+  "S040"
+ ],
+ "prev": "E018",
+ "next": "E020",
+ "todo": [],
+ "rows": [
+  {
+   "id": "08:c84c",
+   "op": "text",
+   "en": "At that instant there was a sound like thunder, and a pale blue light began to shine in midair.\nThe girls held their breath and watched what was happening.\nAnd then the demon appeared.\n"
+  },
+  {
+   "id": "08:c8ec",
+   "op": "text",
+   "en": "Slowly, slowly, a demon with a horrifying face emerged from the pale blue light.{p}"
+  },
+  {
+   "id": "08:c940",
+   "op": "text",
+   "en": "The girls regretted what they had done.\n(Maybe we've done something terrible...)\nThat was what Sawada thought.\nBut there was no turning back.\nShe had to see it through until she sent the demon back.\nShe went on with the incantation.\nAnd just as she was about to say the final spell to send the demon back...{p}"
+  },
+  {
+   "id": "08:ca78",
+   "op": "text",
+   "en": "\"Eeeek!\"\nOne of the girls tried to run and took a step out of the magic circle.\nThe instant she did, she was turned into chunks of flesh.\nThe other girls screamed.\nAnother girl tried to flee, stepped outside the circle, and in a flash she too became chunks of flesh.\nTheir terror had reached its peak.{p}What do you think they did after that?\n"
+  },
+  {
+   "id": "08:cbb0",
+   "op": "choice",
+   "en": "They blamed Sawada"
+  },
+  {
+   "id": "08:cbc4",
+   "op": "choice",
+   "en": "They tried hard to make the demon go away"
+  },
+  {
+   "id": "08:cbf0",
+   "op": "text",
+   "en": "\"This is all your fault, Eri!\"\nEndo accused her.\nAnd then Sawada and the others got into an argument.\n\"You... you're the ones who wanted this!\"\n\"We never told you to summon a demon like this!\"\n\"You know a little more than us, so it went to your head!\"\n\"That's right, it's Eri's fault!\"\nAll of them turned on Sawada.\nSawada, who at first had kept her head down in silence, suddenly said this.{p}",
+   "follows_choice": [
+    "08:cbb0"
+   ]
+  },
+  {
+   "id": "08:cd70",
+   "op": "text",
+   "en": "\"Who do you think you are...?\nYou can all just go and die.\nI command you: kill them!\"\nSawada said it holding the book up high.\n"
+  },
+  {
+   "id": "08:ce00",
+   "op": "text",
+   "en": "\"............yes.........\"\nThe demon said it in a voice that seemed to make the ground groan.\nAnd the pale blue glow grew brighter.{p}"
+  },
+  {
+   "id": "08:ce7c",
+   "op": "text",
+   "en": "Though they had never left the magic circle, the girls who had bad-mouthed her turned into chunks of flesh in an instant. Then the demon vanished into the pale blue light.\nLeft behind were a few girls and Sawada, and the scattered chunks of flesh had vanished without a trace.{p}"
+  },
+  {
+   "id": "08:cf64",
+   "op": "text",
+   "en": "\"Don't you dare tell anyone.\"\nThey say Sawada said that to the girls who were left, and walked away.\nFrom that night on, she was missing.{p}"
+  },
+  {
+   "id": "08:cff8",
+   "op": "text",
+   "en": "Some people say the demon devoured her in exchange for her wish, but nobody knows the truth.\nThat was when it started.\n"
+  },
+  {
+   "id": "08:d05c",
+   "op": "text",
+   "en": "Strange, inexplicable spirits began appearing at that spot.\n"
+  },
+  {
+   "id": "08:d098",
+   "op": "text",
+   "en": "They say it's the grudge of the girls the demon killed that night.\nMaybe the girls killed by the demon couldn't rest in peace and stayed at that spot. But since the exorcism held later, they seem to have gone quiet.\nHow do I know all this, you ask?\nObviously, because a girl who survived that night told someone.\nIt's probably better that I don't tell you what became of that girl.\nWell, that's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "08:d24c",
+   "op": "text",
+   "en": "Sawada started searching the book for a way to drive the demon away.\n\"Someone... one of us has to be sacrificed.\"\nWhen Sawada said that, the girls looked at each other.\n\"Eri, you're the one who summoned it.\nYou said it would be fine, so...\"\nShe didn't say the last words.\nBut everyone knew what she meant.\nAll their eyes fixed on Sawada.\n\"I never thought such a powerful demon would come out!\"\nNobody would say a word.\nThey all knew it: Sawada was the only one who knew how.\nAnd to get Sawada to go through with it, one of them would have to be the sacrifice.\n\"Let's draw lots.\nBut Eri, you show everyone how to do it before you draw.\"\n\"All right...\"{p}",
+   "follows_choice": [
+    "08:cbc4"
+   ]
+  },
+  {
+   "id": "08:d510",
+   "op": "text",
+   "en": "Sawada showed them the page where the method was written, then set the book down on the ground.\nThen she made lots out of fallen leaves from the ground.{p}At that moment, where do you think Sawada drew her lot from?\n"
+  },
+  {
+   "id": "08:d5bc",
+   "op": "choice",
+   "en": "From the right side"
+  },
+  {
+   "id": "08:d5c4",
+   "op": "choice",
+   "en": "Somewhere in the middle"
+  },
+  {
+   "id": "08:d5d0",
+   "op": "choice",
+   "en": "From the left side"
+  },
+  {
+   "id": "08:d5d8",
+   "op": "text",
+   "en": "The lot fell to Sawada.\nA girl who had drawn a blank snatched up the book lying on the ground with frightening speed and clutched it to her chest.\n\"All right, let's do this!\"\nBut when she read the book, she suddenly crouched down on the ground.\n\"What?! It won't work unless it's the person who summoned it!\"\nWith that, she burst into tears.{p}",
+   "follows_choice": [
+    "08:d5bc",
+    "08:d5c4",
+    "08:d5d0"
+   ]
+  },
+  {
+   "id": "08:d724",
+   "op": "text",
+   "en": "Sawada began to laugh eerily, and said this.\n\"That's right. I don't have to be the sacrifice.\nHeh heh heh.\nNow, decide who's going to be the sacrifice.\"\nA girl who ran away in sheer terror was turned into chunks of flesh too.\n\"Well? Who's it going to be?\"\n\"Let's pick her.\"\n\"Why me?! What did I ever do?!\"\nAfter arguing it out, the girls decided who would be sacrificed.\nShe wept and refused, but no one would listen.{p}"
+  },
+  {
+   "id": "08:d8c8",
+   "op": "text",
+   "en": "\"Now, Eri, sacrifice her.\"\nThe girls held down the one who was to be sacrificed.\nAnd Sawada began to chant the incantation.{p}"
+  },
+  {
+   "id": "08:d94c",
+   "op": "text",
+   "en": "When the incantation ended, the girl's body rose into the air and moved toward the demon.\nAn explosion roared all around, and every girl watching fainted.{p}"
+  },
+  {
+   "id": "08:d9f0",
+   "op": "text",
+   "en": "The next morning, the teachers found them.\nBut they say their faces were too hideous to look at twice.\nNo one knows why.\nAnd then, they say, every one of them killed herself at the very spot where they had held the ritual.\nThey say their spirits, unable to rest, are still at that spot today.\nThat's why accidents kept happening there.\nAccording to the infirmary records, most of the students who had accidents were girls, especially pretty ones.\nNow, maybe because the exorcism worked, there are no accidents.\nBut anyone who passes near there should be careful, especially girls who are confident about their looks.\nThere's no telling when the accidents will start again.\nThat's the end of my story.\nNext person, please.{p}"
+  },
+  {
+   "id": "08:dc6c",
+   "op": "text",
+   "en": "Sawada drew.\n\"Mine's a blank.\"\nThe other girls drew their lots one after another.\nAfter drawing, some peeked at theirs in secret, and some were too scared to look.\nAnd then there were two leaves left.\nEndo said, almost in a murmur,\n\"So the one that's left over is mine.\"\nThen the last girl drew.\n\"Who got it?\"\nSawada said it with an eerie laugh.\nEndo looked at the leaf that was left.{p}"
+  },
+  {
+   "id": "08:de08",
+   "op": "text",
+   "en": "\"I-it's me.\"\n\"So it's you.\"\nEveryone looked at Endo, relieved.\n\"All right, I'm starting.\"\nSawada began to chant the incantation.\nAnd when she finished...\nWith a crash of thunder, Endo's body rose into the air and moved toward the demon.\n\"If I remember right, you grant wishes, don't you?\"\n\"............yes............\"\nThe demon said it in a voice that made the ground shake.\n\"Then give those girls ugly faces and miserable lives.\"\nEndo flung the words out.\n\"............yes............\"\n\"What are you saying? You're the one who drew the short straw!\"\nSawada said, her voice shaking.\n\"That's right. You all get to keep your lives, so what's the problem?\"\nEndo said it in a bright, and eerie, voice.\nThe girls fainted.{p}"
+  },
+  {
+   "id": "08:e0cc",
+   "op": "text",
+   "en": "The next morning, the teachers found them.\nEndo wasn't among them.\nWhen the girls came to, they rushed off to look in a mirror.{p}"
+  },
+  {
+   "id": "08:e160",
+   "op": "text",
+   "en": "In the mirror were their own familiar faces.\n\"Huh, it hasn't changed at all.\"\nSawada said that, and smiled.{p}"
+  },
+  {
+   "id": "08:e1e0",
+   "op": "text",
+   "en": "Then the face in the mirror grew uglier and uglier.\nSawada screamed in terror and fainted.{p}"
+  },
+  {
+   "id": "08:e26c",
+   "op": "text",
+   "en": "They say the girls are still in the hospital even now.\nEven if you go to the hospital, you won't find the ugly face Sawada says she saw.\nWhat on earth was that ugly face Sawada saw?\nThey say she's the only one who talks about it; nobody else ever saw anything like it.\nBut whenever Sawada looks into a mirror, she sees it, they say. That ugly face.\nThat's the end of my story.\nNext person, please.{p}"
+  },
+  {
+   "id": "08:e3f0",
+   "op": "text",
+   "en": "Sawada drew.\n\"Mine's a blank.\"\nThe other girls drew their lots one after another.\n\"Noooo! Why me?!\nI only tagged along!\"\nThe lot fell to a girl who'd been standing off in the corner.\nShe backed away and tried to run.\n\"Hold it!\"\nThe girls near her pinned her arms behind her and, so they say, dragged her over to Sawada.{p}"
+  },
+  {
+   "id": "08:e550",
+   "op": "text",
+   "en": "\"Come on, Sawada, do it.\"\n"
+  },
+  {
+   "id": "08:e57c",
+   "op": "text",
+   "en": "The girl screamed and wailed.\nBut with so many girls holding her down, she couldn't move.\n\"Please, forgive meee!\"\nSawada began to chant the incantation.{p}"
+  },
+  {
+   "id": "08:e628",
+   "op": "text",
+   "en": "The girl's body lifted lightly into the air and flew toward the demon.\nAnd when she reached the demon, with a sound like an explosion, both the demon and the girl vanished. The girls fainted where they stood.{p}"
+  },
+  {
+   "id": "08:e704",
+   "op": "text",
+   "en": "The next morning, a teacher found them.\nThe teacher asked them what had happened, but every one of them kept her mouth shut.\nIn the end, the missing student was never found, and it was written off as a runaway case.\nFrom then on, an earthbound spirit started appearing here.\nThey say those girls went on attending this school afterward.\nAnd that they lived calmly, as if nothing had ever happened.\nThat's the end of my story.\nNext person, please.{p}"
+  },
+  {
+   "id": "08:e8a8",
+   "op": "text",
+   "en": "Surprised?\nThat's right, it's the incinerator.\nI think the teachers probably didn't take it seriously.\nOtherwise they'd never have built something like an incinerator there, would they?\nSo the accidents went on even after the incinerator was built.\nBut the school just sat on its hands and couldn't do anything about it.\nOfficially, they didn't warn the students about anything, especially not about the incinerator.\nThen one day, a member of the biology committee threw a dead rabbit into the incinerator and burned it.{p}",
+   "follows_choice": [
+    "08:77b4"
+   ]
+  },
+  {
+   "id": "08:ea48",
+   "op": "text",
+   "en": "After that, the accidents stopped for a while.\nThen there was another accident, but one of the teachers heard the rumor, and this time put a dead little bird in the incinerator and burned it.\nAfter that, once again, there were no accidents for a while.{p}"
+  },
+  {
+   "id": "08:eb20",
+   "op": "text",
+   "en": "A solution had been found.\nThe teachers talked it over and decided to offer an animal carcass as a sacrifice every week. But about half a year later...\nThe school year changed, and new teachers arrived.\nAmong them was a teacher fresh out of college named Koji Someya.\nOne day, Mr. Someya's turn came up to put the sacrifice into the incinerator.\nEven though the accidents had stopped, no teacher was happy to go every week.\nSo they had decided to take turns.\n\"Mr. Someya, you may think this is ridiculous, but..................\"\nWith that, a senior teacher explained how it had all come about.\n\"Well then, I'm counting on you.\"\nWhen that teacher left, Mr. Someya reluctantly headed for the incinerator.{p}"
+  },
+  {
+   "id": "08:edb4",
+   "op": "text",
+   "en": "\"This is so damn stupid.\nIt's creepy.\nJust my luck that my first school turns out to be a place like this.\"\nWhen he went around behind the school building, he could see the incinerator.{p}"
+  },
+  {
+   "id": "08:ee48",
+   "op": "text",
+   "en": "\"There it is. Let's get this over with.\"\nAnd he headed toward the incinerator.\nA little way on, he saw some students fighting.\n\"What do you think you're doing?!\"\nWhen Mr. Someya shouted, the two students ran off.\nHe forgot all about the sacrifice and chased after them.\nWhen he caught up with the two students, he gave them a thorough chewing out.{p}"
+  },
+  {
+   "id": "08:ef84",
+   "op": "text",
+   "en": "The next day, when he got to school, the faculty room was in an uproar.\n\"What's going on?\"\n\"Early this morning, a student was badly hurt near the incinerator.\"\n\"Mr. Someya, you did the sacrifice properly, didn't you?\"\n\"Huh? Y-yes.\"\nMr. Someya ended up telling a lie without thinking.\n"
+  },
+  {
+   "id": "08:f07c",
+   "op": "text",
+   "en": "\"I see.\nMaybe something on that level isn't enough to calm the spirit anymore.\"\nThe teachers were discussing what to do from now on.\n(Damn it. I never thought something like this would really happen.)\nHe regretted it.{p}What do you think Mr. Someya did after that?\n"
+  },
+  {
+   "id": "08:f16c",
+   "op": "choice",
+   "en": "He honestly owned up"
+  },
+  {
+   "id": "08:f17c",
+   "op": "choice",
+   "en": "He kept up the lie"
+  },
+  {
+   "id": "08:f18c",
+   "op": "text",
+   "en": "He told the truth.\nAnd after school, he went to the incinerator to offer the sacrifice once more.{p}",
+   "follows_choice": [
+    "08:f16c"
+   ]
+  },
+  {
+   "id": "08:f1e8",
+   "op": "text",
+   "en": "The sacrifice he had failed to offer yesterday was in a corner of the school building, as if hidden away.\n\"I have to offer the sacrifice, quickly.\"\nThe sun had set, and it had grown quite dark.\nWhen he reached the incinerator, he opened the door and threw in the animal carcass.\n\"That should do it.\"\nAnd just as he took out his lighter to light it...{p}"
+  },
+  {
+   "id": "08:f334",
+   "op": "text",
+   "en": "From the darkness all around, dozens of yellow eyes were staring at him.\n\"Uh... uh... aaagh!\"\nThe teacher was so startled he dropped the lighter.\n"
+  },
+  {
+   "id": "08:f3c0",
+   "op": "text",
+   "en": "It was an oil lighter, so it kept burning there on the ground.\nThe teacher braced himself, sure the monsters would attack, but they only prowled around at a distance and didn't come at him.\nThis went on for a while, until the lighter ran out of oil.\n"
+  },
+  {
+   "id": "08:f4a4",
+   "op": "text",
+   "en": "It was the moment the flame went out with a puff.\nThe monsters suddenly attacked.\nThey tore the flesh from the teacher's arms and legs with their teeth.\nJust when he thought this was the end, he saw a box of matches lying on the ground.\nHe desperately grabbed it and struck a match.\nThen the monsters suddenly stopped attacking.{p}"
+  },
+  {
+   "id": "08:f5b0",
+   "op": "text",
+   "en": "The teacher kept striking match after match.\nAnd then he was down to the last one.\n(This is it. I'm finished.)\nThat's what he thought.\nThen he took one last gamble.\nHe lit the last match and threw it into the incinerator.{p}"
+  },
+  {
+   "id": "08:f67c",
+   "op": "text",
+   "en": "The fire slowly caught on the trash in the incinerator and gradually spread.\nThen the monsters faded away little by little.\nThe teacher was saved.{p}"
+  },
+  {
+   "id": "08:f720",
+   "op": "text",
+   "en": "Did you know? You've never seen the fire in that incinerator go out, have you?\nThis is actually the reason.\nIt's a kind of charm against evil, you could say.\nIf you ever see that incinerator with its fire out, I think you'd better not go near it.\nThere's no telling what might happen.\nThat's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "08:f848",
+   "op": "text",
+   "en": "Mr. Someya decided to keep up the lie.\n(I finally made it as a teacher. If I cause trouble now...)\nWhen he thought that, he just couldn't bring himself to say it.\nHe went through the day as if he knew nothing.\nAfter talking it over, the teachers decided to hold an exorcism.{p}",
+   "follows_choice": [
+    "08:f17c"
+   ]
+  },
+  {
+   "id": "08:f958",
+   "op": "text",
+   "en": "The next Sunday, they called in the head priest of a nearby temple, nearly all the teachers gathered, and the exorcism began.\nMr. Someya prayed desperately.\nAnd for a while, nothing happened.\nThe animal sacrifices were resumed, and were carried out once a week.{p}"
+  },
+  {
+   "id": "08:fa48",
+   "op": "text",
+   "en": "About three months later, Mr. Someya's turn came around.\n(I hope nothing happens...)\nMr. Someya thought about telling the truth and asking someone to take his place, but he just couldn't bring himself to do it.\n(I have to go.)\nTelling himself that, Mr. Someya headed for the incinerator.{p}"
+  },
+  {
+   "id": "08:fb6c",
+   "op": "text",
+   "en": "If he didn't go this time, there was no telling what might happen again.\nWhen he got behind the school building, he steeled himself and started walking.\nHis steps were heavy, and he felt like running away at any moment.{p}"
+  },
+  {
+   "id": "08:fc18",
+   "op": "text",
+   "en": "When he reached the incinerator, Mr. Someya hurriedly opened the door and threw the sacrifice inside.\nThen he took out his lighter and, lighter in hand, reached into the incinerator.\n"
+  },
+  {
+   "id": "08:fcc8",
+   "op": "text",
+   "en": "Mr. Someya screamed and yanked his hand back out.\nSeveral of his fingers had been bitten off.\nAnd when he turned to flee, he saw countless rat-like animals covering the ground.\nHis legs gave out, and he collapsed onto the ground.{p}"
+  },
+  {
+   "id": "08:fdc0",
+   "op": "text",
+   "en": "And then the rat-like animals attacked.\nThey swarmed over him until he was buried.{p}",
+   "returns": []
+  },
+  {
+   "id": "08:fe3c",
+   "op": "text",
+   "en": "A while later, when another teacher happened by, he was barely breathing.\nThey say he confessed everything that had happened to that teacher, and then breathed his last.\nEver since then, they say, the animal carcass sacrifices are never skipped.\nThey might even be doing it today.\nIf you feel like it, why not go have a look later?\nIn reporting, it's important to confirm things with your own eyes, after all.\nThat's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "08:ffd8",
+   "op": "text",
+   "en": "Did you know this story?\nThere's a flower bed behind the gym, isn't there?\nThat's actually the place.\nA teacher from back then turned it into a flower bed because so many accidents happened there.\nBut making it a flower bed didn't mean the accidents stopped right away.\nThe accidents never stopped among the gardening committee students who tended the flower bed.\nAnd the gardening committee students gradually stopped going near it.{p}",
+   "follows_choice": [
+    "08:77bc"
+   ]
+  },
+  {
+   "id": "08:10148",
+   "op": "text",
+   "en": "The flower bed fell into ruin and was overrun with weeds.\nOne day, a new first-year girl on the gardening committee, who didn't know what had happened there, pulled the weeds and planted sunflowers.\nBut she had an accident too, and had to give up partway.\nThat summer there was a long stretch without rain, yet the sunflowers grew steadily.\nThen one day, one of the chickens the school kept got loose.\nIt was a dull, overcast day; it had already gotten quite dark, and only a few students were still around.{p}"
+  },
+  {
+   "id": "08:10310",
+   "op": "text",
+   "en": "Yamabe from the animal-care committee was chasing the chicken for all he was worth when he passed in front of the flower bed.\n(Oh crap, this is THAT flower bed.)\nThinking that, he stopped.\nThe chicken kept running, cutting right across in front of the flower bed.{p}"
+  },
+  {
+   "id": "08:103f8",
+   "op": "text",
+   "en": "A sunflower stretched out, long and slithering, and bit the chicken.\nAnd then it began to eat the chicken.\nYamabe was so terrified he couldn't even run.\nWhen it had finished eating the chicken, the sunflower turned back into an ordinary sunflower.\nAll that was left were the chicken's feathers.{p}"
+  },
+  {
+   "id": "08:1051c",
+   "op": "text",
+   "en": "That night, Yamabe was thinking about the sunflowers.\nAnd he hit on the idea of luring his homeroom teacher, Mr. Saito, whom he had always hated, to the sunflower bed.\n"
+  },
+  {
+   "id": "08:105c0",
+   "op": "text",
+   "en": "For a while, he watched for his chance.\n\"A person won't die from it, probably.\"\nThe teachers knew about that flower bed too.\nIf he just called Mr. Saito out there normally, he would never come.\nThen his chance came.{p}"
+  },
+  {
+   "id": "08:10698",
+   "op": "text",
+   "en": "Mr. Saito was in a corner of the schoolyard, watching practice for the softball team he advised.\nSeeing that, Yamabe said this to him.{p}"
+  },
+  {
+   "id": "08:10724",
+   "op": "text",
+   "en": "\"Suzuki got hurt behind the school building. Please come with me.\"\nHowever far the bad rumors about the flower bed had spread, nobody knew about the sunflowers.\nIf a student was hurt, he couldn't very well not go.\n\"Where...?\"\n\"At that flower bed.\"\nFor an instant the teacher looked startled, but when he'd been told a student was hurt, he couldn't refuse because of some superstitious ghost story.{p}"
+  },
+  {
+   "id": "08:108ac",
+   "op": "text",
+   "en": "Mr. Saito went up to the flower bed, steeled himself, and stepped inside it.\nYamabe watched, his heart swelling with anticipation.\n\"Where are they, Yamabe?\"\nAnd then the sunflowers began to move, just like that time.{p}"
+  },
+  {
+   "id": "08:1098c",
+   "op": "text",
+   "en": "\"GYAAAHH!\"\n"
+  },
+  {
+   "id": "08:109ac",
+   "op": "text",
+   "en": "\"Heeelp meee!\"\nWith a pitiful look on his face, the teacher begged Yamabe for help.\nYamabe looked at Mr. Saito and laughed under his breath.\n\"Heh... heh, heh heh.\"\nHe was satisfied that his plan had gone just as he wanted, and satisfied by Mr. Saito's pathetic state.\nAfter a while, the screaming stopped.{p}"
+  },
+  {
+   "id": "08:10ac8",
+   "op": "text",
+   "en": "\"Sir, are you all right?\"\nYamabe got worried and called out, but there was no answer.\nWhen he peered into the flower bed from a distance, all that was left there were scraps of his suit.\n\"They eat people too...\"\nFrom then on, he fed everyone he didn't like to the sunflowers, one after another.\nBut one time, he was watching someone he didn't like being eaten in the usual place...{p}"
+  },
+  {
+   "id": "08:10c54",
+   "op": "text",
+   "en": "After it finished eating that victim, a sunflower stretched toward Yamabe.\nYamabe knew the sunflowers couldn't reach where he was standing.\nSo he just stood there, unbothered.\nAs Yamabe watched the sunflower, it closed in fast until it was right in front of him.{p}"
+  },
+  {
+   "id": "08:10d54",
+   "op": "text",
+   "en": "\"Wh-why...?\"\nAnd the sunflower that had come right up to him had Mr. Saito's face.\n\"M-Mr. Saito...\"{p}"
+  },
+  {
+   "id": "08:10dd4",
+   "op": "text",
+   "en": "Mr. Saito laughed eerily.\nYamabe turned around to run.\nBut sunflowers had gathered all around him.\nHe was surrounded by sunflowers wearing the faces of everyone he had fed to them.\nYamabe understood his fate.{p}"
+  },
+  {
+   "id": "08:10ee4",
+   "op": "text",
+   "en": "By the time a teacher happened to pass by, it was already too late.\nAfter his death, they say something called an 'assassination diary' was found in his room.\nThen summer ended, and the sunflowers withered.\nThey held an exorcism and got rid of the sunflowers.\nAfter that, no sunflowers were ever planted in that bed again.\nAnd they say the teachers take turns making sure it never goes without water.\nMaybe that's why there are no accidents now.\nRumor has it that seeds from those sunflowers are still somewhere in this school.\nI wonder if the earthbound spirit is with those sunflower seeds now.\nYou be careful too, {a}{f:,|,} when you plant sunflower seeds.\nAs for me, I've decided never to plant sunflower seeds for as long as I live.\nWell, that's the end of my story.\nWho's next?{p}"
+  }
+ ]
+}

@@ -1,0 +1,986 @@
+{
+ "chunk": "E092",
+ "scene": "46",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "slices": [
+  "S180",
+  "S181",
+  "S182"
+ ],
+ "prev": "E091",
+ "next": "E093",
+ "todo": [],
+ "rows": [
+  {
+   "id": "46:0abc",
+   "op": "text",
+   "en": "Maybe it really was just a dream after all.{p}"
+  },
+  {
+   "id": "46:0af4",
+   "op": "text",
+   "en": "The gathering I went to because Hino, my senior in the newspaper club, asked me to.\nThe six who gathered there vanished one by one, each time a story was told.{p}"
+  },
+  {
+   "id": "46:0b68",
+   "op": "text",
+   "en": "And when all six had vanished, the masked girl appeared.\nShe hinted that the six were dead, and then she too vanished from before my eyes.{p}"
+  },
+  {
+   "id": "46:0be0",
+   "op": "text",
+   "en": "Since then, I still haven't woken from my dream.\nAnd without ever waking from that dream, I'm now living in reality.\nWhere and how I strayed from the path, I don't know, but the world I'm in now is different somehow.{p}"
+  },
+  {
+   "id": "46:0c98",
+   "op": "text",
+   "en": "After the six vanished that day, I just stood there in a daze in front of the old school building.\nOnce the morning sun had fully shown its face and I could hear the birds singing, people began to appear here and there.\nAnd then the same old everyday life began, unchanged as ever.{p}"
+  },
+  {
+   "id": "46:0d60",
+   "op": "text",
+   "en": "I was a person named {b} {a}.\nAnd I was a first-year at this school.{p}"
+  },
+  {
+   "id": "46:0db4",
+   "op": "text",
+   "en": "And I was a member of the newspaper club, and Hino was there too.\nAnd so I confirmed that the world I was in now was reality.\nBut one thing was different.\nJust one thing was different from the reality I knew.{p}"
+  },
+  {
+   "id": "46:0e7c",
+   "op": "text",
+   "en": "It was that the newspaper club's plan to do a feature on the seven wonders had never existed in the first place.\nNaturally, when I brought it up, Hino tilted his head with a puzzled look.\nAkemi Iwashita.\nNozomu Kazama.\nMakoto Shindo.\nTomoharu Hosoda.\nShoji Arai.\nReiko Fukuzawa.\nHino didn't know a single one of their names.\nI checked the school roster.\nBut there wasn't a single student by any of those names.\nThinking I might have missed them, I checked again and again.\nBut it was wasted effort.\nThey didn't exist.\nThey were never students who belonged at this school.{p}"
+  },
+  {
+   "id": "46:1090",
+   "op": "text",
+   "en": "...Then what was it that I saw?\nWhat had that gathering been in the first place?\nHad I been daydreaming?\nA terribly realistic dream?{p}"
+  },
+  {
+   "id": "46:112c",
+   "op": "text",
+   "en": "No, that was no dream.\nThose six were undeniably there, laughing, breathing.\nEven now I remember them so clearly that I could tell each of them apart by their faces, their laughter, even their scent.\nThe seven of us, who met and shared one fleeting moment in such a short time.\nThey exist.\nI'm certain of it, and yet I go on living the same old everyday life, unable to clear away the thing lodged in my chest.\n...And today, that old school building is being torn down.\nThe first term had ended, and it was already summer vacation.\nWhat should I do?\nShould I go to the school?{p}And see the old school building being torn down?\n"
+  },
+  {
+   "id": "46:1338",
+   "op": "choice",
+   "en": "Go to the school"
+  },
+  {
+   "id": "46:134c",
+   "op": "choice",
+   "en": "Don't go to the school"
+  },
+  {
+   "id": "46:1360",
+   "op": "text",
+   "en": "That's right.\nThere's no point sitting at home thinking about it like this.\nHolding a faint hope that I might be able to confirm whether what I saw that time was real or a dream, I headed for the school.{p}",
+   "follows_choice": [
+    "46:1338"
+   ]
+  },
+  {
+   "id": "46:142c",
+   "op": "text",
+   "en": "I could hear the noise of the construction from quite far away.{p}"
+  },
+  {
+   "id": "46:1468",
+   "op": "text",
+   "en": "...They're already tearing down the old school building.\nI ran.\nJust as I reached the school, the old building was coming down with a roar.\nIt was almost as if it had been waiting for me to arrive.\nI staggered toward the old building as if I were being lured.\n\"It's dangerous, move aside.\"{p}One of the construction workers urged me to keep my distance.\n"
+  },
+  {
+   "id": "46:15a0",
+   "op": "choice",
+   "en": "Say you're covering it for the newspaper club"
+  },
+  {
+   "id": "46:15b8",
+   "op": "choice",
+   "en": "Move away as you're told"
+  },
+  {
+   "id": "46:15cc",
+   "op": "choice",
+   "en": "Ignore the warning and go closer"
+  },
+  {
+   "id": "46:15e4",
+   "op": "text",
+   "en": "\"Um, I'm with the newspaper club.\nAnd, well, I was told to cover the demolition of the old school building...\"\n\"Nobody told me about that.\"\nThe worker looked troubled and folded both arms.\n\"...Well, fine. Just don't get in the way.\"\nAt that, I bowed.\nI approached the flattened wreckage of the old school building.\nNow that it had come to this, there was no trace left of the old building, frightening as it had been, yet full of character.\nIt was nothing but a heap of garbage.{p}",
+   "follows_choice": [
+    "46:15a0"
+   ]
+  },
+  {
+   "id": "46:1770",
+   "op": "text",
+   "en": "\"Heeeeey! A body! There's a body here!☆\"\nA loud voice rang out not far away.\nMaybe somewhere in my heart I had been expecting that.\nAmid the stirring crowd, I held back my eagerness and headed for the spot where the voice had come from too.\n\"...This poor soul hasn't been dead long.\"\n\"Ain't this a student from this school?\"\n\"One... two... three... there's six of 'em!\"\nEveryone surrounded the bodies, gazing at them with deeply sympathetic eyes.{p}"
+  },
+  {
+   "id": "46:18fc",
+   "op": "text",
+   "en": "There were six bodies in school uniforms.\nFour were male.\nTwo were female.\nThey lay buried in the ruins of the rubble, piled on top of one another.\nEvery one of the bodies was pristine.\nPerhaps because they lay face down, their faces couldn't be seen.\nBut I knew who they were.\nI didn't need to look at their faces; I knew very well whose bodies these were.{p}"
+  },
+  {
+   "id": "46:1a4c",
+   "op": "text",
+   "en": "\"Call the police!\"\nSomeone shouted.\nThen another voice rose from farther off.\n\"There's bones over here! There's a whole lotta skeletons buried here!\"\n\"What the hell kind of school is this...\"\nPeople's voices flew back and forth, half appalled, half astonished.\nJust how many human lives had this old school building devoured until now?{p}"
+  },
+  {
+   "id": "46:1b98",
+   "op": "text",
+   "en": "In any case, those six had really existed.\nInside the old school building, at least, they had existed.\nTheir identities would surely never be confirmed.\nBut they had definitely been there.\nIf I'm in the real world now, that is...\nThe weight in my chest finally lifted, so I decided to head home.{p}"
+  },
+  {
+   "id": "46:1ca8",
+   "op": "text",
+   "en": "And after I got home, I thought it over again.\nMaybe people from a world different from ours live in that old school building.\nA world completely separate from the one where we live our lives like this.{p}"
+  },
+  {
+   "id": "46:1d5c",
+   "op": "text",
+   "en": "In the old school building, left unused for so long, residents of some unknowable world must have settled in.\nAnd in that place they are born, they live, and they die.\nLiving inside the old school building, they must have known it would soon be destroyed.\nAnd so, wanting to tell me something, they must have shown me those visions.\nI must have had that strange experience because I was bewitched by the people who live in the old school building.{p}"
+  },
+  {
+   "id": "46:1ed4",
+   "op": "text",
+   "en": "...That was the thought that suddenly came to me.\nAm I wrong to think so?\nOr has my mind just gone strange, and I'm only seeing hallucinations?\nIs the masked girl nothing but a figment of my own imagination?{p}"
+  },
+  {
+   "id": "46:1f98",
+   "op": "text",
+   "en": "...The night had grown late.{p}What should I do?\n"
+  },
+  {
+   "id": "46:1fbc",
+   "op": "choice",
+   "en": "Go to sleep now"
+  },
+  {
+   "id": "46:1fc8",
+   "op": "choice",
+   "en": "Read a book"
+  },
+  {
+   "id": "46:1fd4",
+   "op": "choice",
+   "en": "Maybe do some studying"
+  },
+  {
+   "id": "46:1fe4",
+   "op": "text",
+   "en": "Come to think of it, I had a mountain of summer homework.\nIf I didn't do it now, I'd be the one suffering later.\nI might as well get at least a little of it out of the way.{p}",
+   "follows_choice": [
+    "46:1fd4"
+   ]
+  },
+  {
+   "id": "46:2064",
+   "op": "text",
+   "en": "I opened the drawer to take out something to write with.\nIn there was...{p}"
+  },
+  {
+   "id": "46:20c4",
+   "op": "text",
+   "en": "That mask.\nThe mask lay carefully in the middle of the drawer, as if someone had placed it there.\nThe mask that had disappeared when I left the old school building.\nIt was here, in the drawer of the study desk in my own house.{p}What could it mean, that mask being here?\n"
+  },
+  {
+   "id": "46:21b4",
+   "op": "choice",
+   "en": "I'm being invited too"
+  },
+  {
+   "id": "46:21c8",
+   "op": "choice",
+   "en": "A gift from that girl"
+  },
+  {
+   "id": "46:21e0",
+   "op": "choice",
+   "en": "I'm still dreaming"
+  },
+  {
+   "id": "46:21f8",
+   "op": "text",
+   "en": "Am I being invited?{p}",
+   "follows_choice": [
+    "46:21b4"
+   ]
+  },
+  {
+   "id": "46:2228",
+   "op": "text",
+   "en": "I picked up the mask.\nThe instant I did, I felt as though I had touched something I should never have touched.\nWhat was it that had been in the old school building?\nWhere will the things that were in the old school building go now?{p}"
+  },
+  {
+   "id": "46:22ec",
+   "op": "text",
+   "en": "Without realizing it, I held the mask up to my face.\nThe moment it touched, I felt dizzy for an instant, and my view changed completely.{p}"
+  },
+  {
+   "id": "46:236c",
+   "op": "text",
+   "en": "The scene I saw through the mask.\nIt was the old school building.\nAnd standing in front of me was me.\nThis place is... isn't this the girls' restroom in the old school building?\nTo me in the mask, the me in front of me said just one thing.\n\"I don't want to see.\"{p}"
+  },
+  {
+   "id": "46:2444",
+   "op": "text",
+   "en": "...I see.\nYou don't want to see my face?\nThen don't look.\nAt your own face.\nI'm still in the nightmare.\nIn a pleasant nightmare.{p}"
+  },
+  {
+   "id": "46:24d8",
+   "op": "text",
+   "en": "Forget it.\nWhat good would it do to see something like that now?{p}",
+   "follows_choice": [
+    "46:134c"
+   ]
+  },
+  {
+   "id": "46:2530",
+   "op": "text",
+   "en": "I flopped down on my bed.\nIt's always like this lately.\nDid something inside me vanish along with those six?\nI can't bring myself to do anything.\nI let out a deep sigh.\n"
+  },
+  {
+   "id": "46:25f4",
+   "op": "text",
+   "en": "...Heh.{p}",
+   "returns": []
+  },
+  {
+   "id": "46:2614",
+   "op": "text",
+   "en": "What?\n"
+  },
+  {
+   "id": "46:262c",
+   "op": "text",
+   "en": "I definitely heard something just now.{p}"
+  },
+  {
+   "id": "46:2658",
+   "op": "text",
+   "en": "I looked around the room.\nIs someone there★\nAll I could see was my room, the same as always.\nBut that presence just now...\n"
+  },
+  {
+   "id": "46:26d4",
+   "op": "text",
+   "en": "Heh heh...{p}",
+   "returns": []
+  },
+  {
+   "id": "46:26f4",
+   "op": "text",
+   "en": "There it is again!\nThere really is someone in this room besides me.{p}"
+  },
+  {
+   "id": "46:2740",
+   "op": "text",
+   "en": "\"Wh... Who's there?\"\nMy voice cracked.\nWhoever it was, their laughter grew louder.\nAnd it was a voice I knew.\n\"How cold of you. Have you forgotten me already?\"{p}"
+  },
+  {
+   "id": "46:27d8",
+   "op": "text",
+   "en": "No way★\nAm I hearing things?\nThere's no way I could be hearing this voice here.{p}"
+  },
+  {
+   "id": "46:2834",
+   "op": "text",
+   "en": "\"Oh, but you can hear it, see?\"\nJust then, the owner of the mischievous voice appeared.\nSuddenly, as if pulling open an invisible curtain.\nI stared at her, unable to believe it.{p}"
+  },
+  {
+   "id": "46:28f0",
+   "op": "text",
+   "en": "\"Fu... kuzawa...\"\nThe one standing before me was Reiko Fukuzawa.\n\"What's with that face? Like you've seen a ghost or something.\"\nEven if she says that...\nShe vanished right in front of me.\nShe wasn't even on the roster.\nEven just now, she appeared out of nowhere.\nIf she's not a ghost, then what exactly does she mean to say she is?{p}"
+  },
+  {
+   "id": "46:2a38",
+   "op": "text",
+   "en": "\"Jeez, what a closed-minded guy.\"\nAnother voice came from the other side of the room.\nThis voice...{p}"
+  },
+  {
+   "id": "46:2a94",
+   "op": "text",
+   "en": "\"Shindo★\"\nAt some point, Shindo had sat himself down on my desk.{p}"
+  },
+  {
+   "id": "46:2ae0",
+   "op": "text",
+   "en": "\"You think nothing can exist in this world except what you can understand, don't you?\"\nIn the chair beside him sat Hosoda.{p}"
+  },
+  {
+   "id": "46:2b64",
+   "op": "text",
+   "en": "\"Oh my, but I don't dislike that side of you.\"{p}"
+  },
+  {
+   "id": "46:2ba0",
+   "op": "text",
+   "en": "\"Yes, it just goes to show how earnest you are, {a}.\"{p}"
+  },
+  {
+   "id": "46:2be0",
+   "op": "text",
+   "en": "Iwashita, Arai, and even Kazama.\n\"N... No way...\"\nI rubbed my eyes without thinking.\nKazama shrugged.\n\"Hey now, you're not going to call a dashing, ultra-handsome heartthrob like me a hallucination, are you?\"\nThe way he said it took away any urge to talk back.\nNo doubt about it, this was Kazama.{p}"
+  },
+  {
+   "id": "46:2ce8",
+   "op": "text",
+   "en": "Then the others too?{p}"
+  },
+  {
+   "id": "46:2d0c",
+   "op": "text",
+   "en": "\"Looks like you finally get it. It was us who told you about the seven wonders the other day.\"\nFukuzawa smiled sweetly.\n\"H-How...\"\nI murmured without thinking.{p}"
+  },
+  {
+   "id": "46:2da4",
+   "op": "text",
+   "en": "But I wasn't really sure myself what I was asking.\nThere were so many things I wanted to ask.{p}"
+  },
+  {
+   "id": "46:2e0c",
+   "op": "text",
+   "en": "Were all those stories lies?\nWhy did you vanish like that?\nHow did you get into the room without opening the door?\nAnd above all, what are you?\n...But they didn't seem to have any intention of answering any of it.{p}"
+  },
+  {
+   "id": "46:2ef8",
+   "op": "text",
+   "en": "\"I'm sorry we startled you. You see, that was a test.\"\nArai said it with a cheerful smile.\nA test?\n\"Yes. To see whether you were fit to be one of us.\"{p}"
+  },
+  {
+   "id": "46:2fb8",
+   "op": "text",
+   "en": "\"And you passed. Simple as that.\"\nLaughing warmly, they all came closer to me.{p}",
+   "returns": []
+  },
+  {
+   "id": "46:3014",
+   "op": "text",
+   "en": "\"O... one of you... Doesn't that mean you're ghosts?\"{p}"
+  },
+  {
+   "id": "46:3060",
+   "op": "text",
+   "en": "Hosoda snorted at my words.\n\"Still on about that? Listen, we live in the school. We never grow old, so we can watch over that school forever.\"{p}"
+  },
+  {
+   "id": "46:310c",
+   "op": "text",
+   "en": "\"You're inside a long dream. If you become one of us, you'll never have to go back to ugly reality.\"{p}"
+  },
+  {
+   "id": "46:3178",
+   "op": "text",
+   "en": "\"It hardly ever happens that someone gets chosen to join us, you know. It's been about ten years since the last time.\"{p}"
+  },
+  {
+   "id": "46:31e8",
+   "op": "text",
+   "en": "That long?\nWeren't these people human?{p}"
+  },
+  {
+   "id": "46:321c",
+   "op": "text",
+   "en": "I looked up at the smiles in front of me.{p}"
+  },
+  {
+   "id": "46:324c",
+   "op": "text",
+   "en": "\"Even when we vanished one by one, you tried to keep the stories going. We liked that nerve of yours.\"{p}"
+  },
+  {
+   "id": "46:32b0",
+   "op": "text",
+   "en": "\"And the cool head to switch gears right away, even though I nearly killed you.\"{p}"
+  },
+  {
+   "id": "46:3304",
+   "op": "text",
+   "en": "\"When it was my turn, I thought you'd call the police too, but you didn't, did you?\"{p}"
+  },
+  {
+   "id": "46:3350",
+   "op": "text",
+   "en": "\"Put all that together, and you've passed. Thrilled, aren't you?\"\n\"Huh...\"{p}"
+  },
+  {
+   "id": "46:33b4",
+   "op": "text",
+   "en": "That wasn't what I'd meant to do at all.\nIt would be more accurate to say I'd been stunned by how many things kept happening.\nIn the end, maybe it meant I'd silently allowed everyone to vanish.\nBut it wasn't as if I'd meant to do that from the start......\n...No, was that true?\nSomewhere in my heart, hadn't I been thinking that if people really vanished, it would make a good article?{p}"
+  },
+  {
+   "id": "46:34f8",
+   "op": "text",
+   "en": "I looked deep into my own heart.{p}And the heart I saw there was...\n"
+  },
+  {
+   "id": "46:3544",
+   "op": "choice",
+   "en": "I was hoping everyone would vanish"
+  },
+  {
+   "id": "46:3564",
+   "op": "choice",
+   "en": "Absolutely not, I never thought that"
+  },
+  {
+   "id": "46:3598",
+   "op": "text",
+   "en": "That's right.\nI'd been thinking it would be fine if all six of them just disappeared.\nFor no other reason than that it would make a more interesting article.\nI had never noticed until now, but inside me there was an evil darkness.\nMaybe that was what had drawn the six of them to me.{p}",
+   "follows_choice": [
+    "46:3544"
+   ]
+  },
+  {
+   "id": "46:3688",
+   "op": "text",
+   "en": "They held out their hands to me.\n\"Finally figured it out, have you? Well then, shall we go?\"\nI took their hands without hesitation.\nThe space behind them wavered softly.\nThe shimmering air, like a screen, showed a dark, black building.{p}",
+   "returns": []
+  },
+  {
+   "id": "46:377c",
+   "op": "text",
+   "en": "That's... the old school building.\n\"That's our world. And from now on, it will be your world too.\"\nWithout any resistance, my feet rose off the ground.\nI would pass through the screen and go there.\nTo my new world.\nYes, now I understood.\nThe calm, lovely atmosphere of the old school building.\nThe masked girl had to be there too.\nSomehow, I longed desperately to see her.\nPressing a hand to my fluttering heart, I plunged into that world, shimmering like a heat haze.{p}"
+  },
+  {
+   "id": "46:392c",
+   "op": "text",
+   "en": "No.\nI absolutely never thought anything like that.{p}",
+   "follows_choice": [
+    "46:3564"
+   ]
+  },
+  {
+   "id": "46:3960",
+   "op": "text",
+   "en": "I glared at them.\n\"I couldn't have known everyone would vanish! If I'd known, I would have stopped partway!\"\nIn that instant, the smiles vanished from all their faces.{p}"
+  },
+  {
+   "id": "46:3a08",
+   "op": "text",
+   "en": "\"You're still saying that?\"\nIwashita all but spat the words.\n\"How disappointing. It seems I overestimated you.\"{p}"
+  },
+  {
+   "id": "46:3a90",
+   "op": "text",
+   "en": "\"Tell me about it. Guess there's no way you're joining us after all.\"\nShindo shrugged.{p}"
+  },
+  {
+   "id": "46:3af0",
+   "op": "text",
+   "en": "\"That kind of killed the mood. Let's go home.\"{p}"
+  },
+  {
+   "id": "46:3b18",
+   "op": "text",
+   "en": "\"Yes, let's.\"{p}"
+  },
+  {
+   "id": "46:3b28",
+   "op": "text",
+   "en": "They all turned their backs on me.\n\"Ah, w... wait a minute!\"{p}"
+  },
+  {
+   "id": "46:3b6c",
+   "op": "text",
+   "en": "Kazama turned around.\n\"{a}, you've failed. You have no right to come with us. Go on, wake up from your dream.\"\nA dream... he said?\nCould I escape from the nightmare that had gone on and on?\nMaybe hope showed on my face.{p}"
+  },
+  {
+   "id": "46:3c4c",
+   "op": "text",
+   "en": "Seeing me like that, Kazama raised his eyebrows in plain contempt.\n\"...How foolish.\"\n\"Huh?\"\nWhat did he just...?{p}"
+  },
+  {
+   "id": "46:3cb8",
+   "op": "text",
+   "en": "By the time I tried to ask him again, the six of them had vanished.\nAnd then I realized.\nAt some point, I had come to be floating in a pitch-black void.\nWhat is this★\nI was supposed to be in my own room.\nAs far as I could see, there was nothing.\nAn absolute darkness that seemed to swallow even light.\nWhere am I?\nWhy am I in a place like this★\n\"Somebody...!\"\nI tried shouting, and a chill ran through me.\nIt felt as if my voice was being sucked into infinite space.\n\"Heh heh heh... What are you making such a fuss about?\"\nA woman's voice spoke inside my head.\n\"You were the one who refused to come to us... who wished to wake from the dream...\"\nNo!\nSo this was reality?\nAn endless darkness with nothing in it at all.\nNot just the seven wonders feature, but the school and my room too, were they all products of a dream?\nNo, even more than that...{p}"
+  },
+  {
+   "id": "46:3f64",
+   "op": "text",
+   "en": "\"That's right. Your name isn't {b} {a}. No such person ever existed in the first place...\"\nThe voice echoing in my head told me the truth, calmly and cruelly.\nI see... I remember now.\nThis is the masked girl's voice.\n\"You woke from the dream, just as you wished. Now you'll wander forever in this infinite reality.\"\n\"Wa...\"\nI tried to say, \"Wait.\"\nBut no voice came out.\nHow was I supposed to face this heavy, crushing reality from now on?\n...No answer came back anymore.\n"
+  },
+  {
+   "id": "46:4120",
+   "op": "text",
+   "en": "I began to fall slowly toward the center of the darkness.\nI understood.\n"
+  },
+  {
+   "id": "46:4174",
+   "op": "text",
+   "en": "That I would never dream again.{p}"
+  },
+  {
+   "id": "46:41a0",
+   "op": "text",
+   "en": "\"All right...\"\nNodding weakly, I moved away from there.{p}",
+   "follows_choice": [
+    "46:15b8"
+   ]
+  },
+  {
+   "id": "46:41dc",
+   "op": "text",
+   "en": "Turning my back on the old school building, I looked toward the school gate.{p}"
+  },
+  {
+   "id": "46:421c",
+   "op": "text",
+   "en": "There was a schoolgirl there, even though it was summer vacation.\nHad she come to see the old school building before it was torn down, like me?\nBut even so, something about her was strange.\nI couldn't say exactly what...{p}"
+  },
+  {
+   "id": "46:42d0",
+   "op": "text",
+   "en": "...That's it!\nI realized what had felt wrong.\nDespite the blazing summer sun, there was no shadow at her feet!{p}"
+  },
+  {
+   "id": "46:4354",
+   "op": "text",
+   "en": "I hurried to catch up with her.\n\"Hey, you!\"{p}"
+  },
+  {
+   "id": "46:4394",
+   "op": "text",
+   "en": "...The face that turned toward me wore a pure white mask.\nIt was that girl!\nAs I stood there, unable to breathe, the eyes beneath the mask seemed to smile faintly.\n\"So you came after all.\"\nHer manner said she had seen it all coming.\n\"You look like you're wondering how I knew. If you want to know, shall I show you?\"{p}"
+  },
+  {
+   "id": "46:449c",
+   "op": "text",
+   "en": "The girl took a small mirror out of her breast pocket.\nThen she thrust it right in front of my eyes.\n\"Look...\"\nAt her urging, I peered into the mirror.{p}"
+  },
+  {
+   "id": "46:4524",
+   "op": "text",
+   "en": "Reflected there was the same mask the girl wore.\nI hurriedly put my hand to my face.\nIt felt hard and cold.\nIs this... a mask?\nWhen did I put on a mask★\nI don't remember doing it.\nNo, I'm not wearing one.\nBut then, what on earth...?{p}"
+  },
+  {
+   "id": "46:4610",
+   "op": "text",
+   "en": "\"Don't you understand?\"\nHer icy voice held my panic down.\n\"That mask is yours. After all, I am you...\"\n\"That's...\"\nThere was no way something so absurd could be true.{p}"
+  },
+  {
+   "id": "46:46c4",
+   "op": "text",
+   "en": "I knocked her hand away.\nThe mirror hit the ground and shattered.\n\"I don't believe it! I'm me☆\"\nI grabbed the mask with both hands and tore it off with all my strength.\nThe mask came away without any resistance at all.{p}"
+  },
+  {
+   "id": "46:4784",
+   "op": "text",
+   "en": "But the girl pointed at my face.\n\"Then who is that supposed to be?\"{p}"
+  },
+  {
+   "id": "46:47d0",
+   "op": "text",
+   "en": "...What does she mean?\nI picked up a shard of the mirror and looked at my face in it.\nWhat I saw reflected there was...{p}"
+  },
+  {
+   "id": "46:4838",
+   "op": "text",
+   "en": "\"Hino★\"\nThe one looking startled on the other side of the mirror was Hino from the newspaper club.\n\"No way☆\"{p}"
+  },
+  {
+   "id": "46:4894",
+   "op": "text",
+   "en": "I hurled the mirror shard to the ground.\nI stamped on it again and again.\nThe shard broke into countless glittering grains.{p}"
+  },
+  {
+   "id": "46:490c",
+   "op": "text",
+   "en": "\"Heh heh heh... It's no use.\"\nThe girl laughed.\nThe scattered mirror shards floated up, drifting lightly.\n\"Take a look. Who do you see in them?\"{p}"
+  },
+  {
+   "id": "46:4990",
+   "op": "text",
+   "en": "The shards surrounded me.\nEach tiny mirror caught my reflection.\nBut the one reflected there wasn't me.\nArai was there.\nIwashita, and Kazama too.\nShindo was laughing.\nAnd even Hosoda and Fukuzawa.\nAll of them were looking at me from inside the mirrors.{p}"
+  },
+  {
+   "id": "46:4a94",
+   "op": "text",
+   "en": "It's a lie.\nThis can't be...{p}",
+   "returns": []
+  },
+  {
+   "id": "46:4ac4",
+   "op": "text",
+   "en": "\"Th... then... who am I?\"\nThe girl answered my hoarse voice with a question.\n\"Did you think your body belonged to you alone?\"\nAt that moment, a terrible headache struck me.\nI couldn't help crouching down.{p}"
+  },
+  {
+   "id": "46:4b8c",
+   "op": "text",
+   "en": "...I don't know how long I stayed like that.\n\"Heeeeey! A body! There's a body here☆\"\nA loud shout went up from the direction of the old school building.\n\"...This one's only just died.\"\n\"Ain't this a student from this school?\"\n\"One... two... three... There's seven of 'em!\"\nI caught broken snatches of talk like that too.{p}"
+  },
+  {
+   "id": "46:4cb0",
+   "op": "text",
+   "en": "I slowly raised my head.\nThe people who had been in the schoolyard were all running toward the old school building.\nBut I started walking toward the school gate.{p}"
+  },
+  {
+   "id": "46:4d30",
+   "op": "text",
+   "en": "I didn't need to look to know whose bodies they were.\nThey were my bodies.\nI had something far more important to do than that.\nThat's right, I had to write up the call for storytellers.\nWhen summer vacation was over, I would look for people to tell me the school's seven wonders.\nSeven people to tell me the most terrifying stories of all.\nOf course, I intend to treat them with the utmost courtesy.\nAfter all, they might be me as well.{p}"
+  },
+  {
+   "id": "46:4e8c",
+   "op": "text",
+   "en": "Ignoring that voice, I kept walking closer and closer.\nAs if something were calling me...{p}",
+   "follows_choice": [
+    "46:15cc"
+   ]
+  },
+  {
+   "id": "46:4eec",
+   "op": "text",
+   "en": "\"..............................!\"\n...Someone seemed to be saying something, but it didn't reach my ears.\nI kept going, closer and closer to the old school building, now a heap of rubble.\nAnd before I knew it, I had walked right into the middle of the rubble.\n\"{a}!\"\nI heard someone call my name and spun around.\nWhy, the six of them were standing over there!\nI ran toward them in a rush.{p}"
+  },
+  {
+   "id": "46:5064",
+   "op": "text",
+   "en": "What were they doing in a place like this?\nI kept running, that question in my mind.\nSo what happened that day hadn't been a dream after all?\nNo, maybe the six of them standing there was itself a dream.{p}"
+  },
+  {
+   "id": "46:5124",
+   "op": "text",
+   "en": "\"Look out☆\"{p}"
+  },
+  {
+   "id": "46:5144",
+   "op": "text",
+   "en": "A construction worker's deep, booming voice rang out.\nI didn't even have time to scream.\nI was crushed beneath lumber that came falling from above.{p}"
+  },
+  {
+   "id": "46:51e4",
+   "op": "text",
+   "en": "....................\n....................\n....................\n....................\n"
+  },
+  {
+   "id": "46:5264",
+   "op": "text",
+   "en": "...Where am I?\nI was floating gently in a lazy, drifting doze.\n...Huh?\nWhat happened after that...?\nOh, right.\nI went to see the old school building, and I met those six.\nAnd then...\nSomething hit my head with a tremendous impact...{p}"
+  },
+  {
+   "id": "46:5360",
+   "op": "text",
+   "en": "Oh, I see.\nThat's why I collapsed.\nWhich means this is the afterlife?\nHave I died...?\n...What an abrupt end that was.\nI found I could accept my own death surprisingly calmly.\n...Back then, those six were standing at the old school building, weren't they?\nDid they call me to them?\nIf this really is the afterlife, they should be here too.\nBut it doesn't look like anyone's here but me.\nIt happened the instant I thought that.{p}"
+  },
+  {
+   "id": "46:5540",
+   "op": "text",
+   "en": "\"{a}. So you made it.\"\nIt was a voice I knew well.\n\"Hosoda!\"\nI looked around for Hosoda.\nBut I couldn't see him anywhere.\n\"Hosoda! Hosoda!\"\nI called Hosoda's name with all my might, searching for him.\n\"Hey, {a}. Where are you looking?\nI'm right here. And everyone else is with me, too.\"\nI ran frantically toward the voice, but there was still no sign of Hosoda and the others.\n\"Where are you, Hosoda☆\"{p}"
+  },
+  {
+   "id": "46:5704",
+   "op": "text",
+   "en": "Suddenly I felt uneasy.\nIt was as if I'd been left all alone in this vast, empty space.\nWas I going to have to spend an endless stretch of time from now on, all alone, in a place with nothing at all?\nTears slowly welled up in my eyes.{p}What should I do...?\n"
+  },
+  {
+   "id": "46:57fc",
+   "op": "choice",
+   "en": "Head toward where the voice came from"
+  },
+  {
+   "id": "46:5814",
+   "op": "choice",
+   "en": "Turn back"
+  },
+  {
+   "id": "46:5820",
+   "op": "text",
+   "en": "I headed in the direction Hosoda's voice had come from.\nI couldn't think of anything else to do.\nI pushed on through the empty space, relying on nothing but my instincts.\nI thought I was heading toward the voice, but I began to worry whether this was really the right direction.\n\"Hosoda! ...Shindo!\"\nI ran on, calling out the names of those six.\nBut I couldn't hear Hosoda's voice anymore.{p}",
+   "follows_choice": [
+    "46:57fc"
+   ]
+  },
+  {
+   "id": "46:598c",
+   "op": "text",
+   "en": "Exhausted, I sank to the ground right where I was.\n\"...What am I supposed to do now?\nWhere am I supposed to go...?\"\nAt a total loss, I broke down in tears.\n\"Hey, {a}! What are you crying for?\nJeez, you're one sniveling little sissy.\"\nI heard Shindo's voice.\n\"You don't need to worry. You're going the right way.\nYou'll reach us soon.\nLook, you can see us now, can't you?\"\nI looked toward where the voice had come from.\n\"Ah, everyone...\"\nOff in the distance, I could see those six standing there.\nSuddenly my strength came back.\nForgetting how tired I had been, I started running toward them.\nA little farther on, a small stream blocked my way, but I didn't care. I leapt right over it in one bound and kept going.{p}"
+  },
+  {
+   "id": "46:5c08",
+   "op": "text",
+   "en": "\"Hey, {a}. You finally made it.\nWe've been waiting for you.\"\nHosoda welcomed me with a beaming smile.{p}"
+  },
+  {
+   "id": "46:5c7c",
+   "op": "text",
+   "en": "\"Yo, {a}. Glad you made it.\nFrom now on, we're together forever.\nLet's get along, huh?\"\nShindo was in a great mood, too.{p}"
+  },
+  {
+   "id": "46:5ce0",
+   "op": "text",
+   "en": "The rest of them gave me a warm welcome as well.{p}"
+  },
+  {
+   "id": "46:5d24",
+   "op": "text",
+   "en": "At this rate, it looked like I could live a happy life from here on.\n...Though it's a little strange to talk about a 'life' after you've died.{p}"
+  },
+  {
+   "id": "46:5d9c",
+   "op": "text",
+   "en": "\"Still, you came over to this world without the slightest hesitation, didn't you?\nEven I threw quite a tantrum when it was time to cross that river.\nThough in the end, I had no choice but to cross over to this side...\"\nIwashita remarked.{p}"
+  },
+  {
+   "id": "46:5e78",
+   "op": "text",
+   "en": "(Huh? That river...?)\nI turned and looked behind me.{p}"
+  },
+  {
+   "id": "46:5ec0",
+   "op": "text",
+   "en": "\"What?!\"\nI was stunned.\nA moment ago it had been just a little stream, but now it had become a huge river.\nAnd where I'd thought there was only empty space, I could now see the town where I had lived all this time.{p}"
+  },
+  {
+   "id": "46:5fa0",
+   "op": "text",
+   "en": "\"More to the point, so the Sanzu River really does exist.\nI have to say, I'm a little moved.\"\nArai said it with genuine admiration.{p}"
+  },
+  {
+   "id": "46:6038",
+   "op": "text",
+   "en": "\"...The Sanzu River...\"\nCould they mean the river flowing right in front of me?\nMaybe, seen from the other side, this river looked no bigger than a little stream.\nAnd I had gone and jumped right over that stream.\nIf I had turned back back then...\nBut now the great river blocked the way, and turning back was no longer possible.{p}",
+   "returns": [
+    "46:6038: RETURN - 'If I had turned back back then...' reads as a doubled word; editorial should rephrase ('at that moment')."
+   ]
+  },
+  {
+   "id": "46:6180",
+   "op": "text",
+   "en": "\"I like this world better.\nI mean, it looks like it's gonna be fun from now on.\nAnd {a} came too...\"\nFukuzawa said, her voice bouncing with excitement.{p}"
+  },
+  {
+   "id": "46:6218",
+   "op": "text",
+   "en": "\"That's right.\nThe other world was way too boring for me, too.\nEveryone there was so hardheaded, they just couldn't keep up with my sense of style.\"\nKazama seemed to like this world, too.{p}"
+  },
+  {
+   "id": "46:62cc",
+   "op": "text",
+   "en": "That's right. I couldn't turn back now anyway, so there was no use moping about it.\nInstead of wishing I could go back, I should just enjoy my life here.{p}"
+  },
+  {
+   "id": "46:6370",
+   "op": "text",
+   "en": "\"I'm pretty satisfied myself.\nFrom now on, I get to bully {a} forever.\nThis is a world where stress doesn't even exist.\"{p}"
+  },
+  {
+   "id": "46:63e8",
+   "op": "text",
+   "en": "Huh...?\nWhat did Shindo just say?{p}"
+  },
+  {
+   "id": "46:642c",
+   "op": "text",
+   "en": "\"Isn't that the truth.\nWhat a wonderful world this is, where we can bully {a} right out in the open.\nWithout that, it'd be the worst world imaginable, with nothing in it at all.\"{p}"
+  },
+  {
+   "id": "46:64cc",
+   "op": "text",
+   "en": "...Wait a minute.\nWhy should I have to be bullied out in the open?\nEveryone was looking at me and smirking.\nIt was as if they'd found some tasty prey and were delighted.{p}"
+  },
+  {
+   "id": "46:6584",
+   "op": "text",
+   "en": "Terrified, I ran for my life.\n\"Hey, hey, you came to the world you wished for yourself, and now you're running away?\"\nEveryone surrounded me.\nThere was no escape anymore.\n\"I never wished for a world like this!\nWhen I came to, I was just here.\n...Besides, if this were really the world I wished for, you people wouldn't be here!\"\nI summoned my nerve and flung the words at them.\n\"..............................\"\nEveryone fell silent.{p}"
+  },
+  {
+   "id": "46:6718",
+   "op": "text",
+   "en": "\"...{a}, it's true that you wished for this world.\nWhen people die, they go to the world they want most.\nAnd of course, {a}, you're no exception.\nEven if your head says you hate it, deep down in your mind, a world like this is what you want.\nEveryone here was summoned by your mind, too.\n{a}, you wished for a world where you'd get to be bullied by us, that's all.\"{p}"
+  },
+  {
+   "id": "46:6880",
+   "op": "text",
+   "en": "\"No... no... nooooooo☆\"\nI screamed.\nI didn't want to believe it.\nThat I could want a world like this.\nThat I could want those six to bully me.\n"
+  },
+  {
+   "id": "46:6944",
+   "op": "text",
+   "en": "I shoved Shindo away and ran.\nBut it was pointless.\nNo matter how far I ran, no matter which direction I ran in, I always ended up back with those six.{p}"
+  },
+  {
+   "id": "46:69ec",
+   "op": "text",
+   "en": "How many hundreds of times did I repeat that?\nWas this really the world I had wished for, after all?\nAnd did I really want to be bullied by those six?\nMaybe that was why, no matter how many times I ran, I always ended up back where those six were.{p}"
+  },
+  {
+   "id": "46:6ae0",
+   "op": "text",
+   "en": "I no longer had the strength to keep running.\nAs if they had been waiting for exactly that, those six came toward me, grinning from ear to ear.{p}"
+  },
+  {
+   "id": "46:6b58",
+   "op": "text",
+   "en": "\"Well, {a}. Got that out of your system?\nNow it's your turn to play with us.\"\nShindo slung his arm around my shoulders, all chummy.\nOn his face was that white mask.{p}"
+  },
+  {
+   "id": "46:6c00",
+   "op": "text",
+   "en": "When I looked closely, I saw that everyone besides Shindo had put on that mask too, at some point.\n...I can't escape anymore.\nNot from these six, and not from this world...{p}"
+  },
+  {
+   "id": "46:6c88",
+   "op": "text",
+   "en": "I decided to turn back.\nNo matter how far I went, I didn't feel like I'd ever reach Hosoda and the others.\nBesides, I had a feeling that someone was calling me from somewhere behind me, too.\n\"{a}! {a}! Where are you going?\nNot that way. Come back here!\"\nHosoda was calling out to me desperately.\nBut I shook off his voice and went back the way I had come.{p}",
+   "follows_choice": [
+    "46:5814"
+   ]
+  },
+  {
+   "id": "46:6de0",
+   "op": "text",
+   "en": "Hah, hah, hah...\nHow far back had I come?\nMaybe I had long since passed the place where I started.\nEven so, things didn't get any better.\nThe only difference was that I couldn't hear Hosoda's voice anymore.{p}"
+  },
+  {
+   "id": "46:6ed0",
+   "op": "text",
+   "en": "(...Maybe turning back was a mistake.\nIf I had kept going, maybe I could have reached Hosoda and the others...)\nBut I just couldn't bring myself to go any farther than that.\nI didn't know why, but I couldn't stop feeling drawn to this direction.\nBut maybe that had just been my imagination, too.{p}"
+  },
+  {
+   "id": "46:6ffc",
+   "op": "text",
+   "en": "It was just as I fell into despair.\nI heard a voice calling me again.\nThis time, it was a different voice from before.{p}"
+  },
+  {
+   "id": "46:706c",
+   "op": "text",
+   "en": "\"...Who's there? Where are you?\"\nI looked all around, but there didn't seem to be anyone.\n(Not again...)\nIt was the very moment I thought that.{p}"
+  },
+  {
+   "id": "46:710c",
+   "op": "text",
+   "en": "The masked woman appeared in front of me.\n\"Y-You're...\"\nI ran up to her so I wouldn't lose sight of her.\nShe waited for me.\nI went up beside her and asked.\n\"Why are you here?\n...And where is this place?\nAm I dead?\"\nThen she answered.{p}"
+  },
+  {
+   "id": "46:7250",
+   "op": "text",
+   "en": "\"I can't answer when you ask me so much at once.\n...Well, fine.\nI'll tell you.\nFirst, your first question: I'm here because I came to stop you.\nYour second question: this place is... let's see, what people call the border between this world and the next, I suppose.\nAnd your last question.\nYou're still alive.\nIn pretty bad shape, though.\nYou're right on the edge between life and death.\nWhether you make it or not is up to you.\"{p}"
+  },
+  {
+   "id": "46:73f0",
+   "op": "text",
+   "en": "Hearing that, I suddenly didn't want to die anymore.\nUntil a moment ago I'd thought I was dead, and yet I was still alive.{p}"
+  },
+  {
+   "id": "46:746c",
+   "op": "text",
+   "en": "\"{a}, if you'd kept going the way you were, you'd have died for certain.\nBecause those six were calling you.\nI was calling you desperately too, but it seems you couldn't hear me.\nBut don't relax yet.\nThere's still a chance you could die.\nIf anything, the chance that you'll die is higher.\"\n\"What should I do?!\nI don't want to die yet.\nI want to keep on living!\"\nI pleaded with the masked woman.\n\"All right, I'll tell you.\nYour body is badly injured, and on top of that, it has lost its soul.\nThat's why it keeps growing weaker and weaker.\nIf you go back to your body right now, your chances of being saved will go up.\"{p}"
+  },
+  {
+   "id": "46:76d4",
+   "op": "text",
+   "en": "\"...But how...?\"{p}\"You just need to make a way out of here.\nThis is a world inside your heart.\nSomething like a dream.\nIf you wish for it, the exit will open.\n...But listen.\nOn the way back, there will be terrible suffering.\nYou might even think it would have been better not to go back.\nAt least be ready for that.\nIf you're not, the suffering may be more than you can bear.\nAnd if you can't bear it, this time even your soul may be torn apart.\nIf that happens, you yourself will vanish.\nNo matter how you struggle, you'll never be able to come back again.\"{p}"
+  },
+  {
+   "id": "46:791c",
+   "op": "text",
+   "en": "As soon as she had said that much, she vanished all of a sudden, just as she had appeared.\nAt once I wished for an exit out of here to open.\nRight in front of me, near where the masked woman had been standing, a small hole gaped open.\nThe harder I wished to return to my world, the wider the hole opened.\nWhen it had opened wide enough for a person to pass through, I hurriedly leapt into the hole.{p}"
+  },
+  {
+   "id": "46:7a8c",
+   "op": "text",
+   "en": "\"Waaaaaaaaah☆\"\nIt felt like I was plummeting from a great height.\nAnd I kept falling faster and faster.\nI felt like I was about to black out.\nI was falling headfirst through pitch-black space.{p}"
+  },
+  {
+   "id": "46:7b5c",
+   "op": "text",
+   "en": "Now and then, I could see bluish-white lights flitting here and there.\n\"What are those lights?\"\nTo find out what they were, I followed one that streaked past close by with my eyes.\nBut soon there was no need.\nThe light came toward me on its own.{p}"
+  },
+  {
+   "id": "46:7c54",
+   "op": "text",
+   "en": "\"Whoa!\"{p}"
+  },
+  {
+   "id": "46:7c74",
+   "op": "text",
+   "en": "That ball of light had a face.\nA bitter, resentful face...\nThe ball of light slammed into me.\n"
+  },
+  {
+   "id": "46:7ce0",
+   "op": "text",
+   "en": "With a tremendous shock, an image came flooding into me.{p}"
+  },
+  {
+   "id": "46:7d24",
+   "op": "text",
+   "en": "...An image of a man I didn't know trying to kill me.{p}"
+  },
+  {
+   "id": "46:7d70",
+   "op": "text",
+   "en": "The man plunged the kitchen knife he was holding into my stomach.\n(It hurts☆)\nA burning pain shot through me.\nHot blood poured out, and I could tell I was surely heading toward death.{p}"
+  },
+  {
+   "id": "46:7e28",
+   "op": "text",
+   "en": "An overwhelming despair spread through me.\n(What is this?\nIs this the last memory of someone who was stabbed to death...?){p}"
+  },
+  {
+   "id": "46:7ea0",
+   "op": "text",
+   "en": "Another ball of light crashed into me.\n"
+  },
+  {
+   "id": "46:7ed4",
+   "op": "text",
+   "en": "...A rope tied in a loop hung before my eyes.\nI stuck my head through it and jumped off the stool.\n"
+  },
+  {
+   "id": "46:7f48",
+   "op": "text",
+   "en": "\"Gkh...\"\nThe rope tightened around my neck, and I couldn't breathe.{p}"
+  },
+  {
+   "id": "46:7f80",
+   "op": "text",
+   "en": "The events that had led this person to attempt suicide surfaced in my mind.\nHuge debts... a wife's betrayal.\nDriven further and further into a corner mentally, the person finally thought of suicide.\n(Are these balls of light the souls of people who died with bitter regrets and can't pass on...?){p}"
+  },
+  {
+   "id": "46:8078",
+   "op": "text",
+   "en": "Images like these flowed into me one after another.{p}"
+  },
+  {
+   "id": "46:80b4",
+   "op": "text",
+   "en": "How many people's images of 'death' had I seen by now?\nThe bitter regrets of people who, for one reason or another, couldn't pass on went flowing through me.\nEach time, a deep despair was left behind inside me.{p}"
+  },
+  {
+   "id": "46:8168",
+   "op": "text",
+   "en": "\"...Please... no more...........\"\nMy mind was on the verge of being torn apart.\n...So this was the suffering she had talked about.\nI desperately held together my mind, which felt about to scatter into pieces.{p}"
+  },
+  {
+   "id": "46:8224",
+   "op": "text",
+   "en": "..............................\n...By now... how much time... has passed...?\nMy mind was in tatters, and I began to feel like nothing mattered anymore.\nIt was the very moment I thought I was finished.\nI felt as if I had been caught, softly and gently.{p}"
+  },
+  {
+   "id": "46:8318",
+   "op": "text",
+   "en": "And then, with a feeling like waking from a dream, I opened my eyes.\nI had come back to my own world.{p}"
+  },
+  {
+   "id": "46:8380",
+   "op": "text",
+   "en": "\"Ow!\"\nA splitting pain shot through my head, and I came fully awake all at once.\n\"{b}! {b}☆\"\nThere was my mother, pale-faced, looking at me with worry.\nBehind her, my father was standing, too.\nNow that I had woken up, the nurses around me started moving about in a hurry.{p}"
+  },
+  {
+   "id": "46:84a0",
+   "op": "text",
+   "en": "I was in the intensive care unit.\nMy head was wrapped round and round in bandages.\nAt the construction site of the old school building, a piece of lumber falling from above had struck me square on the head, and I had been rushed to the hospital.\nApparently, after my surgery, I had been unconscious for days.\nMy condition had been bad the whole time, but just a little while ago I had become critical, and my father and mother had been called in.\nAccording to the construction workers' testimony, I had walked into the rubble of the demolished old school building as if I were possessed.\nAnd then, by bad luck, I had been pinned under lumber that came crashing down.\nAt the time, I had walked over toward those six because they were standing there.\nBut according to the people who saw it, there had been no one at that spot except the construction crew.{p}"
+  },
+  {
+   "id": "46:8740",
+   "op": "text",
+   "en": "But I had definitely seen those six standing there.\nAnd I had heard the voice calling me, too.\nHad I just been seeing things?\nNo, those had to be the ghosts of those six.\nThey must have been trying to take me with them.\nGetting pinned under the lumber was no accident, either. Those six had set it up.\n...I had very nearly been taken away by those six.\nIf I hadn't turned back at that moment...\nAnd if the masked woman hadn't saved me, I would never have been able to regain consciousness like this.{p}"
+  },
+  {
+   "id": "46:8924",
+   "op": "text",
+   "en": "I had suffered a serious injury, a depressed skull fracture, but somehow I had managed not to die.\nIt would still be quite a while before I was discharged, but when that day came, I meant to write all of this up as a newspaper article no matter what.\nThe scary-stories feature itself had never existed.\nIf that was how it was, then I could just plan a new feature, couldn't I?\nI'd make it a truly interesting article, without fail.\nI was confident I could, and I had surely been through enough to write an interesting article.\nGazing out the window, I made that vow.{p}"
+  }
+ ]
+}

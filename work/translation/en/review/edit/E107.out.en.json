@@ -1,0 +1,24 @@
+{
+ "rows": {
+  "56:16a0": "She was in love with whoever used this shoe locker.\nAt one time, her heartfelt letters and presents were quietly left somewhere in these shoe lockers...\nBut sadly, her feelings never reached that person.\nUnable to bear her grief, the girl killed herself...\nEven so, her love didn't fade, and she stays on as a spirit in this place, the only place she ever entrusted her feelings to...\nWhat a sad fate.\n{b}, don't you think so?\nWhat was it she poured her feelings into...?\nDon't you want to know?\nMaybe it's still hidden away somewhere in these shoe lockers, even now.\nWaiting for someone to accept her feelings...\nThat's it!\nFor her to be freed from the hold these shoe lockers have on her, someone has to throw them open.\nNow, {b}.{p}For her sake, open the shoe locker.\n",
+  "56:1ca8": "\"Huh★\nW-wait a minute, Kazama?\"\nI got caught up in it and peeked inside too.\nBut.........{p}",
+  "56:22e0": "\"Heeey, {b}!\"\n...Oh, it was just Kazama coming back.\nHe could've just stayed away until the meeting was over.\n",
+  "56:2984": "Are you scared?\nIt's all right, I'm here with you.\nIf you're nervous, I'll hold your hand for you.\nYou say you're fine...?\nThere's no need to be shy about it.\nThere, now you feel safe, don't you?\nWell then, I'll tell my story.{p}",
+  "56:2cdc": "It's all right.\nYou don't have to deny it in such a hurry.\n{b}...\nYou think there aren't any spirits in a place like this.\nI can tell the moment I look at your face.{p}",
+  "56:3440": "Leave Kazama behind and go back first",
+  "56:3a70": "\"You're the host, aren't you?\nWould you hurry up and move on to the next story?\nI've had enough of being kept waiting.\"\n...How selfish can a person be?\nHe won't even open a door himself, yet he says whatever he likes.\nI can't believe someone this flaky has a sixth sense.\nWho knows how much of that story he just told was even true.\n...But still.\nI have to keep all of this to myself.\nWhen I was closing the door, I saw it.\nA huge crack running through the club room door...\nJust how strong is he?\nLet sleeping dogs lie.\nIt's best not to get involved with people like him.\nI'm sure everyone else thinks so too.\nOkay, let's move on to the next story before he gets angry.{p}",
+  "56:3e40": "I've changed my mind",
+  "56:3f40": "A nauseating stench stung my nose.\nWhat a horrible smell!\nIt smelled like a dead crayfish left in a tank for two or three days.\nIt seemed kind of musty too.\nCould this be the source of the aura swirling in the shoe locker?\nIf so, it was a monstrously vicious aura, full of hatred.\nWhat do I do...\nI couldn't stop shaking.\nI'd opened something terrible.\nThat was how it felt.\nKazama was staring into the shoe locker too, as if glaring at it.\nAnd then, slowly, he closed the door...{p}",
+  "56:44a0": "Eww!\nThe soles are crammed with thumbtacks!\nWhoever owns these indoor shoes must be really hated.\nOr maybe they're being bullied...\nI hope it's just someone's prank.\nLooking at the rows of thumbtack points, I found myself thinking that the scariest thing of all might be the human heart.\nOr else...\nCould this be the work of an evil spirit too?\nWith trembling hands, I closed the shoe locker's door.{p}"
+ },
+ "notes": [
+  "56:1f78: KEEP - returns note settled by editing 56:3440 to match.",
+  "56:3f40: EDIT - returns note: the mid-paragraph present tense ('I can't stop shaking. I've opened...') clashed with the past frame and 'That's how it felt'; put the narration in past and kept only the direct thought 'What do I do...' in present.",
+  "56:44a0: EDIT - 'I start to think' sat between present inner thoughts and past 'I closed'; -> 'I found myself thinking' so the narration verb is past.",
+  "56:2984: EDIT - stiff 'You're fine...?' -> 'You say you're fine...?' (player declining the hand-holding), clearer as a spoken reply.",
+  "56:3e40: EDIT - choice 'I've changed my mind, never mind' was redundant; -> 'I've changed my mind' to match its echo in 56:3e78, like the other two choices and their echoes.",
+  "56:22e0: EDIT - 'He didn't have to come back until the meeting was over' read as a statement of fact; -> 'He could've just stayed away until the meeting was over' for the sarcastic wish.",
+  "56:16a0: EDIT - clumsy front-loaded 'Once, somewhere in these shoe lockers, ...were quietly left' reordered; meaning unchanged.",
+  "Present-tense inner monologue in 56:1fb4, 56:3480, 56:3634, 56:3884, 56:4414, 56:4738-56:49f8: KEEP - follows the source's present-tense narration in those branches."
+ ]
+}

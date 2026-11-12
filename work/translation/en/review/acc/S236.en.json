@@ -1,0 +1,439 @@
+{
+ "slice": "S236",
+ "scene": "68",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S235",
+ "next": "S237",
+ "todo": [],
+ "rows": [
+  {
+   "id": "68:356c",
+   "op": "text",
+   "en": "...........It's really windy today.{p}"
+  },
+  {
+   "id": "68:35a4",
+   "op": "text",
+   "en": "I don't think I can stay up here very long.{p}"
+  },
+  {
+   "id": "68:35c4",
+   "op": "text",
+   "follows_choice": [
+    "68:1cd0"
+   ],
+   "en": "Oh well, I'll leave for now.\nI left the nurse's office where she lay.\n\"Wait!\"\nJust as I was about to step out into the hallway, someone suddenly called to me from behind.{p}"
+  },
+  {
+   "id": "68:3664",
+   "op": "text",
+   "en": "Startled, I dropped the textbook I was holding.{p}"
+  },
+  {
+   "id": "68:36a4",
+   "op": "text",
+   "follows_choice": [
+    "68:2138"
+   ],
+   "en": "\"Uwaagh☆\"\n"
+  },
+  {
+   "id": "68:36d4",
+   "op": "text",
+   "en": "Hashimoto let out a dull scream and tumbled down the stairs.\n...I feel sorry for her, but there's nothing I can do.\nKawahara, that's cruel.\nYou didn't have to go and kill this girl...\nAs I was thinking that, a sudden headache hit me.\nWhat's happening to me?\nMy head hurts like it's splitting open.\nAh..........{p}"
+  },
+  {
+   "id": "68:37f4",
+   "op": "text",
+   "en": "......................Darkness swallowed everything around me.\nAnd then Kawahara appeared before my eyes once more.{p}"
+  },
+  {
+   "id": "68:3864",
+   "op": "text",
+   "en": "\"What the hell are you, anyway?\"\nWhat...?\nKawahara, why would you say something like that...?\n\"This isn't the outcome I wanted.\nWell, fine. If that's how you want it, I'll show you something good.\nYou're doing a feature on the school's seven wonders, right?\"\nHe was ranting at the top of his voice.\n\"I'll give you some great material.\nFirst stop, the shoe lockers.\nNot that you're going home, mind you.\nWe're going to go see Kazama.{p}"
+  },
+  {
+   "id": "68:39ec",
+   "op": "text",
+   "en": "See, right here.\nThe one you looked inside a little while ago.\nYou figured there was nothing in here, didn't you?{p}But take another look.\nYou're sure to find something new.\"\n"
+  },
+  {
+   "id": "68:3a84",
+   "op": "choice",
+   "en": "Open the shoe locker"
+  },
+  {
+   "id": "68:3a94",
+   "op": "choice",
+   "en": "Don't open it"
+  },
+  {
+   "id": "68:3ab8",
+   "op": "text",
+   "follows_choice": [
+    "68:3a84"
+   ],
+   "en": "The instant I opened the shoe locker, something hard and slick came tumbling out.{p}"
+  },
+  {
+   "id": "68:3af8",
+   "op": "text",
+   "en": "Drops of something spattered onto my face.\nA sourish smell.{p}"
+  },
+  {
+   "id": "68:3b34",
+   "op": "text",
+   "en": "It was too dark to see clearly, but inside the shoe locker were a pair of eyes, dried out completely.\nNot just eyes.\nClean-cut eyebrows, a shapely nose, purple lips...{p}"
+  },
+  {
+   "id": "68:3bc8",
+   "op": "text",
+   "en": "It was Kazama's head.\nIt can't be...\nIt was so horrible that my body wouldn't move the way I wanted.\nEven so, I managed to shift my gaze, and I could see what had tumbled out of the shoe locker.\n...A severed hand.\nOn reflex, I slammed the shoe locker shut.\nThe impact seemed to have jostled what was inside.{p}"
+  },
+  {
+   "id": "68:3cc4",
+   "op": "text",
+   "en": "Something thudded against the inside of the locker door.{p}"
+  },
+  {
+   "id": "68:3d08",
+   "op": "text",
+   "en": "\"He opened this door and saw the textbook.\nHe must've read the love letter tucked inside it, too.\nWhat an idiot, huh? Getting all wrapped up in a letter like that, getting left behind by everyone, and ending up like this.\"\n...What?\nAfter Kazama stayed behind at the shoe lockers, he came back to the club room just fine, didn't he?\nWhy is this person saying these things?\n\"Let's move on.\"\nHe started walking again.\nWhat on earth is this path?\nDarkness, and a faint glimmer of light.\nWe aren't walking through the school, and yet we end up at places like the shoe lockers.{p}"
+  },
+  {
+   "id": "68:3ec4",
+   "op": "text",
+   "en": "Before I knew it, I was standing beside the cart in the old school building.\nHe spoke up again.{p}\"Don't you think Akemi Iwashita is kind of a nasty piece of work?\"\n"
+  },
+  {
+   "id": "68:3f38",
+   "op": "choice",
+   "en": "Yes, I do"
+  },
+  {
+   "id": "68:3f40",
+   "op": "choice",
+   "en": "No, I don't"
+  },
+  {
+   "id": "68:3f4c",
+   "op": "choice",
+   "en": "I don't really know"
+  },
+  {
+   "id": "68:3f68",
+   "op": "text",
+   "follows_choice": [
+    "68:3f4c"
+   ],
+   "en": "\"Dodging the question, huh?\nMe, I figured that woman was seriously bad news.\"\nHis tone grew rougher and rougher.\n\"She was the type who says whatever's on her mind, wasn't she?{p}"
+  },
+  {
+   "id": "68:400c",
+   "op": "text",
+   "en": "The total opposite of me.\nI didn't like her, so I fed her to the wheels.{p}"
+  },
+  {
+   "id": "68:405c",
+   "op": "text",
+   "en": "Aw, this cart's already hauling plenty of corpses as it is.\nOne or two more bodies won't matter. It'll carry them all the way down to hell, no problem.\"{p}"
+  },
+  {
+   "id": "68:4100",
+   "op": "text",
+   "en": "Long hair was caked onto the wheels.\nAnd scraps of flesh.\nI could see mushy, oozing meat, as if a scalp had been peeled off.\nThere was no sign of Iwashita.{p}"
+  },
+  {
+   "id": "68:4194",
+   "op": "text",
+   "en": "\"Let's go.\"\nAnd once again, the darkness swallowed us.{p}"
+  },
+  {
+   "id": "68:41d0",
+   "op": "text",
+   "en": "The next place we came to was the gym.\nThe exit slammed shut with a loud bang.\n\"You got locked in like this earlier too, right?\nJust you and Shindo, all alone.\nThat was me.\"\nI could hear his voice.\nBut he was nowhere to be seen.\n\"Shindo mistook me for Tadokoro, the idiot.\nIt was funny, so I kept my mouth shut.\"\nHe appeared and pointed at the basketball hoop.{p}"
+  },
+  {
+   "id": "68:4334",
+   "op": "text",
+   "en": "Shindo was there, strung up from it.\nBlood was streaming from his ears and eyes.\nHe looked like the picture on a tarot card.{p}"
+  },
+  {
+   "id": "68:43b8",
+   "op": "text",
+   "en": "\"You get it by now, right? The ones you were talking to until a little while ago were ghosts.\n...I killed them.\"\nHe was grinning.\nWhat does that mean?\nAre you saying everyone was killed after they saw the textbook?\nHosoda, and Arai too...?\n\"You know where we're headed next, right?\"\nHe gripped my hand hard.\n\"...The restroom?\"\nThere was no answer.\nHe silently led me on to the next place.{p}"
+  },
+  {
+   "id": "68:4528",
+   "op": "text",
+   "en": "His thin back.\nIf I shoved him away and ran, could I get out of this strange place?\n...I'm not so sure I could.{p}"
+  },
+  {
+   "id": "68:45ac",
+   "op": "text",
+   "en": "After walking for a while, we reached the restroom I had gone into with Hosoda today.\n\"That stall there... Want to take a peek?\"\nHis back was trembling.\nAs if he were heaving for breath.{p}Is he laughing?\nOr is he just excited?\n"
+  },
+  {
+   "id": "68:4670",
+   "op": "choice",
+   "en": "Look in the stall"
+  },
+  {
+   "id": "68:467c",
+   "op": "choice",
+   "en": "Don't look"
+  },
+  {
+   "id": "68:4688",
+   "op": "text",
+   "follows_choice": [
+    "68:467c"
+   ],
+   "en": "\"I've had enough.\nHosoda's been killed in here too, hasn't he? I know it.\"\nI refused him flatly.\n\"Don't be like that.\"{p}"
+  },
+  {
+   "id": "68:46f8",
+   "op": "text",
+   "en": "A hand came to rest on my shoulder from behind.\n...?\nA big, fleshy hand, too soft and springy to be his.\nThis is...{p}"
+  },
+  {
+   "id": "68:4780",
+   "op": "text",
+   "en": "\"Eek...!\"\nA huge mass came toppling down onto me.\nHosoda★\n\"Ee, eek... ee...☆\"\nMy voice wouldn't come out.\nEven so, I somehow managed to dodge aside.\nHosoda collapsed limply onto the floor.\n...That's not how a living person falls.{p}"
+  },
+  {
+   "id": "68:485c",
+   "op": "text",
+   "en": "\"I killed this one too.\"\nThe man in front of me said it quietly.\n\"Are you the ghost of the man who appeared in the restroom?\"\n\"...No.\"\n\"Then you weren't the one who possessed Hosoda in the restroom?\"\n\"How should I know?\nYou all tried to turn it into newspaper material just for kicks, so some ghost or other got angry, I guess.\"{p}"
+  },
+  {
+   "id": "68:4980",
+   "op": "text",
+   "en": "He took my hand and led me off again.{p}"
+  },
+  {
+   "id": "68:49c8",
+   "op": "text",
+   "en": "...The next place we came to was the audiovisual room.\nOn a desk near the entrance lay a single 8mm tape.\n\"Arai's dead inside this thing.\nHe told you, didn't he? That next it was your turn to be killed by this video.{p}I wonder if that'll really happen?\"\n"
+  },
+  {
+   "id": "68:4a9c",
+   "op": "choice",
+   "en": "I suppose it will"
+  },
+  {
+   "id": "68:4ab0",
+   "op": "choice",
+   "en": "Don't joke about this!"
+  },
+  {
+   "id": "68:4ac0",
+   "op": "choice",
+   "en": "Please, help me"
+  },
+  {
+   "id": "68:4aec",
+   "op": "text",
+   "follows_choice": [
+    "68:4ac0"
+   ],
+   "en": "Not a chance.{p}"
+  },
+  {
+   "id": "68:4afc",
+   "op": "text",
+   "en": "You couldn't save Hashimoto.\nWorse than that, you just stood there in silence and watched her try to kill herself.\nKazama, Iwashita, Shindo, Hosoda, Arai, Fukuzawa... they were all the same.\nThey treat other people's suffering like it's none of their business.\nThat's why I killed them.\nI wanted them to taste the same pain. The pain called death.\nThis is to make an example of them.\nI killed them.\nRight on the stages of the ghost stories they told.\nWhat's the matter?\nYou're shaking.{p}"
+  },
+  {
+   "id": "68:4c8c",
+   "op": "text",
+   "en": "Heh heh, I'll kill you too.\nTogether with Fukuzawa, in the reflection room.\nOr would you rather follow Arai?\nYou were supposed to be killed by the Mummy Man in the video, weren't you?\nHahahahaha, hahahahahaha.........{p}"
+  },
+  {
+   "id": "68:4d64",
+   "op": "text",
+   "en": "For an instant, a strong wind blew.\nAs if swept away by it, the darkness that had covered everything around me faded.{p}"
+  },
+  {
+   "id": "68:4ddc",
+   "op": "text",
+   "en": "And I was back in the reflection room.\nKazama and the others were already gone.\nHad they really been killed?\n...There was a raw, fishy smell.\nLike a fish that had been gutted.\nNo, a nastier smell than that.\nCome to think of it, I'd heard that cutting open a human belly makes a horrible stink.\nThat's why medical students nearly faint during surgery practice and such...\nThinking about things like that, I turned around.{p}"
+  },
+  {
+   "id": "68:4f64",
+   "op": "text",
+   "en": "...It's Fukuzawa.\nShe had collapsed, slumped against the wall.\nHer face and body were drenched in blood.\nIt was hard to tell with all the blood soaking her uniform, but judging by this smell, her belly must have been split wide open.{p}The next instant, the shelf lurched and tipped over.{p}"
+  },
+  {
+   "id": "68:5064",
+   "op": "text",
+   "en": "My head sent up a spray of blood even bigger than Fukuzawa's belly had...{p}"
+  },
+  {
+   "id": "68:50a8",
+   "op": "text",
+   "follows_choice": [
+    "68:3a94"
+   ],
+   "en": "\"No, you don't. You're going to look inside.\"\nThe moment he said it, an invisible force moved my hand and opened the shoe locker door.{p}"
+  },
+  {
+   "id": "68:5124",
+   "op": "text",
+   "en": "That instant, something hard and slick came tumbling out.{p}"
+  },
+  {
+   "id": "68:5168",
+   "op": "text",
+   "follows_choice": [
+    "68:3f38"
+   ],
+   "en": "\"Right?\nShe seems like the type who says whatever's on her mind, doesn't she?{p}"
+  },
+  {
+   "id": "68:51bc",
+   "op": "text",
+   "follows_choice": [
+    "68:3f40"
+   ],
+   "en": "\"I see.\nDoesn't matter what you think.\nI didn't like her from the moment I first laid eyes on her.\nShe seems like the type who says whatever's on her mind, doesn't she?{p}"
+  },
+  {
+   "id": "68:525c",
+   "op": "text",
+   "follows_choice": [
+    "68:4670"
+   ],
+   "en": "I slowly opened the stall door.\n...No one's there.\nSo Hosoda hasn't been killed?{p}"
+  },
+  {
+   "id": "68:52c4",
+   "op": "text",
+   "en": "\"Naive.\"\nIt was Kawahara's voice.{p}"
+  },
+  {
+   "id": "68:530c",
+   "op": "text",
+   "follows_choice": [
+    "68:4a9c"
+   ],
+   "en": "You actually believe Arai's story?\nWell, whatever. Either way, you're going to be killed.\nWhy, you ask?{p}"
+  },
+  {
+   "id": "68:538c",
+   "op": "text",
+   "follows_choice": [
+    "68:4ab0"
+   ],
+   "en": "That's right, this is no joke.{p}"
+  },
+  {
+   "id": "68:53b0",
+   "op": "text",
+   "follows_choice": [
+    "68:22dc"
+   ],
+   "en": "\"Hashimoto, if something's troubling you, tell me.\"{p}"
+  },
+  {
+   "id": "68:53dc",
+   "op": "text",
+   "follows_choice": [
+    "68:23e8"
+   ],
+   "en": "...There's surely nothing I can do.\nWhat's already happened can't be undone anyway.\nThis is between the two of them.\n\"Sorry for bothering you.\"\nI left.{p}"
+  },
+  {
+   "id": "68:54a4",
+   "op": "text",
+   "en": "Still, where should I go now?\nAs I walked down the hallway for a while, I suddenly heard Kawahara's voice.\n\"I see. So that's what you think...\"{p}"
+  },
+  {
+   "id": "68:5534",
+   "op": "text",
+   "en": "And then the darkness closed in all around.{p}"
+  },
+  {
+   "id": "68:5574",
+   "op": "text",
+   "en": "...When I came to, I was standing in the reflection room.\nThe people who had told me about the seven wonders were gone.\nWhat day is it today?\nFor now, I decided to go back to the club room.\nIf I'm back on the day of the seven wonders meeting, the club room should be set up for it.{p}"
+  },
+  {
+   "id": "68:566c",
+   "op": "text",
+   "en": "Through the windows along the hallway, I could see the dark sky.\nWhat a horrible night.{p}"
+  },
+  {
+   "id": "68:56c4",
+   "op": "text",
+   "en": "...When I got back to the club room, Hino was there.\n\"Hino?\"\n\"{a}?\nWhat happened to you?\nThat was low, skipping out on the seven wonders meeting.\"\n\"What?\"\n\"You didn't show, so the members I gathered griped at me.\nI had to run the meeting myself in your place, you know.\"\n\"But... I heard stories from six people.\"\n\"Don't lie to me.\nOr what, did a tanuki play a trick on you?\"\nThen what on earth were the stories I heard?\nAnd those six people?\n\"Hino, the members you gathered...\"\n\"All third-years, from my class.\nLet's see, Hongo, Mori, Tanaka, Hayashi...\"\nEvery one of them was a name I didn't know.\nIf what Hino said was true, then what on earth had I been seeing?{p}"
+  },
+  {
+   "id": "68:5938",
+   "op": "text",
+   "en": "I went back to the reflection room once more.\n\"...Oh.\"\nMy watch was lying in a corner of the reflection room floor.\nIt's the one I dropped while trying to tidy up the club room before Fukuzawa told her story.\nCould it be that while I thought I was in the club room, I had really been summoned to this reflection room?\nWas it all set up by Kawahara?\nKazama, Iwashita, Shindo, Hosoda, Arai, Fukuzawa...\nWere they all illusions Kawahara showed me?\nOr maybe they, too, were people who had died for some reason.{p}"
+  },
+  {
+   "id": "68:5b38",
+   "op": "text",
+   "en": "I went back to the newspaper club room again.\nI really have to write this feature myself.\nI told Hino how Kawahara's power had drawn me into the reflection room and how I'd been through something strange.\nAnd somehow I talked him around, and it was decided that I would see this project through to the end.{p}"
+  },
+  {
+   "id": "68:5c28",
+   "op": "text",
+   "en": "What had Kawahara wanted me to help him with?\nHashimoto had been so terribly depressed. Maybe he wanted me to be there for her...\nHe was called a two-faced person, but maybe deep down he was a good person after all.{p}"
+  },
+  {
+   "id": "68:5ce4",
+   "op": "text",
+   "en": "The next day, I went to the reflection room.{p}"
+  },
+  {
+   "id": "68:5d18",
+   "op": "text",
+   "en": "When I looked at Hashimoto's apology essay, there was a single photograph tucked inside.\nKawahara and Hashimoto were standing side by side in the darkness.\nSo in the end, Hashimoto did kill herself?{p}In the photo, the two of them were smiling sadly.{p}"
+  },
+  {
+   "id": "68:5df8",
+   "op": "text",
+   "follows_choice": [
+    "68:25b4"
+   ],
+   "en": "\"It can't be helped anymore.\nKawahara's dead, after all.{p}"
+  },
+  {
+   "id": "68:5e54",
+   "op": "text",
+   "follows_choice": [
+    "68:25c0"
+   ],
+   "en": "\"That's right.\nKawahara's dead, after all.{p}"
+  },
+  {
+   "id": "68:5e88",
+   "op": "text",
+   "follows_choice": [
+    "68:2684"
+   ],
+   "en": "\"Why are you giving me orders?\nDon't act so high and mighty.{p}"
+  },
+  {
+   "id": "68:5ec8",
+   "op": "text",
+   "en": "Anyway, I did something terrible to Kawahara.\nSo I don't deserve to live.\"{p}"
+  },
+  {
+   "id": "68:5f10",
+   "op": "text",
+   "follows_choice": [
+    "68:2ad4"
+   ],
+   "en": "\"Hashimoto, stop!\"\nI shouted before I could stop myself.\nBut she wouldn't stop writing.\n\"Hashimoto!\"\nCan't my voice reach her?\nThe moment I tried to go to her, I was engulfed in a blinding light.{p}"
+  },
+  {
+   "id": "68:5fdc",
+   "op": "text",
+   "en": "No, I can't get near her☆\nWhat's happening?\nMy head hurts☆{p}"
+  }
+ ]
+}

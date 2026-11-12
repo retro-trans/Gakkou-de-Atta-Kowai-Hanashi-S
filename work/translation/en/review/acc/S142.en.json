@@ -1,0 +1,361 @@
+{
+ "slice": "S142",
+ "scene": "36",
+ "narrator_hint": "Reiko Fukuzawa (storyteller)",
+ "prev": "S141",
+ "next": "S143",
+ "todo": [],
+ "rows": [
+  {
+   "id": "36:9464",
+   "op": "text",
+   "en": "She was sitting at her own desk, limp and drained.\nHer face looked even paler than before.\nI got worried and ran over to her, but Sanae just stayed slumped over her desk...\nIt looked like even lifting her head was too much effort...\n\"Reiko...?\"\nShe spoke slowly.\n\"Yeah, it's me. Sanae, are you okay?\"\n\"Yeah... I'm fiiine.\"\nBut she still had no energy at all, and her face seemed to be turning bluer and bluer.\n\"Hey, let's go back to the nurse's office.\"\nThat would definitely be better, right?\nBut for some reason, Sanae didn't want to go.\nAnd then she said this, in a thin little voice:\n\"You're so kind, Reiko. Please stay my friend forever and ever.\"\n...like that.\n\"Okay.\"\nI found myself nodding before I knew it.{p}"
+  },
+  {
+   "id": "36:96cc",
+   "op": "text",
+   "en": "That's when Sanae finally lifted her head.{p}And around her mouth...!\n"
+  },
+  {
+   "id": "36:9710",
+   "op": "choice",
+   "en": "She had fangs"
+  },
+  {
+   "id": "36:9720",
+   "op": "choice",
+   "en": "Human faces were squirming"
+  },
+  {
+   "id": "36:9754",
+   "op": "text",
+   "follows_choice": [
+    "36:9710"
+   ],
+   "en": "She had fangs!\nNot some cute little snaggletooth, either, but thin, sharp fangs...\nSanae's face was bloodless and pure white, but her lips alone were unnaturally red.\nI just kept staring at her face in a daze.\nI must have already been under her spell...\nThen I felt a little prick on the side of my neck.\nWhen I snapped out of it, Sanae was biting into my neck!\nGulp.\nI heard Sanae's throat swallow, and the strength drained out of my body.\nSo Sanae's a vampire...\nThat's what I was thinking while she sucked my blood.{p}"
+  },
+  {
+   "id": "36:9958",
+   "op": "text",
+   "en": "Hee hee, well, {c}{f:|}?{p}Do you believe my story?\n"
+  },
+  {
+   "id": "36:9998",
+   "op": "choice",
+   "en": "I believe it"
+  },
+  {
+   "id": "36:99a4",
+   "op": "choice",
+   "en": "I don't believe it"
+  },
+  {
+   "id": "36:99b4",
+   "op": "choice",
+   "en": "I can't really say"
+  },
+  {
+   "id": "36:99c4",
+   "op": "text",
+   "follows_choice": [
+    "36:9998"
+   ],
+   "en": "Really, now?\nIf Sanae's a vampire, then wouldn't that make me a vampire too, since she sucked my blood?\nHow can you stay so calm?\nOr are you interested in eternal life?\nIt is kind of romantic, isn't it?\nAn old coffin, hidden away in the cellar of an ancient castle in Europe.\nAnd inside it, a vampire who rises every night to wander in search of blood...\nAnd then there's a love story with a beautiful woman, right?\n...Oh no, I'm getting off topic.{p}"
+  },
+  {
+   "id": "36:9b70",
+   "op": "text",
+   "en": "Hee hee, but you believed me, didn't you?\nSo you're fine with me being a vampire.\nGood, because I was just getting hungry.\n{c}{f:|}, would you treat me to a meal?\nI mean blood, of course.\nDon't worry, I won't kill you.\nYou'll get a little sleepy, but that much is okay, right?\nSee, it was just a little prick, wasn't it?\nIt didn't hurt, did it?\nAre you starting to feel sleepy?\nWhen you wake up, everyone will be one of us.\nOh, but watch out for the morning sun.\nYou'll turn to ash.\nSo this is the end of our little gathering, huh?\nIt had only just started, too. What a shame.{p}"
+  },
+  {
+   "id": "36:9d78",
+   "op": "text",
+   "follows_choice": [
+    "36:9720"
+   ],
+   "en": "That's right.\nTiny human faces were crammed together in there.\nAnd among them was a face I felt I'd seen somewhere...\nEven if I'm not into idols, I do watch TV, so I at least know Ketsu's face.\nHe was pretty famous, after all.{p}"
+  },
+  {
+   "id": "36:9e4c",
+   "op": "text",
+   "en": "\"Ketsu is going to live on inside me from now on.\nFrom now on, he'll sing just for me.\"\nSanae said it in a cheerful voice, but then she hung her head right away.\n\"It was the only way I could think of.\nIf I didn't do this, I couldn't save him!\"\nBy the end, she was in tears.\n\"What's wrong, Sanae? I can't understand you if you're crying.\"\n\"...Okay. Well, at the concert yesterday...\"{p}"
+  },
+  {
+   "id": "36:9fd8",
+   "op": "text",
+   "en": "According to Sanae, there was an accident at the very end of the concert... during the encore.\nSome worked-up, fanatical fans trampled the security guards and stormed the stage.\nWhen the other fans saw that, they all rushed forward too, each trying to get there first, and the whole hall was total chaos!\nOnce it gets like that, nothing can stop it, right?\nMost of them were young girls, so I guess it was a kind of mass hysteria.\nSanae's seat was on the second level.\nSo all she could do was watch from above, stunned.{p}"
+  },
+  {
+   "id": "36:a18c",
+   "op": "text",
+   "en": "By the time someone hurried to turn the lights on, Ketsu had been crushed by his fans and was bleeding...\nHe'd already stopped breathing, and his pupils were dilated, she said.\nFans are scary, aren't they?\nNot the fans themselves, but their feelings, I guess...\nThis goes for anyone, but people who get fixated on things swing from one extreme to the other.{p}"
+  },
+  {
+   "id": "36:a2cc",
+   "op": "text",
+   "en": "...I'll go on with Sanae's story.\nSanae was so sad that Ketsu had died...\nAnd since it happened so suddenly, and in such an awful way, it hurt even more.\nWhy did he have to die?\nShe wanted to let him sing one more time.\nWith nothing but that wish, Sanae made up her mind to perform a secret art passed down in her family.\nI didn't get to hear what the secret art was, but I bet that scrap of paper had something to do with it, don't you think?\nAnd the result was...\nYou already know, don't you?{p}"
+  },
+  {
+   "id": "36:a494",
+   "op": "text",
+   "en": "Yes, I mean the people inside Sanae's mouth.\nFor generations, Sanae's family has used that secret art to keep their ancestors living inside their bodies as parasites.\nAll those faces were Sanae's grandfathers and grandmothers.\n\"Ketsu isn't one of the family, so my body will hurt a bit until he settles in.\"\nSaying that, Sanae finally stopped crying.\nI thought I heard a gentle ballad drifting out of her mouth.{p}"
+  },
+  {
+   "id": "36:a630",
+   "op": "text",
+   "en": "...It's really grotesque to look at, though.\nSanae and I are even closer friends than before.\nAnd she seems to have gotten completely better, too.\nWhen she's in a good mood, you can often hear singing.\nWho's singing, you ask...? Isn't it obvious?\nWhether you believe this story or not is up to you, {c}{f:|}.\nHee hee, well then, that's the end of my story.\nWho's next?{p}"
+  },
+  {
+   "id": "36:a78c",
+   "op": "text",
+   "follows_choice": [
+    "36:5798"
+   ],
+   "en": "The weather was nice, so maybe the roof?\nAh, just as I thought.\nSanae was on the roof.{p}"
+  },
+  {
+   "id": "36:a7f4",
+   "op": "text",
+   "en": "She was wearing a black cloak and holding one thick book in her hands.\nWhen I looked closer, there was a magic circle drawn in chalk at her feet!\nFor a second, I hesitated to call out to her.\nBut Sanae noticed me right away,\n\"Reiko, what are you doing?\nCome over here!\"\nshe called to me, just like that.\nShe was the same old Sanae.\nHer color was completely back to normal, too...\n\"Watch this. I'm going to summon something amazing.\"\nWith that, Sanae turned back to the magic circle and started chanting some weird spell.\n\"In the name of heaven, earth and the spirits, I command thee, who received life between heaven and earth.\nKeeper of the door, swiftly open thy gate and forge the path that leads that one to this land.\nThe one whose name is Ketsu La Mondo, come forth! Before me!\"\nIt was all so much like a manga.\nIt really was like something out of a manga or a TV show.{p}"
+  },
+  {
+   "id": "36:aad8",
+   "op": "text",
+   "en": "Suddenly the sky clouded over, and a bolt of lightning came crashing down right into the center of the magic circle.\nThe whole school building must have shaken.\nAnd then, out of that light...{p}What do you think came out?\n"
+  },
+  {
+   "id": "36:ab74",
+   "op": "choice",
+   "en": "The Grim Reaper appeared"
+  },
+  {
+   "id": "36:ab84",
+   "op": "choice",
+   "en": "Ketsu the idol appeared"
+  },
+  {
+   "id": "36:ab9c",
+   "op": "choice",
+   "en": "A ghost appeared"
+  },
+  {
+   "id": "36:abb8",
+   "op": "text",
+   "follows_choice": [
+    "36:ab84"
+   ],
+   "en": "Believe it or not, Ketsu appeared!\nBut he looked a little different from the Ketsu you see on TV.\nHe was dressed in a black robe, and his silver hair, in loose waves, rippled all the way down to his feet, and his ears were a bit long and pointed...\nAnd two long horns were growing out of his head!\n"
+  },
+  {
+   "id": "36:acb4",
+   "op": "text",
+   "en": "Ahh, that look in your eyes! You doubt me, don't you☆\nNo, you definitely don't believe me.\nI won't get mad, so answer honestly.{p}Do you believe my story?\n"
+  },
+  {
+   "id": "36:ad30",
+   "op": "choice",
+   "en": "I believe it"
+  },
+  {
+   "id": "36:ad3c",
+   "op": "choice",
+   "en": "I don't believe it"
+  },
+  {
+   "id": "36:ad4c",
+   "op": "choice",
+   "en": "I can't really say"
+  },
+  {
+   "id": "36:ad5c",
+   "op": "text",
+   "follows_choice": [
+    "36:ad30"
+   ],
+   "en": "Really?\nWell, I'll take your word for it.\nIf you believe me, then you can already guess what kind of person appeared, right?\nHee hee, that's right.\nKetsu the idol star was a demon.\nI say demon, but he's just a low-ranking one called an incubus, who seduces girls and takes their souls.\nHe probably became an idol to make his job easier, don't you think?{p}"
+  },
+  {
+   "id": "36:aeb8",
+   "op": "text",
+   "en": "By the way...\n{c}{f:|}, do you know a demon's weakness?\nApparently there are all kinds, but a pretty famous one is the 'true name.'\nThey say witches and demons must never let anyone learn their true name.\nApparently they lose their magic power if it happens.\nSanae cast a charm so she'd dream about Ketsu, who she loves so much, and in that dream she happened to learn Ketsu's secret.\nShe always did have a strong sixth sense, after all.\nIt seems she learned about magic circles from a book she read in the library a while back.{p}"
+  },
+  {
+   "id": "36:b09c",
+   "op": "text",
+   "en": "Still, he's a pretty clumsy demon, isn't he?\nI can't forget that grumpy look on his face when he got summoned.\nNow he does whatever Sanae tells him.\nHe's lost all his magic power, but he's still an idol in this world, you know.\n...Sanae's so lucky.\n{c}{f:|}, this is a huge scoop!\n\"Top Idol Ketsu's Secret Romance Exposed☆\nThe Girl: A Beautiful First-Year High Schooler in a Sailor Uniform☆\"\nHow about that?\nAhaha, it's fine.\nSanae doesn't seem to have any intention of hiding it at all.\nThis is no time to be sitting around!\nHurry and contact a TV station, or a newspaper, anything!\nWhat'll you do?{p}Are you just going to keep the talk going?\n"
+  },
+  {
+   "id": "36:b2d8",
+   "op": "choice",
+   "en": "Keep the talk going"
+  },
+  {
+   "id": "36:b2e4",
+   "op": "choice",
+   "en": "Call a TV station"
+  },
+  {
+   "id": "36:b2f8",
+   "op": "text",
+   "follows_choice": [
+    "36:b2d8"
+   ],
+   "en": "{f:What should I do|What should I do}...\n{f:I|I} hesitated.\n{f:But|But} the answer came to me right away.\n\"Let's continue.\"\nSure, Fukuzawa's story was juicy.\nI {f:think|do think} it's a scoop.\nBut right now, {f:I|I} have {f:an important job|an important job} to do.\nCovering these seven wonders is {f:my|my} first assignment, entrusted to me by Hino{f:.|, after all.}\nI can't go chasing scoops before I've even finished a single job.\n\"Aww, what a letdown.\nSo the part about believing me was a lie too?\nI'm not blaming you or anything.\nI just wanted you to interview me too.\nBut that's so like you, {c}{f:|}.\nI thought about pitching it to a TV station or something myself.\nBut it felt too much like selling out a friend, so I didn't.\nHee hee, sorry.\nThat was a bit of a sneaky idea, huh?\nWell then, I'll end my story about here...\nWho's next?\"{p}"
+  },
+  {
+   "id": "36:b5f4",
+   "op": "text",
+   "follows_choice": [
+    "36:ab74"
+   ],
+   "en": "What appeared from the blinding light was the Grim Reaper.\nHe wore a black cloak and held a huge scythe in his hands.\nAnd under the black hood was a white skull!\n...But when everything goes exactly like in the stories up to this point, it kind of makes you laugh, doesn't it?\nOf course, I can only say that now...\nAt the time, I was so shocked I couldn't even make a sound.\nBut Sanae was different.{p}"
+  },
+  {
+   "id": "36:b740",
+   "op": "text",
+   "en": "Sanae smiled at the Reaper like an old friend, took something round and squishy out of her skirt pocket, and said,\n\"Ketsu's soul, right here...\"\nThat's definitely what she said.{p}"
+  },
+  {
+   "id": "36:b7e8",
+   "op": "text",
+   "en": "\"Duly received...\"\nThe Reaper's voice was a young man's.\n\"Human name, Sanae Motoki.\nCode name, Ororonna.\nYou have done well.\"\n\"Yes, sir!\"\nThen he was wrapped in blinding light again, and the Reaper vanished.\nWith Ketsu's squishy soul wound around his scythe...\nWhen the light faded and the air around us went back to normal, Sanae took off her cloak.{p}"
+  },
+  {
+   "id": "36:b930",
+   "op": "text",
+   "en": "\"Phew, that was hot.\"\nThat's all she said...\nShe was the same Sanae as always, not changed one bit.\nYou'd never think she'd been talking with the Grim Reaper just a moment ago.\n\"Sanae, what was that just now...\"\n\"So you finally found me out, Reiko. The person just now is called Lord La Mondo, and he's my teacher. That was my very first job. It was the soul of an idol called Ketsu.\"\nSanae seemed happy to have gotten through her first job safely.\n\"So you're a Grim Reaper too, Sanae.\"\n\"Huh, didn't I tell you?\nSorry, I've been nervous the whole time.\nYeah, that's right.\nI'm a Grim Reaper.\nJust an apprentice, though.\"\nI had no idea what was what anymore...\nA slightly odd girl in my class was actually a Grim Reaper's apprentice, and she used a magic circle to summon the Reaper who was her teacher, and he looked exactly the way you'd expect, and...{p}"
+  },
+  {
+   "id": "36:bbe8",
+   "op": "text",
+   "en": "It was all too much, and I think the wires in my brain short-circuited.{p}"
+  },
+  {
+   "id": "36:bc34",
+   "op": "text",
+   "en": "When I came to, I was lying in a bed in the nurse's office.\nMaybe it had all been a dream.\nThat's what I was vaguely thinking.\n"
+  },
+  {
+   "id": "36:bca4",
+   "op": "text",
+   "en": "Just then, I heard a girl crying in the bed next to mine.\nI thought it was Sanae, but it was a girl I didn't know at all.\n\"Why... why did Ketsu have to die?\"\nShe must have been a Ketsu fan too.\nBut if Ketsu had really died, then maybe that hadn't been a dream after all...{p}"
+  },
+  {
+   "id": "36:bdd4",
+   "op": "text",
+   "en": "Sanae came to pick me up, and she was just like usual, nothing different about her at all...\nShe'd probably tell me if I asked, but somehow it's hard to ask.\nBesides, I kind of feel like it's fine even if Sanae is a Grim Reaper.\nIt's not like she goes around killing people.\nApparently Ketsu was sick and pushed himself to go on stage anyway.\nIt seems it was an illness with no hope of recovery.\nSo I think dying after the show was just his time.\nI wonder if Sanae wears a skull mask like that when she's working, too.{p}"
+  },
+  {
+   "id": "36:bfa0",
+   "op": "text",
+   "en": "That might be kind of cool, actually.\nIt'd be fun to try believing it, don't you think?\nOops, this was supposed to be a scary story, wasn't it?\nAhaha, sorry.\nAnyway, that's as far as my story goes.\nI wonder what kind of story the next person has?{p}"
+  },
+  {
+   "id": "36:c078",
+   "op": "text",
+   "follows_choice": [
+    "36:99a4",
+    "36:ad3c"
+   ],
+   "en": "You don't believe me, huh.\nBut I guess that's the normal reaction...\nStill, {c}{f:|}, you're the one who's going to write an article based on this.\nMaybe you should try believing it a little.\nNot that it's my place to say.\nOh well.\nA story you can't believe won't make an article anyway, right?\nI'll wrap it up quickly.\nNext person, go ahead.{p}"
+  },
+  {
+   "id": "36:c1b4",
+   "op": "text",
+   "follows_choice": [
+    "36:99b4",
+    "36:ad4c"
+   ],
+   "en": "What's wrong?\nI can't tell if you just stay quiet.\nEither answer is fine.\nWhether you believe it or not is up to you, {c}{f:|}.\nWell, if you're unsure, it'd be better to save the rest of this story for another time.\nNext time, once you're able to believe it.\nOkay then, that's as far as my story goes.\nOn to the next person.{p}"
+  },
+  {
+   "id": "36:c2f8",
+   "op": "text",
+   "follows_choice": [
+    "36:b2e4"
+   ],
+   "en": "\"Everyone, I'm really sorry, but let's continue this another day...\"\n{f:I|I} rushed through my goodbyes, closed the meeting, and left the club room.{p}"
+  },
+  {
+   "id": "36:c3b8",
+   "op": "text",
+   "en": "I wanted to contact a TV station as soon as possible.\nI had the TV station's phone number written down carefully in my notebook.\n{f:Ah|Oh}, no!\nI'd forgotten my change.\nI couldn't find my phone card, either.\nAt times like this, {f:I'll just|I'll just} borrow the school's equipment!\nThe closest phone from here is in the night-duty room{f:!|☆}\n{f:I|I} headed for the night-duty room.{p}"
+  },
+  {
+   "id": "36:c518",
+   "op": "text",
+   "en": "I nervously peeked into the night-duty room, and the TV had been left on.\n{f:But|But} there was no sign of the teacher.\n{f:Could the teacher be|Was the teacher} in the restroom?\nAnyway, it's now or never{f:!|!}\n"
+  },
+  {
+   "id": "36:c5e4",
+   "op": "text",
+   "en": "I picked up the receiver and dialed, checking each number one by one.\nAnd then, just as I put my finger on the last digit...!\nOn the TV screen were words I couldn't believe...{p}"
+  },
+  {
+   "id": "36:c684",
+   "op": "text",
+   "en": "\"Top Idol Ketsu's Secret Romance Exposed☆\nThe Girl: A Beautiful First-Year High Schooler in a Sailor Uniform☆\"\n"
+  },
+  {
+   "id": "36:c6e0",
+   "op": "text",
+   "en": "{f:I|I} put down the receiver and changed the channel.\n\"Ketsu Declares His Love☆\"\n\"Engagement Press Conference Tomorrow!\"\nThere were headlines like that too.\nDOOOOOOOOOOOM.\n{f:I|I} was crushed.\nWho knew the Japanese media was this good...\nMaybe I should just skip school tomorrow.\nHow can I ever face Hino, or everyone who went out of their way to gather here{f:?|?}\nAll I can do is laugh.\n{f:Ha|Aha}hahahahahaha...\nHow empty...{p}"
+  },
+  {
+   "id": "36:c898",
+   "op": "text",
+   "follows_choice": [
+    "36:ab9c"
+   ],
+   "en": "The light faded right away.\nAfter it was gone, it seemed like nothing was there.\nBut that wasn't true.{p}"
+  },
+  {
+   "id": "36:c904",
+   "op": "text",
+   "en": "Right in front of us, something like white smoke was floating.\nIn the middle of the smoke was a woman's face, glaring at us.\n\"Why couldn't you just leave me alone?\nI was finally about to rise up...\"\nThe smoke gradually took on a human shape...\nShe was wearing the same sailor uniform as us.\n\"I thought I'd finally been forgiven... and you got in the way. That's too cruel☆\"\nShe seemed incredibly angry.\nBut even if she said that to me, I didn't know anything about it.\nSanae was the one who summoned her, after all.{p}"
+  },
+  {
+   "id": "36:caf0",
+   "op": "text",
+   "en": "Sanae herself was checking the book and tilting her head.\nAnd then...\n\"Oh no, I messed up. What do I do...\nKetsu's living spirit was supposed to come out...\"\n'What do I do' isn't going to cut it, right?\nSanae didn't mean any harm, but she'd called a spirit that was about to ascend to heaven back down to earth.{p}"
+  },
+  {
+   "id": "36:cc18",
+   "op": "text",
+   "en": "\"Oh, it's too late now.\nI'll be alone here again...\"\nThe woman's spirit looked so sad.\nBut then, right before our eyes, her face twisted into a horrifying expression!\nThe spirit let out a shrill shriek and came charging at us, and Sanae and I crouched down right there in terror.\nFor an instant, something chillingly cold passed right between us.\nI was so scared I had my eyes shut then, but Sanae said she saw the whole thing.{p}"
+  },
+  {
+   "id": "36:cdd8",
+   "op": "text",
+   "en": "\"She jumped off... crying...\"\nThat voice was what finally made me lift my head.\nSanae was standing at the fence, peering down.\nI looked down too, but there was nothing to see there anymore.\n\"I feel like we did something terrible...\"\n\"Yeah...\"{p}"
+  },
+  {
+   "id": "36:ced4",
+   "op": "text",
+   "en": "The two of us just stood there for a while.\nBut you know, being there gave me a strange feeling.\nPessimistic... I guess you'd call it.\nI'm not needed anymore.\nNobody looks at me.\nHow could I make it all stop hurting... that's what I started to think.\nIf I climbed over this fence...\nJust as I thought that, someone grabbed my arm, and I snapped out of it.{p}"
+  },
+  {
+   "id": "36:d018",
+   "op": "text",
+   "en": "A woman with a bitter, resentful face was clinging to my arm.\nThat pale face didn't belong to anyone of this world.\nWhen I looked closer, someone else was clinging to that woman's waist, and someone else to that one... lots of spirits, all linked together like a rope.\nAnd all of them were trying to drag me over the fence.{p}"
+  },
+  {
+   "id": "36:d16c",
+   "op": "text",
+   "en": "\"Reiko☆\"\nIf Sanae hadn't held on to me, who knows what would have happened...\nFor a while after that, there was a clear bruise on my arm.\nSince then, I've been too scared to go near the roof.\nApparently there was a time when lots of students at this school jumped to their deaths...\nI hadn't heard of any lately, but... I wonder if it'll start again.\nSanae's really frightened now, as you'd expect.\nI mean, if that happens, it'll be her fault.\nShe made a spirit angry with black magic she did on a whim.\nI'm praying it doesn't come to that...\nHuh? What about Ketsu?\nI think she's totally over him now.\nShe can't seem to think about anything else right now.\nThe only thing I can tell you is, you'd better stay away from the roof.\nThat's all...\nYou be careful too, {c}{f:|}.\n...Well then, I'll end my story about here.\nWhose turn is next...?{p}"
+  },
+  {
+   "id": "36:d474",
+   "op": "text",
+   "follows_choice": [
+    "36:7700"
+   ],
+   "en": "\"I see...\"\nFukuzawa looked a little worried.\nIf what she said is true, then that is {f:one incredibly|one really} cursed scrap of paper{f:.|, isn't it?}\n{f:No way|No way} would I go out of my way to hunt it down just to see it{f:.|.}\nThat girl Sanae apparently said,\n\"The bed talked to me,\"\nbut there's no guarantee at all that it's true{f:.|, after all.}\nThe 'blood ritual' might be a spell that lets something in this school, say, an evil spirit, possess objects and make them move.\nIf so, then the paper vanishing starts to seem meaningful, too{f:.|.}\nMaybe it no longer needs to exist here.\nOr maybe it has gone off to someone else who wants it.{p}"
+  },
+  {
+   "id": "36:d700",
+   "op": "text",
+   "en": "\"You're right. Now I don't have to get rid of it.\nI should think of it as a good thing.\"\n{f:Yes|Yeah}, {f:I'll|I'll} just call it a good thing.\nSo that rustle I heard in my pocket just now must all be in my head{f:.|.}\n\"Okay, that's the end of my story.\nWhose turn is next...?\"{p}"
+  }
+ ]
+}

@@ -1,0 +1,1137 @@
+[
+ {
+  "id": "55:0b98",
+  "op": "text",
+  "en": "So it's finally my turn?\nNice to meet you all.\nMy name is Shoji Arai, from Class 2-B.\n...Still, you were all chosen from the whole school, and it shows. You know all sorts of scary stories.\nI'm truly impressed.\nI know a fair number of scary stories myself, but I'd started to feel a little uneasy.\nWhat would I do if someone else told the story I'd prepared before I could...?\nBut it seems there was no need at all for that worry.\nAfter all, this school has mountains of scary stories...\nWell then, let me begin my story.\nHave any of you heard of 'the Three O'Clock Hag'?\nAh... it seems a few of you have.\n...{a}.{p}What about you?\n"
+ },
+ {
+  "id": "55:0e08",
+  "op": "choice",
+  "en": "I know it well"
+ },
+ {
+  "id": "55:0e18",
+  "op": "choice",
+  "en": "I only know the name"
+ },
+ {
+  "id": "55:0e30",
+  "op": "choice",
+  "en": "I've never heard of it"
+ },
+ {
+  "id": "55:0e40",
+  "op": "text",
+  "en": "Ah, I see.\nSo you only know the name.\nIt seems quite a lot of people are like that.{p}"
+ },
+ {
+  "id": "55:0eb4",
+  "op": "text",
+  "en": "The Three O'Clock Hag is apparently a yokai that appears in restrooms at exactly three in the afternoon.\n...That said, all you hear are stories of someone hearing a hoarse voice, or of a stain shaped like an old woman appearing on the wall. It seems no one has ever actually seen the yokai itself.{p}"
+ },
+ {
+  "id": "55:0fac",
+  "op": "text",
+  "en": "Restroom stories aren't my specialty, so I don't know much about them myself.\n"
+ },
+ {
+  "id": "55:0ff0",
+  "op": "text",
+  "en": "So then, why did I bring up a story like that...?\nThe truth is, there's one at this school too.\nA yokai that appears when three o'clock comes......\nThat yokai...\nI call it 'the Three O'Clock Phantom,' but it seems very few people know it exists.\nWell, that's only natural.\nThis Phantom very rarely shows itself, you see.\nFor the Three O'Clock Phantom to appear, a certain condition has to be met.\nAnd that condition is...{p}{a}, what do you think it might be?\n"
+ },
+ {
+  "id": "55:1190",
+  "op": "choice",
+  "en": "There's a special day for it"
+ },
+ {
+  "id": "55:11a8",
+  "op": "choice",
+  "en": "There's a special clock"
+ },
+ {
+  "id": "55:11bc",
+  "op": "choice",
+  "en": "There's a special ritual"
+ },
+ {
+  "id": "55:11d0",
+  "op": "text",
+  "en": "Did you already know this story...?\nThat's right.{p}"
+ },
+ {
+  "id": "55:121c",
+  "op": "text",
+  "en": "They say the Three O'Clock Phantom appears only when 'a certain clock' in this school points to three.{p}"
+ },
+ {
+  "id": "55:1284",
+  "op": "text",
+  "en": "Ever since I heard the rumor of the Phantom, I've been searching for that clock.\nI asked all sorts of people about it, went around checking every clock in the school...\nThe classrooms, of course, and the faculty room, the principal's office, everything from the art room to the nurse's office...\nI even checked the clocks in the off-limits old school building, one by one.\nEven so, I never found the clock where the Phantom is said to appear.\nWas the rumor a lie after all...★\nJust as I'd begun to think so, I was finally able to track down where that clock was.{p}"
+ },
+ {
+  "id": "55:1428",
+  "op": "text",
+  "en": "A senior from the newspaper club...\nHino, I believe his name was?\nWhen he invited me to this seven wonders gathering, I thanked my lucky stars.{p}"
+ },
+ {
+  "id": "55:14bc",
+  "op": "text",
+  "en": "Everyone, please look at that wall.\nThere are two clocks hanging side by side, aren't there?\nOne of them is running properly.\nRight now it's... oh, is it this late already?\nAt this rate, it'll be quite late by the time all the stories are finished.\nI'll tell mine a little faster.\nYes, that one is an ordinary clock.\nThere's no need to pay it any special attention.\nWhat matters is the other clock.{p}"
+ },
+ {
+  "id": "55:1618",
+  "op": "text",
+  "en": "It's covered in dust, and there's no sign of it moving at all.\nIs it broken, perhaps...?\nBut I'll say it with certainty.\nThat clock is the very clock that can summon the Three O'Clock Phantom!{p}"
+ },
+ {
+  "id": "55:16d8",
+  "op": "text",
+  "en": "{a}...{p}Sorry, but would you take that clock down for me?\n"
+ },
+ {
+  "id": "55:171c",
+  "op": "choice",
+  "en": "Take down the running clock"
+ },
+ {
+  "id": "55:1734",
+  "op": "choice",
+  "en": "Take down the stopped clock"
+ },
+ {
+  "id": "55:174c",
+  "op": "choice",
+  "en": "Take down neither clock"
+ },
+ {
+  "id": "55:1760",
+  "op": "text",
+  "en": "...Thank you.\nEveryone, please watch the clock's hands.{p}"
+ },
+ {
+  "id": "55:17b0",
+  "op": "text",
+  "en": "They're pointing to 2:59.\nIn other words... one minute to three.\nWhen these hands point to three...\nthe Three O'Clock Phantom should appear.{p}"
+ },
+ {
+  "id": "55:1848",
+  "op": "text",
+  "en": "Well then, shall we go ahead and summon the Phantom?\nIt's simple.\nAll it takes is moving the clock's hands a little.\nNow, {a}.{p}Move the hands, please.\n"
+ },
+ {
+  "id": "55:18e4",
+  "op": "choice",
+  "en": "Move them"
+ },
+ {
+  "id": "55:18ec",
+  "op": "choice",
+  "en": "Don't move them"
+ },
+ {
+  "id": "55:18f8",
+  "op": "choice",
+  "en": "Don't move them"
+ },
+ {
+  "id": "55:1904",
+  "op": "choice",
+  "en": "I want Arai to move them"
+ },
+ {
+  "id": "55:1920",
+  "op": "text",
+  "en": "That's it, turn that knob...\n...Just a little.\nJust a tiny bit...\n"
+ },
+ {
+  "id": "55:1988",
+  "op": "text",
+  "en": "Did you hear that?\nJust now, there was definitely a click, wasn't there?\n"
+ },
+ {
+  "id": "55:19c0",
+  "op": "text",
+  "en": "The hands gave a little twitch...\n...Sorry, I seem to have gotten rather excited...{p}"
+ },
+ {
+  "id": "55:1a1c",
+  "op": "text",
+  "en": "Ah... it's three o'clock, all right.\nThe clock is pointing to three.{p}I wish the Phantom would hurry up and appear...\n"
+ },
+ {
+  "id": "55:1a7c",
+  "op": "choice",
+  "en": "I'm sure it'll appear"
+ },
+ {
+  "id": "55:1a90",
+  "op": "choice",
+  "en": "I don't think it'll appear"
+ },
+ {
+  "id": "55:1aa0",
+  "op": "choice",
+  "en": "I don't know"
+ },
+ {
+  "id": "55:1ad8",
+  "op": "text",
+  "en": "You're quite the lover of scary things yourself.\nThen again, I suppose only that sort of person could cover the seven wonders...\nOf course, I think it'll appear too.\n"
+ },
+ {
+  "id": "55:1b68",
+  "op": "text",
+  "en": "You could even say I believe it.\nThis time, the Phantom will really appear...\n...Somehow, it's thrilling.\nI've never had this much fun before.{p}"
+ },
+ {
+  "id": "55:1c08",
+  "op": "text",
+  "en": "Oops, I shouldn't be calling it fun.\nAccording to one theory, the reason no one has ever seen the Phantom is that everyone who saw it was killed by it... or so they say.\nAt this school, teachers and students have been dying mysteriously or going missing, again and again, for a long time.\nApparently, a few of them were interested in the Three O'Clock Phantom, just like me...\nThat's probably where the rumor started spreading from.\n...It's a frightening story.\nWell, it's only a rumor, of course.{p}"
+ },
+ {
+  "id": "55:1dd8",
+  "op": "text",
+  "en": "Still...\n...It's really taking its time to appear.\nNo one told me it would take this long.\nWas the rumor of the Three O'Clock Phantom a lie?{p}Or did I pick the wrong clock?\n"
+ },
+ {
+  "id": "55:1e94",
+  "op": "choice",
+  "en": "I think the rumor was a lie"
+ },
+ {
+  "id": "55:1ea8",
+  "op": "choice",
+  "en": "I think you picked the wrong clock"
+ },
+ {
+  "id": "55:1ec0",
+  "op": "choice",
+  "en": "If we wait a little longer, I'm sure the Phantom will appear"
+ },
+ {
+  "id": "55:1f00",
+  "op": "text",
+  "en": "You're saying we should wait a little longer?\nYou have quite a persistent nature.\nJust what I'd expect from a newspaper club member.{p}"
+ },
+ {
+  "id": "55:1f74",
+  "op": "text",
+  "en": "...But let's give up for today.\nIt's not good to stay at school too late, after all.\nWell then, this brings my story to......\nJust as Arai said this and looked down...!{p}"
+ },
+ {
+  "id": "55:203c",
+  "op": "text",
+  "en": "\"Eeek!\"\nSuddenly, a girl screamed.\n\"Someone was peeking in just now!\"\nThe girl had gone pale and was pointing at the door.{p}"
+ },
+ {
+  "id": "55:20d8",
+  "op": "text",
+  "en": "...Huh?\nThat was strange.\nThe door was half open.{p}It had been shut tight until just a moment ago...\n"
+ },
+ {
+  "id": "55:2144",
+  "op": "choice",
+  "en": "Go close the door"
+ },
+ {
+  "id": "55:2158",
+  "op": "choice",
+  "en": "Wait and see what happens"
+ },
+ {
+  "id": "55:216c",
+  "op": "text",
+  "en": "I reached for the knob to close the door.\nAt that moment...☆{p}"
+ },
+ {
+  "id": "55:21b8",
+  "op": "text",
+  "en": "\"Aaagh!\"\nI found myself screaming.{p}"
+ },
+ {
+  "id": "55:2200",
+  "op": "text",
+  "en": "Beyond the narrow gap in the door, there was definitely something.\nIts face was in shadow and hard to make out, but its red, bloodshot eyes were glittering fiercely.{p}"
+ },
+ {
+  "id": "55:2278",
+  "op": "text",
+  "en": "The moment its eyes met mine, it spun around and started running.\n"
+ },
+ {
+  "id": "55:22b4",
+  "op": "choice",
+  "en": "Chase it"
+ },
+ {
+  "id": "55:22bc",
+  "op": "choice",
+  "en": "Don't chase it"
+ },
+ {
+  "id": "55:22d4",
+  "op": "text",
+  "en": "I have to go after it!\nThat must be the Three O'Clock Phantom!\nI rushed out into the hallway.\n...And there was the man, like a black shadow, wavering like a heat haze as he turned the corner of the hallway.\nIn just an instant, he was already that far away...\n\"What's wrong, {a}?\"\nWithout even turning back at the voice calling after me, I ran as hard as I could.{p}"
+ },
+ {
+  "id": "55:2410",
+  "op": "text",
+  "en": "I rounded the corner of the hallway a moment behind the Phantom.\n...Stairs.\nOne flight led up to the floor above, and one led down to the floor below...{p}Which way had the Phantom vanished?\n"
+ },
+ {
+  "id": "55:249c",
+  "op": "choice",
+  "en": "Go up the stairs"
+ },
+ {
+  "id": "55:24a8",
+  "op": "choice",
+  "en": "Go down the stairs"
+ },
+ {
+  "id": "55:24b4",
+  "op": "text",
+  "en": "Down...!\nThinking that on instinct, I rushed down the stairs.\n...But then,{p}"
+ },
+ {
+  "id": "55:2500",
+  "op": "text",
+  "en": "\"Whoa!\"\nWith a lurch, my foot missed the step, and my body was flung out into the air.\nThe scenery around me seemed to turn slowly, and the next instant, the floor of the landing was rushing up at my face.\n"
+ },
+ {
+  "id": "55:25bc",
+  "op": "text",
+  "en": "There was a heavy thud, and searing pain shot through my arms, my back, my legs.\nFirst a sharp pain.\nThen a pain that seemed to seep out, slowly...\nThe consciousness I was barely clinging to would slip away the moment I let go.{p}"
+ },
+ {
+  "id": "55:2690",
+  "op": "text",
+  "en": "A black shadow seemed to spread slowly across the backs of my eyelids.\nA shadow like a black cloak spread wide...\nWas this the Three O'Clock Phantom...?{p}"
+ },
+ {
+  "id": "55:2718",
+  "op": "text",
+  "en": "A shrill voice, as if mocking me, echoed from out of nowhere.\nFeeling that laughter echo deep inside my ears, I sank deeper and deeper into unconsciousness...{p}"
+ },
+ {
+  "id": "55:27b8",
+  "op": "text",
+  "en": "\"{a}... {a}...\"\nSomeone was calling me......\n...Arai's voice?{p}"
+ },
+ {
+  "id": "55:2830",
+  "op": "text",
+  "en": "...It seemed I'd passed out.\nHow much time had gone by...?\n\"Are you all right?\nStand up slowly...\"\nHolding on to the hand Arai offered me, I staggered to my feet.\n...Throb.\nAs my head cleared, the feeling came back to my arms and legs.\nI could walk, but even the slightest movement sent sharp pain through my joints, and moving my body was a terrible chore.\n\"Um... {a}?\"\nLetting go of my arm, Arai asked hesitantly.{p}\"...Were you able to see the Three O'Clock Phantom?\"\n"
+ },
+ {
+  "id": "55:2a20",
+  "op": "choice",
+  "en": "Answer yes"
+ },
+ {
+  "id": "55:2a30",
+  "op": "choice",
+  "en": "Answer no"
+ },
+ {
+  "id": "55:2a40",
+  "op": "text",
+  "en": "\"Yes...\nI didn't see it clearly, but right after I fell down the stairs, I think I saw a black shadow.\"\nI answered, pulling together the threads of my hazy memory.{p}"
+ },
+ {
+  "id": "55:2af4",
+  "op": "text",
+  "en": "\"...I see.\nA black shadow... huh...\nAs an article on the seven wonders, I feel it lacks a little impact...\"\nDisappointment was plain on Arai's face.{p}"
+ },
+ {
+  "id": "55:2bac",
+  "op": "text",
+  "en": "But he soon broke into a smile.\n\"Still, we have to be glad you made it out alive.\nAfter all, many people have lost their lives after meeting the Phantom.\n...Now, let's go back to the newspaper club.\nEveryone's waiting for us.\nIf the seventh one doesn't come, the next story will be the last.\"{p}"
+ },
+ {
+  "id": "55:2cbc",
+  "op": "text",
+  "en": "Arai gave a lonely smile and slowly began to climb the stairs.\n...That's right.\nI had to hurry back to the club room.\nThat shrill laughter still lingered deep in my ears...\nI climbed the stairs as if to shake that voice off.{p}"
+ },
+ {
+  "id": "55:2d84",
+  "op": "text",
+  "en": "You know it well?\nSo the Three O'Clock Hag is a fairly famous yokai, then.\n...It's embarrassing to say this after bringing up the name myself, but I don't know much about the Three O'Clock Hag.\nJust the name and a few rumors, I suppose...{p}"
+ },
+ {
+  "id": "55:2e84",
+  "op": "text",
+  "en": "The Three O'Clock Hag is said to be a yokai that appears in restrooms at exactly three in the afternoon, isn't it?\nPeople hearing a hoarse voice...\nA stain shaped like an old woman appearing on the wall...{p}"
+ },
+ {
+  "id": "55:2f34",
+  "op": "text",
+  "en": "That's about all I know.\n...Restroom stories aren't my specialty.{p}"
+ },
+ {
+  "id": "55:2f7c",
+  "op": "text",
+  "en": "Oh, you've never heard of it...?\nThe Three O'Clock Hag is a fairly well-known yokai, you know.\nI didn't think there was anyone these days who didn't know it...\nWell, that's a surprise.\nIf you're any kind of newspaper club member, maybe you should make more of an effort to gather information.\n...That said, I'm in no position to lecture anyone.\nThe truth is, I don't know much about the Three O'Clock Hag myself.\nJust the name and a few rumors, I suppose...{p}"
+ },
+ {
+  "id": "55:3100",
+  "op": "text",
+  "en": "From what I've heard, the Three O'Clock Hag is a yokai that appears in restrooms at exactly three in the afternoon.\nThen again...\nAll that gets passed around are stories of someone hearing a hoarse voice, or of a stain shaped like an old woman appearing on the wall. It seems no one has ever actually seen the yokai itself.{p}"
+ },
+ {
+  "id": "55:3218",
+  "op": "text",
+  "en": "Yes, that's all I know.\n...Restroom stories aren't my specialty.{p}"
+ },
+ {
+  "id": "55:3264",
+  "op": "text",
+  "en": "A special day, you say...\nSo you think the same way I do, {a}.\nThat the Phantom might appear at three o'clock only on days that carry some kind of meaning, like Friday the 13th...\nI thought so too, at first.\nBut that guess is wrong, I'm afraid.\n...Too bad.{p}"
+ },
+ {
+  "id": "55:3364",
+  "op": "text",
+  "en": "According to the rumor, the Three O'Clock Phantom needs a special clock in order to appear.\nThey say the Phantom appears only when 'a certain clock' in this school points to three.{p}"
+ },
+ {
+  "id": "55:33fc",
+  "op": "text",
+  "en": "Yes...\nActually, that's right.\nIt's nothing so grand that you'd call it a ritual, but summoning the Phantom requires a certain special procedure.\n...Yes, I know that procedure.\nWhen people heard I was going around looking into 'the Three O'Clock Phantom,' they offered me all sorts of information...\n...And among all that was a terrifying story, one you must never hear.\nA terrifying story you must never hear.\n{a}...{p}Do you have the courage to hear this story?\n"
+ },
+ {
+  "id": "55:35b0",
+  "op": "choice",
+  "en": "Yes, I do"
+ },
+ {
+  "id": "55:35b8",
+  "op": "choice",
+  "en": "No, I don't"
+ },
+ {
+  "id": "55:35c0",
+  "op": "text",
+  "en": "I see. Then I'll tell it to you.{p}"
+ },
+ {
+  "id": "55:3600",
+  "op": "text",
+  "en": "Once, there was a P.E. teacher at this school named Adachi.\n\"Studying is important, but it isn't the only thing school is for.\"\n...That was the coach's philosophy, and apparently the students adored Coach Adachi.\nBut then, one day...\nall of a sudden, there was an incident.{p}"
+ },
+ {
+  "id": "55:3704",
+  "op": "text",
+  "en": "A student on the track team that Coach Adachi advised killed himself.\nHe jumped from the school roof in the middle of the night.\nHis broken wristwatch had stopped, still pointing to three.{p}"
+ },
+ {
+  "id": "55:37b0",
+  "op": "text",
+  "en": "...The cause was failing his entrance exams.\nIt was the time of year when the third-years had retired from their clubs to study for exams, but...\nthat student loved running, and apparently he kept showing up at practice now and then.\nFor that, the student's parents blamed Coach Adachi viciously.\n\"It's your fault my son killed himself!\nHe failed to get into college because he kept doing track...\nWhat happens to a student who gets distracted by anything but studying at this time of year...\nsurely even a teacher knows that?\nWhy didn't you scold him more strictly?☆\"{p}"
+ },
+ {
+  "id": "55:39ac",
+  "op": "text",
+  "en": "That mother's anguished cry must have pierced Coach Adachi's heart deeply...\nFeeling heavily responsible, Coach Adachi spent night after night unable to sleep.\nDay and night, the coach was racked with self-blame...\nuntil finally, driven to the edge, the coach committed suicide.{p}"
+ },
+ {
+  "id": "55:3aa8",
+  "op": "text",
+  "en": "All sorts of stories have been passed around about how the coach did it.\nAccording to one person I heard from, the coach died by hanging in the old school building.\nAccording to another, the coach jumped from the roof.\nSome say the coach ran out into the road and was hit by a car, while others say the coach died after drinking a deadly chemical.\nWith this many theories, I haven't the faintest idea which one is true.{p}"
+ },
+ {
+  "id": "55:3c1c",
+  "op": "text",
+  "en": "Strangely, though, no matter whose story you hear, they all say the coach died at three in the morning.\nIt was an unfortunate incident that happened back when people had started talking about the 'exam wars.'{p}"
+ },
+ {
+  "id": "55:3cd4",
+  "op": "text",
+  "en": "And from that time on, the rumor of the Three O'Clock Phantom began to spread.\nSome people said the Phantom was really Coach Adachi, while others said it was the track team student who had killed himself.\nThere really are so many rumors going around, you see...{p}"
+ },
+ {
+  "id": "55:3dc4",
+  "op": "text",
+  "en": "...{a}.\nThat's all there is to the story you must never hear.\nYou seem let down.\nBut this is no time to be feeling that way.\nYou see...\nthe people who told me this story have been falling victim to the Three O'Clock Phantom, one after another.\nSome have died...\nSome have shut themselves away in their own world...\nNearly all of them have met a miserable fate.\nThe Three O'Clock Phantom shows itself to whoever hears this 'story you must never hear' for the first time.\nAnd of all of you, the one hearing this story for the first time is......\nOh...?\nIt seems you're the only one, {a}.\nSo everyone else already knew the proper steps of the ritual...{p}"
+ },
+ {
+  "id": "55:402c",
+  "op": "text",
+  "en": "Ah, everyone's nodding.\n...Otherwise, none of you could be here right now.\nJust what I'd expect from people chosen by Hino. You're a well-informed bunch.{p}"
+ },
+ {
+  "id": "55:40e8",
+  "op": "text",
+  "en": "Well then...\nFrom here on, I'll speak for your ears only, {a}.\n...Are you ready?\nRemember well what I'm about to tell you.\nWithout fail, sometime tonight... at three o'clock tomorrow morning, to be exact, the Phantom should appear in this room.\nYou must linger here and wait for it.\nAll by yourself... mind you.\nLingering all alone in this empty club room, waiting for the Phantom...{p}...Understood?\n"
+ },
+ {
+  "id": "55:4248",
+  "op": "choice",
+  "en": "Understood"
+ },
+ {
+  "id": "55:4258",
+  "op": "choice",
+  "en": "No way, I don't want to"
+ },
+ {
+  "id": "55:4270",
+  "op": "text",
+  "en": "Oh my, you've got more nerve than you look.\nThen the first stage of the ritual should succeed.{p}"
+ },
+ {
+  "id": "55:42d8",
+  "op": "text",
+  "en": "Because the first thing that matters in the ritual is to 'linger'... to wait...\nBut, {a}.\nThat's not all there is to it.{p}"
+ },
+ {
+  "id": "55:434c",
+  "op": "text",
+  "en": "...Listen.\nThey may be called Phantoms, but they were originally people, just like us.\nWhether it's Coach Adachi or the track team student...\nboth of them are pitiful spirits who can't pass on because they killed themselves.\nSo they appear, relying on the people who have heard the story.\nThey long to be given a memorial, you see.\nWhen the Phantom appears before you, it will surely state a single wish.\nIt might be water, or a flower they loved, or some kind of food...{p}"
+ },
+ {
+  "id": "55:450c",
+  "op": "text",
+  "en": "You must indulge that wish and grant it.\nWhile praying that they may pass on as soon as possible...{p}...Understood?\n"
+ },
+ {
+  "id": "55:458c",
+  "op": "choice",
+  "en": "Understood"
+ },
+ {
+  "id": "55:459c",
+  "op": "choice",
+  "en": "No way, I don't want to"
+ },
+ {
+  "id": "55:45b4",
+  "op": "text",
+  "en": "I see...\nYou're a kind person.{p}"
+ },
+ {
+  "id": "55:45ec",
+  "op": "text",
+  "en": "'Indulging' their wish is the most important part of the ritual.\nAnd then comes the finishing touch.\nYes, once you've come this far, the rest is easy.\nYou simply close your eyes gently and chant a certain spell.\nIt's not a very difficult spell.\nJust a single word.\nKotodama, I suppose you might call it...\nThey say that short word itself holds a special power.\nThe word is 'Ea.'\nIt's an ancient sacred word, said to mean purification...\nAt the very end of the ritual, you chant the holy word.{p}...Got that?\n"
+ },
+ {
+  "id": "55:47d8",
+  "op": "choice",
+  "en": "Understood"
+ },
+ {
+  "id": "55:47e8",
+  "op": "choice",
+  "en": "No way, I don't want to"
+ },
+ {
+  "id": "55:47f8",
+  "op": "text",
+  "en": "...I see.\n"
+ },
+ {
+  "id": "55:480c",
+  "op": "text",
+  "en": "Hearing you say that puts my mind at ease.\nNow then, be sure to follow every step properly.\nLinger...\nIndulge...\nEa...\nThose three.\n...All right?\nWell then, everyone...\nIt's a real shame, but since {a} now has to wait for the Three O'Clock Phantom, let's call it a day here.\nI'd like to leave our friend in peace, to focus quietly alone...{p}So let's head home now, so we don't get in the way.\n"
+ },
+ {
+  "id": "55:4994",
+  "op": "choice",
+  "en": "Ask them to stay"
+ },
+ {
+  "id": "55:49a0",
+  "op": "choice",
+  "en": "Just watch them go"
+ },
+ {
+  "id": "55:49b0",
+  "op": "text",
+  "en": "Oh, what's the matter?{p}Could it be that you've gotten scared?\n"
+ },
+ {
+  "id": "55:49ec",
+  "op": "choice",
+  "en": "I got scared"
+ },
+ {
+  "id": "55:49f8",
+  "op": "choice",
+  "en": "No, not at all"
+ },
+ {
+  "id": "55:4a24",
+  "op": "text",
+  "en": "I suppose not...\nAfter all, {a}, you were chosen out of the many newspaper club members to be here and hear scary stories.{p}"
+ },
+ {
+  "id": "55:4aa8",
+  "op": "text",
+  "en": "You want to savor a lot more fear, don't you?\nI understand that feeling very, ve-ery well.\nUnless someone loves scary things that much, they could never wait for the Three O'Clock Phantom alone.\nVery well, let's continue the seven wonders.\nI'm not quite sure whether the seventh person will show up, but...\nthere's still plenty of time left until three in the morning, when the Phantom appears.\nNow then, shall we hear the next person's story?{p}"
+ },
+ {
+  "id": "55:4c1c",
+  "op": "text",
+  "en": "You don't?{p}"
+ },
+ {
+  "id": "55:4c38",
+  "op": "text",
+  "en": "...I see.\nI can't believe you lack courage, though...\nPerhaps somewhere inside, you sense the danger lurking in this story.\nWell then, it's a shame, but that's the end of my story.\nHere, after all, what {a} says goes...{p}"
+ },
+ {
+  "id": "55:4d20",
+  "op": "text",
+  "en": "Everyone looks dissatisfied.\n...It's all right.\nLater, I'll teach you all a way to settle that dissatisfaction.{p}"
+ },
+ {
+  "id": "55:4d94",
+  "op": "text",
+  "en": "Without {a} knowing...\nIt's a method with quite a long tradition behind it.\nHm hm hm hm hm...\nYes, you can look forward to its effects, too.\n...Just keep it a secret from {a}, mind you.\nHm hm, hm hm hm hm hm...\nNow then, let's have you move on to the next story.\n...Oh, isn't the next person the last one?\nI wonder what happened to the seventh one...{p}"
+ },
+ {
+  "id": "55:4ec0",
+  "op": "text",
+  "en": "That won't do.\nThis is extremely important.\nOtherwise, {a}...\nyou'll lose your life.\n...Understood?\nYou absolutely must wait for the Phantom.\n...Yes, that's how it should be.{p}"
+ },
+ {
+  "id": "55:4f98",
+  "op": "text",
+  "en": "That won't do!\nI can't allow that.\n{a}...\nDon't you value your own life?\n...Understood?\nYou absolutely must indulge the Phantom's wish.{p}"
+ },
+ {
+  "id": "55:5048",
+  "op": "text",
+  "en": "That won't do.\nWhy can't you promise something this simple?\nWithout this spell, the ritual won't succeed.\nYou'll die, you know.\n...Understood?\nAt the very end of the ritual, you must chant the spell 'Ea.'{p}"
+ },
+ {
+  "id": "55:5124",
+  "op": "text",
+  "en": "At Arai's words, everyone began getting ready to go home.{p}"
+ },
+ {
+  "id": "55:516c",
+  "op": "text",
+  "en": "\"See ya.\"\n\"Bye-bye.\"\nOne after another they said their goodbyes and left the club room.\nAnd last of all, Arai stood in front of the door.{p}"
+ },
+ {
+  "id": "55:51fc",
+  "op": "text",
+  "en": "With a meaningful smile, he said this:\n\"...Well then, {a}.\nGoodbye...\nI'll pray that you live to see tomorrow morning safely.\"{p}"
+ },
+ {
+  "id": "55:52cc",
+  "op": "text",
+  "en": "Once the door closed and I was alone, the room suddenly turned chilly.\nJust a moment ago, I'd even thought it was muggy...\nThe clock on the wall still said it wasn't even ten yet.\nThere was still plenty of time until three in the morning, when the Phantom would appear.\nOkay, while I've got the chance, I'll properly review the ritual steps Arai taught me.{p}If I remember right, the very first thing I have to do is......\n"
+ },
+ {
+  "id": "55:5414",
+  "op": "choice",
+  "en": "Linger, waiting for the Phantom"
+ },
+ {
+  "id": "55:5424",
+  "op": "choice",
+  "en": "Indulge the Phantom's wish"
+ },
+ {
+  "id": "55:543c",
+  "op": "choice",
+  "en": "Chant the holy spell"
+ },
+ {
+  "id": "55:5454",
+  "op": "text",
+  "en": "...Right, right, the first step was to linger, waiting for the Phantom.\nWhich is exactly what I'm doing right now.\nUm...{p}What came after that?\n"
+ },
+ {
+  "id": "55:54c8",
+  "op": "choice",
+  "en": "Indulge the Phantom's wish"
+ },
+ {
+  "id": "55:54e0",
+  "op": "choice",
+  "en": "Chant the holy spell"
+ },
+ {
+  "id": "55:54f8",
+  "op": "text",
+  "en": "...Right, right, the second step was to indulge the Phantom's wish.\nOkay, I'll grant any wish at all.\nBut...\nI hope it doesn't wish for anything too hard...\nAnd finally, I had to chant the holy spell.\nYeah, I'm fine.\nI've got it all memorized.\n...The Phantom can show up any time it likes.{p}"
+ },
+ {
+  "id": "55:562c",
+  "op": "text",
+  "en": "An hour passed......{p}"
+ },
+ {
+  "id": "55:5658",
+  "op": "text",
+  "en": "...Linger, waiting for the Phantom.\n...Indulge the Phantom's wish.\nAnd the holy spell, Ea...\nSo these three make up the all-important ritual that protects me from the Phantom...{p}"
+ },
+ {
+  "id": "55:56f0",
+  "op": "text",
+  "en": "Two hours passed......{p}"
+ },
+ {
+  "id": "55:571c",
+  "op": "text",
+  "en": "...It's still not three.{p}"
+ },
+ {
+  "id": "55:574c",
+  "op": "text",
+  "en": "Three hours passed......{p}"
+ },
+ {
+  "id": "55:5778",
+  "op": "text",
+  "en": "...Linger for the Phantom.\n...Indulge the wish.\n...The spell called Ea.\nThese three are what matter.{p}"
+ },
+ {
+  "id": "55:57dc",
+  "op": "text",
+  "en": "Four hours passed......{p}"
+ },
+ {
+  "id": "55:5808",
+  "op": "text",
+  "en": "Linger...\nIndulge...\nEa......{p}"
+ },
+ {
+  "id": "55:5840",
+  "op": "text",
+  "en": "Five hours passed......{p}"
+ },
+ {
+  "id": "55:586c",
+  "op": "text",
+  "en": "...It's almost three now.\nLinger, indulge, Ea...\nGood, I haven't forgotten.{p}"
+ },
+ {
+  "id": "55:58c8",
+  "op": "text",
+  "en": "\"Linger.\nIndulge.\nEa...!\"\nIn my excitement, I'd shouted it out loud.\nAnd then...\n\"......★\"{p}"
+ },
+ {
+  "id": "55:5940",
+  "op": "text",
+  "en": "Linger..., indulge..., Ea...?\nL... I... E...\nL-I-E...\n...Wait, this is...!{p}"
+ },
+ {
+  "id": "55:59b0",
+  "op": "text",
+  "en": "\"A big, fat LIE!\"\nThere was no Three O'Clock Phantom, not anywhere...\n\"Ugh...\"\nArai had fooled me but good.{p}"
+ },
+ {
+  "id": "55:5a48",
+  "op": "text",
+  "en": "\"Waaaaah!☆\"\nMy scream, from the very bottom of my heart, echoed through the school building in the night.{p}"
+ },
+ {
+  "id": "55:5aac",
+  "op": "text",
+  "en": "And at that very moment there was a click, and every clock in the school was pointing to three.\nIt was the moment a new legend of the Three O'Clock Phantom was born.\n\"They say that at three in the morning, an eerie scream comes from the school building, where no one should be...\nand that it's the voice of the Three O'Clock Phantom......\"{p}"
+ },
+ {
+  "id": "55:5bb0",
+  "op": "text",
+  "en": "No, something feels wrong about that...\nLet me think it over again.{p}"
+ },
+ {
+  "id": "55:5bf4",
+  "op": "text",
+  "en": "Hmm, I feel like I've got something mixed up.\nLet me think it through carefully once more.{p}"
+ },
+ {
+  "id": "55:5c44",
+  "op": "text",
+  "en": "My, my, you really are hopeless.\nIt's a true wonder that someone like you manages to cover the seven wonders.\nI was thinking of leaving you here alone and going home, but I've just changed my mind.\nVery well, we'll stay here with you.\nAnd let's carry on with the seven wonders, shall we?\nLuckily, there's one person left.\nI'm not quite sure whether the seventh person will show up, but...\nthere's still plenty of time left until three in the morning, when the Phantom appears.\nWe'll have {a} experience something even more frightening.\nThat's what you want, isn't it?\n...{a}.\nNow then, shall we hear the next person's story?{p}"
+ },
+ {
+  "id": "55:5e6c",
+  "op": "text",
+  "en": "No, {a}.\nNot that clock.\nI meant the stopped clock next to it.{p}...Would you take it down for me?\n"
+ },
+ {
+  "id": "55:5ef4",
+  "op": "choice",
+  "en": "Take it down"
+ },
+ {
+  "id": "55:5efc",
+  "op": "choice",
+  "en": "Don't take it down"
+ },
+ {
+  "id": "55:5f08",
+  "op": "text",
+  "en": "You won't take it down for me?\nAnd here I am, asking you so earnestly...\nYou're quite a mean person, aren't you, {a}?{p}Don't you want to see the Phantom's true identity for yourself?\n"
+ },
+ {
+  "id": "55:5fbc",
+  "op": "choice",
+  "en": "I do"
+ },
+ {
+  "id": "55:5fc4",
+  "op": "choice",
+  "en": "I don't"
+ },
+ {
+  "id": "55:5fd0",
+  "op": "text",
+  "en": "You do...?\nYou definitely just said so.\nSo you want to see the Phantom's true identity for yourself, too!\nThen please take the clock down.\nI won't let you say no.\n...Understood?\nCome on!{p}"
+ },
+ {
+  "id": "55:608c",
+  "op": "text",
+  "en": "I see.\nSo you think differently from me, {a}.\n...What a shame.\nWell then, it can't be helped.\nLet's give up on summoning the Phantom.\nEveryone, that is the end of my story.\nMy apologies to those of you who were looking forward to meeting the Three O'Clock Phantom, but at today's meeting, {a}'s word is absolute.\nOh...?\nEveryone, you look rather dissatisfied.\nIn that case, I'll teach you a way to resolve that dissatisfaction later.{p}"
+ },
+ {
+  "id": "55:6228",
+  "op": "text",
+  "en": "Without {a} knowing...\nIt's a method with quite a long tradition, you know.\nHm hm hm hm hm...\nOh yes, you can look forward to the results, too.\n...It's a secret from {a} alone, after all.\nHm hm, hm hm hm hm hm...\nNow then, let's move on to the next story.\n...Oh my, isn't the next person the last one?\nI wonder what happened to the seventh one...{p}"
+ },
+ {
+  "id": "55:6350",
+  "op": "text",
+  "en": "{a}...\nWhat are you dawdling for?\nCome on, hurry up and move the hands.{p}"
+ },
+ {
+  "id": "55:63a4",
+  "op": "text",
+  "en": "What's the matter, {a}?\nDon't tell me you've gotten scared now, at this point...\n...You aren't going to say that, are you?\nSaying that won't do you any good.\nIf you won't move them, I'll move them myself.\nLend me the clock, please...{p}"
+ },
+ {
+  "id": "55:647c",
+  "op": "text",
+  "en": "There, that's all it takes.\nYou heard it too, didn't you?\nThere was definitely a click just now, wasn't there?{p}"
+ },
+ {
+  "id": "55:64f4",
+  "op": "text",
+  "en": "\"...Huh★\nYou're saying you want me to move them?\"\n\"Yes, that's right.\nI really think something like this should be left to a senior.\nPlease, Arai, you move them.\"\nIt was a golden chance, sure, but Arai was far better suited to the role than I was.{p}"
+ },
+ {
+  "id": "55:6600",
+  "op": "text",
+  "en": "\"R-really...?\"\n\"Yes, absolutely.\"\n\"Well then, I won't hold back...\"\nWith that, Arai bashfully reached for the clock, and just as he did...{p}"
+ },
+ {
+  "id": "55:66b8",
+  "op": "text",
+  "en": "...Huh?\nThe hands moved before he had even touched them.{p}"
+ },
+ {
+  "id": "55:6708",
+  "op": "text",
+  "en": "What on earth just happened★\n\"{a}...\"\nArai was staring at the clock, wide-eyed, too.\n...Was this the Phantom's doing as well?\nHe had to be thinking that.\nBecause I was thinking the same...\n...But then.{p}"
+ },
+ {
+  "id": "55:67d4",
+  "op": "text",
+  "en": "\"Geez, what's with you two?\nWhy the shocked faces?\"\nOne of the girl members poked her head out from behind the clock.\n\"You moved them?\"\n\"That's right.\nI mean, if we left it to you two, this story would never get anywhere.\"{p}"
+ },
+ {
+  "id": "55:68b0",
+  "op": "text",
+  "en": "...I suddenly felt completely drained.\nApparently this girl hadn't noticed the friendship, the affection, or whatever it was that had just passed between Arai and me.{p}"
+ },
+ {
+  "id": "55:695c",
+  "op": "text",
+  "en": "\"But...\nIt is three o'clock now, at least, isn't it?\nThe hand gave a little twitch...\"\nThough he looked disappointed, Arai's voice sounded a little excited.\nI looked at the clock again.{p}"
+ },
+ {
+  "id": "55:6a18",
+  "op": "text",
+  "en": "It was three o'clock, all right.\n...But would the Phantom really appear?{p}"
+ },
+ {
+  "id": "55:6a6c",
+  "op": "text",
+  "en": "What are you saying, now of all times!{p}"
+ },
+ {
+  "id": "55:6aa0",
+  "op": "text",
+  "en": "...Aha.\nSo you got scared after all.\nYou're actually a coward, aren't you, {a}?\nNo, I'm not blaming you.\nObserving people like you is rather entertaining, you see.{p}"
+ },
+ {
+  "id": "55:6b5c",
+  "op": "text",
+  "en": "Still, what bothers me is...\nWhy would the newspaper club entrust the seven wonders interviews to someone like you?\n...I can only think it was plain spite.{p}"
+ },
+ {
+  "id": "55:6bf4",
+  "op": "text",
+  "en": "{a}...\nThe truth is, they hate you, don't they?\nForgive me for kicking you while you're down, but I do believe the Phantom will appear.{p}"
+ },
+ {
+  "id": "55:6ca0",
+  "op": "text",
+  "en": "{a}...\nI don't know that either.\nBut I believe the Phantom will appear.{p}"
+ },
+ {
+  "id": "55:6d14",
+  "op": "text",
+  "en": "I see...\nSo that's what you think, {a}.\n...I'm a little disappointed.\nI thought that you at least, {a}, would believe it, even if it was a false rumor...\nOh, but that doesn't mean I blame you, {a}.\nI know perfectly well that rumors are unreliable things.\nEven so, I end up believing them.\nNo matter how dubious the rumor is...\n...I suppose you'd call me gullible.\nIt was the same this time...{p}"
+ },
+ {
+  "id": "55:6eb0",
+  "op": "text",
+  "en": "That may be so.\nIt's a rumor that's been passed down for a very long time...\nIt's hard to imagine the clock from back then would still be around, isn't it?\n{a}...\nI'm truly disappointed.{p}"
+ },
+ {
+  "id": "55:6f64",
+  "op": "text",
+  "en": "I watched carefully.\nOne minute... two minutes...\nThe door stayed open a crack...\nThere was no sign of anyone on the other side.\nWas it just her imagination?\nIf not, then whoever had been peeking must have been startled by her scream and run off.\n\"{a}. Hurry up and close the door.\"\nSince nothing had happened for a while, she seemed a little relieved, but...\nShe still didn't seem comfortable with the door left open.\n\"All right.\"\nI nodded lightly and got up from my seat.{p}"
+ },
+ {
+  "id": "55:711c",
+  "op": "text",
+  "en": "I hurriedly shut the door.\nChase that thing? No way!\nThat was a terrifying monster.\nEvery cell in my body was telling me so.\nHad the others seen it?\nPart of me wanted to ask, but I'd hold off for now.\nAnyway, one more story and everyone would be done.\nAt least until then, I wanted to pretend it had all been my imagination.\n\"Arai, unfortunately it doesn't seem to have been the Phantom.\nWe're short on time, so let's move on to the next story.\"{p}"
+ },
+ {
+  "id": "55:72e0",
+  "op": "text",
+  "en": "\"I see...\nIf you say so, {a}, then it can't be helped.\nBut please wait a little before we move on to the next story.\nIf the Three O'Clock Phantom does not appear...\nthere is something I must do.\"\nWith that, Arai began to speak, haltingly, bit by bit.{p}"
+ },
+ {
+  "id": "55:73d4",
+  "op": "text",
+  "en": "Up...!\nTrusting my gut, I ran up the stairs.\nUnlike the other staircases, if I remembered right, this one had no exits between this floor and the roof.\nIf I was lucky, I might be able to corner the Phantom...\nWith a faint hope, I quickened my pace.\nBut however far I climbed, I saw nothing that looked like it.\nFurther up...!\nI picked up my pace even more and climbed the stairs.{p}"
+ },
+ {
+  "id": "55:7530",
+  "op": "text",
+  "en": "At last I came out onto the roof.\n...But the Phantom wasn't there either.\nHad it melted into the darkness of the night...?\nAs I looked around, the wind brushed my cheek.\nIt was lukewarm and a little damp... a clammy, sticky wind.\nMaybe it was my imagination, but I even thought I caught a faint smell of blood mixed in.{p}"
+ },
+ {
+  "id": "55:763c",
+  "op": "text",
+  "en": "...Drip.\nThe instant I thought that, a dark stain spread at my feet.\nCould this be... blood★\nWhen I fearfully touched it with my finger, it felt slimy, and a metallic smell drifted up.\nThe liquid on my fingertip looked reddish even in the darkness of the night.{p}"
+ },
+ {
+  "id": "55:7730",
+  "op": "text",
+  "en": "...Trickle.\nI felt something run down my cheek, and every hair on my body stood on end.\n...There was no doubt.\nThis was blood...\nAnd it was my own blood.\nWhen, and where, had I cut myself?\nThat clinging wind blew again.{p}"
+ },
+ {
+  "id": "55:780c",
+  "op": "text",
+  "en": "At the same moment, a cut like a thin line ran across my palm.\nBeads of red blood welled up from the wound at once, and in no time they came trickling out.{p}"
+ },
+ {
+  "id": "55:7898",
+  "op": "text",
+  "en": "...Snick.\nAnother cut opened.{p}"
+ },
+ {
+  "id": "55:78c8",
+  "op": "text",
+  "en": "Snick, snick...\nWith every gust of that sticky wind, more cuts appeared on my body.\nWas this the Three O'Clock Phantom's doing★\nEither way, it was dangerous to stay here any longer.\nI had to hurry back to the newspaper club.{p}"
+ },
+ {
+  "id": "55:7990",
+  "op": "text",
+  "en": "I hurried down the stairs.\nI hadn't been able to get a clear look at the Three O'Clock Phantom, but...\n...that was enough.\nIf the seventh one didn't come, the next story would be the last...\nOnce I'd heard it out, I'd go straight home.\nI couldn't stay in a place like this any longer.{p}"
+ },
+ {
+  "id": "55:7a84",
+  "op": "text",
+  "en": "\"No.\nUnfortunately, I didn't see anything like that.\"{p}"
+ },
+ {
+  "id": "55:7acc",
+  "op": "text",
+  "en": "\"...I see.\"\nArai muttered just that, then fell completely silent.\n...There's no point staying here like this.\nI managed to get to my feet on my own, urged Arai along, and went back to the club room.{p}"
+ },
+ {
+  "id": "55:7b9c",
+  "op": "text",
+  "en": "The remaining members were all sitting there, looking bored.\nArai was still silent.\n...What should I do?\nIf Arai's story was over, maybe I should move on to the next one...\nJust as I thought that, Arai, who had been silent all this time, suddenly spoke.{p}"
+ },
+ {
+  "id": "55:7cbc",
+  "op": "text",
+  "en": "{a}...\nI'm truly sorry.\n"
+ },
+ {
+  "id": "55:7ce8",
+  "op": "text",
+  "en": "Since these are the seven wonders, I wanted to let you write a wonderful article, {a}!\nThat's why I tried to summon the Three O'Clock Phantom.\nBut the Phantom didn't appear.{p}"
+ },
+ {
+  "id": "55:7d90",
+  "op": "text",
+  "en": "I can't let my story end like this.\nI will take responsibility and summon the Phantom myself, you'll see.\nI want you to write a splendid article, {a}.\nAll right?\nI have a clock here.\nIt's old, isn't it?\nIt's my treasure.\nI'm giving this clock to you, {a}.{p}{a}, you'll accept it, won't you?\n"
+ },
+ {
+  "id": "55:7eb4",
+  "op": "choice",
+  "en": "Accept it"
+ },
+ {
+  "id": "55:7ec0",
+  "op": "choice",
+  "en": "Don't accept it"
+ },
+ {
+  "id": "55:7ed8",
+  "op": "text",
+  "en": "You'll accept it?\n...Good. That is as it should be.{p}"
+ },
+ {
+  "id": "55:7f18",
+  "op": "text",
+  "en": "Look.\nThis clock is stopped at 2:59 too, isn't it?\n...Now then, {a}.\nWhen I give the signal, please set the hands to three o'clock.{p}All right?\n"
+ },
+ {
+  "id": "55:7fb8",
+  "op": "choice",
+  "en": "All right"
+ },
+ {
+  "id": "55:7fc8",
+  "op": "choice",
+  "en": "I don't want to do that"
+ },
+ {
+  "id": "55:7ffc",
+  "op": "text",
+  "en": "\"Here we go.\nFive... four...\"\n"
+ },
+ {
+  "id": "55:8028",
+  "op": "text",
+  "en": "Arai's eyes were glittering, and his breathing was ragged.\n\"Three... two...\"{p}"
+ },
+ {
+  "id": "55:8070",
+  "op": "text",
+  "en": "I hadn't seen him take it out, but a box cutter was gleaming in his hand.{p}"
+ },
+ {
+  "id": "55:80cc",
+  "op": "text",
+  "en": "\"One...☆{p}Now!\"\n"
+ },
+ {
+  "id": "55:80e8",
+  "op": "choice",
+  "en": "Set the hands"
+ },
+ {
+  "id": "55:80f4",
+  "op": "choice",
+  "en": "Don't set the hands"
+ },
+ {
+  "id": "55:8100",
+  "op": "text",
+  "en": "I didn't set the hands.\nNo matter how I looked at it, Arai wasn't acting normal.\nSeeing him like that, there was no way I could do what he told me.\nI just stared at Arai, my fingers frozen stiff.\nAnd yet......{p}"
+ },
+ {
+  "id": "55:8218",
+  "op": "text",
+  "en": "......Click.\nThe clock in my hand made a small sound.{p}"
+ },
+ {
+  "id": "55:8284",
+  "op": "text",
+  "en": "At that instant, the box cutter's blade flashed...{p}"
+ },
+ {
+  "id": "55:82c8",
+  "op": "text",
+  "en": "A girl screamed.\nBright red blood was spurting from between her eyebrows.\n\"...Arai★\"\n\"This is how it should be...\nEvery legend, after all, has to have a beginning...\"{p}"
+ },
+ {
+  "id": "55:8388",
+  "op": "text",
+  "en": "The box cutter's blade flashed again, and fresh blood sprayed.\nThis time it was the throat of a boy next to Arai, split wide open.\n\"Right now, from this very place, the true legend of the Three O'Clock Phantom begins.\"\nWearing a bloodcurdling smile, Arai fell upon the members one after another.\nIn no time the room became a sea of blood.\nBoys and girls alike lay slashed all over, blood gushing out of them.\nIn the end, the only ones left alive in this room were Arai and me.\nHis shoulders heaving with each breath, Arai looked down at the members' corpses sprawled across the floor.\nThen he slowly raised his face and looked at me.\nHis gaze held a cold light, like the moon in a winter sky.{p}"
+ },
+ {
+  "id": "55:8604",
+  "op": "text",
+  "en": "Gleam...\nThe crimson-stained box cutter glinted in Arai's hand.\nThere was no doubt.\n...I was next.{p}"
+ },
+ {
+  "id": "55:8684",
+  "op": "text",
+  "en": "Splurt...\nAn especially thick smell of blood hit me, and lukewarm liquid splashed across my face.{p}"
+ },
+ {
+  "id": "55:86dc",
+  "op": "text",
+  "en": "But the one bleeding was Arai.\nBright red blood was spraying from Arai's wrist.\n\"Remember this, {a}.\nThis is the Three O'Clock Phantom.\nNone other than me...☆\"\nTwisting his blood-smeared face, Arai grinned.\n\"Well then, {a}...\nPlease write a wonderful article.\nI'll be looking forward to it...\"{p}"
+ },
+ {
+  "id": "55:8820",
+  "op": "text",
+  "en": "Arai spun around and ran off into the darkness of the hallway.{p}"
+ },
+ {
+  "id": "55:8874",
+  "op": "text",
+  "en": "How had it come to this...?\nI looked around the blood-soaked room, thinking dazedly.\nWhat would everyone think when they saw this carnage...?\nMy parents...?\nThe teachers...?\nHino...?\nThat's right, the police would call me in, too.\nWhen they did, I'd have no choice but to answer like this:\n\"The Three O'Clock Phantom appeared......\"\n...Just that.{p}"
+ },
+ {
+  "id": "55:89b0",
+  "op": "text",
+  "en": "\"Don't say that, please accept it.\nYou don't need to be so modest.\"\n\"What?\nW-wait... wait a minute, Arai!\"\nArai took my hand and forced the clock into my grip, practically screwing it in.{p}"
+ },
+ {
+  "id": "55:8a74",
+  "op": "text",
+  "en": "\"Don't say that, please set them.\nAll right?\nHere we go.{p}"
+ },
+ {
+  "id": "55:8acc",
+  "op": "text",
+  "en": "Five... four...\"{p}"
+ },
+ {
+  "id": "55:8afc",
+  "op": "text",
+  "en": "......Click.\nThe clock in my hand made a small sound.\nAt that moment...\n\"Hey, don't do anything stupid!\"\nOne of the members suddenly shouted.{p}"
+ },
+ {
+  "id": "55:8b94",
+  "op": "text",
+  "en": "He was desperately pinning both of Arai's arms.\n\"...Ah!\"\nI froze when I saw Arai's restrained hands.\nHis right hand, gripping the box cutter...\nAnd his left hand, drained of blood and gone pure white...\nFrom that left wrist, bright red blood was seeping out in a thin line.{p}"
+ },
+ {
+  "id": "55:8cac",
+  "op": "text",
+  "en": "\"L-let go of me!\"\n\"What are you talking about?\nYou trying to kill yourself?!\"\n\".........\"\nThe strength drained out of Arai's body...\nAnd the box cutter in his right hand dropped to the floor.\nAnother member quickly pinned it under a foot.\nSeeing that, Arai seemed to give up as well.{p}"
+ },
+ {
+  "id": "55:8dcc",
+  "op": "text",
+  "en": "He slumped his shoulders limply and hung his head.\n\"Don't pull anything that stupid.\"\nThe arms holding Arai let go.\n\"...But what choice did I have?\"\nArai's voice had turned tearful.\n\"If the Three O'Clock Phantom didn't appear, then I'd have to become the Phantom myself...\nHino said I could at least manage that much......\"\n...What★\nHino said something like that...?\nWhat kind of person would do that?\n\"Honestly, this is the trouble with you newspaper club people.\nYou'll turn anything into a story.\nEven people's lives!\n...{a}, you're no different.\"{p}"
+ },
+ {
+  "id": "55:8fd0",
+  "op": "text",
+  "en": "Ba-dump...!\nI felt as if my heart was being crushed in someone's fist.\nBecause I understood painfully well what he meant.{p}"
+ },
+ {
+  "id": "55:9048",
+  "op": "text",
+  "en": "Earlier...\nWhile I was waiting for the signal, I had clearly seen the box cutter in Arai's hand.\nAnd I'd had a feeling that something was going to happen.\n...No, maybe somewhere in my heart, I had been hoping for it.\nIn the end, I was no different from Hino...\n\"Hey, everyone.\nLet's call off this messed-up get-together right now.\"\n...It couldn't be helped.\nIf that's what everyone thought was best, I had no right to stop them.{p}"
+ },
+ {
+  "id": "55:91ec",
+  "op": "text",
+  "en": "\"Please, wait.\nIt isn't {a}'s fault.\nI'm the one who pushed him into it...\"\nArai was smiling brightly, tears in his eyes.{p}"
+ },
+ {
+  "id": "55:92a0",
+  "op": "text",
+  "en": "\"{a}, please don't let it bother you, and go on.\nThere's only one person left, isn't there?\nMy wound isn't serious, either...\"\n\"...I see.\nWell, if you say so, I guess there's nothing for it.\n{a}... let's keep the seven wonders going.\"\n\"Y-yes...!\"\nEveryone's eyes turned to me.\nFeeling a little afraid of their stares, I went on.\n\"...Well then, let me continue.\nNext is the sixth story......\"{p}"
+ }
+]

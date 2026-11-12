@@ -1,0 +1,323 @@
+{
+ "slice": "S003",
+ "scene": "01",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S002",
+ "next": "S004",
+ "rows": [
+  {
+   "id": "01:aea4",
+   "op": "choice"
+  },
+  {
+   "id": "01:aed0",
+   "op": "text",
+   "follows_choice": [
+    "01:ae90"
+   ]
+  },
+  {
+   "id": "01:b284",
+   "op": "text"
+  },
+  {
+   "id": "01:b3c4",
+   "op": "text"
+  },
+  {
+   "id": "01:b664",
+   "op": "text"
+  },
+  {
+   "id": "01:b794",
+   "op": "choice"
+  },
+  {
+   "id": "01:b79c",
+   "op": "choice"
+  },
+  {
+   "id": "01:b7b8",
+   "op": "text",
+   "follows_choice": [
+    "01:b794"
+   ]
+  },
+  {
+   "id": "01:b8f4",
+   "op": "text",
+   "follows_choice": [
+    "01:20b4"
+   ]
+  },
+  {
+   "id": "01:bad4",
+   "op": "text"
+  },
+  {
+   "id": "01:bbf8",
+   "op": "text"
+  },
+  {
+   "id": "01:bce8",
+   "op": "choice"
+  },
+  {
+   "id": "01:bd04",
+   "op": "choice"
+  },
+  {
+   "id": "01:bd1c",
+   "op": "choice"
+  },
+  {
+   "id": "01:bd2c",
+   "op": "choice"
+  },
+  {
+   "id": "01:bd3c",
+   "op": "text",
+   "follows_choice": [
+    "01:bce8"
+   ]
+  },
+  {
+   "id": "01:bed4",
+   "op": "text"
+  },
+  {
+   "id": "01:c100",
+   "op": "text"
+  },
+  {
+   "id": "01:c31c",
+   "op": "text"
+  },
+  {
+   "id": "01:c3f8",
+   "op": "text"
+  },
+  {
+   "id": "01:c494",
+   "op": "text"
+  },
+  {
+   "id": "01:c55c",
+   "op": "text"
+  },
+  {
+   "id": "01:c84c",
+   "op": "text"
+  },
+  {
+   "id": "01:c910",
+   "op": "text",
+   "follows_choice": [
+    "01:bd04"
+   ]
+  },
+  {
+   "id": "01:c9c0",
+   "op": "text",
+   "follows_choice": [
+    "01:bd1c"
+   ]
+  },
+  {
+   "id": "01:ca44",
+   "op": "text",
+   "follows_choice": [
+    "01:bd2c"
+   ]
+  },
+  {
+   "id": "01:cc7c",
+   "op": "text",
+   "follows_choice": [
+    "01:2aa8"
+   ]
+  },
+  {
+   "id": "01:cf44",
+   "op": "choice"
+  },
+  {
+   "id": "01:cf54",
+   "op": "choice"
+  },
+  {
+   "id": "01:cf6c",
+   "op": "text",
+   "follows_choice": [
+    "01:cf44"
+   ]
+  },
+  {
+   "id": "01:d154",
+   "op": "choice"
+  },
+  {
+   "id": "01:d170",
+   "op": "choice"
+  },
+  {
+   "id": "01:d190",
+   "op": "choice"
+  },
+  {
+   "id": "01:d1b0",
+   "op": "text",
+   "follows_choice": [
+    "01:d154"
+   ]
+  },
+  {
+   "id": "01:d1d8",
+   "op": "text"
+  },
+  {
+   "id": "01:d2b0",
+   "op": "text"
+  },
+  {
+   "id": "01:d4d4",
+   "op": "text"
+  },
+  {
+   "id": "01:d69c",
+   "op": "text"
+  },
+  {
+   "id": "01:d7a8",
+   "op": "text",
+   "follows_choice": [
+    "01:cf54"
+   ]
+  },
+  {
+   "id": "01:d830",
+   "op": "text"
+  },
+  {
+   "id": "01:d8a4",
+   "op": "text"
+  },
+  {
+   "id": "01:d92c",
+   "op": "text"
+  },
+  {
+   "id": "01:d9f8",
+   "op": "text"
+  },
+  {
+   "id": "01:dab8",
+   "op": "text"
+  },
+  {
+   "id": "01:dcd0",
+   "op": "text"
+  },
+  {
+   "id": "01:df0c",
+   "op": "text"
+  },
+  {
+   "id": "01:e0c8",
+   "op": "text"
+  },
+  {
+   "id": "01:e1f4",
+   "op": "text",
+   "follows_choice": [
+    "01:d170"
+   ]
+  },
+  {
+   "id": "01:e250",
+   "op": "text",
+   "follows_choice": [
+    "01:d190"
+   ]
+  },
+  {
+   "id": "01:e2f4",
+   "op": "text",
+   "follows_choice": [
+    "01:2ad4"
+   ]
+  },
+  {
+   "id": "01:e3bc",
+   "op": "text"
+  },
+  {
+   "id": "01:e448",
+   "op": "text"
+  },
+  {
+   "id": "01:e610",
+   "op": "text",
+   "follows_choice": [
+    "01:2ae8"
+   ]
+  },
+  {
+   "id": "01:e6d0",
+   "op": "text"
+  },
+  {
+   "id": "01:e800",
+   "op": "text"
+  },
+  {
+   "id": "01:ea48",
+   "op": "text"
+  },
+  {
+   "id": "01:ebd0",
+   "op": "text"
+  },
+  {
+   "id": "01:ecb0",
+   "op": "text",
+   "follows_choice": [
+    "01:3784"
+   ]
+  },
+  {
+   "id": "01:ed78",
+   "op": "text"
+  },
+  {
+   "id": "01:ee98",
+   "op": "text",
+   "follows_choice": [
+    "01:b79c"
+   ]
+  },
+  {
+   "id": "01:f098",
+   "op": "text",
+   "follows_choice": [
+    "01:aea4"
+   ]
+  },
+  {
+   "id": "01:f260",
+   "op": "text"
+  },
+  {
+   "id": "01:f288",
+   "op": "text"
+  },
+  {
+   "id": "01:f348",
+   "op": "text"
+  },
+  {
+   "id": "01:f414",
+   "op": "text"
+  }
+ ]
+}

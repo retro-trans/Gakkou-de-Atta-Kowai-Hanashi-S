@@ -1,0 +1,411 @@
+{
+ "slice": "S115",
+ "scene": "28",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S114",
+ "next": "S116",
+ "todo": [],
+ "rows": [
+  {
+   "id": "28:13504",
+   "op": "text",
+   "en": "I couldn't take it, and I fainted on the spot.\nOf course, I lost the race.{p}"
+  },
+  {
+   "id": "28:13568",
+   "op": "text",
+   "en": "But by then, none of that mattered anymore.\nI figured I was lucky just to get out of it alive.{p}"
+  },
+  {
+   "id": "28:135dc",
+   "op": "text",
+   "follows_choice": [
+    "28:5444"
+   ],
+   "en": "There was a click.\n{f:Did it hang up?|So it hung up.}\n{f:I|I} looked over at the phone.{p}"
+  },
+  {
+   "id": "28:13640",
+   "op": "text",
+   "en": "Then I saw that the receiver was off the hook.\n{f:What?|Why?}\nThere was no one in this room but {f:me|me}.\nWas I supposed to believe the receiver had come off by itself{f:?|?}\nThat was ridiculous.\n{f:I|I} picked up the receiver.\nThen, before I had even brought it to my ear, I heard a hoarse voice.{p}"
+  },
+  {
+   "id": "28:13758",
+   "op": "text",
+   "en": "\"You know too much...\"\nI couldn't tell if the voice was a man's or a woman's, young or old{f:.|.}\n\"Hello? Who is this?\"\nI tried speaking into the receiver.\n\"You would have been better off not knowing. Why do you go around digging...?\"\nDigging around?\nWhat did {f:I|I} ever dig into{f:?|?}\nThe only reporting {f:I|I} had done was...\n\"Do you mean the school's seven wonders?\nBut what does that have to do with...\"\nCutting {f:me|me} off, the voice handed down a grave sentence.{p}"
+  },
+  {
+   "id": "28:13924",
+   "op": "text",
+   "en": "\"Death to whoever learns all seven wonders!\nThat is the law of old.\"\nAt the same moment, I heard something whistle through the air.{p}"
+  },
+  {
+   "id": "28:139ac",
+   "op": "text",
+   "en": "The next instant, a searing pain shot through my ear.\n\"Ugh★\"\nA tingling numbness ran through me, like an electric shock.\nI threw down the receiver and clutched my ear.\nIt was hot.\nHot liquid was oozing out, thick and slow.\nBlood{f:!|!}\nFrom the receiver lying on the floor came a voice tinged with laughter.\n\"I have driven a cursed needle into you.\nIt will bore into your brain, a needle that can never be removed...\"\nA cursed needle?{p}"
+  },
+  {
+   "id": "28:13b08",
+   "op": "text",
+   "en": "The pain blurred my vision.\nWhy did this have to happen to {f:me|me}...?\nAs though it had heard {f:my|my} thoughts, the voice laughed again.\n\"I told you. You know too much... I cannot let you live.\"\nAll this, over a school's seven wonders★\nI tried to scream, but no voice came out anymore.\nWas it something {f:I|I} was never meant to know?\nCome to think of it, anyone who could attack through a telephone couldn't be an ordinary human.{p}"
+  },
+  {
+   "id": "28:13c98",
+   "op": "text",
+   "en": "Something was throbbing inside my head.\nWas it the sound of blood pouring out of {f:my|my} body{f:?|?}\nEverything before my eyes grew hazy.\nI couldn't even think straight anymore.\nWere Hosoda and the others all right{f:?|?}\nThinking about that, {f:I|I} collapsed into a pool of blood.\nMaybe the seven wonders hid some far more important meaning.\nBut it was too late now.\n{f:I|I} weakly closed my eyes.{p}"
+  },
+  {
+   "id": "28:13e40",
+   "op": "text",
+   "en": "{f:I|I} picked up the receiver.\n\"...Hello, this is {a}.\"\n\"Oh, {a}{f:|}? It's me.\"\n\"Huh?\"\nThe voice was strangely overfamiliar.\nWho on earth could it be{f:?|?}\n\"Aw, come on, you've forgotten me already?\nWe were together just a little while ago.\"\n\"Oh! Hosoda.\"\n\"Hey, you remembered me. I'm so glad.\nActually, there's something I want to talk to you about. Will you hear me out?\"\n\"Uh, sure...\"\n\"Thanks. I just knew you'd listen to me.\nYou remember Mr. Kuroki's story from earlier, right?\"\n\"Yes.\"\n\"Y'know, even after I got home, I couldn't stop thinking about that wall.\nI wonder if his story was really true.\"{p}"
+  },
+  {
+   "id": "28:140a0",
+   "op": "text",
+   "follows_choice": [
+    "28:5944",
+    "28:17868"
+   ],
+   "en": "\"Aren't you getting a little carried away?\n{f:I|I} don't think this is a good idea.\"\nAt {f:my|my} words, Hosoda seemed to get angry.\n\"Come on, and you call yourself a newspaper club member★\nHow do you expect to cut it if you don't have the guts to charge into the scene and grab a scoop★\"\nHe was really worked up.\nHosoda's voice was strangely harsh.\nI could even hear him breathing hard through his nose.\n...What should I do?{p}"
+  },
+  {
+   "id": "28:14210",
+   "op": "text",
+   "follows_choice": [
+    "28:5b88",
+    "28:17ab0"
+   ],
+   "en": "\"That's enough already.\nCalling this late at night, you have no common sense at all!\"\n{f:I|I} ended up shouting before I knew it.\nFor a moment, Hosoda was speechless.\n\"...{a}{f:|}... How dare you say something like that to me, your senior...\"\n\"If you're my senior, then why don't you act like one★\n{f:I'm|I'm} sleepy. Goodbye.\"{p}"
+  },
+  {
+   "id": "28:14354",
+   "op": "text",
+   "en": "Having ranted at him without letting him get a word in, {f:I|I} hung up.\nMaybe I had gone a little too far.\nBut I had just been through such a terrible ordeal today{f:.|.}\nIt was only natural to be a little on edge{f:.|.}{p}"
+  },
+  {
+   "id": "28:14438",
+   "op": "text",
+   "en": "Convincing {f:myself|myself} of that, I crawled into bed.\n...I was so wound up, I didn't think I'd ever get to sleep.{p}"
+  },
+  {
+   "id": "28:144b0",
+   "op": "text",
+   "en": "But at some point, I {f:must have dozed off|dozed off}.\nA flapping sound woke me up.\nWhat{f:?|?}\nThe curtains were fluttering.\nHad {f:I|I} forgotten to close the window{f:?|?}\nAs I tried to sit up, I realized someone was in my room.{p}"
+  },
+  {
+   "id": "28:145e4",
+   "op": "text",
+   "en": "\"So you're awake.\"\nThat voice... Hosoda★\n\"Wh-why...?\"\n\"I looked up your address in the school roster.\nForgetting to lock the door... You're a careless one, aren't you?\"\nGiggling, Hosoda put his hand in his pocket.\nWhat he pulled out was a fruit knife{f:.|.}\nEven in the dark, I could see the blade glint.{p}"
+  },
+  {
+   "id": "28:14704",
+   "op": "text",
+   "en": "\"{a}{f:|}, you made a fool of me, didn't you?\nYou know, I really hate being made a fool of.\"\nHe spoke in the same tone he had used that afternoon.\nThat made the knife clenched in his hand seem all the more out of place.\nWhat was he {f:going|going} to do★{p}"
+  },
+  {
+   "id": "28:147e4",
+   "op": "text",
+   "en": "\"Sorry, but you're going to have to die.\nI don't forgive anyone who makes a fool of me.\"{p}"
+  },
+  {
+   "id": "28:14838",
+   "op": "text",
+   "en": "Still smiling, Hosoda raised the knife high.{p}"
+  },
+  {
+   "id": "28:14878",
+   "op": "text",
+   "en": "Taking a gamble, {f:I|I} flung my blanket at him.\nIt landed over Hosoda with a whump.\n\"Whoa★\"\nNow{f:!|!}\n{f:I|I} slipped past him and tried to dash out of the room.{p}"
+  },
+  {
+   "id": "28:14934",
+   "op": "text",
+   "en": "But just then, a burning impact struck my neck.{p}"
+  },
+  {
+   "id": "28:1496c",
+   "op": "text",
+   "en": "I looked down with just my eyes.\nA fruit knife, stuck deep in {f:my|my} neck.{p}"
+  },
+  {
+   "id": "28:149bc",
+   "op": "text",
+   "en": "\"That was a close one.\nBut I win...\"\nI heard Hosoda's delighted voice.\n{f:I|I} sprayed blood everywhere as I crashed to the cold floor.{p}"
+  },
+  {
+   "id": "28:14a4c",
+   "op": "text",
+   "follows_choice": [
+    "28:5bb0",
+    "28:17ad8"
+   ],
+   "en": "\"I'm worn out today, so please give me a break.\nIf you're going, could you go by yourself?\"\nThat was how {f:I|I} turned him down.\n\"I see...\"\nHosoda sounded crestfallen.\nWould this make him change his mind{f:?|?}\nBut that thought didn't last long.\n\"All right. Then I'll go alone.\"\nWith that, Hosoda hung up.{p}"
+  },
+  {
+   "id": "28:14ba4",
+   "op": "text",
+   "en": "Was he serious{f:?|?}\nWould he be all right{f:?|?}\nBut {f:I|I} had told him I wasn't going.\nHosoda was on my mind, but {f:I|I} crawled into bed.\nI really was tired{f:.|, after all.}\nI wanted to get even a little sleep.{p}"
+  },
+  {
+   "id": "28:14c9c",
+   "op": "text",
+   "en": "The next day, when I got to school, the place was strangely noisy.\nWhat had happened{f:?|?}\nSpotting a classmate, {f:I|I} called out.\n\"Oh, morning, {a}.\nThey say Hosoda, the second-year, was found dead in the old school building, burned to a crisp.\"\nHosoda★\n{f:I|I} took off running.{p}"
+  },
+  {
+   "id": "28:14db8",
+   "op": "text",
+   "en": "A rope had been strung across the front of the old school building.\nAnd in front of it stood Mr. Kuroki.{p}"
+  },
+  {
+   "id": "28:14e0c",
+   "op": "text",
+   "en": "When he spotted {f:me|me}, his face clouded over.\n\"Hosoda...\"\n\"I heard. What happened?\"\n\"I don't know.\nBut I'm sure he incurred the wrath of something lurking in the old school building.\"\nThat was what Mr. Kuroki said.{p}"
+  },
+  {
+   "id": "28:14ed4",
+   "op": "text",
+   "en": "Maybe so.\nHosoda had been obsessed with yesterday's story.\nJust as he told {f:me|me}, he {f:must have|probably} tried to see{g} what was on the other side of that wall.\nAnd at midnight, of all times, the hour of monsters.{p}"
+  },
+  {
+   "id": "28:14fa8",
+   "op": "text",
+   "en": "\"Access to the old school building is going to be a lot stricter from now on.\nNo one gets inside until the demolition starts.\"\nThat was what Mr. Kuroki said.\nMaybe he regretted what happened yesterday, too.\nThis was the end of it{f:.|.}\nThe mysteries of the old school building would never be solved now{f:.|.}\nI felt a little let down, but mostly I was relieved.\nLife needs a bit of mystery{f:, but|, but} you have to be alive to enjoy anything{f:.|.}\n{f:I|I} made a firm resolution not to poke into the seven wonders any further.{p}"
+  },
+  {
+   "id": "28:1517c",
+   "op": "text",
+   "follows_choice": [
+    "28:6540"
+   ],
+   "en": "I'd be lying if I said I wasn't curious.\n{f:I|I} decided to just keep watching.\n\"Hyaaah-ha-ha-ha!\"{p}"
+  },
+  {
+   "id": "28:151f8",
+   "op": "text",
+   "en": "Laughing wildly, Hosoda switched on the saw.\nIts shrill, grating whine echoed through the school at night.\nBecause of it, {f:I|I} never noticed the presence creeping up on us.\nJust as Hosoda was about to press the spinning blade to the wall...\nSomeone shot past right beside {f:me|me} like the wind.{p}"
+  },
+  {
+   "id": "28:1531c",
+   "op": "text",
+   "en": "It was Mr. Kuroki{f:!|!}\nHe shoved Hosoda aside and snatched the saw away.{p}"
+  },
+  {
+   "id": "28:15370",
+   "op": "text",
+   "en": "\"You two!\"\nI thought we were going to get yelled at.\n{f:But|But} when he turned around, his face had changed.\nIt was as if he was looking at someone else, not at {f:us|us}{f:.|.}\n\"You two were trying to let them out, weren't you?\"\nHis voice was low and strangled.\nHe was like a different person from before{f:.|.}\n\"Th-them?\"\n\"Don't play dumb! The ones squirming on the other side of this wall!\nThose bloodthirsty things that rule this school from the shadows☆\"{p}"
+  },
+  {
+   "id": "28:15534",
+   "op": "text",
+   "en": "I didn't understand what he was saying.\nBut if what he said was true, then all the scary stories I'd heard today were caused by something inside this wall{f:?|?}\n...No, that couldn't be. That was just impossible.{p}"
+  },
+  {
+   "id": "28:15600",
+   "op": "text",
+   "en": "\"I won't let them be revived!\"\nMr. Kuroki raised the power saw high and came at {f:us|us}.\n\"Eeeek!\"\nLetting out a pathetic cry, Hosoda started running.\n{f:I|I} followed right behind him.\n\"Stop☆\"\nStill holding the saw, Mr. Kuroki chased after us.\nThe roar of the motor closing in sounded just like a death sentence.{p}"
+  },
+  {
+   "id": "28:15740",
+   "op": "text",
+   "en": "Half tumbling, we made it out to the schoolyard and headed for the gate.\nWe were almost there{f:.|.}\nJust a little farther, and we should be back in the everyday world{f:.|.}\nBut then Hosoda tripped.\n\"Aaah!\"\nHe fell flat on his face.\nRight behind him, Mr. Kuroki closed in, the saw held high.\nWas this it{f:★|★}\nJust then, {f:we|we} were lit up by a dazzling light.{p}"
+  },
+  {
+   "id": "28:15888",
+   "op": "text",
+   "en": "\"What's going on there★\"\nIt was a police officer on patrol{f:.|!}\nWe were saved!{p}"
+  },
+  {
+   "id": "28:158e0",
+   "op": "text",
+   "en": "\"Raaaaagh☆\"\nMr. Kuroki let out a roar.\nThen he pressed the power saw against his own neck.\nSKREEEEE☆\nAn awful noise rang out.{p}"
+  },
+  {
+   "id": "28:15980",
+   "op": "text",
+   "en": "Blood gushed out, and Mr. Kuroki's head went flying.\nIt rolled and came to a stop at {f:my|my} feet.\n\"Are you all right★\"\nThe officer came running over.\nWe were saved{f:...|...}\nThe old school building and the seven wonders no longer mattered.\nIn my head, {f:I|I} was already planning a new feature.\nWhat happened today would make a great article, no doubt about it.\nThe title would be... {f:let's see|let's see}.\n'Scary Stories from School.' {f:That settles it.|That's the one.}{p}"
+  },
+  {
+   "id": "28:15b00",
+   "op": "text",
+   "en": "\"Hosoda, stop it!\"{p}"
+  },
+  {
+   "id": "28:15b30",
+   "op": "text",
+   "en": "Hosoda shoved {f:me|me} away with tremendous force.\n\"What do you think you're doing?!\nWe're about to see an amazing secret!\nI can feel it! I can really feel it!\nA powerful grudge is swirling around in there!\nNothing but bad things have happened at this school, since way back. There's an evil spirit here!\nAnd it's sleeping inside this wall!\nHyaaaaaah-ha-ha-ha!\"\n\"...Hosoda.\"\n{f:I|I} couldn't stop him anymore.\nCaught in the round glow of the flashlight, Hosoda's eyes were bloodshot, and he was cackling.{p}"
+  },
+  {
+   "id": "28:15d2c",
+   "op": "text",
+   "en": "The power saw switched on, and the motor's whine, like a woman's shriek, blew the silence apart.\n\"Hyahhahha!\"\nHosoda raised it high and slashed into the wall without a moment's hesitation.{p}"
+  },
+  {
+   "id": "28:15df8",
+   "op": "text",
+   "en": "With a furious grinding, the wall crumbled away easily.\nWithout the slightest resistance, the wall laid its innards bare.\n...It was too dark to see well.{p}"
+  },
+  {
+   "id": "28:15e9c",
+   "op": "text",
+   "en": "Hosoda didn't care; he kept swinging the saw around, widening the hole in the wall.{p}"
+  },
+  {
+   "id": "28:15f00",
+   "op": "text",
+   "en": "\"Ugyaaah!\"\nSuddenly, an arm stretched out of the darkness deep in the wall and seized Hosoda's face.\nHosoda shook his head in agony.\nBut the hand clung tight and wouldn't let go.\nNext, a crowd of faces rose up deep within the wall.{p}"
+  },
+  {
+   "id": "28:15fd8",
+   "op": "text",
+   "en": "Ghostly faces that gave off no scent of life{f:.|.}\n\"Living humans...\"\n\"Living humans...\"\n\"Why are you alive?\"\nBitter murmurs leaked out from all around.{p}"
+  },
+  {
+   "id": "28:16090",
+   "op": "text",
+   "en": "A chill ran through me, and my skin broke out in goosebumps.\nWere they the students who had died{f:?|?}\nHad {f:we|we} destroyed the wall that separated this world from them in the next{f:?|?}{p}"
+  },
+  {
+   "id": "28:16154",
+   "op": "text",
+   "en": "The hand that had been gripping Hosoda slid back in.\nHosoda's big body swayed and toppled over.\n\"Hosoda!\"\nHis skin had gone dry and papery.\nHe looked just like a mummy{f:.|.}\n\"Life force...\"{p}"
+  },
+  {
+   "id": "28:16228",
+   "op": "text",
+   "en": "\"Life force, after so long...\"\n\"It's delicious...\"\n\"It's delicious...\"\nThe faces that had been murmuring turned to look at {f:me|me}.\nWere they going to drain {f:my|my} life force next{f:★|★}\nLike a frog glared at by a snake, {f:I|I} couldn't move.\nLong white arms were reaching toward {f:me|me}.\nWas this the end{f:★|★}{p}"
+  },
+  {
+   "id": "28:1635c",
+   "op": "text",
+   "en": "The instant after I closed my eyes, ready for the end, cold fingers dug into {f:my|my} forehead.{p}"
+  },
+  {
+   "id": "28:163a8",
+   "op": "text",
+   "en": "\"Hosoda, stop it!\"\nHosoda shoved {f:me|me} away with tremendous force.\n\"What do you think you're doing?!\nWe're about to see an amazing secret!\nI can feel it! I can really feel it!\nA powerful grudge is swirling around in there!\nNothing but bad things have happened at this school, since way back. There's an evil spirit here!\nAnd it's sleeping inside this wall!\nHyaaaaaah-ha-ha-ha!\"\n\"...Hosoda.\"\n{f:I|I} couldn't stop him anymore.\nCaught in the round glow of the flashlight, Hosoda's eyes were bloodshot, and he was cackling.{p}"
+  },
+  {
+   "id": "28:165c4",
+   "op": "text",
+   "en": "The power saw switched on, and the motor's whine, like a woman's shriek, blew the silence {f:apart|apart}.\n\"Hya-ha-ha!\"\nHosoda raised it high and, without a moment's hesitation, cut into the wall.{p}"
+  },
+  {
+   "id": "28:1669c",
+   "op": "text",
+   "en": "With a furious grinding, the wall crumbled away easily.\nWithout the slightest resistance, the wall laid its innards bare.\n...It was too dark to see well.{p}"
+  },
+  {
+   "id": "28:16740",
+   "op": "text",
+   "en": "Hosoda didn't care; he kept swinging the saw around, widening the hole in the wall.{p}"
+  },
+  {
+   "id": "28:1679c",
+   "op": "text",
+   "en": "Suddenly, the racket stopped.\nHosoda was staring blankly into the hole.\nInside{f:,|,} there stood a lovely little girl{f:.|.}\nWas she about elementary school age{f:?|?}\nWhen I looked closer, her outline was blurring and melting into the darkness.\nShe {f:didn't seem|didn't seem} to be a living person.\nBut she didn't seem to mean any harm{f:.|.}\n\"What's {f:wrong|wrong}?\"\n\"My big brother...\"\nThe little ghost girl murmured.\n{f:I|I} had an idea who she might be.\n\"She must be the little sister from Mr. Kuroki's story{f:.|.}\nThe one they said was carried in there.\"\n\"I see.\"\nHosoda nodded.{p}"
+  },
+  {
+   "id": "28:169c4",
+   "op": "text",
+   "en": "\"Did you get separated from your brother's spirit? Poor thing.\"\nAs he said it, he held out his hand to her.\n\"Come on out. I'll help you look for him.\"{p}"
+  },
+  {
+   "id": "28:16a4c",
+   "op": "text",
+   "en": "At Hosoda's words, the girl slipped quietly out through the wall.\nHer pale blue lips formed words.\n\"I've been in here all alone for sooo long...\"\nHer small hand clamped onto Hosoda's arm.\nFangs glinted.\n\"So I'm hungry!\"{p}"
+  },
+  {
+   "id": "28:16b30",
+   "op": "text",
+   "en": "The girl sank her teeth into Hosoda's throat with a chomp.\nShe slurped up the blood as it gushed out.\nHosoda didn't move.\nWere her fangs coated with poison, or some kind of anesthetic{f:?|?}\nIn no time at all she had drained him dry, and then the girl looked at {f:me|me}.\n\"I was drenched in my big brother's blood.\nEver since then, I can't stop craving blood.\"\nHer eyes shimmered with an iridescent sheen.\nI couldn't move.\nHad {f:I|I} already fallen under her spell, too{f:...?|...?}\nAs {f:I|I} stood there dazed, the girl drove her sharp fangs into my neck.{p}"
+  },
+  {
+   "id": "28:16d18",
+   "op": "text",
+   "en": "\"Hosoda, stop it!\"\nHosoda shoved {f:me|me} away with tremendous force.{p}"
+  },
+  {
+   "id": "28:16d84",
+   "op": "text",
+   "en": "\"What do you think you're doing?!\nWe're about to see an amazing secret!\nI can feel it! I can really feel it!\nA powerful grudge is swirling around in there!\nNothing but bad things have happened at this school, since way back. There's an evil spirit here!\nAnd it's sleeping inside this wall!\nHyaaaaaah-ha-ha-ha!\"\n\"...Hosoda.\"\n{f:I|I} couldn't stop him anymore.\nCaught in the round glow of the flashlight, Hosoda's eyes were bloodshot, and he was cackling.{p}"
+  },
+  {
+   "id": "28:16f48",
+   "op": "text",
+   "en": "The power saw switched on, and the motor's whine, like a woman's shriek, blew the silence {f:apart|apart}.\n\"Hya-ha-ha!\"\nHosoda raised it high and, without a moment's hesitation, cut into the wall.{p}"
+  },
+  {
+   "id": "28:1700c",
+   "op": "text",
+   "en": "With a furious grinding, the wall crumbled away easily.\nWithout the slightest resistance, the wall laid its innards bare.\n...It was too dark to see well.{p}"
+  },
+  {
+   "id": "28:170b0",
+   "op": "text",
+   "en": "Hosoda didn't care; he kept swinging the saw around, widening the hole in the wall.\nSuddenly, his movements stopped.{p}"
+  },
+  {
+   "id": "28:1711c",
+   "op": "text",
+   "en": "The power saw slipped from Hosoda's hands.{p}"
+  },
+  {
+   "id": "28:17164",
+   "op": "text",
+   "en": "\"Hosoda★\"\nWhen he turned around, his face was like a completely different person's.\nHis eyes were wide open, and drool hung from his mouth.\nThen he stared at {f:me|me} and muttered,\n\"Food...\"\njust like that.\n\"What are you talking about?\nWhat's wrong, Hosoda?\"\nAs I said it, I reached out, and Hosoda bit into my arm.\nHis strong-looking teeth tore through skin and flesh.\n\"{f:Gwaaah|Aaaah}★\"\nIn agonizing pain, {f:I|I} shoved him away.\nBut he got back up and came at me again.\nWhat was going on{f:?|?}\nDid he really mean to eat {f:me|me}{f:?|?}\nShielding my bleeding arm, {f:I|I} inched backward.\n\"Heh heh... You look delicious...\"\nHis eyes were glazed and cloudy.\nHad Hosoda been possessed{f:?|?}\nThat would explain the way he was acting.\nBut then, he really would try to eat {f:me|me}{f:.|, wouldn't he?}\nWhat {f:was I supposed|was I supposed} to do?\nWhile {f:I|I} was thinking, Hosoda caught me off guard and lunged at me.{p}"
+  },
+  {
+   "id": "28:174f8",
+   "op": "text",
+   "en": "\"Graaaaagh☆\"\n{f:I|I} tried to dodge, but tripped over the power saw, which was still running.\nVRRRANG!{p}"
+  },
+  {
+   "id": "28:17578",
+   "op": "text",
+   "en": "The blade jumped, and blood sprayed out in a burst.\nA searing pain.\nThe saw blade had cut off {f:my|my} arm.\nThe wound burned as if it were being held over a flame.\nHosoda happily started gnawing on the arm lying on the floor.\nBlood dripped and dripped.\nIt felt like my strength was rapidly draining away with the blood{f:.|.}\nMy legs were wobbling, too.\nLike this, I'd never be able to get away from Hosoda{f:.|.}\n{f:I|I} crouched down.\nI could hear the crunching of bone being chewed apart.\nWhat would it feel like to be eaten alive{f:?|?}\nWith any luck, I'd bleed to death before that happened.\nLittle by little, the darkness closed in.\nAlong with it, the disgusting sound of {f:my|my} arm being eaten grew fainter.\nAlmost welcoming it, {f:I|I} let the darkness take me in.{p}"
+  },
+  {
+   "id": "28:17854",
+   "op": "choice",
+   "en": "Let's make it tomorrow"
+  },
+  {
+   "id": "28:17868",
+   "op": "choice",
+   "en": "Sorry, but I'm not interested"
+  },
+  {
+   "id": "28:17888",
+   "op": "choice",
+   "en": "All right. I'll go right now"
+  },
+  {
+   "id": "28:178a8",
+   "op": "text",
+   "follows_choice": [
+    "28:17854"
+   ],
+   "en": "\"...Um, it's already late tonight, so why don't we do it tomorrow?\"\nI thought that would let me off the hook.\nI had no intention whatsoever of going tomorrow either; I meant it as a polite way of saying no.\nBut on the other end of the line, Hosoda got worked up and raised his voice.\n\"What are you saying, {a}?\nTomorrow's too late.\nIf we go there in the daytime, how are we supposed to see what's behind the wall?\nIt has to be at night! Our only chance is now!\"\nHosoda's voice was strangely harsh.\nI could even hear him breathing hard through his nose.{p}...What should I do?\n"
+  },
+  {
+   "id": "28:17a90",
+   "op": "choice",
+   "en": "All right. I'll go right now"
+  },
+  {
+   "id": "28:17ab0",
+   "op": "choice",
+   "en": "That's enough already. I'm sleepy!"
+  },
+  {
+   "id": "28:17ad8",
+   "op": "choice",
+   "en": "Tell him to go alone and hang up"
+  },
+  {
+   "id": "28:17b00",
+   "op": "text",
+   "en": "I could hardly say I didn't want to go because that place scared me. That would be way too lame.{p}"
+  }
+ ]
+}

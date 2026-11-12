@@ -1,0 +1,336 @@
+{
+ "slice": "S040",
+ "scene": "08",
+ "narrator_hint": "Shoji Arai (storyteller)",
+ "prev": "S039",
+ "next": "S041",
+ "rows": [
+  {
+   "id": "08:c84c",
+   "op": "text"
+  },
+  {
+   "id": "08:c8ec",
+   "op": "text"
+  },
+  {
+   "id": "08:c940",
+   "op": "text"
+  },
+  {
+   "id": "08:ca78",
+   "op": "text"
+  },
+  {
+   "id": "08:cbb0",
+   "op": "choice"
+  },
+  {
+   "id": "08:cbc4",
+   "op": "choice"
+  },
+  {
+   "id": "08:cbf0",
+   "op": "text",
+   "follows_choice": [
+    "08:cbb0"
+   ]
+  },
+  {
+   "id": "08:cd70",
+   "op": "text"
+  },
+  {
+   "id": "08:ce00",
+   "op": "text"
+  },
+  {
+   "id": "08:ce7c",
+   "op": "text"
+  },
+  {
+   "id": "08:cf64",
+   "op": "text"
+  },
+  {
+   "id": "08:cff8",
+   "op": "text"
+  },
+  {
+   "id": "08:d05c",
+   "op": "text"
+  },
+  {
+   "id": "08:d098",
+   "op": "text"
+  },
+  {
+   "id": "08:d24c",
+   "op": "text",
+   "follows_choice": [
+    "08:cbc4"
+   ]
+  },
+  {
+   "id": "08:d510",
+   "op": "text"
+  },
+  {
+   "id": "08:d5bc",
+   "op": "choice"
+  },
+  {
+   "id": "08:d5c4",
+   "op": "choice"
+  },
+  {
+   "id": "08:d5d0",
+   "op": "choice"
+  },
+  {
+   "id": "08:d5d8",
+   "op": "text",
+   "follows_choice": [
+    "08:d5bc",
+    "08:d5c4",
+    "08:d5d0"
+   ]
+  },
+  {
+   "id": "08:d724",
+   "op": "text"
+  },
+  {
+   "id": "08:d8c8",
+   "op": "text"
+  },
+  {
+   "id": "08:d94c",
+   "op": "text"
+  },
+  {
+   "id": "08:d9f0",
+   "op": "text"
+  },
+  {
+   "id": "08:dc6c",
+   "op": "text"
+  },
+  {
+   "id": "08:de08",
+   "op": "text"
+  },
+  {
+   "id": "08:e0cc",
+   "op": "text"
+  },
+  {
+   "id": "08:e160",
+   "op": "text"
+  },
+  {
+   "id": "08:e1e0",
+   "op": "text"
+  },
+  {
+   "id": "08:e26c",
+   "op": "text"
+  },
+  {
+   "id": "08:e3f0",
+   "op": "text"
+  },
+  {
+   "id": "08:e550",
+   "op": "text"
+  },
+  {
+   "id": "08:e57c",
+   "op": "text"
+  },
+  {
+   "id": "08:e628",
+   "op": "text"
+  },
+  {
+   "id": "08:e704",
+   "op": "text"
+  },
+  {
+   "id": "08:e8a8",
+   "op": "text",
+   "follows_choice": [
+    "08:77b4"
+   ]
+  },
+  {
+   "id": "08:ea48",
+   "op": "text"
+  },
+  {
+   "id": "08:eb20",
+   "op": "text"
+  },
+  {
+   "id": "08:edb4",
+   "op": "text"
+  },
+  {
+   "id": "08:ee48",
+   "op": "text"
+  },
+  {
+   "id": "08:ef84",
+   "op": "text"
+  },
+  {
+   "id": "08:f07c",
+   "op": "text"
+  },
+  {
+   "id": "08:f16c",
+   "op": "choice"
+  },
+  {
+   "id": "08:f17c",
+   "op": "choice"
+  },
+  {
+   "id": "08:f18c",
+   "op": "text",
+   "follows_choice": [
+    "08:f16c"
+   ]
+  },
+  {
+   "id": "08:f1e8",
+   "op": "text"
+  },
+  {
+   "id": "08:f334",
+   "op": "text"
+  },
+  {
+   "id": "08:f3c0",
+   "op": "text"
+  },
+  {
+   "id": "08:f4a4",
+   "op": "text"
+  },
+  {
+   "id": "08:f5b0",
+   "op": "text"
+  },
+  {
+   "id": "08:f67c",
+   "op": "text"
+  },
+  {
+   "id": "08:f720",
+   "op": "text"
+  },
+  {
+   "id": "08:f848",
+   "op": "text",
+   "follows_choice": [
+    "08:f17c"
+   ]
+  },
+  {
+   "id": "08:f958",
+   "op": "text"
+  },
+  {
+   "id": "08:fa48",
+   "op": "text"
+  },
+  {
+   "id": "08:fb6c",
+   "op": "text"
+  },
+  {
+   "id": "08:fc18",
+   "op": "text"
+  },
+  {
+   "id": "08:fcc8",
+   "op": "text"
+  },
+  {
+   "id": "08:fdc0",
+   "op": "text"
+  },
+  {
+   "id": "08:fe3c",
+   "op": "text"
+  },
+  {
+   "id": "08:ffd8",
+   "op": "text",
+   "follows_choice": [
+    "08:77bc"
+   ]
+  },
+  {
+   "id": "08:10148",
+   "op": "text"
+  },
+  {
+   "id": "08:10310",
+   "op": "text"
+  },
+  {
+   "id": "08:103f8",
+   "op": "text"
+  },
+  {
+   "id": "08:1051c",
+   "op": "text"
+  },
+  {
+   "id": "08:105c0",
+   "op": "text"
+  },
+  {
+   "id": "08:10698",
+   "op": "text"
+  },
+  {
+   "id": "08:10724",
+   "op": "text"
+  },
+  {
+   "id": "08:108ac",
+   "op": "text"
+  },
+  {
+   "id": "08:1098c",
+   "op": "text"
+  },
+  {
+   "id": "08:109ac",
+   "op": "text"
+  },
+  {
+   "id": "08:10ac8",
+   "op": "text"
+  },
+  {
+   "id": "08:10c54",
+   "op": "text"
+  },
+  {
+   "id": "08:10d54",
+   "op": "text"
+  },
+  {
+   "id": "08:10dd4",
+   "op": "text"
+  },
+  {
+   "id": "08:10ee4",
+   "op": "text"
+  }
+ ]
+}

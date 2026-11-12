@@ -1,0 +1,36 @@
+# Japanese source text and extracted game data (never commit, see AGENTS.md)
+work/source/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+
+# builds, emulator, captures
+work/output/
+work/emulator/
+work/ui/shots/
+*.bin
+*.cue
+*.sav
+*.iso
+*.BIN
+
+# python
+__pycache__/
+*.pyc
+
+# derived game art previews (tools/gfx.py preview)
+work/ui/gfx_preview/
+
+# build caches (contain game data)
+work/cache/
+
+# not published (see the repository README): review notes and term lists quote the
+# Japanese script; EXE string inventories; game-derived pictures; third-party binaries/fonts
+work/translation/en/review/**/notes.md
+work/translation/en/terms_live.md
+work/translation/en/review_todo.md
+work/ui/exe_scan.json
+work/ui/exe_strings.json
+work/ui/**/*.png
+work/release/
+tools/bin/
+tools/fonts/silver/

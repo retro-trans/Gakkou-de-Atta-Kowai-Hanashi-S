@@ -1,0 +1,319 @@
+{
+ "slice": "S017",
+ "scene": "06",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S016",
+ "next": "S018",
+ "rows": [
+  {
+   "id": "06:0994",
+   "op": "text"
+  },
+  {
+   "id": "06:0be4",
+   "op": "choice"
+  },
+  {
+   "id": "06:0bec",
+   "op": "choice"
+  },
+  {
+   "id": "06:0bf4",
+   "op": "choice"
+  },
+  {
+   "id": "06:0c08",
+   "op": "text",
+   "follows_choice": [
+    "06:0be4"
+   ]
+  },
+  {
+   "id": "06:0cc0",
+   "op": "text"
+  },
+  {
+   "id": "06:0fd8",
+   "op": "text"
+  },
+  {
+   "id": "06:111c",
+   "op": "choice"
+  },
+  {
+   "id": "06:112c",
+   "op": "choice"
+  },
+  {
+   "id": "06:1154",
+   "op": "text",
+   "follows_choice": [
+    "06:111c"
+   ]
+  },
+  {
+   "id": "06:1238",
+   "op": "text"
+  },
+  {
+   "id": "06:12bc",
+   "op": "text"
+  },
+  {
+   "id": "06:1384",
+   "op": "choice"
+  },
+  {
+   "id": "06:1390",
+   "op": "choice"
+  },
+  {
+   "id": "06:13a0",
+   "op": "choice"
+  },
+  {
+   "id": "06:13bc",
+   "op": "text",
+   "follows_choice": [
+    "06:13a0"
+   ]
+  },
+  {
+   "id": "06:146c",
+   "op": "text"
+  },
+  {
+   "id": "06:1500",
+   "op": "choice"
+  },
+  {
+   "id": "06:1514",
+   "op": "choice"
+  },
+  {
+   "id": "06:152c",
+   "op": "text",
+   "follows_choice": [
+    "06:1500"
+   ]
+  },
+  {
+   "id": "06:15b4",
+   "op": "text"
+  },
+  {
+   "id": "06:1644",
+   "op": "text"
+  },
+  {
+   "id": "06:16f4",
+   "op": "text"
+  },
+  {
+   "id": "06:179c",
+   "op": "choice"
+  },
+  {
+   "id": "06:17a8",
+   "op": "choice"
+  },
+  {
+   "id": "06:17b8",
+   "op": "text",
+   "follows_choice": [
+    "06:179c"
+   ]
+  },
+  {
+   "id": "06:1808",
+   "op": "text"
+  },
+  {
+   "id": "06:18a8",
+   "op": "text"
+  },
+  {
+   "id": "06:1904",
+   "op": "choice"
+  },
+  {
+   "id": "06:190c",
+   "op": "choice"
+  },
+  {
+   "id": "06:1914",
+   "op": "text",
+   "follows_choice": [
+    "06:1904"
+   ]
+  },
+  {
+   "id": "06:1920",
+   "op": "text"
+  },
+  {
+   "id": "06:196c",
+   "op": "choice"
+  },
+  {
+   "id": "06:1974",
+   "op": "choice"
+  },
+  {
+   "id": "06:197c",
+   "op": "text",
+   "follows_choice": [
+    "06:1974"
+   ]
+  },
+  {
+   "id": "06:19a8",
+   "op": "text"
+  },
+  {
+   "id": "06:19d8",
+   "op": "choice"
+  },
+  {
+   "id": "06:19e0",
+   "op": "choice"
+  },
+  {
+   "id": "06:19e8",
+   "op": "text",
+   "follows_choice": [
+    "06:19e0"
+   ]
+  },
+  {
+   "id": "06:1a60",
+   "op": "choice"
+  },
+  {
+   "id": "06:1a68",
+   "op": "choice"
+  },
+  {
+   "id": "06:1a78",
+   "op": "text",
+   "follows_choice": [
+    "06:1a60"
+   ]
+  },
+  {
+   "id": "06:1ab8",
+   "op": "choice"
+  },
+  {
+   "id": "06:1ac0",
+   "op": "choice"
+  },
+  {
+   "id": "06:1ac8",
+   "op": "text",
+   "follows_choice": [
+    "06:1ab8"
+   ]
+  },
+  {
+   "id": "06:1b40",
+   "op": "text"
+  },
+  {
+   "id": "06:1b68",
+   "op": "choice"
+  },
+  {
+   "id": "06:1b70",
+   "op": "choice"
+  },
+  {
+   "id": "06:1b8c",
+   "op": "text",
+   "follows_choice": [
+    "06:1b68"
+   ]
+  },
+  {
+   "id": "06:1c48",
+   "op": "text"
+  },
+  {
+   "id": "06:1c84",
+   "op": "choice"
+  },
+  {
+   "id": "06:1c98",
+   "op": "choice"
+  },
+  {
+   "id": "06:1cb0",
+   "op": "text",
+   "follows_choice": [
+    "06:1c84"
+   ]
+  },
+  {
+   "id": "06:1cf0",
+   "op": "text"
+  },
+  {
+   "id": "06:1d28",
+   "op": "choice"
+  },
+  {
+   "id": "06:1d38",
+   "op": "choice"
+  },
+  {
+   "id": "06:1d50",
+   "op": "text",
+   "follows_choice": [
+    "06:1d28"
+   ]
+  },
+  {
+   "id": "06:1d94",
+   "op": "text"
+  },
+  {
+   "id": "06:1de0",
+   "op": "text"
+  },
+  {
+   "id": "06:1e40",
+   "op": "text"
+  },
+  {
+   "id": "06:1e70",
+   "op": "text"
+  },
+  {
+   "id": "06:1f2c",
+   "op": "choice"
+  },
+  {
+   "id": "06:1f38",
+   "op": "choice"
+  },
+  {
+   "id": "06:1f50",
+   "op": "text",
+   "follows_choice": [
+    "06:1f2c"
+   ]
+  },
+  {
+   "id": "06:2030",
+   "op": "text"
+  },
+  {
+   "id": "06:2054",
+   "op": "choice"
+  },
+  {
+   "id": "06:205c",
+   "op": "choice"
+  }
+ ]
+}

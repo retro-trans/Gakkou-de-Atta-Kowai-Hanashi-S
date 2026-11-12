@@ -1,0 +1,431 @@
+{
+ "slice": "S061",
+ "scene": "14",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S060",
+ "next": "S062",
+ "todo": [],
+ "rows": [
+  {
+   "id": "14:8ef4",
+   "op": "choice",
+   "en": "Whatever I do, it's wasted effort"
+  },
+  {
+   "id": "14:8f0c",
+   "op": "text",
+   "follows_choice": [
+    "14:8ed8"
+   ],
+   "en": "Just then, I suddenly remembered Arai's story.{p}"
+  },
+  {
+   "id": "14:8f48",
+   "op": "text",
+   "en": "The story about the principal choosing the students who would become sacrifices.\n{f:By rights|By rights}, {f:I|I} was never meant to come to this school {f:at all|at all}.\nThe principal had manipulated things, and that was why {f:I|I} {f:ended up|ended up} passing the entrance exam.\n{f:If so|In that case}, going to the principal's office might tell me something.\nThe thought flashed through {f:my|my} mind.\n{f:I|I} forced my heavy, sluggish body up and decided to go to the school.{p}"
+  },
+  {
+   "id": "14:90f4",
+   "op": "text",
+   "en": "Maybe because I had been shut up in the house for so long, the midday sun was painful for {f:me|me}.\nIt was as if even the sun was trying to get in {f:my|my} way.\nI nearly {f:gave up|gave up} then and there.\nEven so, {f:I|I} summoned the last of my strength and dragged my heavy feet to school.{p}"
+  },
+  {
+   "id": "14:9208",
+   "op": "text",
+   "en": "The school was astonishingly quiet.\nThe sports teams should have been out practicing.\nHad they {f:all|all} taken the day off together?\nAnd hadn't the demolition of the old school building started {f:by now|by now}?\n{f:If so|If so}, I should have been hearing the racket of construction.\n...But none of that mattered to {f:me|me} now.\n{f:I|I} had come to school for just one reason.\nTo go to the principal's {f:office|office}.{p}"
+  },
+  {
+   "id": "14:93b8",
+   "op": "text",
+   "en": "...Come to think of it, ever since I left the house, the doll hadn't left {f:my|my} side.\nMaybe it was watching {f:me|me}; it felt like the gap between it and {f:me|me} was slowly closing.\nDid that mean the end was {f:near|near}?{p}"
+  },
+  {
+   "id": "14:94b0",
+   "op": "text",
+   "en": "I arrived in front of the principal's office.\nIt was strange that I hadn't run into anyone at {f:all|all}.\nBut that was fine.\nIf anyone had seen {f:my|my} face as it was now, they would surely have mistaken me for a ghost.\nI put my hand on the doorknob of the principal's office.\nFor some reason, it wasn't locked.\nIt felt just like a trap.\nWhat should I {f:do|do}?{p}Should I go {f:in|in}?\n"
+  },
+  {
+   "id": "14:95f4",
+   "op": "choice",
+   "en": "Go in"
+  },
+  {
+   "id": "14:95fc",
+   "op": "choice",
+   "en": "Don't go in"
+  },
+  {
+   "id": "14:9608",
+   "op": "text",
+   "follows_choice": [
+    "14:95f4"
+   ],
+   "en": "{f:I|I} didn't have any time {f:left|left}.\nThere was no room to {f:hesitate|hesitate} here.\n{f:I|I} turned the knob and opened the heavy wooden door.{p}"
+  },
+  {
+   "id": "14:96b8",
+   "op": "text",
+   "en": "As you'd expect of a principal's office, the inside was lavishly furnished.{p}Where should I {f:look|look}?\n"
+  },
+  {
+   "id": "14:9710",
+   "op": "choice",
+   "en": "Shelf"
+  },
+  {
+   "id": "14:9714",
+   "op": "choice",
+   "en": "Shelf"
+  },
+  {
+   "id": "14:9718",
+   "op": "choice",
+   "en": "Desk"
+  },
+  {
+   "id": "14:971c",
+   "op": "choice",
+   "en": "Desk"
+  },
+  {
+   "id": "14:9720",
+   "op": "choice",
+   "en": "Top of the desk"
+  },
+  {
+   "id": "14:9728",
+   "op": "choice",
+   "en": "Umbrella stand"
+  },
+  {
+   "id": "14:9730",
+   "op": "choice",
+   "en": "Umbrella stand"
+  },
+  {
+   "id": "14:9738",
+   "op": "choice",
+   "en": "Wardrobe"
+  },
+  {
+   "id": "14:9744",
+   "op": "choice",
+   "en": "Wardrobe"
+  },
+  {
+   "id": "14:9750",
+   "op": "text",
+   "follows_choice": [
+    "14:9720"
+   ],
+   "en": "{f:I|I} examined the top of the desk.\nA neatly organized desk.\nOn it sat an expensive-looking pen case and a single framed portrait.\n{f:I|I} casually picked up the portrait.{p}"
+  },
+  {
+   "id": "14:9820",
+   "op": "text",
+   "en": "Two happy-looking people were in the picture.\n{f:Probably|Probably} a father and son.\nNow that I thought about it, {f:I|I} had never seen the principal.\nHe was famous for rarely showing himself in public, and I remembered he hadn't even given a speech at the entrance ceremony.\nWas this kind-looking middle-aged man the {f:principal|principal}?\n{f:I|I} let my eyes rest on the boy who seemed to be his son, and froze in shock.{p}"
+  },
+  {
+   "id": "14:99ac",
+   "op": "text",
+   "en": "...Shoji Arai.\nThe boy smiling in that photo was, without a doubt, Shoji Arai.\nAnd then {f:I|I} remembered.\nThe principal's surname was Arai.\nHow had I never {f:noticed|noticed} until now?{p}"
+  },
+  {
+   "id": "14:9a94",
+   "op": "text",
+   "en": "{f:My|My} hand holding the portrait trembled, and I dropped it.{p}"
+  },
+  {
+   "id": "14:9ae8",
+   "op": "text",
+   "en": "The glass shattered, and a key fell out from inside.\nWhat could this key {f:be for|be for}?{p}"
+  },
+  {
+   "id": "14:9b44",
+   "op": "text",
+   "en": "{f:I|I} picked up the key.{p}"
+  },
+  {
+   "id": "14:9b78",
+   "op": "text",
+   "en": "Then I took another good look at the fallen photo.{p}"
+  },
+  {
+   "id": "14:9bc4",
+   "op": "text",
+   "en": "...So {f:Arai|Arai} was a real person {f:after all|after all}.\nAnd of all things, he was the principal's {f:son|son}.{p}"
+  },
+  {
+   "id": "14:9c40",
+   "op": "text",
+   "en": "But then, why?\n"
+  },
+  {
+   "id": "14:9c50",
+   "op": "text",
+   "en": "Why had {f:Arai|Arai} posed as a student at this school and told {f:us|us} those {f:stories|stories}?{p}"
+  },
+  {
+   "id": "14:9cc0",
+   "op": "text",
+   "en": "Just who {f:was|was} he?{p}"
+  },
+  {
+   "id": "14:9d04",
+   "op": "text",
+   "en": "There was no point in standing here {f:thinking|thinking}.\n{f:I|I} decided to search elsewhere.{p}Where should I look?\n"
+  },
+  {
+   "id": "14:9d70",
+   "op": "choice",
+   "en": "Shelf"
+  },
+  {
+   "id": "14:9d74",
+   "op": "choice",
+   "en": "Shelf"
+  },
+  {
+   "id": "14:9d78",
+   "op": "choice",
+   "en": "Desk"
+  },
+  {
+   "id": "14:9d7c",
+   "op": "choice",
+   "en": "Top of the desk"
+  },
+  {
+   "id": "14:9d84",
+   "op": "choice",
+   "en": "Umbrella stand"
+  },
+  {
+   "id": "14:9d8c",
+   "op": "choice",
+   "en": "Umbrella stand"
+  },
+  {
+   "id": "14:9d94",
+   "op": "choice",
+   "en": "Wardrobe"
+  },
+  {
+   "id": "14:9da0",
+   "op": "choice",
+   "en": "Wardrobe"
+  },
+  {
+   "id": "14:9dac",
+   "op": "text",
+   "follows_choice": [
+    "14:9d78"
+   ],
+   "en": "{f:I|I} decided to check the desk drawer.{p}"
+  },
+  {
+   "id": "14:9df0",
+   "op": "text",
+   "en": "...No {f:good|good}.\nIt was locked.\nIt was sturdily made, and there was no way I could break it open.{p}"
+  },
+  {
+   "id": "14:9e48",
+   "op": "text",
+   "en": "{f:I|I} slid the key from the portrait into the drawer's keyhole.\nA perfect fit.{p}"
+  },
+  {
+   "id": "14:9ec0",
+   "op": "text",
+   "en": "Inside the drawer, behind some complicated-looking documents, lay an old diary, as if someone had hidden it there.{p}Should I read {f:it|it}?\n"
+  },
+  {
+   "id": "14:9f38",
+   "op": "choice",
+   "en": "Read it"
+  },
+  {
+   "id": "14:9f44",
+   "op": "choice",
+   "en": "Don't read it"
+  },
+  {
+   "id": "14:9f78",
+   "op": "text",
+   "follows_choice": [
+    "14:9f38"
+   ],
+   "en": "19XX, August 9.\nToday, Shoji died.\nHe was only seventeen.\nShoji did nothing wrong.\nIt was a cerebral hemorrhage.\nWhy did Death choose Shoji?\nI curse God.{p}"
+  },
+  {
+   "id": "14:a028",
+   "op": "text",
+   "en": "August 24.\nI cannot forget Shoji.\nWhen I close my eyes, Shoji's smile rises before me on its own, and his laughter fills my ears.\nI cannot forget Shoji.\nIf Shoji could come back to life, I would do anything.{p}"
+  },
+  {
+   "id": "14:a0fc",
+   "op": "text",
+   "en": "October 7.\nWith each passing day, my memories of Shoji spread further within me.\nAt last, I decided to have a certain renowned doll maker make a doll of Shoji.\nIf this doll can take Shoji's place, perhaps my heart will lighten a little.{p}"
+  },
+  {
+   "id": "14:a1e8",
+   "op": "text",
+   "en": "November 14.\nThe doll arrived, but it looks nothing like Shoji.\nI have had it sent back to be made again.{p}"
+  },
+  {
+   "id": "14:a258",
+   "op": "text",
+   "en": "November 30.\nThe new doll arrived, but once again I am not satisfied.\nThis is not Shoji.\nIt is just a doll.\nI want a doll that can take Shoji's place.{p}"
+  },
+  {
+   "id": "14:a2fc",
+   "op": "text",
+   "en": "December 18.\nI have asked doll maker after doll maker and had every kind of doll made, but none of them satisfies me.\nWhat I want is a perfect doll.{p}"
+  },
+  {
+   "id": "14:a38c",
+   "op": "text",
+   "en": "February 3.\nThe failed dolls keep piling up.\nNot one of them is Shoji.\nMy Shoji.\nShoji is my reason for living.\nIf Shoji comes back to life, I need nothing else.\nI will offer up my own life, too.{p}"
+  },
+  {
+   "id": "14:a45c",
+   "op": "text",
+   "en": "February 5.\n"
+  },
+  {
+   "id": "14:a478",
+   "op": "text",
+   "en": "I have decided to sell my soul to the devil.\nI have succeeded in making a pact with the devil.\nIf I offer up the soul of one child every year from now on, then in thirteen years Shoji's soul will dwell in the doll, and he will be able to live again.\nThat is enough for me.\nFrom now on, one sacrifice every year...{p}"
+  },
+  {
+   "id": "14:a564",
+   "op": "text",
+   "en": "As I read that far into the diary, {f:I|I} found a small key between the pages.\nWhat could this key {f:be for|be for}?{p}"
+  },
+  {
+   "id": "14:a5d8",
+   "op": "text",
+   "en": "{f:Still|Anyway}, if it was tucked away in a place like {f:this|this}, it {f:had to be|had to be} a very important key.\n{f:I|I} quietly slipped the key into my pocket.{p}"
+  },
+  {
+   "id": "14:a680",
+   "op": "text",
+   "en": "Just then.\nThe door I was sure I had closed slowly began to open.{p}"
+  },
+  {
+   "id": "14:a6d8",
+   "op": "text",
+   "en": "\"...Welcome.\"\nStanding beyond the door was the man from the portrait.\nIt was the {f:principal|principal}.{p}"
+  },
+  {
+   "id": "14:a748",
+   "op": "text",
+   "en": "He was gripping a golf club in his hand.\n\"...Principal.\"\n{f:I|I} murmured it without thinking.{p}"
+  },
+  {
+   "id": "14:a7b0",
+   "op": "text",
+   "en": "\"So you're the last sacrifice, are you?\nI thought you might be turning up about now.\nSome of the sacrifices sneak into this office just before they die.\nSo I decided to wait.\nAnd you turned out to be just the same.\nHee hee...\"\nSo the principal {f:had|had} been offering a sacrifice to the devil every year to bring his son back to life.{p}"
+  },
+  {
+   "id": "14:a900",
+   "op": "text",
+   "en": "{f:I|I} glanced at the doll standing silently beside me.\n{f:Arai|Arai} had said this year's sacrifice would be the last.\nThen if {f:I|I} died, {f:would|would} this doll come back to life as Shoji Arai?\nNo {f:way|way}.\n{f:I am who I am|I am who I am}.\n{f:Like hell I'm going to die|I don't want to die}!{p}"
+  },
+  {
+   "id": "14:aa24",
+   "op": "text",
+   "en": "\"Now, now, there's nothing to be afraid of.\nThere's nothing frightening at all.\nEven if you die, you'll be reborn right away.\nSo be a good child and die for Shoji!\"{p}"
+  },
+  {
+   "id": "14:aabc",
+   "op": "text",
+   "en": "The principal charged at {f:me|me}, swinging the golf club around wildly.\nWhat should I {f:do|do}?{p}Where do I run★\n"
+  },
+  {
+   "id": "14:ab48",
+   "op": "choice",
+   "en": "Umbrella stand"
+  },
+  {
+   "id": "14:ab50",
+   "op": "choice",
+   "en": "Shelf"
+  },
+  {
+   "id": "14:ab54",
+   "op": "choice",
+   "en": "Under the desk"
+  },
+  {
+   "id": "14:ab5c",
+   "op": "choice",
+   "en": "Wardrobe"
+  },
+  {
+   "id": "14:ab68",
+   "op": "choice",
+   "en": "Out of the principal's office"
+  },
+  {
+   "id": "14:ab80",
+   "op": "text",
+   "follows_choice": [
+    "14:ab5c"
+   ],
+   "en": "{f:I|I} leaped toward the wardrobe on instinct.\nThe moment I did, the principal {f:stopped dead in his tracks|froze on the spot}.\n\"Get away! Get away from that wardrobe!\"\nAfter that, the principal kept his distance from {f:me|me} and didn't attack.\nThere {f:must|must} be something terribly precious inside this wardrobe.\n{f:I|I} grabbed the handle.\n...But it was locked and wouldn't open.{p}What should I {f:do|do}?\n"
+  },
+  {
+   "id": "14:ad18",
+   "op": "choice",
+   "en": "Bang on the wardrobe"
+  },
+  {
+   "id": "14:ad28",
+   "op": "choice",
+   "en": "Knock the wardrobe over"
+  },
+  {
+   "id": "14:ad38",
+   "op": "choice",
+   "en": "Press my ear to the wardrobe"
+  },
+  {
+   "id": "14:ad50",
+   "op": "choice",
+   "en": "Run somewhere else"
+  },
+  {
+   "id": "14:ad64",
+   "op": "text",
+   "follows_choice": [
+    "14:ad38"
+   ],
+   "en": "When I listened closely, I could hear some kind of sound coming from inside the wardrobe.\n{f:I|I} pressed my ear against the wardrobe without thinking.\nFrom inside came a sound like something crawling around.\n"
+  },
+  {
+   "id": "14:ae00",
+   "op": "text",
+   "en": "There was definitely something in there.\n{f:I|I} shoved my hand into my pocket.\nThe key that had been tucked inside that {f:diary.|diary...}\nThat {f:had to|had to} be the key to this wardrobe.{p}"
+  },
+  {
+   "id": "14:aec4",
+   "op": "text",
+   "en": "When {f:I|I} pushed it into the keyhole, the principal came at {f:me|me}, screaming.{p}"
+  },
+  {
+   "id": "14:af38",
+   "op": "text",
+   "en": "{f:I|I} turned the key and flung the wardrobe doors wide open.\nAnd then...{p}"
+  },
+  {
+   "id": "14:afbc",
+   "op": "text",
+   "en": "There was a dull thud, and the principal's golf club struck the thing inside the wardrobe.\n\"Ah... ah... Shoji, Shoji...\"\nThe principal stood quaking, his eyes riveted on the inside of the wardrobe.\nThe club slipped limply from the principal's hand.\nThe head of the club was smeared thick with red blood.\nA nose-curling stench came drifting out of the wardrobe.\n{f:I|I} carefully peered into the wardrobe.{p}"
+  },
+  {
+   "id": "14:b124",
+   "op": "text",
+   "en": "\"Urrgh!\"\nThe stench and the sight were so overwhelming that {f:I|I} threw up everything in my stomach.\nInside the wardrobe was a thing like the doll that had always been at {f:my|my} side.\nAnd that thing's head had been smashed open by the club.\nThe thing inside the wardrobe had brown skin wrapped in a yellow-green mucous membrane, and it was trembling weakly in tiny, jerking spasms.\n"
+  }
+ ]
+}

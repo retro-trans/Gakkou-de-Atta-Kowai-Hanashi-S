@@ -1,0 +1,294 @@
+{
+ "slice": "S073",
+ "scene": "18",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S072",
+ "next": "S074",
+ "todo": [],
+ "rows": [
+  {
+   "id": "18:058c",
+   "op": "text",
+   "en": "Well, now. So it's finally my turn.\nTo be honest, I didn't really want to talk, but it can't be helped.\n...I'll let you in on my secret.\nOops, before that, I'd better introduce myself.\nMy name is Nozomu Kazama.\nI'm a third-year.\nI know everything there is to know about this school, so if there's anything you don't know, just ask me, {c}{f:|}.\n...Oh, dear.\nThis is hard to talk about, somehow.\nI wonder if I should really be telling a story like this...{p}{c}{f:|}, do you want to know my secret?\n"
+  },
+  {
+   "id": "18:0734",
+   "op": "choice",
+   "en": "I want to know"
+  },
+  {
+   "id": "18:0740",
+   "op": "choice",
+   "en": "I don't want to know"
+  },
+  {
+   "id": "18:0750",
+   "op": "choice",
+   "en": "I don't care either way"
+  },
+  {
+   "id": "18:0764",
+   "op": "text",
+   "follows_choice": [
+    "18:0734"
+   ],
+   "en": "I see, so you want to know.\nOh, all right.\nI'll tell you.{p}"
+  },
+  {
+   "id": "18:07a4",
+   "op": "text",
+   "en": "Listen.\nDon't be shocked when you hear this.\n"
+  },
+  {
+   "id": "18:07d0",
+   "op": "text",
+   "en": "...The truth is, I'm a spirit medium.\nDid you just laugh?{p}Did you laugh inside, {c}{f:|}?\n"
+  },
+  {
+   "id": "18:082c",
+   "op": "choice",
+   "en": "I laughed"
+  },
+  {
+   "id": "18:0834",
+   "op": "choice",
+   "en": "I didn't laugh"
+  },
+  {
+   "id": "18:0840",
+   "op": "choice",
+   "en": "To be honest, I laughed a little"
+  },
+  {
+   "id": "18:0868",
+   "op": "text",
+   "follows_choice": [
+    "18:0834"
+   ],
+   "en": "Good, good, you're a good {f:guy|girl}.\nFrom now on, I'll take you under my wing.\nIf you ever have any trouble, come to me for advice.\nWhat? You don't care about that?\nYou want me to hurry up and tell a scary story?\nHeh heh heh... You mustn't be so impatient.{p}"
+  },
+  {
+   "id": "18:094c",
+   "op": "text",
+   "en": "You see, I didn't come here to tell a scary story.\nI came to show you something scary.\nAre you ready?\nThen allow me to show you my powers as a spirit medium.\nClose the curtains... yes, and turn off the lights too, if you would.{p}"
+  },
+  {
+   "id": "18:0a2c",
+   "op": "text",
+   "en": "...It's pitch black.\nIt's already quite late, and it's pitch black.\nAt times like this, spirits naturally gather.\nWe're already on the fourth scary story.\nBy now, the wandering spirits drifting around here must be starting to take an interest in this atmosphere, don't you think?{p}"
+  },
+  {
+   "id": "18:0b20",
+   "op": "text",
+   "en": "...There, listen closely.\nCan't you hear something like the sound of the wind?\nMixed in with that wind, can't you hear the bitter moans of a woman who killed herself over a broken heart, cursing this world she left behind?\nThere...{p}"
+  },
+  {
+   "id": "18:0bf4",
+   "op": "text",
+   "en": "Listen.\nThat's spirit rapping.{p}"
+  },
+  {
+   "id": "18:0c1c",
+   "op": "text",
+   "en": "The spirits are starting to gather.\nDon't be afraid.\nIf you're afraid, the spirits will take advantage of you.\nKeep your heart calm.{p}"
+  },
+  {
+   "id": "18:0c8c",
+   "op": "text",
+   "en": "Calm down... calm down... listen carefully to what I tell you.\nIf you do, the sounds will stop.\nSilence will settle over the room again.\nNow... calm down... calm down.{p}"
+  },
+  {
+   "id": "18:0d30",
+   "op": "text",
+   "en": "There, see?\nThe sounds stopped.{p}"
+  },
+  {
+   "id": "18:0d60",
+   "op": "text",
+   "en": "{c}{f:|}, if you're scared, you can turn the lights on, you know.\n"
+  },
+  {
+   "id": "18:0da0",
+   "op": "choice",
+   "en": "Turn on the lights"
+  },
+  {
+   "id": "18:0db0",
+   "op": "choice",
+   "en": "It's fine like this"
+  },
+  {
+   "id": "18:0dc0",
+   "op": "text",
+   "follows_choice": [
+    "18:0db0"
+   ],
+   "en": "I see.\nYou don't want to turn the lights on.\nYou've made the wrong choice.\nYou're going to taste an even greater terror.\n"
+  },
+  {
+   "id": "18:0e50",
+   "op": "text",
+   "en": "Uh-oh!\nThe spirits are angry.\nDid you just make fun of the spirits?\nDid you laugh to yourself, thinking something like this couldn't possibly happen?\nIf you thought that, you'd better apologize to the spirits.\nThen they should calm down.\n"
+  },
+  {
+   "id": "18:0f10",
+   "op": "text",
+   "en": "It's no good!\nYou're mocking them.\nIf I don't hold them back, the spirits are going to run wild!\nPlease, calm yourselves.\nWe are not mocking you.\nPlease, return to where you came from.{p}"
+  },
+  {
+   "id": "18:0fdc",
+   "op": "text",
+   "en": "This is bad, a spirit has appeared!\nEveryone, don't move!\nIf you move, it'll attack you!{p}"
+  },
+  {
+   "id": "18:1050",
+   "op": "text",
+   "en": "Hey, come on, you can't turn the lights on.\nWho turned on the lights?\n...Jeez, you've killed the mood.{p}"
+  },
+  {
+   "id": "18:10bc",
+   "op": "text",
+   "en": "...Kazama was holding a Styrofoam box.\n\"Isn't that just dry ice★\"\nThe girl sitting in with us pointed straight at Kazama.\nInside the box was dry ice, giving off white smoke...\nSo that ectoplasm had been nothing but {f:dry ice smoke|dry ice smoke}?{p}"
+  },
+  {
+   "id": "18:11c4",
+   "op": "text",
+   "en": "\"You guys think this looks like dry ice?\nThis is spirits, chilled until they froze solid.\"\nWhat is {f:this guy|this guy} even talking about?\nThen the girl pressed him further.{p}"
+  },
+  {
+   "id": "18:1270",
+   "op": "text",
+   "en": "\"Ah! There's a tape recorder sitting right here!\"\nShe said it and pointed under the desk.\nDon't tell me all those creepy sounds had been coming from this tape recorder?{p}"
+  },
+  {
+   "id": "18:1350",
+   "op": "text",
+   "en": "\"It's fine.\nI'm a spirit medium, so I can do whatever I want.\nYou're awfully noisy, aren't you?\nKeep saying things like that and the spirits will curse you.\"\nKazama had turned completely defiant.\nEveryone was looking at Kazama in exasperation.\n{f:Naturally.|Of course they were.}\n\"...You people are so narrow-minded.\nYou ought to be able to take a little joke.\nI really was just about to summon some spirits.\"\nKazama was utterly unrepentant.{p}"
+  },
+  {
+   "id": "18:14f4",
+   "op": "text",
+   "en": "\"...What's with those looks, all of you?\nGot some complaint with me?\nI was trying to give you all a good scare, and... oh, forget it.\nLet's hurry up and hear the next guy's story.\nIf it's boring, I'll knock your block off.\"\nWith that, Kazama turned away in a huff.\nWhat on earth {f:is with this guy|is with this guy}?\n...Oh, great, now he's totally sulking.\n{f:Can't be helped.|Oh, well.}\n{f:Well, then|All right, then}, let's hear the next person's story.{p}"
+  },
+  {
+   "id": "18:16a4",
+   "op": "text",
+   "follows_choice": [
+    "18:0740"
+   ],
+   "en": "Ah, saying that won't do you any good.\nI have a special power, you see. I can read your mind.\nYou want to know my secret.\nThe secret of me, Nozomu Kazama.\nAdmiring a man of my caliber is {f:just something nobody can help, boy or girl|only natural for a girl}.\nIt's nothing to be embarrassed about.\nSo I'll answer the wish hidden deep in your heart.\nI'll tell you my secret.{p}"
+  },
+  {
+   "id": "18:1818",
+   "op": "text",
+   "en": "...The truth is, I was born on January 1st.\nSo I'm a Virgo, blood type AB.\nMy favorite color is marine blue.{p}My lucky item is canned salmon.\n"
+  },
+  {
+   "id": "18:189c",
+   "op": "choice",
+   "en": "What is he even talking about?"
+  },
+  {
+   "id": "18:18b4",
+   "op": "choice",
+   "en": "I just heard something amazing"
+  },
+  {
+   "id": "18:18d0",
+   "op": "text",
+   "follows_choice": [
+    "18:189c"
+   ],
+   "en": "Whoa, there.\nWhy are you making that face?\n{f:Cut it out.|Is something the matter?}\n{f:Keep giving me funny looks like that|You're cute, so}{f: and you'll wear this beautiful face away| a smile would suit you better}.\n{f:Honestly.|Hmm.}\n{f:You're|All right,} {f:hopeless, you know that|I'll be frank}.\n{f:You don't appreciate|I mean,} {f:the value of my secrets one bit.|I'm the school's super idol, aren't I?}\n{f:Got it|You're in the newspaper club, so you must know that much}?\n{f:There|So there} are tons of {f:gals|people} who idolize me and try to pry out my blood type and birthday.{p}"
+  },
+  {
+   "id": "18:1b00",
+   "op": "text",
+   "en": "{f:So|You see}, for {f:gals|people} like that, I've offered to let the newspaper club do a feature on me.\nHuh? The next feature is the school's seven wonders?\nWell, who cares about that?{p}A feature on me would make a much better paper, I'm sure.\n"
+  },
+  {
+   "id": "18:1bf8",
+   "op": "choice",
+   "en": "...Maybe he's right"
+  },
+  {
+   "id": "18:1c10",
+   "op": "choice",
+   "en": "Please be serious"
+  },
+  {
+   "id": "18:1c28",
+   "op": "text",
+   "follows_choice": [
+    "18:1bf8"
+   ],
+   "en": "...Maybe he was right.\nThis Kazama guy was pretty good-looking, after all.\nBut...\nIf he didn't say such weird things, he'd surely be a lot cooler{f:.|.}\n.........................And yet, in the end, {f:I|I} heard all sorts of things from Kazama and decided to do a feature on him.\nBirthday, blood type, favorite color, favorite food, his type of girl... I got every last thing out of him.{p}"
+  },
+  {
+   "id": "18:1dac",
+   "op": "text",
+   "en": "Then, the next day,\n{f:I|I} was called in by Hino.{p}"
+  },
+  {
+   "id": "18:1e10",
+   "op": "text",
+   "en": "\"{a}, how's it going?\nIs the seven wonders feature shaping up well?\"\nHino was smiling kindly.\n...This might be bad.\nI had dropped the seven wonders feature on my own and gone and interviewed {f:the likes of Kazama|Kazama} instead.\n{f:Was I going to get chewed out?|Would he be angry with me?}\n\"Um, Hino, actually... uh, about the next feature... could we drop the seven wonders?\"\n{f:I|I} finally managed to say just that much.{p}"
+  },
+  {
+   "id": "18:1f80",
+   "op": "text",
+   "en": "\"Huh? Why?\"\n\"...{f:I|I} promised I'd do a feature on this guy Kazama.\nAnd I've already done the whole interview...\"\n"
+  },
+  {
+   "id": "18:2018",
+   "op": "text",
+   "en": "\"What did you say?\"\n\"I'm sorry!\nBut you're partly to blame too, Hino.\nYou're the one who invited Kazama, aren't you?\nI just sort of got swept along at his pace.\"\n...Hino fell silent, dumbfounded.\n{f:But|But} it was too late to change the interview content now.{p}"
+  },
+  {
+   "id": "18:2148",
+   "op": "text",
+   "en": "{f:I|I} ran the feature on Nozomu Kazama.\nThe response was tremendous.\n{f:My|My} choice {f:had been the right one after all|had been right, it seemed}.\nBut Hino went on frowning for a long time after.{p}"
+  },
+  {
+   "id": "18:2208",
+   "op": "text",
+   "en": "Then one day after school, {f:I|I} {f:saw it|saw it}.\n\"If you were going to run a feature on Kazama, you should've run one on me...\"\nHino, grumbling those words at the wall...\nHmm, maybe this is the real scary story from school.\n{f:I|I} stood frozen in the shadows for a while...{p}"
+  },
+  {
+   "id": "18:2334",
+   "op": "text",
+   "follows_choice": [
+    "18:0750"
+   ],
+   "en": "...{f:You're a rude one|That's so mean of you}, you know.\nHere I {f:went out of my way to throw|am, going out of my way to throw} the topic your way.\nAt a time like this,\n\"Yes, please, do tell me!\"\n...{f:is the least|or something like that,}{f: you're supposed to say| is what I'd hoped you'd say}.{p}"
+  },
+  {
+   "id": "18:2424",
+   "op": "text",
+   "en": "Well, fine.\n{f:I was|You're}{f: a fool to expect| nervous too, I bet, and}{f: any thoughtfulness from the likes of you.| just couldn't think of a good answer right away, right?}\nAnyway, let's get on with it.\nMy secret.......... is this.\nThe truth is, I can hear the voice of God.\nGod is always speaking to me, teaching me a better way to live.\n...What's wrong, {c}{f:|}?\nWhy are you backing away like that?\nYou're acting like I'm some kind of dangerous person.{p}"
+  },
+  {
+   "id": "18:2604",
+   "op": "text",
+   "en": "Ah, don't tell me you think I'm lying?\n"
+  },
+  {
+   "id": "18:264c",
+   "op": "choice",
+   "en": "I do think so"
+  },
+  {
+   "id": "18:2658",
+   "op": "choice",
+   "en": "No, not at all!"
+  },
+  {
+   "id": "18:2674",
+   "op": "text",
+   "follows_choice": [
+    "18:264c"
+   ],
+   "en": "...You do think so, you say?\nSo you think I'm lying★{p}You mean to say there's no way I could hear the voice of God★\n"
+  }
+ ]
+}

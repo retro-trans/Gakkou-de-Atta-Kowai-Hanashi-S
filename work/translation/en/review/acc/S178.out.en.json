@@ -1,0 +1,26 @@
+{
+ "rows": {
+  "45:a6b8": "...Beneath this mask lies my heart.\nIf I take the mask off, it will reach you.\nAnd then you'll surely think I'm a horrible girl......\nJust saying it myself has made me sad...{p}",
+  "45:a9cc": "...Goodbye.\nShe went back into the stall.\nThen, still facing away, she took off her mask, held it up high and waved it.\nI felt as though the white, expressionless mask smiled a little.\n.............\n\"Goodbye...\"\nWhen the six had gone into the stalls too, the doors closed on their own.{p}",
+  "45:de0c": "With that, she took the mask from me and went into the stall.\n..................\nThe restroom rumors had not come to an end.\nHad yet another new Hanako-san been brought into the world?\nAnyway, my job was done.\nAll that was left was to write it up as an article.\nThe moment I thought that, I was hit by overwhelming drowsiness.{p}",
+  "45:e354": "\"............\"\nHer face looked terribly sad.\nAll I could do was silently look into her deep, sorrowful eyes.{p}",
+  "45:b904": "(Wh-what is this place?)\nAn unfamiliar classroom... but somehow it looked like somewhere I'd seen before...\nI've got it, this is the old school building.\nBut unlike the old school building I knew, it felt somewhat newer.\nIs this the world as seen through the mask?\nBesides me, several students were studying.\n\"Hey, don't you think the teacher forgot about us?\"\nOne of the students brought it up.\n\"No way...\"\n\"Nah, it could happen.\"\n(Wh-what is this★\nThis is that make-up class story she was telling me about!\nOne, two, three, four... sure enough, there are seven other students besides me!\nAnd the students here all look like the six who gathered to tell the scary stories.\nExcept that the masked girl is mixed in with them)\n\"Hey, {a}, you think so too, right?\"\n\"Yeah, you're right.\nThe teachers must have forgotten all about us.\"\n(Wh-what★ The words are coming out on their own!)\nWhen I was acting normally, I could move my body freely, but at the crucial moments, my body moved on its own.\n(Is this a hallucination? Why am I in a place like this?){p}",
+  "45:d308": "It felt like a flash of light shot through my head.\n(Huh, I thought I just heard something inside my head...\nWas it just my imagination...?)\n\"Man, the teacher's so awful.\nGoing home and forgetting all about us.\"\n\"What a mess we got into.\"\nWe walked down the now completely dark hallway toward the classroom.\n(I'm beat today. A lot happened.\nI'll go to bed early tonight...){p}",
+  "45:d8b8": "\"But why Iwashita, of all people?\nIwashita tried to kill you, you know.\nAnd you'll still take up the challenge.\n...Now I understand. How kind you are.\nIf I touch a heart like that, maybe even I could pass on.\"\nWith that, the masked woman walked toward me.\nAnd she and I overlapped.{p}"
+ },
+ "notes": [
+  "45:a6b8: FIX pauses - source run of 4 dot characters after hazu restored to 6 dots.",
+  "45:a9cc: FIX pauses - 9-character silence restored to 13 dots (was 9).",
+  "45:de0c: FIX pauses - 12-character silence restored to 18 dots (was 9).",
+  "45:e354: FIX pauses - 8-character silence restored to 12 dots (was 9).",
+  "45:b904: TODO - kept 'she': source says kanojo, and the masked girl herself told the make-up class story in this scene (45:2b0c / 45:5134, 'Now I'll tell you what really happened'); Hosoda's scene-27 version is not meant. Dropped the added 'us' (source names no listener).",
+  "45:b904: FIX meaning - 'Only the masked girl is mixed in' read as if she were the only one there; source: they all look like the six, except the masked girl is mixed in.",
+  "45:be64: TODO - 'she' kept: subject omitted, but the previous line ('come here a minute', feminine nasai yo) is a girl of the six; which girl is not settled, so no name. UNSURE.",
+  "45:d130: TODO - 'save me' kept: the voice is the masked girl's (she addresses {a} and vows revenge), so the omitted object is her. UNSURE.",
+  "45:d308: FIX added gender - 'isn't he?' gave the unnamed teacher a gender the source does not; removed.",
+  "45:d8b8: FIX addition - 'becoming one' not in source (kasanariatta = overlapped).",
+  "45:de0c: FIX meaning/KEPT OMISSION - 'mata' (yet another) was missing; subject of umidashite shimatta is not stated (the player, the school or the rumor), so passive kept instead of 'I'.",
+  "45:aea0/45:b47c: RETURN - tonda kanchigai rendered 'a serious delusion'; 'you're sorely mistaken' may suit the voice better.",
+  "45:a780: UNSURE - source says the throat (nodo) glittered in the light; kept literally."
+ ]
+}

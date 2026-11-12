@@ -1,0 +1,365 @@
+{
+ "slice": "S077",
+ "scene": "19",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S076",
+ "next": "S078",
+ "todo": [],
+ "rows": [
+  {
+   "id": "19:61a8",
+   "op": "text",
+   "en": "\"I won't press you on where you learned about the Sunbararians' special powers.\nBut... it seems you've come from another planet too.\nYou smell different. That smell...\"\nKazama said.{p}"
+  },
+  {
+   "id": "19:625c",
+   "op": "text",
+   "en": "Then Kazama whispered in {f:my|my} ear.{p}"
+  },
+  {
+   "id": "19:629c",
+   "op": "text",
+   "en": "\"☆☆★·☆··☆\"{p}Now, how should I react?\n"
+  },
+  {
+   "id": "19:62d4",
+   "op": "choice",
+   "en": "Answer him with any old thing"
+  },
+  {
+   "id": "19:62e4",
+   "op": "choice",
+   "en": "Tell him to quit fooling around"
+  },
+  {
+   "id": "19:6300",
+   "op": "text",
+   "follows_choice": [
+    "19:62d4"
+   ],
+   "en": "Without thinking, {f:I|I} just said whatever came out,\n"
+  },
+  {
+   "id": "19:6330",
+   "op": "text",
+   "en": "\"☆··★☆·☆\"\nThat was my answer.\nWhat a pushover {f:I|I} {f:am|am}.\nNow that I think about it, I'm doing something really stupid.\nBut Kazama... {f:he didn't have to go that far|he didn't have to go that far}.\nHe's obsessive about the weirdest things, or {f:maybe he's just plain dumb|it's all just plain silly}...{p}"
+  },
+  {
+   "id": "19:6484",
+   "op": "text",
+   "en": "Then I noticed Kazama suddenly looked angry.\n\"We offered to conquer this planet together with you people!\nAnd you're turning us down?★\"\nWh-what are {f:you|you} saying, Kazama?\n{f:I|I} only gave him a random answer.\n\"We Sunbararians basically don't get emotional, but if that's how you want it, we've got plans of our own!\nDamn you, Pohipohian!\"\n{f:M|M}-{f:me|me}, a Pohipohian?{p}"
+  },
+  {
+   "id": "19:6624",
+   "op": "text",
+   "en": "Ignoring {f:me|me} as I stood there dumbfounded, Kazama went to the window.\nThen he raised his hand toward the sky.\n\"Reporting!\nOn Earth, we have discovered aliens besides ourselves who seek to conquer it!\nThey have trampled on our goodwill.\nCommence the Earth invasion plan at once☆\"{p}"
+  },
+  {
+   "id": "19:6734",
+   "op": "text",
+   "en": "At that moment, two balls of light suddenly appeared in the sky.\nFlying saucers★\nNo, that's crazy...\nThen the two balls of light fired beams at each other and burst into a blinding glare.{p}"
+  },
+  {
+   "id": "19:67dc",
+   "op": "text",
+   "en": "\"{f:Whoa|Eek}☆\"\n{f:I|I} instinctively looked away.{p}"
+  },
+  {
+   "id": "19:682c",
+   "op": "text",
+   "en": "Wh-{f:what|what}... what on earth {f:was|was} that☆\nThere was nothing but empty sky stretching out {f:there|there}.{p}"
+  },
+  {
+   "id": "19:68c4",
+   "op": "text",
+   "en": "Kazama spoke to {f:me|me}, looking disappointed.\n\"The Sunbararian and Pohipohian ships shot each other down and were destroyed...\nYou'll pay for this, Pohipohian!\nNext time, you won't get off so easy!\"\n...At that moment...\n{f:I|I} didn't miss it.\nKazama's eyes glowed gold.\nKazama went back to his seat, looked around at everyone, and spoke.{p}"
+  },
+  {
+   "id": "19:6a2c",
+   "op": "text",
+   "en": "\"Sorry about that. We had a little internal squabble.\nOh, {c}{f:|}!\nCould we have a little word later?\n...Now then, who's telling the last story?\"\nHold on a minute!\nWhat does he mean, a little word{f:?|?}\n...Anyway, that doesn't matter right now{f:.|.}\nThere are six people here, so unless a seventh shows up, the next story {f:will be|has to be} the last.\nI {f:have to|have to} hear the last person's story...{p}"
+  },
+  {
+   "id": "19:6bd4",
+   "op": "text",
+   "follows_choice": [
+    "19:2830"
+   ],
+   "en": "\"Kazama, come on, that's going way too far.\nPlease tell us a serious story.\"\n{f:I|I} found myself saying that to Kazama.{p}"
+  },
+  {
+   "id": "19:6c5c",
+   "op": "text",
+   "en": "\"Serious?\n{f:How rude|That's mean}. Are you calling me a liar?\nI'm perfectly serious.\nI'll have you know, I pride myself on being the most honest person there is.\nI can't accept being branded a liar like that{f:.|.}\n{f:Huh|Well}?\"\nHe said it a little sulkily.{p}"
+  },
+  {
+   "id": "19:6d88",
+   "op": "text",
+   "en": "\"...So basically, you don't trust me.\nIs what I told you really that hard to believe?\"{p}He looked displeased{f:.|.}\n"
+  },
+  {
+   "id": "19:6e10",
+   "op": "text",
+   "follows_choice": [
+    "19:29a0"
+   ],
+   "en": "\"I trust you, Kazama!\nIf you say so, then {f:we|we}'ll believe it.\nYes☆\nEven if nobody else believes you, {f:I|I} will☆ Kazama☆\nHuff, huff, huff...\"\n{f:I|I} found myself straining way too hard.\nIf I didn't say something like that, who knows what he'd say to me later{f:.|.}\n\"It's all right, you don't have to force yourself.\nI'll show you the proof, nice and thoroughly...\"\nKazama said with a broad smile.{p}"
+  },
+  {
+   "id": "19:6fd4",
+   "op": "text",
+   "en": "\"Our eyes have degenerated, you see.\nLook...\"\nKazama jabbed his fingers into his own eyes and gouged them out.{p}"
+  },
+  {
+   "id": "19:7048",
+   "op": "text",
+   "en": "\"I can get by in daily life just fine like this, but I figured it would startle everyone.\"\nAnd then he pushed the eyes back into the gaping holes.{p}"
+  },
+  {
+   "id": "19:70d4",
+   "op": "text",
+   "en": "\"We can communicate with each other through ultrasound.\"\nHe twitched his ears.\nApparently he could move them however he liked.\nTh-that's {f:amazing|amazing}.\n{f:With|With} that, it {f:makes sense|makes sense} that he doesn't need eyes.\n\"Do you all know how earthquakes happen?\"\nHe asked {f:me|me}.\n\"Um, it's something to do with magma, right...\"\n{f:I|I} started to say, but he cut me off.\n\"Tsk, tsk, tsk. We're the ones who control all of them.\"\nKazama said that and held up his index finger.\n\"And I can do things like this, too.\"{p}"
+  },
+  {
+   "id": "19:72e0",
+   "op": "text",
+   "en": "He pressed his ear to the floor.\nThen he {f:seemed to be muttering|started muttering} something to himself.{p}"
+  },
+  {
+   "id": "19:7344",
+   "op": "text",
+   "en": "\"Kazama, what are you doing?\"\nSuddenly, still in that position, Kazama snapped his fingers.\nSomething went rumble, rumble, rumble.{p}"
+  },
+  {
+   "id": "19:73d4",
+   "op": "text",
+   "en": "\"{f:Whoaaaaaa|Eeeeeeek}! It's an earthquake{f:!|!}\"\n{f:I|I} have to get under a desk, fast!\nWhat on earth is {f:going on|going on}?\nIt's shaking like crazy{f:!|!}\n\"It's okay, I'll stop it right away.\"\nHe said.{p}"
+  },
+  {
+   "id": "19:74b4",
+   "op": "text",
+   "en": "\"...Oh, cr-crap☆\"\nKazama said, flustered.{p}"
+  },
+  {
+   "id": "19:74f4",
+   "op": "text",
+   "en": "\"Looks like the earthquake control device is broken☆\nWhat do I do?!\"\nDon't give me 'what do I do'{f:☆|☆}\nAt this rate, this whole area is going to collapse{f:!|!}{p}"
+  },
+  {
+   "id": "19:75a0",
+   "op": "text",
+   "en": "\"Kazama, this is no time for 'what do I do'!\n{f:Gyaaaaaaah|Nooooooo}☆\"{p}"
+  },
+  {
+   "id": "19:7604",
+   "op": "text",
+   "en": "{f:I|I} watched the pillar behind me crumble down, unable to even move...\nNo way {f:I|I}'m dying because some subterranean messed up! That's too stupid!{p}"
+  },
+  {
+   "id": "19:76ac",
+   "op": "text",
+   "follows_choice": [
+    "19:382c"
+   ],
+   "en": "\"You want me to show you proof?\"\nKazama stroked his chin for a while, then said:\n\"You see, I've been acting strictly as a human to avoid causing a panic.\nSo whatever happens here, you mustn't tell a soul.\nGot it? Understood?\"\nWith that, he traced a circle in the air with his finger.{p}"
+  },
+  {
+   "id": "19:77d0",
+   "op": "text",
+   "en": "Then, where his finger had traced the circle, a black hole gaped open.\nInside it, bands of all kinds of light swirled against the black.\n\"This is where we live.\"\nWith that, he stuck his face into the hole and clowned around.\nThen he closed the black hole with his fingers and spoke.{p}"
+  },
+  {
+   "id": "19:78f4",
+   "op": "text",
+   "en": "...We Yapare, who live in another dimension, have an advanced civilization.\nFrom where we stand, you people seem to live extremely primitive lives.\nI'm one of an elite unit dispatched from the other dimension.\nWhy was I dispatched, you ask?{p}"
+  },
+  {
+   "id": "19:79e0",
+   "op": "text",
+   "en": "The planet we lived on in the other dimension was attacked by the Hidebu, a savage interdimensional race.\nThanks to them, we were forced to flee in escape ships.\nWe're not a warlike race, you see.\nWe don't like violent fights.\nSo we thought, why not just move somewhere else altogether...\nAnd so we've been searching for a new place to settle.{p}"
+  },
+  {
+   "id": "19:7b2c",
+   "op": "text",
+   "en": "Right now, everyone is waiting in the rift between dimensions for the results of our survey of Earth.\nOur comrades are scouting out other places we might move to, as well, but it's not going too well.\nStill, for now Earth is our top candidate for migration.{p}"
+  },
+  {
+   "id": "19:7c18",
+   "op": "text",
+   "en": "Oh, but you don't need to worry.\nWe treat the native inhabitants with great care.\nYes, we're a pitiful race.\nDon't you think so?{p}"
+  },
+  {
+   "id": "19:7c98",
+   "op": "text",
+   "follows_choice": [
+    "19:3c5c"
+   ],
+   "en": "\"This guy is weird...\"\nI muttered it quietly without thinking, but Kazama caught every word.{p}"
+  },
+  {
+   "id": "19:7d00",
+   "op": "text",
+   "en": "\"...I knew it. It was too much to ask you to understand our suffering.\nBut isn't that an awful way to put it?\nThat's cruel...\nForget it... I've been spouting all that nice talk about coexisting with the natives, but that's it, I quit, I'm done!\"{p}"
+  },
+  {
+   "id": "19:7dec",
+   "op": "text",
+   "en": "With that, Kazama stood by the window.\nThen he raised his hand toward the {f:sky|sky}.{p}"
+  },
+  {
+   "id": "19:7e54",
+   "op": "text",
+   "en": "\"··★☆☆·☆☆\"{p}"
+  },
+  {
+   "id": "19:7e7c",
+   "op": "text",
+   "en": "Then the sky split wide open, and a dazzling beam of light shone down through it.{p}"
+  },
+  {
+   "id": "19:7ecc",
+   "op": "text",
+   "en": "It all happened in an instant.\nWhat on earth {f:was|was} that?\nAnd those strange words Kazama spoke just now...?{p}"
+  },
+  {
+   "id": "19:7f64",
+   "op": "text",
+   "en": "Then Kazama said:\n\"Sorry, but I've already sent the signal to begin the migration to Earth.\nI'm done thinking about coexisting with you.\nI'll tell you this much: we look just like you, so you won't be able to tell us apart.\nAnd before you know it, the day will come when we overwhelm you.\nWe'll replace you completely.{p}"
+  },
+  {
+   "id": "19:80a0",
+   "op": "text",
+   "en": "I can't wait.\nIt's so exciting.\nWell, that's the end of my story.\nNext person, take it away.\"\nAh, just thinking about it is going to drive me crazy{f:.|.}\n...Is he really a being from another dimension{f:?|?}{p}"
+  },
+  {
+   "id": "19:8188",
+   "op": "text",
+   "follows_choice": [
+    "19:62e4"
+   ],
+   "en": "\"Come on, Kazama☆\nQuit messing around already☆\nThere's a limit to how far you can take a joke.\nThere's no way {f:I|I}'m an alien!\"\n{f:I|I} finally blew a fuse.\nKazama seemed a little startled too{f:.|.}\nI'm embarrassed I got carried away and said {f:I|I} was an alien too...\nHe said:{p}"
+  },
+  {
+   "id": "19:82f4",
+   "op": "text",
+   "en": "\"{c}{f:|}, you lied to me just now, didn't you?\nIt's too late for regrets.\n{c}{f:|}, what do you think this is?\"{p}"
+  },
+  {
+   "id": "19:8388",
+   "op": "text",
+   "en": "Kazama took a small piece of metal out of his pocket.\n............{f:What|What}? It's just an ordinary school badge{f:.|.}\nI wish he wouldn't scare me like that{f:.|.}{p}"
+  },
+  {
+   "id": "19:8434",
+   "op": "text",
+   "en": "\"Heh heh heh. I planted bombs all over the world, just in case something like this happened.\nThis is the switch.\nThey're no ordinary bombs.\nThey can wipe out living things, and only living things, in an instant.\nWith these, conquering Earth will be a simple matter.\"\nKazama was grinning.\nHe's {f:joking, right|joking, right}...?\n{f:Don't make me laugh|Come on}, {f:seriously|I really want to do a serious interview}.\n\"Heh heh heh. You don't believe me, I see.\nI can't forgive being lied to.\nI was a fool to show mercy to humans like you.\nI'm disillusioned.\nWell then, this is goodbye.\nHuman life wasn't half bad.\"\nWith that, he held up the school badge.{p}"
+  },
+  {
+   "id": "19:8690",
+   "op": "text",
+   "en": "A tremendous flash of light engulfed {f:us|us}.\nHe really was an alien{f:.|.}\nWhat an idiot {f:I|I} {f:am|am}.\n...It's too late now{f:, isn't it|, isn't it}...{p}"
+  },
+  {
+   "id": "19:874c",
+   "op": "text",
+   "follows_choice": [
+    "19:4504"
+   ],
+   "en": "\"Kazama, come on, that's going way too far.\nPlease tell us a serious story.\"\n{f:I|I} found myself saying that to Kazama.{p}"
+  },
+  {
+   "id": "19:87d4",
+   "op": "text",
+   "en": "\"Serious?\n{f:How rude|That's mean}. Are you calling me a liar?\nI'm perfectly serious.\nI'll have you know, I pride myself on being the most honest person there is.\nI can't accept being branded a liar like that{f:.|.}\n{f:Huh|Well}?\"\nHe said it a little sulkily.\nThen he went on.\n\"...So basically, you don't trust me.\nIs what I told you really that hard to believe?\"{p}"
+  },
+  {
+   "id": "19:8970",
+   "op": "text",
+   "follows_choice": [
+    "19:4684"
+   ],
+   "en": "{f:I|I} said,\n\"Honestly, it's a little hard to believe.\"\n\"...I was worried nobody would believe me even if I told them my secret.\nSo you don't believe me either.\n...Fine.\nBut I've got my pride as a yokai, so I'll show you proof that I'm a yokai.\nBesides, if I show you proof right here that I'm a yokai, it'll probably make it easier for you to write your article, {c}{f:|}.\"{p}"
+  },
+  {
+   "id": "19:8b00",
+   "op": "text",
+   "en": "With that, he walked over to {f:me|me}.\n\"{c}{f:|}, all right, close your eyes.\nDon't open them until I say so.\"\n{f:I|I} closed my eyes as Kazama told me.{p}"
+  },
+  {
+   "id": "19:8bc8",
+   "op": "text",
+   "follows_choice": [
+    "19:4a44"
+   ],
+   "en": "Going along with this stuff... {f:I|I} really am too nice for my own good{f:...|...}\nBut a tiny part of me thought maybe, just maybe, so {f:I|I} held out.\n\"Okay, that's enough. Open your eyes.\"\nHe said.{p}"
+  },
+  {
+   "id": "19:8cc4",
+   "op": "text",
+   "en": "...Nothing seems to have changed, though.\nSeeing {f:me|me} like that, he laughed and said:\n\"Sorry, but I can't prove my yokai powers just yet.\nYou'll find out on the night of the next full moon.\nThat day, {c}{f:|}, you'll notice a change in yourself.\nYou'll turn into a beast.{p}"
+  },
+  {
+   "id": "19:8df0",
+   "op": "text",
+   "en": "I am a nurarihyon, a yokai.\nI can turn humans into yokai.\nThat's the only thing that can prove to everyone that I'm a yokai.\nWhich means, {c}{f:|}, you'll be proving it with your own body.\"\nAs Kazama said that, {f:I|I} didn't miss the gold glow in his eyes.{p}"
+  },
+  {
+   "id": "19:8f0c",
+   "op": "text",
+   "en": "{f:I|I}'m going to become a yokai?\n{f:Quit joking around|Don't be ridiculous}.\n...But the next full moon is only three days away{f:, I think|, isn't it}.\nThere's nothing to worry {f:about|about}. I just won't believe a word Kazama says{f:.|.}\n...I just won't believe it.{p}"
+  },
+  {
+   "id": "19:900c",
+   "op": "text",
+   "en": "Kazama looked around at everyone and said,\n\"Well, that's the end of my story.\nOn the night of the full moon, once you all get a look at {c}{f:|}, you'll know what I said was true.\n...Now, shall we hear the next person's story?\"{p}"
+  },
+  {
+   "id": "19:90dc",
+   "op": "choice",
+   "en": "Wait. I can do that too."
+  },
+  {
+   "id": "19:9100",
+   "op": "choice",
+   "en": "Looks amazing. Watch quietly."
+  },
+  {
+   "id": "19:9120",
+   "op": "text",
+   "follows_choice": [
+    "19:90dc"
+   ],
+   "en": "\"Ah, wait a minute!\nI can actually do that too...\"{p}"
+  },
+  {
+   "id": "19:917c",
+   "op": "text",
+   "en": "\"Huh?\"\nKazama looked surprised; he hadn't expected that.\nBut he soon said with a big smile:{p}"
+  },
+  {
+   "id": "19:91e0",
+   "op": "text",
+   "en": "\"Hahaha... {b}.\nYou sure tell funny jokes.\nThis is something only a Sunbararian can do.\"\nKazama let out a loud, haughty laugh.\n\"...Um.\nThat wouldn't happen to be the trick where you set the paper on fire, the paper burns away, and the ten-yen coin drops in, would it...\"{p}"
+  },
+  {
+   "id": "19:9304",
+   "op": "text",
+   "en": "When I timidly said that, Kazama slowly rose from his seat.\nHe seemed honestly astonished.\n\"...You knew!\n...You're a sneaky one, aren't you?\nSo you're an alien too.\"{p}"
+  },
+  {
+   "id": "19:93b4",
+   "op": "text",
+   "en": "With that, he suddenly broke into a friendly grin and clapped me on the shoulder.\nWhat on earth is with this guy?{p}How should I answer?\n"
+  },
+  {
+   "id": "19:943c",
+   "op": "choice",
+   "en": "Yes. I'm an alien too."
+  },
+  {
+   "id": "19:9458",
+   "op": "choice",
+   "en": "No. I'm an Earthling."
+  }
+ ]
+}

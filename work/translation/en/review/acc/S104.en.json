@@ -1,0 +1,399 @@
+{
+ "slice": "S104",
+ "scene": "26",
+ "narrator_hint": "Tomoharu Hosoda (storyteller)",
+ "prev": "S103",
+ "next": "S105",
+ "todo": [
+  "- 26:177a8 (S104): translator softened a source contradiction (tanuki named after Yoshida vs 'Ponkichi') — accuracy review: translate as written."
+ ],
+ "rows": [
+  {
+   "id": "26:166a4",
+   "op": "text",
+   "en": "He'd gotten it all wrong, you see.\nHe'd mixed up what 'paraded through town' meant—he thought it meant being dragged around.\nHe started pedaling as hard as he could along the walking trail, where hardly anyone ever came.\nAt first, Ponkichi ran for dear life and kept up.\nBut soon its legs couldn't keep pace, and finally it started being dragged.\nGetting carried away, the guy went faster and faster and faster.\nPonkichi shrieked, frantically trying to run.\nBut once the bike hit the downhill slope, it sped along at a terrific speed.\nPonkichi tumbled belly-down, then back-down, until its whole body was scraped into a raw mess.\nBy the time the guy had made one lap of the trail on the hill behind the school, Ponkichi had passed out and hung limp.\nApparently all its fur had been torn off, and it was covered in blood.{p}"
+  },
+  {
+   "id": "26:16968",
+   "op": "text",
+   "en": "Even that wasn't enough for the guy. He took it back to the restroom and hung it from the entrance of a stall.\nHe probably wanted to crucify it, but there was nowhere to nail it up.{p}"
+  },
+  {
+   "id": "26:16a1c",
+   "op": "text",
+   "en": "\"Hey, say something, why don't you.\"{p}"
+  },
+  {
+   "id": "26:16a4c",
+   "op": "text",
+   "en": "The guy gave Ponkichi a poke, but Ponkichi didn't make a peep.\n\"What, you went and died on me?\"\nHe said it like he was really disappointed, then left it hanging there and walked out of the restroom.{p}"
+  },
+  {
+   "id": "26:16b24",
+   "op": "text",
+   "en": "And then Ponkichi was found by the boy who'd been taking care of it.\n\"Ponkichi! Ponkichi☆\"\nPonkichi was dead, still hanging there.\nCovered in blood from head to tail, looking as if it had hanged itself.\n\"How could anyone do something so horrible?\nWhat would it take to leave it like this...\"\nHe was devastated.\nThen he made a grave beside the restroom and buried it.{p}"
+  },
+  {
+   "id": "26:16c64",
+   "op": "text",
+   "en": "Then a few days went by.\nAll that time, he never once missed visiting the grave.{p}"
+  },
+  {
+   "id": "26:16cd0",
+   "op": "text",
+   "en": "That day after school, too, he went over to the restroom to visit the grave.\nAnd there was someone wrecking the grave.\nFurious, he ran right up to the guy.\n\"What do you think you're doing?!\"\nHis face bright red, he told him off.\nBut the guy just got angry right back and punched him.\nAnd then he said,\n\"I'm the one who killed the tanuki,\"\njust like that.\nWhen he heard that, he went at the guy with his fists.\nBut he was no match for him at all.{p}"
+  },
+  {
+   "id": "26:16e84",
+   "op": "text",
+   "en": "Instead, he got beaten to a pulp and dragged into the restroom.\nThe guy must have figured he'd beat him all he liked, where no one could see.\nAnd he kept on beating him.\nSo much that the whole restroom ended up covered in blood.{p}"
+  },
+  {
+   "id": "26:16f84",
+   "op": "text",
+   "en": "\"Tch. So I killed a tanuki or two. So what?\nYou got no business lecturing me about it.\"\nWith that, the guy walked out.{p}"
+  },
+  {
+   "id": "26:17020",
+   "op": "text",
+   "en": "After that, he stayed home from school for a few days, until the swelling went down.{p}"
+  },
+  {
+   "id": "26:17064",
+   "op": "text",
+   "en": "And when he went back to school, everyone was talking about a certain male student.{p}"
+  },
+  {
+   "id": "26:170c0",
+   "op": "text",
+   "en": "On his way home from school on his bike, that student got caught by a dump truck and dragged for several hundred meters.\nNaturally, by the time they found him, he was dead.\nBut you know, according to people who saw him being dragged, he was still alive while it was happening.\nThey say he was screaming.\nHorrible, isn't it?\nI wonder what it feels like to be dragged around alive.\nIt must hurt so much you can't think of anything at all.{p}"
+  },
+  {
+   "id": "26:17248",
+   "op": "text",
+   "en": "That student, see—he was the one who killed Ponkichi.\nBy coincidence, he died the same way Ponkichi did.\nDo you think that's just a coincidence?\nI sure don't.{p}"
+  },
+  {
+   "id": "26:172f8",
+   "op": "text",
+   "en": "So, about that restroom by the gym.\nApparently it's haunted.\nBy the student who killed Ponkichi...{p}"
+  },
+  {
+   "id": "26:17368",
+   "op": "text",
+   "en": "For some reason, they say he's in there, desperately apologizing to something.\n\"I'm sorry... I'm sorry,\"\nlike that.\nSo nobody goes near that restroom anymore.{p}"
+  },
+  {
+   "id": "26:17418",
+   "op": "text",
+   "en": "Actually, this story isn't over yet.{p}Would you like to hear the rest, {a}{f:|}?\n"
+  },
+  {
+   "id": "26:17474",
+   "op": "choice",
+   "en": "I've had enough"
+  },
+  {
+   "id": "26:17484",
+   "op": "choice",
+   "en": "Please tell me more"
+  },
+  {
+   "id": "26:17498",
+   "op": "text",
+   "follows_choice": [
+    "26:17484"
+   ],
+   "en": "Okay, okay, got it.\nI'll tell you.{p}"
+  },
+  {
+   "id": "26:174e4",
+   "op": "text",
+   "en": "One of the classmates of the boy who looked after the tanuki was a girl named Namiko Yoshida...\nRight around when Ponkichi started showing up at school, she stopped coming to school.\nHe was worried about her.\nBecause he liked Yoshida, you see.\nAfter a while, a rumor started going around that she'd gone missing.\nAnd it seemed it was no mere rumor, but the truth.\nHe was terribly worried, but in the end, she was never found.\nAnd then that incident happened.\nThe one where Ponkichi was killed.{p}"
+  },
+  {
+   "id": "26:176e4",
+   "op": "text",
+   "en": "Yoshida was still missing.\nThe boy who'd looked after the tanuki kept tending Ponkichi's grave every day.\nWhy do you suppose he cared so much about Ponkichi?{p}"
+  },
+  {
+   "id": "26:177a8",
+   "op": "text",
+   "en": "The truth is, he'd secretly named that tanuki after her.\nHe could never bring himself to confess his feelings to Yoshida.\nSo instead, he named the tanuki after her and doted on it, to fool himself about how he felt.\nPathetic, isn't it...\nI guess he got lonely once Yoshida was gone.{p}"
+  },
+  {
+   "id": "26:178c4",
+   "op": "text",
+   "en": "He began tending the grave of the tanuki he'd named after Yoshida even more devotedly than before.\nOn windy days, on rainy days.\nIt was as if he meant to keep it up until she really appeared.\nAnd then she really did appear.\nShe did............\nThat day, too, after school when everyone had gone, he was tending the grave alone.\nThat was when someone spoke to him from behind.\n\"...You always take such good care of it............\nThank you...\"{p}"
+  },
+  {
+   "id": "26:17a70",
+   "op": "text",
+   "en": "When he turned around, there stood Yoshida.\n\"Yoshida☆\"\nStartled, he started to rush over to her.\n\"Wait.\nPeople will see us here.\nThis way...\"\nShe led him inside that restroom.{p}"
+  },
+  {
+   "id": "26:17b70",
+   "op": "text",
+   "en": "\"You took care of the tanuki here, didn't you...\"\n\"Huh...\"\nHe was stunned.\nHow did she know about that?\nAfter all, she'd gone missing before the tanuki ever showed up at school.\n\"How do you know that...\"\nhe asked her.{p}"
+  },
+  {
+   "id": "26:17c78",
+   "op": "text",
+   "en": "\"I was watching the whole time.\nWatching you take care of it.\nNo—I was the one you were taking care of...\n...That tanuki was me...\"\nHe was so confused he had no idea what was going on.\n\"Huh? What?\nWait a second...\nI don't understand what you mean...\"\n\"...Yes.\nI can't blame you.\nIt's an unbelievable story, after all.\nYou see, I'm actually dead.\nWhat's standing here like this is my soul...\nWhat people call a ghost...\"\nThat's right—the one who'd appeared there was Yoshida's ghost.\nAnd she began to talk.\nAbout how she had come to die.{p}"
+  },
+  {
+   "id": "26:17ed0",
+   "op": "text",
+   "en": "\"One day, I found a tanuki.\n...At school.\nIts leg was badly hurt.\nIt must have been hit by a car or something.\nWhen I went closer to treat it, it limped off toward the hill out back, desperately trying to get away.\nIt had something like food in its mouth...{p}"
+  },
+  {
+   "id": "26:17ff8",
+   "op": "text",
+   "en": "I was worried about it, so I followed it up into the hill out back.\nThere were several tanuki cubs there.\nThey were waiting for their mother to come home.{p}"
+  },
+  {
+   "id": "26:18084",
+   "op": "text",
+   "en": "The injured tanuki had been bringing food to her cubs.\nComing all the way down to where people live.{p}"
+  },
+  {
+   "id": "26:180e8",
+   "op": "text",
+   "en": "On the way, she was hit by a car.{p}"
+  },
+  {
+   "id": "26:18118",
+   "op": "text",
+   "en": "Once the mother tanuki gave her cubs the food, she died, looking relieved.\nI felt so sorry for that tanuki.\nSo I decided to bring them food in her place.\nThey didn't look like they could find food on their own yet, after all.\nEvery day, I went up into the hill out back and fed them.{p}"
+  },
+  {
+   "id": "26:18240",
+   "op": "text",
+   "en": "It was a rainy, terribly damp day.\nI was bringing them food as usual.\nAnd then... the long rain had loosened the ground...\nI slipped and fell down a cliff.\nI remember the blood gushing from my head.\nThat's when I thought it.\nI'm going to die.\nAnd if I die, who'll take care of those little ones?\nThat's what I was thinking about, even as I was dying.\nThen the spirit of that injured tanuki appeared before me.\nThe mother tanuki's love for her cubs and my feelings became one, and a miracle happened.{p}"
+  },
+  {
+   "id": "26:18478",
+   "op": "text",
+   "en": "I came back to life as a tanuki.\nOr maybe I possessed some other tanuki.\nEither way, I could keep bringing food to those cubs.\nAnd then you found me.{p}"
+  },
+  {
+   "id": "26:18548",
+   "op": "text",
+   "en": "You shut me up in this restroom, and I couldn't bring them food anymore.\nDo you think I hated you?\n"
+  },
+  {
+   "id": "26:185b0",
+   "op": "choice",
+   "en": "You hated me"
+  },
+  {
+   "id": "26:185b8",
+   "op": "choice",
+   "en": "You didn't hate me"
+  },
+  {
+   "id": "26:185c8",
+   "op": "text",
+   "follows_choice": [
+    "26:185b8"
+   ],
+   "en": "That's right, I didn't hate you.\nNo, that's not quite true.\nAt first, I did hate you.\nI'd finally been able to bring food to the cubs, and then this.\nBut soon, that hatred faded away.\nBecause you called me by my name...{p}"
+  },
+  {
+   "id": "26:186d4",
+   "op": "text",
+   "en": "At first, I was worried you'd realized I'd turned into a tanuki.\nBut that didn't seem to be it.\nYou'd only given the tanuki my name because you were pining for me.\nI was happy.\nWhen I found out there was someone who cared about me.\nHonestly, sometimes I thought, if only I'd known before I died... but you took such devoted care of me that I didn't mind.{p}"
+  },
+  {
+   "id": "26:18864",
+   "op": "text",
+   "en": "...But because of a heartless boy, I had to die all over again.\nYou know about that too, don't you.{p}"
+  },
+  {
+   "id": "26:188e8",
+   "op": "text",
+   "en": "Even so, you made me a grave and took care of it every day like this.\nThanks to you, I think I'll be able to pass on...\"\n\"Huh? Pass on...?\"\nHearing that she would pass on shook him.\nHe'd finally been able to see Yoshida again, and now she was going to pass on...\nEven if she was a ghost, he wanted to be with her.\n\"Yes. Thanks to you, I can rest in peace and pass on.\nThank you...\nI wanted to tell you that, so today I appeared before you like this.\"\n\"No!\nI thought I'd finally gotten to see you, and now I'll never see you again...\nYou don't have to pass on.\nStay with me forever!\"\nHe begged Yoshida desperately.{p}What do you think she said?\n"
+  },
+  {
+   "id": "26:18b74",
+   "op": "choice",
+   "en": "I can't do that"
+  },
+  {
+   "id": "26:18b84",
+   "op": "choice",
+   "en": "All right"
+  },
+  {
+   "id": "26:18bac",
+   "op": "text",
+   "follows_choice": [
+    "26:18b84"
+   ],
+   "en": "\"All right...\nThank you.\nI'm so happy you care about me that much.\nBut promise me just this one thing.\nNo matter what happens, don't ever come to hate me.\"\n\"I promise.\nI'll never, ever hate you.\nI promise.\nSo stay with me forever...\"\nShe agreed.\nOn one condition: she couldn't leave that restroom.\nHe was overjoyed.\nBut he should have thought it through.\nWhat it meant for her to stay there instead of passing on.\nEvery day after school, he went to that restroom to meet her.\nJust as if they were going on dates.\nThat went on for several months.{p}"
+  },
+  {
+   "id": "26:18e2c",
+   "op": "text",
+   "en": "But you know, little by little, her face began to change.\nGradually, it took on a vicious look.\nLittle by little, he came to be afraid of her.\nEven her slightest gestures, even her smile, began to fill him with fear.\nShe noticed that about him, too.\nSo she pressed him on it.\nYou'll never come to hate me, no matter how long it's been, will you?\nBut you know, when he saw her face at that moment, he flinched.\nIt felt like she was threatening him.\nAnd that made her furious.{p}"
+  },
+  {
+   "id": "26:19020",
+   "op": "text",
+   "en": "\"You said so!\nYou said you'd never hate me.\nAnd yet you...\nYou... Youuuu☆\"\nShe lunged at him.\nHer face was no longer the face she'd had.\nIt was like a demon's...\nIt was a face that didn't look human at all.{p}"
+  },
+  {
+   "id": "26:1914c",
+   "op": "text",
+   "en": "Somehow he managed to get away.\nThat's how he survived.\nShe'd gone so long without passing on that low-level spirits must have gotten to her.\nThat has to be why she turned out like that.{p}"
+  },
+  {
+   "id": "26:19224",
+   "op": "text",
+   "en": "They say she still appears.\nIn that restroom—the ghost of Yoshida, who became a tanuki...\nBecause she can't pass on.\nHe doesn't visit the grave anymore either, so I bet there's not a trace of it left now, don't you think?\nAnyway, that restroom is haunted.\nBy the boy's ghost, and by Yoshida's ghost.\nIt's especially dangerous if you run into Yoshida's ghost.\nNo matter who's in there, she'll lunge at them.\nAnd if she gets you, they say she rips your soul out.\nNot that I really know.\nWhen new students come in, they don't know about that restroom, so they use it.\nAnd if they're unlucky enough to meet her ghost, they collapse dead, as if their soul had been ripped out.\nThe school says they slipped and hit their heads, though.{p}"
+  },
+  {
+   "id": "26:194c8",
+   "op": "text",
+   "en": "...Do you know how I know this story?\nThe truth is, the boy who took care of that tanuki was me.\nThat all happened just a year ago.\nSo it's true. That restroom really is haunted.\nI'm warning you.\nYou'd better not go to that restroom.\nNot unless you want to die.\n...And that's the end of my story.\nThe next person is finally the last one.\nWell then, I'll leave it to you.{p}"
+  },
+  {
+   "id": "26:19650",
+   "op": "text",
+   "follows_choice": [
+    "26:10568"
+   ],
+   "en": "I see...\nThe important part was coming up next, though.\nOh well, I understand.\nThere's no point making you listen if you don't want to.\nBut I'm warning you.\nWhatever you do, don't go to that restroom.\nThat much, I'm telling you.{p}"
+  },
+  {
+   "id": "26:19730",
+   "op": "text",
+   "en": "Well, that's the end of my story.\nNow it's finally the last person.\nI wonder what kind of story they'll tell?\nI'm looking forward to it.\nStill, the seventh person never showed up, huh.\nI wonder what happened?\nI hope nothing bad happened to them.{p}"
+  },
+  {
+   "id": "26:19814",
+   "op": "text",
+   "follows_choice": [
+    "26:1272c"
+   ],
+   "en": "I see, that's too bad.\nIt was just getting to the good part.\nBut I hate forcing people who don't want to.{p}"
+  },
+  {
+   "id": "26:19888",
+   "op": "text",
+   "en": "So, on to the next person—and they're finally the last one.\nThat is, if the seventh person doesn't show.\nBut it's this late already, so there's no way they're coming.\nOkay, the next person is the last.\nLet's hurry up and finish so we can go home.\nMama will be worried about me at home.\nNext person, go ahead.{p}"
+  },
+  {
+   "id": "26:199b8",
+   "op": "text",
+   "follows_choice": [
+    "26:14b40"
+   ],
+   "en": "Oh, okay.\nDid it make you feel sick?\nOr were you scared?\nEither way, I'm telling you this much.\nYou'd better not go to that restroom.\nNot ever.\nIf you do go to that restroom and something happens, I won't take responsibility.\nThat's how dangerous it is.{p}"
+  },
+  {
+   "id": "26:19acc",
+   "op": "text",
+   "en": "...But personally, I'd like you to go, {a}{f:|}.\nI don't know what would happen either, but I bet something terrible would.\nHeh heh heh heh heh...\nWell then, I'll end my story here.\nNext person, if you please.{p}"
+  },
+  {
+   "id": "26:19bc8",
+   "op": "text",
+   "follows_choice": [
+    "26:17474"
+   ],
+   "en": "Fine, then I won't tell it.\nMaybe a story like this just doesn't interest you, {a}{f:|}?\nSorry. These are the only kind of stories I know.\nI don't mind, really, so\nyou don't need to feel bad about turning me down.\nIt's just that my story was boring...\nBut listen, {a}{f:|}.\nStay away from that restroom, at least.\nThat restroom, of all places.{p}"
+  },
+  {
+   "id": "26:19d18",
+   "op": "text",
+   "en": "Well, that's the end of my story.\nI guess it was a boring one...\nI'm sure the next person's story will be more interesting.\nI can't wait...{p}"
+  },
+  {
+   "id": "26:19d9c",
+   "op": "text",
+   "follows_choice": [
+    "26:185b0"
+   ],
+   "en": "\"I hated you.\nI hated you so, so much...\nAnd on top of that—who knows what you were thinking—you even gave me a name, when I'd become a tanuki.{p}"
+  },
+  {
+   "id": "26:19e24",
+   "op": "text",
+   "en": "At first, I thought you'd figured it out.\nThat I'd turned into a tanuki.\nBut no.\nYou had a crush on me, didn't you?\nThat's why you gave the tanuki my name.\nAm I wrong?\nIt's laughable.\nYou're so pathetic it's unreal.\nEvery time you called me by my name, it made me want to throw up.\nIt made every hair on my body stand on end.\n...What?\nDon't tell me you're crying?\nHah... You're exactly the kind of person I thought you were.\nPathetic, wishy-washy...\nAnd you call yourself a man?\n.......................\nWell, there's no point saying any of this.{p}"
+  },
+  {
+   "id": "26:1a058",
+   "op": "text",
+   "en": "More importantly, you killed the cubs.\nBecause you locked me up, those little ones couldn't eat.\nIt's your fault.{p}"
+  },
+  {
+   "id": "26:1a0f0",
+   "op": "text",
+   "en": "If you want the whole truth, you're the one who killed me, too.\nIf you hadn't held me captive, I'd never have met such a horrible fate.\nYes, what you were doing was holding me captive.\nI hate you... I hate you... I hate you☆\"\nWith that, she attacked him.{p}"
+  },
+  {
+   "id": "26:1a1f0",
+   "op": "text",
+   "en": "She choked him by the neck with unbelievable strength.\n\"...Gk... hkk...\"\nHe struggled desperately, but the grip on his throat didn't weaken in the slightest.\nShe glared at him with a hideous expression.\nAnd that face began to crumble, more and more.\nLike watching a special-effects movie, her skin rotted and sloughed off in slimy sheets.\nBut unlike in a movie, there was the smell.\nEven though he couldn't breathe, the faintest whiff reaching his nostrils was enough to make him gag.{p}"
+  },
+  {
+   "id": "26:1a3a0",
+   "op": "text",
+   "en": "Maybe that was a stroke of luck, because the moment he thrashed, her hands came loose.\nNo, to be precise, her hands rotted and tore off.\n\"Guoooooh... I talked for too long...\nI can't hold this body together...\nDamn it... damn it all.\nSomeday... I swear...........\"\nThe voice was so hoarse it was hard to believe it was hers.\nA voice that seemed to echo up from the bottom of hell.{p}"
+  },
+  {
+   "id": "26:1a538",
+   "op": "text",
+   "en": "He didn't look back—he just tore out of the restroom.\nAnd somehow he made it home and was saved.\nThey say she's still in that restroom, even now.\nShe is.\nDesperately regenerating her rotted-away body.\nAnyone who comes near gets drained by her without mercy.\nDrained of their life force, that is.\nAnd once she's revived, she means to take her revenge on him.\nShe ought to be reviving any time now, don't you think?\nMaybe the seventh person is actually her.\n.......................{p}"
+  },
+  {
+   "id": "26:1a718",
+   "op": "text",
+   "en": "Hahahahaha. Why are you looking so serious?\nI'm joking, just joking.{p}"
+  },
+  {
+   "id": "26:1a770",
+   "op": "text",
+   "en": "...But the part about Yoshida being in that restroom is true.\nSo you must never go near that restroom.\nNever... never, I mean it...\nThere, that's the end of my story.\nNow there's just one left.\nThat went faster than I expected, huh.\nI thought it would take a lot longer.\nSo, {a}{f:|}.\nCould you ask the next person to go?{p}"
+  },
+  {
+   "id": "26:1a8bc",
+   "op": "text",
+   "follows_choice": [
+    "26:18b74"
+   ],
+   "en": "\"I can't do that.\nIf I stay here, I may never be able to pass on.\nAnd if I stay forever, something terrible will happen...\"\nThat's what she said.\n\"I know.\nYou can come with me.\nI'll take you with me.\nThat'll be all right, won't it!\"\nHe was overjoyed.\nIf he could be with her, he didn't care if he died.\nSo he decided to let her take him along.\n\"All right, then.\nI'll take you.\nBut promise me.\nI'm going to take you with me now, but you mustn't open your eyes until I say it's okay.\nIf you don't promise me that, I can't take you.\"\nHe promised right away.\nThat he absolutely wouldn't open his eyes.{p}"
+  },
+  {
+   "id": "26:1ab6c",
+   "op": "text",
+   "en": "And he closed his eyes.\nThen she came close and gently cupped his face in both hands.\nAnd pressed her forehead to his.\nHe stayed still, eyes closed.{p}"
+  },
+  {
+   "id": "26:1ac30",
+   "op": "text",
+   "en": "After a while, she began muttering some kind of chant.\nAnd then, all around him, there came eerie laughter and the sound of things running around.\nHe couldn't stop wondering what it was.\nEven so, he held out.\nHe kept his eyes shut tight with all his might.{p}"
+  },
+  {
+   "id": "26:1ad20",
+   "op": "text",
+   "en": "But you know, little by little, a rank, fishy stench rose up.\nIt was so bad he thought his nose would twist right off.\nAnd that smell, it seemed, was coming from her.\nUnable to bear it, he tried to pull away from her.\nBut she held his head tight and wouldn't let him go.\n\"...It's almost done, so be patient...\"\nThat wasn't her voice.\nIt was a horribly hoarse voice, one that seemed to echo up from the bottom of hell.\nStartled, he opened his eyes.{p}"
+  },
+  {
+   "id": "26:1af20",
+   "op": "text",
+   "en": "\"Gyaah☆\"\nThere she stood, almost nothing left of her but bare bones.\nScraps of flesh clung here and there, giving off a hideous smell.\n\"...Why did you open your eyes...\nWe were almost there...\"\nShe was furious, the hair still stuck to her skull standing on end.\nHe tried desperately to get away from her.\nBut she wouldn't let go.\nStill, he shoved her away with all his strength, trying to break free.\nThen her arm came off at the elbow, and at last he got loose.\nAnd he frantically ran out of the restroom and was saved.{p}"
+  },
+  {
+   "id": "26:1b13c",
+   "op": "text",
+   "en": "She had been betrayed.\nAnd in her deep grief, she stayed on in that restroom.\nEven now, she's in that restroom as a tanuki, waiting for him to come back.\nAnd they say if any student comes in, it doesn't matter who, she tries to take them with her.\nSo you'd better stay away from that restroom too, {a}{f:|}.\nThey say just going near it can be enough for her to call you.\n...And that's the end of my story.\nNext is finally the very last one.\nThat is, if the seventh person doesn't come.\nBut at this rate, it doesn't look like they will.{p}"
+  },
+  {
+   "id": "26:1b350",
+   "op": "text",
+   "en": "So, {a}{f:|}. Please ask the next person.\nI kind of want to go home now.{p}"
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "slice": "S079",
+ "scene": "20",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S078",
+ "next": "S080",
+ "rows": [
+  {
+   "id": "20:2104",
+   "op": "choice"
+  },
+  {
+   "id": "20:2118",
+   "op": "choice"
+  },
+  {
+   "id": "20:2128",
+   "op": "choice"
+  },
+  {
+   "id": "20:2134",
+   "op": "choice"
+  },
+  {
+   "id": "20:2148",
+   "op": "choice"
+  },
+  {
+   "id": "20:2170",
+   "op": "text",
+   "follows_choice": [
+    "20:2148"
+   ]
+  },
+  {
+   "id": "20:2304",
+   "op": "text"
+  },
+  {
+   "id": "20:232c",
+   "op": "text"
+  },
+  {
+   "id": "20:2408",
+   "op": "choice"
+  },
+  {
+   "id": "20:241c",
+   "op": "choice"
+  },
+  {
+   "id": "20:2444",
+   "op": "choice"
+  },
+  {
+   "id": "20:2488",
+   "op": "text",
+   "follows_choice": [
+    "20:241c"
+   ]
+  },
+  {
+   "id": "20:2534",
+   "op": "choice"
+  },
+  {
+   "id": "20:2540",
+   "op": "choice"
+  },
+  {
+   "id": "20:2554",
+   "op": "text",
+   "follows_choice": [
+    "20:2534"
+   ]
+  },
+  {
+   "id": "20:2590",
+   "op": "text"
+  },
+  {
+   "id": "20:2684",
+   "op": "text"
+  },
+  {
+   "id": "20:26cc",
+   "op": "choice"
+  },
+  {
+   "id": "20:26e8",
+   "op": "choice"
+  },
+  {
+   "id": "20:2700",
+   "op": "text",
+   "follows_choice": [
+    "20:26cc"
+   ]
+  },
+  {
+   "id": "20:284c",
+   "op": "text"
+  },
+  {
+   "id": "20:2868",
+   "op": "text",
+   "follows_choice": [
+    "20:0e28"
+   ]
+  },
+  {
+   "id": "20:2a20",
+   "op": "text"
+  },
+  {
+   "id": "20:2b44",
+   "op": "text",
+   "follows_choice": [
+    "20:1124"
+   ]
+  },
+  {
+   "id": "20:2bf8",
+   "op": "text",
+   "follows_choice": [
+    "20:11d4"
+   ]
+  },
+  {
+   "id": "20:2c64",
+   "op": "text"
+  },
+  {
+   "id": "20:2cc4",
+   "op": "text"
+  },
+  {
+   "id": "20:2e00",
+   "op": "text"
+  },
+  {
+   "id": "20:2ed0",
+   "op": "choice"
+  },
+  {
+   "id": "20:2ed8",
+   "op": "choice"
+  },
+  {
+   "id": "20:2ee0",
+   "op": "choice"
+  },
+  {
+   "id": "20:2ee8",
+   "op": "choice"
+  },
+  {
+   "id": "20:2ef4",
+   "op": "choice"
+  },
+  {
+   "id": "20:2f00",
+   "op": "text",
+   "follows_choice": [
+    "20:2ed0",
+    "20:2ed8",
+    "20:2ee0",
+    "20:2ee8",
+    "20:2ef4"
+   ]
+  },
+  {
+   "id": "20:3010",
+   "op": "text"
+  },
+  {
+   "id": "20:30c0",
+   "op": "choice"
+  },
+  {
+   "id": "20:30c8",
+   "op": "choice"
+  },
+  {
+   "id": "20:30d4",
+   "op": "choice"
+  },
+  {
+   "id": "20:30e8",
+   "op": "choice"
+  },
+  {
+   "id": "20:30f8",
+   "op": "text",
+   "follows_choice": [
+    "20:30c0"
+   ]
+  },
+  {
+   "id": "20:3358",
+   "op": "text"
+  },
+  {
+   "id": "20:337c",
+   "op": "text"
+  },
+  {
+   "id": "20:3498",
+   "op": "choice"
+  },
+  {
+   "id": "20:34a4",
+   "op": "choice"
+  },
+  {
+   "id": "20:34b0",
+   "op": "choice"
+  },
+  {
+   "id": "20:34dc",
+   "op": "text",
+   "follows_choice": [
+    "20:3498"
+   ]
+  },
+  {
+   "id": "20:35fc",
+   "op": "text"
+  },
+  {
+   "id": "20:36b4",
+   "op": "text"
+  },
+  {
+   "id": "20:3744",
+   "op": "text"
+  },
+  {
+   "id": "20:37dc",
+   "op": "text"
+  },
+  {
+   "id": "20:37f4",
+   "op": "choice"
+  },
+  {
+   "id": "20:3804",
+   "op": "choice"
+  },
+  {
+   "id": "20:3814",
+   "op": "text",
+   "follows_choice": [
+    "20:37f4"
+   ]
+  },
+  {
+   "id": "20:3868",
+   "op": "text"
+  },
+  {
+   "id": "20:3a10",
+   "op": "text"
+  },
+  {
+   "id": "20:3b24",
+   "op": "text",
+   "follows_choice": [
+    "20:30c8"
+   ]
+  },
+  {
+   "id": "20:3da8",
+   "op": "text",
+   "follows_choice": [
+    "20:30d4"
+   ]
+  },
+  {
+   "id": "20:3f64",
+   "op": "text",
+   "follows_choice": [
+    "20:30e8"
+   ]
+  },
+  {
+   "id": "20:40b8",
+   "op": "text",
+   "follows_choice": [
+    "20:34a4"
+   ]
+  },
+  {
+   "id": "20:41e8",
+   "op": "text"
+  },
+  {
+   "id": "20:422c",
+   "op": "text"
+  },
+  {
+   "id": "20:4254",
+   "op": "text"
+  },
+  {
+   "id": "20:428c",
+   "op": "text",
+   "follows_choice": [
+    "20:34b0"
+   ]
+  },
+  {
+   "id": "20:4338",
+   "op": "text"
+  }
+ ]
+}

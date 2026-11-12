@@ -1,0 +1,323 @@
+{
+ "slice": "S205",
+ "scene": "54",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S204",
+ "next": "S206",
+ "rows": [
+  {
+   "id": "54:3444",
+   "op": "choice"
+  },
+  {
+   "id": "54:345c",
+   "op": "choice"
+  },
+  {
+   "id": "54:3470",
+   "op": "choice"
+  },
+  {
+   "id": "54:3478",
+   "op": "text",
+   "follows_choice": [
+    "54:3444",
+    "54:6d58"
+   ]
+  },
+  {
+   "id": "54:34d4",
+   "op": "text"
+  },
+  {
+   "id": "54:36f4",
+   "op": "text",
+   "follows_choice": [
+    "54:07a0"
+   ]
+  },
+  {
+   "id": "54:37fc",
+   "op": "text",
+   "follows_choice": [
+    "54:07ac"
+   ]
+  },
+  {
+   "id": "54:3860",
+   "op": "text",
+   "follows_choice": [
+    "54:09dc"
+   ]
+  },
+  {
+   "id": "54:38d0",
+   "op": "text"
+  },
+  {
+   "id": "54:39b0",
+   "op": "text",
+   "follows_choice": [
+    "54:0b70"
+   ]
+  },
+  {
+   "id": "54:3a50",
+   "op": "text",
+   "follows_choice": [
+    "54:1070"
+   ]
+  },
+  {
+   "id": "54:3b18",
+   "op": "text",
+   "follows_choice": [
+    "54:10c8"
+   ]
+  },
+  {
+   "id": "54:3c60",
+   "op": "text"
+  },
+  {
+   "id": "54:3c88",
+   "op": "text",
+   "follows_choice": [
+    "54:1100"
+   ]
+  },
+  {
+   "id": "54:3d18",
+   "op": "text"
+  },
+  {
+   "id": "54:3d40",
+   "op": "text",
+   "follows_choice": [
+    "54:1f48"
+   ]
+  },
+  {
+   "id": "54:3de4",
+   "op": "text"
+  },
+  {
+   "id": "54:3f50",
+   "op": "text"
+  },
+  {
+   "id": "54:3ff0",
+   "op": "text"
+  },
+  {
+   "id": "54:41d8",
+   "op": "text"
+  },
+  {
+   "id": "54:4350",
+   "op": "text"
+  },
+  {
+   "id": "54:4438",
+   "op": "text"
+  },
+  {
+   "id": "54:44e4",
+   "op": "text"
+  },
+  {
+   "id": "54:45e4",
+   "op": "text"
+  },
+  {
+   "id": "54:462c",
+   "op": "text"
+  },
+  {
+   "id": "54:4710",
+   "op": "text"
+  },
+  {
+   "id": "54:4914",
+   "op": "text"
+  },
+  {
+   "id": "54:4a10",
+   "op": "text"
+  },
+  {
+   "id": "54:4c6c",
+   "op": "text",
+   "follows_choice": [
+    "54:1f78"
+   ]
+  },
+  {
+   "id": "54:4d88",
+   "op": "text"
+  },
+  {
+   "id": "54:4e90",
+   "op": "text"
+  },
+  {
+   "id": "54:5078",
+   "op": "text"
+  },
+  {
+   "id": "54:51c0",
+   "op": "text"
+  },
+  {
+   "id": "54:51d4",
+   "op": "choice"
+  },
+  {
+   "id": "54:51e4",
+   "op": "choice"
+  },
+  {
+   "id": "54:5208",
+   "op": "text",
+   "follows_choice": [
+    "54:51d4"
+   ]
+  },
+  {
+   "id": "54:52e8",
+   "op": "text"
+  },
+  {
+   "id": "54:5538",
+   "op": "text"
+  },
+  {
+   "id": "54:56c0",
+   "op": "text"
+  },
+  {
+   "id": "54:5828",
+   "op": "text"
+  },
+  {
+   "id": "54:5944",
+   "op": "text",
+   "follows_choice": [
+    "54:51e4"
+   ]
+  },
+  {
+   "id": "54:5994",
+   "op": "text"
+  },
+  {
+   "id": "54:5a18",
+   "op": "text"
+  },
+  {
+   "id": "54:5b04",
+   "op": "text"
+  },
+  {
+   "id": "54:5c20",
+   "op": "text"
+  },
+  {
+   "id": "54:5cfc",
+   "op": "text"
+  },
+  {
+   "id": "54:5e54",
+   "op": "text"
+  },
+  {
+   "id": "54:6038",
+   "op": "text"
+  },
+  {
+   "id": "54:617c",
+   "op": "text"
+  },
+  {
+   "id": "54:6368",
+   "op": "text"
+  },
+  {
+   "id": "54:63d8",
+   "op": "text"
+  },
+  {
+   "id": "54:6614",
+   "op": "text"
+  },
+  {
+   "id": "54:6650",
+   "op": "text"
+  },
+  {
+   "id": "54:66fc",
+   "op": "text",
+   "follows_choice": [
+    "54:306c"
+   ]
+  },
+  {
+   "id": "54:67d0",
+   "op": "text",
+   "follows_choice": [
+    "54:3078"
+   ]
+  },
+  {
+   "id": "54:67f4",
+   "op": "text"
+  },
+  {
+   "id": "54:69a0",
+   "op": "text"
+  },
+  {
+   "id": "54:6b54",
+   "op": "text"
+  },
+  {
+   "id": "54:6b84",
+   "op": "text",
+   "follows_choice": [
+    "54:345c"
+   ]
+  },
+  {
+   "id": "54:6d58",
+   "op": "choice"
+  },
+  {
+   "id": "54:6d70",
+   "op": "choice"
+  },
+  {
+   "id": "54:6d78",
+   "op": "text",
+   "follows_choice": [
+    "54:3470",
+    "54:6d70"
+   ]
+  },
+  {
+   "id": "54:6e3c",
+   "op": "text"
+  },
+  {
+   "id": "54:701c",
+   "op": "text"
+  },
+  {
+   "id": "54:7134",
+   "op": "text"
+  },
+  {
+   "id": "54:7248",
+   "op": "text"
+  }
+ ]
+}

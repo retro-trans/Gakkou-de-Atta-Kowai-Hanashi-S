@@ -1,0 +1,280 @@
+{
+ "slice": "S006",
+ "scene": "02",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S005",
+ "next": "S007",
+ "rows": [
+  {
+   "id": "02:6fb8",
+   "op": "text"
+  },
+  {
+   "id": "02:7040",
+   "op": "text"
+  },
+  {
+   "id": "02:70fc",
+   "op": "text"
+  },
+  {
+   "id": "02:7158",
+   "op": "text"
+  },
+  {
+   "id": "02:7208",
+   "op": "text"
+  },
+  {
+   "id": "02:7288",
+   "op": "text"
+  },
+  {
+   "id": "02:742c",
+   "op": "text"
+  },
+  {
+   "id": "02:74a4",
+   "op": "text"
+  },
+  {
+   "id": "02:7624",
+   "op": "text"
+  },
+  {
+   "id": "02:76e4",
+   "op": "text",
+   "follows_choice": [
+    "02:6a80"
+   ]
+  },
+  {
+   "id": "02:77cc",
+   "op": "text"
+  },
+  {
+   "id": "02:7894",
+   "op": "text"
+  },
+  {
+   "id": "02:79f8",
+   "op": "text"
+  },
+  {
+   "id": "02:7b70",
+   "op": "text"
+  },
+  {
+   "id": "02:7de0",
+   "op": "text",
+   "follows_choice": [
+    "02:267c"
+   ]
+  },
+  {
+   "id": "02:7f90",
+   "op": "text"
+  },
+  {
+   "id": "02:8098",
+   "op": "text"
+  },
+  {
+   "id": "02:81c8",
+   "op": "choice"
+  },
+  {
+   "id": "02:81e0",
+   "op": "choice"
+  },
+  {
+   "id": "02:81fc",
+   "op": "text",
+   "follows_choice": [
+    "02:2ad4",
+    "02:81c8"
+   ]
+  },
+  {
+   "id": "02:8358",
+   "op": "text"
+  },
+  {
+   "id": "02:83d0",
+   "op": "text"
+  },
+  {
+   "id": "02:8428",
+   "op": "text"
+  },
+  {
+   "id": "02:8480",
+   "op": "text"
+  },
+  {
+   "id": "02:84f0",
+   "op": "text"
+  },
+  {
+   "id": "02:859c",
+   "op": "text"
+  },
+  {
+   "id": "02:8638",
+   "op": "text"
+  },
+  {
+   "id": "02:8918",
+   "op": "text"
+  },
+  {
+   "id": "02:8960",
+   "op": "text"
+  },
+  {
+   "id": "02:89f4",
+   "op": "text"
+  },
+  {
+   "id": "02:8b44",
+   "op": "text"
+  },
+  {
+   "id": "02:8bf0",
+   "op": "text"
+  },
+  {
+   "id": "02:8d10",
+   "op": "text"
+  },
+  {
+   "id": "02:8db4",
+   "op": "text"
+  },
+  {
+   "id": "02:8df4",
+   "op": "text"
+  },
+  {
+   "id": "02:8eac",
+   "op": "text"
+  },
+  {
+   "id": "02:8f7c",
+   "op": "text"
+  },
+  {
+   "id": "02:9018",
+   "op": "text",
+   "follows_choice": [
+    "02:3d2c"
+   ]
+  },
+  {
+   "id": "02:9054",
+   "op": "text"
+  },
+  {
+   "id": "02:90c0",
+   "op": "text"
+  },
+  {
+   "id": "02:92d8",
+   "op": "text"
+  },
+  {
+   "id": "02:93a0",
+   "op": "text"
+  },
+  {
+   "id": "02:949c",
+   "op": "text"
+  },
+  {
+   "id": "02:951c",
+   "op": "text"
+  },
+  {
+   "id": "02:95dc",
+   "op": "text"
+  },
+  {
+   "id": "02:978c",
+   "op": "text",
+   "follows_choice": [
+    "02:477c"
+   ]
+  },
+  {
+   "id": "02:997c",
+   "op": "text",
+   "follows_choice": [
+    "02:5444"
+   ]
+  },
+  {
+   "id": "02:9ac4",
+   "op": "text",
+   "follows_choice": [
+    "02:4dc4"
+   ]
+  },
+  {
+   "id": "02:9b3c",
+   "op": "choice"
+  },
+  {
+   "id": "02:9b48",
+   "op": "choice"
+  },
+  {
+   "id": "02:9b6c",
+   "op": "text",
+   "follows_choice": [
+    "02:9b48"
+   ]
+  },
+  {
+   "id": "02:9c10",
+   "op": "text"
+  },
+  {
+   "id": "02:9d74",
+   "op": "choice"
+  },
+  {
+   "id": "02:9d80",
+   "op": "choice"
+  },
+  {
+   "id": "02:9d90",
+   "op": "text",
+   "follows_choice": [
+    "02:9d80"
+   ]
+  },
+  {
+   "id": "02:9e18",
+   "op": "text"
+  },
+  {
+   "id": "02:9f78",
+   "op": "text"
+  },
+  {
+   "id": "02:9ffc",
+   "op": "text"
+  },
+  {
+   "id": "02:a0a4",
+   "op": "text"
+  },
+  {
+   "id": "02:a264",
+   "op": "text",
+   "follows_choice": [
+    "02:9d74"
+   ]
+  }
+ ]
+}

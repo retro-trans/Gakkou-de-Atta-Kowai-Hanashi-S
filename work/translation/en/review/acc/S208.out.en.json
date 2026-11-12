@@ -1,0 +1,15 @@
+{
+ "rows": {
+  "55:5f08": "You won't take it down for me?\nAnd here I am, asking you so earnestly...\nYou're quite a mean person, aren't you, {a}?{p}Don't you want to see the Phantom's true identity for yourself?\n",
+  "55:6d14": "I see...\nSo that's what you think, {a}.\n...I'm a little disappointed.\nI thought that you at least, {a}, would believe it, even if it was a false rumor...\nOh, but that doesn't mean I blame you, {a}.\nI know perfectly well that rumors are unreliable things.\nEven so, I end up believing them.\nNo matter how dubious the rumor is...\n...I suppose you'd call me gullible.\nIt was the same this time...{p}",
+  "55:6eb0": "That may be so.\nIt's a rumor that's been passed down for a very long time...\nIt's hard to imagine the clock from back then would still be around, isn't it?\n{a}...\nI'm truly disappointed.{p}"
+ },
+ "notes": [
+  "55:5f08: FIX dots - ordinary 2-char run rendered as 4 dots ('earnestly....'); now '...'.",
+  "55:6d14: TODO - opened the quote: this reply (after choice 1e94) flows into 55:1f74, which closes Arai's speech with a quote and then has narration. Matches the S206 todo (the 1e94/1ea8 replies open the quote, 1f74 keeps its closing quote). If S206 instead removes the closing quote from 1f74, drop this opening quote.",
+  "55:6eb0: TODO - opened the quote, same reason as 6d14 (after choice 1ea8, flows into 55:1f74).",
+  "55:67d4: KEPT OMISSION - speaker of 'You moved them?' is not tagged in the source (player or Arai, both polite); English leaves it untagged.",
+  "55:8100/8218/8afc/8cac/8874/8dcc/92a0: long dot runs checked; all at or above 3 dots per 2 characters, kept.",
+  "[coordinator] 55:6d14/6eb0: opening quotes removed again to match S206, which made Arai's speech into 55:1f74 unquoted on all branches."
+ ]
+}

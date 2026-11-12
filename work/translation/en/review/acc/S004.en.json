@@ -1,0 +1,342 @@
+{
+ "slice": "S004",
+ "scene": "02",
+ "narrator_hint": "Makoto Shindo (storyteller)",
+ "prev": "S003",
+ "next": "S005",
+ "todo": [],
+ "rows": [
+  {
+   "id": "02:09b8",
+   "op": "text",
+   "en": "So I'm up second?\nAll right, then, let's get to it.\nMy name's Makoto Shindo.\nGood to meet you.\nSo, you ever heard the story of 'the Candy Granny'?\nThe Candy Granny was an old woman who used to stand outside the students' side gate back in the day.\nSupposedly she was still around until five or six years ago.\nThey say she was pretty famous.\nI only heard about her from an upperclassman, see.\nI never actually saw her myself.\nI bet the teachers all still know about her, though, don't you think?\nThis Candy Granny, she dressed just like a witch who rides around on a broomstick.{p}"
+  },
+  {
+   "id": "02:0bac",
+   "op": "text",
+   "en": "She wore a bright red hooded robe with the hood up, summer and winter alike.\nOn her big hooked nose sat a huge wart, like a bean.\nHer chin was pointed like a crescent moon, and her whole face was covered in wrinkles.\nWhen she smiled, they say you'd catch glimpses of a freakishly long red tongue in her almost toothless mouth.\nIn one hand she leaned on a gnarled wooden cane, and from the other hung a big basket.\nSee?\nJust like the old witch in a fairy tale, right?\nBut here's the thing: she looked scary, but supposedly she was kind.\nShe'd stand by the gate, and when she spotted a kid she liked, or a lonely kid all on their own, she'd walk right up to them.{p}"
+  },
+  {
+   "id": "02:0dc4",
+   "op": "text",
+   "en": "Then she'd give them one candy from the ratty, grimy basket hanging from her skeleton hand, all skin and bone, a basket crammed full of candies.\nThat's how she got the nickname 'the Candy Granny.'\nAnd they say those candies were insanely good.\nEach one was the size of a golf ball, so big it filled your whole mouth, and the taste of it...\nIt melts all through your mouth, or makes you forget time, or something. Not too sweet, but not too bland either.\nA perfectly balanced harmony of deliciousness.\nJust thinking about it is enough to make my mouth water.{p}"
+  },
+  {
+   "id": "02:0fe4",
+   "op": "text",
+   "en": "Well, not that I've ever eaten one myself.\nIt's only a rumor, but doesn't it sound good?{p}Would you want to try one too?\n"
+  },
+  {
+   "id": "02:1058",
+   "op": "choice",
+   "en": "I'd like to try one"
+  },
+  {
+   "id": "02:1068",
+   "op": "choice",
+   "en": "I'd rather not"
+  },
+  {
+   "id": "02:1084",
+   "op": "text",
+   "follows_choice": [
+    "02:1058",
+    "02:4ca8",
+    "02:4d10",
+    "02:9b3c"
+   ],
+   "en": "Right? I knew it.\nI totally get how you feel.\nI'm not that into sweets, but I love anything that tastes good.\nThe candy came in crumpled plastic with no brand name or anything on it, so at first most kids didn't want it.\nEven after getting one, most of them just threw it away.{p}"
+  },
+  {
+   "id": "02:119c",
+   "op": "text",
+   "en": "I mean, you can't blame them.\nSome creepy old woman hands you a mystery candy.\nYou've got no idea what's in it, and for all you know it's poison.\nNormally, you'd toss it, right?\nStill, there's always some weirdo out there.\nSomebody actually ate one.\nWord is, the first one who ate that candy got bullied like crazy and had been thinking about killing themselves for ages.{p}"
+  },
+  {
+   "id": "02:1300",
+   "op": "text",
+   "en": "So they figured poison would be fine too, and ate the candy ready to die.\nAnd guess what?\nThat candy was good. So, so good.\nIt tasted like nothing from this world.\nLike, \"There's something this delicious in the world?\"\nAnd that gave them the courage to keep living.{p}"
+  },
+  {
+   "id": "02:1418",
+   "op": "text",
+   "en": "After that, they started fighting back when they got bullied, and on top of that they turned so cheerful you wouldn't even recognize them.\nThen after graduating high school they went to culinary school, and now I hear they're the chef at a three-star restaurant in France.\nOne single candy changed a person's whole life.\nWell, it's only a rumor, mind you. A rumor.\nStill, pretty amazing story, huh?{p}"
+  },
+  {
+   "id": "02:1558",
+   "op": "text",
+   "en": "Well?{p}Now you want to meet the Candy Granny, don't you?\n"
+  },
+  {
+   "id": "02:1594",
+   "op": "choice",
+   "en": "I want to meet her"
+  },
+  {
+   "id": "02:15a0",
+   "op": "choice",
+   "en": "Not particularly"
+  },
+  {
+   "id": "02:15b4",
+   "op": "text",
+   "follows_choice": [
+    "02:1594"
+   ],
+   "en": "Yeah, yeah.\nI know just how you feel.{p}"
+  },
+  {
+   "id": "02:15ec",
+   "op": "text",
+   "en": "So anyway, about this Candy Granny.\nFor some reason, once she'd given someone a candy, she'd never show herself to them again.\nRemember the kid I told you about?\nThe one who's a chef in France now.\nEven they couldn't forget the taste of that candy, so they went looking for the Candy Granny.{p}"
+  },
+  {
+   "id": "02:16e0",
+   "op": "text",
+   "en": "They figured if they waited at the side gate they'd meet her, so they waited, but no matter how long they waited, she never showed up.\nAnd yet the moment they left, she'd appear out of nowhere and give a candy to somebody else.\nWeird, right?\nApparently they searched all over the place, but never found her.\nEven when they heard she was at the side gate right then and rushed over, she'd already be gone.\nLike she was running away from them.{p}"
+  },
+  {
+   "id": "02:1878",
+   "op": "text",
+   "en": "So they gave up and went to culinary school to try to recreate that candy on their own.\nTalk about obsessed.\nBut in the end they failed at that and became an ordinary cook.{p}"
+  },
+  {
+   "id": "02:1930",
+   "op": "text",
+   "en": "Still, it worked out for the best.\nI mean, a chef in France.\nSeriously impressive.\nAfter that, the Candy Granny turned into a bit of a celebrity.\nThere was always a crowd at the side gate, waiting for her.\nLike people chasing after some TV star.\nIt looked like she was about to get her own fan club.\nEveryone was there just to get a taste of her candy.\nThen again, you could say it was only candy, and that'd be the end of it.{p}"
+  },
+  {
+   "id": "02:1abc",
+   "op": "text",
+   "en": "But for some reason, she never showed up when there were lots of people around.\nOnce everyone figured she wasn't coming anymore and stopped gathering, she'd show up out of nowhere.\nAnd she'd give a candy to some lonely kid.\nPeople hear about it, and the crowd gathers again.\nBut she doesn't show.\nThen when the people leave...\nOver and over, like that.{p}"
+  },
+  {
+   "id": "02:1bf8",
+   "op": "text",
+   "en": "But the reason everyone wanted that candy wasn't just that it tasted good.\nSure, there were probably some simple types who just wanted to try candy that good, but what everyone was really after was the life they'd have after eating it.\nFor some reason, anyone who ate that candy suddenly turned cheerful.\nJust like that kid who became a chef in France.\nThey'd get this weird confidence, or something, and succeed at whatever they tried.\nKids who were bad at studying suddenly got great grades, and kids with no coordination suddenly turned into star athletes.\nAnd then a rosy school life was waiting for them.\nSounds like a dream, huh?\nIt got to where people whispered, like it was the plain truth, that the Candy Granny was a real witch and a friend to the weak.{p}"
+  },
+  {
+   "id": "02:1e88",
+   "op": "text",
+   "en": "Apparently plenty of people believed that rumor.{p}You'd really love a taste of the Candy Granny's candy, wouldn't you?\n"
+  },
+  {
+   "id": "02:1edc",
+   "op": "choice",
+   "en": "I'd love a taste"
+  },
+  {
+   "id": "02:1ee8",
+   "op": "choice",
+   "en": "I wouldn't"
+  },
+  {
+   "id": "02:1ef8",
+   "op": "text",
+   "follows_choice": [
+    "02:1edc"
+   ],
+   "en": "I'd say the same.\nYou're an honest one.\nIf there was a candy like magic, anybody who says they wouldn't want a taste is a liar.\nSo anyway, there was this guy named Noboru Sakuma.{p}"
+  },
+  {
+   "id": "02:1fa4",
+   "op": "text",
+   "en": "He was bad with people, or rather, just selfish.\nThe type who can't stand it when things don't go his way.\nThe type who thinks the world revolves around him.\nNot that he was anybody special. Just a nasty piece of work, right?\nWell, I never actually met him either, so it's only a rumor, ha ha ha...\nAnyway, on the surface he acted like he wasn't interested.{p}"
+  },
+  {
+   "id": "02:20f8",
+   "op": "text",
+   "en": "\"You guys are idiots, right?\nWhy are you all worked up over one stupid candy?\nBunch of little kids, seriously.\"\nThat's the kind of thing he said.\nOf course, deep down he wanted it like crazy.\nThat magic candy.\nEveryone could see that, so nobody bothered with Sakuma.\nI wouldn't want to hang out with a contrary jerk like that either.{p}"
+  },
+  {
+   "id": "02:2248",
+   "op": "text",
+   "en": "So Sakuma was always waiting near the school for the Candy Granny, they say.\nMaking sure nobody spotted him.\nMan, he must've been dying for it.\nRain or wind, even snow, he waited, hiding in the shadow of a telephone pole.\nLike a detective on a stakeout on TV.\nIf he had that much grit, he should've just become a detective.\nSakuma waited.\nHe kept on waiting, desperately.\nThat's how bad he wanted that candy.{p}"
+  },
+  {
+   "id": "02:23ec",
+   "op": "text",
+   "en": "\"No luck today either...\"\nThe sun had gone down completely, and there were no more students heading home.\nSakuma pinned his hopes on tomorrow again and decided to go home.{p}"
+  },
+  {
+   "id": "02:248c",
+   "op": "text",
+   "en": "\"All by yourself, are you, dearie?\"\nJust as he was about to leave, someone suddenly spoke to him from behind.{p}"
+  },
+  {
+   "id": "02:24ec",
+   "op": "text",
+   "en": "He turned around, and wouldn't you know it, there stood an old woman with a red hood pulled down low over her eyes.\nThe Candy Granny.\nThere'd been nobody there a second ago, and she'd just appeared, like smoke.\n\"Ah, the Candy Granny!\"\nSakuma couldn't help shouting.\nThe old woman laughed, a nasty sound like fingernails scraping glass.\n"
+  },
+  {
+   "id": "02:2608",
+   "op": "text",
+   "en": "\"...Ee-hee-hee... That I am.\nYou've been waiting for me, haven't you, dearie?\"{p}What do you think Sakuma said?\n"
+  },
+  {
+   "id": "02:267c",
+   "op": "choice",
+   "en": "I was waiting for you"
+  },
+  {
+   "id": "02:2688",
+   "op": "choice",
+   "en": "I wasn't waiting"
+  },
+  {
+   "id": "02:26b8",
+   "op": "text",
+   "follows_choice": [
+    "02:2688"
+   ],
+   "en": "\"...Not really.\nI was just wandering around.\"\nThat's Sakuma for you, the contrarian.\nHe'd finally met the Candy Granny he'd been dying to see, and he still had to act tough.\nEven so, the old woman laughed, as if she saw right through him.{p}"
+  },
+  {
+   "id": "02:27b0",
+   "op": "text",
+   "en": "\"Is that so?\nChildren like you are just the kind I'm fond of.\nYou've gotten so twisted, you must have led a truly miserable life, eh?\"\nAfter hearing that, how could Sakuma not get ticked off?{p}"
+  },
+  {
+   "id": "02:2870",
+   "op": "text",
+   "en": "\"Shut up, will ya.\nI wasn't waiting for you!\nJust get lost already!\"\nThings he didn't mean kept slipping out of his mouth.\nHe always thought, oh crap, right after he said them, but by then it was too late.\nThat's why he kept screwing everything up.\nEven after Sakuma said all that to her, the old woman just kept laughing.{p}"
+  },
+  {
+   "id": "02:29a0",
+   "op": "text",
+   "en": "\"Don't be so cold, dearie.\nI only ever appear before you once, you know.\nJust once in your whole long life.\nDon't you think it'd be a waste to throw that away yourself?\"\nThe old woman knew.\nShe knew Sakuma needed her.{p}So what do you think Sakuma did?\n"
+  },
+  {
+   "id": "02:2ad4",
+   "op": "choice",
+   "en": "Says he wanted to meet her"
+  },
+  {
+   "id": "02:2aec",
+   "op": "choice",
+   "en": "Brushes her off coldly"
+  },
+  {
+   "id": "02:2b08",
+   "op": "text",
+   "follows_choice": [
+    "02:2aec",
+    "02:81e0"
+   ],
+   "en": "Sakuma really was a complete idiot.\n\"It's not a waste!\nIt's my life, I'll live it however I damn well want!\nI don't need some total stranger like you telling me what to do!\"\nThe old woman should've just left a punk like that alone.{p}"
+  },
+  {
+   "id": "02:2bfc",
+   "op": "text",
+   "en": "But who knows why.\nThe old woman showed no sign of leaving at all.\n\"What a sweet child.\nWhy can't you be honest with yourself, I wonder?\nA child like you ought to have a nice, tasty candy.\nIt's a very, very tasty candy, you know.\"{p}"
+  },
+  {
+   "id": "02:2cf0",
+   "op": "text",
+   "en": "Without Sakuma even asking, the old woman plucked one big candy out of the basket hanging from her hand.\nSakuma gulped.\nThe truth was, he wanted it so badly he could hardly stand it.\nAnd that candy was right in front of him.\nAll he had to do was reach out and say thank you, and it'd be his.\nAnd his life would change.\nBut an idiot's an idiot to the bitter end.\nHe wanted it, and still he acted like he didn't.{p}"
+  },
+  {
+   "id": "02:2e7c",
+   "op": "text",
+   "en": "He turned his face away and said, like it was a huge pain,\n\"...Well, if you're that desperate for me to take it, granny, I guess I could take it off your hands.\nBut if it tastes bad, you'll be sorry.\"\nEven while he mouthed off, Sakuma snatched the candy out of the old woman's hand.\nThen he tore off the wrapper and hurriedly popped it into his mouth.{p}"
+  },
+  {
+   "id": "02:2fc4",
+   "op": "text",
+   "en": "What a taste!\n"
+  },
+  {
+   "id": "02:2fd8",
+   "op": "text",
+   "en": "He'd never tasted anything like it in his life.\nThe rumors were true.\n\"Is it good?\"\n\"...It's good!\"\nAt the old woman's words, Sakuma let the truth slip out.\nIt was good enough to make even a contrarian like Sakuma groan.\nBut right after he said it, he thought, oh crap.\nIt ticked him off.\nThat he'd gone and done exactly what the old woman wanted.\nAnd at the same time, a different desire began to bubble up inside him.\nYeah.{p}"
+  },
+  {
+   "id": "02:3174",
+   "op": "text",
+   "en": "It was the desire for more candy.\nThen, on reflex, he shoved his hand into the old woman's basket and stole some candy.\n\"What are you doing!\"\nIgnoring her cries to stop, Sakuma shoved the old woman away and ran.{p}"
+  },
+  {
+   "id": "02:3260",
+   "op": "text",
+   "en": "He ran like a madman.\nWhen he finally stopped, unable to run another step, the old woman was nowhere to be seen.\nThen he opened the hand still clutching the candy tight.{p}"
+  },
+  {
+   "id": "02:3310",
+   "op": "text",
+   "en": "\"...What the hell.\nOnly two?\"\nThe candies were big, after all.\nTwo was all he could manage to grab.\nStill, Sakuma was pretty satisfied.{p}"
+  },
+  {
+   "id": "02:33a0",
+   "op": "text",
+   "en": "When he got home, he shut himself in his room and lined up the two candies on his desk.\nEveryone else only got to taste one.\nBut he got to taste three.\nSo his life ought to be three times as fun, too.{p}"
+  },
+  {
+   "id": "02:3478",
+   "op": "text",
+   "en": "Thinking that, he couldn't help laughing.\n"
+  },
+  {
+   "id": "02:34b0",
+   "op": "text",
+   "en": "\"...My life's been the pits until now.\nBut that's all gonna change.\nTake that, all of you.\"{p}"
+  },
+  {
+   "id": "02:3514",
+   "op": "text",
+   "en": "Looking at the candies, that taste from before came flooding back.\nHis mouth filled with spit.\nA taste he couldn't forget even if he tried.\nThe taste was so vivid he almost felt like it was still in his mouth.\n\"This is killing me.\"\nJust looking at them, he couldn't hold back.\nStill, he only had two left.\nHe couldn't eat them now.\n\"...Maybe just a little lick.\"\nHe couldn't resist the temptation.\nNo way a selfish guy like him could.\nMeaning to take just one tiny lick, he brought a candy to his mouth.{p}"
+  },
+  {
+   "id": "02:3708",
+   "op": "text",
+   "en": "\"...This is killing me.\nIt's way too good!\"\nHe meant to take it out of his mouth right away, but he just couldn't stop.\nThe candy, big as it had been, melted away in no time.\nAnd once he'd eaten one, there was no stopping him.{p}"
+  },
+  {
+   "id": "02:37f0",
+   "op": "text",
+   "en": "\"I can't hold back anymore!\"\nSakuma reached for the last one and hurriedly tossed it into his mouth.\nThat was the happiest moment Sakuma ever had.\nHe must have thought he could die happy right then.\nAfter all, he'd tasted three times a flavor even the chosen ones only got to taste once.\nHe knew that once it was gone he'd never eat another, but he couldn't spit it out.\nHe wanted to save it, but the urge for just a little more, just a little more won out, and before he knew it, the last candy had slid down into his stomach too.\n\"Haaaah...\"\nSakuma had never felt such satisfaction.\n"
+  },
+  {
+   "id": "02:3a04",
+   "op": "text",
+   "en": "It was a moment of pure bliss.\n"
+  },
+  {
+   "id": "02:3a34",
+   "op": "text",
+   "en": "That's when it happened.\nThere was a knock at his door.{p}"
+  },
+  {
+   "id": "02:3a78",
+   "op": "text",
+   "en": "\"Shut up already.\nI'm studying right now.\nI don't want a late-night snack.\"\nThinking it was his mother, who always brought him a snack at night, Sakuma answered curtly.{p}"
+  },
+  {
+   "id": "02:3b24",
+   "op": "text",
+   "en": "\"...Give it back.\n...Give me back my candy.\"\nHe jumped.\nHis heart nearly stopped.\nThat voice was, without a doubt, the Candy Granny's.\nHe had no idea why she was here.\nThis was Sakuma's own room, after all.\nThere was no way his family would let an old woman like that into the house.\nHow had she gotten inside? It gave him the creeps.\n\"...Come now, give it back.\nThat's my precious candy, it is.\"\nThe old woman's voice came through the door, full of bitter resentment.\nShe wanted her candy back, but he'd already eaten it.{p}What was he supposed to do?\n"
+  },
+  {
+   "id": "02:3d2c",
+   "op": "choice",
+   "en": "Open the door"
+  },
+  {
+   "id": "02:3d3c",
+   "op": "choice",
+   "en": "Leave the door shut"
+  },
+  {
+   "id": "02:3d58",
+   "op": "text",
+   "follows_choice": [
+    "02:3d3c"
+   ],
+   "en": "Sakuma was creeped out beyond belief.\nHis gut told him he must not let her in, no matter what.\n"
+  },
+  {
+   "id": "02:3dc0",
+   "op": "text",
+   "en": "The door was locked.\nIf he ignored her, she'd give up and leave.\nSakuma took a deep breath to calm himself down.{p}"
+  }
+ ]
+}

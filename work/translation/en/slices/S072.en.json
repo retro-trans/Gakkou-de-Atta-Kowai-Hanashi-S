@@ -1,0 +1,319 @@
+{
+ "slice": "S072",
+ "scene": "17",
+ "narrator_hint": "Nozomu Kazama (storyteller)",
+ "prev": "S071",
+ "next": "S073",
+ "rows": [
+  {
+   "id": "17:8db8",
+   "op": "text"
+  },
+  {
+   "id": "17:8e8c",
+   "op": "text"
+  },
+  {
+   "id": "17:8ebc",
+   "op": "text"
+  },
+  {
+   "id": "17:8ed8",
+   "op": "text",
+   "follows_choice": [
+    "17:2348",
+    "17:281c",
+    "17:ab64",
+    "17:ab98"
+   ]
+  },
+  {
+   "id": "17:905c",
+   "op": "choice"
+  },
+  {
+   "id": "17:906c",
+   "op": "choice"
+  },
+  {
+   "id": "17:907c",
+   "op": "text",
+   "follows_choice": [
+    "17:905c"
+   ]
+  },
+  {
+   "id": "17:90c4",
+   "op": "choice"
+  },
+  {
+   "id": "17:90cc",
+   "op": "choice"
+  },
+  {
+   "id": "17:90dc",
+   "op": "text",
+   "follows_choice": [
+    "17:90c4"
+   ]
+  },
+  {
+   "id": "17:9130",
+   "op": "choice"
+  },
+  {
+   "id": "17:9144",
+   "op": "choice"
+  },
+  {
+   "id": "17:915c",
+   "op": "text",
+   "follows_choice": [
+    "17:9130"
+   ]
+  },
+  {
+   "id": "17:92b0",
+   "op": "text"
+  },
+  {
+   "id": "17:9318",
+   "op": "text"
+  },
+  {
+   "id": "17:9464",
+   "op": "text"
+  },
+  {
+   "id": "17:953c",
+   "op": "text"
+  },
+  {
+   "id": "17:968c",
+   "op": "text"
+  },
+  {
+   "id": "17:9708",
+   "op": "text"
+  },
+  {
+   "id": "17:9790",
+   "op": "text",
+   "follows_choice": [
+    "17:9144"
+   ]
+  },
+  {
+   "id": "17:9904",
+   "op": "text"
+  },
+  {
+   "id": "17:996c",
+   "op": "text"
+  },
+  {
+   "id": "17:9aa0",
+   "op": "text"
+  },
+  {
+   "id": "17:9b6c",
+   "op": "text"
+  },
+  {
+   "id": "17:9c94",
+   "op": "text"
+  },
+  {
+   "id": "17:9d34",
+   "op": "text",
+   "follows_choice": [
+    "17:90cc"
+   ]
+  },
+  {
+   "id": "17:9e5c",
+   "op": "choice"
+  },
+  {
+   "id": "17:9e78",
+   "op": "choice"
+  },
+  {
+   "id": "17:9e90",
+   "op": "choice"
+  },
+  {
+   "id": "17:9ebc",
+   "op": "choice"
+  },
+  {
+   "id": "17:9ec8",
+   "op": "text",
+   "follows_choice": [
+    "17:9e5c"
+   ]
+  },
+  {
+   "id": "17:9f90",
+   "op": "text"
+  },
+  {
+   "id": "17:9fbc",
+   "op": "text"
+  },
+  {
+   "id": "17:9fe0",
+   "op": "text",
+   "follows_choice": [
+    "17:9e78"
+   ]
+  },
+  {
+   "id": "17:a0a4",
+   "op": "text"
+  },
+  {
+   "id": "17:a0f4",
+   "op": "text"
+  },
+  {
+   "id": "17:a118",
+   "op": "text",
+   "follows_choice": [
+    "17:9e90"
+   ]
+  },
+  {
+   "id": "17:a1e8",
+   "op": "text"
+  },
+  {
+   "id": "17:a220",
+   "op": "text"
+  },
+  {
+   "id": "17:a244",
+   "op": "text",
+   "follows_choice": [
+    "17:9ebc"
+   ]
+  },
+  {
+   "id": "17:a2c8",
+   "op": "text"
+  },
+  {
+   "id": "17:a410",
+   "op": "text"
+  },
+  {
+   "id": "17:a47c",
+   "op": "text"
+  },
+  {
+   "id": "17:a564",
+   "op": "text"
+  },
+  {
+   "id": "17:a5b8",
+   "op": "text"
+  },
+  {
+   "id": "17:a660",
+   "op": "text"
+  },
+  {
+   "id": "17:a67c",
+   "op": "text",
+   "follows_choice": [
+    "17:906c"
+   ]
+  },
+  {
+   "id": "17:a6bc",
+   "op": "text"
+  },
+  {
+   "id": "17:a7f4",
+   "op": "text"
+  },
+  {
+   "id": "17:a8b4",
+   "op": "text"
+  },
+  {
+   "id": "17:a8e8",
+   "op": "text"
+  },
+  {
+   "id": "17:a9b8",
+   "op": "choice"
+  },
+  {
+   "id": "17:a9cc",
+   "op": "choice"
+  },
+  {
+   "id": "17:a9e0",
+   "op": "choice"
+  },
+  {
+   "id": "17:a9f8",
+   "op": "choice"
+  },
+  {
+   "id": "17:aa10",
+   "op": "choice"
+  },
+  {
+   "id": "17:aa30",
+   "op": "text",
+   "follows_choice": [
+    "17:a9b8",
+    "17:a9cc",
+    "17:a9e0",
+    "17:a9f8"
+   ]
+  },
+  {
+   "id": "17:aab8",
+   "op": "text"
+  },
+  {
+   "id": "17:ab40",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab4c",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab58",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab64",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab74",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab80",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab8c",
+   "op": "choice"
+  },
+  {
+   "id": "17:ab98",
+   "op": "choice"
+  },
+  {
+   "id": "17:aba8",
+   "op": "choice"
+  }
+ ]
+}

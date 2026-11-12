@@ -1,0 +1,400 @@
+{
+ "slice": "S200",
+ "scene": "52",
+ "narrator_hint": "seventh-storyteller / ending routes: several characters; work out the speaker from context",
+ "prev": "S199",
+ "next": "S201",
+ "todo": [],
+ "rows": [
+  {
+   "id": "52:03c8",
+   "op": "text",
+   "en": "I'm Makoto Shindo.\nThird-year.\nThe seventh one sure is late...\nSeriously, what's the hold-up...\nWell, whatever.{p}If you don't end up with a full set of stories, it's not like I'm the one who's stuck.\n"
+  },
+  {
+   "id": "52:0464",
+   "op": "choice",
+   "en": "How mean!"
+  },
+  {
+   "id": "52:0470",
+   "op": "choice",
+   "en": "It won't bother me either"
+  },
+  {
+   "id": "52:0488",
+   "op": "choice",
+   "en": "Waaah, I'm gonna cry"
+  },
+  {
+   "id": "52:04a4",
+   "op": "text",
+   "follows_choice": [
+    "52:0464"
+   ],
+   "en": "Don't get all huffy, {a}.\nI think you're cuter when you smile.{p}"
+  },
+  {
+   "id": "52:04f8",
+   "op": "text",
+   "en": "Ha ha ha...\nDon't get so embarrassed.\nNow I'm the one getting embarrassed.{p}"
+  },
+  {
+   "id": "52:0548",
+   "op": "text",
+   "en": "Anyway, none of that matters.\nAll right, listen to my story.\nThis is about a strange dream I had.\nNo, maybe I'm the only one who thinks it was a dream, and it was actually real.\nEither way, it was one hell of a terrifying dream.{p}"
+  },
+  {
+   "id": "52:063c",
+   "op": "text",
+   "en": "In the dream...\nI'm out in the school's back courtyard, beating the hell out of some guy.\nPunching, kicking, anything goes.\nThe guy just takes it and doesn't fight back at all.\nEven when he's covered in bruises, even when his face swells up, he doesn't fight back. He doesn't even let out a single scream.{p}"
+  },
+  {
+   "id": "52:073c",
+   "op": "text",
+   "en": "Only a coward beats on someone who won't fight back, right?\nI can't stand guys like that.\nSo even if it's just a dream, if I caught myself pulling something that low, I ought to be furious with myself.\nBut you know...\nAfter I have this dream, I just feel great.\nAll the worries and irritation that had been knotted up inside me vanish, clean gone, and my body feels lighter somehow.\nCome to think of it, I only ever have this dream when I'm fed up and pissed off.\nI guess it's some kind of stress relief.\nEvery time I had this dream, I'd get this rush I can't even describe, and then feel just a little twinge of bitter guilt.\nAnd the violence, like some kind of bullying, went on and on in my dreams.\nThen, one day...{p}"
+  },
+  {
+   "id": "52:09e4",
+   "op": "text",
+   "en": "I finally killed the guy.\nI was beating on him like always, when all of a sudden he toppled over onto the ground.\nHe lay on his back, blood trickling from his mouth...\nIt was a face I'd never seen before.\nThe red blood spread out across the ground......\n\"...Guess he's dead.\"\nI think I muttered something like that.{p}"
+  },
+  {
+   "id": "52:0b30",
+   "op": "text",
+   "en": "After that, I never had the dream again...\nBut you know, that's what makes it scarier.\nI can't shake the feeling that I really did kill that guy.\nThe color of the blood pouring out of his body back then, that's the one thing that feels weirdly vivid...\nEven if it only happened in a dream, it still leaves a bad taste in your mouth, right?\nSo I figured I'd try reading one of those dream-interpretation books.\nI thought if I could slap some kind of logical-sounding analysis on this dream of mine, anything at all, I might settle down a little.\nThere's someone like that in my class.\nSomeone who's into that kind of stuff.{p}"
+  },
+  {
+   "id": "52:0d24",
+   "op": "text",
+   "en": "Hey, {a}.{p}You like fortune-telling and stuff too, right?\n"
+  },
+  {
+   "id": "52:0d50",
+   "op": "choice",
+   "en": "I like it"
+  },
+  {
+   "id": "52:0d58",
+   "op": "choice",
+   "en": "I don't like it"
+  },
+  {
+   "id": "52:0d60",
+   "op": "text",
+   "follows_choice": [
+    "52:0d50"
+   ],
+   "en": "You do?{p}"
+  },
+  {
+   "id": "52:0d7c",
+   "op": "text",
+   "en": "Ha ha ha... I knew it.\nI figured you would.\nMe, I'm not the type who believes in fortune-telling.\nThat was the first time I'd ever read a book like that.{p}"
+  },
+  {
+   "id": "52:0e14",
+   "op": "text",
+   "en": "There was even an entry for dreams about killing.\n...If it's in there, that means other people have dreams about killing too, right?\nWell, not that it matters...\nI was surprised when I read that page.\nDreams about killing are......{p}"
+  },
+  {
+   "id": "52:0f00",
+   "op": "text",
+   "en": "{a}...{p}What do you think it said?\n"
+  },
+  {
+   "id": "52:0f2c",
+   "op": "choice",
+   "en": "A good dream"
+  },
+  {
+   "id": "52:0f34",
+   "op": "choice",
+   "en": "A bad dream"
+  },
+  {
+   "id": "52:0f3c",
+   "op": "choice",
+   "en": "A dangerous dream"
+  },
+  {
+   "id": "52:0f48",
+   "op": "choice",
+   "en": "A dream neither good nor bad"
+  },
+  {
+   "id": "52:0f5c",
+   "op": "text",
+   "follows_choice": [
+    "52:0f2c"
+   ],
+   "en": "That's right.\nTurns out a dream about killing is a good dream.\n...How'd you know that?{p}"
+  },
+  {
+   "id": "52:0fbc",
+   "op": "text",
+   "en": "A dream that signifies rising fortunes; all sorts of things will be on the upswing and go well.\n...That's what it said.\nIt kind of surprised me.\nI felt totally deflated.\nAll my worrying up till then started to seem kind of stupid.{p}"
+  },
+  {
+   "id": "52:1088",
+   "op": "text",
+   "en": "You said earlier you liked fortune-telling and stuff, right?\nThen you must've tried all kinds of fortunes.\nI bet you've been let down by the results once or twice, haven't you?\nIt wasn't a bad result, but somehow I couldn't bring myself to just swallow it whole and accept it.\nFor once I'd started thinking I might try believing in fortune-telling, but when it was written that breezily, I just ended up disappointed.\nIt was a mistake to look for an explanation of that dream in a passage only a few lines long.\nIf I'd read some thick book written by a psychologist or a philosopher, I probably would've found a better answer, but...\nI'm not really much for reading books.\nIn the end, I just told myself,\n\"It only happened in a dream...\"\nand with that one phrase, I decided to write the whole thing off.\nAnd I thought I'd forgotten all about the dream, clean and completely, but...\nToday, coming here, it suddenly came back to me.\nAnd the reason why is......{p}"
+  },
+  {
+   "id": "52:13b0",
+   "op": "text",
+   "en": "...Whoa, a blackout?\nGreat.\nCan't see a damn thing like this.\nWell, it doesn't really matter for telling the story...\nWhat do you want to do, {a}?{p}Are you okay with me just carrying on like this?\n"
+  },
+  {
+   "id": "52:1454",
+   "op": "choice",
+   "en": "Let's go on with the story"
+  },
+  {
+   "id": "52:1468",
+   "op": "choice",
+   "en": "Let's take a break for now"
+  },
+  {
+   "id": "52:1484",
+   "op": "choice",
+   "en": "Let's end it here"
+  },
+  {
+   "id": "52:14ac",
+   "op": "text",
+   "follows_choice": [
+    "52:1454"
+   ],
+   "en": "\"Let's go on with the story.\"\nI said it firmly.\nScary stories are so much more exciting when you hear them in the dark.\nBesides...\nIf the seventh one doesn't come, Shindo's story is the last.\nIf it'll all be over in just a little while, I want to finish the interview properly.\n...That's what I thought.{p}"
+  },
+  {
+   "id": "52:159c",
+   "op": "text",
+   "en": "But just then...\n\"Gah!\"\nSuddenly, there was a short scream.\nIt was Shindo's voice.\nIt was pitch-black; I couldn't tell what had happened.\n\"Shindo...★\"{p}"
+  },
+  {
+   "id": "52:1640",
+   "op": "text",
+   "en": "The moment I tried to stand up, something struck the back of my head too.\nWhat...?\nWhat just happened?{p}"
+  },
+  {
+   "id": "52:16a4",
+   "op": "text",
+   "en": "The darkness before my eyes twisted violently and began to form an eerie whirlpool.\nAnd my consciousness was dragged down in one rush, deeper still into the depths of the darkness...{p}"
+  },
+  {
+   "id": "52:1738",
+   "op": "text",
+   "follows_choice": [
+    "52:0470"
+   ],
+   "en": "Ha ha ha...\nGetting defiant on me now?{p}"
+  },
+  {
+   "id": "52:1770",
+   "op": "text",
+   "en": "Then don't make such a worried face.\nYou're cute when you smile, you know.{p}"
+  },
+  {
+   "id": "52:17cc",
+   "op": "text",
+   "follows_choice": [
+    "52:0488"
+   ],
+   "en": "...{a}.\nYou're in high school now, so don't cry over something like this.\nIf you keep crying like that, you'll ruin that cute face of yours.\nYou're way cuter when you're smiling.{p}"
+  },
+  {
+   "id": "52:187c",
+   "op": "text",
+   "follows_choice": [
+    "52:0d58"
+   ],
+   "en": "You don't...?\nWell, that's a surprise.\nI mean, I figured anyone who'd come to cover something like a seven-wonders feature would be into fortune-telling and stuff.\nI'm not the type who believes in fortune-telling either.\nThat was the first time I'd ever read a book like that.{p}"
+  },
+  {
+   "id": "52:1954",
+   "op": "text",
+   "follows_choice": [
+    "52:0f34"
+   ],
+   "en": "...You think so too?\nActually, that's what I thought too.\nKilling someone just feels kind of ominous, right?\nI was getting a little uneasy, wondering if it was an omen that something bad was about to happen.\nBut you know...\nWhat the book said was the total opposite of what I'd imagined.\nTurns out a dream about killing is a good dream.{p}"
+  },
+  {
+   "id": "52:1a80",
+   "op": "text",
+   "follows_choice": [
+    "52:0f3c"
+   ],
+   "en": "Most people would think so.\nI did too.\nYou know how they say dreams show what's in your unconscious, right?\nI couldn't help being scared of myself, wondering if deep down, without knowing it, I wanted to kill somebody.\nBut you know, what the book said was the total opposite.\nTurns out a dream about killing is a good dream.{p}"
+  },
+  {
+   "id": "52:1bac",
+   "op": "text",
+   "follows_choice": [
+    "52:0f48"
+   ],
+   "en": "Fortune-telling books usually list both the good and the bad, but...\nThis dream was the one exception.\nTurns out a dream about killing is a good dream.{p}"
+  },
+  {
+   "id": "52:1c4c",
+   "op": "text",
+   "follows_choice": [
+    "52:1468"
+   ],
+   "en": "\"Should we take a break for now?\"\nI asked timidly.\nI don't have the nerve to listen to scary stories in pitch darkness like this.\nIf we stop for a bit, I'm sure the lights will come back on before long...\nBut then...\n\"Listen.\nI'd like to go home soon.\nIf we aren't continuing the story, then I'll be taking my leave.\"\nThat sullen voice must be Iwashita.\nI can't see her in the dark, but I feel like I can almost see an aura of anger around where she's sitting...{p}...What should I do?\n"
+  },
+  {
+   "id": "52:1e00",
+   "op": "choice",
+   "en": "Continue the story"
+  },
+  {
+   "id": "52:1e0c",
+   "op": "choice",
+   "en": "End it here"
+  },
+  {
+   "id": "52:1e1c",
+   "op": "text",
+   "follows_choice": [
+    "52:1e00"
+   ],
+   "en": "\"All right.\nLet's go on with the story.\"\nI said it firmly.\nIf the seventh one doesn't come, Shindo's story is the last.\nRather than leave the interview half-finished, I want to see it through to the end.\n...That's what I thought.{p}"
+  },
+  {
+   "id": "52:1ed4",
+   "op": "text",
+   "follows_choice": [
+    "52:1484",
+    "52:1e0c"
+   ],
+   "en": "\"Then let's end it here.\"\nShindo's story seemed to be mostly over, and there was no sign of the seventh one showing up.\nIn that case, I don't think there's any problem with wrapping things up here.\nThen Shindo spoke up, sounding displeased.\n\"Come on, {a}.\nSo you won't hear my story out to the end, huh?\nAnd we were just getting to the important part...\"\nWith that, Shindo fell silent.\nWhat should I do...\nI think I hurt his feelings.\nMaybe I should apologize...\n"
+  },
+  {
+   "id": "52:2088",
+   "op": "text",
+   "en": "Just as I thought that...☆\n"
+  },
+  {
+   "id": "52:20ac",
+   "op": "text",
+   "en": "\"Gyaaaaaagh☆\"\nA piercing scream rang out from the darkness.\nWhose voice was that...★\nIt was pitch-black; I couldn't tell what had happened.\nAnd then again...\n"
+  },
+  {
+   "id": "52:213c",
+   "op": "text",
+   "en": "\"Eeeeeeek☆\"\nThis time, a woman's shrill scream...\n...Fukuzawa?\nOr Iwashita...?\n"
+  },
+  {
+   "id": "52:21a8",
+   "op": "text",
+   "en": "\"Nooooooo!\"\n"
+  },
+  {
+   "id": "52:21cc",
+   "op": "text",
+   "en": "\"Waaaaaagh!\"\nScream after scream rang out before I even had time to think.\nWhat...?\nWhat's happening?\nI asked desperately, but the darkness spreading before my eyes gave me no answer.\nAnd then...\n"
+  },
+  {
+   "id": "52:2280",
+   "op": "text",
+   "en": "\"Aaaaaargh!\"\n"
+  },
+  {
+   "id": "52:2298",
+   "op": "text",
+   "en": "After the fifth death scream echoed out, the room suddenly went quiet.\nAt the same moment, the lights came on.\nThe timing was perfect, as if it had all been arranged.{p}"
+  },
+  {
+   "id": "52:2344",
+   "op": "text",
+   "en": "\"Hh...☆\"\nI looked around the room and gasped.\nUnder the lights, the floor and the walls were stained bright red.\nHere and there lay the members, collapsed...\nArai was by the wall, and Fukuzawa lay beside him.\nThe one sprawled on the floor, chair and all, was Kazama.\nHosoda had died in his seat, and Iwashita had died reaching for the door.\nAnd in front of the door...{p}"
+  },
+  {
+   "id": "52:24a8",
+   "op": "text",
+   "en": "Standing there, drenched in red, was Shindo.\n\"Shindo...?\"\nAt first I thought he was dead.\nBut Shindo was breathing hard, his shoulders heaving.\nLooking closer, all the blood on him seemed to be someone else's...\n...Which means Shindo was the one who killed the other five★{p}"
+  },
+  {
+   "id": "52:25b8",
+   "op": "text",
+   "en": "His eyes glittering, Shindo walked toward me.\n\"What's wrong, {a}?\nWhy so scared-looking...\nAre you afraid of me?\nHa ha ha...\nSure, I'm the one who killed these guys.\nBut you know...\nThere's someone way scarier than me.\nAnd that's... Hino.\nHino's a scary guy.\nWe barely know each other, and before I knew it, he'd seen right through to the real me.\n{a}...\nWant me to let you in on something good?\nHino's planning to write an article that'll blow everyone away.\nA horrifyingly shocking article about a newspaper club member who was covering the seven wonders in the school after hours, got caught up in a gruesome incident, and died along with the whole group...\nSurprised?\nThis is the guy who built the newspaper club up from a nobody club into what it is now.\nHe'd pull off something like that without batting an eye.\nHa ha ha...\nWell, none of that matters to me.\nAs long as I get to kill you all, I'm happy.\nI love beating defenseless people to death, nice and slow.\"{p}"
+  },
+  {
+   "id": "52:290c",
+   "op": "text",
+   "en": "...Something's wrong!\nShindo would never do something that cowardly.\nI mean, just a while ago he said he hated cowards......{p}"
+  },
+  {
+   "id": "52:2990",
+   "op": "text",
+   "en": "\"Shindo...\nWhat on earth happened to you?\"\n\"Bwa-ha-ha-ha-ha-ha...\nNow that you mention it, that was the name of this body's original owner.\nThat guy called Shindo got swallowed up by the cruelty lurking in his own heart.\nIn the dream, when he killed that man.\nFrom that moment on, I've been Makoto Shindo.\nToo bad, huh?\nAll that interviewing, and now you'll never get to write your article...\nFrustrating, isn't it?\nYes, yes, that's the face I love.\nShindo said he liked your smile, but me, what I like best of all is that face of yours, all twisted up with frustration and despair.\nIt's the moment you feel most keenly what tiny, foolish creatures humans are.\"{p}"
+  },
+  {
+   "id": "52:2bd8",
+   "op": "text",
+   "en": "Sad and frustrated... I felt the tears welling up.\nEven knowing it would only delight that thing, I just couldn't stop them.{p}"
+  },
+  {
+   "id": "52:2c5c",
+   "op": "text",
+   "en": "\"Oops, it's almost time for Hino to show up.\nIt's a shame to go, but I think I'll take my leave now.\n"
+  },
+  {
+   "id": "52:2cc4",
+   "op": "text",
+   "en": "With that, 'it', wearing Shindo's form, smashed the windowpane.{p}"
+  },
+  {
+   "id": "52:2d18",
+   "op": "text",
+   "en": "The shards raining down, glittering as they caught the light, were beautiful.{p}"
+  },
+  {
+   "id": "52:2d70",
+   "op": "text",
+   "en": "'It' picked up a clear shard and slowly came toward me.\nI have to run...\nMy mind knew it, but my body wouldn't obey.\nLike a frog glared at by a snake, all I could do was tremble and shake...\n...Oh, it's over!\nThe glass shard was thrust out in front of my eyes.\nAnd then...{p}"
+  },
+  {
+   "id": "52:2e84",
+   "op": "text",
+   "en": "\"So long, {a}.\"\nThe arm gripping it moved swiftly.{p}"
+  },
+  {
+   "id": "52:2ed0",
+   "op": "text",
+   "en": "For an instant, something hot ran across my neck.\nA moment later, something warm began to flow out.\nAll the strength drained from my body at once...\n...Slump.\nMy body crumpled limply into the pool of blood.\nIn my vision, slowly turning red...\n'It' leapt nimbly onto the window frame and vanished into the darkness outside.{p}"
+  },
+  {
+   "id": "52:3000",
+   "op": "text",
+   "en": "...Click.\nFor an instant, a white light flooded everything around me.\n\"Hyah-ha-ha-ha...\nAmazing, this is a real scoop!\"\nBefore I knew it, Hino had appeared and was gleefully snapping the shutter.\n...Maybe Hino had been swallowed up by the cruelty deep in his heart too.\nAs my consciousness slipped away, that's what I was thinking.\nAll that surrounded me was the sharp light of the flash and the shrill laughter pouring from Hino's mouth...{p}"
+  },
+  {
+   "id": "52:3184",
+   "op": "text",
+   "en": "You said earlier you didn't like fortune-telling, right?\nMe neither.\nWhy did I even think of looking for an explanation of the dream in something like that...\nIt must've really been bugging me.\nThat's the only way I can see it.\nBut, you know...\nWell, how should I put it... seeing that fortune, I felt like I got past something.\nIn the end, it was just something that happened in a dream.{p}"
+  },
+  {
+   "id": "52:32cc",
+   "op": "text",
+   "en": "...The moment Shindo said that.\nI felt the air in the room stir, as if something rippled through it.\n\"There was no need to worry about it that much.\nIt was only a dream, after all.\"\nHasn't Shindo noticed?\nEveryone's eyes are fixed on him...\nEvery time Shindo says\n\"Because it was a dream...\"\nor\n\"Just a dream...\"\neveryone's expressions get grimmer...\nWhat should I do...\nMaybe I should stop him.\n\"Um, Shin...\"\nJust as I started to say it.{p}"
+  },
+  {
+   "id": "52:34bc",
+   "op": "text",
+   "en": "With a tremendous crackling snap, the lights in the room went out.\n...A blackout?\n\"Whoa, a blackout?\nGreat.\nCan't see a damn thing like this.\n...Hey, what are you doing?\nHey, cut it out!\"\nShindo's voice had clearly turned angry.\nAnd then,\n\"Gah!\"\na short scream rang out.\nIt was pitch-black; I couldn't tell what had happened.\n\"Shindo...★\"{p}"
+  },
+  {
+   "id": "52:3618",
+   "op": "text",
+   "en": "The moment I tried to stand up, something struck the back of my head too.\nWhat...?\nWhat just happened?{p}"
+  },
+  {
+   "id": "52:367c",
+   "op": "text",
+   "en": "The darkness before my eyes twisted violently and began to form an eerie whirlpool.\nAnd my consciousness was dragged down in one rush, deeper still into the depths of the darkness...{p}"
+  }
+ ]
+}
