@@ -1,7 +1,9 @@
 # Changelog
 
-## 0.8.1 - 2026-11-14 (fix build, not a release)
+## 0.8.1 - 2026-11-14 (public release)
 
+Published as v0.8.1 on GitHub with a full patch from the Japanese image and an upgrade
+patch from the published v0.8.0 image (both checked against the same output SHA-256).
 Image SHA-1: 23e90a74dc285b6c64a03feaf5d65723326233cb. v0.8.0 (the public release) is kept
 as an xdelta3 patch (verified); the oldest patch (v0.6.0) was removed to stay at 10.
 
