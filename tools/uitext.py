@@ -88,7 +88,17 @@ def build(exe, extra_base, extra_max):
     inv = inventory()
     e = Exe(os.path.join(ROOT, 'work', 'source', 'disc', 'SLPS_004.04'))
     refs = uiscan.refs(e)
-    rows = [r for r in load() if r.get('en') or r.get('raw')]
+
+    def room_of(s):
+        """Usable bytes after the string's start, NUL excluded: up to the next string or
+        non-zero data (s['room']), and never into an address the code references."""
+        addr = int(s['ram'], 16)
+        for k in range(s['bytes'] + 1, s['room'] + 1):
+            if refs.get(addr + k):
+                return k - 1
+        return s['room']
+
+    rows =[r for r in load() if r.get('en') or r.get('raw')]
     rep = []
     in_place, moves = [], []     # moves: (row, raw, size, [ref words / pairs])
     covered = {}                 # pointer word -> new owner (for freeing slots)
@@ -103,7 +113,10 @@ def build(exe, extra_base, extra_max):
             continue
         s = inv[r['id']]
         addr = int(s['ram'], 16)
-        if len(raw) <= s['room'] and not r.get('min_size'):
+        # room ends at the next address the code references: zero bytes after a string can be
+        # a zero-filled table (ui078's spare "room" was the teller select's told-flags table
+        # 0x80012DF8; writing the long prompt there marked the first three tellers as told)
+        if len(raw) <= room_of(s) and not r.get('min_size'):
             in_place.append((r, raw, addr, marks))
             continue
         rf = refs.get(addr, [])
@@ -115,13 +128,18 @@ def build(exe, extra_base, extra_max):
         for site, _ in rf:
             covered[site] = r['id']
     # free slots: inventory strings whose every reference is now covered by a move
+    # (never a slot that a row is also written into in place: ui028 and line31 are the same
+    # string, line31 moves away, and Story 6 placed in ui028's slot was then overwritten by it)
+    kept = [(addr, addr + max(len(raw) + 1, inv[r['id']]['bytes'] + 1)) for r, raw, addr, _ in in_place]
     free = []
     for s in inv.values():
         addr = int(s['ram'], 16)
         rf = refs.get(addr, [])
+        end = addr + room_of(s) + 1
         if rf and all(site in covered for site, _ in rf) and \
-                not any(refs.get(addr + k) for k in range(1, s['bytes'] + 1)):
-            free.append([addr, s['room'] + 1])
+                not any(refs.get(addr + k) for k in range(1, s['bytes'] + 1)) and \
+                not any(a < end and addr < b for a, b in kept):
+            free.append([addr, room_of(s) + 1])
     for addr, size in free:
         o = addr - EXE_BASE + 0x800
         exe[o:o + size] = bytes(size)
@@ -159,6 +177,11 @@ def build(exe, extra_base, extra_max):
         o = addr - EXE_BASE + 0x800
         exe[o:o + max(len(raw) + 1, s['bytes'] + 1)] = raw + bytes(max(1, s['bytes'] + 1 - len(raw)))
         placed[r['id']] = (addr, marks, raw)
+    # no two strings may share bytes (a later write would cut the earlier one)
+    spans = sorted((at, at + len(raw) + 1, rid) for rid, (at, _, raw) in placed.items())
+    for (a0, a1, ra), (b0, b1, rb) in zip(spans, spans[1:]):
+        if b0 < a1:
+            raise SystemExit('UI strings overlap: %s %08X-%08X and %s %08X' % (ra, a0, a1, rb, b0))
     # run-time digits
     for rid, sites in DIGITS.items():
         if rid not in placed:

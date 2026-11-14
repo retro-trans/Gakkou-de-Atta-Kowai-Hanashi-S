@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.8.1 - 2026-11-14 (fix build, not a release)
+
+Image SHA-1: 23e90a74dc285b6c64a03feaf5d65723326233cb. v0.8.0 (the public release) is kept
+as an xdelta3 patch (verified); the oldest patch (v0.6.0) was removed to stay at 10.
+
+Fixed (both reported on v0.8.0, both in tools/uitext.py, the EXE string builder)
+- Teller select: at the start only the three tellers on the right could be picked, and
+  the cursor started on the fourth. The English prompt "Whose story will you hear?"
+  (ui078, 0x80012DE8) is longer than the Japanese and was written in place over the zero
+  bytes after it. Those bytes are the screen's "already told" table (0x80012DF8, six
+  words copied to the stack at 0x8002A064), so tellers 1-3 counted as told and the cursor
+  code (0x8002A6F0, 0x8002A864..0x8002A938) skipped them. A string's room now ends at the
+  next address the code references, so the prompt moves elsewhere; freed slots get the
+  same limit (the moved prompt's old slot had been reused for other strings over the
+  same table). Affected every build since the UI strings went in (0.6.0).
+- Save / load panel: the sixth story's line read "There areNozomu Kazama" instead of
+  "Story 6: Nozomu Kazama". The builder reused the slot of ui028 "There are no notes."
+  for the moved "Story 6: " template (the same text as line31, which moves away, so the
+  slot looked free), then wrote ui028 back into it in place. Slots written in place are
+  no longer offered as free space, and the build now stops if two UI strings share bytes.
+
+Checked in DuckStation (muted), on this exact image, from a fresh boot: New Game, default
+name, save prompt cancelled ("continue without saving"), prologue to the teller select.
+The cursor starts on the first teller (Iwashita) as in the Japanese original; right steps
+through all six and wraps, left from the first wraps to the sixth. Read from RAM there:
+the told table is all zero, and the six save-panel templates "Story 1: ".."Story 6: " each
+have their own 28-byte slot (Story 6 at 0x80011228). The save panel with six stories heard
+was not reached in play. Shots: work/emulator/shots/v081/. The memory card was not changed.
+
 ## 0.8.0 - 2026-11-12 (first public release)
 
 First public release, published as v0.8.0 on GitHub (retro-trans/Gakkou-de-Atta-Kowai-
