@@ -1,6 +1,9 @@
 # Changelog
 
-## Next build (0.8.3; in the tools, not built yet)
+## 0.8.3 - 2026-11-15 (hang fix build, not a release)
+
+Image SHA-1: ef60a3f6694cb1538bea3fbcbd8e10edba992013. v0.8.2 is kept as an xdelta3 patch
+(verified); the oldest patch (v0.8.0-dev) was removed to stay at 10.
 
 Fixed
 - The game hung on the Kokkuri-san board scenes (reported on the board picture; scenes
@@ -13,7 +16,14 @@ Fixed
   the pool (0x1F and 0x33 hold bytecode offsets, which never move).
   Checked offline: in all 71 rebuilt scripts every one of the 173 coin strings and every
   other untranslated string is byte for byte the original; `sdata.py check` is clean.
-  Not built, not seen in the emulator yet.
+
+Checked in DuckStation (muted), on this exact image: new game (save prompt cancelled),
+story state set over GDB to "3rd story, Iwashita and Arai told" (0x80060E88 = 3, story
+slots 0x8015B505 = 5, 2), Kazama chosen at the storyteller screen, played with
+tools/pagetext.py auto to "Kokkuri-san, Kokkuri-san, please answer us": the board
+appeared, the coin moved to NO, and the story went on ("Did you have a fight with her
+recently or something?"). Only this first of the 173 coin moves was watched. Shots:
+work/emulator/shots/v083/. The memory card was not changed (same SHA-1 as its backup).
 
 ## 0.8.2 - 2026-11-15 (fix + feature build, not a release)
 
