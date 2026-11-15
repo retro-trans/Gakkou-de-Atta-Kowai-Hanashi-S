@@ -71,6 +71,16 @@ EXTRA = {
 }
 CODE_OF = {v: k for k, v in EXTRA.items()}
 FILLER = 0x7F         # pad byte: draws nothing, keeps units 2-byte aligned
+INDENT = 0x12         # blank, as wide as a choice's "2. " prefix: indent of its wrapped lines
+DIM_ON, DIM_OFF = 0x13, 0x14   # zero width: letters after DIM_ON are drawn dimmed (2x text)
+
+
+def with_indent(widths):
+    """Advance table with the INDENT blank (digit + '.' + space of the same font)."""
+    w = list(widths)
+    w[INDENT] = w[ord('2')] + w[ord('.')] + w[ord(' ')]
+    w[DIM_ON] = w[DIM_OFF] = 0
+    return w
 
 
 def glyph_chars():
@@ -566,8 +576,16 @@ choice_brk:
     ori   t3, zero, 0x0A
     bne   t2, t3, @no
     nop
-    j     0x80014C4C
-    ori   v1, zero, 0xFF03
+    lw    a0, 0x2C8(gp)           ; break: FF03 (new line) + the INDENT blank, so the
+    ori   v1, zero, 0xFF03        ; wrapped line starts under the text after "2. "
+    sll   v0, a0, 1               ; (the game's own path at 0x80014C4C put two
+    addu  v0, v0, s0              ; full-width spaces = 30 px)
+    sh    v1, 0(v0)
+    ori   v1, zero, 0x127F        ; INDENT + filler
+    sh    v1, 2(v0)
+    addiu a0, a0, 2
+    j     0x80014C90              ; column counter, +1 line for the highlight bar
+    sw    a0, 0x2C8(gp)
 @no:
     j     0x80014CA4
     nop
@@ -1259,6 +1277,14 @@ HOOKS_2X = {
     0x80017A3C: 'move a0, s3\njal text2x_strips\nnop\nj 0x80017A7C\nmove s3, v0',
     # window clear: the dialogue window also empties the sprite chain and uploads the font sheet
     0x80013CE8: 'j clear2x\nnop',
+    # "already chosen" marks (tools/vwf2x.py seen_*): dim a chosen choice, record a choice,
+    # keep the marks in the save file's unused last 512 bytes
+    0x80014B74: 'jal seen_show\nnop',
+    0x80014CFC: 'jal seen_end\nnop',
+    0x8001D208: 'jal seen_mark',
+    0x80025ED0: 'jal seen_load',
+    0x80025CCC: 'jal seen_store',
+    0x80025DC4: 'jal seen_store',
 }
 # choice number prefixes "１・" (5-byte entries at 0x80049D7C) -> "1. " as pair units
 DATA = {0x80049D7C + 5 * i: bytes([0x31 + i, 0x2E, 0x20, FILLER, 0]) for i in range(9)}
@@ -1311,15 +1337,16 @@ def build_hi():
 def dialogue_widths():
     """Pen advances of the dialogue font (what tools/textenc.py wraps with)."""
     if not TEXT_2X:
-        return build_font()[0]
+        return with_indent(build_font()[0])
     import vwf2x
     w = vwf2x.widths(glyph_chars())
     w[FILLER] = 0
-    return w
+    return with_indent(w)
 
 
 def build_payload():
     widths, bmp = build_font()
+    widths = with_indent(widths)
     hi, hsyms = build_hi()
     symbols = {'WIN': 0x80060FB0, 'CANVAS_LEFT': CANVAS_LEFT, 'TEXT_W': TEXT_W,
                'LINE_H': LINE_H, 'STRIP_X': STRIP_X,
@@ -1334,7 +1361,8 @@ def build_payload():
     if len(code) > PAYLOAD_MAX:
         raise SystemExit('payload too big: %d > %d' % (len(code), PAYLOAD_MAX))
     syms = dict(syms)
-    for k in ('text2x_strips', 'clear2x', 'text2x_rec', 'font2_w'):
+    for k in ('text2x_strips', 'clear2x', 'text2x_rec', 'font2_w', 'seen_show', 'seen_end',
+              'seen_mark', 'seen_load', 'seen_store', 'seen_bits'):
         if k in hsyms:
             syms[k] = hsyms[k]
     return code, syms, widths

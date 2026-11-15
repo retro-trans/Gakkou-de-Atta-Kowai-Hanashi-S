@@ -13,7 +13,7 @@ import struct
 import sys
 
 import numpy as np
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import tim  # noqa: E402
@@ -578,12 +578,160 @@ GFX = {
 }
 
 
+# ---- ending staff credits (MOVIES/GOODEND.STR, MOVIES/BADEND.STR) -------------------------
+# Nine cards of vertical brush lettering on black, cross-faded with the scenery shots; both
+# movies show the same cards. English cards: role in grey, names in white, given name
+# first. No romanised staff list could be checked (see CHANGELOG 0.8.2): the readings are
+# the usual ones for the kanji, and the names marked ? there are the uncertain ones.
+CREDITS = [
+    [('Original Story & Scenario', ['Takeo Iijima'])],
+    [('Scenario & Branch Scenario', ['Sakiko Kojima', 'Nobuko Oike']),
+     ('Branch Scenario', ['Natsuko Hayakawa', 'Toshinori Kawakami', 'Takeshi Furukawa']),
+     ('Proofreading', ['Haruko Murata'])],
+    [('Photography & Special Effects', ['Kazuyoshi Takimoto'])],
+    [('Photography', ['Kaoru Kikukawa', 'Shinya Hirata', 'Kenichi Okayama']),
+     ('Art', ['Shinya Hirata', 'Kenichi Okayama', 'Mayumi Nakajima'])],
+    [('Sound', ['Takashi Horiguchi']),
+     ('Technical Supervisor', ['Dai Kobayakawa']),
+     ('Technical Staff', ['Kuniaki Sueyoshi', 'Takanori Ito'])],
+    [('Editing', ['Takeshi Furukawa', 'Tatsuya Igarashi', 'Yoshihiro Hosoda']),
+     ('Scene Direction', ['Kaoru Kikukawa', 'Sakiko Kojima', 'Takashi Horiguchi', 'Nobuko Oike'])],
+    [('Cooperation', ['Kenichi Tanaka', 'Katsuji Koshigaya', 'Maki Hirano', 'Rie Komai',
+                      'Hiromichi Saito', 'Shoki Sato', 'Yusuke Sueyasu', 'Hiroshi Kikuchi'])],
+    [('', ['Studio Stat Ltd. Debuggers', 'Pole To Win Ltd.', 'One Step'])],
+    [('Director', ['Kaoru Kikukawa'])],
+]
+# a frame in the middle of each card (full brightness), per movie
+CREDIT_PEAKS = {'MOVIES/GOODEND.STR': [122, 220, 306, 395, 488, 578, 677, 720, 819],
+                'MOVIES/BADEND.STR': [106, 195, 286, 375, 467, 557, 650, 700, 781]}
+CREDIT_VERSION = 3
+
+
+def credit_card(groups, w=320, h=192):
+    """Float image (h, w) 0..1: the card's lines centred, roles dimmer and smaller."""
+    S = 4
+    role_f = ImageFont.truetype(TTF, 10 * S)
+    name_f = ImageFont.truetype(TTF, 13 * S)
+    lines = []                                   # (text, font, level, pitch)
+    for gi, (role, names) in enumerate(groups):
+        if gi:
+            lines.append(None)
+        if role:
+            lines.append((role, role_f, 0.66, 14))
+        lines += [(n, name_f, 1.0, 16) for n in names]
+    total = sum(10 if l is None else l[3] for l in lines)
+    im = Image.new('L', (w * S, h * S), 0)
+    dr = ImageDraw.Draw(im)
+    y = (h - total) / 2
+    for l in lines:
+        if l is None:
+            y += 10
+            continue
+        text, f, level, pitch = l
+        dr.text((w * S / 2, (y + pitch / 2) * S), text, font=f, fill=int(255 * level), anchor='mm')
+        y += pitch
+    return np.asarray(im.resize((w, h), Image.LANCZOS)).astype(float) / 255
+
+
+def credits(key):
+    """Sector patches for one ending movie: every frame that shows a credit card gets the
+    English card at the brightness the Japanese one had. A frame that is only the card is
+    re-encoded whole; a cross-fade frame keeps the scenery (the Japanese lettering is
+    filled from its surroundings, the English is added at the fade level) and only the
+    macroblocks touched are re-encoded."""
+    import hashlib
+    import pickle
+    import bs
+    import props
+    path = os.path.join(GRP, *key.split('/'))
+    raw = open(path, 'rb').read()
+    tag = hashlib.sha1(raw + repr((CREDITS, CREDIT_PEAKS[key], CREDIT_VERSION)).encode()).hexdigest()[:16]
+    cdir = os.path.join(ROOT, 'work', 'cache')
+    cfile = os.path.join(cdir, 'credits_%s_%s.pkl' % (key.replace('/', '_'), tag))
+    if os.path.exists(cfile):
+        return pickle.load(open(cfile, 'rb'))
+    secs, frames = movie_sectors(path)
+    max_hdr = max(int.from_bytes(fr[2][:2], 'little') for fr in frames.values())
+    rgbs = {f: bs.decode(data, w, h)[0] for f, (w, h, data) in frames.items()}
+    lum = {f: np.maximum(a.max(2).astype(float) - 10, 0) for f, a in rgbs.items()}
+    cards = []
+    for k, pk in enumerate(CREDIT_PEAKS[key]):
+        core = lum[pk] > 90
+        m = np.asarray(Image.fromarray((core * 255).astype(np.uint8)).filter(ImageFilter.MaxFilter(7))) > 0
+        en = credit_card(CREDITS[k])
+        cards.append((m, core, lum[pk], en))
+    # which card a frame shows: the one whose lettering holds most of the frame's light
+    span = {}
+    for f in sorted(lum):
+        L = lum[f]
+        tot = L.sum()
+        if tot < 200:
+            continue
+        k = max(range(len(cards)), key=lambda j: L[cards[j][0]].sum())
+        if L[cards[k][0]].sum() / tot > 0.5:
+            a, b = span.get(k, (f, f))
+            span[k] = (min(a, f), max(b, f))
+    out, memo, stats = {}, {}, [0, 0]
+    todo = {}                                    # frame -> cards that may be on it
+    for k, (a, b) in sorted(span.items()):
+        for f in range(a - 8, b + 9):
+            if f in frames:
+                todo.setdefault(f, []).append(k)
+    for f, ks in sorted(todo.items()):
+        w, h, data = frames[f]
+        L = lum[f]
+        tot = L.sum()
+        cap = len(secs[f]) * 2016
+        # how much of each card is in the frame: least squares over the cards' lettering
+        # (two cards at once where one dissolves straight into the next)
+        union = np.zeros(L.shape, bool)
+        for k in ks:
+            union |= cards[k][0]
+        A = np.stack([cards[k][2][union] for k in ks] + [np.ones(int(union.sum()))], 1)
+        coef = np.linalg.lstsq(A, L[union], rcond=None)[0]
+        on = [(k, min(float(c), 1.0)) for k, c in zip(ks, coef) if c >= 0.06]
+        if not on:
+            continue
+        mask = np.zeros(L.shape, bool)
+        for k, _ in on:
+            mask |= cards[k][0]
+        if tot >= 200 and L[mask].sum() / tot > 0.85:
+            lv = tuple((k, min(32, int(round(c * 32)))) for k, c in on)      # cards only
+            if (lv, cap) not in memo:
+                g = sum(cards[k][3] * (n / 32) for k, n in lv)
+                img = np.repeat((g * 255)[..., None], 3, 2).clip(0, 255).astype(np.uint8)
+                memo[lv, cap] = bs.encode_fit(img, cap, max_hdr)[0]
+            new = memo[lv, cap]
+            stats[0] += 1
+        else:
+            # cross-fade with scenery: Japanese lettering filled from its surroundings
+            g = sum(cards[k][3] * c for k, c in on)
+            bg = props.fill(rgbs[f], mask, grain=False).astype(float)
+            img = (bg + (g * 255)[..., None]).clip(0, 255).astype(np.uint8)
+            mbs = bs.overlay_mbs(mask | (g > 0.03))
+            new = bs.reencode_overlay(data, w, h, img, mbs, cap, max_hdr)[0]
+            stats[1] += 1
+        used = (len(new) + 3) // 4 * 4
+        new = new.ljust(cap, b'\0')
+        for j, (chunk, idx, hdr) in enumerate(secs[f]):
+            hd = bytearray(hdr)
+            struct.pack_into('<I', hd, 12, used)
+            hd[20:28] = new[0:8]
+            out[idx] = bytes(hd) + new[j * 2016:(j + 1) * 2016]
+    print('  credits %s: %d card frames, %d cross-fade frames' % (key, stats[0], stats[1]))
+    os.makedirs(cdir, exist_ok=True)
+    pickle.dump(out, open(cfile, 'wb'))
+    return out
+
+
 # movies: sector patches {sector index in the file: 2048 bytes} (video sectors only)
 GFX_SECTORS = {
     'SCE00/THEEND.STR': theend,
     'SCE47/47D01.MV': theend47,
     'SCE00/BADEND.STR': badend,
     'MOVIES/SEXMOVIE.STR': opening_subs,   # opening narration subtitles
+    'MOVIES/GOODEND.STR': lambda: credits('MOVIES/GOODEND.STR'),   # staff credits
+    'MOVIES/BADEND.STR': lambda: credits('MOVIES/BADEND.STR'),
 }
 
 

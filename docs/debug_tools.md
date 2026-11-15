@@ -7,6 +7,8 @@ General method: `debug_tools_guide.md`. This file lists this game's tools and ad
 | `tools/emu.ps1 start <cue> [-StateFile s]`, `stop`, `post "F1:200"` | portable DuckStation in `work/emulator/duckstation` (muted, interpreter CPU, GDB port 2351) |
 | `tools/gdbdbg.py run "press circle; wait 60; shot x.png; vram v.png"` | virtual pad + VRAM grabs over GDB (works unfocused) |
 | `tools/gdbdbg.py run "mash circle 80029164 8"` | press a button every N frames until the CPU reaches an address (halts there). **Only after the save prompts are passed** (check with a shot): mashing through name entry fills the name, finishes, picks Notes 1 and confirms the overwrite (happened once on 2026-11-11; the card was restored from the copy inside the Nov 10 savestates, the overwritten card is memcards/overwritten_2026-11-11.mcd.bak) |
+| `tools/pagetext.py` | print the dialogue page on screen as text (read from the 2x letter sprites: texture position = glyph, `[dim]` = drawn dimmed). `until "<text>" [n]` presses Circle until the page contains the text; `auto "<text>" "<a>\|<b>" [n]` also picks the choice that contains `<a>` or `<b>`. Both stop when no dialogue page is on screen twice in a row (menu / save screen), so they cannot confirm a save prompt |
+| `tools/layoutcheck.py [--old]` | offline: replays every text row as the game draws it (per gender; rows the script runs straight into share a page) and reports letters past the right edge or lines below the page. No emulator |
 | `tools/moviegrab.py <prefix> 700,900` | VRAM grabs during movies (no pad reads there): counts LoadImage calls |
 | `tools/gdbmem.py read/dumpram/regs` | memory access (`GK_GDB_PORT`, default 2351) |
 | `tools/gdbreset.py [--pc]` | clear known breakpoints, resume |

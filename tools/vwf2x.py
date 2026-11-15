@@ -37,6 +37,9 @@ SHEET_X, SHEET_Y = 960, 32    # VRAM (halfwords, rows); page x = 960, y = 0
 SHEET_MAX_H = 224 - SHEET_Y   # rows 32..223 are free in every screen checked
 CLUT_X, CLUT_Y = 960, 224
 MAXG = 900                    # sprites per page (two prims each)
+SEEN_BYTES = 508              # "already chosen" bits kept in the save file (after "SEN1")
+SEEN_MAX = SEEN_BYTES * 8     # choice numbers below this have a bit
+DIM_PRIM = 0x2E585858         # letters of a chosen choice: texture x 69 % grey
 SCREEN_DX, SCREEN_DY = 50, 15  # canvas -> screen (strip k: canvas u 55 + 20k at x 105 + 20k; v 0 at y 15)
 OT = 0x800637E0
 STRIPS = 0x800628CC
@@ -76,6 +79,8 @@ def build_glyphs(glyph_chars):
         for x, y, v in ink:
             grid[y][x] = v
         cells[code] = (grid, cw, chh, xoff // 2, top // 2)
+    import vwf
+    adv = vwf.with_indent(adv)
     # shelf packing, tallest first; u + w <= 255 and v + h <= 255 (byte coordinates)
     order = sorted(cells, key=lambda c: (-cells[c][2], c))
     place, x, y, shelf = {}, 0, 0, 0
@@ -117,6 +122,19 @@ def clut_bytes():
 ASM = r'''
 ; ---- text2x_rec(a0 = code, a1 = canvas x0, a2 = canvas y0): two sprites for one letter ---
 text2x_rec:
+    addiu t1, a0, -0x13           ; 0x13 DIM_ON / 0x14 DIM_OFF: colour of the letters
+    sltiu t1, t1, 2               ; that follow (choices already chosen are dimmed)
+    beqz  t1, @glyph
+    ori   t3, zero, 0x13
+    la    t9, g2_state
+    li    t2, 0x2F808080          ; letter: raw texture, semi-transparent
+    bne   a0, t3, @setc
+    nop
+    li    t2, DIM_PRIM            ; letter: texture x grey, semi-transparent
+@setc:
+    jr    ra
+    sw    t2, 16(t9)
+@glyph:
     sll   t1, a0, 3
     la    t0, g2_tab
     addu  t0, t0, t1
@@ -177,7 +195,8 @@ text2x_rec:
     sw    t1, 4(t5)
     ori   t1, zero, CLUT_O
     sh    t1, 14(t5)
-    li    t1, 0x2F808080          ; letter: raw texture, semi-transparent
+    lw    t1, 16(t9)              ; letter colour word (g2_state + 16)
+    nop
     sw    t1, 44(t5)
     ori   t1, zero, CLUT_I
     sh    t1, 54(t5)
@@ -282,6 +301,8 @@ clear2x:
     nop
     la    t1, g2_state
     sw    zero, 0(t1)
+    li    t2, 0x2F808080
+    sw    t2, 16(t1)              ; letters back to white
     addiu sp, sp, -0x18
     sw    ra, 0x14(sp)
     sw    a0, 0x10(sp)
@@ -302,12 +323,154 @@ clear2x:
     j     0x80013CF0
     nop
 
+; ==== "already chosen" marks ====================================================
+; Every choice string of a rebuilt script has 4 bytes in front of it: E7 5E + its number
+; (tools/build.py seen_numbers). seen_bits holds one bit per number; the bits live in
+; the 512 unused bytes at the end of the save file (0x1E00: "SEN1" + 508 bytes).
+
+; t0 = choice string -> v1 = its number, or 0xFFFF (untagged string: original script)
+seen_num:
+    lbu   t1, -4(t0)
+    lbu   t2, -3(t0)
+    ori   t3, zero, 0xE7
+    bne   t1, t3, @none
+    ori   t3, zero, 0x5E
+    bne   t2, t3, @none
+    nop
+    lbu   t1, -1(t0)
+    lbu   v1, -2(t0)
+    sll   t1, t1, 8
+    or    v1, v1, t1
+    sltiu t1, v1, SEEN_MAX
+    bnez  t1, @ok
+    nop
+@none:
+    ori   v1, zero, 0xFFFF
+@ok:
+    jr    ra
+    nop
+
+; from 0x80014B74 (start of a choice's text; [0x80060F9C] = its string): a choice that
+; was chosen before gets DIM_ON as its first unit
+seen_show:
+    ori   s1, zero, 2             ; the two replaced instructions
+    sw    zero, 0x2C8(gp)
+    lui   t0, 0x8006
+    lw    t0, 0x0F9C(t0)
+    move  t9, ra
+    jal   seen_num
+    nop
+    move  ra, t9
+    ori   t1, zero, 0xFFFF
+    beq   v1, t1, @ret
+    srl   t2, v1, 3
+    la    t3, seen_bits
+    addu  t3, t3, t2
+    lbu   t3, 0(t3)
+    andi  t2, v1, 7
+    srlv  t3, t3, t2
+    andi  t3, t3, 1
+    beqz  t3, @ret
+    lui   t0, 0x8006
+    ori   t1, zero, 0x137F        ; DIM_ON + filler
+    sh    t1, 0x1858(t0)
+    ori   t1, zero, 1
+    sw    t1, 0x2C8(gp)
+@ret:
+    jr    ra
+    nop
+
+; from 0x80014CFC (end of a choice's text): DIM_OFF, then the game's terminators
+seen_end:
+    lui   a1, 0x8006              ; the two replaced instructions
+    addiu a1, a1, 0x1858
+    lw    v0, 0x2C8(gp)
+    ori   t1, zero, 0x147F        ; DIM_OFF + filler
+    sll   t0, v0, 1
+    addu  t0, t0, a1
+    sh    t1, 0(t0)
+    addiu v0, v0, 1
+    jr    ra
+    sw    v0, 0x2C8(gp)
+
+; from 0x8001D208 (the choice was confirmed; 0x10(sp) = its record, +0 = string):
+; set its bit, then the game's own call (clear the choice list)
+seen_mark:
+    lw    t0, 0x10(sp)
+    move  t9, ra
+    jal   seen_num
+    nop
+    move  ra, t9
+    ori   t1, zero, 0xFFFF
+    beq   v1, t1, @go
+    srl   t2, v1, 3
+    la    t3, seen_bits
+    addu  t3, t3, t2
+    lbu   t5, 0(t3)
+    andi  t2, v1, 7
+    ori   t6, zero, 1
+    sllv  t6, t6, t2
+    or    t5, t5, t6
+    sb    t5, 0(t3)
+@go:
+    j     0x80021D14
+    nop
+
+; from 0x80025ED0 (save file read into s1, 0x2000 bytes): merge its marks into seen_bits
+seen_load:
+    addiu t0, s1, 0x1E00
+    la    t3, seen_tag
+    ori   t4, zero, 4
+@tag:
+    lbu   t1, 0(t0)
+    lbu   t2, 0(t3)
+    addiu t0, t0, 1
+    bne   t1, t2, @x
+    addiu t4, t4, -1
+    bnez  t4, @tag
+    addiu t3, t3, 1
+    ori   t4, zero, SEEN_BYTES
+@lp:
+    lbu   t1, 0(t0)
+    lbu   t2, 0(t3)
+    addiu t0, t0, 1
+    or    t1, t1, t2
+    sb    t1, 0(t3)
+    addiu t4, t4, -1
+    bnez  t4, @lp
+    addiu t3, t3, 1
+@x:
+    j     0x800317E8              ; close(a0), the replaced call
+    nop
+
+; from 0x80025CCC / 0x80025DC4 (write(a0 = fd, a1 = save file, a2 = 0x2000)): put the
+; tag and the marks into the file's last 512 bytes first
+seen_store:
+    addiu t0, a1, 0x1E00
+    la    t3, seen_tag
+    ori   t4, zero, SEEN_BYTES + 4
+@lp:
+    lbu   t1, 0(t3)
+    addiu t3, t3, 1
+    sb    t1, 0(t0)
+    addiu t4, t4, -1
+    bnez  t4, @lp
+    addiu t0, t0, 1
+    j     0x800317F8              ; write, the replaced call
+    nop
+
+    .align 4
+seen_tag:
+    .ascii "SEN1"
+seen_bits:
+    .space SEEN_BYTES
     .align 4
 g2_state:
     .word 0
     .word 0
     .word 0
     .word 0
+    .word 0x2F808080              ; +16 letter prim code + colour
 sheet_rect:
     .half SHEET_X
     .half SHEET_Y
@@ -337,7 +500,8 @@ def build(glyph_chars):
     syms = {'MAXG': MAXG, 'SCREEN_DX': SCREEN_DX, 'SCREEN_DY': SCREEN_DY, 'TPAGE': TPAGE,
             'CLUT_O': CLUT_O, 'CLUT_I': CLUT_I, 'OT': OT, 'STRIPS': STRIPS, 'WIN': WIN,
             'ADDPRIM': ADDPRIM, 'LOADIMAGE': LOADIMAGE, 'SHEET_X': SHEET_X, 'SHEET_Y': SHEET_Y,
-            'SHEET_H': height, 'CLUT_X': CLUT_X, 'CLUT_Y': CLUT_Y, 'PRIMS': 0}
+            'SHEET_H': height, 'CLUT_X': CLUT_X, 'CLUT_Y': CLUT_Y, 'PRIMS': 0,
+            'SEEN_BYTES': SEEN_BYTES, 'SEEN_MAX': SEEN_MAX, 'DIM_PRIM': DIM_PRIM}
     blobs = {'clut': clut_bytes(), 'adv': adv, 'table': table, 'sheet': sheet}
     code, s = assemble(ASM, HI, symbols=syms, blobs=blobs)
     prims = (HI + len(code) + 15) & ~15
@@ -357,7 +521,8 @@ def widths(glyph_chars):
     w = [0] * 128
     for code, ch in glyph_chars.items():
         w[code] = skiesfont.cell(ch)[3]
-    return w
+    import vwf
+    return vwf.with_indent(w)
 
 
 def sheet_png(path, glyph_chars):

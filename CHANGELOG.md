@@ -1,5 +1,72 @@
 # Changelog
 
+## 0.8.2 - 2026-11-15 (fix + feature build, not a release)
+
+Image SHA-1: d2d27797c65e0b45ba493a51d4abe1c3e5e19303. v0.8.1 (public release) is kept as an xdelta3 patch (verified); the
+oldest patch (v0.7.0) was removed to stay at 10.
+
+Fixed
+- Text that ran off the right edge and broke in the middle of a word (reported: scene 31,
+  "...the real trouble started.The bo / dn't leave Shimizu's painting."). 25 rows of the
+  script stop in the middle of a line and the next row goes on with the text after a
+  picture change; another 530 end with a paragraph break and the next row starts further
+  down the same page. The builder laid every row out as if it began a clean page. It now
+  lays such a run of rows out as one page (tools/build.py text_runs, tools/textenc.py
+  encode_row; docs/text_system.md "Rows that share a page"): the next row continues the
+  line after a space or starts a new one, and page breaks count the lines already there.
+  tools/layoutcheck.py replays every row as the game draws it: before, 21 rows drew past
+  the right edge and 140 rows drew below the last line of the page (the engine then broke
+  the page in mid sentence); now none.
+- A page that starts with a blank line counted one line too few (32:56b8).
+- Wrapped choices: the second line was indented 30 px (two full-width spaces, sized for
+  the Japanese font). It now starts exactly under the text after "2. " (a blank glyph as
+  wide as that prefix, code 0x12; `choice_brk` in tools/vwf.py).
+- 04:2234 (reported, "...tell the seniors on / you"): shortened to "Say that and I'll tell
+  the seniors" so it fits one line.
+
+Added
+- Choices you have already chosen are drawn in grey. The game had no such mark. One bit
+  per choice (2,794 choices) is set when a choice is confirmed and kept in the 512 unused
+  bytes at the end of the save file, so the marks come back after loading and are shared
+  by the four notes on a card; they are written whenever the game saves. Details:
+  docs/text_system.md "Already chosen marks". Real hardware: the save file keeps its
+  size, block count and write calls; only its unused tail changes. New code is in the 2x
+  text block in free RAM (dialogue font builds only; `VWF_2X=0` has no marks).
+- Ending staff credits in English (both ending movies, nine cards): role in grey over the
+  names, given name first, at the brightness of the Japanese card in every frame,
+  cross-fades included (tools/gfx.py `credits`). No romanised staff list could be checked
+  (MobyGames has one behind a bot check), so the names use the usual readings of the
+  kanji; uncertain readings are listed in work/ui/gfx_survey.md.
+
+Checked in DuckStation (muted), on this exact image
+- Marks: at the first save prompt of a new game three test bits were written into
+  `seen_bits` over GDB and the game was saved to Notes 2: the save file's last 512 bytes
+  held "SEN1" and the three bytes, the notes' records were untouched. After a fresh boot
+  the bits were back in RAM at the title screen (the game reads the card at start-up). In
+  scene 29 the two marked choices ("1. I know him", "1. I knew") were drawn grey, the
+  others white (shot w6_zoom.png: grey letters, black outline, readable on the highlight
+  bar), and confirming "2. I don't know him" set its bit (byte 177: 02 -> 03).
+- A whole story (scene 29, 247 presses, six choices) played with tools/pagetext.py auto:
+  pages and choices read back correctly; it stopped by itself at the end-of-story save
+  prompt. Nothing was saved there.
+- Title menu shows "v0.8.2".
+- Credits: both patched movies decoded from the built sectors: all nine cards, the fades
+  to and from scenery and the card-to-card dissolve (Cooperation -> companies) show the
+  English cards and no Japanese lettering (work/emulator/shots/v082/out*.png).
+
+Not seen in game
+- The page of the reported overflow (31:80dc / 31:81d4) and the other rows that continue
+  a line: checked with tools/layoutcheck.py only. The play-through above took a branch
+  that does not pass scene 29's one such page (29:4484).
+- A wrapped choice with the new indent (the reported one now fits one line; the indent
+  is the same code path as before with a narrower blank).
+- The ending movies were not watched in the emulator (frames decoded offline, as for the
+  other end movies).
+
+The emulator's memory card was backed up before the test and restored afterwards (same
+SHA-1 as the backup); the card with the test save is kept as
+memcards/seen_test_2026-11-15_with_marks.mcd.bak. Shots: work/emulator/shots/v082/.
+
 ## 0.8.1 - 2026-11-14 (public release)
 
 Published as v0.8.1 on GitHub with a full patch from the Japanese image and an upgrade

@@ -48,22 +48,88 @@ def load_rows(num):
     return {}
 
 
-def rebuild_script(data, num, rows, report):
+# Ops that may sit between two text rows without touching the text window: picture and
+# sound ops. They are the ops found between a row that stops in the middle of a line and
+# the row that goes on with the sentence (25 places in the Japanese script), so the text
+# stays on screen across them. Any other op, a jump, or a jump target ends a text run.
+KEEP_TEXT = {0x0B, 0x20, 0x21, 0x22, 0x24, 0x25, 0x26, 0x27, 0x4E, 0x53, 0x59, 0x5A, 0x5B, 0x5E}
+SEEN_TAG = b'\xE7\x5E'       # in front of every choice string: tag, then its u16 number
+
+
+def text_runs(s, num, rows):
+    """-> {string offset: offset of the text row the script runs into straight after it}."""
+    refs = {}
+    for at, v, op in s.pool_refs():
+        refs[v] = refs.get(v, 0) + 1
+    targets = {v for at, v, op in s.code_refs()}
+    nxt, prev = {}, None
+    for pc, op, ln, vals in s.insns:
+        if pc in targets:
+            prev = None
+        if op == 0x4A:
+            v = vals[0][1]
+            ok = '%02d:%04x' % (num, v) in rows and refs[v] == 1
+            if ok and prev is not None:
+                nxt[prev] = v
+            prev = v if ok else None
+        elif op not in KEEP_TEXT:
+            prev = None
+    return nxt
+
+
+def seen_numbers():
+    """{(scene, original string offset): number} for every choice of the game, in scene
+    and offset order: the bit a choice has in the "already chosen" map on the memory card.
+    Taken from the original scripts, so it never changes with the translation."""
+    out = {}
+    for p in sorted(glob.glob(os.path.join(GRP, 'SCE*', 'SDATA*.BIN'))):
+        num = int(os.path.basename(p)[5:7])
+        s = Script(open(p, 'rb').read())
+        for v in sorted({v for at, v, op in s.pool_refs() if op == 0x04}):
+            out[num, v] = len(out)
+    return out
+
+
+def rebuild_script(data, num, rows, report, seen=None):
     s = Script(data)
     assert not s.errors, s.errors
     out = bytearray(data[:s.code_end])
     out += bytes(-len(out) % 4)
     newoff = {}
     shared = {}     # identical strings are stored once (the pool is read-only)
+    nxt = text_runs(s, num, rows)
+    state = {}      # string offset -> pen state left by the row before it (textenc.encode_row)
     for at, v, op in s.pool_refs():
         if v in newoff:
             continue
         raw = data[v:data.index(b'\0', v)]
         rid = '%02d:%04x' % (num, v)
+        if op == 0x04:
+            # choices are never shared: each carries its own number (tools/vwf2x.py seen_*)
+            if rid in rows:
+                warn = []
+                raw = textenc.encode_choice(rows[rid], warn)
+                report.extend('%s: %s' % (rid, w) for w in warn)
+            if seen is not None:
+                out += SEEN_TAG + struct.pack('<H', seen[num, v])
+            newoff[v] = len(out)
+            out += raw + b'\0'
+            out += bytes(-len(out) % 4)
+            continue
         if rid in rows:
             warn = []
-            enc = textenc.encode_choice if op == 0x04 else textenc.encode
-            raw = enc(rows[rid], warn)
+            if op == 0x4A and (v in state or v in nxt):
+                follow = rows['%02d:%04x' % (num, nxt[v])] if v in nxt else None
+                ahead = textenc.first_lines(follow) if follow and rows[rid].endswith('\n') else 0
+                raw, end = textenc.encode_row(rows[rid], warn, state.get(v), ahead)
+                if v in nxt and end:
+                    state[nxt[v]] = end
+                report.extend('%s: %s' % (rid, w) for w in warn)
+                newoff[v] = len(out)        # laid out for its place in the run: not shared
+                out += raw + b'\0'
+                out += bytes(-len(out) % 4)
+                continue
+            raw = textenc.encode(rows[rid], warn)
             report.extend('%s: %s' % (rid, w) for w in warn)
         if raw in shared:
             newoff[v] = shared[raw]
@@ -99,6 +165,7 @@ def main():
     only = {int(x) for x in a.only.split(',')} if a.only else None
     scripts = {}
     report = []
+    seen = seen_numbers()
     for p in sorted(glob.glob(os.path.join(GRP, 'SCE*', 'SDATA*.BIN'))):
         num = int(os.path.basename(p)[5:7])
         if only is not None and num not in only:
@@ -106,7 +173,7 @@ def main():
         rows = load_rows(num)
         if not rows:
             continue
-        scripts[num] = rebuild_script(open(p, 'rb').read(), num, rows, report)
+        scripts[num] = rebuild_script(open(p, 'rb').read(), num, rows, report, seen)
         print('SDATA%02d: %d rows, %d -> %d bytes' % (num, len(rows), os.path.getsize(p), len(scripts[num])))
     if report:
         print('%d layout warnings' % len(report))

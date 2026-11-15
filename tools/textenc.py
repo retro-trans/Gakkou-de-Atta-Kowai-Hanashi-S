@@ -21,7 +21,7 @@ Line layout: the window is WIN_W px wide and holds LINES lines at a 17 px pitch
 import re
 import struct
 
-from vwf import dialogue_widths, CODE_OF, FILLER
+from vwf import dialogue_widths, CODE_OF, FILLER, INDENT
 
 WIN_W = 198            # canvas x 56..254 (tools/vwf.py CANVAS_LEFT), minus the outline
 LINES = 12             # lines per page (tools/vwf.py PAGE_LINES)
@@ -145,8 +145,13 @@ def line_units(line):
     return n + (run + 1) // 2
 
 
-def wrap(ats, gender):
-    """Greedy word wrap -> list of lines (lists of atoms); spaces at breaks dropped."""
+def wrap(ats, gender, x0=0, u0=0):
+    """Greedy word wrap -> list of lines (lists of atoms); spaces at breaks dropped.
+
+    x0 / u0: pixels / units already on the first line, when the row continues the last
+    line of the row before it (which ended without a line break). The text then starts
+    after a space; if its first word does not fit there, the first line comes back empty
+    (only zero-width codes) and the {g} that joins the lines starts a new one."""
     words, cur = [], []
     for a in ats:
         if a[0] == 'sp' or (a[0] == 'c' and a[1] == 'g'):
@@ -159,17 +164,28 @@ def wrap(ats, gender):
     if cur:
         words.append(cur)
     words = [p for wd in words for p in split_wide(wd, gender)]
-    lines, line, lw = [], [], 0
+    lines, line, lw = [], [], x0
+    lead = x0 > 0
     for wd in words:
         if wd[0][0] == 'c' and wd[0][1] == 'g':
             continue        # source {g} placed Japanese column breaks; English wraps itself
         ww = sum(atom_width(a, gender) for a in wd)
         if wd[0][0] == 'sp':
-            if line:
+            if line and not lead:
                 line.append(wd[0])
                 lw += ww
             continue
-        if line and (lw + ww > WIN_W or line_units(line + wd) > MAX_UNITS):
+        base = u0 if not lines else 0
+        if lead and ww:
+            lead = False
+            sp = atom_width(('sp',), gender)
+            if lw + sp + ww > WIN_W or base + line_units(line + [('sp',)] + wd) > MAX_UNITS:
+                lines.append(line)
+                line, lw = [], 0
+            else:
+                line.append(('sp',))
+                lw += sp
+        elif line and (lw + ww > WIN_W or base + line_units(line + wd) > MAX_UNITS):
             while line and line[-1][0] == 'sp':
                 lw -= atom_width(line.pop(), gender)
             lines.append(line)
@@ -249,20 +265,21 @@ def line_key(lines):
     return [len(l) for l in lines]
 
 
-def encode_paragraph(tokens, report=None):
-    """Wrap one paragraph (no 'nl' tokens) and encode it."""
+def encode_paragraph(tokens, report=None, x0=0, u0=0, row0=0):
+    """Wrap one paragraph (no 'nl' tokens) and encode it. x0 / u0: see wrap();
+    row0: page line the paragraph starts on (for the page breaks of a long paragraph)."""
     has_f = any(t[0] == 'f' for t in tokens)
     ats = atoms(tokens)
     if not has_f:
-        lines = wrap(ats, None)
+        lines = wrap(ats, None, x0, u0)
         check(lines, report)
-        return join_lines([encode_atoms(l) for l in lines])
+        return join_lines([encode_atoms(l) for l in lines], row0)
     # compact form: f-tokens as atomic words; valid if both genders break identically
-    per = [wrap(ats, g) for g in (0, 1)]
+    per = [wrap(ats, g, x0, u0) for g in (0, 1)]
     fits = all(line_width(l, g) <= WIN_W for g in (0, 1) for l in per[g])
     if fits and line_key(per[0]) == line_key(per[1]):
         check(per[0], report)
-        return join_lines([encode_atoms(l) for l in per[0]])
+        return join_lines([encode_atoms(l) for l in per[0]], row0)
     # per-line gender branches (the options are free to wrap differently). The game
     # allows no control code inside a branch: trailing waits ({p} {k} {w}) are moved
     # after the last line, and a line's other controls must match between genders.
@@ -270,8 +287,8 @@ def encode_paragraph(tokens, report=None):
     while tokens and tokens[-1][0] == 'c' and tokens[-1][1] in 'pkw':
         tail.insert(0, tokens[-1])
         tokens = tokens[:-1]
-    lm = wrap(atoms(tokens, 0), 0)
-    lf = wrap(atoms(tokens, 1), 1)
+    lm = wrap(atoms(tokens, 0), 0, x0, u0)
+    lf = wrap(atoms(tokens, 1), 1, x0, u0)
     check(lm, report)
     check(lf, report)
     out = []
@@ -288,7 +305,7 @@ def encode_paragraph(tokens, report=None):
             if j < len(cm):
                 line += ctrl(cm[j][1])
         out.append(bytes(line))
-    return join_lines(out) + b''.join(ctrl(t[1]) for t in tail)
+    return join_lines(out, row0) + b''.join(ctrl(t[1]) for t in tail)
 
 
 def split_ctrl(line):
@@ -305,11 +322,12 @@ def split_ctrl(line):
     return runs, ctrls
 
 
-def join_lines(parts):
+def join_lines(parts, row0=0):
     """Lines joined by {g}; a paragraph longer than a page gets a {p} (wait, clear page)
     after every LINES lines. The source uses {p} mid-paragraph (1,103 times), and four
     source paragraphs already run past one page (44:11198, 44:11c84, 44:1257c, 47:bdb0)."""
-    pages = [parts[i:i + LINES] for i in range(0, len(parts), LINES)] or [[]]
+    first = max(LINES - row0, 1)     # row0: page line of the first part
+    pages = [parts[:first]] + [parts[i:i + LINES] for i in range(first, len(parts), LINES)]
     return ctrl('p').join(ctrl('g').join(pg) for pg in pages)
 
 
@@ -321,8 +339,35 @@ def check(lines, report):
             report.append('word wider than the window: %r' % (l,))
 
 
-def encode(markup, report=None):
-    """Markup -> game bytes (no NUL). report: list that collects layout warnings."""
+def encode(markup, report=None, start=None, next_lines=0):
+    """Markup -> game bytes (no NUL). report: list that collects layout warnings.
+    start / next_lines: see encode_row (rows that share a page with their neighbours)."""
+    return encode_row(markup, report, start, next_lines)[0]
+
+
+def first_lines(markup):
+    """Lines the first paragraph of a row takes when it starts on an empty line."""
+    para = []
+    for t in parse(markup):
+        if t[0] == 'nl':
+            break
+        para.append(t)
+    return piece_lines(page_pieces(para)[0])
+
+
+def encode_row(markup, report=None, start=None, next_lines=0):
+    """-> (bytes, end state). A state is (x, units, row): the pen's pixel offset and unit
+    count on its line, and the page line it is on; None = fresh page.
+
+    start: end state of the row shown just before this one, when the script runs straight
+    from that row into this one (tools/build.py works that out). x > 0: that row ended in
+    the middle of a line and this one continues it, after a space (the Japanese rows do
+    this around picture changes). x = 0, row > 0: it ended with a paragraph break and this
+    row starts further down the same page. Without start the row is laid out as if it
+    began a page, which is right after a {p}.
+    next_lines: when a text row follows a row that ends in a paragraph break, the lines of
+    that next row's first paragraph; if they do not fit on this page, the final CR LF
+    becomes {p} (the same key press, then a clean page)."""
     tokens = parse(markup)
     paras, cur = [], []
     for t in tokens:
@@ -332,26 +377,43 @@ def encode(markup, report=None):
         else:
             cur.append(t)
     paras.append(cur)
-    # Page layout: a row is assumed to start on a fresh page (almost every row before it
-    # ends with {p}). When the next paragraph would not fit on the lines left, its CR LF
+    x0, u0, row0 = start or (0, 0, 0)
+    # Page layout. When the next paragraph would not fit on the lines left, its CR LF
     # becomes {p} (wait, clear page) so the page breaks between paragraphs; otherwise the
     # engine breaks it mid-sentence by itself (checked in DuckStation, v0.2.0).
     out = b''
-    used = 0
-    # a row ending in CR LF is usually followed by choices drawn on the same page
+    used = row0             # page line the next paragraph starts on
+    # a row ending in CR LF is followed by choices on the same page, unless the caller
+    # says a text row follows (next_lines)
     last = max([i for i, p in enumerate(paras) if p] or [0])
-    tail_room = CHOICE_RESERVE if markup.endswith('\n') else 0
+    tail_room = CHOICE_RESERVE if markup.endswith('\n') and not next_lines else 0
+    px = pu = 0
+    pieces = [[]]
     for i, p in enumerate(paras):
         pieces = page_pieces(p)
-        first = piece_lines(pieces[0])
+        px, pu = (x0, u0) if i == 0 else (0, 0)
+        first = piece_lines(pieces[0], px, pu)
+        if i < len(paras) - 1 and len(pieces) == 1:
+            first = max(first, 1)            # a blank paragraph still takes its line
         room = LINES - (tail_room if i == last and len(pieces) == 1 else 0)
-        if i:
-            if used and used + first > room and first <= room:
+        if i == 0:
+            if start and first and row0 + first > LINES:
+                fresh = piece_lines(pieces[0])
+                if fresh <= LINES:           # no room left on that page: start a new one
+                    out += ctrl('p')
+                    px = pu = used = 0
+                    first = fresh
+        else:
+            final = i == len(paras) - 1 and not p
+            if final and next_lines and used + next_lines > LINES and next_lines <= LINES:
+                out += ctrl('p')
+                used = 0
+            elif used and used + first > room and first <= room:
                 out += ctrl('p')
                 used = 0
             else:
                 out += b'\r\n'
-        out += encode_paged(p, report)
+        out += encode_paged(p, report, px, pu, used)
         used += first
         for pc in pieces[1:]:
             used = piece_lines(pc)
@@ -359,7 +421,27 @@ def encode(markup, report=None):
             used = used % LINES or LINES
         if pieces[-1] and pieces[-1][-1] == ('c', 'p'):
             used = 0
-    return out
+    # where the pen is after the row
+    lp = pieces[-1]
+    if markup.endswith('\n'):
+        end = (0, 0, used) if 0 < used < LINES else None
+    elif lp and lp[-1] == ('c', 'p'):
+        end = None
+    else:
+        sx, su = (px, pu) if len(pieces) == 1 else (0, 0)
+        if any(t[0] in 't f' or (t[0] == 'c' and t[1] in 'abc') for t in lp):
+            ex = eu = 0
+            for g in (0, 1):
+                ls = wrap(atoms(lp, g), g, sx, su)
+                one = len(ls) == 1
+                ex = max(ex, line_width(ls[-1], g) + (sx if one else 0))
+                eu = max(eu, line_units(ls[-1]) + (su if one else 0))
+            end = (ex, eu, max(used - 1, 0))
+        elif sx:
+            end = (sx, su, max(used - 1, 0))      # only codes: still on the begun line
+        else:
+            end = (0, 0, used) if 0 < used < LINES else None
+    return out, end
 
 
 def page_pieces(tokens):
@@ -374,17 +456,18 @@ def page_pieces(tokens):
     return pieces
 
 
-def piece_lines(tokens):
-    """Lines a page piece takes (the larger gender variant)."""
+def piece_lines(tokens, x0=0, u0=0):
+    """Lines a page piece takes (the larger gender variant); with x0 the first of them
+    is the line already begun."""
     if not any(t[0] in 't f' for t in tokens):
-        return 0
-    n = len(wrap(atoms(tokens), None))
+        return 1 if x0 else 0
+    n = len(wrap(atoms(tokens), None, x0, u0))
     if any(t[0] == 'f' for t in tokens):
-        n = max(n, *(len(wrap(atoms(tokens, g), g)) for g in (0, 1)))
+        n = max(n, *(len(wrap(atoms(tokens, g), g, x0, u0)) for g in (0, 1)))
     return n
 
 
-def encode_paged(tokens, report=None):
+def encode_paged(tokens, report=None, x0=0, u0=0, row0=0):
     """{p} clears the page and the text after it starts at the top-left again, so
     each piece between page breaks is wrapped on its own."""
     pieces, cur = [], []
@@ -395,11 +478,11 @@ def encode_paged(tokens, report=None):
             cur = []
     if cur or not pieces:
         pieces.append(cur)
-    return b''.join(encode_paragraph(pc, report) for pc in pieces)
+    return b''.join(encode_paragraph(pc, report, *((x0, u0, row0) if k == 0 else (0, 0, 0)))
+                    for k, pc in enumerate(pieces))
 
 
-CHOICE_BREAK = bytes([FILLER, 0x0A])   # tools/vwf.py choice_brk: new line + 2 spaces
-CHOICE_INDENT = 30                     # two full-width spaces (13 px glyph + 2 spacing)
+CHOICE_BREAK = bytes([FILLER, 0x0A])   # tools/vwf.py choice_brk: new line + the INDENT blank
 CHOICE_LINES = 3
 CHOICE_RESERVE = 4                     # lines kept free for choices after a row ending in \n
 
@@ -412,7 +495,7 @@ def encode_choice(markup, report=None):
         raise ValueError('control code in a choice: %r' % markup)
     w = widths()
     first = WIN_W - sum(w[c] for c in b'1. ')
-    rest = WIN_W - CHOICE_INDENT
+    rest = WIN_W - w[INDENT]              # wrapped lines start under the text after "2. "
     lines, cur = [], ''
     for word in markup.split(' '):
         cand = (cur + ' ' + word) if cur else word

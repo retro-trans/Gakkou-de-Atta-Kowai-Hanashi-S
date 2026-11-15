@@ -245,6 +245,57 @@ end and repeated memory card saves. Not covered: the end movies (BADEND.STR etc.
 seventh story. Real hardware: ordinary main RAM inside the 2 MB, no boundary concern.
 Use it from 0x801CB000 with room left below 0x801F7FF0.
 
+## Rows that share a page (tools/build.py text_runs, tools/textenc.py encode_row)
+
+A text row (op 0x4A) usually ends with `{p}`, so the next one starts on a clean page. 555
+rows do not: 530 end with a paragraph break and 25 stop in the middle of a line, and the
+script then runs straight into the next text row with only picture / sound ops between
+(`KEEP_TEXT`: 0x0B 0x20-0x22 0x24-0x27 0x4E 0x53 0x59-0x5B 0x5E). The Japanese text simply
+goes on where the pen is. The builder lays such a run out as one page: each row is encoded
+from the pen state the row before left (x in px, units on the line, page line):
+
+- a row after one that stopped mid-line continues that line after a space, or starts with
+  `{g}` (new line if the line is not empty) when its first word does not fit;
+- page breaks count the lines already on the page; if the next row's first paragraph does
+  not fit, the previous row's last CR LF becomes `{p}` (same key press, then a clean page).
+
+A jump, a jump target, a choice or any other op between two rows ends the run (the next
+row is laid out for a clean page, as before). Rows in a run are not shared in the pool.
+
+## Choices (0x80014B0C, list 0x8015B5E0)
+
+Op 0x04 (string, jump target, flag id) adds a 20-byte record to the list at 0x8015B5E0
+(count at gp+0x444): +0 string, +4 target, +8 flag id, +0x10 lines, +0x11 first line. The
+text routine copies "N. " (5-byte table 0x80049D7C) and the string's units into the page
+buffer 0x80061858 (count gp+0x2C8), ends it with FF04 x4 + FF03. Op 0x06 (0x8001D1C8)
+takes the selected record, sets the script flag 0x800940B0[flag id] and jumps.
+
+English changes: a 7F 0A unit in the string is the only line break (`choice_brk`,
+0x80014C14); the break writes FF03 and the INDENT blank (code 0x12, as wide as "2. " in
+the dialogue font), so a wrapped line starts under the text of the line above.
+
+### "Already chosen" marks (tools/vwf2x.py seen_*, 2x text only)
+
+- Every choice string of a rebuilt script is preceded by `E7 5E` + u16 number
+  (build.py `seen_numbers`: all 2,794 choices in scene / original string offset order, so
+  the numbers do not change with the translation). An untagged string (original script)
+  is left alone.
+- `seen_bits` (508 bytes, one bit per number) is in the 2x block in free RAM, zero at boot.
+- 0x8001D208 `seen_mark`: the confirmed choice's bit is set.
+- 0x80014B74 `seen_show` / 0x80014CFC `seen_end`: a choice whose bit is set gets the unit
+  13 7F (DIM_ON) in front of "N. " and every choice ends with 14 7F (DIM_OFF). Both are
+  zero-width codes; `text2x_rec` switches the letter primitive between 0x2F808080 (raw
+  texture) and 0x2E585858 (texture x 69 % grey). Window clear resets it.
+- Save file: the game reads and writes the whole 8,192-byte file (one block) from a
+  buffer on the stack. Layout: 0x000 header + icons (template 0x8004B8AC), 0x200 and
+  0x1000 two copies of four 0x380-byte notes (offset table 0x8004B86C), **0x1E00-0x1FFF
+  unused (zero)**. The marks go there: "SEN1" + the 508 bytes. `seen_store` copies them
+  into the buffer in front of both write calls (0x80025CCC create, 0x80025DC4 update);
+  `seen_load` (0x80025ED0, after a successful read) ORs the file's marks into `seen_bits`,
+  so marks made before the card was read are kept. The marks belong to the card, not to
+  one of the four notes. Real hardware: the same file, size and write calls; only bytes
+  the game never reads change.
+
 ## Not yet handled
 
 - Graphics: see work/ui/gfx_survey.md (logo, credits, story props open).

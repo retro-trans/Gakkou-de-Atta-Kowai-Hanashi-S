@@ -62,8 +62,19 @@ sequencer). Nothing else to subtitle; the ending staff credits are text (see bel
 | what | files | note |
 |---|---|---|
 | title logo 学校であった怖い話 | TITLE.BS/BG, 47A44.BG, TITLE.STR (logo animation) | kept as the brand; an English logo would also mean re-making the 68-frame animation |
-| ending staff credits (vertical Japanese) | MOVIES/BADEND.STR, MOVIES/GOODEND.STR | names would need verified romanisations |
 | developer placeholders | 35D01.MV ("dummy movie"), 11A65, 25A41, 25A50, 63A16 (欠番) | probably never shown |
 
 No Japanese in: KAO faces, the other TIMs (START "PUSH START BUTTON", ICON, DIGITS, COIN,
 MINIFAC2), DEMO.STR, SEXMOVIE.STR, the scene MV clips other than 35D01 and 47D01.
+
+## Ending staff credits (done in 0.8.2)
+
+MOVIES/GOODEND.STR and MOVIES/BADEND.STR show the same nine cards of vertical brush
+lettering on black, cross-faded with scenery shots (tools/gfx.py `credits`, `CREDITS`):
+English cards, role in grey over the names, given name first, at the brightness of the
+Japanese card in each frame. Frames that are only the card are re-encoded whole;
+cross-fade frames keep the scenery and only the macroblocks under the lettering change.
+No romanised staff list could be checked (MobyGames lists 31 people but its page is
+behind a bot check), so the names use the usual readings of the kanji. Sure: Takeo
+Iijima. Uncertain readings: Nobuko Oike, Kazuyoshi Takimoto, Takashi Horiguchi, Dai
+Kobayakawa, Kuniaki Sueyoshi, Katsuji Koshigaya, Hiromichi Saito, Shoki Sato.
