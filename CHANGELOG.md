@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.8.3 - 2026-11-15 (hang fix build, not a release)
+## 0.8.3 - 2026-11-15 (public release; includes 0.8.2)
 
 Image SHA-1: ef60a3f6694cb1538bea3fbcbd8e10edba992013. v0.8.2 is kept as an xdelta3 patch
 (verified); the oldest patch (v0.8.0-dev) was removed to stay at 10.

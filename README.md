@@ -14,32 +14,34 @@ playtesting — please join the Discord:
 
 ## Play it
 
-The latest release is **[v0.8.1](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.8.1)**,
+The latest release is **[v0.8.3](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.8.3)**,
 for the Japanese release (**SLPS-00404**). It translates all six storytellers'
 stories and the seventh story, the menus, the memory card screens, name entry, the
-opening movie (subtitled) and the in-game pictures with text. v0.8.1 fixes the
-storyteller select (only three tellers could be picked at the start) and the sixth
-story's line on the save screen.
+opening movie (subtitled), the in-game pictures with text and the ending staff
+credits. v0.8.3 fixes the hang on the Kokkuri-san board scenes and text that ran off
+the screen, and marks the choices you have already made in grey. Earlier releases
+hang in Kazama's Kokkuri-san scenes: please upgrade.
 
 ### Apply
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools), or apply the
 `.xdelta` with DeltaPatcher or xdelta3. You need your own Japanese disc image as a
-single-track BIN/CUE (Redump "Gakkou de Atta Kowai Hanashi S (Japan)"), or the
-English v0.8.0 image patched from it for an upgrade.
+single-track BIN/CUE (Redump "Gakkou de Atta Kowai Hanashi S (Japan)"), or a
+published English v0.8.1 or v0.8.0 image for an upgrade.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, SLPS-00404, `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.1.xdelta` |
-| English v0.8.0 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.8.1.xdelta` |
+| Japanese release, SLPS-00404, `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.3.xdelta` |
+| English v0.8.1 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.8.3.xdelta` |
+| English v0.8.0 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.8.3.xdelta` |
 
-Both patches produce the same image. Check the source hashes in `README-v0.8.1.txt`
+All three patches produce the same image. Check the source hashes in `README-v0.8.3.txt`
 if your patcher reports a mismatch; keep checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Gakkou de Atta Kowai Hanashi S (Japan).bin" Gakkou-Kowai-Hanashi-S-English-v0.8.1.xdelta "Gakkou de Atta Kowai Hanashi S (English v0.8.1).bin"
+xdelta3 -d -s "Gakkou de Atta Kowai Hanashi S (Japan).bin" Gakkou-Kowai-Hanashi-S-English-v0.8.3.xdelta "Gakkou de Atta Kowai Hanashi S (English v0.8.3).bin"
 ```
 
 Then copy the original `.cue`, rename it to match, and change the `FILE` line to the
@@ -60,7 +62,7 @@ python tools/extract_text.py            # scene rows -> work/source, work/transl
 #   ... edit the "en" fields in work/translation/en/scenes/SCExx.en.json ...
 python tools/fix_terms.py               # names and fixed terms, run after every edit
 python tools/proofcheck.py              # mechanical report: markup, spacing, punctuation
-python tools/build.py 0.8.2 --report    # -> work/output/... (English v0.8.2).bin/.cue
+python tools/build.py 0.8.4 --report    # -> work/output/... (English v0.8.4).bin/.cue
 ```
 
 `build.py` keeps every script's bytecode byte for byte, rewrites only the string pool
@@ -141,6 +143,7 @@ edited - see the release notes for what that means in practice.
 The translation is in progress. `CHANGELOG.md` is the honest record, including
 the builds that shipped broken and why.
 
-Not translated yet: the title logo and the ending staff credits. A few pictures
+Not translated yet: the title logo. The ending staff names are romanised from the
+kanji and some readings are unconfirmed. A few pictures
 stay Japanese on purpose (illegible boards, small print, a page whose point is
 that the letters cannot be read); `work/ui/gfx_survey.md` lists them with reasons.
