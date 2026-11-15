@@ -22,6 +22,9 @@ GRP = os.path.join(ROOT, 'work', 'source', 'grp')
 
 # op: (length, [(u32 operand offset, kind)]); kind 's' = string pool offset,
 # 'c' = bytecode offset (jump target), '?' = u32 of unknown meaning (left untouched).
+# Op 0x31 (between 0x30 coin on / 0x32 coin off, the Kokkuri-san boards): its operand is a
+# pool string, the board cells the coin visits (e.g. full-width Y + the gate). It was '?'
+# until 0.8.3, so rebuilt scripts kept the old offset and the game hung on those scenes.
 S, C, U = 's', 'c', '?'
 OPS = {
     0x00: (1, []), 0x01: (5, [(1, C)]), 0x03: (6, [(2, C)]), 0x04: (10, [(1, S), (5, C)]),
@@ -35,7 +38,7 @@ OPS = {
     0x1e: (1, []), 0x1f: (5, [(1, U)]),
     0x20: (5, [(1, S)]), 0x21: (1, []), 0x22: (1, []), 0x23: (5, [(1, S)]),
     0x24: (5, [(1, S)]), 0x25: (5, [(1, S)]), 0x26: (1, []), 0x27: (1, []),
-    0x30: (2, []), 0x31: (5, [(1, U)]), 0x32: (1, []), 0x33: (5, [(1, U)]), 0x34: (1, []),
+    0x30: (2, []), 0x31: (5, [(1, S)]), 0x32: (1, []), 0x33: (5, [(1, U)]), 0x34: (1, []),
     0x35: (1, []),
     0x40: (1, []), 0x41: (1, []), 0x42: (5, [(1, S)]), 0x43: (1, []), 0x48: (1, []),
     0x4a: (5, [(1, S)]), 0x4b: (10, [(1, U)]), 0x4c: (2, []), 0x4d: (2, []), 0x4e: (3, []),

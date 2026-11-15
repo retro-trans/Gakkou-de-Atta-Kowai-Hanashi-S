@@ -1,5 +1,20 @@
 # Changelog
 
+## Next build (0.8.3; in the tools, not built yet)
+
+Fixed
+- The game hung on the Kokkuri-san board scenes (reported on the board picture; scenes
+  17, 20 and 26, 173 places). Script op 0x31 moves the coin; its operand is an offset into
+  the script's string pool (the board cells to visit, e.g. full-width Y + the gate). The
+  op table had it as "unknown", so rebuilt scripts kept the old offset, which now points
+  at unrelated bytes, and the coin routine never finished. Every build since 0.1.0 was
+  affected, v0.8.0 and v0.8.1 included. tools/sdata.py now treats the operand as a pool
+  string: it is copied unchanged and repointed. No other "unknown" operand points into
+  the pool (0x1F and 0x33 hold bytecode offsets, which never move).
+  Checked offline: in all 71 rebuilt scripts every one of the 173 coin strings and every
+  other untranslated string is byte for byte the original; `sdata.py check` is clean.
+  Not built, not seen in the emulator yet.
+
 ## 0.8.2 - 2026-11-15 (fix + feature build, not a release)
 
 Image SHA-1: d2d27797c65e0b45ba493a51d4abe1c3e5e19303. v0.8.1 (public release) is kept as an xdelta3 patch (verified); the
