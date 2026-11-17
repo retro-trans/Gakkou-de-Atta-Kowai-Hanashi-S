@@ -10,7 +10,7 @@ in English yet, and no human has proofread the script against the Japanese yet. 
 you want to help with this project or the next one — bug reports, proofreading or
 playtesting — please join the Discord:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 ## Play it
 
