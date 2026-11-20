@@ -1285,6 +1285,14 @@ HOOKS_2X = {
     0x80025ED0: 'jal seen_load',
     0x80025CCC: 'jal seen_store',
     0x80025DC4: 'jal seen_store',
+    # Ending completion and the fifth title-menu item (native menu/input).
+    0x8001CC88: 'jal end_row',
+    0x8001CF74: 'j end_finish\nnop',
+    0x8001C490: 'j end_reset\nnop',
+    0x80026E60: 'ori v0, zero, 5',
+    0x80026E98: 'j end_title_item\nnop',
+    0x8002841C: 'jal end_menu',
+    0x80026C38: 'j end_message\nnop',
 }
 # choice number prefixes "１・" (5-byte entries at 0x80049D7C) -> "1. " as pair units
 DATA = {0x80049D7C + 5 * i: bytes([0x31 + i, 0x2E, 0x20, FILLER, 0]) for i in range(9)}
@@ -1362,7 +1370,9 @@ def build_payload():
         raise SystemExit('payload too big: %d > %d' % (len(code), PAYLOAD_MAX))
     syms = dict(syms)
     for k in ('text2x_strips', 'clear2x', 'text2x_rec', 'font2_w', 'seen_show', 'seen_end',
-              'seen_mark', 'seen_load', 'seen_store', 'seen_bits'):
+              'seen_mark', 'seen_load', 'seen_store', 'seen_bits',
+              'end_row', 'end_finish', 'end_reset', 'end_title_item', 'end_menu',
+              'end_message', 'end_bits', 'end_pending', 'end_page', 'end_page_build'):
         if k in hsyms:
             syms[k] = hsyms[k]
     return code, syms, widths

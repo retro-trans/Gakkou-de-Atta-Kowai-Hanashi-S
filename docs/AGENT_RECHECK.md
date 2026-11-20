@@ -27,7 +27,9 @@ For every row, compare `en` with `jp`:
   wording where it does not hurt). If both are wrong, fix it to the source.
 - Rows with `flag: ACC` and every `todo` item: settle them against the source (edit or
   keep) and say which in notes.
-- Do not restyle a row that is accurate. Do not touch dot runs, ☆★, codes or fixed terms.
+- Do not restyle a row that is accurate. Do not touch dot runs, codes or fixed terms.
+  Original-font codes decoded as ☆ / ★ actually display !! / !? (current source
+  markup: ‼ / ⁉). Preserve the corrected punctuation, not literal stars.
 
 ## Output
 `work/translation/en/review/recheck/R###.out.json`, only rows you changed:

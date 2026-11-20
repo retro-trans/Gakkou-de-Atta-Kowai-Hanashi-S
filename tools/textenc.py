@@ -517,9 +517,16 @@ def encode_choice(markup, report=None):
 
 # ---- Japanese source -> markup (for the extracted rows) --------------------------
 
+# FONT.DAT repurposes CP932's star slots: 81 99 draws !! and 81 9A draws !?.
+# Distinct source punctuation keeps the inverse lossless: ordinary doubled
+# full-width marks have different original bytes.
+SOURCE_PUNCT = str.maketrans({'\u2606': '\u203c', '\u2605': '\u2049'})
+SOURCE_PUNCT_INVERSE = str.maketrans({'\u203c': '\u2606', '\u2049': '\u2605'})
+
+
 def jp_to_markup(b):
     """Shift-JIS script string -> markup (Japanese text kept)."""
-    s = b.decode('cp932')
+    s = b.decode('cp932').translate(SOURCE_PUNCT)
     out = []
     i = 0
     while i < len(s):
@@ -558,4 +565,4 @@ def markup_to_jp(m):
             out.append('￥ｆ%s￥%s￥' % (t[1], t[2]))
         else:
             out.append(t[1])
-    return ''.join(out).encode('cp932')
+    return ''.join(out).translate(SOURCE_PUNCT_INVERSE).encode('cp932')

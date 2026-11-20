@@ -29,7 +29,10 @@ do not rewrite lines that are accurate just because you would phrase them differ
   characters) is "..." everywhere; a longer run (4+ … characters, e.g. a silence) gets 3
   dots per 2 characters, so restore any that were shortened (they wrap by themselves now).
   Don't shorten a run that is already longer.
-- ☆ and ★ are kept where the source has them (the font has both).
+- The original FONT.DAT repurposes the CP932 star codes: ☆ displays !! and ★
+  displays !?. Current source exports use ‼ and ⁉; older review inputs may still
+  show stars. English must use !! and !?, not literal stars. This is a font
+  mapping issue, not a character-voice quirk; tools/fix_terms.py enforces it.
 - Choices: the full meaning of the source choice, up to 3 lines (~30 characters each): restore
   any choice that was trimmed. The rows that follow a choice must fit what the player chose.
 - Nothing needs shortening to fit a page: long paragraphs break into pages by themselves.
@@ -62,7 +65,7 @@ evidence as UNSURE when you rely on it. First-pass findings for later scenes: ma
 `\n` paragraph end (same count and same ending as the source), `{p}` page end, `{k}` wait,
 `{w}` pause, `{g}` line break, `{a}` `{b}` `{c}` names, `{f:A|B}` male|female (same count, no
 `\n` or codes inside). Choices are plain text. Characters: printable ASCII except `{` `}`,
-plus … — – ‘ ’ “ ” é è ï ü · ♪ ☆ ★.
+plus … — – ‘ ’ “ ” é è ï ü · ♪.
 
 ## Output
 Write `work/translation/en/review/acc/S###.out.json` (UTF-8), **only the rows you changed**:

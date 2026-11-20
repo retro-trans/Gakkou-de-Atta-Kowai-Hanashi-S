@@ -14,34 +14,41 @@ playtesting — please join the Discord:
 
 ## Play it
 
-The latest release is **[v0.8.3](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.8.3)**,
+The latest release is **[v0.9.0](https://github.com/retro-trans/Gakkou-de-Atta-Kowai-Hanashi-S/releases/tag/v0.9.0)**,
 for the Japanese release (**SLPS-00404**). It translates all six storytellers'
 stories and the seventh story, the menus, the memory card screens, name entry, the
 opening movie (subtitled), the in-game pictures with text and the ending staff
-credits. v0.8.3 fixes the hang on the Kokkuri-san board scenes and text that ran off
-the screen, and marks the choices you have already made in grey. Earlier releases
-hang in Kazama's Kokkuri-san scenes: please upgrade.
+credits. v0.9.0 corrects mistranslated punctuation and adds an **Endings** checklist
+to the title menu. It also includes v0.8.3's Kokkuri-san hang fix, text layout fixes,
+and grey marks for choices you have already made. Players on v0.8.0 or v0.8.1
+should upgrade because those versions hang in the Kokkuri-san scenes.
+
+Open **Endings**, choose a storyteller and story, and browse Done/Unseen entries.
+Finish an ending's last page, then **Save Notes** to keep its mark. Records are
+shared by all four Notes on a card. Endings played before v0.8.4 cannot be
+recovered from older saves and begin as Unseen. There is no new autosave.
 
 ### Apply
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools), or apply the
 `.xdelta` with DeltaPatcher or xdelta3. You need your own Japanese disc image as a
 single-track BIN/CUE (Redump "Gakkou de Atta Kowai Hanashi S (Japan)"), or a
-published English v0.8.1 or v0.8.0 image for an upgrade.
+published English v0.8.3, v0.8.1 or v0.8.0 image for an upgrade.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, SLPS-00404, `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.3.xdelta` |
-| English v0.8.1 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.8.3.xdelta` |
-| English v0.8.0 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.8.3.xdelta` |
+| Japanese release, SLPS-00404, `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.9.0.xdelta` |
+| English v0.8.3 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0.xdelta` |
+| English v0.8.1 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0.xdelta` |
+| English v0.8.0 `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0.xdelta` |
 
-All three patches produce the same image. Check the source hashes in `README-v0.8.3.txt`
+All four patches produce the same image. Check the source hashes in `README-v0.9.0.txt`
 if your patcher reports a mismatch; keep checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Gakkou de Atta Kowai Hanashi S (Japan).bin" Gakkou-Kowai-Hanashi-S-English-v0.8.3.xdelta "Gakkou de Atta Kowai Hanashi S (English v0.8.3).bin"
+xdelta3 -d -s "Gakkou de Atta Kowai Hanashi S (Japan).bin" Gakkou-Kowai-Hanashi-S-English-v0.9.0.xdelta "Gakkou de Atta Kowai Hanashi S (English v0.9.0).bin"
 ```
 
 Then copy the original `.cue`, rename it to match, and change the `FILE` line to the
@@ -62,7 +69,7 @@ python tools/extract_text.py            # scene rows -> work/source, work/transl
 #   ... edit the "en" fields in work/translation/en/scenes/SCExx.en.json ...
 python tools/fix_terms.py               # names and fixed terms, run after every edit
 python tools/proofcheck.py              # mechanical report: markup, spacing, punctuation
-python tools/build.py 0.8.4 --report    # -> work/output/... (English v0.8.4).bin/.cue
+python tools/build.py 0.9.0 --report    # -> work/output/... (English v0.9.0).bin/.cue
 ```
 
 `build.py` keeps every script's bytecode byte for byte, rewrites only the string pool

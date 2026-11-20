@@ -30,6 +30,7 @@ from PIL import Image
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from masm import assemble  # noqa: E402
+import endings  # noqa: E402
 
 HI = 0x801CB000
 HI_END = 0x801F7000           # stay clear of the stack reserve (0x801F7FF0)
@@ -38,7 +39,7 @@ SHEET_MAX_H = 224 - SHEET_Y   # rows 32..223 are free in every screen checked
 CLUT_X, CLUT_Y = 960, 224
 MAXG = 900                    # sprites per page (two prims each)
 SEEN_BYTES = 508              # "already chosen" bits kept in the save file (after "SEN1")
-SEEN_MAX = SEEN_BYTES * 8     # choice numbers below this have a bit
+SEEN_MAX = endings.CHOICE_BYTES * 8  # remainder holds the ending checklist
 DIM_PRIM = 0x2E585858         # letters of a chosen choice: texture x 69 % grey
 SCREEN_DX, SCREEN_DY = 50, 15  # canvas -> screen (strip k: canvas u 55 + 20k at x 105 + 20k; v 0 at y 15)
 OT = 0x800637E0
@@ -429,7 +430,7 @@ seen_load:
     addiu t4, t4, -1
     bnez  t4, @tag
     addiu t3, t3, 1
-    ori   t4, zero, SEEN_BYTES
+    ori   t4, zero, CHOICE_BYTES
 @lp:
     lbu   t1, 0(t0)
     lbu   t2, 0(t3)
@@ -438,6 +439,28 @@ seen_load:
     sb    t1, 0(t3)
     addiu t4, t4, -1
     bnez  t4, @lp
+    addiu t3, t3, 1
+    # Only load ending bits from an extension which explicitly has END1.
+    la    t5, end_tag
+    ori   t4, zero, 4
+@endtag:
+    lbu   t1, 0(t0)
+    lbu   t2, 0(t5)
+    addiu t0, t0, 1
+    bne   t1, t2, @x
+    addiu t4, t4, -1
+    bnez  t4, @endtag
+    addiu t5, t5, 1
+    la    t3, end_bits
+    ori   t4, zero, END_BYTES
+@endlp:
+    lbu   t1, 0(t0)
+    lbu   t2, 0(t3)
+    addiu t0, t0, 1
+    or    t1, t1, t2
+    sb    t1, 0(t3)
+    addiu t4, t4, -1
+    bnez  t4, @endlp
     addiu t3, t3, 1
 @x:
     j     0x800317E8              ; close(a0), the replaced call
@@ -463,7 +486,11 @@ seen_store:
 seen_tag:
     .ascii "SEN1"
 seen_bits:
-    .space SEEN_BYTES
+    .space CHOICE_BYTES
+end_tag:
+    .ascii "END1"
+end_bits:
+    .space END_BYTES
     .align 4
 g2_state:
     .word 0
@@ -497,16 +524,20 @@ hi_end:
 def build(glyph_chars):
     """-> (blob to copy to HI, symbols, report)"""
     table, adv, sheet, height, rep = build_glyphs(glyph_chars)
+    rows = endings.catalog()
+    asm = ASM + endings.ASM + endings.data_asm(rows)
     syms = {'MAXG': MAXG, 'SCREEN_DX': SCREEN_DX, 'SCREEN_DY': SCREEN_DY, 'TPAGE': TPAGE,
             'CLUT_O': CLUT_O, 'CLUT_I': CLUT_I, 'OT': OT, 'STRIPS': STRIPS, 'WIN': WIN,
             'ADDPRIM': ADDPRIM, 'LOADIMAGE': LOADIMAGE, 'SHEET_X': SHEET_X, 'SHEET_Y': SHEET_Y,
             'SHEET_H': height, 'CLUT_X': CLUT_X, 'CLUT_Y': CLUT_Y, 'PRIMS': 0,
-            'SEEN_BYTES': SEEN_BYTES, 'SEEN_MAX': SEEN_MAX, 'DIM_PRIM': DIM_PRIM}
+            'SEEN_BYTES': SEEN_BYTES, 'SEEN_MAX': SEEN_MAX, 'DIM_PRIM': DIM_PRIM,
+            'CHOICE_BYTES': endings.CHOICE_BYTES, 'END_BYTES': endings.END_BYTES,
+            'END_COUNT': len(rows)}
     blobs = {'clut': clut_bytes(), 'adv': adv, 'table': table, 'sheet': sheet}
-    code, s = assemble(ASM, HI, symbols=syms, blobs=blobs)
+    code, s = assemble(asm, HI, symbols=syms, blobs=blobs)
     prims = (HI + len(code) + 15) & ~15
     syms['PRIMS'] = prims
-    code, s = assemble(ASM, HI, symbols=syms, blobs=blobs)
+    code, s = assemble(asm, HI, symbols=syms, blobs=blobs)
     end = prims + MAXG * 80
     assert end <= HI_END, 'HI area overflow: %08X' % end
     code += bytes(-len(code) % 4)

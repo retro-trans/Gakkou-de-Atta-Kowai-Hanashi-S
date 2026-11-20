@@ -25,9 +25,11 @@ routes (anyone, read the context; Taguchi appears in 47).
 - ひひひ / いひひ / ひっひっひ (cackle, anyone but Iwashita): "Hee hee hee"; the old woman in
   scene 02 keeps "Ee-hee-hee".
 - はは / ははは / あはは: "Ha ha" / "Ha ha ha" / "Ah ha ha" (no change needed if already so).
-- Keep the number of syllables the Japanese has (ふふふ = three), the punctuation, dots, ☆★
+- Keep the number of syllables the Japanese has (ふふふ = three), the punctuation, dots,
   and codes around it. Keep a laugh the English describes in words ("she giggled") as words,
   but "giggle" is not for Iwashita (use "laughed softly").
+- Old source exports decode custom-font !! / !? as ☆ / ★; current exports use
+  ‼ / ⁉. Keep English !! / !? rather than restoring the mistranslated stars.
 - If the speaker cannot be settled from the scene, change nothing and note UNSURE.
 
 ## Output

@@ -23,6 +23,7 @@ OUT = os.path.join(ROOT, 'work', 'translation', 'en', 'proofcheck.md')
 CODE = re.compile(r'\{[^}]*\}')
 
 CHECKS = [
+    ('misdecoded punctuation star', re.compile('[\u2606\u2605]')),
     ('doubled word', re.compile(r"\b([A-Za-z']+)\s+\1\b", re.I)),
     ('double space', re.compile(r'(?<=\S)  +(?=\S)')),
     ('space before punctuation', re.compile(r'\s+[,;:!?](?!\?)')),
@@ -114,7 +115,8 @@ def main():
             lines.append('')
             lines.append('## unknown capitalized words not in glossary (%d)' % len(caps))
             lines += ['- %s (%d) e.g. %s' % (w, words[w], where[w]) for w in caps[:400]]
-    open(OUT, 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+    report = '\n'.join(line.rstrip() for line in lines).rstrip() + '\n'
+    open(OUT, 'w', encoding='utf-8').write(report)
     print('\n'.join('%s: %d' % (k, len(v)) for k, v in sorted(hits.items())))
     print('report:', os.path.relpath(OUT, ROOT))
 

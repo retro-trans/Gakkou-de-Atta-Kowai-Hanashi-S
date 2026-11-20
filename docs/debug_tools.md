@@ -9,6 +9,8 @@ General method: `debug_tools_guide.md`. This file lists this game's tools and ad
 | `tools/gdbdbg.py run "mash circle 80029164 8"` | press a button every N frames until the CPU reaches an address (halts there). **Only after the save prompts are passed** (check with a shot): mashing through name entry fills the name, finishes, picks Notes 1 and confirms the overwrite (happened once on 2026-11-11; the card was restored from the copy inside the Nov 10 savestates, the overwritten card is memcards/overwritten_2026-11-11.mcd.bak) |
 | `tools/pagetext.py` | print the dialogue page on screen as text (read from the 2x letter sprites: texture position = glyph, `[dim]` = drawn dimmed). `until "<text>" [n]` presses Circle until the page contains the text; `auto "<text>" "<a>\|<b>" [n]` also picks the choice that contains `<a>` or `<b>`. Both stop when no dialogue page is on screen twice in a row (menu / save screen), so they cannot confirm a save prompt |
 | `tools/layoutcheck.py [--old]` | offline: replays every text row as the game draws it (per gender; rows the script runs straight into share a page) and reports letters past the right edge or lines below the page. No emulator |
+| `tools/endings.py [--catalog path]` | read-only ending catalog summary, or export English/metadata-only IDs and positions |
+| `tools/check_endings.py [--runtime]` | verify all script ending tags and native menu layouts; runtime mode executes the hooks and intercepts BIOS I/O before any card write |
 | `tools/moviegrab.py <prefix> 700,900` | VRAM grabs during movies (no pad reads there): counts LoadImage calls |
 | `tools/gdbmem.py read/dumpram/regs` | memory access (`GK_GDB_PORT`, default 2351) |
 | `tools/gdbreset.py [--pc]` | clear known breakpoints, resume |
@@ -21,6 +23,13 @@ General method: `debug_tools_guide.md`. This file lists this game's tools and ad
 Always test on `work/emulator/test/kowai_test.cue` (the build copies every image there):
 DuckStation reopens the disc a savestate names, so a state made on another image reads the
 wrong disc (this caused a crash: the script was loaded from the Japanese DUMMY.BIN).
+
+If another emulator has that image open, use `build.py --test-image
+work/emulator/test/endings_test.bin` and boot its matching CUE fresh. Do not stop
+the user's other emulator or overwrite an image it is using. Old savestates still
+refer to their old disc paths. v0.8.4 changes the high payload/sprite addresses;
+use a fresh boot and memory-card save for normal testing. GDB UI function previews
+are not evidence of a complete story playthrough.
 
 ## Addresses
 

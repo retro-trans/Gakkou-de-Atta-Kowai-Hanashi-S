@@ -9,6 +9,7 @@ Markup is described in tools/textenc.py. Existing "en" values are kept (the file
 merged, never overwritten). The working files hold Japanese and are git-ignored;
 tools/strip_jp.py writes the .en.json copies that may be committed.
 """
+import argparse
 import json
 import os
 import sys
@@ -36,25 +37,37 @@ def scene_rows(s):
 
 
 def main():
-    os.makedirs(OUT, exist_ok=True)
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--dry-run', action='store_true', help='preview source refresh without writing files')
+    args = ap.parse_args()
+    if not args.dry_run:
+        os.makedirs(OUT, exist_ok=True)
     total = 0
+    changed = []
     for p, s in all_scripts():
         name = 'SCE%s.json' % s.name[5:7]
         path = os.path.join(OUT, name)
         rows = scene_rows(s)
         old = {}
+        old_source = {}
         for src in (path, path[:-5] + '.en.json'):
             if os.path.exists(src):
                 for r in json.load(open(src, encoding='utf-8')):
+                    if 'jp' in r:
+                        old_source[r['id']] = r['jp']
                     if r.get('en'):
                         old.setdefault(r['id'], r['en'])
         for r in rows:
             r['en'] = old.get(r['id'], '')
-        with open(path, 'w', encoding='utf-8') as f:
-            json.dump(rows, f, ensure_ascii=False, indent=1)
-            f.write('\n')
+            if old_source.get(r['id']) != r['jp']:
+                changed.append(r['id'])
+        if not args.dry_run:
+            with open(path, 'w', encoding='utf-8') as f:
+                json.dump(rows, f, ensure_ascii=False, indent=1)
+                f.write('\n')
         total += len(rows)
-    print('%d rows written to %s' % (total, OUT))
+    print('%d rows %s %s' % (total, 'would be written to' if args.dry_run else 'written to', OUT))
+    print('%d source fields changed; first IDs: %s' % (len(changed), ', '.join(changed[:8])))
 
 
 if __name__ == '__main__':

@@ -1,5 +1,109 @@
 # Changelog
 
+## 0.9.0 - 2026-11-20 (public release; includes local 0.8.4 and 0.8.5)
+
+Image SHA-1: e0e3037a00fbe8e1ac46b8de34cab89451aafdde. Only one raw sector
+differs from local v0.8.5: the title background's version credit. The executable,
+all rebuilt scripts and their directory index remain byte-identical.
+
+- First public release of the Endings checklist and custom-font punctuation fix
+  detailed below. Published as v0.9.0 at the user's request; local v0.8.5 was not
+  published. The in-game version credit shows v0.9.0.
+- Ending records made before v0.8.4 cannot be recovered from older saves.
+  Finish the final page, then Save Notes to keep new marks; there is no autosave.
+- Full patch plus direct upgrades from published v0.8.3, v0.8.1 and v0.8.0;
+  each is decoded and checked against the complete v0.9.0 size and SHA-256.
+  Installation notes, checksums and validation records accompany the patches.
+  Release notes: docs/releases/v0.9.0.md.
+
+## 0.8.5 - 2026-11-20 (local punctuation fix, not a release)
+
+Image SHA-1: 8834ab956d1c34e5b1ece6b053d659f9a9c17c41. v0.8.4 is archived
+as a verified xdelta against the Japanese original. The oldest archive,
+v0.8.1-dev, was removed to keep 10 patches. At the user's request, the v0.8.4
+BIN/CUE remain alongside v0.8.5 while the old image is open in their emulator.
+
+Fixed
+- Replaced 1,327 mistranslated stars in 968 English rows across 64 scene files:
+  832 white stars become **!!**, and 495 black stars become **!?**. The original
+  FONT.DAT repurposes CP932 codes 81 99 / 81 9A for those punctuation glyphs;
+  decoding their bytes as ordinary CP932 had incorrectly produced stars.
+  Reported line 11:ee90 now reads: "Get out of here already!!"
+- Corrected source extraction to use the actual punctuation (957 source fields),
+  with a lossless reverse mapping. Updated translation/review guidance, added
+  import correction rules and a proofreading check to prevent recurrence.
+  `extract_text.py --dry-run` previews source refreshes without writing files.
+
+Review and checks
+- Accuracy: inspected the original glyph bitmaps and verified exact byte round
+  trips for all 16,120 text/choice references. Editorial/proofreading: examined
+  all 16,120 merged rows; only the two symbol replacements changed English.
+  Row IDs, opcodes, wording, line breaks, pauses, names and gender controls are
+  unchanged. No stars remain in the canonical English scenes or their exports.
+  Row IDs and review record: work/translation/en/review/punctuation-0.8.5.en.json.
+- No text past a window edge or below the last line; no build layout warnings.
+  All 71 scripts retain their non-string bytecode, 641 ending IDs and 2,794 choice
+  IDs. Kokkuri-san coin strings remain byte-identical. END1 save layout and native
+  game code are unchanged from v0.8.4. No new physical-hardware test was performed.
+- Full mechanical proofreading still reports unrelated pre-existing issues.
+  Four new spacing flags occur in intentionally garbled alien speech in scene 44;
+  its original spacing and symbol sequences are retained, with the same mapping.
+  Japanese-free copies were refreshed using tools/strip_jp.py.
+- The final disc was read back: all 71 scripts match the corrected sources, all
+  16,120 text/choice strings contain no encoded star glyphs, and SLPS_004.04 is
+  byte-identical to v0.8.4. No runtime patch, emulator or card modification was
+  needed for this punctuation-only update.
+
+## 0.8.4 - 2026-11-20 (local feature build, not a release)
+
+Image SHA-1: ac8b12eeceb59540b82debcebe7f235a5607c578. v0.8.3 is retained
+as a verified xdelta against the Japanese original. The oldest local archive,
+v0.9.0, was removed to keep 10 archived builds; v0.8.4 is the only output BIN/CUE.
+
+Added
+- **Endings** in the title menu: storyteller totals, story totals, and paged
+  spoiler-free Done/Unseen lists. Circle opens an item; Cross/Back returns;
+  Previous/Next wrap. Tracks 641 distinct final narration branches in scenes
+  01-70. Earlier paths sharing a final narration count as the same conclusion;
+  the prologue is excluded. This is not an official count of every possible route.
+- A conclusion is recorded when its final page has been acknowledged and the
+  script returns, then retained by the next normal Save Notes operation. Records
+  are shared by all four Notes on the card. Old saves keep choice marks and begin
+  with an empty ending checklist. There is no new autosave: resetting before a
+  normal save loses new records, including game-over endings not saved later.
+- `tools/endings.py`, its metadata-only catalog under `work/ui/`, and
+  `tools/check_endings.py` for reproducible offline and emulator verification.
+- `build.py --test-image <path>` supports testing while another emulator has the
+  usual test image open.
+
+Compatibility and checks
+- Uses 81 ending bytes in the original unused save tail, identified by END1.
+  All 2,794 existing choice IDs remain intact. Save size, block count, both copies
+  of all four Notes and the original card-write calls remain unchanged. New bits
+  are loaded only from a recognized END1 extension.
+- All 71 scripts pass: every ending and choice tag is correct, all non-string
+  bytecode is unchanged, and all Kokkuri-san coin strings remain byte-identical.
+  Layout check: no text outside its window. Largest script: 186,284 / 189,152 bytes.
+- Muted DuckStation: actual R3000 hooks checked for all 157 menu pages/counters,
+  final-page acknowledgement, repeated endings, untagged narration, new/legacy
+  save round trips and unchanged Notes bytes. Write/close calls were intercepted
+  before BIOS I/O; no physical-card write test or complete story playthrough.
+  Visible title item, category/story lists, ending pages, pagination and Back were
+  checked with native menu function previews (`work/emulator/shots/v084/`).
+- The original project card was untouched and emulator settings were restored.
+  The new high payload/sprites fit documented 2 MiB RAM bounds, but physical
+  hardware and all routes' use of the expanded heap range remain untested.
+  Allocation details and save layout: `docs/text_system.md`, Ending checklist.
+  Requires the standard 2x dialogue build; 1x builds have no checklist.
+
+## Unreleased artwork preview - 2026-11-16
+
+- Generated an English version of the original 51A17 letter with thin, irregular
+  handwriting using image generation. Preview and exact prompt are in
+  `work/ui/letter/51A17.en.imagegen-v1.png` and its JSON record. Retained the
+  established wording after accuracy, editorial and proofreading checks.
+  Artwork only; not integrated into a game build or tested on hardware.
+
 ## 0.8.3 - 2026-11-15 (public release; includes 0.8.2)
 
 Image SHA-1: ef60a3f6694cb1538bea3fbcbd8e10edba992013. v0.8.2 is kept as an xdelta3 patch
@@ -358,7 +462,7 @@ Left Japanese on purpose (reasons in the survey): the "unknown letters" page (14
 the driver's licence, the postbox (says POST), illegible note boards, small print.
 Still open: title logo, ending credits.
 
-## 0.9.0 - 2026-11-11 (graphics build, not a release)
+## 0.9.0-dev - 2026-11-11 (historical graphics build before public versioning)
 
 Step 4 of docs/ui_plan.md. Image SHA-1: e5de3ba4d262b0fcca676309f5da1e4d220c88df.
 v0.8.0 is kept as an xdelta3 patch (verified).

@@ -26,6 +26,10 @@ def laugh(m):
 
 
 RULES = [
+    # FONT.DAT uses these codes for punctuation, not decorative stars. Keep this
+    # pass after imports/reviews so stale working copies cannot revive the error.
+    (r'\u2606', '!!', None, None),
+    (r'\u2605', '!?', None, None),
     (r'\bampule(s?)\b', r'ampoule\1', None, None),
     (r'\bsongstress\b', 'diva', ['06'], '歌姫'),
     (r'\bMaster Hino\b', 'Lord Hino', None, '日野様'),

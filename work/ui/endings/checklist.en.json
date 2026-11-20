@@ -1,0 +1,13 @@
+{
+  "version": "0.8.4",
+  "entry": "Title menu > Endings",
+  "screenshots": [
+    {"file": "checklist-v0.8.4.png", "width": 320, "height": 240, "view": "storyteller totals"},
+    {"file": "story-v0.8.4.png", "width": 320, "height": 240, "view": "ending status and pagination"}
+  ],
+  "catalog": "work/ui/ending_catalog.en.json",
+  "recording": "The scene-return instruction records the last completed narration branch.",
+  "persistence": "Normal Save Notes operation; shared by the four notes on a card.",
+  "controls": {"circle": "open or confirm", "cross": "back"},
+  "verification": "Native menu function previews in muted DuckStation; no complete story playthrough or physical hardware test."
+}

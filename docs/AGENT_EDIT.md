@@ -67,7 +67,8 @@ polite speech -> polite English).
 - The player's gender: lines without `{f}` follow the route's gender; never add he/she
   for the player where the line has none.
 - Dot runs and the raw … character: leave them (proofreading normalizes them by script).
-  ☆ and ★ stay where they are.
+  The old source's ☆ / ★ codes display !! / !? in FONT.DAT; current exports use
+  ‼ / ⁉. Keep the corrected English !! / !? and never restore literal stars.
 
 ## Output
 Write `work/translation/en/review/edit/E###.out.json` (UTF-8), **only rows you changed**:

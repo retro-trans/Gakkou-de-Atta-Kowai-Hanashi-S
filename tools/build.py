@@ -15,6 +15,7 @@ Steps
 Output: work/output/Gakkou de Atta Kowai Hanashi S (English v<ver>).bin/.cue
 """
 import argparse
+from collections import Counter
 import glob
 import json
 import os
@@ -27,6 +28,7 @@ from build_disc import Disc  # noqa: E402
 from grp import read_index  # noqa: E402
 from sdata import Script  # noqa: E402
 import gfx  # noqa: E402
+import endings  # noqa: E402
 import textenc  # noqa: E402
 import vwf  # noqa: E402
 
@@ -37,7 +39,7 @@ GRP = os.path.join(ROOT, 'work', 'source', 'grp')
 TR = os.path.join(ROOT, 'work', 'translation', 'en', 'scenes')
 OUT = os.path.join(ROOT, 'work', 'output')
 SCRIPT_MAX = 0x80092000 - 0x80063D20   # script buffer ends 0x80093D20; the tail is debug scratch
-EXE_RESERVE = 200             # sectors reserved for the EXE after the image end
+EXE_RESERVE = 224             # includes the ending checklist's code and menu data
 
 
 def load_rows(num):
@@ -90,19 +92,22 @@ def seen_numbers():
     return out
 
 
-def rebuild_script(data, num, rows, report, seen=None):
+def rebuild_script(data, num, rows, report, seen=None, ends=None):
     s = Script(data)
     assert not s.errors, s.errors
     out = bytearray(data[:s.code_end])
     out += bytes(-len(out) % 4)
     newoff = {}
     shared = {}     # identical strings are stored once (the pool is read-only)
+    refcounts = Counter(v for _, v, _ in s.pool_refs())
     nxt = text_runs(s, num, rows)
     state = {}      # string offset -> pen state left by the row before it (textenc.encode_row)
     for at, v, op in s.pool_refs():
         if v in newoff:
             continue
         raw = data[v:data.index(b'\0', v)]
+        eid = ends.get((num, at - 1)) if ends is not None and op == 0x4a else None
+        tag = endings.TAG + struct.pack('<H', eid) if eid is not None and refcounts[v] == 1 else b''
         rid = '%02d:%04x' % (num, v)
         if op == 0x04:
             # choices are never shared: each carries its own number (tools/vwf2x.py seen_*)
@@ -125,20 +130,36 @@ def rebuild_script(data, num, rows, report, seen=None):
                 if v in nxt and end:
                     state[nxt[v]] = end
                 report.extend('%s: %s' % (rid, w) for w in warn)
+                out += tag
                 newoff[v] = len(out)        # laid out for its place in the run: not shared
                 out += raw + b'\0'
                 out += bytes(-len(out) % 4)
                 continue
             raw = textenc.encode(rows[rid], warn)
             report.extend('%s: %s' % (rid, w) for w in warn)
-        if raw in shared:
-            newoff[v] = shared[raw]
+        key = (tag, raw)
+        if key in shared:
+            newoff[v] = shared[key]
             continue
-        newoff[v] = shared[raw] = len(out)
+        out += tag
+        newoff[v] = shared[key] = len(out)
         out += raw + b'\0'
         out += bytes(-len(out) % 4)
     for at, v, op in s.pool_refs():
         struct.pack_into('<I', out, at, newoff[v])
+    # Conclusion tags sit outside strings and do not change bytecode positions.
+    # A shared source string can be used at several different conclusions: give
+    # each such instruction its own tagged copy rather than merging their IDs.
+    for at, v, op in s.pool_refs():
+        eid = ends.get((num, at - 1)) if ends is not None and op == 0x4a else None
+        if eid is None or refcounts[v] == 1:
+            continue
+        start = newoff[v]
+        raw = bytes(out[start:out.index(0, start)])
+        out += endings.TAG + struct.pack('<H', eid)
+        struct.pack_into('<I', out, at, len(out))
+        out += raw + b'\0'
+        out += bytes(-len(out) % 4)
     if len(out) > SCRIPT_MAX:
         raise SystemExit('SDATA%02d.BIN is %d bytes (max %d)' % (num, len(out), SCRIPT_MAX))
     # sanity: same bytecode, every string reachable
@@ -152,6 +173,7 @@ def main():
     ap.add_argument('version')
     ap.add_argument('--only', help='comma separated scene numbers to rebuild')
     ap.add_argument('--report', action='store_true', help='print layout warnings')
+    ap.add_argument('--test-image', help='alternate test image path when the normal test image is in use')
     a = ap.parse_args()
     out_bin = os.path.join(OUT, 'Gakkou de Atta Kowai Hanashi S (English v%s).bin' % a.version)
     os.makedirs(OUT, exist_ok=True)
@@ -166,6 +188,8 @@ def main():
     scripts = {}
     report = []
     seen = seen_numbers()
+    assert len(seen) <= endings.CHOICE_BYTES * 8, 'choice map overlaps ending records'
+    ends = {(r['scene'], r['pc']): r['id'] for r in endings.catalog()}
     for p in sorted(glob.glob(os.path.join(GRP, 'SCE*', 'SDATA*.BIN'))):
         num = int(os.path.basename(p)[5:7])
         if only is not None and num not in only:
@@ -173,7 +197,7 @@ def main():
         rows = load_rows(num)
         if not rows:
             continue
-        scripts[num] = rebuild_script(open(p, 'rb').read(), num, rows, report, seen)
+        scripts[num] = rebuild_script(open(p, 'rb').read(), num, rows, report, seen, ends)
         print('SDATA%02d: %d rows, %d -> %d bytes' % (num, len(rows), os.path.getsize(p), len(scripts[num])))
     if report:
         print('%d layout warnings' % len(report))
@@ -234,7 +258,8 @@ def main():
     print('wrote', out_bin)
     # fixed path for the test emulator: DuckStation reopens the disc a savestate names,
     # so states made on this image keep working across builds (tools/hotreload.py)
-    test = os.path.join(ROOT, 'work', 'emulator', 'test', 'kowai_test.bin')
+    test = a.test_image or os.path.join(ROOT, 'work', 'emulator', 'test', 'kowai_test.bin')
+    test = os.path.abspath(test)
     os.makedirs(os.path.dirname(test), exist_ok=True)
     shutil.copyfile(out_bin, test)
     write_cue(test)

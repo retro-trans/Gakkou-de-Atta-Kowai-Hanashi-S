@@ -32,10 +32,15 @@ A text row may carry `follows_choice`: the choice id(s) whose selection jumps to
   long choice onto up to 3 lines (about 30 characters each), so never trim content to fit.
 
 ## Characters you may use
-Printable ASCII except `{` `}`, plus … — – ‘ ’ “ ” é è ï ü · ♪ ☆ ★ (keep ☆/★ where the source uses them). Prefer straight quotes:
+Printable ASCII except `{` `}`, plus … — – ‘ ’ “ ” é è ï ü · ♪. Prefer straight quotes:
 「…」 -> "…", 『…』 -> '…' (inside dialogue). Use "..." or … for ……. No Japanese, no
 full-width letters. Don't shorten or reword to fit (long dot runs wrap, text after {p} starts a new page and is wrapped separately): the build wraps lines (≈33 characters per line,
 12 lines per page; a longer paragraph continues on a new page by itself, so never squeeze a long speech).
+
+The original font repurposes the CP932 star codes: ☆ means **!!**, and ★ means
+**!?**, even in older source exports that look like they contain stars. Current
+source extraction uses ‼ and ⁉ to show the actual punctuation. Translate them
+as ASCII !! and !?; do not add literal stars or infer a playful character voice.
 
 ## Style
 Spoken, natural English for dialogue; each storyteller keeps a consistent voice (e.g.

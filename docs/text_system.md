@@ -54,6 +54,31 @@ Rows must keep the source's trailing `\n` / `{p}`: a row followed by a choice en
 
 ## Original rendering
 
+### Custom punctuation (corrected in 0.8.5)
+
+The font does not follow ordinary CP932 for these two codes:
+
+| Raw bytes | Standard CP932 decoding | Actual FONT.DAT glyph | English |
+|---|---|---|---|
+| 81 99 | U+2606 white star | double exclamation | !! |
+| 81 9A | U+2605 black star | exclamation + question | !? |
+
+Confirmed by the original lookup function 0x80013C8C: the 81 table starts at
+FONT.DAT offset 0x140; the two 13x13 glyph records are at 0x403C and 0x4056.
+Their bitmaps contain punctuation, not five-point stars. There are 742 / 452
+occurrences respectively in the original text/choice strings. Previous extraction
+used plain CP932, so English translations and older review snapshots incorrectly
+preserved stars. The 0.8.5 correction replaces 832 / 495 English occurrences across
+968 rows; translation counts differ from the raw source counts.
+
+`textenc.jp_to_markup` now decodes the codes as U+203C / U+2049 (‼ / ⁉), and
+`markup_to_jp` reverses that mapping. These distinct characters preserve original
+bytes, including the distinction from ordinary repeated full-width punctuation.
+All 16,120 text/choice references round-trip exactly. `fix_terms.py` also corrects
+stars imported from stale review output, and `proofcheck.py` flags remaining ones.
+
+### Renderer
+
 - Preprocessor EXE 0x80015294: one paragraph -> 16-bit codes in 0x80061058, column wrap
   after 13 characters (counter gp+0x2C0 in half-units, threshold 0x19), 10 columns per page
   (gp+0x2C4, `sltiu 9` x 9 sites), page buffer 0x80061858.
@@ -296,7 +321,82 @@ the dialogue font), so a wrapped line starts under the text of the line above.
   one of the four notes. Real hardware: the same file, size and write calls; only bytes
   the game never reads change.
 
-## Not yet handled
+## Ending checklist (0.8.4, 2x text builds)
+
+The title menu has a fifth item, **Endings**. It opens storyteller totals, then
+story totals, then a paged, spoiler-free list of Finished/Unseen entries (the UI
+uses "Done" for finished entries). Circle opens an item; Cross or Back returns.
+Previous/Next wrap at the ends of each list. Records are shared by the four Notes
+on a card and are written by the next normal Save Notes operation. Replaying an
+ending sets the same bit. Existing saves retain choice marks but begin with no
+ending records; completion cannot be reconstructed from their old choice history.
+
+`tools/endings.py` finds **641 distinct final narration instructions** in scenes
+01-70 by following the original control flow to a scene-return command (FF).
+Different earlier routes sharing the same last narration count as one conclusion;
+this is a reproducible checklist of final narration branches, not a claim about
+an official number of endings or every possible choice combination. The prologue,
+unreachable instructions, and alternate return codes after identical final
+narration are not additional entries. No story text or ending names are revealed.
+The catalog is `work/ui/ending_catalog.en.json`, containing IDs and code positions
+only. IDs are assigned by original scene and instruction position, independent of
+the translation. Do not renumber the END1 catalog in a later build; changing its
+meaning requires migration or a new format tag.
+
+Implementation:
+
+- `build.py` puts `E7 ED` + u16 ID immediately before each final narration's
+  string. Shared strings at different conclusion instructions get separate copies.
+  Every instruction stays in its original position; only string pointers change.
+- Op 4A at 0x8001CC88 calls `end_row`: the original function resolves the string,
+  then its tag selects a pending ending. Untagged narration clears the candidate.
+  Scene initialization at 0x8001C490 clears it too.
+- FF at 0x8001CF74 calls `end_finish`: after the player finishes the last page,
+  set the bit, clear the candidate and return the original FF result unchanged.
+- The original title menu builds five items at 0x80026E60/0x80026E98.
+  Its caller at 0x8002841C invokes `end_menu`, which handles item five and returns
+  the first four results unchanged. Private message request 35, intercepted at
+  0x80026C38, fills the normal menu descriptor. All drawing and controller handling
+  remain the game's routines. The 157 pages have at most eight lines/eight items.
+
+The old 512-byte SEN1 save extension remains at **0x1E00-0x1FFF**:
+
+| File offset | Contents |
+|---|---|
+| 0x1E00 | SEN1 |
+| 0x1E04-0x1F63 | 352 choice bytes, including the existing 2,794 choice bits |
+| 0x1F64 | END1 |
+| 0x1F68-0x1FFF | 152 ending bytes (81 currently used) |
+
+`seen_load` merges choice bits first and merges ending bits only when END1 is
+present. Legacy or unrecognized ending tails cannot mark endings complete.
+`seen_store` still writes exactly the original 512-byte unused tail before the
+same BIOS write calls. Both copies of all four Notes, the file size, memory-card
+block count, checksum handling and write sizes are unchanged. There is no extra
+write, autosave or end-of-game save prompt: unsaved records are lost on reset,
+including a game-over conclusion followed by resetting without saving later.
+
+Hardware boundary: the new code/data share the documented abandoned start-up heap.
+The copied high payload is 93,964 bytes; sprites now occupy
+**0x801E1F10-0x801F384F**, below the 0x801F7000 stack reserve. The EXE reservation
+is 224 sectors to fit the enlarged payload. The largest rebuilt script is
+186,284 bytes (scene 07), below the 189,152-byte limit. Assembly checks enforce
+R3000 load/branch delays and all allocation bounds. Physical hardware and every
+route's use of the expanded heap range have not been tested; long playtesting of
+that RAM range remains necessary. VWF_2X=0 has no checklist, as with choice marks.
+
+Verification: `python tools/check_endings.py` checks all 71 scripts, every ending
+tag, all 2,794 choice tags, unchanged non-string bytecode and coin strings, menu
+destinations and text widths. `--runtime` additionally executes the actual R3000
+hooks through project GDB: all 157 menu descriptors and their formatted counts,
+acknowledgement timing, repeat completion, legacy and new save round trips, and
+unchanged Notes bytes. BIOS write/close entries are intercepted before I/O in
+these tests; this is not a physical-card write test. DuckStation screenshots of
+the title item, category/story lists, pagination and back navigation are under
+`work/emulator/shots/v084/`. Tests used a copied card; the original card's SHA-256
+remained unchanged. The checklist was first published with v0.9.0.
+
+## Remaining work
 
 - Graphics: see work/ui/gfx_survey.md (logo, credits, story props open).
 - SDATA07 (176 KB) has only ~2.2 English letters per Japanese character of room.
