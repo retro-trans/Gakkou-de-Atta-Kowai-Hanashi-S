@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.9.0 release metadata - 2026-11-21
+
+- Fixed Automatic upgrade routing in Retro Trans 0.5.23. Previously the default
+  catalog match for older English images could stop at an older version because
+  upgrade manifests used different edition labels from their original route.
+- Added eight byte-identical upgrade aliases covering the canonical and older
+  edition labels for published v0.8.0, v0.8.1 and v0.8.3. All existing patches,
+  catalog edges, binary identities and the v0.9.0 game image are preserved.
+- Decoded all eight aliases and verified the complete output size and SHA-256;
+  all 12 recognized source labels select a direct v0.9.0 route. Updated release
+  installation notes, manifest, validation report and checksums.
+- Using the published app's Automatic backend and live public downloads, verified
+  full patching from the original BIN and all three English versions. Every
+  output matches the released v0.9.0 SHA-256 and inputs remain unchanged.
+  Select the BIN for this single-track release; direct CUE selection is not
+  supported for this binary patch in Retro Trans 0.5.23.
+
 ## 0.9.0 - 2026-11-20 (public release; includes local 0.8.4 and 0.8.5)
 
 Image SHA-1: e0e3037a00fbe8e1ac46b8de34cab89451aafdde. Only one raw sector

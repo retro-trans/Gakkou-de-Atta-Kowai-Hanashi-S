@@ -35,6 +35,10 @@ Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools), or apply th
 single-track BIN/CUE (Redump "Gakkou de Atta Kowai Hanashi S (Japan)"), or a
 published English v0.8.3, v0.8.1 or v0.8.0 image for an upgrade.
 
+In Retro Trans 0.5.23, refresh the catalog, select that BIN in **Automatic**,
+and choose **Latest**. The release includes compatibility routes for older
+catalog edition labels. Local v0.8.4/v0.8.5 builds are not catalog inputs.
+
 | Your source image | Patch |
 |---|---|
 | Japanese release, SLPS-00404, `.bin` | `Gakkou-Kowai-Hanashi-S-English-v0.9.0.xdelta` |

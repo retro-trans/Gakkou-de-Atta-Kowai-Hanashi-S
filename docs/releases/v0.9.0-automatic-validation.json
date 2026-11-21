@@ -1,0 +1,177 @@
+{
+  "app_version": "0.5.23",
+  "results": [
+    {
+      "input": "original",
+      "automatic_default": {
+        "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+        "target": "0.9.0",
+        "patch": "Gakkou-Kowai-Hanashi-S-English-v0.9.0.xdelta"
+      },
+      "all_matches": [
+        {
+          "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.9.0.xdelta"
+        }
+      ],
+      "public_download": true,
+      "output_bytes": 380047920,
+      "output_sha256": "a14c2dec093691d7ebf2cc4c082dedde981b4c024f7b13e5a269224f53188d7c",
+      "source_unchanged": true
+    },
+    {
+      "input": "0.8.3",
+      "automatic_default": {
+        "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+        "target": "0.9.0",
+        "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic.xdelta"
+      },
+      "all_matches": [
+        {
+          "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, English v0.8.1 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic-Legacy081.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, English v0.8.0 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic-Legacy080.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, published English v0.8.3 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0.xdelta"
+        }
+      ],
+      "public_download": true,
+      "output_bytes": 380047920,
+      "output_sha256": "a14c2dec093691d7ebf2cc4c082dedde981b4c024f7b13e5a269224f53188d7c",
+      "source_unchanged": true
+    },
+    {
+      "input": "0.8.1",
+      "automatic_default": {
+        "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+        "target": "0.9.0",
+        "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic.xdelta"
+      },
+      "all_matches": [
+        {
+          "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, English v0.8.0 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic-Legacy080.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, English v0.8.1 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic-Legacy081.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, published English v0.8.1 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0.xdelta"
+        }
+      ],
+      "public_download": true,
+      "output_bytes": 380047920,
+      "output_sha256": "a14c2dec093691d7ebf2cc4c082dedde981b4c024f7b13e5a269224f53188d7c",
+      "source_unchanged": true
+    },
+    {
+      "input": "0.8.0",
+      "automatic_default": {
+        "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+        "target": "0.9.0",
+        "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0-Automatic.xdelta"
+      },
+      "all_matches": [
+        {
+          "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0-Automatic.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, English v0.8.0 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0-Automatic-Legacy080.xdelta"
+        },
+        {
+          "edition": "Japan, SLPS-00404, published English v0.8.0 image",
+          "target": "0.9.0",
+          "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0.xdelta"
+        }
+      ],
+      "public_download": true,
+      "output_bytes": 380047920,
+      "output_sha256": "a14c2dec093691d7ebf2cc4c082dedde981b4c024f7b13e5a269224f53188d7c",
+      "source_unchanged": true
+    }
+  ],
+  "date": "2026-11-21",
+  "game_version": "0.9.0",
+  "tested_scope": "Published Retro Trans 0.5.23 Python Automatic backend, live public catalog and release downloads; no GUI or gameplay test.",
+  "cue_selection": "Direct CUE selection is unsupported for this single-track binary release. Select the BIN.",
+  "catalog_refresh": "https://github.com/retro-trans/retro-trans-tools/actions/runs/44887953624",
+  "alias_roundtrips": [
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic-Legacy081.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, English v0.8.1 image",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0-Automatic-Legacy080.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.3-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, English v0.8.0 image",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic-Legacy080.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, English v0.8.0 image",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0-Automatic-Legacy081.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.1-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, English v0.8.1 image",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0-Automatic.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, single-track MODE2/2352",
+      "roundtrip_verified": true
+    },
+    {
+      "patch": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0-Automatic-Legacy080.xdelta",
+      "identical_to": "Gakkou-Kowai-Hanashi-S-English-v0.8.0-to-v0.9.0.xdelta",
+      "edition": "Japan, SLPS-00404, English v0.8.0 image",
+      "roundtrip_verified": true
+    }
+  ],
+  "existing_catalog_edges_and_binary_identities_preserved": true
+}
